@@ -91,8 +91,13 @@ def _call(prompt, api_key):
     last = ""
     for rnd in range(3):
         for model in MODELS:
-            r = requests.post(BASE.format(model), json=body, timeout=180,
-                              headers={"x-goog-api-key": api_key, "Content-Type": "application/json"})
+            try:
+                r = requests.post(BASE.format(model), json=body, timeout=120,
+                                  headers={"x-goog-api-key": api_key, "Content-Type": "application/json"})
+            except requests.exceptions.RequestException as ex:  # timeout / connection drop
+                last = f"{model}: {type(ex).__name__}"
+                print(f"[gemini] {last}, trying next model")
+                continue
             if r.status_code in (404, 429, 500, 503):
                 last = f"{model}: HTTP {r.status_code}"
                 print(f"[gemini] {last}, trying next model")
