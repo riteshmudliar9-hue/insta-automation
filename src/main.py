@@ -62,13 +62,16 @@ def cleanup_old_output():
 
 
 def pixabay_photo(query):
-    key = os.environ.get("PIXABAY_API_KEY")
+    key = (os.environ.get("PIXABAY_API_KEY") or "").strip()
     if not key or not query:
         return None
     try:
         r = requests.get("https://pixabay.com/api/", params={
             "key": key, "q": query, "image_type": "photo", "orientation": "horizontal",
             "safesearch": "true", "per_page": 5}, timeout=30)
+        if r.status_code != 200 or not r.text.startswith("{"):
+            print(f"[pixabay] HTTP {r.status_code}: {r.text[:120]} (key length {len(key)})")
+            return None
         hits = r.json().get("hits", [])
         if not hits:
             return None
