@@ -4,8 +4,10 @@ import os
 import time
 import requests
 
-MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
-URL = f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent"
+# Tried in order; if one is retired (404) or overloaded (429/503) the next is used.
+MODELS = [m for m in [os.environ.get("GEMINI_MODEL")] if m] + [
+    "gemini-3.5-flash", "gemini-3.8-flash", "gemini-flash-latest", "gemini-3.1-flash-lite"]
+BASE = "https://generativelanguage.googleapis.com/v1beta/models/{}:generateContent"
 
 SCHEMA = {
     "type": "OBJECT",
@@ -86,18 +88,22 @@ def _call(prompt, api_key):
         "generationConfig": {"responseMimeType": "application/json", "responseSchema": SCHEMA,
                              "temperature": 0.7},
     }
-    for attempt in range(4):
-        r = requests.post(URL, headers={"x-goog-api-key": api_key, "Content-Type": "application/json"},
-                          json=body, timeout=120)
-        if r.status_code in (429, 500, 503):
-            wait = 20 * (attempt + 1)
-            print(f"[gemini] HTTP {r.status_code}, retrying in {wait}s")
-            time.sleep(wait)
-            continue
-        r.raise_for_status()
-        text = r.json()["candidates"][0]["content"]["parts"][0]["text"]
-        return json.loads(text)
-    raise RuntimeError("Gemini unavailable after retries")
+    last = ""
+    for rnd in range(3):
+        for model in MODELS:
+            r = requests.post(BASE.format(model), json=body, timeout=180,
+                              headers={"x-goog-api-key": api_key, "Content-Type": "application/json"})
+            if r.status_code in (404, 429, 500, 503):
+                last = f"{model}: HTTP {r.status_code}"
+                print(f"[gemini] {last}, trying next model")
+                continue
+            r.raise_for_status()
+            parts = r.json()["candidates"][0]["content"]["parts"]
+            text = "".join(p.get("text", "") for p in parts if not p.get("thought"))
+            print(f"[gemini] used {model}")
+            return json.loads(text)
+        time.sleep(30 * (rnd + 1))
+    raise RuntimeError(f"Gemini unavailable after retries ({last})")
 
 
 def generate_post(headlines, history_topics, api_key):
