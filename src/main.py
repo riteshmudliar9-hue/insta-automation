@@ -1,14 +1,16 @@
 """Entry point.
 
-python src/main.py prepare          # 7:00 IST - make carousel, send Telegram preview
-python src/main.py prepare --dry-run # same, but clearly marked and never published
-python src/main.py publish          # 9:00 IST - post if owner replied "yes"
-python src/main.py refresh-token    # writes new IG token to $NEW_TOKEN_FILE
+python src/main.py prepare           # 7:00 AM IST - carousel + reel, Telegram preview
+python src/main.py prepare --dry-run # same, clearly marked, never published
+python src/main.py publish           # 9:00 AM IST - post carousel if approved
+python src/main.py publish-reel      # 6:00 PM IST - post reel if approved
+python src/main.py refresh-token     # writes new IG token to $NEW_TOKEN_FILE
 """
 import csv
 import datetime as dt
 import json
 import os
+import shutil
 import sys
 
 import requests
@@ -24,7 +26,8 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 LOG_CSV = os.path.join(ROOT, "data", "posts.csv")
 PENDING = os.path.join(ROOT, "data", "pending.json")
 IST = dt.timezone(dt.timedelta(hours=5, minutes=30))
-FIELDS = ["date", "topic", "status", "post_link", "sources"]
+FIELDS = ["date", "topic", "status", "post_link", "reel_status", "reel_link", "sources"]
+KEEP_DAYS = 10  # older output folders are deleted to keep the repo/Pages site small
 
 
 def today():
@@ -35,12 +38,12 @@ def read_log():
     if not os.path.exists(LOG_CSV):
         return []
     with open(LOG_CSV, newline="", encoding="utf-8") as f:
-        return list(csv.DictReader(f))
+        return [{k: (v or "") for k, v in r.items() if k in FIELDS} for r in csv.DictReader(f)]
 
 
 def write_log(rows):
     with open(LOG_CSV, "w", newline="", encoding="utf-8") as f:
-        w = csv.DictWriter(f, fieldnames=FIELDS)
+        w = csv.DictWriter(f, fieldnames=FIELDS, restval="")
         w.writeheader()
         w.writerows(rows)
 
@@ -48,6 +51,14 @@ def write_log(rows):
 def recent_topics(days=30):
     cutoff = (dt.datetime.now(IST) - dt.timedelta(days=days)).strftime("%Y-%m-%d")
     return [r["topic"] for r in read_log() if r["date"] >= cutoff]
+
+
+def cleanup_old_output():
+    cutoff = (dt.datetime.now(IST) - dt.timedelta(days=KEEP_DAYS)).strftime("%Y-%m-%d")
+    out = os.path.join(ROOT, "output")
+    for name in os.listdir(out) if os.path.isdir(out) else []:
+        if len(name) == 10 and name[4] == "-" and name < cutoff:
+            shutil.rmtree(os.path.join(out, name), ignore_errors=True)
 
 
 def pixabay_photo(query):
@@ -81,56 +92,115 @@ def prepare(dry_run=False):
     folder = os.path.join(ROOT, "output", "dry-run" if dry_run else date)
     paths = render.render_carousel(post, folder, pixabay_photo(post.get("image_query")))
 
+    reel_path = None
+    try:
+        import reel
+        reel_path = reel.build_reel(post, paths, os.path.join(folder, "reel.mp4"))
+    except Exception as ex:  # a reel problem must never block the carousel
+        print("[reel] failed:", ex)
+
     offset = telegram.latest_update_id()
     sent_at = int(dt.datetime.now().timestamp())
     tag = "DRY RUN (will NOT be posted)" if dry_run else f"Preview for {date}"
     telegram.send_text(f"{tag}\nTopic: {post['topic']}")
     telegram.send_album(paths)
+    if reel_path:
+        telegram.send_video(reel_path, "Reel preview")
+    else:
+        telegram.send_text("(Reel could not be made today - carousel only.)")
     src = "\n".join(f"- {s['source']}: {s['title']}" for s in post.get("sources", []))
     telegram.send_text(f"CAPTION:\n\n{full_caption(post)}\n\nSources used:\n{src or '-'}")
     if dry_run:
         telegram.send_text("Dry run complete. Nothing will be posted.")
         return
 
+    cleanup_old_output()
     with open(PENDING, "w", encoding="utf-8") as f:
         json.dump({"date": date, "post": post, "files": [os.path.relpath(p, ROOT) for p in paths],
-                   "tg_offset": offset, "sent_at": sent_at}, f, indent=2, ensure_ascii=False)
+                   "reel": os.path.relpath(reel_path, ROOT) if reel_path else None,
+                   "tg_offset": offset, "sent_at": sent_at, "decision": None},
+                  f, indent=2, ensure_ascii=False)
     rows = [r for r in read_log() if r["date"] != date]
-    rows.append({"date": date, "topic": post["topic"], "status": "pending", "post_link": "",
+    rows.append({"date": date, "topic": post["topic"], "status": "pending",
+                 "reel_status": "pending" if reel_path else "none",
                  "sources": " | ".join(s["link"] for s in post.get("sources", []))})
     write_log(rows)
-    telegram.send_text('Reply "yes" before 9:00 AM to post this. No reply = skip.')
+    telegram.send_text(
+        'Reply before 9:00 AM:\n'
+        '"yes" = post carousel at 9 AM + reel at 6 PM\n'
+        '"carousel" = carousel only\n"reel" = reel only (6 PM)\n'
+        'No reply = skip today.')
+
+
+def _load_today():
+    if not os.path.exists(PENDING):
+        print("Nothing pending.")
+        return None, None, None
+    with open(PENDING, encoding="utf-8") as f:
+        pend = json.load(f)
+    if pend["date"] != today():
+        print(f"Pending post is from {pend['date']}, not today; skipping.")
+        return None, None, None
+    rows = read_log()
+    row = next((r for r in rows if r["date"] == pend["date"]), None)
+    if row is None:
+        row = {"date": pend["date"], "topic": pend["post"]["topic"]}
+        rows.append(row)
+    return pend, rows, row
+
+
+def _decision(pend):
+    """Use the stored decision, or read Telegram (replies after 9 AM still count for the reel)."""
+    d = telegram.decision_since(pend["tg_offset"], pend["sent_at"]) or pend.get("decision")
+    pend["decision"] = d
+    with open(PENDING, "w", encoding="utf-8") as f:
+        json.dump(pend, f, indent=2, ensure_ascii=False)
+    return d
+
+
+def _pages_url(rel_path):
+    owner, repo = os.environ["GITHUB_REPOSITORY"].split("/")
+    return f"https://{owner.lower()}.github.io/{repo}/{rel_path}"
 
 
 def publish():
-    if not os.path.exists(PENDING):
-        print("Nothing pending.")
+    pend, rows, row = _load_today()
+    if not pend or row.get("status") not in ("pending", "", None):
         return
-    with open(PENDING, encoding="utf-8") as f:
-        pend = json.load(f)
-    date = pend["date"]
-    rows = read_log()
-    row = next((r for r in rows if r["date"] == date), None)
-    if date != today():
-        print(f"Pending post is from {date}, not today; skipping.")
-        return
-    if row and row["status"] != "pending":
-        print("Already handled today.")
-        return
-    if not telegram.approved_since(pend["tg_offset"], pend["sent_at"]):
-        if row:
-            row["status"] = "skipped"
+    d = _decision(pend)
+    if d not in ("both", "carousel"):
+        row["status"] = "skipped"
         write_log(rows)
-        telegram.send_text(f"No 'yes' received - skipped today's post ({pend['post']['topic']}).")
+        msg = "Carousel skipped (no 'yes' received)." if d is None else f"Carousel skipped (you said '{d}')."
+        telegram.send_text(msg)
         return
     repo = os.environ["GITHUB_REPOSITORY"]
     branch = os.environ.get("GITHUB_REF_NAME", "main")
     urls = [f"https://raw.githubusercontent.com/{repo}/{branch}/{p}" for p in pend["files"]]
-    media_id, link = instagram.publish_carousel(urls, full_caption(pend["post"]))
-    if row:
-        row["status"], row["post_link"] = "posted", link
+    _, link = instagram.publish_carousel(urls, full_caption(pend["post"]))
+    row["status"], row["post_link"] = "posted", link
     write_log(rows)
-    telegram.send_text(f"Posted! {link}")
+    telegram.send_text(f"Carousel posted! {link}")
+
+
+def publish_reel():
+    pend, rows, row = _load_today()
+    if not pend or not pend.get("reel") or row.get("reel_status") not in ("pending", "", None):
+        return
+    d = _decision(pend)
+    if d not in ("both", "reel"):
+        row["reel_status"] = "skipped"
+        write_log(rows)
+        telegram.send_text("Reel skipped today.")
+        return
+    url = _pages_url(pend["reel"])
+    r = requests.head(url, timeout=30, allow_redirects=True)
+    if r.status_code != 200:
+        raise RuntimeError(f"Reel video not reachable on GitHub Pages yet ({r.status_code}): {url}")
+    _, link = instagram.publish_reel(url, full_caption(pend["post"]))
+    row["reel_status"], row["reel_link"] = "posted", link
+    write_log(rows)
+    telegram.send_text(f"Reel posted! {link}")
 
 
 def refresh_token():
@@ -147,6 +217,8 @@ if __name__ == "__main__":
         prepare(dry_run="--dry-run" in sys.argv)
     elif cmd == "publish":
         publish()
+    elif cmd == "publish-reel":
+        publish_reel()
     elif cmd == "refresh-token":
         refresh_token()
     else:
