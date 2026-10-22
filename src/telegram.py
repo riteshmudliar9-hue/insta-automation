@@ -7,7 +7,10 @@ TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "")
 CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID", "")
 API = f"https://api.telegram.org/bot{TOKEN}"
 
-YES_WORDS = {"yes", "y", "yes.", "yes!", "ok post", "post", "haan", "ha", "han"}
+BOTH = {"yes", "y", "yes.", "yes!", "both", "ok", "post", "haan", "ha", "han"}
+CAROUSEL_ONLY = {"carousel", "c", "carousel only"}
+REEL_ONLY = {"reel", "r", "reel only"}
+NO = {"no", "n", "skip", "nahi"}
 
 
 def send_text(text):
@@ -36,6 +39,14 @@ def send_album(paths):
                 f.close()
 
 
+def send_video(path, caption=""):
+    with open(path, "rb") as f:
+        r = requests.post(f"{API}/sendVideo", data={"chat_id": CHAT_ID, "caption": caption[:1024],
+                                                     "supports_streaming": "true"},
+                          files={"video": f}, timeout=300)
+    r.raise_for_status()
+
+
 def latest_update_id():
     r = requests.get(f"{API}/getUpdates", params={"timeout": 0}, timeout=30)
     r.raise_for_status()
@@ -43,8 +54,8 @@ def latest_update_id():
     return res[-1]["update_id"] if res else 0
 
 
-def approved_since(offset, since_ts):
-    """True if the owner replied yes after the preview was sent."""
+def decision_since(offset, since_ts):
+    """Owner's latest reply after the preview: 'both', 'carousel', 'reel', 'no' or None."""
     r = requests.get(f"{API}/getUpdates", params={"offset": offset + 1, "timeout": 0}, timeout=30)
     r.raise_for_status()
     decision = None
@@ -53,8 +64,12 @@ def approved_since(offset, since_ts):
         if str(m.get("chat", {}).get("id")) != str(CHAT_ID) or m.get("date", 0) < since_ts:
             continue
         text = (m.get("text") or "").strip().lower()
-        if text in YES_WORDS:
-            decision = True
-        elif text in {"no", "n", "skip", "nahi"}:
-            decision = False
-    return bool(decision)
+        if text in BOTH:
+            decision = "both"
+        elif text in CAROUSEL_ONLY:
+            decision = "carousel"
+        elif text in REEL_ONLY:
+            decision = "reel"
+        elif text in NO:
+            decision = "no"
+    return decision
