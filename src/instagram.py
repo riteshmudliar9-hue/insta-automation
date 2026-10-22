@@ -52,6 +52,17 @@ def publish_carousel(image_urls, caption):
     return media_id, link
 
 
+def publish_reel(video_url, caption):
+    c = _post(f"{IG_USER_ID}/media", {"media_type": "REELS", "video_url": video_url,
+                                       "caption": caption, "share_to_feed": "true"})
+    _wait_ready(c["id"], tries=72)  # video processing can take a few minutes
+    pub = _post(f"{IG_USER_ID}/media_publish", {"creation_id": c["id"]})
+    media_id = pub["id"]
+    link = requests.get(f"{GRAPH}/{media_id}", headers=_h(),
+                        params={"fields": "permalink"}, timeout=30).json().get("permalink", "")
+    return media_id, link
+
+
 def refresh_token():
     """Extends a long-lived token by 60 days (token must be >24h old)."""
     r = requests.get("https://graph.instagram.com/refresh_access_token",
