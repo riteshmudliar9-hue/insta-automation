@@ -1,0 +1,37 @@
+name: 3 - Refresh Instagram token (weekly)
+on:
+  schedule:
+    - cron: "15 20 * * 0"  # every Sunday 01:45 IST
+  workflow_dispatch:
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    env:
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+      IG_USER_ID: ${{ secrets.IG_USER_ID }}
+      GH_TOKEN: ${{ secrets.GH_PAT }}
+      NEW_TOKEN_FILE: new_token.txt
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - run: python src/main.py refresh-token
+      - name: Save new token into GitHub Secret IG_ACCESS_TOKEN
+        run: |
+          echo "::add-mask::$(cat new_token.txt)"
+          gh secret set IG_ACCESS_TOKEN --repo "${{ github.repository }}" < new_token.txt
+          rm new_token.txt
+          curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" -d chat_id="${TELEGRAM_CHAT_ID}" -d text="Instagram token refreshed for another 60 days."
+      - name: Tell me on Telegram if this failed
+        if: failure()
+        run: |
+          curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+            -d chat_id="${TELEGRAM_CHAT_ID}" \
+            -d text="Workflow \"${{ github.workflow }}\" FAILED. Logs: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
