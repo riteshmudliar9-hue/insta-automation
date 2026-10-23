@@ -92,7 +92,7 @@ def chunks(text, max_words=5, max_chars=30):
             out.append(" ".join(cur))
             cur = []
         cur.append(w)
-        if w.endswith((".", "?", "!", ",")) and len(cur) >= 2:
+        if w.endswith((".", "?", "!")) or (w.endswith(",") and len(cur) >= 2):
             out.append(" ".join(cur))
             cur = []
     if cur:
@@ -124,18 +124,19 @@ def timed_subs(narration, audio_dur):
 
 # ---------------- scene visuals ----------------
 def base_canvas(on_screen):
-    img = Image.new("RGB", (RW, RH), D.INK_DARK)
+    img = Image.new("RGB", (RW, RH), D.CREAM)
     d = ImageDraw.Draw(img)
     D.mark(d, PX, 120, 44)
-    d.text((PX + 60, 126), config.HANDLE, font=D.font("SemiBold", 30), fill=(170, 180, 200))
-    y = D.text_block(d, (PX, 205), on_screen or "", "Bold", RW - 2 * PX, 180, 70, 48, D.WHITE, spacing=1.12)
+    d.text((PX + 60, 126), config.HANDLE, font=D.font("SemiBold", 30), fill=D.MUTED)
+    y = D.text_block(d, (PX, 205), on_screen or "", "Bold", RW - 2 * PX, 180, 70, 48, D.INK, spacing=1.12)
     if on_screen:
         d.rectangle((PX, y + 14, PX + 90, y + 22), fill=D.ACCENT)
     return img
 
 
 def card_panel():
-    img = Image.new("RGB", (PW, PH), D.CREAM)
+    img = Image.new("RGB", (PW, PH), D.CARD)
+    ImageDraw.Draw(img).rounded_rectangle((0, 0, PW - 1, PH - 1), radius=34, outline=D.LINE, width=3)
     return img
 
 
@@ -159,7 +160,7 @@ def panel_list_states(title, items, numbered):
         y0 = max(40, (PH - (th + 30 + per * len(items))) // 2)
         y = D.text_block(d, (50, y0), title or "", "Bold", PW - 100, 140, 48, 34, D.INK) + 30 if title else y0
         for i, it in enumerate(items[:k], 1):
-            d.rounded_rectangle((40, y, PW - 40, y + per - 16), radius=18, fill=D.CARD, outline=D.LINE, width=2)
+            d.rounded_rectangle((40, y, PW - 40, y + per - 16), radius=18, fill=D.CREAM, outline=D.LINE, width=2)
             cy = y + (per - 16) / 2
             if numbered:
                 d.ellipse((62, cy - 28, 118, cy + 28), fill=D.ACCENT)
@@ -186,14 +187,14 @@ def panel_compare_states(left, right, rows):
         f = D.font("Bold", 30)
         per = min(170, (PH - 160) // max(1, len(rows)))
         top = max(40, (PH - (80 + per * len(rows))) // 2)
-        D.cross_icon(d, 40, top, 40)
-        d.text((92, top + 4), (left or "Manual").upper(), font=f, fill=D.MUTED)
-        D.check_icon(d, 60 + colw, top, 40)
-        d.text((112 + colw, top + 4), (right or "Automated").upper(), font=f, fill=D.INK)
+        for x, lab, bg, fg in ((40, left or "Before", (226, 222, 212), D.INK), (60 + colw, right or "After", D.INK, D.WHITE)):
+            d.rounded_rectangle((x, top - 4, x + colw, top + 52), radius=26, fill=bg)
+            t = lab.upper()
+            d.text((x + (colw - d.textlength(t, font=f)) / 2, top + 6), t, font=f, fill=fg)
         y = top + 80
         for r in rows[:k]:
-            for x, txt, fill, bg in ((40, r.get("left", ""), D.MUTED, (236, 232, 224)),
-                                     (60 + colw, r.get("right", ""), D.INK, D.CARD)):
+            for x, txt, fill, bg in ((40, r.get("left", ""), D.INK, D.CREAM),
+                                     (60 + colw, r.get("right", ""), D.INK, D.CREAM)):
                 d.rounded_rectangle((x, y, x + colw, y + per - 16), radius=18, fill=bg, outline=D.LINE, width=2)
                 D.text_block(d, (x + 22, y + 20), txt, "Medium", colw - 44, per - 56, 36, 24, fill, spacing=1.2)
             y += per
@@ -214,7 +215,8 @@ def panel_diagram_states(steps):
         for i, s in enumerate(steps[:k]):
             fill = D.INK if i == n - 1 else D.CARD
             col = D.WHITE if i == n - 1 else D.INK
-            d.rounded_rectangle((90, y, PW - 90, y + bh), radius=24, fill=fill, outline=D.INK, width=3)
+            d.rounded_rectangle((90, y, PW - 90, y + bh), radius=24, fill=fill if i == n - 1 else D.CREAM, outline=D.INK,
+                                width=3)
             D.text_block(d, (120, y + (bh - 50) // 2 - 6), s, "Bold", PW - 240, bh - 30, 44, 28, col,
                          spacing=1.15, align="center")
             if i < n - 1 and i < k - 1:
@@ -255,7 +257,7 @@ class Scene:
             if shot is not None:
                 self.kind, self.tall = "scroll", screenshot_card(shot, sc.get("url", ""))
         elif vt == "photo":
-            img, ai = visuals.photo(sc.get("query", ""))
+            img, ai = visuals.library(sc.get("query", ""))   # approved library only; no random stock photos
             if img is not None:
                 self.kind, self.photo, self.ai_visual = "kenburns", D.cover_crop(img, int(PW * 1.1), int(PH * 1.1)), ai
         elif vt in ("checklist", "diagram", "compare") or sc.get("steps") or sc.get("items") or sc.get("rows"):
