@@ -33,19 +33,21 @@ jobs:
           ffmpeg -loglevel error -y -i /tmp/test.mp3 -ar 16000 -ac 1 /tmp/test.wav
       - name: Render talking head
         run: |
-          IMG=library/presenter/presenter.jpg
-          [ -f "$IMG" ] || IMG=.presenter/SadTalker/examples/source_image/art_0.png
+          SRC=$(ls library/presenter/*.png library/presenter/*.jpg 2>/dev/null | head -1)
+          [ -n "$SRC" ] || SRC=.presenter/SadTalker/examples/source_image/art_0.png
+          ffmpeg -loglevel error -y -i "$SRC" -vf scale=768:-2 /tmp/presenter_in.png
+          IMG=/tmp/presenter_in.png
           cd .presenter/SadTalker
           . ../venv/bin/activate
           ENH=""; [ "${{ github.event.inputs.enhancer }}" = "gfpgan" ] && ENH="--enhancer gfpgan"
           START=$(date +%s)
-          python inference.py --driven_audio /tmp/test.wav --source_image "$GITHUB_WORKSPACE/$IMG" \
+          python inference.py --driven_audio /tmp/test.wav --source_image "$IMG" \
             --result_dir /tmp/st --still --preprocess full --size ${{ github.event.inputs.size }} --cpu $ENH 2>&1 | tail -20
           END=$(date +%s)
           mkdir -p $GITHUB_WORKSPACE/output/presenter-test
           OUT=$(ls -t /tmp/st/*.mp4 | head -1)
           DUR=$(ffprobe -v error -show_entries format=duration -of csv=p=0 "$OUT")
-          echo "size=${{ github.event.inputs.size }} enhancer=${{ github.event.inputs.enhancer }} image=$IMG render_seconds=$((END-START)) video_seconds=$DUR cores=$(nproc)" | tee -a $GITHUB_WORKSPACE/output/presenter-test/timing.txt
+          echo "size=${{ github.event.inputs.size }} enhancer=${{ github.event.inputs.enhancer }} image=$SRC render_seconds=$((END-START)) video_seconds=$DUR cores=$(nproc)" | tee -a $GITHUB_WORKSPACE/output/presenter-test/timing.txt
           cp "$OUT" $GITHUB_WORKSPACE/output/presenter-test/test_${{ github.event.inputs.size }}_${{ github.event.inputs.enhancer }}.mp4
       - name: Save results
         if: always()
