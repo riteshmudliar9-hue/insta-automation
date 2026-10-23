@@ -28,7 +28,10 @@ def chosen_hook(piece):
 
 
 def final_caption(piece, ai_visuals):
+    import re
     cap = piece["caption"].strip()
+    # the writer sometimes puts hashtags inside the caption too; keep only the clean set at the end
+    cap = re.sub(r"(\s*#[A-Za-z0-9_]+)+\s*$", "", cap).strip()
     if ai_visuals:
         cap += "\n\n(Some visuals in this post are AI-generated.)"
     return cap + "\n\n" + " ".join(qc.clean_tags(piece.get("hashtags", [])))
