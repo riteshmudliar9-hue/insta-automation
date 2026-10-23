@@ -1,9 +1,19 @@
-name: 0 - Dry run (preview only, never posts)
+name: 0 - Pilot batch (never posts)
 on:
   workflow_dispatch:
+    inputs:
+      n:
+        description: "How many reels AND carousels"
+        default: "5"
+permissions:
+  contents: write
+concurrency:
+  group: insta-bot
+  cancel-in-progress: false
 jobs:
-  dry-run:
+  pilot:
     runs-on: ubuntu-latest
+    timeout-minutes: 330
     env:
       GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
@@ -11,19 +21,28 @@ jobs:
       TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
       IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
       IG_USER_ID: ${{ secrets.IG_USER_ID }}
+      PYTHONUNBUFFERED: "1"
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
           cache: pip
-      - run: pip install -r requirements.txt
-      - run: python src/main.py prepare --dry-run
-      - uses: actions/upload-artifact@v4
+      - name: Install
+        run: |
+          (sudo apt-get update -qq && sudo apt-get install -y -qq fonts-inter) >/dev/null 2>&1 || echo "fonts-inter not available; using Poppins"
+          pip install -q -r requirements.txt
+          python -m playwright install --with-deps chromium >/dev/null
+      - run: python src/main.py pilot ${{ github.event.inputs.n }}
+      - name: Save results to repo
         if: always()
-        with:
-          name: dry-run-carousel
-          path: output/dry-run/
+        run: |
+          git config user.name "insta-bot"
+          git config user.email "insta-bot@users.noreply.github.com"
+          git add -A output data
+          git diff --cached --quiet && exit 0
+          git commit -q -m "bot: ${{ github.workflow }} $(date -u +%FT%H%M)"
+          for i in 1 2 3; do git pull -q --rebase && git push -q && break; sleep 5; done
       - name: Tell me on Telegram if this failed
         if: failure()
         run: |
