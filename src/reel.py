@@ -244,11 +244,13 @@ def screenshot_card(shot, url):
 class Scene:
     def __init__(self, sc, duration, subs):
         self.sc, self.dur, self.subs = sc, duration, subs
-        self.base = base_canvas(sc.get("on_screen", ""))
+        head = (sc.get("headline") or "").strip().lower()
+        same = sc.get("visual_type") == "text" and head and head == (sc.get("on_screen") or "").strip().lower()
+        self.base = base_canvas("" if same else sc.get("on_screen", ""))
         self.kind, self.states, self.tall, self.photo = "text", None, None, None
         self.ai_visual = False
         vt = sc.get("visual_type", "text")
-        if vt == "screenshot":
+        if vt == "screenshot" and not config.is_news(sc.get("url", "")):
             shot = visuals.screenshot(sc.get("url", ""))
             if shot is not None:
                 self.kind, self.tall = "scroll", screenshot_card(shot, sc.get("url", ""))
