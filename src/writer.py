@@ -34,6 +34,10 @@ COMMON = """{rules}
 
 {formats}
 
+ORIGINALITY: avoid the obvious take. Find the specific, slightly surprising detail in the source, an honest
+limitation, or a concrete Indian small-business scenario (clearly framed as an example, e.g. "say you run a
+tiles shop in Nagpur with 3 staff"). Specific beats general every time.
+
 IDEA: {idea}
 ANGLE: {angle}
 AUDIENCE PROBLEM: {problem}
@@ -51,21 +55,26 @@ TASK: Write ONE Instagram Reel (9:16) in the chosen format.
 1. Write 3 genuinely different opening hooks (≤14 words each, spoken in the first 3 seconds): e.g. a problem,
    a surprising fact from the source, a strong opinion, a result. Pick the strongest (chosen_hook = index) and say why.
 2. Write the scenes. Scene 1 narration = the chosen hook exactly. Each later scene must add new information,
-   a demonstration, or move the story; cut anything redundant. 4-8 scenes. Narration 6-30 words per scene,
-   written to be SPOKEN (contractions, natural rhythm). Length should fit the idea (about 20-50 seconds total).
+   a demonstration, or move the story; cut anything redundant. 4-7 scenes. Narration 6-25 words per scene,
+   TOTAL narration 55-110 words (about 22-45 seconds). Written to be SPOKEN (contractions, natural rhythm).
 3. on_screen: ≤6 words that reinforce (not repeat) the narration.
-4. Visual per scene: prefer 'screenshot' (url MUST be one of the SOURCE URLs listed above) for the real product/page,
-   'diagram' for workflows (2-4 steps), 'compare' for manual-vs-auto, 'checklist', 'text' for a punchline.
-   Use 'photo' (query) only for a real-world setting. Never ask for fake interfaces or people.
+4. Visual per scene: 'diagram' for workflows (2-4 short labels), 'compare' for manual-vs-auto (3 rows),
+   'checklist' (3-5 items), 'text' (headline = a short punchline DIFFERENT from on_screen).
+   'screenshot' ONLY if a SOURCE URL is the product's own website (never a news article, blog post or Reddit page).
+   'photo' (query) only for a real-world setting like "shop counter India". Never fake interfaces or people.
+   Fill every field the chosen visual needs (steps / rows / items / headline).
 5. Last scene: the practical takeaway or next step. No "follow for more", no "like and share".
 6. Caption + 3-5 hashtags + 5 search keywords. List every factual claim with its source id."""
 
 CAROUSEL_TASK = """
 TASK: Write ONE saveable Instagram carousel (1080x1350) in the chosen format.
 1. Write 3 different cover hooks (≤10 words): specific benefit or question. Pick the best (chosen_hook) and say why.
-2. Slides: 5-8 total. Slide 1 kind=cover with title = chosen hook and a subtitle that makes the promise concrete.
-   Use slide kinds that fit the content (steps, checklist, compare, mythfact, quote, point). Every slide must
-   earn its place: no filler like "why this matters". Short lines, phone-readable.
+2. Slides: 5-7 total. Slide 1 kind=cover with title = chosen hook and a subtitle that makes the promise concrete.
+   Use slide kinds that fit the content. REQUIRED FIELDS (never leave them empty):
+   cover: title+subtitle · point: title+body (15-35 words) · steps: title+3-5 items · checklist: title+4-6 items ·
+   compare: title+left_label+right_label+3-4 rows · mythfact: myth+fact · quote: quote (exact words from a source)
+   +attribution · summary: title+3-4 items.
+   Every slide must earn its place: no filler or title-only slides. Short lines, phone-readable.
    The LAST slide must be useful on its own (kind=summary or checklist), never a follow request.
 3. Caption + 3-5 hashtags + 5 search keywords. List every factual claim with its source id."""
 
