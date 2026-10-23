@@ -41,6 +41,8 @@ TASK: Propose 14 distinct content ideas. Each must be grounded in one or more so
 Prefer: real audience questions, practical tools the audience can use this week, honest comparisons,
 mistakes and limits, and evergreen how-tos. Avoid: pure funding/industry gossip, vague "AI will change everything",
 self-promotional Reddit posts unless the tool is genuinely useful and free/cheap, anything needing facts not in sources.
+Novelty matters: skip the take every AI account already posted ("ChatGPT can write emails"). Look for the
+surprising detail, the honest limitation, the India-specific twist, or the question nobody answered well.
 Give the idea a specific ANGLE (the fresh take) and the AUDIENCE PROBLEM it solves, in one sentence each.
 Choose the best format from the library and the medium (reel, carousel or both).
 Score 1-10 honestly: relevance (to Indian SMB owners), novelty (vs history and common content), hook_potential,
