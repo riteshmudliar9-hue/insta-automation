@@ -1,0 +1,171 @@
+{
+ "kind": "carousel",
+ "idea": {
+  "idea": "The Accidental Data Leak: Why AI Share Links Expose Small Business Margins",
+  "angle": "Security researchers recently found business revenue reviews leaked via public AI chat share links—here is how Indian contractors accidentally leak supplier margins and quotes.",
+  "audience_problem": "Small business owners unknowingly generate public shareable links to AI chats containing sensitive margin data, client quotes, or tax numbers.",
+  "format": "checklist",
+  "medium": "carousel",
+  "source_ids": [
+   12
+  ],
+  "evergreen": true,
+  "keywords": [
+   "data privacy",
+   "AI security",
+   "share link risks",
+   "business confidentiality",
+   "SME security"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 8,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 10,
+   "evidence": 9
+  },
+  "total": 8.83
+ },
+ "piece": {
+  "hooks": [
+   "Are your AI chat links leaking your business secrets?",
+   "Stop sharing AI chats containing your private profit margins.",
+   "Is your AI tool making your business data public?"
+  ],
+  "chosen_hook": 1,
+  "hook_reason": "It highlights the specific, dangerous action (sharing chat links) that directly affects the business owner's bottom line and privacy.",
+  "slides": [
+   {
+    "kind": "cover",
+    "title": "Stop sharing AI chats containing your private profit margins."
+   },
+   {
+    "kind": "point",
+    "title": "The Hidden Risk in AI Links"
+   },
+   {
+    "kind": "point",
+    "title": "How Leaks Happen"
+   },
+   {
+    "kind": "mythfact",
+    "myth": "Public AI chat links are private by default.",
+    "quote": "Researchers said they had been able to find Muse pages like a marketing company’s internal revenue review.",
+    "title": "The Reality of Sharing"
+   },
+   {
+    "kind": "checklist",
+    "items": [
+     "Audit chats before creating any shareable link.",
+     "Remove specific tax numbers or invoice values.",
+     "Delete client names from AI conversation threads.",
+     "Check if your AI app uses public DNS naming.",
+     "Assume any public link could be indexed."
+    ],
+    "title": "Safe Sharing Checklist"
+   },
+   {
+    "kind": "summary",
+    "items": [
+     "AI share links can expose internal business reviews.",
+     "Meta fixed the Muse link issue but risks remain.",
+     "Review conversation content before hitting share.",
+     "When in doubt, copy-paste text instead of linking."
+    ],
+    "title": "Key Takeaways"
+   }
+  ],
+  "caption": "When you generate a link to share an AI chat, you might be exposing more than you think. Researchers recently found that shared AI conversation links—like those from Meta’s Muse—could be easily discovered, exposing sensitive internal revenue reviews and loan documents. Before you share a chat with a consultant or partner, scrub it. Delete specific margin data, client names, and tax numbers. Treat every generated URL as a public document. If your business uses AI for planning, use the 'copy-paste' method for specific insights instead of creating a full-thread share link. Have you ever checked the privacy settings on the AI tools your team uses daily? #BusinessSecurity #AISafety #SmallBusinessIndia #DataPrivacy #OfficeAutomation",
+  "hashtags": [
+   "#BusinessSecurity",
+   "#AISafety",
+   "#SmallBusinessIndia",
+   "#DataPrivacy",
+   "#OfficeAutomation"
+  ],
+  "keywords": [
+   "AI data security",
+   "business margin protection",
+   "small business tech tips",
+   "AI chat privacy",
+   "data leak prevention"
+  ],
+  "claims": [
+   {
+    "claim": "Researchers found that shared Muse AI conversation links were easy to find and could include internal revenue reviews.",
+    "source_id": 12
+   },
+   {
+    "claim": "Meta re-enabled Muse sharing after fixing an issue where shared links were named after conversation titles and written into public DNS.",
+    "source_id": 12
+   },
+   {
+    "claim": "Meta updated URLs for shared artifacts after the fix, meaning old links now prompt users to get a new one.",
+    "source_id": 12
+   }
+  ]
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 4,
+   "pacing": 9,
+   "brand_consistency": 8,
+   "publish_readiness": 5
+  },
+  "claims": [
+   {
+    "claim": "Researchers found that shared Muse AI conversation links were easy to find and could include internal revenue reviews.",
+    "supported": true
+   },
+   {
+    "claim": "Meta re-enabled Muse sharing after fixing an issue where shared links were named after conversation titles and written into public DNS.",
+    "supported": true
+   },
+   {
+    "claim": "Meta updated URLs for shared artifacts after the fix, meaning old links now prompt users to get a new one.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Slide 1: The screenshot of The Verge is poorly cropped, includes an irrelevant PetSmart ad, and looks unprofessional.",
+   "Slide 2 & 3: These slides are empty placeholders with just a title; they add no value and waste the user's time.",
+   "Slide 4: The 'Myth' and 'Fact' labels are visually disconnected from the content below them."
+  ],
+  "issues": [
+   "The carousel is too thin; slides 2 and 3 are filler content that should be combined or removed.",
+   "The visual design of the cover slide is cluttered by the inclusion of a low-quality web screenshot.",
+   "The advice 'Check if your AI app uses public DNS naming' is not actionable for a typical small business owner; they wouldn't know how to do this."
+  ],
+  "fix_instructions": "Remove slides 2 and 3. Merge the content into a more robust 4-slide carousel. Replace the screenshot on the cover with a clean, custom graphic or a more relevant, cropped visual that doesn't include random advertisements. Rewrite the 'Check if your AI app uses public DNS naming' point to something practical, like 'Check your AI tool's privacy settings for a 'Public Link' toggle.' Ensure the 'Myth/Fact' slide has a clearer visual hierarchy."
+ },
+ "rules": [],
+ "reasons": [
+  "originality 7/10 (<8)",
+  "visual_integrity 4/10 (<8)",
+  "publish_readiness 5/10 (<7)"
+ ],
+ "meta": {
+  "ai_visuals": false,
+  "slides": 6
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1256/C2-pilot-20261023-1256/try3",
+ "attempt": 3,
+ "approved": false,
+ "hook": "Stop sharing AI chats containing your private profit margins.",
+ "log": [
+  "attempt 1: fail {'hook': 7, 'originality': 6, 'practical_value': 6, 'natural_language': 7, 'accuracy': 8, 'narrative': 5, 'visual_integrity': 4, 'pacing': 4, 'brand_consistency': 8, 'publish_readiness': 3} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 6/10 (<8)', 'natural_language 7/10 (<8)']",
+  "attempt 2: fail {'hook': 8, 'originality': 7, 'practical_value': 6, 'natural_language': 8, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 3, 'pacing': 7, 'brand_consistency': 7, 'publish_readiness': 2} ['originality 7/10 (<8)', 'practical_value 6/10 (<8)', 'narrative 7/10 (<8)', 'visual_integrity 3/10 (<8)']",
+  "attempt 3: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 4, 'pacing': 9, 'brand_consistency': 8, 'publish_readiness': 5} ['originality 7/10 (<8)', 'visual_integrity 4/10 (<8)', 'publish_readiness 5/10 (<7)']"
+ ],
+ "id": "C2-pilot-20261023-1256",
+ "caption_final": "When you generate a link to share an AI chat, you might be exposing more than you think. Researchers recently found that shared AI conversation links—like those from Meta’s Muse—could be easily discovered, exposing sensitive internal revenue reviews and loan documents. Before you share a chat with a consultant or partner, scrub it. Delete specific margin data, client names, and tax numbers. Treat every generated URL as a public document. If your business uses AI for planning, use the 'copy-paste' method for specific insights instead of creating a full-thread share link. Have you ever checked the privacy settings on the AI tools your team uses daily? #BusinessSecurity #AISafety #SmallBusinessIndia #DataPrivacy #OfficeAutomation\n\n#BusinessSecurity #AISafety #SmallBusinessIndia #DataPrivacy #OfficeAutomation"
+}

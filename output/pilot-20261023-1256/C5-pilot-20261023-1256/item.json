@@ -1,0 +1,188 @@
+{
+ "kind": "carousel",
+ "idea": {
+  "idea": "Webflow vs. WordPress: Which Saves Money for Local Contractors in 2026?",
+  "angle": "WordPress security plugin updates and maintenance charges silently drain ₹15k–₹30k yearly from contractors; modern visual builders eliminate maintenance overhead.",
+  "audience_problem": "Small contractors build cheap WordPress sites that frequently crash, get infected with malware, or require continuous paid developer maintenance.",
+  "format": "manual_vs_auto",
+  "medium": "carousel",
+  "source_ids": [
+   65,
+   68
+  ],
+  "evergreen": true,
+  "keywords": [
+   "WordPress vs Webflow",
+   "website maintenance",
+   "contractor websites",
+   "small business cost",
+   "no-code web"
+  ],
+  "scores": {
+   "relevance": 8,
+   "novelty": 7,
+   "hook_potential": 7,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 10,
+   "evidence": 8
+  },
+  "total": 8.06
+ },
+ "piece": {
+  "hooks": [
+   "Stop paying developers to fix your broken WordPress site",
+   "Why local business websites crash after every WordPress update",
+   "Is your business website costing you hidden maintenance fees?"
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "It addresses a specific pain point (cost and reliability) with a direct, practical hook that appeals to the frustration of small business owners.",
+  "slides": [
+   {
+    "kind": "cover",
+    "title": "Stop paying developers to fix your broken WordPress site"
+   },
+   {
+    "kind": "point",
+    "title": "The Hidden Costs of WordPress Maintenance"
+   },
+   {
+    "kind": "compare",
+    "left_label": "WordPress",
+    "right_label": "Webflow",
+    "rows": [
+     {
+      "left": "You handle security updates",
+      "right": "Platform manages all security"
+     },
+     {
+      "left": "Plugins break site often",
+      "right": "Integrated all-in-one platform"
+     },
+     {
+      "left": "Hosting costs are extra",
+      "right": "Hosting included in plan"
+     }
+    ]
+   },
+   {
+    "kind": "mythfact",
+    "myth": "WordPress is free to run for small businesses.",
+    "right_label": "Fact",
+    "title": "The Cost Reality Check"
+   },
+   {
+    "kind": "point",
+    "body": "WordPress requires constant vigilance. Thousands of unvetted plugins create security openings, and a single wrong backslash in your code can crash the entire site."
+   },
+   {
+    "kind": "summary",
+    "title": "Choose the right path for your business"
+   }
+  ],
+  "caption": "Your business website shouldn't feel like a part-time job. Many contractors get stuck with WordPress because they think it's the default, only to spend hours troubleshooting plugin conflicts and security holes. While WordPress is powerful for large content teams, modern tools like Webflow handle hosting, security, and updates in one package. This saves you from the constant 'fix-it' loop and expensive developer calls. If you aren't a developer, don't build your own technical debt. Check your current hosting and maintenance bills against the cost of a managed platform to see if the switch makes sense for your shop. #smallbusinessindia #businessgrowth #webdevelopment #contractorlife #smallbusinessowner",
+  "hashtags": [
+   "#smallbusinessindia",
+   "#businessgrowth",
+   "#webdevelopment",
+   "#contractorlife",
+   "#smallbusinessowner"
+  ],
+  "keywords": [
+   "small business website",
+   "WordPress vs Webflow",
+   "contractor website maintenance",
+   "website security for business",
+   "no-code website builder"
+  ],
+  "claims": [
+   {
+    "claim": "Thousands of unvetted WordPress plugins create security openings for hackers.",
+    "source_id": 68
+   },
+   {
+    "claim": "One errant backslash in WordPress source files can take down the whole site.",
+    "source_id": 68
+   },
+   {
+    "claim": "Webflow is an all-in-one product that handles hosting, security, and support.",
+    "source_id": 68
+   },
+   {
+    "claim": "WordPress requires users to be responsible for keeping the site secure.",
+    "source_id": 68
+   }
+  ]
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 6,
+   "practical_value": 7,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 7,
+   "visual_integrity": 6,
+   "pacing": 7,
+   "brand_consistency": 9,
+   "publish_readiness": 6
+  },
+  "claims": [
+   {
+    "claim": "Thousands of unvetted WordPress plugins create security openings for hackers.",
+    "supported": true,
+    "note": "Supported by source 68."
+   },
+   {
+    "claim": "One errant backslash in WordPress source files can take down the whole site.",
+    "supported": true,
+    "note": "Supported by source 68."
+   },
+   {
+    "claim": "Webflow is an all-in-one product that handles hosting, security, and support.",
+    "supported": true,
+    "note": "Supported by source 68."
+   },
+   {
+    "claim": "WordPress requires users to be responsible for keeping the site secure.",
+    "supported": true,
+    "note": "Supported by source 68."
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Slide 1: The Zapier blog screenshot is unnecessary and adds clutter; it distracts from the strong headline.",
+   "Slide 3: The table layout is clean, but the text alignment feels slightly cramped for mobile screens.",
+   "Slide 5: The text is too sparse for a single slide; it feels like a filler slide that could be merged with slide 4."
+  ],
+  "issues": [
+   "The narrative lacks a clear 'next step' or call to action (CTA) for the business owner.",
+   "The carousel is too short and lacks depth; it identifies a problem but doesn't provide enough actionable guidance on how to evaluate if a switch is right for their specific business.",
+   "The visual hierarchy is repetitive; the slides feel like a list rather than a cohesive story."
+  ],
+  "fix_instructions": "1. Remove the Zapier screenshot from Slide 1; use a more compelling background or graphic. 2. Merge Slide 4 and 5 to improve pacing. 3. Add a final slide that provides a clear, actionable CTA (e.g., 'Audit your current maintenance costs vs. Webflow pricing'). 4. Ensure the text on Slide 3 is better spaced to avoid a 'cramped' look on mobile devices. 5. Add a slide that briefly explains how a small business owner can start the migration process or what to look for in a Webflow agency."
+ },
+ "rules": [],
+ "reasons": [
+  "originality 6/10 (<8)",
+  "practical_value 7/10 (<8)",
+  "narrative 7/10 (<8)",
+  "visual_integrity 6/10 (<8)",
+  "publish_readiness 6/10 (<7)"
+ ],
+ "meta": {
+  "ai_visuals": false,
+  "slides": 6
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1256/C5-pilot-20261023-1256/try2",
+ "attempt": 2,
+ "approved": false,
+ "hook": "Stop paying developers to fix your broken WordPress site",
+ "log": [
+  "attempt 1: fail {'hook': 8, 'originality': 6, 'practical_value': 7, 'natural_language': 6, 'accuracy': 7, 'narrative': 6, 'visual_integrity': 4, 'pacing': 5, 'brand_consistency': 7, 'publish_readiness': 4} ['originality 6/10 (<8)', 'practical_value 7/10 (<8)', 'natural_language 6/10 (<8)', 'accuracy 7/10 (<8)']",
+  "attempt 2: fail {'hook': 8, 'originality': 6, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 6, 'pacing': 7, 'brand_consistency': 9, 'publish_readiness': 6} ['originality 6/10 (<8)', 'practical_value 7/10 (<8)', 'narrative 7/10 (<8)', 'visual_integrity 6/10 (<8)']",
+  "attempt 3: fail {'hook': 7, 'originality': 6, 'practical_value': 6, 'natural_language': 8, 'accuracy': 7, 'narrative': 6, 'visual_integrity': 5, 'pacing': 6, 'brand_consistency': 8, 'publish_readiness': 5} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 6/10 (<8)', 'accuracy 7/10 (<8)']"
+ ],
+ "id": "C5-pilot-20261023-1256",
+ "caption_final": "Your business website shouldn't feel like a part-time job. Many contractors get stuck with WordPress because they think it's the default, only to spend hours troubleshooting plugin conflicts and security holes. While WordPress is powerful for large content teams, modern tools like Webflow handle hosting, security, and updates in one package. This saves you from the constant 'fix-it' loop and expensive developer calls. If you aren't a developer, don't build your own technical debt. Check your current hosting and maintenance bills against the cost of a managed platform to see if the switch makes sense for your shop. #smallbusinessindia #businessgrowth #webdevelopment #contractorlife #smallbusinessowner\n\n#smallbusinessindia #businessgrowth #webdevelopment #contractorlife #smallbusinessowner"
+}

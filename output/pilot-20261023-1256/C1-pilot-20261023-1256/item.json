@@ -1,0 +1,187 @@
+{
+ "kind": "carousel",
+ "idea": {
+  "idea": "Predictive Payment Recovery: Moving from Awkward Calls to Smart Reminders",
+  "angle": "Indian wholesale business runs on credit, but manual follow-up calls ruin relationships; AI debt scoring helps prioritize who to remind softly before bad debt happens.",
+  "audience_problem": "Distributors and traders lose working capital to delayed payments and dread making aggressive, relationship-damaging collection calls.",
+  "format": "problem_fix",
+  "medium": "carousel",
+  "source_ids": [
+   81
+  ],
+  "evergreen": true,
+  "keywords": [
+   "debt collection",
+   "working capital",
+   "credit cycle",
+   "payment recovery",
+   "cash flow"
+  ],
+  "scores": {
+   "relevance": 10,
+   "novelty": 9,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 10,
+   "feasibility": 8,
+   "evidence": 7
+  },
+  "total": 8.84
+ },
+ "piece": {
+  "hooks": [
+   "Stop calling every overdue payment customer the same way",
+   "AI cannot predict which specific buyer will default tomorrow",
+   "How to triage overdue ledger payments without daily arguments"
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "It addresses the immediate friction every wholesale distributor faces: awkward, relationship-damaging collection calls made indiscriminately across the ledger.",
+  "slides": [
+   {
+    "kind": "cover",
+    "title": "Stop calling every overdue payment customer the same way"
+   },
+   {
+    "kind": "point",
+    "title": "Why chasing everybody equally fails"
+   },
+   {
+    "kind": "mythfact",
+    "myth": "AI software can pinpoint exactly which customer will default this month."
+   },
+   {
+    "kind": "compare",
+    "left_label": "Manual Chasing",
+    "right_label": "Data-Led Triage",
+    "rows": [
+     {
+      "left": "Calls every overdue account",
+      "right": "Groups buyers by repayment history"
+     },
+     {
+      "left": "Ignores seasonal cash crunches",
+      "right": "Factors in festive spending dips"
+     },
+     {
+      "left": "Wastes time on self-curing accounts",
+      "right": "Focuses staff on high-risk accounts"
+     }
+    ],
+    "title": "Blanket Chasing vs Cohort Triage"
+   },
+   {
+    "kind": "steps",
+    "items": [
+     "Group accounts by past payment history and ticket size",
+     "Flag seasonal dip periods like festivals or school admissions",
+     "Send soft automated reminders to low-risk self-curing accounts",
+     "Reserve personal phone calls for chronic high-risk defaulters"
+    ],
+    "title": "4 steps to triage delayed receivables"
+   },
+   {
+    "kind": "summary",
+    "items": [
+     "Accept that individual defaults cannot be eliminated",
+     "Predict cohort risk instead of guessing individual emergencies",
+     "Reserve human calls for genuine high-risk accounts",
+     "Automate gentle reminders for self-curing buyers"
+    ],
+    "title": "Rules for smarter debt recovery"
+   }
+  ],
+  "caption": "How Indian distributors can prioritize overdue payment collections without making awkward daily follow-up calls. When a payment is delayed by five days, calling up an old buyer aggressively often does more harm than good. In wholesale and distribution, cash crunches are often seasonal, tied to festival inventory builds or school fee periods. Statistical models cannot guess if a specific proprietor had a family medical expense. What data can do is separate accounts likely to self-cure with a soft reminder from those showing systemic default patterns. Save your voice and relationships for the accounts that truly need manual intervention. What criteria do you currently use to decide which overdue ledger entry gets called first?",
+  "hashtags": [
+   "#CreditManagement",
+   "#B2BCollections",
+   "#WorkingCapital",
+   "#CashFlowManagement"
+  ],
+  "keywords": [
+   "payment recovery",
+   "debt collection triage",
+   "overdue invoice follow up",
+   "working capital management",
+   "wholesale credit control"
+  ],
+  "claims": [
+   {
+    "claim": "Defaults cannot be predicted at an individual borrower level because lenders cannot know private circumstances like salary delays.",
+    "source_id": 81
+   },
+   {
+    "claim": "Risk models can accurately predict default rates only over sufficiently large cohorts of borrowers.",
+    "source_id": 81
+   },
+   {
+    "claim": "Collections predictably soften during regional periods such as Ganesh Chaturthi or school admission season.",
+    "source_id": 81
+   },
+   {
+    "claim": "The purpose of AI in collections is to triage who needs immediate intervention versus who is likely to self-cure.",
+    "source_id": 81
+   }
+  ]
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 8,
+   "practical_value": 9,
+   "natural_language": 9,
+   "accuracy": 10,
+   "narrative": 9,
+   "visual_integrity": 7,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 7
+  },
+  "claims": [
+   {
+    "claim": "Defaults cannot be predicted at an individual borrower level because lenders cannot know private circumstances like salary delays.",
+    "supported": true
+   },
+   {
+    "claim": "Risk models can accurately predict default rates only over sufficiently large cohorts of borrowers.",
+    "supported": true
+   },
+   {
+    "claim": "Collections predictably soften during regional periods such as Ganesh Chaturthi or school admission season.",
+    "supported": true
+   },
+   {
+    "claim": "The purpose of AI in collections is to triage who needs immediate intervention versus who is likely to self-cure.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Slide 1: The 'YOURSTORY' logo is a massive, distracting advertisement-like element that dominates the slide and looks like a sponsored ad rather than a content carousel. It lacks visual hierarchy.",
+   "Slide 4: The table layout is clean, but the text boxes are slightly inconsistent in height, which creates a minor alignment issue."
+  ],
+  "issues": [
+   "The cover slide (Slide 1) is problematic. Using the 'YOURSTORY' logo as the primary visual element makes the carousel look like an ad for the publication rather than a piece of educational content. It obscures the brand identity of @automatei_q.",
+   "The 'Myth/Fact' slide (Slide 3) is a bit sparse. It could benefit from a one-sentence explanation of why the myth is false to provide immediate value."
+  ],
+  "fix_instructions": "1. Replace the 'YOURSTORY' logo on Slide 1 with a compelling, relevant graphic or a clean, minimalist design that highlights the 'Problem -> Fix' theme. Keep the source attribution as a small footer or in the final slide. 2. On Slide 3, add a small sub-text under the 'Fact' section: 'AI works on statistical cohorts, not individual crystal balls.' 3. Ensure all text boxes on Slide 4 are perfectly aligned and equal in height for a more professional look. 4. Otherwise, the content is excellent and highly relevant for the target audience."
+ },
+ "rules": [],
+ "reasons": [
+  "visual_integrity 7/10 (<8)"
+ ],
+ "meta": {
+  "ai_visuals": false,
+  "slides": 6
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1256/C1-pilot-20261023-1256/try2",
+ "attempt": 2,
+ "approved": false,
+ "hook": "Stop calling every overdue payment customer the same way",
+ "log": [
+  "attempt 1: fail {'hook': 7, 'originality': 6, 'practical_value': 6, 'natural_language': 7, 'accuracy': 9, 'narrative': 4, 'visual_integrity': 3, 'pacing': 4, 'brand_consistency': 7, 'publish_readiness': 2} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 6/10 (<8)', 'natural_language 7/10 (<8)']",
+  "attempt 2: fail {'hook': 8, 'originality': 8, 'practical_value': 9, 'natural_language': 9, 'accuracy': 10, 'narrative': 9, 'visual_integrity': 7, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 7} ['visual_integrity 7/10 (<8)']",
+  "attempt 3: fail {'hook': 8, 'originality': 7, 'practical_value': 3, 'natural_language': 6, 'accuracy': 9, 'narrative': 4, 'visual_integrity': 3, 'pacing': 5, 'brand_consistency': 7, 'publish_readiness': 2} ['originality 7/10 (<8)', 'practical_value 3/10 (<8)', 'natural_language 6/10 (<8)', 'narrative 4/10 (<8)']"
+ ],
+ "id": "C1-pilot-20261023-1256",
+ "caption_final": "How Indian distributors can prioritize overdue payment collections without making awkward daily follow-up calls. When a payment is delayed by five days, calling up an old buyer aggressively often does more harm than good. In wholesale and distribution, cash crunches are often seasonal, tied to festival inventory builds or school fee periods. Statistical models cannot guess if a specific proprietor had a family medical expense. What data can do is separate accounts likely to self-cure with a soft reminder from those showing systemic default patterns. Save your voice and relationships for the accounts that truly need manual intervention. What criteria do you currently use to decide which overdue ledger entry gets called first?\n\n#CreditManagement #B2BCollections #WorkingCapital #CashFlowManagement"
+}

@@ -1,0 +1,174 @@
+{
+ "kind": "carousel",
+ "idea": {
+  "idea": "The 30,000-Worker Rollout: 3 ChatGPT Workflows to Steal for Your Staff",
+  "angle": "Uber deployed ChatGPT across all 30,000 employees—not to replace humans, but for data analysis, vendor emails, and reporting templates any 10-person shop can replicate.",
+  "audience_problem": "Contractors and business heads buy ChatGPT Plus licenses for staff but find employees only use it as a basic Google search replacement.",
+  "format": "case_study",
+  "medium": "carousel",
+  "source_ids": [
+   8,
+   43
+  ],
+  "evergreen": true,
+  "keywords": [
+   "ChatGPT Work",
+   "employee productivity",
+   "SOP automation",
+   "vendor emails",
+   "business workflows"
+  ],
+  "scores": {
+   "relevance": 8,
+   "novelty": 7,
+   "hook_potential": 8,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 9,
+   "evidence": 9
+  },
+  "total": 8.27
+ },
+ "piece": {
+  "hooks": [
+   "How Uber put 30,000 staff on ChatGPT (and why)",
+   "Steal 3 AI workflows from Uber's 30,000-employee rollout",
+   "Your staff treats AI like Google. Change that today."
+  ],
+  "chosen_hook": 1,
+  "hook_reason": "It offers a concrete, actionable promise by linking a massive company's strategy to the reader's own small business needs, focusing on specific workflows.",
+  "slides": [
+   {
+    "kind": "cover",
+    "title": "Steal 3 AI workflows from Uber's 30,000-employee rollout"
+   },
+   {
+    "kind": "point",
+    "title": "Stop using AI as a search engine"
+   },
+   {
+    "kind": "steps",
+    "title": "3 Workflows to replicate today"
+   },
+   {
+    "kind": "point",
+    "title": "1. Data analysis for trends"
+   },
+   {
+    "kind": "point",
+    "title": "2. Localizing training materials"
+   },
+   {
+    "kind": "point",
+    "title": "3. Creating personal work dashboards"
+   },
+   {
+    "kind": "summary",
+    "title": "The Uber AI Strategy Takeaways"
+   }
+  ],
+  "caption": "Most small business owners buy AI subscriptions for their team, only to watch them use it as a glorified search engine. Uber just rolled out ChatGPT Work to 30,000 employees, and they aren't just 'asking questions.' They are using it to analyze complex operational data, translate training materials for different markets, and build automated dashboards to track daily work. If you have a 10-person team, don't just tell them to 'use AI.' Give them these three specific workflows instead. What is the one task your staff does every single day that feels like it could be automated with a simple template? #AIforBusiness #SmallBizTips #WorkplaceAutomation #Efficiency #OperationsManagement",
+  "hashtags": [
+   "#AIforBusiness",
+   "#SmallBizTips",
+   "#WorkplaceAutomation",
+   "#Efficiency",
+   "#OperationsManagement"
+  ],
+  "keywords": [
+   "Uber ChatGPT rollout",
+   "business AI workflows",
+   "small business automation",
+   "AI in operations",
+   "workplace productivity"
+  ],
+  "claims": [
+   {
+    "claim": "Uber rolled out ChatGPT Work to its entire global workforce of 30,000 employees.",
+    "source_id": 8
+   },
+   {
+    "claim": "Uber employees use AI for data analysis, localizing training, and building personalized work dashboards.",
+    "source_id": 8
+   },
+   {
+    "claim": "80% of early adopters in Uber's AI pilot were non-engineers.",
+    "source_id": 8
+   },
+   {
+    "claim": "ChatGPT Work integrates with tools like Google Drive, Gmail, and Slack to perform multi-step tasks.",
+    "source_id": 43
+   }
+  ]
+ },
+ "review": {
+  "scores": {
+   "hook": 7,
+   "originality": 6,
+   "practical_value": 4,
+   "natural_language": 7,
+   "accuracy": 9,
+   "narrative": 5,
+   "visual_integrity": 3,
+   "pacing": 6,
+   "brand_consistency": 8,
+   "publish_readiness": 3
+  },
+  "claims": [
+   {
+    "claim": "Uber rolled out ChatGPT Work to its entire global workforce of 30,000 employees.",
+    "supported": true
+   },
+   {
+    "claim": "Uber employees use AI for data analysis, localizing training, and building personalized work dashboards.",
+    "supported": true
+   },
+   {
+    "claim": "80% of early adopters in Uber's AI pilot were non-engineers.",
+    "supported": true
+   },
+   {
+    "claim": "ChatGPT Work integrates with tools like Google Drive, Gmail, and Slack to perform multi-step tasks.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Slide 1: The TechCrunch advertisement banner is clearly visible and unprofessional; it must be cropped out.",
+   "General: The slides are extremely sparse. They look like placeholders rather than finished content.",
+   "General: Lack of visual hierarchy; the text is just centered in the middle of a blank page."
+  ],
+  "issues": [
+   "The carousel promises '3 workflows' but fails to explain HOW to actually do them. It just lists the categories.",
+   "The content is too thin. A small business owner cannot 'replicate' these workflows based on the current slides.",
+   "The narrative arc is broken; it sets up a promise in the hook and fails to deliver the 'how-to' in the body."
+  ],
+  "fix_instructions": "1. Crop the advertisement out of Slide 1 immediately. 2. Flesh out slides 4, 5, and 6. For each, add 2-3 bullet points explaining the specific steps or prompts a small business owner could use to mimic that workflow (e.g., for 'Data Analysis', suggest uploading a CSV and asking for specific trend identification). 3. Add a slide before the summary that provides a concrete, actionable prompt or tool-setup tip. 4. Improve the visual design; use the brand's navy/cream/saffron palette to create a more professional, structured layout rather than just centered text."
+ },
+ "rules": [],
+ "reasons": [
+  "hook 7/10 (<8)",
+  "originality 6/10 (<8)",
+  "practical_value 4/10 (<8)",
+  "natural_language 7/10 (<8)",
+  "narrative 5/10 (<8)",
+  "visual_integrity 3/10 (<8)",
+  "pacing 6/10 (<7)",
+  "publish_readiness 3/10 (<7)"
+ ],
+ "meta": {
+  "ai_visuals": false,
+  "slides": 7
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1256/C4-pilot-20261023-1256/try1",
+ "attempt": 1,
+ "approved": false,
+ "hook": "Steal 3 AI workflows from Uber's 30,000-employee rollout",
+ "log": [
+  "attempt 1: fail {'hook': 7, 'originality': 6, 'practical_value': 4, 'natural_language': 7, 'accuracy': 9, 'narrative': 5, 'visual_integrity': 3, 'pacing': 6, 'brand_consistency': 8, 'publish_readiness': 3} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 4/10 (<8)', 'natural_language 7/10 (<8)']",
+  "attempt 2: fail {'hook': 7, 'originality': 5, 'practical_value': 4, 'natural_language': 6, 'accuracy': 9, 'narrative': 5, 'visual_integrity': 3, 'pacing': 6, 'brand_consistency': 7, 'publish_readiness': 2} ['hook 7/10 (<8)', 'originality 5/10 (<8)', 'practical_value 4/10 (<8)', 'natural_language 6/10 (<8)']",
+  "attempt 3: fail {'hook': 5, 'originality': 3, 'practical_value': 1, 'natural_language': 4, 'accuracy': 6, 'narrative': 2, 'visual_integrity': 1, 'pacing': 2, 'brand_consistency': 3, 'publish_readiness': 1} ['hook 5/10 (<8)', 'originality 3/10 (<8)', 'practical_value 1/10 (<8)', 'natural_language 4/10 (<8)']"
+ ],
+ "id": "C4-pilot-20261023-1256",
+ "caption_final": "Most small business owners buy AI subscriptions for their team, only to watch them use it as a glorified search engine. Uber just rolled out ChatGPT Work to 30,000 employees, and they aren't just 'asking questions.' They are using it to analyze complex operational data, translate training materials for different markets, and build automated dashboards to track daily work. If you have a 10-person team, don't just tell them to 'use AI.' Give them these three specific workflows instead. What is the one task your staff does every single day that feels like it could be automated with a simple template? #AIforBusiness #SmallBizTips #WorkplaceAutomation #Efficiency #OperationsManagement\n\n#AIforBusiness #SmallBizTips #WorkplaceAutomation #Efficiency #OperationsManagement"
+}

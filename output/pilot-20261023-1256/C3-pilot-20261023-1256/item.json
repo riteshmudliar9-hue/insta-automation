@@ -1,0 +1,185 @@
+{
+ "kind": "carousel",
+ "idea": {
+  "idea": "Why ChatGPT Hallucinates Your Quotations (And How Context-Aware AI Fixes It)",
+  "angle": "Generic AI fails Indian businesses because it doesn't know your minimum order quantities, GST slabs, or regional freight rules; grounding prompts with local business context changes everything.",
+  "audience_problem": "Traders test AI for drafting quotes and customer replies, but abandon it when it invents discounts, inaccurate GST calculations, or impossible delivery promises.",
+  "format": "myth_fact",
+  "medium": "carousel",
+  "source_ids": [
+   52
+  ],
+  "evergreen": true,
+  "keywords": [
+   "context-aware AI",
+   "prompt grounding",
+   "quotation automation",
+   "GST calculations",
+   "business rules"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 8,
+   "hook_potential": 8,
+   "retention": 9,
+   "save_share": 9,
+   "feasibility": 9,
+   "evidence": 8
+  },
+  "total": 8.58
+ },
+ "piece": {
+  "hooks": [
+   "Why your AI-generated business quotes are often wrong",
+   "Stop letting AI hallucinate your shop's price quotes",
+   "How to fix AI errors in your business quotations"
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "It addresses the specific pain point of inaccurate quotes, which directly relates to the audience's daily business struggles, and promises a fix.",
+  "slides": [
+   {
+    "kind": "cover",
+    "title": "Why your AI-generated business quotes are often wrong"
+   },
+   {
+    "kind": "mythfact",
+    "myth": "AI knows your shop rules like you do",
+    "right_label": "Reality",
+    "subtitle": "AI doesn't naturally know your constraints",
+    "title": "The AI Trap"
+   },
+   {
+    "kind": "point",
+    "body": "AI agents operate in a vacuum. Without your specific GST slabs, minimum order quantities, or local freight rules, they make logical guesses that cost you money and credibility.",
+    "title": "Missing Context"
+   },
+   {
+    "kind": "steps",
+    "items": [
+     "Map your current manual quotation workflow",
+     "Identify the single most difficult decision step",
+     "Feed the AI your specific constraints and rules",
+     "Test for speed and accuracy before scaling"
+    ],
+    "title": "How to Ground Your AI"
+   },
+   {
+    "kind": "checklist",
+    "items": [
+     "Check against current GST slab rates",
+     "Verify if minimum order quantity applies",
+     "Ensure freight charges match your carrier",
+     "Review final output for impossible promises",
+     "Confirm human approval before sending"
+    ],
+    "title": "Quote Safety Checklist"
+   },
+   {
+    "kind": "summary",
+    "items": [
+     "AI needs context to avoid errors",
+     "Start with one specific, repetitive task",
+     "Always keep a human in the loop",
+     "Measure results to justify the investment"
+    ],
+    "title": "Key Takeaways"
+   }
+  ],
+  "caption": "AI tools can draft a quote in seconds, but they often ignore your actual business rules. If you don't feed your AI the exact GST slabs, freight costs, and inventory limits it needs, it will invent numbers that don't exist. AI isn't a replacement for your expertise; it is a tool for decision intelligence. Before you automate, map your process. Identify the exact step where the AI creates the most errors. Feed it your rules as a prompt, and always treat the output as a draft for your review. Never let an AI send a quote to a client without a human sanity check. How do you currently handle complex quotes for your business? #BusinessAI #SmallBizIndia #GST #AutomationTips #TradingBusiness",
+  "hashtags": [
+   "#BusinessAI",
+   "#SmallBizIndia",
+   "#GST",
+   "#AutomationTips",
+   "#TradingBusiness"
+  ],
+  "keywords": [
+   "business quotation tool",
+   "AI for small business",
+   "GST invoice automation",
+   "business process optimization",
+   "AI decision intelligence"
+  ],
+  "claims": [
+   {
+    "claim": "AI models miss business constraints and relationships without specific operational context.",
+    "source_id": 52
+   },
+   {
+    "claim": "AI agents in a vacuum may make mistakes or consume excessive computing resources.",
+    "source_id": 52
+   },
+   {
+    "claim": "Connecting AI to enterprise data and processes helps agents operate within defined guardrails.",
+    "source_id": 52
+   },
+   {
+    "claim": "The best approach is to start with a specific decision and identify its most difficult steps.",
+    "source_id": 52
+   }
+  ]
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 9,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 5,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 6
+  },
+  "claims": [
+   {
+    "claim": "AI models miss business constraints and relationships without specific operational context.",
+    "supported": true
+   },
+   {
+    "claim": "AI agents in a vacuum may make mistakes or consume excessive computing resources.",
+    "supported": true
+   },
+   {
+    "claim": "Connecting AI to enterprise data and processes helps agents operate within defined guardrails.",
+    "supported": true
+   },
+   {
+    "claim": "The best approach is to start with a specific decision and identify its most difficult steps.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Slide 1: There is a large, empty, black-and-white rectangular artifact at the bottom of the slide that looks like a broken image embed or placeholder. This is unacceptable for a final post.",
+   "Slide 2: The layout is sparse and feels unfinished compared to the rest of the deck."
+  ],
+  "issues": [
+   "The visual artifact on Slide 1 is a critical failure.",
+   "The transition from the 'Myth vs Fact' slide to the 'Missing Context' slide is slightly abrupt; it could benefit from a brief bridge sentence."
+  ],
+  "fix_instructions": "1. Remove the broken image placeholder/artifact from the bottom of Slide 1 immediately. 2. Ensure the cover image is clean and professional. 3. On Slide 2, consider adding a small icon or graphic to balance the white space. 4. Otherwise, the content is strong and highly relevant to the target audience."
+ },
+ "rules": [],
+ "reasons": [
+  "originality 7/10 (<8)",
+  "visual_integrity 5/10 (<8)",
+  "publish_readiness 6/10 (<7)"
+ ],
+ "meta": {
+  "ai_visuals": false,
+  "slides": 6
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1256/C3-pilot-20261023-1256/try3",
+ "attempt": 3,
+ "approved": false,
+ "hook": "Why your AI-generated business quotes are often wrong",
+ "log": [
+  "attempt 1: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 4, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 5} ['originality 7/10 (<8)', 'visual_integrity 4/10 (<8)', 'publish_readiness 5/10 (<7)']",
+  "attempt 2: fail {'hook': 8, 'originality': 6, 'practical_value': 4, 'natural_language': 7, 'accuracy': 9, 'narrative': 5, 'visual_integrity': 3, 'pacing': 5, 'brand_consistency': 8, 'publish_readiness': 3} ['originality 6/10 (<8)', 'practical_value 4/10 (<8)', 'natural_language 7/10 (<8)', 'narrative 5/10 (<8)']",
+  "attempt 3: fail {'hook': 8, 'originality': 7, 'practical_value': 9, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 5, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 6} ['originality 7/10 (<8)', 'visual_integrity 5/10 (<8)', 'publish_readiness 6/10 (<7)']"
+ ],
+ "id": "C3-pilot-20261023-1256",
+ "caption_final": "AI tools can draft a quote in seconds, but they often ignore your actual business rules. If you don't feed your AI the exact GST slabs, freight costs, and inventory limits it needs, it will invent numbers that don't exist. AI isn't a replacement for your expertise; it is a tool for decision intelligence. Before you automate, map your process. Identify the exact step where the AI creates the most errors. Feed it your rules as a prompt, and always treat the output as a draft for your review. Never let an AI send a quote to a client without a human sanity check. How do you currently handle complex quotes for your business? #BusinessAI #SmallBizIndia #GST #AutomationTips #TradingBusiness\n\n#BusinessAI #SmallBizIndia #GST #AutomationTips #TradingBusiness"
+}

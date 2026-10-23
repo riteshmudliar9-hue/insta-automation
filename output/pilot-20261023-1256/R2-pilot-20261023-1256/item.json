@@ -1,0 +1,226 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Fake Business WhatsApp Groups & Fraud Schemes: The Red Flag Checklist",
+  "angle": "SEBI issued warnings on fraudulent WhatsApp trade groups where admins jump numbers; here is how traders can protect company bank details and team chats from identity impersonation.",
+  "audience_problem": "Business owners and traders frequently get invited into unverified WhatsApp vendor/trade groups and fall victim to payment redirect scams.",
+  "format": "checklist",
+  "medium": "reel",
+  "source_ids": [
+   86
+  ],
+  "evergreen": true,
+  "keywords": [
+   "WhatsApp fraud",
+   "SEBI caution",
+   "trade scams",
+   "payment safety",
+   "cyber fraud Indian SME"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 7,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 10,
+   "evidence": 9
+  },
+  "total": 8.71
+ },
+ "piece": {
+  "hooks": [
+   "That private WhatsApp trading group you were added to is likely a trap.",
+   "SEBI just flagged fake WhatsApp trading groups targeting everyday business owners.",
+   "If an unknown WhatsApp group promises stock guidance, check these red flags first."
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "It immediately calls out a situation business owners face weekly—being added to unverified trade and tip groups without consent.",
+  "title": "SEBI WhatsApp Trade Fraud Red Flag Checklist",
+  "scenes": [
+   {
+    "purpose": "Hook the viewer with an immediate warning about unverified WhatsApp groups",
+    "narration": "That private WhatsApp trading group you were added to is likely a trap.",
+    "on_screen": "Private WhatsApp group alert",
+    "visual_type": "text",
+    "headline": "Check Before You Trade"
+   },
+   {
+    "purpose": "Introduce the SEBI regulatory warning",
+    "narration": "SEBI issued a formal warning against unregistered operators using invitation-only WhatsApp groups in the name of free trading education.",
+    "on_screen": "Official SEBI warning issued",
+    "visual_type": "screenshot",
+    "url": "https://yourstory.com/2026/10/sebi-cautions-investors-against-fraudulent-stock-tip-whatsapp-groups"
+   },
+   {
+    "purpose": "Present the first two red flags from the source",
+    "narration": "Look for overseas admin numbers posing as market experts. Watch out for members flooding the chat with praise and profit screenshots. SEBI calls this astroturfing.",
+    "on_screen": "Spot these group red flags",
+    "visual_type": "checklist",
+    "items": [
+     "Overseas admin numbers",
+     "Planted members posting profit claims",
+     "Astroturfing praise for the expert"
+    ]
+   },
+   {
+    "purpose": "Highlight the group ban migration tactic",
+    "narration": "Another telltale sign: messages claiming the previous group was banned by platform risk controls, directing you to join a replacement group immediately.",
+    "on_screen": "Group switch red flag",
+    "visual_type": "checklist",
+    "items": [
+     "Claims old group was banned",
+     "Directs members to new link",
+     "Urgent calls to switch chats"
+    ]
+   },
+   {
+    "purpose": "Provide clear concrete steps to protect funds and account details",
+    "narration": "Never transfer funds to apps recommended in these chats or share trading details. Verify any intermediary directly on SEBI's official website before acting.",
+    "on_screen": "Verify on official SEBI portal",
+    "visual_type": "checklist",
+    "items": [
+     "Do not transfer funds to apps",
+     "Never share trading account details",
+     "Verify intermediaries on sebi.gov.in"
+    ]
+   }
+  ],
+  "caption": "How to identify fraudulent WhatsApp trading groups warned by SEBI.\n\nMany shop owners and traders find themselves added to random WhatsApp groups promising free market calls and guaranteed profits. SEBI has specifically warned that these operators use overseas numbers and planted members to fake credibility through astroturfing.\n\nIf the group admin sends a new link claiming the old group was suspended by platform risk controls, exit immediately. Never install unofficial trading APKs or transfer capital to unverified accounts. Always verify registration status directly on sebi.gov.in before dealing with any advisor.",
+  "hashtags": [
+   "#SEBI",
+   "#FraudAlert",
+   "#WhatsAppScam",
+   "#IndianTraders"
+  ],
+  "keywords": [
+   "SEBI WhatsApp warning",
+   "fraudulent stock tip groups",
+   "WhatsApp trading scam checklist",
+   "verify SEBI registered intermediary",
+   "fake investment group red flags"
+  ],
+  "claims": [
+   {
+    "claim": "SEBI cautioned investors against fraudulent WhatsApp stock-tip groups offering tips under the guise of free education.",
+    "source_id": 86
+   },
+   {
+    "claim": "Operators often use overseas WhatsApp numbers posing as market experts.",
+    "source_id": 86
+   },
+   {
+    "claim": "Operators use astroturfing, where planted members post false claims of profit and praise the expert.",
+    "source_id": 86
+   },
+   {
+    "claim": "Operators contact members from a new number claiming the previous group was banned due to platform risk control measures.",
+    "source_id": 86
+   },
+   {
+    "claim": "SEBI advised against transferring money to recommended platforms or sharing trading account details with operators.",
+    "source_id": 86
+   },
+   {
+    "claim": "Investors should deal only with SEBI-registered intermediaries and verify registration status on the official SEBI website.",
+    "source_id": 86
+   }
+  ]
+ },
+ "review": {
+  "scores": {
+   "hook": 6,
+   "originality": 5,
+   "practical_value": 7,
+   "natural_language": 7,
+   "accuracy": 9,
+   "narrative": 7,
+   "visual_integrity": 5,
+   "pacing": 7,
+   "brand_consistency": 7,
+   "publish_readiness": 5
+  },
+  "claims": [
+   {
+    "claim": "SEBI cautioned investors against fraudulent WhatsApp stock-tip groups offering tips under the guise of free education.",
+    "supported": true,
+    "note": "Directly supported by SEBI statement in source material."
+   },
+   {
+    "claim": "Operators often use overseas WhatsApp numbers posing as market experts.",
+    "supported": true,
+    "note": "Explicitly mentioned in source."
+   },
+   {
+    "claim": "Operators use astroturfing, where planted members post false claims of profit and praise the expert.",
+    "supported": true,
+    "note": "Accurately defines astroturfing as described by SEBI."
+   },
+   {
+    "claim": "Operators contact members from a new number claiming the previous group was banned due to platform risk control measures.",
+    "supported": true,
+    "note": "Quote and tactic directly verified in source."
+   },
+   {
+    "claim": "SEBI advised against transferring money to recommended platforms or sharing trading account details with operators.",
+    "supported": true,
+    "note": "Supported by source."
+   },
+   {
+    "claim": "Investors should deal only with SEBI-registered intermediaries and verify registration status on the official SEBI website.",
+    "supported": true,
+    "note": "Supported by SEBI guidance in article."
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Scene 2: Screenshot contains an unwanted AWS ad banner above the article headline, making the graphic look unpolished and cluttered.",
+   "Scenes 1-5: Bottom captions appear as floating, truncated text fragments (e.g. 'group you were added to', 'groups in the name of') rather than well-aligned full captions."
+  ],
+  "issues": [
+   "Topic is a standard regulatory news update; adding a quick real-world example of what an 'astroturfing' WhatsApp message actually looks like would increase viewer engagement and context."
+  ],
+  "fix_instructions": "1. Crop the Scene 2 news screenshot to remove the AWS ad block above the headline. 2. Fix the lower-third text caption timings/formatting so full lines render cleanly instead of hanging sentence fragments. 3. Ensure visual consistency across all text overlays."
+ },
+ "rules": [],
+ "reasons": [
+  "hook 6/10 (<8)",
+  "originality 5/10 (<8)",
+  "practical_value 7/10 (<8)",
+  "natural_language 7/10 (<8)",
+  "narrative 7/10 (<8)",
+  "visual_integrity 5/10 (<8)",
+  "publish_readiness 5/10 (<7)"
+ ],
+ "meta": {
+  "duration": 83.8,
+  "voice": "gemini",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1256/R2-pilot-20261023-1256/try1/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1256/R2-pilot-20261023-1256/try1/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1256/R2-pilot-20261023-1256/try1/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1256/R2-pilot-20261023-1256/try1/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1256/R2-pilot-20261023-1256/try1/scene_05.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   18.15,
+   21.71,
+   12.31,
+   10.95,
+   20.71
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1256/R2-pilot-20261023-1256/try1",
+ "attempt": 1,
+ "approved": false,
+ "hook": "That private WhatsApp trading group you were added to is likely a trap.",
+ "log": [
+  "attempt 1: fail {'hook': 6, 'originality': 5, 'practical_value': 7, 'natural_language': 7, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 5, 'pacing': 7, 'brand_consistency': 7, 'publish_readiness': 5} ['hook 6/10 (<8)', 'originality 5/10 (<8)', 'practical_value 7/10 (<8)', 'natural_language 7/10 (<8)']",
+  "attempt 2: fail {'hook': 6, 'originality': 5, 'practical_value': 6, 'natural_language': 7, 'accuracy': 8, 'narrative': 6, 'visual_integrity': 4, 'pacing': 5, 'brand_consistency': 4, 'publish_readiness': 4} ['hook 6/10 (<8)', 'originality 5/10 (<8)', 'practical_value 6/10 (<8)', 'natural_language 7/10 (<8)']",
+  "attempt 3: fail {'hook': 5, 'originality': 6, 'practical_value': 7, 'natural_language': 6, 'accuracy': 9, 'narrative': 6, 'visual_integrity': 4, 'pacing': 6, 'brand_consistency': 7, 'publish_readiness': 4} ['hook 5/10 (<8)', 'originality 6/10 (<8)', 'practical_value 7/10 (<8)', 'natural_language 6/10 (<8)']"
+ ],
+ "id": "R2-pilot-20261023-1256",
+ "caption_final": "How to identify fraudulent WhatsApp trading groups warned by SEBI.\n\nMany shop owners and traders find themselves added to random WhatsApp groups promising free market calls and guaranteed profits. SEBI has specifically warned that these operators use overseas numbers and planted members to fake credibility through astroturfing.\n\nIf the group admin sends a new link claiming the old group was suspended by platform risk controls, exit immediately. Never install unofficial trading APKs or transfer capital to unverified accounts. Always verify registration status directly on sebi.gov.in before dealing with any advisor.\n\n#SEBI #FraudAlert #WhatsAppScam #IndianTraders"
+}

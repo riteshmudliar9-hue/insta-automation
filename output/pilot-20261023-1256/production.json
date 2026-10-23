@@ -1,0 +1,501 @@
+{
+ "date": "2026-10-23",
+ "tag": "pilot-20261023-1256",
+ "pilot": true,
+ "sources": 97,
+ "ideas": 14,
+ "idea_list": [
+  {
+   "idea": "Predictive Payment Recovery: Moving from Awkward Calls to Smart Reminders",
+   "format": "problem_fix",
+   "total": 8.84,
+   "scores": {
+    "relevance": 10,
+    "novelty": 9,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 10,
+    "feasibility": 8,
+    "evidence": 7
+   }
+  },
+  {
+   "idea": "Stop Typing Invoices: The Mobile OCR Stack for Indian Traders",
+   "format": "tutorial",
+   "total": 8.83,
+   "scores": {
+    "relevance": 10,
+    "novelty": 7,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 10,
+    "feasibility": 9,
+    "evidence": 8
+   }
+  },
+  {
+   "idea": "The Accidental Data Leak: Why AI Share Links Expose Small Business Margins",
+   "format": "checklist",
+   "total": 8.83,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 10,
+    "evidence": 9
+   }
+  },
+  {
+   "idea": "Fake Business WhatsApp Groups & Fraud Schemes: The Red Flag Checklist",
+   "format": "checklist",
+   "total": 8.71,
+   "scores": {
+    "relevance": 9,
+    "novelty": 7,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 10,
+    "evidence": 9
+   }
+  },
+  {
+   "idea": "Why ChatGPT Hallucinates Your Quotations (And How Context-Aware AI Fixes It)",
+   "format": "myth_fact",
+   "total": 8.58,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 9,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 8
+   }
+  },
+  {
+   "idea": "ChatGPT Ads Are Expanding: What Indian Local Businesses Must Know",
+   "format": "checklist",
+   "total": 8.51,
+   "scores": {
+    "relevance": 8,
+    "novelty": 9,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 8
+   }
+  },
+  {
+   "idea": "Canva Craft: Generating Festive Store Posters with Layout Planning",
+   "format": "demo",
+   "total": 8.45,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 9,
+    "evidence": 9
+   }
+  },
+  {
+   "idea": "Delegating to AI Without Giving Away Banking Passwords",
+   "format": "checklist",
+   "total": 8.38,
+   "scores": {
+    "relevance": 8,
+    "novelty": 8,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 8
+   }
+  },
+  {
+   "idea": "The 30,000-Worker Rollout: 3 ChatGPT Workflows to Steal for Your Staff",
+   "format": "case_study",
+   "total": 8.27,
+   "scores": {
+    "relevance": 8,
+    "novelty": 7,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 9
+   }
+  },
+  {
+   "idea": "Hiring Qualified Skilled Trades Without Paying Costly Portal Fees",
+   "format": "problem_fix",
+   "total": 8.16,
+   "scores": {
+    "relevance": 8,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 8,
+    "evidence": 8
+   }
+  },
+  {
+   "idea": "Webflow vs. WordPress: Which Saves Money for Local Contractors in 2026?",
+   "format": "manual_vs_auto",
+   "total": 8.06,
+   "scores": {
+    "relevance": 8,
+    "novelty": 7,
+    "hook_potential": 7,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 10,
+    "evidence": 8
+   }
+  },
+  {
+   "idea": "Training Non-Tech Staff on AI: The 4-Week Framework That Works",
+   "format": "tutorial",
+   "total": 7.98,
+   "scores": {
+    "relevance": 8,
+    "novelty": 7,
+    "hook_potential": 7,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 8
+   }
+  },
+  {
+   "idea": "Scaling 3 SKUs to 450 Without Adding Warehouse Headcount",
+   "format": "case_study",
+   "total": 7.96,
+   "scores": {
+    "relevance": 8,
+    "novelty": 7,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 9,
+    "evidence": 8
+   }
+  },
+  {
+   "idea": "Connecting Your Inventory & CRM to Claude: The Single-Server Trick",
+   "format": "demo",
+   "total": 7.92,
+   "scores": {
+    "relevance": 7,
+    "novelty": 9,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 8,
+    "evidence": 8
+   }
+  }
+ ],
+ "rejected_ideas": [],
+ "items": [
+  {
+   "id": "R1-pilot-20261023-1256",
+   "kind": "reel",
+   "format": "tutorial",
+   "topic": "Stop Typing Invoices: The Mobile OCR Stack for Indian Traders",
+   "hook": "Stop wasting hours every day copying paper invoices into your tally software.",
+   "approved": false,
+   "attempts": 3,
+   "scores": {
+    "hook": 7,
+    "originality": 6,
+    "practical_value": 8,
+    "natural_language": 7,
+    "accuracy": 9,
+    "narrative": 7,
+    "visual_integrity": 4,
+    "pacing": 6,
+    "brand_consistency": 8,
+    "publish_readiness": 5
+   },
+   "reasons": [
+    "hook 7/10 (<8)",
+    "originality 6/10 (<8)",
+    "natural_language 7/10 (<8)",
+    "narrative 7/10 (<8)",
+    "visual_integrity 4/10 (<8)",
+    "pacing 6/10 (<7)",
+    "publish_readiness 5/10 (<7)"
+   ],
+   "log": [
+    "attempt 1: fail {'hook': 7, 'originality': 6, 'practical_value': 6, 'natural_language': 7, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 4, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 4} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 6/10 (<8)', 'natural_language 7/10 (<8)']",
+    "attempt 2: fail {'hook': 7, 'originality': 6, 'practical_value': 8, 'natural_language': 5, 'accuracy': 9, 'narrative': 6, 'visual_integrity': 3, 'pacing': 4, 'brand_consistency': 7, 'publish_readiness': 3} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'natural_language 5/10 (<8)', 'narrative 6/10 (<8)']",
+    "attempt 3: fail {'hook': 7, 'originality': 6, 'practical_value': 8, 'natural_language': 7, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 4, 'pacing': 6, 'brand_consistency': 8, 'publish_readiness': 5} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'natural_language 7/10 (<8)', 'narrative 7/10 (<8)']"
+   ],
+   "dir": "output/pilot-20261023-1256/R1-pilot-20261023-1256/try3",
+   "duration": 63.8,
+   "voice": "gemini"
+  },
+  {
+   "id": "R2-pilot-20261023-1256",
+   "kind": "reel",
+   "format": "checklist",
+   "topic": "Fake Business WhatsApp Groups & Fraud Schemes: The Red Flag Checklist",
+   "hook": "That private WhatsApp trading group you were added to is likely a trap.",
+   "approved": false,
+   "attempts": 1,
+   "scores": {
+    "hook": 6,
+    "originality": 5,
+    "practical_value": 7,
+    "natural_language": 7,
+    "accuracy": 9,
+    "narrative": 7,
+    "visual_integrity": 5,
+    "pacing": 7,
+    "brand_consistency": 7,
+    "publish_readiness": 5
+   },
+   "reasons": [
+    "hook 6/10 (<8)",
+    "originality 5/10 (<8)",
+    "practical_value 7/10 (<8)",
+    "natural_language 7/10 (<8)",
+    "narrative 7/10 (<8)",
+    "visual_integrity 5/10 (<8)",
+    "publish_readiness 5/10 (<7)"
+   ],
+   "log": [
+    "attempt 1: fail {'hook': 6, 'originality': 5, 'practical_value': 7, 'natural_language': 7, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 5, 'pacing': 7, 'brand_consistency': 7, 'publish_readiness': 5} ['hook 6/10 (<8)', 'originality 5/10 (<8)', 'practical_value 7/10 (<8)', 'natural_language 7/10 (<8)']",
+    "attempt 2: fail {'hook': 6, 'originality': 5, 'practical_value': 6, 'natural_language': 7, 'accuracy': 8, 'narrative': 6, 'visual_integrity': 4, 'pacing': 5, 'brand_consistency': 4, 'publish_readiness': 4} ['hook 6/10 (<8)', 'originality 5/10 (<8)', 'practical_value 6/10 (<8)', 'natural_language 7/10 (<8)']",
+    "attempt 3: fail {'hook': 5, 'originality': 6, 'practical_value': 7, 'natural_language': 6, 'accuracy': 9, 'narrative': 6, 'visual_integrity': 4, 'pacing': 6, 'brand_consistency': 7, 'publish_readiness': 4} ['hook 5/10 (<8)', 'originality 6/10 (<8)', 'practical_value 7/10 (<8)', 'natural_language 6/10 (<8)']"
+   ],
+   "dir": "output/pilot-20261023-1256/R2-pilot-20261023-1256/try1",
+   "duration": 83.8,
+   "voice": "gemini"
+  },
+  {
+   "id": "R3-pilot-20261023-1256",
+   "kind": "reel",
+   "format": "demo",
+   "topic": "Canva Craft: Generating Festive Store Posters with Layout Planning",
+   "hook": "Canva's new AI model plans text layout before generating poster images.",
+   "approved": false,
+   "attempts": 1,
+   "scores": {
+    "hook": 6,
+    "originality": 6,
+    "practical_value": 7,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 7,
+    "visual_integrity": 5,
+    "pacing": 7,
+    "brand_consistency": 8,
+    "publish_readiness": 5
+   },
+   "reasons": [
+    "hook 6/10 (<8)",
+    "originality 6/10 (<8)",
+    "practical_value 7/10 (<8)",
+    "narrative 7/10 (<8)",
+    "visual_integrity 5/10 (<8)",
+    "publish_readiness 5/10 (<7)"
+   ],
+   "log": [
+    "attempt 1: fail {'hook': 6, 'originality': 6, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 5, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 5} ['hook 6/10 (<8)', 'originality 6/10 (<8)', 'practical_value 7/10 (<8)', 'narrative 7/10 (<8)']",
+    "attempt 2: fail {'hook': 7, 'originality': 6, 'practical_value': 7, 'natural_language': 7, 'accuracy': 8, 'narrative': 7, 'visual_integrity': 5, 'pacing': 7, 'brand_consistency': 7, 'publish_readiness': 5} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 7/10 (<8)', 'natural_language 7/10 (<8)']",
+    "attempt 3: fail {'hook': 6, 'originality': 5, 'practical_value': 6, 'natural_language': 6, 'accuracy': 9, 'narrative': 6, 'visual_integrity': 1, 'pacing': 5, 'brand_consistency': 5, 'publish_readiness': 1} ['scene 2 screenshot URL is not one of the sources', 'scene 5 screenshot URL is not one of the sources', 'hook 6/10 (<8)', 'originality 5/10 (<8)']"
+   ],
+   "dir": "output/pilot-20261023-1256/R3-pilot-20261023-1256/try1",
+   "duration": 44.1,
+   "voice": "edge"
+  },
+  {
+   "id": "C1-pilot-20261023-1256",
+   "kind": "carousel",
+   "format": "problem_fix",
+   "topic": "Predictive Payment Recovery: Moving from Awkward Calls to Smart Reminders",
+   "hook": "Stop calling every overdue payment customer the same way",
+   "approved": false,
+   "attempts": 2,
+   "scores": {
+    "hook": 8,
+    "originality": 8,
+    "practical_value": 9,
+    "natural_language": 9,
+    "accuracy": 10,
+    "narrative": 9,
+    "visual_integrity": 7,
+    "pacing": 9,
+    "brand_consistency": 9,
+    "publish_readiness": 7
+   },
+   "reasons": [
+    "visual_integrity 7/10 (<8)"
+   ],
+   "log": [
+    "attempt 1: fail {'hook': 7, 'originality': 6, 'practical_value': 6, 'natural_language': 7, 'accuracy': 9, 'narrative': 4, 'visual_integrity': 3, 'pacing': 4, 'brand_consistency': 7, 'publish_readiness': 2} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 6/10 (<8)', 'natural_language 7/10 (<8)']",
+    "attempt 2: fail {'hook': 8, 'originality': 8, 'practical_value': 9, 'natural_language': 9, 'accuracy': 10, 'narrative': 9, 'visual_integrity': 7, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 7} ['visual_integrity 7/10 (<8)']",
+    "attempt 3: fail {'hook': 8, 'originality': 7, 'practical_value': 3, 'natural_language': 6, 'accuracy': 9, 'narrative': 4, 'visual_integrity': 3, 'pacing': 5, 'brand_consistency': 7, 'publish_readiness': 2} ['originality 7/10 (<8)', 'practical_value 3/10 (<8)', 'natural_language 6/10 (<8)', 'narrative 4/10 (<8)']"
+   ],
+   "dir": "output/pilot-20261023-1256/C1-pilot-20261023-1256/try2",
+   "duration": null,
+   "voice": null
+  },
+  {
+   "id": "C2-pilot-20261023-1256",
+   "kind": "carousel",
+   "format": "checklist",
+   "topic": "The Accidental Data Leak: Why AI Share Links Expose Small Business Margins",
+   "hook": "Stop sharing AI chats containing your private profit margins.",
+   "approved": false,
+   "attempts": 3,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 8,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 4,
+    "pacing": 9,
+    "brand_consistency": 8,
+    "publish_readiness": 5
+   },
+   "reasons": [
+    "originality 7/10 (<8)",
+    "visual_integrity 4/10 (<8)",
+    "publish_readiness 5/10 (<7)"
+   ],
+   "log": [
+    "attempt 1: fail {'hook': 7, 'originality': 6, 'practical_value': 6, 'natural_language': 7, 'accuracy': 8, 'narrative': 5, 'visual_integrity': 4, 'pacing': 4, 'brand_consistency': 8, 'publish_readiness': 3} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 6/10 (<8)', 'natural_language 7/10 (<8)']",
+    "attempt 2: fail {'hook': 8, 'originality': 7, 'practical_value': 6, 'natural_language': 8, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 3, 'pacing': 7, 'brand_consistency': 7, 'publish_readiness': 2} ['originality 7/10 (<8)', 'practical_value 6/10 (<8)', 'narrative 7/10 (<8)', 'visual_integrity 3/10 (<8)']",
+    "attempt 3: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 4, 'pacing': 9, 'brand_consistency': 8, 'publish_readiness': 5} ['originality 7/10 (<8)', 'visual_integrity 4/10 (<8)', 'publish_readiness 5/10 (<7)']"
+   ],
+   "dir": "output/pilot-20261023-1256/C2-pilot-20261023-1256/try3",
+   "duration": null,
+   "voice": null
+  },
+  {
+   "id": "C3-pilot-20261023-1256",
+   "kind": "carousel",
+   "format": "myth_fact",
+   "topic": "Why ChatGPT Hallucinates Your Quotations (And How Context-Aware AI Fixes It)",
+   "hook": "Why your AI-generated business quotes are often wrong",
+   "approved": false,
+   "attempts": 3,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 9,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 5,
+    "pacing": 9,
+    "brand_consistency": 9,
+    "publish_readiness": 6
+   },
+   "reasons": [
+    "originality 7/10 (<8)",
+    "visual_integrity 5/10 (<8)",
+    "publish_readiness 6/10 (<7)"
+   ],
+   "log": [
+    "attempt 1: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 4, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 5} ['originality 7/10 (<8)', 'visual_integrity 4/10 (<8)', 'publish_readiness 5/10 (<7)']",
+    "attempt 2: fail {'hook': 8, 'originality': 6, 'practical_value': 4, 'natural_language': 7, 'accuracy': 9, 'narrative': 5, 'visual_integrity': 3, 'pacing': 5, 'brand_consistency': 8, 'publish_readiness': 3} ['originality 6/10 (<8)', 'practical_value 4/10 (<8)', 'natural_language 7/10 (<8)', 'narrative 5/10 (<8)']",
+    "attempt 3: fail {'hook': 8, 'originality': 7, 'practical_value': 9, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 5, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 6} ['originality 7/10 (<8)', 'visual_integrity 5/10 (<8)', 'publish_readiness 6/10 (<7)']"
+   ],
+   "dir": "output/pilot-20261023-1256/C3-pilot-20261023-1256/try3",
+   "duration": null,
+   "voice": null
+  },
+  {
+   "id": "C4-pilot-20261023-1256",
+   "kind": "carousel",
+   "format": "case_study",
+   "topic": "The 30,000-Worker Rollout: 3 ChatGPT Workflows to Steal for Your Staff",
+   "hook": "Steal 3 AI workflows from Uber's 30,000-employee rollout",
+   "approved": false,
+   "attempts": 1,
+   "scores": {
+    "hook": 7,
+    "originality": 6,
+    "practical_value": 4,
+    "natural_language": 7,
+    "accuracy": 9,
+    "narrative": 5,
+    "visual_integrity": 3,
+    "pacing": 6,
+    "brand_consistency": 8,
+    "publish_readiness": 3
+   },
+   "reasons": [
+    "hook 7/10 (<8)",
+    "originality 6/10 (<8)",
+    "practical_value 4/10 (<8)",
+    "natural_language 7/10 (<8)",
+    "narrative 5/10 (<8)",
+    "visual_integrity 3/10 (<8)",
+    "pacing 6/10 (<7)",
+    "publish_readiness 3/10 (<7)"
+   ],
+   "log": [
+    "attempt 1: fail {'hook': 7, 'originality': 6, 'practical_value': 4, 'natural_language': 7, 'accuracy': 9, 'narrative': 5, 'visual_integrity': 3, 'pacing': 6, 'brand_consistency': 8, 'publish_readiness': 3} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 4/10 (<8)', 'natural_language 7/10 (<8)']",
+    "attempt 2: fail {'hook': 7, 'originality': 5, 'practical_value': 4, 'natural_language': 6, 'accuracy': 9, 'narrative': 5, 'visual_integrity': 3, 'pacing': 6, 'brand_consistency': 7, 'publish_readiness': 2} ['hook 7/10 (<8)', 'originality 5/10 (<8)', 'practical_value 4/10 (<8)', 'natural_language 6/10 (<8)']",
+    "attempt 3: fail {'hook': 5, 'originality': 3, 'practical_value': 1, 'natural_language': 4, 'accuracy': 6, 'narrative': 2, 'visual_integrity': 1, 'pacing': 2, 'brand_consistency': 3, 'publish_readiness': 1} ['hook 5/10 (<8)', 'originality 3/10 (<8)', 'practical_value 1/10 (<8)', 'natural_language 4/10 (<8)']"
+   ],
+   "dir": "output/pilot-20261023-1256/C4-pilot-20261023-1256/try1",
+   "duration": null,
+   "voice": null
+  },
+  {
+   "id": "C5-pilot-20261023-1256",
+   "kind": "carousel",
+   "format": "manual_vs_auto",
+   "topic": "Webflow vs. WordPress: Which Saves Money for Local Contractors in 2026?",
+   "hook": "Stop paying developers to fix your broken WordPress site",
+   "approved": false,
+   "attempts": 2,
+   "scores": {
+    "hook": 8,
+    "originality": 6,
+    "practical_value": 7,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 7,
+    "visual_integrity": 6,
+    "pacing": 7,
+    "brand_consistency": 9,
+    "publish_readiness": 6
+   },
+   "reasons": [
+    "originality 6/10 (<8)",
+    "practical_value 7/10 (<8)",
+    "narrative 7/10 (<8)",
+    "visual_integrity 6/10 (<8)",
+    "publish_readiness 6/10 (<7)"
+   ],
+   "log": [
+    "attempt 1: fail {'hook': 8, 'originality': 6, 'practical_value': 7, 'natural_language': 6, 'accuracy': 7, 'narrative': 6, 'visual_integrity': 4, 'pacing': 5, 'brand_consistency': 7, 'publish_readiness': 4} ['originality 6/10 (<8)', 'practical_value 7/10 (<8)', 'natural_language 6/10 (<8)', 'accuracy 7/10 (<8)']",
+    "attempt 2: fail {'hook': 8, 'originality': 6, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 6, 'pacing': 7, 'brand_consistency': 9, 'publish_readiness': 6} ['originality 6/10 (<8)', 'practical_value 7/10 (<8)', 'narrative 7/10 (<8)', 'visual_integrity 6/10 (<8)']",
+    "attempt 3: fail {'hook': 7, 'originality': 6, 'practical_value': 6, 'natural_language': 8, 'accuracy': 7, 'narrative': 6, 'visual_integrity': 5, 'pacing': 6, 'brand_consistency': 8, 'publish_readiness': 5} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 6/10 (<8)', 'accuracy 7/10 (<8)']"
+   ],
+   "dir": "output/pilot-20261023-1256/C5-pilot-20261023-1256/try2",
+   "duration": null,
+   "voice": null
+  }
+ ],
+ "llm_calls": {
+  "text": 49,
+  "tts": 29,
+  "failed": 0
+ }
+}

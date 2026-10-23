@@ -1,0 +1,235 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Canva Craft: Generating Festive Store Posters with Layout Planning",
+  "angle": "Canva's new image generation model plans text layout and design hierarchy before generating images, ending the mess of unreadable AI poster text for retail store promotions.",
+  "audience_problem": "Local business owners struggle to design sharp promotional banners and festive discount creatives without hiring expensive graphic designers.",
+  "format": "demo",
+  "medium": "both",
+  "source_ids": [
+   4,
+   10,
+   80
+  ],
+  "evergreen": false,
+  "keywords": [
+   "Canva Craft",
+   "retail banners",
+   "festive marketing",
+   "AI poster design",
+   "store creatives"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 8,
+   "hook_potential": 8,
+   "retention": 8,
+   "save_share": 8,
+   "feasibility": 9,
+   "evidence": 9
+  },
+  "total": 8.45
+ },
+ "piece": {
+  "hooks": [
+   "AI image tools usually mangle text when you try making discount store posters.",
+   "Canva's new AI model plans text layout before generating poster images.",
+   "Stop paying graphic designers for simple festive offer banners in your shop."
+  ],
+  "chosen_hook": 1,
+  "hook_reason": "It directly highlights the unique technical mechanism (layout planning) that solves the primary frustration of unreadable AI text on store banners.",
+  "title": "Clear AI Poster Text with Canva Craft",
+  "scenes": [
+   {
+    "purpose": "Introduce the tool and its unique layout planning feature",
+    "narration": "Canva's new AI model plans text layout before generating poster images.",
+    "on_screen": "Planning layout before image creation",
+    "visual_type": "text",
+    "headline": "Canva Craft AI Model"
+   },
+   {
+    "purpose": "Highlight the common frustration with standard generative AI models",
+    "narration": "Usually, AI tries to render text and art together, making store offers unreadable.",
+    "on_screen": "The usual AI text blur",
+    "visual_type": "photo",
+    "query": "retail shop banner sale India"
+   },
+   {
+    "purpose": "Explain stage 1 of the Canva Craft architecture",
+    "narration": "Canva Craft works in two stages. First, it maps spatial layout, scale, and text elements.",
+    "on_screen": "Stage 1: Spatial layout plan",
+    "visual_type": "diagram",
+    "steps": [
+     "Read prompt",
+     "Map spatial hierarchy",
+     "Plan text layout"
+    ]
+   },
+   {
+    "purpose": "Explain stage 2 of the Canva Craft architecture",
+    "narration": "In stage two, it generates up to 2K resolution visuals across thirty aspect ratios.",
+    "on_screen": "Stage 2: 2K image rendering",
+    "visual_type": "screenshot",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model"
+   },
+   {
+    "purpose": "Show how design-trained models allow layered editing",
+    "narration": "Because it was trained on real Canva templates, you can edit layered text without altering the background.",
+    "on_screen": "Edit text on separate layers",
+    "visual_type": "screenshot",
+    "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/"
+   },
+   {
+    "purpose": "Give practical instructions on where to find the feature",
+    "narration": "To try it for your shop graphics, open Canva and click the Dream Lab tab.",
+    "on_screen": "Open Canva > Dream Lab tab",
+    "visual_type": "checklist",
+    "items": [
+     "Open Canva editor",
+     "Click left-hand menu",
+     "Select Dream Lab tab",
+     "Type poster prompt"
+    ]
+   }
+  ],
+  "caption": "How to generate shop discount posters with clear text using Canva Craft Dream Lab.\n\nCreating promotional banners for festival sales or stock clearances usually means struggling with distorted text in standard AI tools. Canva Craft fixes this by splitting the job into two steps: planning the layout hierarchy first, then generating the 2K image. Since it was trained on actual design templates, text stays legible. You can even edit individual text layers using Canva Magic without ruining the background graphic.\n\nWhere have you faced the biggest issues when generating promotion banners using AI?",
+  "hashtags": [
+   "#CanvaCraft",
+   "#RetailMarketing",
+   "#RetailDesign",
+   "#SmallBusinessIndia",
+   "#StorePromotions"
+  ],
+  "keywords": [
+   "Canva Craft",
+   "AI poster generator",
+   "retail store banners",
+   "festive discount creatives",
+   "Dream Lab Canva"
+  ],
+  "claims": [
+   {
+    "claim": "Canva released its first image generation model named Canva Craft.",
+    "source_id": 4
+   },
+   {
+    "claim": "Canva Craft works in two stages: first planning spatial relationships, scale, hierarchy, and text, then generating the image.",
+    "source_id": 4
+   },
+   {
+    "claim": "The model supports up to 2K resolution images across 30 aspect ratios.",
+    "source_id": 10
+   },
+   {
+    "claim": "Canva Craft was trained on human-designed templates from Canva's library, including posters and menus.",
+    "source_id": 4
+   },
+   {
+    "claim": "Generated images can be converted into layered designs for precise editing without altering other parts.",
+    "source_id": 4
+   },
+   {
+    "claim": "Users can access Canva Craft on the platform under the Dream Lab tab.",
+    "source_id": 10
+   }
+  ]
+ },
+ "review": {
+  "scores": {
+   "hook": 6,
+   "originality": 6,
+   "practical_value": 7,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 7,
+   "visual_integrity": 5,
+   "pacing": 7,
+   "brand_consistency": 8,
+   "publish_readiness": 5
+  },
+  "claims": [
+   {
+    "claim": "Canva released its first image generation model named Canva Craft.",
+    "supported": true,
+    "note": "Supported by Source 4 and 10."
+   },
+   {
+    "claim": "Canva Craft works in two stages: first planning spatial relationships, scale, hierarchy, and text, then generating the image.",
+    "supported": true,
+    "note": "Supported by Source 4 and 10."
+   },
+   {
+    "claim": "The model supports up to 2K resolution images across 30 aspect ratios.",
+    "supported": true,
+    "note": "Supported by Source 4 and 10."
+   },
+   {
+    "claim": "Canva Craft was trained on human-designed templates from Canva's library, including posters and menus.",
+    "supported": true,
+    "note": "Supported by Source 4."
+   },
+   {
+    "claim": "Generated images can be converted into layered designs for precise editing without altering other parts.",
+    "supported": true,
+    "note": "Supported by Source 4."
+   },
+   {
+    "claim": "Users can access Canva Craft on the platform under the Dream Lab tab.",
+    "supported": true,
+    "note": "Supported by Source 4 and 10."
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Scene 2: The visual shows a real photograph of an Indian street with legible shopfront neon signs, rather than demonstrating garbled/blurry AI-generated text as referenced in the headline.",
+   "Scene 4: Displays a screenshot of a news article (The Verge) rather than demonstrating the Canva tool interface or rendered 2K visual.",
+   "Scene 5: Displays a TechCrunch article body layout/ad image instead of showing layered text editing inside the Canva Magic / Canva editor interface."
+  ],
+  "issues": [
+   "The chosen hook ('Canva's new AI model plans text layout before generating poster images.') is dry and technical. Hook 0 ('AI image tools usually mangle text when you try making discount store posters.') would perform better for shopkeepers."
+  ],
+  "fix_instructions": "1. Replace news article screenshots in Scene 4 and Scene 5 with real Canva UI / Dream Lab screenshots demonstrating image generation and layered editing. 2. Replace the street photograph in Scene 2 with an actual example of mangled AI text on a promotional graphic to visually match the headline. 3. Switch chosen_hook to Hook 0 for stronger scroll-stopping appeal."
+ },
+ "rules": [],
+ "reasons": [
+  "hook 6/10 (<8)",
+  "originality 6/10 (<8)",
+  "practical_value 7/10 (<8)",
+  "narrative 7/10 (<8)",
+  "visual_integrity 5/10 (<8)",
+  "publish_readiness 5/10 (<7)"
+ ],
+ "meta": {
+  "duration": 44.1,
+  "voice": "edge",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1256/R3-pilot-20261023-1256/try1/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1256/R3-pilot-20261023-1256/try1/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1256/R3-pilot-20261023-1256/try1/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1256/R3-pilot-20261023-1256/try1/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1256/R3-pilot-20261023-1256/try1/scene_05.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1256/R3-pilot-20261023-1256/try1/scene_06.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   6.54,
+   7.26,
+   8.61,
+   7.48,
+   7.84,
+   6.4
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1256/R3-pilot-20261023-1256/try1",
+ "attempt": 1,
+ "approved": false,
+ "hook": "Canva's new AI model plans text layout before generating poster images.",
+ "log": [
+  "attempt 1: fail {'hook': 6, 'originality': 6, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 5, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 5} ['hook 6/10 (<8)', 'originality 6/10 (<8)', 'practical_value 7/10 (<8)', 'narrative 7/10 (<8)']",
+  "attempt 2: fail {'hook': 7, 'originality': 6, 'practical_value': 7, 'natural_language': 7, 'accuracy': 8, 'narrative': 7, 'visual_integrity': 5, 'pacing': 7, 'brand_consistency': 7, 'publish_readiness': 5} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 7/10 (<8)', 'natural_language 7/10 (<8)']",
+  "attempt 3: fail {'hook': 6, 'originality': 5, 'practical_value': 6, 'natural_language': 6, 'accuracy': 9, 'narrative': 6, 'visual_integrity': 1, 'pacing': 5, 'brand_consistency': 5, 'publish_readiness': 1} ['scene 2 screenshot URL is not one of the sources', 'scene 5 screenshot URL is not one of the sources', 'hook 6/10 (<8)', 'originality 5/10 (<8)']"
+ ],
+ "id": "R3-pilot-20261023-1256",
+ "caption_final": "How to generate shop discount posters with clear text using Canva Craft Dream Lab.\n\nCreating promotional banners for festival sales or stock clearances usually means struggling with distorted text in standard AI tools. Canva Craft fixes this by splitting the job into two steps: planning the layout hierarchy first, then generating the 2K image. Since it was trained on actual design templates, text stays legible. You can even edit individual text layers using Canva Magic without ruining the background graphic.\n\nWhere have you faced the biggest issues when generating promotion banners using AI?\n\n#CanvaCraft #RetailMarketing #RetailDesign #SmallBusinessIndia #StorePromotions"
+}

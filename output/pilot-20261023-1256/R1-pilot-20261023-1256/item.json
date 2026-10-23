@@ -1,0 +1,205 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Stop Typing Invoices: The Mobile OCR Stack for Indian Traders",
+  "angle": "Why manual entry from paper delivery challans and vendor bills is destroying your cash cycle—and how free mobile OCR tools turn physical slips into Excel/Tally rows in 10 seconds.",
+  "audience_problem": "Indian traders and retail shop owners waste 2-3 hours daily manually typing vendor bills and purchase receipts into spreadsheets.",
+  "format": "tutorial",
+  "medium": "both",
+  "source_ids": [
+   64
+  ],
+  "evergreen": true,
+  "keywords": [
+   "OCR scanner",
+   "paper bills to excel",
+   "invoice automation",
+   "tally data entry",
+   "trader tools"
+  ],
+  "scores": {
+   "relevance": 10,
+   "novelty": 7,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 10,
+   "feasibility": 9,
+   "evidence": 8
+  },
+  "total": 8.83
+ },
+ "piece": {
+  "hooks": [
+   "Are you still typing supplier bills into your computer by hand?",
+   "Stop wasting hours every day copying paper invoices into your tally software.",
+   "Your manual data entry is killing your business cash flow."
+  ],
+  "chosen_hook": 1,
+  "hook_reason": "It addresses the specific pain point of the target audience (traders/shop owners) and highlights a direct, time-consuming business problem.",
+  "title": "Stop Typing Invoices: The Mobile OCR Stack",
+  "scenes": [
+   {
+    "purpose": "Define the problem.",
+    "narration": "Stop wasting hours every day copying paper invoices into your tally software.",
+    "on_screen": "Manual entry ruins your flow",
+    "visual_type": "text"
+   },
+   {
+    "purpose": "Introduce the OCR solution.",
+    "narration": "Use a mobile OCR app. It turns a photo of a physical bill into digital text instantly.",
+    "on_screen": "Use mobile OCR tools",
+    "visual_type": "diagram",
+    "steps": [
+     "Take photo of receipt",
+     "App scans text",
+     "Export to digital file"
+    ]
+   },
+   {
+    "purpose": "Show the tool in action.",
+    "narration": "Adobe Scan is a reliable choice. It recognizes text and handles different document types like receipts or ID cards.",
+    "on_screen": "Adobe Scan works well",
+    "visual_type": "screenshot",
+    "url": "https://zapier.com/blog/best-mobile-scanning-ocr-apps"
+   },
+   {
+    "purpose": "Mention limitations.",
+    "narration": "Be careful though. Folded, torn, or faded receipts can confuse the app. It works best on crisp, black text.",
+    "on_screen": "OCR has limits",
+    "visual_type": "text"
+   },
+   {
+    "purpose": "Provide the final takeaway.",
+    "narration": "Check your existing phone apps first. Many already have built-in scanning features before you download anything new.",
+    "on_screen": "Check your existing apps",
+    "visual_type": "checklist",
+    "items": [
+     "Look for scan buttons",
+     "Test with a clean bill",
+     "Export as Word or PDF"
+    ]
+   }
+  ],
+  "caption": "Stop manual data entry for your shop or business. Using mobile OCR scanning apps turns paper delivery challans and vendor bills into editable text in seconds. You don't need a heavy desktop scanner to digitize your records. Start by testing your current phone camera or a free tool like Adobe Scan. Remember, OCR isn't magic; it struggles with crumpled or faded paper, so keep your source documents flat for the best results. Which part of your billing process takes the most time each week? #smallbusinessindia #accountingtips #retailmanagement #digitization #traderlife",
+  "hashtags": [
+   "#smallbusinessindia",
+   "#accountingtips",
+   "#retailmanagement",
+   "#digitization",
+   "#traderlife"
+  ],
+  "keywords": [
+   "manual invoice entry",
+   "OCR scanning apps",
+   "digitize business documents",
+   "small business automation",
+   "Adobe Scan"
+  ],
+  "claims": [
+   {
+    "claim": "OCR software turns mobile scans into editable digital documents.",
+    "source_id": 64
+   },
+   {
+    "claim": "Adobe Scan includes modes for books, documents, business cards, and ID cards.",
+    "source_id": 64
+   },
+   {
+    "claim": "Scanning results are best with flat, single-sided, crisp black text on white paper.",
+    "source_id": 64
+   },
+   {
+    "claim": "Many existing apps in your tech stack may already include OCR technology.",
+    "source_id": 64
+   }
+  ]
+ },
+ "review": {
+  "scores": {
+   "hook": 7,
+   "originality": 6,
+   "practical_value": 8,
+   "natural_language": 7,
+   "accuracy": 9,
+   "narrative": 7,
+   "visual_integrity": 4,
+   "pacing": 6,
+   "brand_consistency": 8,
+   "publish_readiness": 5
+  },
+  "claims": [
+   {
+    "claim": "OCR software turns mobile scans into editable digital documents.",
+    "supported": true
+   },
+   {
+    "claim": "Adobe Scan includes modes for books, documents, business cards, and ID cards.",
+    "supported": true
+   },
+   {
+    "claim": "Scanning results are best with flat, single-sided, crisp black text on white paper.",
+    "supported": true
+   },
+   {
+    "claim": "Many existing apps in your tech stack may already include OCR technology.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Slide 1: The text 'your tally software.' is cut off at the bottom and overlaps with the footer area.",
+   "Slide 2: The text 'a physical bill into digital' is cut off at the bottom.",
+   "Slide 3: The screenshot is generic and doesn't show the actual Adobe Scan interface, making it less practical.",
+   "Slide 4: The text 'It works best on crisp,' is cut off at the bottom.",
+   "Slide 5: The text 'built-in scanning features' is cut off at the bottom."
+  ],
+  "issues": [
+   "The text at the bottom of every slide is being cut off by the Instagram UI/safe zone.",
+   "The visual hierarchy is poor; the main headline is repeated inside the white box, which is redundant.",
+   "The narration is not fully visible on screen, and the text that is visible is incomplete sentences.",
+   "The reel lacks a clear call to action or a 'save this for later' prompt."
+  ],
+  "fix_instructions": "1. Fix the text layout: Move all text higher up to ensure it stays within the safe zone (avoid the bottom 20% of the screen). 2. Remove the redundant headline inside the white box; use that space for the actual content or a clear step-by-step visual. 3. Ensure all on-screen text forms complete, readable sentences. 4. Replace the generic blog screenshot in Slide 3 with a high-quality, cropped screenshot of the actual Adobe Scan interface showing a document being scanned. 5. Add a final slide with a clear CTA: 'Save this to try it on your next invoice'."
+ },
+ "rules": [],
+ "reasons": [
+  "hook 7/10 (<8)",
+  "originality 6/10 (<8)",
+  "natural_language 7/10 (<8)",
+  "narrative 7/10 (<8)",
+  "visual_integrity 4/10 (<8)",
+  "pacing 6/10 (<7)",
+  "publish_readiness 5/10 (<7)"
+ ],
+ "meta": {
+  "duration": 63.8,
+  "voice": "gemini",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1256/R1-pilot-20261023-1256/try3/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1256/R1-pilot-20261023-1256/try3/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1256/R1-pilot-20261023-1256/try3/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1256/R1-pilot-20261023-1256/try3/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1256/R1-pilot-20261023-1256/try3/scene_05.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   6.35,
+   7.59,
+   21.51,
+   8.35,
+   20.03
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1256/R1-pilot-20261023-1256/try3",
+ "attempt": 3,
+ "approved": false,
+ "hook": "Stop wasting hours every day copying paper invoices into your tally software.",
+ "log": [
+  "attempt 1: fail {'hook': 7, 'originality': 6, 'practical_value': 6, 'natural_language': 7, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 4, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 4} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 6/10 (<8)', 'natural_language 7/10 (<8)']",
+  "attempt 2: fail {'hook': 7, 'originality': 6, 'practical_value': 8, 'natural_language': 5, 'accuracy': 9, 'narrative': 6, 'visual_integrity': 3, 'pacing': 4, 'brand_consistency': 7, 'publish_readiness': 3} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'natural_language 5/10 (<8)', 'narrative 6/10 (<8)']",
+  "attempt 3: fail {'hook': 7, 'originality': 6, 'practical_value': 8, 'natural_language': 7, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 4, 'pacing': 6, 'brand_consistency': 8, 'publish_readiness': 5} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'natural_language 7/10 (<8)', 'narrative 7/10 (<8)']"
+ ],
+ "id": "R1-pilot-20261023-1256",
+ "caption_final": "Stop manual data entry for your shop or business. Using mobile OCR scanning apps turns paper delivery challans and vendor bills into editable text in seconds. You don't need a heavy desktop scanner to digitize your records. Start by testing your current phone camera or a free tool like Adobe Scan. Remember, OCR isn't magic; it struggles with crumpled or faded paper, so keep your source documents flat for the best results. Which part of your billing process takes the most time each week? #smallbusinessindia #accountingtips #retailmanagement #digitization #traderlife\n\n#smallbusinessindia #accountingtips #retailmanagement #digitization #traderlife"
+}
