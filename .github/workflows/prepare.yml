@@ -1,15 +1,17 @@
-name: 1 - Prepare daily carousel (7:00 AM IST)
+name: 1 - Produce daily content (5:30 AM IST)
 on:
   schedule:
-    - cron: "30 1 * * *"   # 01:30 UTC = 07:00 IST
+    - cron: "0 0 * * *"   # 00:00 UTC = 05:30 IST
   workflow_dispatch:
 permissions:
   contents: write
-concurrency: insta-bot
+concurrency:
+  group: insta-bot
+  cancel-in-progress: false
 jobs:
-  prepare:
-    if: ${{ github.event_name == 'workflow_dispatch' }}  # paused during v2 upgrade
+  produce:
     runs-on: ubuntu-latest
+    timeout-minutes: 330
     env:
       GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
@@ -17,22 +19,30 @@ jobs:
       TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
       IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
       IG_USER_ID: ${{ secrets.IG_USER_ID }}
+      PYTHONUNBUFFERED: "1"
+      MAX_REELS: "4"
+      MAX_CAROUSELS: "4"
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
           cache: pip
-      - run: pip install -r requirements.txt
-      - run: python src/main.py prepare
+      - name: Install
+        run: |
+          (sudo apt-get update -qq && sudo apt-get install -y -qq fonts-inter) >/dev/null 2>&1 || echo "fonts-inter not available; using Poppins"
+          pip install -q -r requirements.txt
+          python -m playwright install --with-deps chromium >/dev/null
+      - run: python src/main.py produce
       - name: Save results to repo
+        if: always()
         run: |
           git config user.name "insta-bot"
           git config user.email "insta-bot@users.noreply.github.com"
           git add -A output data
-          git diff --cached --quiet || git commit -m "bot: $(date -u +%F) ${{ github.workflow }}"
-          git pull --rebase
-          git push
+          git diff --cached --quiet && exit 0
+          git commit -q -m "bot: ${{ github.workflow }} $(date -u +%FT%H%M)"
+          for i in 1 2 3; do git pull -q --rebase && git push -q && break; sleep 5; done
       - name: Tell me on Telegram if this failed
         if: failure()
         run: |
