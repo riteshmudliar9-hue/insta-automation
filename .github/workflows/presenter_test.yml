@@ -4,10 +4,10 @@ on:
     inputs:
       size:
         description: "256 or 512"
-        default: "256"
+        default: "512"
       enhancer:
         description: "none or gfpgan"
-        default: "none"
+        default: "gfpgan"
 permissions:
   contents: write
 jobs:
