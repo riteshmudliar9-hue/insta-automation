@@ -38,6 +38,9 @@ WHAT HAS WORKED SO FAR (from our own Instagram Insights; may be empty early on):
 {formats}
 
 TASK: Propose 14 distinct content ideas. Each must be grounded in one or more sources above (list their ids).
+NICHE (hard rule): every idea must be about USING AI or automation tools/workflows in a business (a named tool,
+a workflow, a setting, a cost, a risk of a tool). General self-help, productivity, mindset or management advice
+with no AI/automation tool at its centre is OFF-NICHE: do not propose it.
 Prefer: real audience questions, practical tools the audience can use this week, honest comparisons,
 mistakes and limits, and evergreen how-tos. Avoid: pure funding/industry gossip, vague "AI will change everything",
 self-promotional Reddit posts unless the tool is genuinely useful and free/cheap, anything needing facts not in sources.
@@ -78,8 +81,8 @@ def select(ideas, n_reels, n_carousels):
         if idea["scores"]["evidence"] < 6 or not idea["source_ids"]:
             rejected.append((idea["idea"], "weak evidence"))
             continue
-        if idea["scores"]["relevance"] < 6:
-            rejected.append((idea["idea"], "low relevance"))
+        if idea["scores"]["relevance"] < 7 or idea["scores"].get("novelty", 0) < 7:
+            rejected.append((idea["idea"], "low relevance or novelty"))
             continue
         want_reel = idea["medium"] in ("reel", "both") and len(reels) < n_reels and \
             idea["format"] not in [r["format"] for r in reels]
