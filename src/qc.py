@@ -20,6 +20,10 @@ REVIEW_SCHEMA = {"type": "OBJECT", "properties": {
     "fix_instructions": {"type": "STRING"}},
     "required": ["scores", "claims", "spelling_errors", "visual_issues", "issues", "fix_instructions"]}
 
+REQ = {"cover": ["title", "subtitle"], "point": ["title", "body"], "steps": ["title", "items"],
+       "checklist": ["title", "items"], "compare": ["title", "rows"], "mythfact": ["myth", "fact"],
+       "quote": ["quote", "attribution"], "summary": ["title", "items"]}
+
 REVIEW = """You are a strict senior editor and fact-checker for an Instagram account about practical AI for Indian
 small-business owners. Review this {kind} BEFORE it is published. Be demanding: 8/10 means genuinely good enough
 to compete with the best human creators in this niche; most first drafts should score 5-7.
@@ -36,6 +40,11 @@ visual_integrity: in the attached rendered images: readable text, nothing cut of
 pacing: (reel) scene lengths sensible, no dragging; (carousel) right number of slides, not text-heavy.
 brand_consistency: calm, practical, Indian-SMB-relevant voice and the restrained navy/cream/saffron look?
 publish_readiness: overall, would you publish this today without edits?
+
+HOW TO READ THE IMAGES: carousel images are the full slides. Reel images are ONE still frame per scene taken
+mid-scene: the white subtitle box shows only the 3-6 word chunk being spoken at that instant (by design, not cut off);
+list items/rows appear one by one, so a frame may show only some of them. Judge layout, readability, relevance of the
+visual to the narration, and whether anything looks broken, blank, cluttered or fake.
 
 Also: list each factual claim and whether the source supports it; list spelling/grammar errors in on-screen text;
 list visual problems you can SEE in the images (be specific: slide/scene number); list other issues; then write
@@ -96,14 +105,24 @@ def rule_checks(piece, kind, source_urls, n_sources):
             probs.append(f"{len(sc)} scenes (want 4-8)")
         if sc and len(sc[0].get("narration", "").split()) > 18:
             probs.append("opening line too long for a 3-second hook")
+        total = sum(len(s.get("narration", "").split()) for s in sc)
+        if not 45 <= total <= 125:
+            probs.append(f"total narration {total} words (want 55-110, i.e. 22-45 s)")
         for i, s in enumerate(sc, 1):
             n = len(s.get("narration", "").split())
             if n < 4 or n > 34:
                 probs.append(f"scene {i} narration {n} words")
             if len(s.get("on_screen", "").split()) > 7:
                 probs.append(f"scene {i} on-screen text too long")
-            if s.get("visual_type") == "screenshot" and s.get("url") not in source_urls:
-                probs.append(f"scene {i} screenshot URL is not one of the sources")
+            vt = s.get("visual_type")
+            if vt == "screenshot" and (s.get("url") not in source_urls or config.is_news(s.get("url"))):
+                probs.append(f"scene {i}: screenshot must be a product page from the sources, not an article")
+            if vt == "diagram" and len(s.get("steps") or []) < 2:
+                probs.append(f"scene {i}: diagram needs 2-4 steps")
+            if vt == "compare" and len(s.get("rows") or []) < 2:
+                probs.append(f"scene {i}: compare needs rows")
+            if vt == "checklist" and len(s.get("items") or []) < 2:
+                probs.append(f"scene {i}: checklist needs items")
     else:
         sl = piece.get("slides", [])
         if not 4 <= len(sl) <= 9:
@@ -113,6 +132,10 @@ def rule_checks(piece, kind, source_urls, n_sources):
         if sl and sl[-1].get("kind") not in ("summary", "checklist"):
             probs.append("last slide must be a useful summary/checklist")
         for i, s in enumerate(sl, 1):
+            for fld in REQ.get(s.get("kind"), []):
+                v = s.get(fld)
+                if not v or (isinstance(v, list) and len(v) < (2 if fld != "rows" else 2)):
+                    probs.append(f"slide {i} ({s.get('kind')}) is missing '{fld}'")
             if len(s.get("body", "").split()) > 40:
                 probs.append(f"slide {i} body too long for a phone")
     return probs
