@@ -85,29 +85,68 @@ def concat_audio(wavs, durs, path):
 
 
 # ---------------- subtitles ----------------
-def chunks(text, max_words=5, max_chars=30):
-    out, cur = [], []
-    for w in text.split():
-        if cur and (len(cur) >= max_words or len(" ".join(cur + [w])) > max_chars):
-            out.append(" ".join(cur))
-            cur = []
+WEAK_END = {"a", "an", "the", "to", "of", "and", "or", "but", "in", "on", "at", "for", "with", "your", "my",
+            "our", "their", "is", "are", "was", "that", "this", "it", "you", "we", "they", "by", "from", "as",
+            "if", "so", "than", "into", "about", "can", "will", "do", "does", "not", "no", "be", "just", "every"}
+
+
+def chunks(text, max_words=8, max_chars=40, min_words=3):
+    """Phrase-aware subtitle chunks (1-2 lines). Breaks at punctuation; never ends a chunk on a weak word."""
+    words, out, cur = text.split(), [], []
+    for i, w in enumerate(words):
         cur.append(w)
-        if w.endswith((".", "?", "!")) or (w.endswith(",") and len(cur) >= 2):
-            out.append(" ".join(cur))
-            cur = []
+        nxt = words[i + 1] if i + 1 < len(words) else None
+        line = " ".join(cur)
+        if nxt is None:
+            break
+        if w.endswith((".", "?", "!", ":")) or (w.endswith((",", ";")) and len(cur) >= min_words):
+            out.append(line); cur = []
+            continue
+        too_long = len(cur) >= max_words or len(line + " " + nxt) > max_chars
+        if too_long:
+            # move weak trailing words to the next chunk
+            keep = list(cur)
+            carry = []
+            while len(keep) > 2 and keep[-1].lower().strip(",.") in WEAK_END:
+                carry.insert(0, keep.pop())
+            out.append(" ".join(keep)); cur = carry
     if cur:
-        out.append(" ".join(cur))
+        if out and len(cur) < 2 and len(out[-1]) + len(cur[0]) < max_chars + 8:
+            out[-1] += " " + " ".join(cur)
+        else:
+            out.append(" ".join(cur))
     return out
 
 
+def _sub_lines(text, f, d, width=880):
+    if d.textlength(text, font=f) <= width:
+        return [text]
+    words = text.split()
+    best = None
+    for k in range(1, len(words)):
+        a, b = " ".join(words[:k]), " ".join(words[k:])
+        w = max(d.textlength(a, font=f), d.textlength(b, font=f))
+        if words[k - 1].lower() in WEAK_END:
+            w += 60   # prefer not to break a line after a weak word
+        if best is None or w < best[0]:
+            best = (w, [a, b])
+    return best[1]
+
+
 def subtitle_img(text):
-    img = Image.new("RGBA", (RW, 160), (0, 0, 0, 0))
+    img = Image.new("RGBA", (RW, 240), (0, 0, 0, 0))
     d = ImageDraw.Draw(img)
-    f = D.font("Bold", 54)
-    tw = d.textlength(text, font=f)
+    f = D.font("Bold", 52)
+    lines = _sub_lines(text, f, d)
+    lh = 66
+    tw = max(d.textlength(l, font=f) for l in lines)
+    top = 30
     x0 = (RW - tw) / 2
-    d.rounded_rectangle((x0 - 26, 30, x0 + tw + 26, 122), radius=20, fill=(13, 22, 40, 215))
-    d.text((x0, 42), text, font=f, fill=D.WHITE)
+    d.rounded_rectangle((x0 - 26, top, x0 + tw + 26, top + 24 + lh * len(lines)), radius=20,
+                        fill=(13, 22, 40, 225))
+    for j, l in enumerate(lines):
+        lw = d.textlength(l, font=f)
+        d.text(((RW - lw) / 2, top + 10 + j * lh), l, font=f, fill=D.WHITE)
     return img
 
 
