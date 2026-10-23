@@ -76,12 +76,18 @@ def _pcm_to_wav(pcm, rate=24000):
     return buf.getvalue()
 
 
+TTS_EXHAUSTED = [False]
+
+
 def gemini_tts(text):
     """Returns WAV bytes or None (quota/unavailable)."""
+    if TTS_EXHAUSTED[0]:
+        return None
     body = {"contents": [{"parts": [{"text": config.VOICE_STYLE + text}]}],
             "generationConfig": {"responseModalities": ["AUDIO"],
                                  "speechConfig": {"voiceConfig": {"prebuiltVoiceConfig":
                                                                   {"voiceName": config.GEMINI_VOICE}}}}}
+    quota_hits = []
     for model in config.GEMINI_TTS_MODELS:
         for attempt in range(2):
             try:
@@ -90,6 +96,7 @@ def gemini_tts(text):
                 continue
             if r.status_code == 429:
                 print(f"[tts] {model} quota reached")
+                quota_hits.append(model)
                 break
             if r.status_code != 200:
                 time.sleep(5)
@@ -107,4 +114,6 @@ def gemini_tts(text):
             if "rate=" in mt:
                 rate = int(mt.split("rate=")[1].split(";")[0])
             return _pcm_to_wav(data, rate)
+    if len(quota_hits) == len(config.GEMINI_TTS_MODELS):
+        TTS_EXHAUSTED[0] = True
     return None
