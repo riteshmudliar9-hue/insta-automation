@@ -1,0 +1,223 @@
+{
+ "kind": "carousel",
+ "idea": {
+  "idea": "Using AI agents for 'impossible' lead generation",
+  "angle": "How to automate finding qualified leads that aren't even looking for you yet.",
+  "audience_problem": "Sales teams in India struggle with manual cold outreach that doesn't convert.",
+  "format": "case_study",
+  "medium": "carousel",
+  "source_ids": [
+   60
+  ],
+  "evergreen": true,
+  "keywords": [
+   "lead generation",
+   "AI agents",
+   "sales automation",
+   "Claude"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 8,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 7,
+   "evidence": 9
+  },
+  "total": 8.58
+ },
+ "piece": {
+  "hooks": [
+   "How to automate finding leads who aren't even looking",
+   "Stop manually searching for leads: let AI build lists",
+   "Why your best potential customers are currently working elsewhere"
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "It directly addresses the 'impossible' lead generation angle by focusing on the specific benefit—finding passive candidates—which is the core value proposition of the source case study.",
+  "slides": [
+   {
+    "kind": "cover",
+    "title": "How to automate finding leads who aren't even looking",
+    "subtitle": "Use AI to build and qualify lists while you focus on conversations.",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "point",
+    "title": "The Passive Candidate Problem",
+    "subtitle": "",
+    "body": "The best potential leads are often already employed and not actively searching for your services. You must find them and earn their attention, which is repetitive, manual work.",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "steps",
+    "title": "How to Build the System",
+    "subtitle": "",
+    "body": "Blue Castle Agency uses Claude and Zapier MCP to automate lead sourcing. Here is how it works:",
+    "items": [
+     "Claude reads job requirements and success profiles from your CRM",
+     "It searches external platforms to build a targeted list of leads",
+     "A second AI pass acts as quality control for the list",
+     "The system prepares client submission notes and resumes automatically"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "compare",
+    "title": "Quality Control Results",
+    "subtitle": "",
+    "body": "Automating the screening process improved the approval rate of candidate lists significantly.",
+    "items": [],
+    "left_label": "Human Sourcers",
+    "right_label": "AI (Claude) Lists",
+    "rows": [
+     {
+      "left": "78-83% approval rate",
+      "right": "94% approval rate"
+     },
+     {
+      "left": "High manual effort",
+      "right": "Automated quality checks"
+     }
+    ],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "mythfact",
+    "title": "The Reality of AI Agents",
+    "subtitle": "",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "AI agents can independently access all your business tools.",
+    "fact": "Claude cannot reach into your CRM or spreadsheets alone. You need tools like Zapier MCP to provide the context and connections.",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "summary",
+    "title": "Key Takeaways",
+    "subtitle": "",
+    "body": "Automating lead generation is about context, not just code.",
+    "items": [
+     "AI agents perform best on repeatable sourcing tasks",
+     "Use AI for quality control to save hours daily",
+     "Human time should be reserved for high-value conversations",
+     "Focus on building systems that scale with a knob"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   }
+  ],
+  "caption": "Finding new clients usually means hours of manual searching. A recruitment firm, Blue Castle Agency, shifted this work to AI, saving 240+ hours per week. By giving Claude context via Zapier MCP, they automated building lists and quality control. The result? Their automated lists have a 94% approval rate compared to 83% for manual lists. Note: AI cannot navigate your tools alone; it needs specific bridges like Zapier MCP to connect with your CRM or sourcing platforms. Are you currently spending more time finding leads or actually talking to them? #BusinessAutomation #SalesGrowth #Zapier #LeadGeneration #ProductivityTips",
+  "hashtags": [
+   "#BusinessAutomation",
+   "#SalesGrowth",
+   "#Zapier",
+   "#LeadGeneration",
+   "#ProductivityTips"
+  ],
+  "keywords": [
+   "AI lead generation",
+   "automated sales outreach",
+   "Zapier MCP",
+   "small business automation",
+   "lead qualification"
+  ],
+  "claims": [
+   {
+    "claim": "Blue Castle Agency uses Claude and Zapier MCP to automate sourcing and quality control, saving 240+ hours per week.",
+    "source_id": 60
+   },
+   {
+    "claim": "Human-sourced candidate lists have an approval rate of 78-83%, while AI-sourced lists have an approval rate of 94%.",
+    "source_id": 60
+   },
+   {
+    "claim": "Claude cannot reach into an applicant tracking system or sourcing platform by itself; it requires Zapier MCP for connectivity.",
+    "source_id": 60
+   }
+  ]
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 9,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "Blue Castle Agency uses Claude and Zapier MCP to automate sourcing and quality control, saving 240+ hours per week.",
+    "supported": true
+   },
+   {
+    "claim": "Human-sourced candidate lists have an approval rate of 78-83%, while AI-sourced lists have an approval rate of 94%.",
+    "supported": true
+   },
+   {
+    "claim": "Claude cannot reach into an applicant tracking system or sourcing platform by itself; it requires Zapier MCP for connectivity.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [],
+  "issues": [
+   "The term 'CRM' in slide 3 is a slight generalization; the source material specifically refers to an 'applicant tracking system' (ATS). While related, for a B2B audience, precision matters.",
+   "The 'scale with a knob' metaphor in slide 6 is a direct quote from the source but might be slightly confusing to a reader without the context of the full article."
+  ],
+  "fix_instructions": "On slide 3, change 'CRM' to 'ATS' to align with the source material's specific terminology. On slide 6, keep the 'knob' reference but consider adding a tiny sub-text or keeping it as is—it's a strong, memorable quote from the CEO, so it's acceptable if you want to maintain the punchy tone."
+ },
+ "rules": [],
+ "reasons": [],
+ "meta": {
+  "ai_visuals": false,
+  "slides": 6
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1537/C2-pilot-20261023-1537/try1",
+ "attempt": 1,
+ "approved": true,
+ "hook": "How to automate finding leads who aren't even looking",
+ "log": [
+  "attempt 1: PASS {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 9, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} []"
+ ],
+ "id": "C2-pilot-20261023-1537",
+ "caption_final": "Finding new clients usually means hours of manual searching. A recruitment firm, Blue Castle Agency, shifted this work to AI, saving 240+ hours per week. By giving Claude context via Zapier MCP, they automated building lists and quality control. The result? Their automated lists have a 94% approval rate compared to 83% for manual lists. Note: AI cannot navigate your tools alone; it needs specific bridges like Zapier MCP to connect with your CRM or sourcing platforms. Are you currently spending more time finding leads or actually talking to them? #BusinessAutomation #SalesGrowth #Zapier #LeadGeneration #ProductivityTips\n\n#BusinessAutomation #SalesGrowth #Zapier #LeadGeneration #ProductivityTips"
+}

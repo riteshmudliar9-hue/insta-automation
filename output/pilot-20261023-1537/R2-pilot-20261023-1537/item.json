@@ -1,0 +1,232 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Using 1Password for secure AI agent delegation",
+  "angle": "How to let AI run your business apps without ever sharing your master passwords.",
+  "audience_problem": "Small business owners fear giving AI tools access to their bank or email logins.",
+  "format": "problem_fix",
+  "medium": "reel",
+  "source_ids": [
+   3
+  ],
+  "evergreen": true,
+  "keywords": [
+   "1Password",
+   "AI agents",
+   "security",
+   "automation"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 8,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 8,
+   "evidence": 9
+  },
+  "total": 8.66
+ },
+ "piece": {
+  "hooks": [
+   "Stop sharing your bank passwords with AI assistants right now.",
+   "You can now let AI agents work for you without giving them your password.",
+   "Banks are scared of AI agents, but you can secure your access today."
+  ],
+  "chosen_hook": 1,
+  "hook_reason": "This hook addresses the specific pain point of AI adoption (fear of sharing credentials) while immediately offering a solution, which is highly relevant for small business owners concerned with security.",
+  "title": "Securely Delegating Tasks to AI Agents",
+  "scenes": [
+   {
+    "purpose": "Identify the problem",
+    "narration": "You can now let AI agents work for you without giving them your password.",
+    "on_screen": "AI delegation without risks",
+    "visual_type": "text",
+    "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+    "query": "",
+    "headline": "AI delegation made safe",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Explain the risk",
+    "narration": "Sharing passwords with AI is risky. It leaves sensitive data exposed in places you cannot control.",
+    "on_screen": "Stop sharing raw credentials",
+    "visual_type": "text",
+    "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+    "query": "",
+    "headline": "Why sharing passwords fails",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Show the manual vs automated security model",
+    "narration": "The new 1Password for Agents creates a bridge between your AI and your accounts.",
+    "on_screen": "How it keeps you safe",
+    "visual_type": "compare",
+    "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+    "query": "",
+    "headline": "The secure delegation flow",
+    "steps": [],
+    "items": [],
+    "left_label": "Old Way",
+    "right_label": "New Way",
+    "rows": [
+     {
+      "left": "Sharing password",
+      "right": "Using digital key"
+     },
+     {
+      "left": "Agent has access",
+      "right": "Agent has zero access"
+     },
+     {
+      "left": "High risk",
+      "right": "User confirms login"
+     }
+    ]
+   },
+   {
+    "purpose": "Explain how it works",
+    "narration": "The agent requests access, 1Password sends a unique key, and you approve it manually.",
+    "on_screen": "You remain in control",
+    "visual_type": "diagram",
+    "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+    "query": "",
+    "headline": "Your approval is mandatory",
+    "steps": [
+     "Agent requests access",
+     "Unique key sent",
+     "User approves alert",
+     "1Password fills details"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Give a caveat and final takeaway",
+    "narration": "It works with major agents, but always remember: banks are actively detecting unauthorized agent activity.",
+    "on_screen": "Check your bank policy",
+    "visual_type": "checklist",
+    "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+    "query": "",
+    "headline": "Before you automate",
+    "steps": [],
+    "items": [
+     "Use password managers",
+     "Never share credentials",
+     "Verify bank terms",
+     "Approve every login"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "Managing digital access is getting trickier as AI agents start handling tasks like site updates or invoice processing. Many owners fear handing over keys to their accounts, and for good reason. Banks are already flagging automated agent activity because they cannot distinguish between you and a machine. If you use AI for your business, stop pasting passwords into prompts. Look into tools that use unique digital keys to delegate tasks instead. Have you received any security alerts from your bank regarding automated logins lately? #SmallBusinessIndia #CyberSecurity #AIBusiness #TechTips #BusinessAutomation",
+  "hashtags": [
+   "#SmallBusinessIndia",
+   "#CyberSecurity",
+   "#AIBusiness",
+   "#TechTips",
+   "#BusinessAutomation"
+  ],
+  "keywords": [
+   "AI agent security",
+   "small business cybersecurity",
+   "password manager for business",
+   "secure AI delegation",
+   "protect business logins"
+  ],
+  "claims": [
+   {
+    "claim": "1Password for Agents allows AI to log into accounts without the agent seeing the password.",
+    "source_id": 3
+   },
+   {
+    "claim": "The system uses a unique digital key to confirm agent identity and requires user approval for each login.",
+    "source_id": 3
+   },
+   {
+    "claim": "U.S. banks have begun detecting agentic activity inside user accounts.",
+    "source_id": 3
+   }
+  ]
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 8,
+   "practical_value": 9,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "1Password for Agents allows AI to log into accounts without the agent seeing the password.",
+    "supported": true
+   },
+   {
+    "claim": "The system uses a unique digital key to confirm agent identity and requires user approval for each login.",
+    "supported": true
+   },
+   {
+    "claim": "U.S. banks have begun detecting agentic activity inside user accounts.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Scene 5: The checklist items all have green checkmarks, which implies these are completed tasks rather than recommendations. This is visually misleading for a 'Before you automate' list."
+  ],
+  "issues": [
+   "The transition from the 'New Way' benefits to the 'Bank Policy' warning is slightly abrupt.",
+   "The caption is strong, but could benefit from a more direct call to action regarding checking their specific bank's terms of service."
+  ],
+  "fix_instructions": "In Scene 5, change the green checkmarks to simple bullet points or empty checkboxes to better represent a list of recommendations/pre-requisites rather than completed actions. Ensure the transition between the technical solution (1Password) and the banking warning feels like a balanced 'pro-tip' rather than a sudden pivot to fear-mongering. Otherwise, this is ready for publication."
+ },
+ "rules": [],
+ "reasons": [],
+ "meta": {
+  "duration": 38.2,
+  "voice": "edge",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1537/R2-pilot-20261023-1537/try1/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1537/R2-pilot-20261023-1537/try1/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1537/R2-pilot-20261023-1537/try1/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1537/R2-pilot-20261023-1537/try1/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1537/R2-pilot-20261023-1537/try1/scene_05.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   6.01,
+   8.94,
+   6.78,
+   7.65,
+   8.85
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1537/R2-pilot-20261023-1537/try1",
+ "attempt": 1,
+ "approved": true,
+ "hook": "You can now let AI agents work for you without giving them your password.",
+ "log": [
+  "attempt 1: PASS {'hook': 8, 'originality': 8, 'practical_value': 9, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} []"
+ ],
+ "id": "R2-pilot-20261023-1537",
+ "caption_final": "Managing digital access is getting trickier as AI agents start handling tasks like site updates or invoice processing. Many owners fear handing over keys to their accounts, and for good reason. Banks are already flagging automated agent activity because they cannot distinguish between you and a machine. If you use AI for your business, stop pasting passwords into prompts. Look into tools that use unique digital keys to delegate tasks instead. Have you received any security alerts from your bank regarding automated logins lately? #SmallBusinessIndia #CyberSecurity #AIBusiness #TechTips #BusinessAutomation\n\n#SmallBusinessIndia #CyberSecurity #AIBusiness #TechTips #BusinessAutomation"
+}

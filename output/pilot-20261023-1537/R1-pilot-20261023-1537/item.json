@@ -1,0 +1,235 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "The danger of AI agents in IT infrastructure",
+  "angle": "Why you need to audit your IT vendors like ConnectWise for agent-based security breaches.",
+  "audience_problem": "Small businesses rely on third-party IT providers who might be using vulnerable AI tools.",
+  "format": "myth_fact",
+  "medium": "reel",
+  "source_ids": [
+   7
+  ],
+  "evergreen": true,
+  "keywords": [
+   "cybersecurity",
+   "AI risks",
+   "IT services",
+   "safety"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 9,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 9,
+   "evidence": 8
+  },
+  "total": 8.72
+ },
+ "piece": {
+  "hooks": [
+   "Your IT vendor might be the biggest security risk to your small business.",
+   "Chinese hackers just used AI to breach 2,000 businesses in one week.",
+   "If you use ConnectWise for backups, your data link might be compromised."
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "It hits the specific pain point of the target audience (trusting external vendors) immediately and provides a clear, actionable reason to pay attention.",
+  "title": "Audit Your IT Vendor Security",
+  "scenes": [
+   {
+    "purpose": "Introduce the hook",
+    "narration": "Your IT vendor might be the biggest security risk to your small business.",
+    "on_screen": "Vendor access is a risk",
+    "visual_type": "text",
+    "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+    "query": "none",
+    "headline": "Watch your vendor access",
+    "steps": [],
+    "items": [],
+    "left_label": "none",
+    "right_label": "none",
+    "rows": []
+   },
+   {
+    "purpose": "Explain the ConnectWise breach mechanism",
+    "narration": "Hackers breached ConnectWise and stole credentials to link into customer cloud accounts.",
+    "on_screen": "Stolen credentials unlock data",
+    "visual_type": "diagram",
+    "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+    "query": "none",
+    "headline": "The breach path",
+    "steps": [
+     "ConnectWise Cloud",
+     "Stolen Credentials",
+     "Customer Network"
+    ],
+    "items": [],
+    "left_label": "none",
+    "right_label": "none",
+    "rows": []
+   },
+   {
+    "purpose": "Explain the AI agent role",
+    "narration": "They used AI agents to attempt 3,000 sign-ins every minute, leaving no time for defense.",
+    "on_screen": "3,000 attacks per minute",
+    "visual_type": "text",
+    "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+    "query": "none",
+    "headline": "AI speed breaks defenses",
+    "steps": [],
+    "items": [],
+    "left_label": "none",
+    "right_label": "none",
+    "rows": []
+   },
+   {
+    "purpose": "Clarify the nature of the tool used",
+    "narration": "The attackers repurposed ARTEX, an open-source tool originally meant for testing cyber defenses.",
+    "on_screen": "ARTEX: Stress-test turned weapon",
+    "visual_type": "text",
+    "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+    "query": "none",
+    "headline": "Dual-use AI risks",
+    "steps": [],
+    "items": [],
+    "left_label": "none",
+    "right_label": "none",
+    "rows": []
+   },
+   {
+    "purpose": "Provide a practical checklist for the user",
+    "narration": "Ask your IT vendor these questions today to protect your business data.",
+    "on_screen": "Check your vendor security",
+    "visual_type": "checklist",
+    "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+    "query": "none",
+    "headline": "Required vendor audit",
+    "steps": [],
+    "items": [
+     "Do you use ConnectWise?",
+     "Is MFA active on all links?",
+     "When was our last audit?",
+     "Can we limit vendor access?"
+    ],
+    "left_label": "none",
+    "right_label": "none",
+    "rows": []
+   }
+  ],
+  "caption": "Your small business IT setup depends on third-party vendors. If they get hacked, your data is at risk. Recent reports show attackers used AI to breach thousands of organizations through a single IT management giant, ConnectWise. These attackers used an open-source framework called ARTEX to automate thousands of login attempts per minute, making manual defense nearly impossible. Don't assume your IT provider is fully secure. Contact your IT vendor today and specifically ask if they use ConnectWise and what multi-factor authentication (MFA) protocols they have in place to prevent unauthorized access to your cloud backups. It is better to ask tough questions now than to deal with a data breach later. #CyberSecurity #SMBTips #ITSecurity #BusinessOwners #DataProtection",
+  "hashtags": [
+   "#CyberSecurity",
+   "#SMBTips",
+   "#ITSecurity",
+   "#BusinessOwners",
+   "#DataProtection"
+  ],
+  "keywords": [
+   "IT vendor security",
+   "ConnectWise breach",
+   "business data protection",
+   "small business IT",
+   "cybersecurity audit"
+  ],
+  "claims": [
+   {
+    "claim": "Chinese hackers breached ConnectWise and stole application credentials.",
+    "source_id": 7
+   },
+   {
+    "claim": "Hackers used AI agents to attempt 3,000 sign-ins per minute.",
+    "source_id": 7
+   },
+   {
+    "claim": "ARTEX is an open-source AI framework used for stress-testing cyber defenses that was repurposed by attackers.",
+    "source_id": 7
+   },
+   {
+    "claim": "The breach affected approximately 2,250 organizations.",
+    "source_id": 7
+   }
+  ]
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 9,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 7,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 7
+  },
+  "claims": [
+   {
+    "claim": "Chinese hackers breached ConnectWise and stole application credentials.",
+    "supported": true
+   },
+   {
+    "claim": "Hackers used AI agents to attempt 3,000 sign-ins per minute.",
+    "supported": true
+   },
+   {
+    "claim": "ARTEX is an open-source AI framework used for stress-testing cyber defenses that was repurposed by attackers.",
+    "supported": true
+   },
+   {
+    "claim": "The breach affected approximately 2,250 organizations.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Scene 2: The diagram is too abstract; it lacks visual hierarchy and doesn't clearly show the 'breach' point.",
+   "Scene 5: The checklist uses green checkmarks, which implies these items are already done/safe, rather than questions to ask. This is confusing for a call-to-action."
+  ],
+  "issues": [
+   "The narration in Scene 4 feels slightly disconnected from the visual, which is a bit text-heavy.",
+   "The call-to-action in the final scene is visually misleading due to the use of checkmarks."
+  ],
+  "fix_instructions": "1. In Scene 2, replace the generic boxes with a more descriptive flow chart showing the 'ConnectWise Cloud' as the entry point. 2. In Scene 5, change the green checkmarks to empty checkboxes or question mark icons to correctly signal that these are questions the user needs to ask their vendor. 3. Ensure the narration in Scene 4 flows more naturally into the final checklist scene."
+ },
+ "rules": [
+  "banned phrase used: 'unlock'"
+ ],
+ "reasons": [
+  "banned phrase used: 'unlock'",
+  "originality 7/10 (<8)",
+  "visual_integrity 7/10 (<8)"
+ ],
+ "meta": {
+  "duration": 33.7,
+  "voice": "edge",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1537/R1-pilot-20261023-1537/try2/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1537/R1-pilot-20261023-1537/try2/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1537/R1-pilot-20261023-1537/try2/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1537/R1-pilot-20261023-1537/try2/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1537/R1-pilot-20261023-1537/try2/scene_05.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   5.82,
+   6.73,
+   7.62,
+   7.69,
+   5.8
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1537/R1-pilot-20261023-1537/try2",
+ "attempt": 2,
+ "approved": false,
+ "hook": "Your IT vendor might be the biggest security risk to your small business.",
+ "log": [
+  "attempt 1: fail {'hook': 8, 'originality': 7, 'practical_value': 7, 'natural_language': 8, 'accuracy': 7, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'practical_value 7/10 (<8)', 'accuracy 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+  "attempt 2: fail {'hook': 8, 'originality': 7, 'practical_value': 9, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} [\"banned phrase used: 'unlock'\", 'originality 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+  "attempt 3: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'visual_integrity 7/10 (<8)']"
+ ],
+ "id": "R1-pilot-20261023-1537",
+ "caption_final": "Your small business IT setup depends on third-party vendors. If they get hacked, your data is at risk. Recent reports show attackers used AI to breach thousands of organizations through a single IT management giant, ConnectWise. These attackers used an open-source framework called ARTEX to automate thousands of login attempts per minute, making manual defense nearly impossible. Don't assume your IT provider is fully secure. Contact your IT vendor today and specifically ask if they use ConnectWise and what multi-factor authentication (MFA) protocols they have in place to prevent unauthorized access to your cloud backups. It is better to ask tough questions now than to deal with a data breach later. #CyberSecurity #SMBTips #ITSecurity #BusinessOwners #DataProtection\n\n#CyberSecurity #SMBTips #ITSecurity #BusinessOwners #DataProtection"
+}

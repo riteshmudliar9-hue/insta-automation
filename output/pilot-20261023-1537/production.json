@@ -1,0 +1,340 @@
+{
+ "date": "2026-10-23",
+ "tag": "pilot-20261023-1537",
+ "pilot": true,
+ "sources": 97,
+ "ideas": 14,
+ "idea_list": [
+  {
+   "idea": "The danger of AI agents in IT infrastructure",
+   "format": "myth_fact",
+   "total": 8.72,
+   "scores": {
+    "relevance": 9,
+    "novelty": 9,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 8
+   }
+  },
+  {
+   "idea": "Using 1Password for secure AI agent delegation",
+   "format": "problem_fix",
+   "total": 8.66,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 8,
+    "evidence": 9
+   }
+  },
+  {
+   "idea": "AI for debt collection: Predicting instead of chasing",
+   "format": "problem_fix",
+   "total": 8.63,
+   "scores": {
+    "relevance": 10,
+    "novelty": 8,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 7,
+    "evidence": 8
+   }
+  },
+  {
+   "idea": "Using AI agents for 'impossible' lead generation",
+   "format": "case_study",
+   "total": 8.58,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 7,
+    "evidence": 9
+   }
+  },
+  {
+   "idea": "Choosing the right website builder: Webflow vs WordPress",
+   "format": "compare",
+   "total": 8.33,
+   "scores": {
+    "relevance": 9,
+    "novelty": 7,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 8
+   }
+  },
+  {
+   "idea": "Why your employees aren't using AI (and how to fix it)",
+   "format": "checklist",
+   "total": 8.33,
+   "scores": {
+    "relevance": 9,
+    "novelty": 7,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 8
+   }
+  },
+  {
+   "idea": "Manual vs. Automated: Scanning and OCR workflows",
+   "format": "manual_vs_auto",
+   "total": 8.25,
+   "scores": {
+    "relevance": 10,
+    "novelty": 6,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 9,
+    "evidence": 8
+   }
+  },
+  {
+   "idea": "Zapier MCP: One server to rule your AI stack",
+   "format": "tutorial",
+   "total": 8.22,
+   "scores": {
+    "relevance": 8,
+    "novelty": 9,
+    "hook_potential": 7,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 7,
+    "evidence": 9
+   }
+  },
+  {
+   "idea": "Planning designs before generating: Canva Craft",
+   "format": "tool_test",
+   "total": 8.21,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 8,
+    "evidence": 8
+   }
+  },
+  {
+   "idea": "ChatGPT Work at scale: Lessons from Uber",
+   "format": "case_study",
+   "total": 7.89,
+   "scores": {
+    "relevance": 8,
+    "novelty": 7,
+    "hook_potential": 7,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 8,
+    "evidence": 9
+   }
+  },
+  {
+   "idea": "OpenAI Decisions API for responsive apps",
+   "format": "demo",
+   "total": 7.86,
+   "scores": {
+    "relevance": 7,
+    "novelty": 9,
+    "hook_potential": 8,
+    "retention": 7,
+    "save_share": 8,
+    "feasibility": 7,
+    "evidence": 9
+   }
+  },
+  {
+   "idea": "Formal verification: How to make AI code safer",
+   "format": "demo",
+   "total": 7.62,
+   "scores": {
+    "relevance": 7,
+    "novelty": 9,
+    "hook_potential": 8,
+    "retention": 7,
+    "save_share": 8,
+    "feasibility": 6,
+    "evidence": 8
+   }
+  },
+  {
+   "idea": "Documenting your business processes for AI",
+   "format": "tutorial",
+   "total": 7.61,
+   "scores": {
+    "relevance": 8,
+    "novelty": 7,
+    "hook_potential": 7,
+    "retention": 7,
+    "save_share": 8,
+    "feasibility": 8,
+    "evidence": 8
+   }
+  },
+  {
+   "idea": "The hidden cost of AI: Data storage",
+   "format": "myth_fact",
+   "total": 7.59,
+   "scores": {
+    "relevance": 7,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 7,
+    "save_share": 7,
+    "feasibility": 9,
+    "evidence": 8
+   }
+  }
+ ],
+ "rejected_ideas": [
+  [
+   "Manual vs. Automated: Scanning and OCR workflows",
+   "low relevance or novelty"
+  ]
+ ],
+ "items": [
+  {
+   "id": "R1-pilot-20261023-1537",
+   "kind": "reel",
+   "format": "myth_fact",
+   "topic": "The danger of AI agents in IT infrastructure",
+   "hook": "Your IT vendor might be the biggest security risk to your small business.",
+   "approved": false,
+   "attempts": 2,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 9,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 7,
+    "pacing": 8,
+    "brand_consistency": 9,
+    "publish_readiness": 7
+   },
+   "reasons": [
+    "banned phrase used: 'unlock'",
+    "originality 7/10 (<8)",
+    "visual_integrity 7/10 (<8)"
+   ],
+   "log": [
+    "attempt 1: fail {'hook': 8, 'originality': 7, 'practical_value': 7, 'natural_language': 8, 'accuracy': 7, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'practical_value 7/10 (<8)', 'accuracy 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+    "attempt 2: fail {'hook': 8, 'originality': 7, 'practical_value': 9, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} [\"banned phrase used: 'unlock'\", 'originality 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+    "attempt 3: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'visual_integrity 7/10 (<8)']"
+   ],
+   "dir": "output/pilot-20261023-1537/R1-pilot-20261023-1537/try2",
+   "duration": 33.7,
+   "voice": "edge"
+  },
+  {
+   "id": "R2-pilot-20261023-1537",
+   "kind": "reel",
+   "format": "problem_fix",
+   "topic": "Using 1Password for secure AI agent delegation",
+   "hook": "You can now let AI agents work for you without giving them your password.",
+   "approved": true,
+   "attempts": 1,
+   "scores": {
+    "hook": 8,
+    "originality": 8,
+    "practical_value": 9,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 9,
+    "pacing": 8,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [],
+   "log": [
+    "attempt 1: PASS {'hook': 8, 'originality': 8, 'practical_value': 9, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} []"
+   ],
+   "dir": "output/pilot-20261023-1537/R2-pilot-20261023-1537/try1",
+   "duration": 38.2,
+   "voice": "edge"
+  },
+  {
+   "id": "C1-pilot-20261023-1537",
+   "kind": "carousel",
+   "format": "problem_fix",
+   "topic": "AI for debt collection: Predicting instead of chasing",
+   "hook": "Why your collection software can't predict individual defaults.",
+   "approved": false,
+   "attempts": 3,
+   "scores": {
+    "hook": 8,
+    "originality": 8,
+    "practical_value": 7,
+    "natural_language": 9,
+    "accuracy": 10,
+    "narrative": 9,
+    "visual_integrity": 9,
+    "pacing": 9,
+    "brand_consistency": 10,
+    "publish_readiness": 8
+   },
+   "reasons": [
+    "practical_value 7/10 (<8)"
+   ],
+   "log": [
+    "attempt 1: fail {'hook': 8, 'originality': 8, 'practical_value': 7, 'natural_language': 9, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} ['practical_value 7/10 (<8)']",
+    "attempt 2: fail {'hook': 6, 'originality': 7, 'practical_value': 5, 'natural_language': 7, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 6, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 6} ['hook 6/10 (<8)', 'originality 7/10 (<8)', 'practical_value 5/10 (<8)', 'natural_language 7/10 (<8)']",
+    "attempt 3: fail {'hook': 8, 'originality': 8, 'practical_value': 7, 'natural_language': 9, 'accuracy': 10, 'narrative': 9, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 10, 'publish_readiness': 8} ['practical_value 7/10 (<8)']"
+   ],
+   "dir": "output/pilot-20261023-1537/C1-pilot-20261023-1537/try3",
+   "duration": null,
+   "voice": null
+  },
+  {
+   "id": "C2-pilot-20261023-1537",
+   "kind": "carousel",
+   "format": "case_study",
+   "topic": "Using AI agents for 'impossible' lead generation",
+   "hook": "How to automate finding leads who aren't even looking",
+   "approved": true,
+   "attempts": 1,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 8,
+    "natural_language": 9,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 9,
+    "pacing": 9,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [],
+   "log": [
+    "attempt 1: PASS {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 9, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} []"
+   ],
+   "dir": "output/pilot-20261023-1537/C2-pilot-20261023-1537/try1",
+   "duration": null,
+   "voice": null
+  }
+ ],
+ "llm_calls": {
+  "text": 17,
+  "tts": 4,
+  "failed": 0
+ }
+}
