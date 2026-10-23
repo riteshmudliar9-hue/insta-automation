@@ -15,7 +15,10 @@ REEL_SCHEMA = {"type": "OBJECT", "properties": {
         "visual_type": {"type": "STRING", "enum": ["screenshot", "diagram", "compare", "text", "checklist", "photo"]},
         "url": STR, "query": STR, "headline": STR, "steps": ARR(STR), "items": ARR(STR),
         "left_label": STR, "right_label": STR, "rows": ARR(ROW)},
-        "required": ["purpose", "narration", "on_screen", "visual_type"]}),
+        # every field required: Gemini's structured output silently drops optional fields.
+        # Fields a visual does not need are returned as "" or [].
+        "required": ["purpose", "narration", "on_screen", "visual_type", "url", "query", "headline", "steps",
+                     "items", "left_label", "right_label", "rows"]}),
     "caption": STR, "hashtags": ARR(STR), "keywords": ARR(STR), "claims": ARR(CLAIM)},
     "required": ["hooks", "chosen_hook", "hook_reason", "title", "scenes", "caption", "hashtags", "keywords", "claims"]}
 
@@ -26,7 +29,8 @@ CAROUSEL_SCHEMA = {"type": "OBJECT", "properties": {
                                             "quote", "summary"]},
         "title": STR, "subtitle": STR, "body": STR, "items": ARR(STR), "left_label": STR, "right_label": STR,
         "rows": ARR(ROW), "myth": STR, "fact": STR, "quote": STR, "attribution": STR},
-        "required": ["kind"]}),
+        "required": ["kind", "title", "subtitle", "body", "items", "left_label", "right_label", "rows", "myth",
+                     "fact", "quote", "attribution"]}),
     "caption": STR, "hashtags": ARR(STR), "keywords": ARR(STR), "claims": ARR(CLAIM)},
     "required": ["hooks", "chosen_hook", "hook_reason", "slides", "caption", "hashtags", "keywords", "claims"]}
 
@@ -61,7 +65,7 @@ TASK: Write ONE Instagram Reel (9:16) in the chosen format.
 4. Visual per scene: 'diagram' for workflows (2-4 short labels), 'compare' for manual-vs-auto (3 rows),
    'checklist' (3-5 items), 'text' (headline = a short punchline DIFFERENT from on_screen).
    'screenshot' ONLY if a SOURCE URL is the product's own website (never a news article, blog post or Reddit page).
-   'photo' (query) only for a real-world setting like "shop counter India". Never fake interfaces or people.
+   Do NOT use 'photo' (stock photos look generic); show ideas with diagrams, tables, checklists and text instead.
    Fill every field the chosen visual needs (steps / rows / items / headline).
 5. Last scene: the practical takeaway or next step. No "follow for more", no "like and share".
 6. Caption + 3-5 hashtags + 5 search keywords. List every factual claim with its source id."""
@@ -74,7 +78,8 @@ TASK: Write ONE saveable Instagram carousel (1080x1350) in the chosen format.
    cover: title+subtitle · point: title+body (15-35 words) · steps: title+3-5 items · checklist: title+4-6 items ·
    compare: title+left_label+right_label+3-4 rows · mythfact: myth+fact · quote: quote (exact words from a source)
    +attribution · summary: title+3-4 items.
-   Every slide must earn its place: no filler or title-only slides. Short lines, phone-readable.
+   Fields a slide kind does not use: return "" or []. Every slide must earn its place: no filler or title-only
+   slides. Short lines, phone-readable.
    The LAST slide must be useful on its own (kind=summary or checklist), never a follow request.
 3. Caption + 3-5 hashtags + 5 search keywords. List every factual claim with its source id."""
 
