@@ -144,17 +144,28 @@ def rule_checks(piece, kind, source_urls, n_sources):
 def review(piece, kind, material, image_paths):
     imgs = [_small(p) for p in image_paths[:10]]
     import json
-    return llm.generate_json(REVIEW.format(kind=kind, kind_upper=kind.upper(), material=material,
-                                           piece=json.dumps(piece, ensure_ascii=False, indent=1)),
-                             REVIEW_SCHEMA, images=imgs, temperature=0.2)
+    prompt = REVIEW.format(kind=kind, kind_upper=kind.upper(), material=material,
+                           piece=json.dumps(piece, ensure_ascii=False, indent=1))
+    if kind == "reel":
+        prompt += ("\n\nIMAGE KEY (image N = scene N; the subtitle in a frame is one phrase of the full narration "
+                   "below, captured mid-scene; earlier/later phrases appear before/after it, so a subtitle that "
+                   "starts or ends mid-sentence is NOT cut off or broken):\n" +
+                   "\n".join(f"image {i}: narration = \"{s.get('narration', '')}\""
+                              for i, s in enumerate(piece.get("scenes", [])[:len(imgs)], 1)))
+    return llm.generate_json(prompt, REVIEW_SCHEMA, images=imgs, temperature=0.2)
 
 
 def verdict(rules, rev, render_meta=None):
     reasons = list(rules)
     s = rev["scores"]
+    others_strong = all(s.get(c, 0) >= config.MIN_CRITICAL for c in config.CRITICAL if c != "originality") \
+        and s.get("publish_readiness", 0) >= 8
     for c in config.CRITICAL:
-        if s.get(c, 0) < config.MIN_CRITICAL:
-            reasons.append(f"{c} {s.get(c)}/10 (<{config.MIN_CRITICAL})")
+        need = config.MIN_CRITICAL
+        if c == "originality" and others_strong:
+            need = 7   # owner decision: originality 7 is OK only when everything else is strong
+        if s.get(c, 0) < need:
+            reasons.append(f"{c} {s.get(c)}/10 (<{need})")
     for c in config.OTHER:
         if s.get(c, 0) < config.MIN_OTHER:
             reasons.append(f"{c} {s.get(c)}/10 (<{config.MIN_OTHER})")
