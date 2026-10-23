@@ -1,0 +1,244 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Stop manual scanning: The best OCR tools for Indian GST and invoice management.",
+  "angle": "Compare mobile scanning tech specifically for messy, handwritten, or thermal paper receipts.",
+  "audience_problem": "Managing physical paper trails for tax compliance is slow and error-prone.",
+  "format": "tool_test",
+  "medium": "reel",
+  "source_ids": [
+   64
+  ],
+  "evergreen": true,
+  "keywords": [
+   "OCR",
+   "GST compliance",
+   "automation",
+   "small business"
+  ],
+  "scores": {
+   "relevance": 10,
+   "novelty": 6,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 10,
+   "feasibility": 9,
+   "evidence": 8
+  },
+  "total": 8.71
+ },
+ "piece": {
+  "hooks": [
+   "Most OCR apps fail to read your messy, folded GST receipts.",
+   "Stop typing data from supplier invoices into your ledger by hand.",
+   "Your phone camera is a scanner, but most apps make mistakes."
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "It addresses the specific pain point of Indian small business owners dealing with crumpled, non-standard paper receipts, which is a common source of frustration.",
+  "title": "Stop manual scanning: Best OCR for GST receipts",
+  "scenes": [
+   {
+    "purpose": "State the problem",
+    "narration": "Most OCR apps fail to read your messy, folded GST receipts.",
+    "on_screen": "Messy receipts fail OCR",
+    "visual_type": "text",
+    "url": "https://zapier.com/blog/best-mobile-scanning-ocr-apps",
+    "query": "none",
+    "headline": "Stop fighting your paper receipts",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Explain the limitation of OCR",
+    "narration": "Life rarely gives us pristine paper. Fading, tearing, and ink variations trip up even the best scanning tools.",
+    "on_screen": "Real life is messy",
+    "visual_type": "checklist",
+    "url": "https://zapier.com/blog/best-mobile-scanning-ocr-apps",
+    "query": "none",
+    "headline": "Why scanning often breaks",
+    "steps": [],
+    "items": [
+     "Fading ink",
+     "Folded paper",
+     "Torn edges",
+     "Book bindings"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Explain the comparison criteria",
+    "narration": "When testing apps, look for auto-scanning features that detect borders accurately. Avoid apps that turn your scan into gibberish.",
+    "on_screen": "Look for accuracy",
+    "visual_type": "compare",
+    "url": "https://zapier.com/blog/best-mobile-scanning-ocr-apps",
+    "query": "none",
+    "headline": "What to check before downloading",
+    "steps": [],
+    "items": [],
+    "left_label": "Good App",
+    "right_label": "Bad App",
+    "rows": [
+     {
+      "left": "Auto-crop borders",
+      "right": "Manual cropping"
+     },
+     {
+      "left": "Readable text",
+      "right": "Gibberish output"
+     },
+     {
+      "left": "Clickable links",
+      "right": "Static image"
+     }
+    ]
+   },
+   {
+    "purpose": "Suggest Adobe Scan as a viable option",
+    "narration": "Adobe Scan stands out. It detects URLs and phone numbers on receipts, making them clickable instantly.",
+    "on_screen": "Adobe Scan for receipts",
+    "visual_type": "text",
+    "url": "https://zapier.com/blog/best-mobile-scanning-ocr-apps",
+    "query": "none",
+    "headline": "One reliable choice",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Final takeaway",
+    "narration": "Check your existing phone apps first. Many already have built-in OCR before you download something new.",
+    "on_screen": "Check your current apps",
+    "visual_type": "checklist",
+    "url": "https://zapier.com/blog/best-mobile-scanning-ocr-apps",
+    "query": "none",
+    "headline": "Actionable next step",
+    "steps": [],
+    "items": [
+     "Audit existing apps",
+     "Test with one receipt",
+     "Verify export quality",
+     "Stop re-typing data"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "Stop wasting time re-typing manual invoices. Most OCR scanning apps struggle with the reality of folded, faded, or torn thermal paper receipts common in Indian shops. Before you pay for a premium tool, test your current apps against a real-world messy receipt. Look for tools that reliably detect borders and output clean, editable text instead of gibberish. Adobe Scan is a solid choice because it turns phone numbers and URLs on receipts into clickable links, saving you from manual entry errors. Do you have a favorite scanner app that actually handles crumpled bills correctly? Let us know below. #OCR #SmallBusinessTips #AccountingAutomation #GSTCompliance #OfficeHacks",
+  "hashtags": [
+   "#OCR",
+   "#SmallBusinessTips",
+   "#AccountingAutomation",
+   "#GSTCompliance",
+   "#OfficeHacks"
+  ],
+  "keywords": [
+   "mobile scanning",
+   "OCR software",
+   "digitize invoices",
+   "GST receipt management",
+   "document automation"
+  ],
+  "claims": [
+   {
+    "claim": "Fading, folding, tearing, book bindings, and variations in ink saturation can trip up OCR.",
+    "source_id": 64
+   },
+   {
+    "claim": "Adobe Scan can detect phone numbers and URLs on receipts and make them clickable.",
+    "source_id": 64
+   },
+   {
+    "claim": "Many existing apps in your tech stack may already have OCR technology built-in.",
+    "source_id": 64
+   }
+  ]
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 7,
+   "visual_integrity": 6,
+   "pacing": 7,
+   "brand_consistency": 8,
+   "publish_readiness": 6
+  },
+  "claims": [
+   {
+    "claim": "Fading, folding, tearing, book bindings, and variations in ink saturation can trip up OCR.",
+    "supported": true
+   },
+   {
+    "claim": "Adobe Scan can detect phone numbers and URLs on receipts and make them clickable.",
+    "supported": true
+   },
+   {
+    "claim": "Many existing apps in your tech stack may already have OCR technology built-in.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Scene 1: The subtitle 'folded GST receipts.' is cut off at the start of the sentence.",
+   "Scene 2: The subtitle 'and ink variations trip up' is a fragment that lacks context.",
+   "Scene 3: The subtitle 'Avoid apps that turn your' is a dangling fragment.",
+   "Scene 4: The subtitle 'making them clickable' is a fragment that doesn't make sense without the previous sentence.",
+   "Scene 5: The subtitle 'before you download something' is a fragment."
+  ],
+  "issues": [
+   "The subtitles are consistently fragmented and do not form complete, readable sentences, which hurts the user experience.",
+   "The visual hierarchy is slightly repetitive; the white box in the center is used for every scene, making the reel feel static.",
+   "The transition between the 'Good App' vs 'Bad App' comparison in Scene 3 is a bit cramped for a mobile screen."
+  ],
+  "fix_instructions": "1. Rewrite the subtitles to be complete, punchy sentences that appear in full or in logical 3-4 word chunks that make grammatical sense. 2. In Scene 3, ensure the comparison table is legible; consider using a split-screen layout instead of a table if it feels too small. 3. Ensure the narration audio matches the subtitle timing perfectly so the viewer isn't reading fragments. 4. Add a clear call-to-action (CTA) in the final scene, such as 'Save this for your next audit'."
+ },
+ "rules": [],
+ "reasons": [
+  "originality 7/10 (<8)",
+  "narrative 7/10 (<8)",
+  "visual_integrity 6/10 (<8)",
+  "publish_readiness 6/10 (<7)"
+ ],
+ "meta": {
+  "duration": 43.9,
+  "voice": "edge",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1440/R2-pilot-20261023-1440/try1/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1440/R2-pilot-20261023-1440/try1/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1440/R2-pilot-20261023-1440/try1/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1440/R2-pilot-20261023-1440/try1/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1440/R2-pilot-20261023-1440/try1/scene_05.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   6.06,
+   9.3,
+   10.55,
+   9.28,
+   8.68
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1440/R2-pilot-20261023-1440/try1",
+ "attempt": 1,
+ "approved": false,
+ "hook": "Most OCR apps fail to read your messy, folded GST receipts.",
+ "log": [
+  "attempt 1: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 6, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 6} ['originality 7/10 (<8)', 'narrative 7/10 (<8)', 'visual_integrity 6/10 (<8)', 'publish_readiness 6/10 (<7)']",
+  "attempt 2: fail {'hook': 6, 'originality': 4, 'practical_value': 4, 'natural_language': 6, 'accuracy': 8, 'narrative': 5, 'visual_integrity': 3, 'pacing': 5, 'brand_consistency': 6, 'publish_readiness': 3} ['hook 6/10 (<8)', 'originality 4/10 (<8)', 'practical_value 4/10 (<8)', 'natural_language 6/10 (<8)']",
+  "attempt 3: fail {'hook': 7, 'originality': 6, 'practical_value': 8, 'natural_language': 7, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 6, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 6} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'natural_language 7/10 (<8)', 'narrative 7/10 (<8)']"
+ ],
+ "id": "R2-pilot-20261023-1440",
+ "caption_final": "Stop wasting time re-typing manual invoices. Most OCR scanning apps struggle with the reality of folded, faded, or torn thermal paper receipts common in Indian shops. Before you pay for a premium tool, test your current apps against a real-world messy receipt. Look for tools that reliably detect borders and output clean, editable text instead of gibberish. Adobe Scan is a solid choice because it turns phone numbers and URLs on receipts into clickable links, saving you from manual entry errors. Do you have a favorite scanner app that actually handles crumpled bills correctly? Let us know below. #OCR #SmallBusinessTips #AccountingAutomation #GSTCompliance #OfficeHacks\n\n#OCR #SmallBusinessTips #AccountingAutomation #GSTCompliance #OfficeHacks"
+}

@@ -1,0 +1,234 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Don't let AI 'manage' your passwords: Secure agent access.",
+  "angle": "How to use passkey managers to give AI agents access to your accounts without sharing your raw password.",
+  "audience_problem": "Owners fear giving AI tools access to bank or vendor accounts.",
+  "format": "tutorial",
+  "medium": "reel",
+  "source_ids": [
+   3
+  ],
+  "evergreen": true,
+  "keywords": [
+   "AI security",
+   "password safety",
+   "automation"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 9,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 10,
+   "feasibility": 8,
+   "evidence": 9
+  },
+  "total": 8.95
+ },
+ "piece": {
+  "hooks": [
+   "Stop typing your bank passwords into AI tools. There is a safer way.",
+   "Giving an AI your password is a security nightmare waiting to happen.",
+   "Your AI agent does not need your raw password to manage your accounts."
+  ],
+  "chosen_hook": 2,
+  "hook_reason": "It directly challenges a common, dangerous practice among small business owners while immediately pivoting to the solution, which builds immediate trust.",
+  "title": "Secure AI Access Without Sharing Passwords",
+  "scenes": [
+   {
+    "purpose": "Identify the risk of sharing credentials with AI.",
+    "narration": "Your AI agent does not need your raw password to manage your accounts.",
+    "on_screen": "Passwords stay private",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Stop Handing Over Passwords",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Explain the new delegation method.",
+    "narration": "New tools like 1Password for Agents act as a middleman between your accounts and the AI.",
+    "on_screen": "System creates a digital bridge",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "How It Works",
+    "steps": [
+     "User authorizes agent",
+     "1Password confirms identity",
+     "Agent logs in securely"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Explain the confirmation process.",
+    "narration": "When the agent tries to log in, you get an alert to confirm the attempt personally.",
+    "on_screen": "You remain in control",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "The Security Check",
+    "steps": [],
+    "items": [
+     "Agent requests access",
+     "You get instant alert",
+     "Confirm the login attempt"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Highlight the benefit of not storing secrets.",
+    "narration": "This stops your credentials from being copied or saved in places you cannot control.",
+    "on_screen": "No local credential copies",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "Manual vs Automated",
+    "steps": [],
+    "items": [],
+    "left_label": "Old way",
+    "right_label": "New way",
+    "rows": [
+     {
+      "left": "Shared password",
+      "right": "Digital key"
+     },
+     {
+      "left": "High risk",
+      "right": "Secure vault"
+     }
+    ]
+   },
+   {
+    "purpose": "Provide final actionable takeaway.",
+    "narration": "Always keep your passwords inside a secure manager. Never hand them directly to an AI tool.",
+    "on_screen": "Protect your business data",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Stay Secure",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "Stop handing your raw passwords to AI assistants. Whether you use Claude, ChatGPT, or other agents, delegating access through a secure platform like 1Password for Agents keeps your credentials in your vault, not in the AI's history. Banks are already flagging suspicious automated activity; don't let your business account be the next one blocked. Check if your current password manager supports secure agent delegation today. Have you ever been asked to paste a password into a chatbot?",
+  "hashtags": [
+   "#SmallBusinessIndia",
+   "#CyberSecurity",
+   "#BusinessTech",
+   "#DataPrivacy"
+  ],
+  "keywords": [
+   "AI password security",
+   "1Password for Agents",
+   "business account security",
+   "protect passwords",
+   "AI agent login"
+  ],
+  "claims": [
+   {
+    "claim": "1Password for Agents allows users to delegate tasks to AI agents without the agent ever having access to the user's credentials.",
+    "source_id": 3
+   },
+   {
+    "claim": "When an agent attempts a login, a unique digital key confirms identity and the user must personally confirm the request.",
+    "source_id": 3
+   },
+   {
+    "claim": "U.S. banks have begun to detect agentic activity inside user accounts.",
+    "source_id": 3
+   }
+  ]
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 7,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 7
+  },
+  "claims": [
+   {
+    "claim": "1Password for Agents allows users to delegate tasks to AI agents without the agent ever having access to the user's credentials.",
+    "supported": true
+   },
+   {
+    "claim": "When an agent attempts a login, a unique digital key confirms identity and the user must personally confirm the request.",
+    "supported": true
+   },
+   {
+    "claim": "U.S. banks have begun to detect agentic activity inside user accounts.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Scene 1: The subtitle 'manage your accounts.' is cut off at the bottom of the frame.",
+   "Scene 2: The subtitle 'between your accounts and the' is cut off at the bottom of the frame.",
+   "Scene 3: The subtitle 'confirm the attempt' is cut off at the bottom of the frame.",
+   "Scene 4: The subtitle 'in places you cannot control.' is cut off at the bottom of the frame.",
+   "Scene 5: The subtitle 'Never hand them directly to' is cut off at the bottom of the frame."
+  ],
+  "issues": [
+   "The subtitle placement is consistently too low, causing text to be clipped by the UI/safe zone.",
+   "The final scene ends abruptly with an incomplete sentence ('Never hand them directly to').",
+   "The visual hierarchy is clean, but the subtitles need to be moved up to ensure readability."
+  ],
+  "fix_instructions": "1. Move all subtitle text boxes up by at least 15% to avoid the Instagram UI overlay and ensure no text is cut off. 2. Rewrite the final scene's narration and subtitle to be a complete, punchy sentence, e.g., 'Never hand your passwords to an AI.' 3. Ensure the subtitle text is fully visible in every frame before exporting."
+ },
+ "rules": [],
+ "reasons": [
+  "originality 7/10 (<8)",
+  "visual_integrity 7/10 (<8)"
+ ],
+ "meta": {
+  "duration": 35.3,
+  "voice": "edge",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1440/R1-pilot-20261023-1440/try1/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1440/R1-pilot-20261023-1440/try1/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1440/R1-pilot-20261023-1440/try1/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1440/R1-pilot-20261023-1440/try1/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1440/R1-pilot-20261023-1440/try1/scene_05.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   6.01,
+   7.41,
+   6.66,
+   6.93,
+   8.29
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1440/R1-pilot-20261023-1440/try1",
+ "attempt": 1,
+ "approved": false,
+ "hook": "Your AI agent does not need your raw password to manage your accounts.",
+ "log": [
+  "attempt 1: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+  "attempt 2: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+  "attempt 3: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['opening line too long for a 3-second hook', 'originality 7/10 (<8)', 'visual_integrity 7/10 (<8)']"
+ ],
+ "id": "R1-pilot-20261023-1440",
+ "caption_final": "Stop handing your raw passwords to AI assistants. Whether you use Claude, ChatGPT, or other agents, delegating access through a secure platform like 1Password for Agents keeps your credentials in your vault, not in the AI's history. Banks are already flagging suspicious automated activity; don't let your business account be the next one blocked. Check if your current password manager supports secure agent delegation today. Have you ever been asked to paste a password into a chatbot?\n\n#SmallBusinessIndia #CyberSecurity #BusinessTech #DataPrivacy"
+}

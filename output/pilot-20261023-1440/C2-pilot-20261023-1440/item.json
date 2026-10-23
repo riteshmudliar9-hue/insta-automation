@@ -1,0 +1,245 @@
+{
+ "kind": "carousel",
+ "idea": {
+  "idea": "One AI tool for every task? The danger of fragmented AI stacks.",
+  "angle": "The efficiency gain of using a unified MCP (Model Context Protocol) server for all your AI tools.",
+  "audience_problem": "Staff using 5 different AI tools means data silos and setup headaches.",
+  "format": "problem_fix",
+  "medium": "carousel",
+  "source_ids": [
+   66
+  ],
+  "evergreen": true,
+  "keywords": [
+   "AI tools",
+   "automation",
+   "tech stack"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 9,
+   "hook_potential": 8,
+   "retention": 7,
+   "save_share": 9,
+   "feasibility": 8,
+   "evidence": 9
+  },
+  "total": 8.53
+ },
+ "piece": {
+  "hooks": [
+   "Stop wasting time setting up AI tools separately",
+   "One Zapier server for all your AI team tools",
+   "Why your AI tools should share the same server"
+  ],
+  "chosen_hook": 1,
+  "hook_reason": "It highlights the pain point (wasting time) and offers a specific, professional solution relevant to business owners managing multiple AI tools.",
+  "slides": [
+   {
+    "kind": "cover",
+    "title": "Stop wasting time setting up AI tools separately",
+    "subtitle": "Connect all your AI clients to one Zapier MCP server.",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "point",
+    "title": "The fragmentation problem",
+    "subtitle": "",
+    "body": "If your support team uses Claude and your engineers use Cursor, they likely maintain separate setups. This creates data silos and doubles your administrative effort.",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "compare",
+    "title": "Old setup vs. New setup",
+    "subtitle": "",
+    "body": "",
+    "items": [],
+    "left_label": "Individual Servers",
+    "right_label": "Unified MCP Server",
+    "rows": [
+     {
+      "left": "Unique setup per tool",
+      "right": "Share skills and apps"
+     },
+     {
+      "left": "Scattered history logs",
+      "right": "One central activity log"
+     },
+     {
+      "left": "Manual updates everywhere",
+      "right": "One-time configuration"
+     }
+    ],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "steps",
+    "title": "How to connect your clients",
+    "subtitle": "",
+    "body": "Follow these steps in your Zapier account to consolidate your AI workflow.",
+    "items": [
+     "Go to mcp.zapier.com and open your server.",
+     "Select the Clients tab and click Connect client.",
+     "Follow the setup guide for your specific AI tool.",
+     "If switching, use Swap client to move to this server."
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "mythfact",
+    "title": "Important limitations",
+    "subtitle": "",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "Unified servers share every single capability.",
+    "fact": "If your server is in managed mode, it shares apps and actions but hides custom skills.",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "summary",
+    "title": "Before you start",
+    "subtitle": "",
+    "body": "Keep these rules in mind to maintain control over your automated systems.",
+    "items": [
+     "Requires Owner or Editor access to the server.",
+     "A client can only connect to one server.",
+     "Old servers remain until you manually delete them.",
+     "Use managed mode to lock specific field values."
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   }
+  ],
+  "caption": "Managing AI tools like Claude, ChatGPT, and Cursor separately is a recipe for errors. By connecting them to a single Zapier MCP server, you ensure your team uses the same apps and sees the same history. This also lets you lock specific field settings so your AI stays consistent across the board. Remember, you can keep a tool on its own server if it requires unique, complex skills that shouldn't be shared. Try migrating your most-used client to a shared server in your Zapier dashboard today. How many different AI tools is your team currently juggling for daily operations? #Zapier #AITools #BusinessAutomation #WorkflowEfficiency #SmallBusinessTips",
+  "hashtags": [
+   "#Zapier",
+   "#AITools",
+   "#BusinessAutomation",
+   "#WorkflowEfficiency",
+   "#SmallBusinessTips"
+  ],
+  "keywords": [
+   "Zapier MCP",
+   "AI automation",
+   "AI tools management",
+   "business productivity",
+   "Claude ChatGPT integration"
+  ],
+  "claims": [
+   {
+    "claim": "You can connect Claude, ChatGPT, and Cursor to one Zapier MCP server to share apps and actions.",
+    "source_id": 66
+   },
+   {
+    "claim": "Every tool call from every client lands in the same history log on a unified server.",
+    "source_id": 66
+   },
+   {
+    "claim": "A server in managed mode shares apps and actions but excludes skills.",
+    "source_id": 66
+   },
+   {
+    "claim": "A client can only connect to one server at a time.",
+    "source_id": 66
+   },
+   {
+    "claim": "You need Owner or Editor access to a server to add clients.",
+    "source_id": 66
+   }
+  ]
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 9,
+   "natural_language": 9,
+   "accuracy": 9,
+   "narrative": 9,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "You can connect Claude, ChatGPT, and Cursor to one Zapier MCP server to share apps and actions.",
+    "supported": true
+   },
+   {
+    "claim": "Every tool call from every client lands in the same history log on a unified server.",
+    "supported": true
+   },
+   {
+    "claim": "A server in managed mode shares apps and actions but excludes skills.",
+    "supported": true
+   },
+   {
+    "claim": "A client can only connect to one server at a time.",
+    "supported": true
+   },
+   {
+    "claim": "You need Owner or Editor access to a server to add clients.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [],
+  "issues": [
+   "The distinction between 'agentic mode' and 'managed mode' is slightly confusing in the carousel. The source states skills only work in agentic mode, but the carousel implies managed mode is the primary way to share apps/actions, which is correct but could be clearer regarding why one would choose one over the other."
+  ],
+  "fix_instructions": "The content is excellent and highly actionable. No major changes are required. To improve clarity, consider adding a tiny note on slide 5 explaining that 'Agentic mode' is required if they actually want to share skills, as the current slide only focuses on what is hidden in 'Managed mode'."
+ },
+ "rules": [],
+ "reasons": [
+  "originality 7/10 (<8)"
+ ],
+ "meta": {
+  "ai_visuals": false,
+  "slides": 6
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1440/C2-pilot-20261023-1440/try2",
+ "attempt": 2,
+ "approved": false,
+ "hook": "One Zapier server for all your AI team tools",
+ "log": [
+  "attempt 1: fail {'hook': 8, 'originality': 7, 'practical_value': 9, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} ['originality 7/10 (<8)']",
+  "attempt 2: fail {'hook': 8, 'originality': 7, 'practical_value': 9, 'natural_language': 9, 'accuracy': 9, 'narrative': 9, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} ['originality 7/10 (<8)']",
+  "attempt 3: fail {'hook': 8, 'originality': 7, 'practical_value': 9, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} ['originality 7/10 (<8)']"
+ ],
+ "id": "C2-pilot-20261023-1440",
+ "caption_final": "Managing AI tools like Claude, ChatGPT, and Cursor separately is a recipe for errors. By connecting them to a single Zapier MCP server, you ensure your team uses the same apps and sees the same history. This also lets you lock specific field settings so your AI stays consistent across the board. Remember, you can keep a tool on its own server if it requires unique, complex skills that shouldn't be shared. Try migrating your most-used client to a shared server in your Zapier dashboard today. How many different AI tools is your team currently juggling for daily operations? #Zapier #AITools #BusinessAutomation #WorkflowEfficiency #SmallBusinessTips\n\n#Zapier #AITools #BusinessAutomation #WorkflowEfficiency #SmallBusinessTips"
+}

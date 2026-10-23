@@ -1,0 +1,345 @@
+{
+ "date": "2026-10-23",
+ "tag": "pilot-20261023-1440",
+ "pilot": true,
+ "sources": 97,
+ "ideas": 14,
+ "idea_list": [
+  {
+   "idea": "Don't let AI 'manage' your passwords: Secure agent access.",
+   "format": "tutorial",
+   "total": 8.95,
+   "scores": {
+    "relevance": 9,
+    "novelty": 9,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 10,
+    "feasibility": 8,
+    "evidence": 9
+   }
+  },
+  {
+   "idea": "Stop manual scanning: The best OCR tools for Indian GST and invoice management.",
+   "format": "tool_test",
+   "total": 8.71,
+   "scores": {
+    "relevance": 10,
+    "novelty": 6,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 10,
+    "feasibility": 9,
+    "evidence": 8
+   }
+  },
+  {
+   "idea": "Setting healthy boundaries with AI: How to say no.",
+   "format": "tutorial",
+   "total": 8.67,
+   "scores": {
+    "relevance": 10,
+    "novelty": 7,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 10,
+    "feasibility": 9,
+    "evidence": 7
+   }
+  },
+  {
+   "idea": "One AI tool for every task? The danger of fragmented AI stacks.",
+   "format": "problem_fix",
+   "total": 8.53,
+   "scores": {
+    "relevance": 9,
+    "novelty": 9,
+    "hook_potential": 8,
+    "retention": 7,
+    "save_share": 9,
+    "feasibility": 8,
+    "evidence": 9
+   }
+  },
+  {
+   "idea": "Manual hiring vs AI-assisted candidate sourcing.",
+   "format": "manual_vs_auto",
+   "total": 8.51,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 8,
+    "evidence": 8
+   }
+  },
+  {
+   "idea": "Using Canva's planning architecture to save design time.",
+   "format": "demo",
+   "total": 8.48,
+   "scores": {
+    "relevance": 8,
+    "novelty": 7,
+    "hook_potential": 8,
+    "retention": 9,
+    "save_share": 9,
+    "feasibility": 10,
+    "evidence": 9
+   }
+  },
+  {
+   "idea": "How local businesses can use AI to research lead data.",
+   "format": "demo",
+   "total": 8.41,
+   "scores": {
+    "relevance": 9,
+    "novelty": 9,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 7,
+    "evidence": 8
+   }
+  },
+  {
+   "idea": "Use AI to automate legal and compliance paperwork for Indian small businesses.",
+   "format": "case_study",
+   "total": 8.4,
+   "scores": {
+    "relevance": 9,
+    "novelty": 7,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 8,
+    "evidence": 9
+   }
+  },
+  {
+   "idea": "Are your employees trained to use AI effectively?",
+   "format": "checklist",
+   "total": 8.33,
+   "scores": {
+    "relevance": 9,
+    "novelty": 7,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 8
+   }
+  },
+  {
+   "idea": "Can AI replace your debt collection department?",
+   "format": "case_study",
+   "total": 8.11,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 7,
+    "evidence": 7
+   }
+  },
+  {
+   "idea": "Why your business needs a 'Decision Model' instead of just a Chatbot.",
+   "format": "myth_fact",
+   "total": 8.01,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 7,
+    "save_share": 7,
+    "feasibility": 9,
+    "evidence": 8
+   }
+  },
+  {
+   "idea": "The hidden cost of AI: Don't ignore your data storage bill.",
+   "format": "myth_fact",
+   "total": 7.82,
+   "scores": {
+    "relevance": 8,
+    "novelty": 8,
+    "hook_potential": 7,
+    "retention": 7,
+    "save_share": 8,
+    "feasibility": 9,
+    "evidence": 8
+   }
+  },
+  {
+   "idea": "Is your AI agent actually working? A reality check on agent reliability.",
+   "format": "problem_fix",
+   "total": 7.63,
+   "scores": {
+    "relevance": 8,
+    "novelty": 8,
+    "hook_potential": 7,
+    "retention": 8,
+    "save_share": 6,
+    "feasibility": 9,
+    "evidence": 8
+   }
+  },
+  {
+   "idea": "Why you should stop printing API manuals and start using AI to document.",
+   "format": "problem_fix",
+   "total": 7.61,
+   "scores": {
+    "relevance": 8,
+    "novelty": 7,
+    "hook_potential": 7,
+    "retention": 7,
+    "save_share": 8,
+    "feasibility": 8,
+    "evidence": 8
+   }
+  }
+ ],
+ "rejected_ideas": [],
+ "items": [
+  {
+   "id": "R1-pilot-20261023-1440",
+   "kind": "reel",
+   "format": "tutorial",
+   "topic": "Don't let AI 'manage' your passwords: Secure agent access.",
+   "hook": "Your AI agent does not need your raw password to manage your accounts.",
+   "approved": false,
+   "attempts": 1,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 8,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 7,
+    "pacing": 8,
+    "brand_consistency": 9,
+    "publish_readiness": 7
+   },
+   "reasons": [
+    "originality 7/10 (<8)",
+    "visual_integrity 7/10 (<8)"
+   ],
+   "log": [
+    "attempt 1: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+    "attempt 2: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+    "attempt 3: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['opening line too long for a 3-second hook', 'originality 7/10 (<8)', 'visual_integrity 7/10 (<8)']"
+   ],
+   "dir": "output/pilot-20261023-1440/R1-pilot-20261023-1440/try1",
+   "duration": 35.3,
+   "voice": "edge"
+  },
+  {
+   "id": "R2-pilot-20261023-1440",
+   "kind": "reel",
+   "format": "tool_test",
+   "topic": "Stop manual scanning: The best OCR tools for Indian GST and invoice management.",
+   "hook": "Most OCR apps fail to read your messy, folded GST receipts.",
+   "approved": false,
+   "attempts": 1,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 8,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 7,
+    "visual_integrity": 6,
+    "pacing": 7,
+    "brand_consistency": 8,
+    "publish_readiness": 6
+   },
+   "reasons": [
+    "originality 7/10 (<8)",
+    "narrative 7/10 (<8)",
+    "visual_integrity 6/10 (<8)",
+    "publish_readiness 6/10 (<7)"
+   ],
+   "log": [
+    "attempt 1: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 6, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 6} ['originality 7/10 (<8)', 'narrative 7/10 (<8)', 'visual_integrity 6/10 (<8)', 'publish_readiness 6/10 (<7)']",
+    "attempt 2: fail {'hook': 6, 'originality': 4, 'practical_value': 4, 'natural_language': 6, 'accuracy': 8, 'narrative': 5, 'visual_integrity': 3, 'pacing': 5, 'brand_consistency': 6, 'publish_readiness': 3} ['hook 6/10 (<8)', 'originality 4/10 (<8)', 'practical_value 4/10 (<8)', 'natural_language 6/10 (<8)']",
+    "attempt 3: fail {'hook': 7, 'originality': 6, 'practical_value': 8, 'natural_language': 7, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 6, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 6} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'natural_language 7/10 (<8)', 'narrative 7/10 (<8)']"
+   ],
+   "dir": "output/pilot-20261023-1440/R2-pilot-20261023-1440/try1",
+   "duration": 43.9,
+   "voice": "edge"
+  },
+  {
+   "id": "C1-pilot-20261023-1440",
+   "kind": "carousel",
+   "format": "tutorial",
+   "topic": "Setting healthy boundaries with AI: How to say no.",
+   "hook": "How to protect your time using simple boundary rules",
+   "approved": false,
+   "attempts": 3,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 8,
+    "natural_language": 9,
+    "accuracy": 10,
+    "narrative": 9,
+    "visual_integrity": 9,
+    "pacing": 9,
+    "brand_consistency": 10,
+    "publish_readiness": 9
+   },
+   "reasons": [
+    "originality 7/10 (<8)"
+   ],
+   "log": [
+    "attempt 1: fail {'hook': 8, 'originality': 6, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} ['originality 6/10 (<8)', 'practical_value 7/10 (<8)']",
+    "attempt 2: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 9, 'accuracy': 9, 'narrative': 9, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 10, 'publish_readiness': 9} ['originality 7/10 (<8)']",
+    "attempt 3: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 9, 'accuracy': 10, 'narrative': 9, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 10, 'publish_readiness': 9} ['originality 7/10 (<8)']"
+   ],
+   "dir": "output/pilot-20261023-1440/C1-pilot-20261023-1440/try3",
+   "duration": null,
+   "voice": null
+  },
+  {
+   "id": "C2-pilot-20261023-1440",
+   "kind": "carousel",
+   "format": "problem_fix",
+   "topic": "One AI tool for every task? The danger of fragmented AI stacks.",
+   "hook": "One Zapier server for all your AI team tools",
+   "approved": false,
+   "attempts": 2,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 9,
+    "natural_language": 9,
+    "accuracy": 9,
+    "narrative": 9,
+    "visual_integrity": 9,
+    "pacing": 9,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [
+    "originality 7/10 (<8)"
+   ],
+   "log": [
+    "attempt 1: fail {'hook': 8, 'originality': 7, 'practical_value': 9, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} ['originality 7/10 (<8)']",
+    "attempt 2: fail {'hook': 8, 'originality': 7, 'practical_value': 9, 'natural_language': 9, 'accuracy': 9, 'narrative': 9, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} ['originality 7/10 (<8)']",
+    "attempt 3: fail {'hook': 8, 'originality': 7, 'practical_value': 9, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} ['originality 7/10 (<8)']"
+   ],
+   "dir": "output/pilot-20261023-1440/C2-pilot-20261023-1440/try2",
+   "duration": null,
+   "voice": null
+  }
+ ],
+ "llm_calls": {
+  "text": 25,
+  "tts": 2,
+  "failed": 0
+ }
+}

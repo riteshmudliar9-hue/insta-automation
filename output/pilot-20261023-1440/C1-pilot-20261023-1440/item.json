@@ -1,0 +1,232 @@
+{
+ "kind": "carousel",
+ "idea": {
+  "idea": "Setting healthy boundaries with AI: How to say no.",
+  "angle": "Use AI as a filter for high-pressure requests to protect your time as a business owner.",
+  "audience_problem": "Business owners are overwhelmed and struggle to say no to clients/partners.",
+  "format": "tutorial",
+  "medium": "carousel",
+  "source_ids": [
+   84
+  ],
+  "evergreen": true,
+  "keywords": [
+   "productivity",
+   "mindset",
+   "AI assistant"
+  ],
+  "scores": {
+   "relevance": 10,
+   "novelty": 7,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 10,
+   "feasibility": 9,
+   "evidence": 7
+  },
+  "total": 8.67
+ },
+ "piece": {
+  "hooks": [
+   "Saying no without feeling guilty or rude to clients",
+   "How to protect your time using simple boundary rules",
+   "Stop saying yes to every request from your clients"
+  ],
+  "chosen_hook": 1,
+  "hook_reason": "It addresses the specific emotional hurdle (guilt) that small business owners face when trying to set professional boundaries, which is a key insight from the source material.",
+  "slides": [
+   {
+    "kind": "cover",
+    "title": "Saying no without feeling guilty or rude to clients",
+    "subtitle": "Use these proven strategies to protect your business time and energy",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "mythfact",
+    "title": "The Boundary Myth",
+    "subtitle": "Why we struggle to refuse requests",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "Saying no is selfish and damages your business relationships.",
+    "fact": "Boundaries are about recognizing your limits. Protecting your time prevents resentment and keeps your professional relationships balanced.",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "steps",
+    "title": "How to say no clearly",
+    "subtitle": "Techniques for difficult conversations",
+    "body": "Follow these steps to communicate your limits without needing to over-explain your business decisions.",
+    "items": [
+     "Identify your personal limits before agreeing to extra work",
+     "State your refusal calmly without being overly apologetic",
+     "Avoid over-explaining your reasons for saying no",
+     "Follow through consistently to ensure others respect your limits"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "point",
+    "title": "The Essentialist Approach",
+    "subtitle": "Focusing on what really matters",
+    "body": "Instead of accepting every opportunity, distinguish between your essential priorities and tasks that contribute little to your goals. This makes saying no a decision based on strategy, not pressure.",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "quote",
+    "title": "Expert Wisdom",
+    "subtitle": "A reminder for the overwhelmed",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "Caring about someone does not require agreeing with everything they ask.",
+    "attribution": "Nedra Glover Tawwab"
+   },
+   {
+    "kind": "summary",
+    "title": "Your Boundary Checklist",
+    "subtitle": "Keep these rules for your next client interaction",
+    "body": "",
+    "items": [
+     "Prioritize work that aligns with your main goals",
+     "Stop treating every approval as your responsibility",
+     "Communicate limits clearly to avoid future resentment",
+     "Do not over-explain your decisions to others"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   }
+  ],
+  "caption": "Saying no to a client or supplier is often harder than the actual work itself. If you constantly say yes, you end up overwhelmed and exhausted. Learning to set boundaries isn't about being rude; it's about protecting your energy so you can actually finish the work you committed to. Start by stopping the habit of over-explaining your \"no.\" A clear, calm answer is enough. Remember, caring about your client's needs doesn't mean you have to agree to every single demand they make. Next time you feel pressured to accept extra work that doesn't fit your schedule, try stating your limit clearly and holding to it. What is one request you wish you had said no to last week? #smallbusinessindia #boundarysetting #businessgrowth #timeutility #clientmanagement",
+  "hashtags": [
+   "#smallbusinessindia",
+   "#boundarysetting",
+   "#businessgrowth",
+   "#timeutility",
+   "#clientmanagement"
+  ],
+  "keywords": [
+   "business boundaries",
+   "saying no to clients",
+   "time management for business",
+   "professional assertiveness",
+   "small business operations"
+  ],
+  "claims": [
+   {
+    "claim": "Saying no helps you recognize limits and protects your energy.",
+    "source_id": 84
+   },
+   {
+    "claim": "Unclear expectations lead to resentment and emotional exhaustion.",
+    "source_id": 84
+   },
+   {
+    "claim": "Caring about someone does not require agreeing with everything they ask.",
+    "source_id": 84
+   },
+   {
+    "claim": "You should avoid over-explaining your decisions when saying no.",
+    "source_id": 84
+   },
+   {
+    "claim": "Distinguishing between essential priorities and low-value tasks makes saying no easier.",
+    "source_id": 84
+   }
+  ]
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 9,
+   "accuracy": 10,
+   "narrative": 9,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 10,
+   "publish_readiness": 9
+  },
+  "claims": [
+   {
+    "claim": "Saying no helps you recognize limits and protects your energy.",
+    "supported": true
+   },
+   {
+    "claim": "Unclear expectations lead to resentment and emotional exhaustion.",
+    "supported": true
+   },
+   {
+    "claim": "Caring about someone does not require agreeing with everything they ask.",
+    "supported": true
+   },
+   {
+    "claim": "You should avoid over-explaining your decisions when saying no.",
+    "supported": true
+   },
+   {
+    "claim": "Distinguishing between essential priorities and low-value tasks makes saying no easier.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [],
+  "issues": [
+   "The carousel is very strong, but the 'Essentialist Approach' slide (slide 4) feels slightly disconnected from the 'How to' steps in slide 3. It could benefit from a more direct bridge to the previous slide's action-oriented tone."
+  ],
+  "fix_instructions": "The content is excellent and ready for publication. For future iterations, ensure that conceptual slides (like the Essentialist approach) include a small 'Action' or 'Try this' sub-bullet to maintain the high practical value established in the earlier slides. No changes are strictly necessary for this version."
+ },
+ "rules": [],
+ "reasons": [
+  "originality 7/10 (<8)"
+ ],
+ "meta": {
+  "ai_visuals": false,
+  "slides": 6
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1440/C1-pilot-20261023-1440/try3",
+ "attempt": 3,
+ "approved": false,
+ "hook": "How to protect your time using simple boundary rules",
+ "log": [
+  "attempt 1: fail {'hook': 8, 'originality': 6, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} ['originality 6/10 (<8)', 'practical_value 7/10 (<8)']",
+  "attempt 2: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 9, 'accuracy': 9, 'narrative': 9, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 10, 'publish_readiness': 9} ['originality 7/10 (<8)']",
+  "attempt 3: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 9, 'accuracy': 10, 'narrative': 9, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 10, 'publish_readiness': 9} ['originality 7/10 (<8)']"
+ ],
+ "id": "C1-pilot-20261023-1440",
+ "caption_final": "Saying no to a client or supplier is often harder than the actual work itself. If you constantly say yes, you end up overwhelmed and exhausted. Learning to set boundaries isn't about being rude; it's about protecting your energy so you can actually finish the work you committed to. Start by stopping the habit of over-explaining your \"no.\" A clear, calm answer is enough. Remember, caring about your client's needs doesn't mean you have to agree to every single demand they make. Next time you feel pressured to accept extra work that doesn't fit your schedule, try stating your limit clearly and holding to it. What is one request you wish you had said no to last week? #smallbusinessindia #boundarysetting #businessgrowth #timeutility #clientmanagement\n\n#smallbusinessindia #boundarysetting #businessgrowth #timeutility #clientmanagement"
+}
