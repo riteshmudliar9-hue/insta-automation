@@ -1,6 +1,7 @@
-"""Instagram API (Instagram Login) carousel publishing + token refresh."""
+"""Instagram API (Instagram Login): carousel + reel publishing, insights, token refresh."""
 import os
 import time
+
 import requests
 
 GRAPH = "https://graph.instagram.com/v23.0"
@@ -15,56 +16,90 @@ def _h():
 def _post(path, data):
     r = requests.post(f"{GRAPH}/{path}", headers=_h(), data=data, timeout=60)
     if r.status_code >= 400:
-        raise RuntimeError(f"IG {path} -> {r.status_code}: {r.text}")
+        raise RuntimeError(f"IG {path} -> {r.status_code}: {r.text[:300]}")
     return r.json()
 
 
-def _wait_ready(container_id, tries=30):
+def _get(path, params=None):
+    r = requests.get(f"{GRAPH}/{path}", headers=_h(), params=params or {}, timeout=30)
+    if r.status_code >= 400:
+        raise RuntimeError(f"IG GET {path} -> {r.status_code}: {r.text[:300]}")
+    return r.json()
+
+
+def _wait_ready(cid, tries=30):
     for _ in range(tries):
-        r = requests.get(f"{GRAPH}/{container_id}", headers=_h(),
-                         params={"fields": "status_code,status"}, timeout=30).json()
-        code = r.get("status_code")
+        code = _get(cid, {"fields": "status_code,status"}).get("status_code")
         if code == "FINISHED":
             return
         if code in ("ERROR", "EXPIRED"):
-            raise RuntimeError(f"container {container_id} failed: {r}")
+            raise RuntimeError(f"container {cid} failed: {code}")
         time.sleep(5)
-    raise RuntimeError(f"container {container_id} not ready in time")
+    raise RuntimeError(f"container {cid} not ready in time")
+
+
+def _permalink(mid):
+    try:
+        return _get(mid, {"fields": "permalink"}).get("permalink", "")
+    except Exception:
+        return ""
 
 
 def publish_carousel(image_urls, caption):
-    # 1) child containers
-    children = []
-    for url in image_urls:
-        c = _post(f"{IG_USER_ID}/media", {"image_url": url, "is_carousel_item": "true"})
-        children.append(c["id"])
-    for cid in children:
-        _wait_ready(cid)
-    # 2) carousel container
-    parent = _post(f"{IG_USER_ID}/media", {"media_type": "CAROUSEL",
-                                            "children": ",".join(children), "caption": caption})
+    kids = [_post(f"{IG_USER_ID}/media", {"image_url": u, "is_carousel_item": "true"})["id"] for u in image_urls]
+    for k in kids:
+        _wait_ready(k)
+    parent = _post(f"{IG_USER_ID}/media", {"media_type": "CAROUSEL", "children": ",".join(kids), "caption": caption})
     _wait_ready(parent["id"])
-    # 3) publish
-    pub = _post(f"{IG_USER_ID}/media_publish", {"creation_id": parent["id"]})
-    media_id = pub["id"]
-    link = requests.get(f"{GRAPH}/{media_id}", headers=_h(),
-                        params={"fields": "permalink"}, timeout=30).json().get("permalink", "")
-    return media_id, link
+    mid = _post(f"{IG_USER_ID}/media_publish", {"creation_id": parent["id"]})["id"]
+    return mid, _permalink(mid)
 
 
 def publish_reel(video_url, caption):
-    c = _post(f"{IG_USER_ID}/media", {"media_type": "REELS", "video_url": video_url,
-                                       "caption": caption, "share_to_feed": "true"})
-    _wait_ready(c["id"], tries=72)  # video processing can take a few minutes
-    pub = _post(f"{IG_USER_ID}/media_publish", {"creation_id": c["id"]})
-    media_id = pub["id"]
-    link = requests.get(f"{GRAPH}/{media_id}", headers=_h(),
-                        params={"fields": "permalink"}, timeout=30).json().get("permalink", "")
-    return media_id, link
+    c = _post(f"{IG_USER_ID}/media", {"media_type": "REELS", "video_url": video_url, "caption": caption,
+                                       "share_to_feed": "true"})
+    _wait_ready(c["id"], tries=72)
+    mid = _post(f"{IG_USER_ID}/media_publish", {"creation_id": c["id"]})["id"]
+    return mid, _permalink(mid)
+
+
+def recent_media(limit=15):
+    return _get(f"{IG_USER_ID}/media", {"fields": "id,caption,media_type,timestamp,permalink", "limit": limit}).get(
+        "data", [])
+
+
+REEL_METRICS = ["reach", "views", "likes", "comments", "shares", "saved", "total_interactions",
+                "ig_reels_avg_watch_time", "ig_reels_video_view_total_time"]
+POST_METRICS = ["reach", "views", "likes", "comments", "shares", "saved", "total_interactions",
+                "profile_visits", "follows"]
+
+
+def media_insights(mid, is_reel):
+    """Dict of metric -> value. Unsupported metrics are skipped, never invented."""
+    metrics = REEL_METRICS if is_reel else POST_METRICS
+    out = {}
+    try:
+        data = _get(f"{mid}/insights", {"metric": ",".join(metrics)}).get("data", [])
+        for d in data:
+            out[d["name"]] = (d.get("values") or [{}])[0].get("value", d.get("total_value", {}).get("value"))
+        return out
+    except Exception:
+        pass
+    for m in metrics:
+        try:
+            d = _get(f"{mid}/insights", {"metric": m}).get("data", [])
+            if d:
+                out[m] = (d[0].get("values") or [{}])[0].get("value", d[0].get("total_value", {}).get("value"))
+        except Exception:
+            continue
+    return out
+
+
+def account_info():
+    return _get(IG_USER_ID, {"fields": "followers_count,media_count"})
 
 
 def refresh_token():
-    """Extends a long-lived token by 60 days (token must be >24h old)."""
     r = requests.get("https://graph.instagram.com/refresh_access_token",
                      params={"grant_type": "ig_refresh_token", "access_token": TOKEN}, timeout=30)
     if r.status_code >= 400:

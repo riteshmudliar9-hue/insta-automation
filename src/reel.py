@@ -1,4 +1,5 @@
-"""Turn the day's carousel slides into a 1080x1920 Reel with an Indian-English voiceover."""
+"""Reel renderer v2: scene-based 1080x1920 video with real visuals, staged animations,
+synced subtitles and a natural voice (Gemini TTS, edge-tts fallback)."""
 import asyncio
 import os
 import subprocess
@@ -7,13 +8,15 @@ import wave
 
 from PIL import Image, ImageDraw
 
-import render
+import config
+import design as D
+import llm
+import visuals
 
-RW, RH = 1080, 1920
-VOICE = os.environ.get("REEL_VOICE", "en-IN-PrabhatNeural")  # Indian English, male
-FADE = 0.4      # seconds of cross-fade between slides
-PAD = 0.6       # silence after each spoken line
-MIN_SLIDE = 2.5  # seconds, if there is no voice
+RW, RH, FPS = 1080, 1920, 30
+PX, PY, PW, PH = 60, 430, 960, 860           # visual panel (inside Instagram safe area)
+SUB_Y = 1440                                 # subtitle centre line (above IG bottom UI)
+TAIL = 0.35                                  # pause after each scene's narration
 
 
 def ffmpeg():
@@ -25,118 +28,310 @@ def run(args):
     subprocess.run([ffmpeg(), "-y", "-loglevel", "error", *args], check=True)
 
 
-# ---------- frames ----------
-def vertical_frame(slide_path, out_path):
-    """Place a 1080x1350 slide in the middle of a branded 1080x1920 frame."""
-    canvas = render.base().resize((RW, RH))
-    slide = Image.open(slide_path).convert("RGB")
-    # hide the carousel-only "Swipe for more" footer (not relevant in a video)
-    sd = ImageDraw.Draw(slide)
-    bg = slide.getpixel((560, slide.height - 95))
-    sd.rectangle((560, slide.height - 125, slide.width, slide.height - 65), fill=bg)
-    top = (RH - slide.height) // 2 - 40
-    canvas.paste(slide, (0, top))
-    d = ImageDraw.Draw(canvas)
-    f = render.font("Bold", 34)
-    t = render.TAGLINE
-    tw = d.textlength(t, font=f)
-    d.text(((RW - tw) / 2, top - 90), t, font=f, fill=render.SAFFRON)
-    f2 = render.font("Medium", 36)
-    t2 = f"Follow {render.HANDLE} for daily AI tips"
-    tw2 = d.textlength(t2, font=f2)
-    d.text(((RW - tw2) / 2, top + slide.height + 40), t2, font=f2, fill=render.WHITE)
-    canvas.save(out_path, "JPEG", quality=92)
-
-
-# ---------- voice ----------
-def speech_lines(post):
-    lines = [post["hook"]]
-    for s in post["slides"]:
-        lines.append(f"{s['title']}. {s['text']}")
-    lines.append("Found this useful? Follow us for daily A I tips for Indian businesses.")
-    return lines
-
-
+# ---------------- audio ----------------
 async def _edge(text, path):
     import edge_tts
-    await edge_tts.Communicate(text, VOICE, rate="+5%").save(path)
+    await edge_tts.Communicate(text, config.EDGE_VOICE, rate="+4%").save(path)
 
 
-def tts(text, mp3_path):
-    """edge-tts (male en-IN) first, gTTS (en, India) as fallback. Returns True if audio made."""
-    try:
-        asyncio.run(_edge(text, mp3_path))
-        if os.path.getsize(mp3_path) > 1000:
-            return True
-    except Exception as ex:
-        print("[reel] edge-tts failed:", ex)
-    try:
-        from gtts import gTTS
-        gTTS(text, lang="en", tld="co.in").save(mp3_path)
-        return True
-    except Exception as ex:
-        print("[reel] gTTS failed:", ex)
-    return False
+def _to_wav(src, dst):
+    run(["-i", src, "-ar", "44100", "-ac", "1", "-sample_fmt", "s16", dst])
 
 
-def wav_seconds(path):
+def _seconds(path):
     with wave.open(path) as w:
-        return w.getnframes() / float(w.getframerate())
+        return w.getnframes() / w.getframerate()
 
 
-# ---------- build ----------
-def build_reel(post, slide_paths, out_path, voice=True):
-    tmp = tempfile.mkdtemp(prefix="reel_")
-    lines = speech_lines(post)
-    assert len(lines) == len(slide_paths), "slides and speech lines must match"
-    frames, durs, wavs = [], [], []
-    have_voice = voice
-    for i, (line, sp) in enumerate(zip(lines, slide_paths)):
-        fp = os.path.join(tmp, f"f{i:02d}.jpg")
-        vertical_frame(sp, fp)
-        frames.append(fp)
-        wav = os.path.join(tmp, f"a{i:02d}.wav")
-        mp3 = os.path.join(tmp, f"a{i:02d}.mp3")
-        if have_voice and tts(line, mp3):
-            run(["-i", mp3, "-ar", "44100", "-ac", "2", wav])
-            d = wav_seconds(wav) + PAD
-        else:
-            have_voice = False
-            d = MIN_SLIDE + 0.08 * len(line.split())
-        durs.append(round(max(d, MIN_SLIDE), 2))
-        wavs.append(wav)
+def voice_lines(lines, tmp):
+    """Returns (wav paths, durations, engine). One engine for the whole reel so the voice is consistent."""
+    engine = "gemini"
+    wavs = []
+    for i, line in enumerate(lines):
+        raw = os.path.join(tmp, f"g{i}.wav")
+        data = llm.gemini_tts(line) if engine == "gemini" else None
+        if data is None and engine == "gemini":
+            engine = "edge"          # switch the whole reel to edge-tts for consistency
+            return _edge_all(lines, tmp)
+        with open(raw, "wb") as f:
+            f.write(data)
+        out = os.path.join(tmp, f"v{i}.wav")
+        _to_wav(raw, out)
+        wavs.append(out)
+    return wavs, [_seconds(w) for w in wavs], engine
 
-    # audio track: each line padded to exactly its slide's duration
+
+def _edge_all(lines, tmp):
+    wavs = []
+    for i, line in enumerate(lines):
+        mp3 = os.path.join(tmp, f"e{i}.mp3")
+        asyncio.run(_edge(line, mp3))
+        out = os.path.join(tmp, f"v{i}.wav")
+        _to_wav(mp3, out)
+        wavs.append(out)
+    return wavs, [_seconds(w) for w in wavs], "edge"
+
+
+def concat_audio(wavs, durs, path):
+    with wave.open(path, "wb") as out:
+        out.setnchannels(1)
+        out.setsampwidth(2)
+        out.setframerate(44100)
+        for w, d in zip(wavs, durs):
+            with wave.open(w) as src:
+                frames = src.readframes(src.getnframes())
+            need = int(d * 44100) * 2
+            out.writeframes(frames[:need] + b"\x00" * max(0, need - len(frames)))
+
+
+# ---------------- subtitles ----------------
+def chunks(text, max_words=5, max_chars=30):
+    out, cur = [], []
+    for w in text.split():
+        if cur and (len(cur) >= max_words or len(" ".join(cur + [w])) > max_chars):
+            out.append(" ".join(cur))
+            cur = []
+        cur.append(w)
+        if w.endswith((".", "?", "!", ",")) and len(cur) >= 2:
+            out.append(" ".join(cur))
+            cur = []
+    if cur:
+        out.append(" ".join(cur))
+    return out
+
+
+def subtitle_img(text):
+    img = Image.new("RGBA", (RW, 160), (0, 0, 0, 0))
+    d = ImageDraw.Draw(img)
+    f = D.font("Bold", 54)
+    tw = d.textlength(text, font=f)
+    x0 = (RW - tw) / 2
+    d.rounded_rectangle((x0 - 26, 30, x0 + tw + 26, 122), radius=20, fill=(13, 22, 40, 215))
+    d.text((x0, 42), text, font=f, fill=D.WHITE)
+    return img
+
+
+def timed_subs(narration, audio_dur):
+    cs = chunks(narration)
+    total = sum(len(c) for c in cs) or 1
+    t, out = 0.0, []
+    for c in cs:
+        dur = audio_dur * len(c) / total
+        out.append((t, t + dur, subtitle_img(c)))
+        t += dur
+    return out
+
+
+# ---------------- scene visuals ----------------
+def base_canvas(on_screen):
+    img = Image.new("RGB", (RW, RH), D.INK_DARK)
+    d = ImageDraw.Draw(img)
+    D.mark(d, PX, 120, 44)
+    d.text((PX + 60, 126), config.HANDLE, font=D.font("SemiBold", 30), fill=(170, 180, 200))
+    y = D.text_block(d, (PX, 205), on_screen or "", "Bold", RW - 2 * PX, 180, 70, 48, D.WHITE, spacing=1.12)
+    if on_screen:
+        d.rectangle((PX, y + 14, PX + 90, y + 22), fill=D.ACCENT)
+    return img
+
+
+def card_panel():
+    img = Image.new("RGB", (PW, PH), D.CREAM)
+    return img
+
+
+def panel_text(headline):
+    img = card_panel()
+    d = ImageDraw.Draw(img)
+    d.rectangle((60, 300, 150, 310), fill=D.ACCENT)
+    D.text_block(d, (60, 340), headline, "Bold", PW - 120, 420, 84, 50, D.INK, spacing=1.1)
+    return img
+
+
+def panel_list_states(title, items, numbered):
+    """One image per reveal state (0..n items shown)."""
+    states = []
+    for k in range(len(items) + 1):
+        img = card_panel()
+        d = ImageDraw.Draw(img)
+        tf, tl, tlh = D.fit(d, title or "", "Bold", PW - 100, 140, 48, 34, 1.2)
+        th = tlh * len(tl) if title else 0
+        per = min(150, (PH - 100 - th) // max(1, len(items)))
+        y0 = max(40, (PH - (th + 30 + per * len(items))) // 2)
+        y = D.text_block(d, (50, y0), title or "", "Bold", PW - 100, 140, 48, 34, D.INK) + 30 if title else y0
+        for i, it in enumerate(items[:k], 1):
+            d.rounded_rectangle((40, y, PW - 40, y + per - 16), radius=18, fill=D.CARD, outline=D.LINE, width=2)
+            cy = y + (per - 16) / 2
+            if numbered:
+                d.ellipse((62, cy - 28, 118, cy + 28), fill=D.ACCENT)
+                f = D.font("Bold", 30)
+                d.text((90 - d.textlength(str(i), font=f) / 2, cy - 20), str(i), font=f, fill=D.WHITE)
+            else:
+                D.check_icon(d, 62, int(cy - 26), 52)
+            f, lines, lh = D.fit(d, it, "Medium", PW - 220, per - 40, 38, 26, 1.2)
+            ty = cy - lh * len(lines) / 2
+            for ln in lines:
+                d.text((140, ty), ln, font=f, fill=D.INK)
+                ty += lh
+            y += per
+        states.append(img)
+    return states
+
+
+def panel_compare_states(left, right, rows):
+    states = []
+    colw = (PW - 100) // 2
+    for k in range(len(rows) + 1):
+        img = card_panel()
+        d = ImageDraw.Draw(img)
+        f = D.font("Bold", 30)
+        per = min(170, (PH - 160) // max(1, len(rows)))
+        top = max(40, (PH - (80 + per * len(rows))) // 2)
+        D.cross_icon(d, 40, top, 40)
+        d.text((92, top + 4), (left or "Manual").upper(), font=f, fill=D.MUTED)
+        D.check_icon(d, 60 + colw, top, 40)
+        d.text((112 + colw, top + 4), (right or "Automated").upper(), font=f, fill=D.INK)
+        y = top + 80
+        for r in rows[:k]:
+            for x, txt, fill, bg in ((40, r.get("left", ""), D.MUTED, (236, 232, 224)),
+                                     (60 + colw, r.get("right", ""), D.INK, D.CARD)):
+                d.rounded_rectangle((x, y, x + colw, y + per - 16), radius=18, fill=bg, outline=D.LINE, width=2)
+                D.text_block(d, (x + 22, y + 20), txt, "Medium", colw - 44, per - 56, 36, 24, fill, spacing=1.2)
+            y += per
+        states.append(img)
+    return states
+
+
+def panel_diagram_states(steps):
+    steps = steps[:4]
+    states = []
+    n = len(steps)
+    bh = min(170, (PH - 80 - (n - 1) * 60) // max(1, n))
+    for k in range(n + 1):
+        img = card_panel()
+        d = ImageDraw.Draw(img)
+        total_h = n * bh + (n - 1) * 60
+        y = (PH - total_h) // 2
+        for i, s in enumerate(steps[:k]):
+            fill = D.INK if i == n - 1 else D.CARD
+            col = D.WHITE if i == n - 1 else D.INK
+            d.rounded_rectangle((90, y, PW - 90, y + bh), radius=24, fill=fill, outline=D.INK, width=3)
+            D.text_block(d, (120, y + (bh - 50) // 2 - 6), s, "Bold", PW - 240, bh - 30, 44, 28, col,
+                         spacing=1.15, align="center")
+            if i < n - 1 and i < k - 1:
+                cx = PW // 2
+                d.line((cx, y + bh + 8, cx, y + bh + 50), fill=D.ACCENT, width=6)
+                d.polygon([(cx - 16, y + bh + 40), (cx + 16, y + bh + 40), (cx, y + bh + 58)], fill=D.ACCENT)
+            y += bh + 60
+        states.append(img)
+    return states
+
+
+def screenshot_card(shot, url):
+    """Browser-style card: domain bar + real screenshot (scaled to panel width, tall for scrolling)."""
+    bar = 70
+    s = shot.resize((PW, int(shot.height * PW / shot.width)), Image.LANCZOS)
+    card = Image.new("RGB", (PW, bar + s.height), D.CARD)
+    d = ImageDraw.Draw(card)
+    d.rectangle((0, 0, PW, bar), fill=(236, 236, 240))
+    for i, c in enumerate([(237, 106, 94), (245, 191, 79), (98, 197, 84)]):
+        d.ellipse((24 + i * 30, 26, 42 + i * 30, 44), fill=c)
+    d.rounded_rectangle((130, 14, PW - 30, bar - 14), radius=20, fill=D.WHITE)
+    d.text((152, 22), visuals.domain(url), font=D.font("Medium", 26), fill=D.MUTED)
+    card.paste(s, (0, bar))
+    return card
+
+
+class Scene:
+    def __init__(self, sc, duration, subs):
+        self.sc, self.dur, self.subs = sc, duration, subs
+        self.base = base_canvas(sc.get("on_screen", ""))
+        self.kind, self.states, self.tall, self.photo = "text", None, None, None
+        self.ai_visual = False
+        vt = sc.get("visual_type", "text")
+        if vt == "screenshot":
+            shot = visuals.screenshot(sc.get("url", ""))
+            if shot is not None:
+                self.kind, self.tall = "scroll", screenshot_card(shot, sc.get("url", ""))
+        elif vt == "photo":
+            img, ai = visuals.photo(sc.get("query", ""))
+            if img is not None:
+                self.kind, self.photo, self.ai_visual = "kenburns", D.cover_crop(img, int(PW * 1.1), int(PH * 1.1)), ai
+        elif vt in ("checklist", "diagram", "compare") or sc.get("steps") or sc.get("items") or sc.get("rows"):
+            if vt == "compare" and sc.get("rows"):
+                self.kind = "staged"
+                self.states = panel_compare_states(sc.get("left_label"), sc.get("right_label"), sc["rows"][:4])
+            elif vt == "diagram" and sc.get("steps"):
+                self.kind, self.states = "staged", panel_diagram_states(sc["steps"])
+            elif sc.get("items"):
+                self.kind = "staged"
+                self.states = panel_list_states(sc.get("headline") or "", sc["items"][:5], numbered=False)
+        if self.kind == "text":
+            self.states = [panel_text(sc.get("headline") or sc.get("on_screen") or "")]
+        self.fallback = vt in ("screenshot", "photo") and self.kind == "text"
+
+    def panel(self, t):
+        p = t / max(self.dur, 0.01)
+        if self.kind == "scroll":
+            max_scroll = max(0, min(self.tall.height - PH, 380))
+            y = int(max_scroll * min(1.0, max(0.0, (p - 0.25) / 0.7)))
+            return self.tall.crop((0, y, PW, y + PH))
+        if self.kind == "kenburns":
+            z = 1.0 + 0.08 * p
+            w, h = int(self.photo.width / z / 1.1 * 1.0), int(self.photo.height / z / 1.1 * 1.0)
+            x0, y0 = (self.photo.width - w) // 2, (self.photo.height - h) // 2
+            return self.photo.crop((x0, y0, x0 + w, y0 + h)).resize((PW, PH), Image.BILINEAR)
+        if self.kind == "staged":
+            n = len(self.states) - 1
+            k = min(n, 1 + int(p * n / 0.75)) if n else 0
+            return self.states[k]
+        z = 1.0 + 0.03 * p
+        st = self.states[0]
+        w, h = int(PW / z), int(PH / z)
+        return st.crop(((PW - w) // 2, (PH - h) // 2, (PW - w) // 2 + w, (PH - h) // 2 + h)).resize((PW, PH))
+
+    def frame(self, t):
+        img = self.base.copy()
+        D.rounded_paste(img, self.panel(t), (PX, PY), 34)
+        for a, b, sub in self.subs:
+            if a <= t < b:
+                img.paste(sub, (0, SUB_Y - 80), sub)
+                break
+        return img
+
+
+def build(script, out_path, preview_dir=None):
+    """Render the reel. Returns metadata for QC and the report."""
+    tmp = tempfile.mkdtemp(prefix="reel2_")
+    os.makedirs(os.path.dirname(out_path), exist_ok=True)
+    scenes = script["scenes"]
+    lines = [s["narration"].strip() for s in scenes]
+    wavs, adurs, engine = voice_lines(lines, tmp)
+    durs = [round(a + TAIL, 2) for a in adurs]
     audio = os.path.join(tmp, "voice.wav")
-    if have_voice:
-        padded = []
-        for i, (w, d) in enumerate(zip(wavs, durs)):
-            p = os.path.join(tmp, f"p{i:02d}.wav")
-            run(["-i", w, "-af", "apad", "-t", f"{d}", "-ar", "44100", "-ac", "2", p])
-            padded.append(p)
-        lst = os.path.join(tmp, "list.txt")
-        with open(lst, "w") as f:
-            f.writelines(f"file '{p}'\n" for p in padded)
-        run(["-f", "concat", "-safe", "0", "-i", lst, "-c", "copy", audio])
-    else:  # silent track (Instagram is happier with an audio stream present)
-        run(["-f", "lavfi", "-i", "anullsrc=r=44100:cl=stereo", "-t", f"{sum(durs)}", audio])
+    concat_audio(wavs, durs, audio)
 
-    # video: each image held for its duration (+fade overlap), chained with cross-fades
-    inputs, n = [], len(frames)
-    for i, (fp, d) in enumerate(zip(frames, durs)):
-        length = d + (FADE if i < n - 1 else 0)
-        inputs += ["-loop", "1", "-t", f"{length:.2f}", "-framerate", "30", "-i", fp]
-    chains, prev, offset = [], "[0:v]", 0.0
-    for i in range(1, n):
-        offset += durs[i - 1]
-        out = f"[v{i}]"
-        chains.append(f"{prev}[{i}:v]xfade=transition=fade:duration={FADE}:offset={offset:.2f}{out}")
-        prev = out
-    graph = ";".join(chains) + f";{prev}format=yuv420p,scale={RW}:{RH}[vout]" if chains else \
-        f"[0:v]format=yuv420p,scale={RW}:{RH}[vout]"
-    run([*inputs, "-i", audio, "-filter_complex", graph, "-map", "[vout]", "-map", f"{n}:a",
-         "-c:v", "libx264", "-preset", "medium", "-crf", "26", "-r", "30", "-pix_fmt", "yuv420p",
-         "-c:a", "aac", "-b:a", "128k", "-shortest", "-movflags", "+faststart", out_path])
-    total = sum(durs)
-    print(f"[reel] {out_path} ({total:.1f}s, voice={'yes' if have_voice else 'no'})")
-    return out_path
+    objs = [Scene(sc, d, timed_subs(sc["narration"], a)) for sc, d, a in zip(scenes, durs, adurs)]
+    proc = subprocess.Popen([ffmpeg(), "-y", "-loglevel", "error", "-f", "rawvideo", "-pix_fmt", "rgb24",
+                             "-s", f"{RW}x{RH}", "-r", str(FPS), "-i", "-", "-i", audio,
+                             "-af", "loudnorm=I=-16:TP=-1.5:LRA=11",
+                             "-c:v", "libx264", "-preset", "medium", "-crf", "22", "-pix_fmt", "yuv420p",
+                             "-c:a", "aac", "-b:a", "160k", "-ar", "44100", "-shortest",
+                             "-movflags", "+faststart", out_path], stdin=subprocess.PIPE)
+    previews = []
+    for i, sc in enumerate(objs):
+        n = int(round(sc.dur * FPS))
+        for f in range(n):
+            t = f / FPS
+            fr = sc.frame(t)
+            proc.stdin.write(fr.tobytes())
+            if preview_dir and f == int(n * 0.7):
+                os.makedirs(preview_dir, exist_ok=True)
+                p = os.path.join(preview_dir, f"scene_{i + 1:02d}.jpg")
+                fr.resize((540, 960)).save(p, "JPEG", quality=85)
+                previews.append(p)
+    proc.stdin.close()
+    if proc.wait() != 0:
+        raise RuntimeError("ffmpeg failed")
+    return {"duration": round(sum(durs), 1), "voice": engine, "scene_previews": previews,
+            "fallback_visuals": sum(o.fallback for o in objs), "ai_visuals": any(o.ai_visual for o in objs),
+            "scene_durations": durs}
