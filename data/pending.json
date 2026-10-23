@@ -1,0 +1,67 @@
+{
+  "date": "2026-10-23",
+  "post": {
+    "topic": "Automating repetitive Windows tasks for small businesses",
+    "headline_ids": [
+      37
+    ],
+    "hook": "Stop wasting hours on repetitive computer work in your shop.",
+    "slides": [
+      {
+        "title": "Automate your Windows tasks",
+        "text": "A new tool called Tasket++ lets you automate clicks, keystrokes, and system operations on your Windows computer for free."
+      },
+      {
+        "title": "Why this matters",
+        "text": "Small business owners often waste hours on manual data entry or repetitive messaging. This tool handles those boring tasks for you automatically."
+      },
+      {
+        "title": "How it works",
+        "text": "You define your cursor positions, clicks, and keystrokes. The software replays these exact actions whenever you need them to run."
+      },
+      {
+        "title": "Practical use: Auto-messaging",
+        "text": "Use it to auto-send routine messages to customers or suppliers without typing the same information over and over again."
+      },
+      {
+        "title": "Practical use: Data entry",
+        "text": "Use it to automate copying data into your spreadsheets or accounting software, saving you time and preventing manual errors."
+      }
+    ],
+    "caption": "Running a business in India often means spending way too much time in front of a computer doing the same repetitive tasks every single day. Whether it is updating inventory lists, sending out payment reminders, or entering data into a ledger, these small chores eat up your valuable time. A new open-source tool called Tasket++ has appeared that can help you automate these exact Windows actions. By recording your clicks and keystrokes, it can replay them for you, essentially acting as an extra set of hands for your administrative work. This is a great way for busy shop owners or contractors to free up time for more important tasks like growing your business or serving customers. You do not need to be a programmer to start using these types of automation tools to simplify your daily operations. Have you ever tried using automation software to save time on your daily office work?",
+    "hashtags": [
+      "#IndianSmallBusiness",
+      "#BusinessAutomation",
+      "#WindowsAutomation",
+      "#ProductivityHacks",
+      "#DigitalIndia",
+      "#SmallBizTips",
+      "#TechForBusiness",
+      "#WorkEfficiency",
+      "#StartupIndia",
+      "#AutomateEverything"
+    ],
+    "image_query": "office computer desktop",
+    "sources": [
+      {
+        "source": "r/automation",
+        "title": "Tasket++ : Simulate your Windows actions automatically (free & open source)",
+        "summary": "Tasket++ lets you define your own clicks, keystrokes, cursor positions and system operations, then replay them exactly when you want. It’s a simple Windows tool that handles repetitive workflows for you: auto‑send messages, paste text anywhere, take silent screenshots, launch or close apps, adjust v",
+        "link": "https://www.reddit.com/r/automation/comments/1xcym9v/tasket_simulate_your_windows_actions/"
+      }
+    ]
+  },
+  "files": [
+    "output/2026-10-23/slide_01.jpg",
+    "output/2026-10-23/slide_02.jpg",
+    "output/2026-10-23/slide_03.jpg",
+    "output/2026-10-23/slide_04.jpg",
+    "output/2026-10-23/slide_05.jpg",
+    "output/2026-10-23/slide_06.jpg",
+    "output/2026-10-23/slide_07.jpg"
+  ],
+  "reel": "output/2026-10-23/reel.mp4",
+  "tg_offset": 622374100,
+  "sent_at": 1792720687,
+  "decision": null
+}
