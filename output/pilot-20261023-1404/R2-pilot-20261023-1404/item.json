@@ -1,0 +1,210 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Paper Challan to Excel in 5 Seconds: Mobile OCR for On-Site Billing",
+  "angle": "Eliminate end-of-day data entry by converting rumpled paper receipts and delivery slips directly into digital ledgers.",
+  "audience_problem": "Contractors and warehouse supervisors spend their evenings manually typing paper delivery slips and GST invoices into Tally or Excel.",
+  "format": "tutorial",
+  "medium": "reel",
+  "source_ids": [
+   64
+  ],
+  "evergreen": true,
+  "keywords": [
+   "OCR scanner",
+   "challan entry",
+   "contractors",
+   "invoicing",
+   "mobile automation"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 6,
+   "hook_potential": 8,
+   "retention": 9,
+   "save_share": 9,
+   "feasibility": 9,
+   "evidence": 8
+  },
+  "total": 8.33
+ },
+ "piece": {
+  "hooks": [
+   "Stop typing delivery slips into your ledger at the end of every day.",
+   "OCR scanning apps turn messy, folded paper receipts into editable digital text instantly.",
+   "Most business owners manually type GST invoices, but your phone can do it."
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "It addresses a specific, painful daily chore directly and clearly for the target audience.",
+  "title": "Digitize Paper Slips Instantly",
+  "scenes": [
+   {
+    "purpose": "Define the pain point.",
+    "narration": "Stop typing delivery slips into your ledger at the end of every day.",
+    "on_screen": "Manual entry is killing time",
+    "visual_type": "photo",
+    "query": "cluttered shop counter in India with paper slips"
+   },
+   {
+    "purpose": "Explain the solution.",
+    "narration": "Mobile OCR apps use your phone camera to convert printed text into usable digital data.",
+    "on_screen": "Use your phone camera",
+    "visual_type": "diagram",
+    "steps": [
+     "Capture physical document",
+     "App scans text",
+     "Export to digital file"
+    ]
+   },
+   {
+    "purpose": "Compare manual vs digital.",
+    "narration": "Manual entry is prone to error. Digital scanning handles the text for you accurately.",
+    "on_screen": "Speed up your workflow",
+    "visual_type": "compare",
+    "left_label": "Manual Data Entry",
+    "right_label": "OCR Scanning",
+    "rows": [
+     {
+      "left": "Slow manual typing",
+      "right": "Instant text capture"
+     },
+     {
+      "left": "High error rate",
+      "right": "High accuracy"
+     },
+     {
+      "left": "Takes hours weekly",
+      "right": "Done in seconds"
+     }
+    ]
+   },
+   {
+    "purpose": "Set expectations/limits.",
+    "narration": "OCR works best on crisp, black text. Faded ink or folded, crumpled receipts will trip up the scanner.",
+    "on_screen": "Know the limitations",
+    "visual_type": "checklist",
+    "headline": "Watch for these scan killers",
+    "items": [
+     "Faded ink",
+     "Deep folds",
+     "Torn edges"
+    ]
+   },
+   {
+    "purpose": "Call to action.",
+    "narration": "Check if your existing apps already have scanning features before downloading new ones. Comment 'SCAN' if you want a list of top free tools.",
+    "on_screen": "Check your current tools",
+    "visual_type": "text",
+    "headline": "Don't install bloatware"
+   }
+  ],
+  "caption": "Stop wasting your evenings manually typing delivery slips and GST invoices into Tally or Excel. Most modern scanning apps with OCR technology can convert your physical paperwork into editable text in seconds. Remember, scanning is not magic; poor paper quality like fading or deep folds can impact accuracy. Before adding new apps, check your current tech stack—many apps you already use may have built-in OCR capabilities. If you're looking for a reliable way to digitize your paperwork, comment 'SCAN' below for my list of the top three free tools. What is the one document you hate typing the most? #smallbusinessindia #gstinvoicing #ledger #productivityhacks #shopmanagement",
+  "hashtags": [
+   "#smallbusinessindia",
+   "#gstinvoicing",
+   "#ledger",
+   "#productivityhacks",
+   "#shopmanagement"
+  ],
+  "keywords": [
+   "mobile OCR",
+   "digitize invoices",
+   "business automation",
+   "ledger entry",
+   "paperless office"
+  ],
+  "claims": [
+   {
+    "claim": "OCR scanning software turns images of documents into editable digital text.",
+    "source_id": 64
+   },
+   {
+    "claim": "OCR performance can be tripped up by fading, folding, tearing, and variations in ink saturation.",
+    "source_id": 64
+   },
+   {
+    "claim": "Mobile scanning apps can be used for business documents, receipts, and certificates.",
+    "source_id": 64
+   }
+  ]
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 6,
+   "pacing": 7,
+   "brand_consistency": 9,
+   "publish_readiness": 6
+  },
+  "claims": [
+   {
+    "claim": "OCR scanning software turns images of documents into editable digital text.",
+    "supported": true
+   },
+   {
+    "claim": "OCR performance can be tripped up by fading, folding, tearing, and variations in ink saturation.",
+    "supported": true
+   },
+   {
+    "claim": "Mobile scanning apps can be used for business documents, receipts, and certificates.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Scene 1: The subtitle text 'end of every day.' is cut off and lacks context.",
+   "Scene 2: The subtitle text 'printed text into usable' is cut off and incomplete.",
+   "Scene 3: The subtitle text 'handles the text for you' is cut off and incomplete.",
+   "Scene 4: The subtitle text 'crumpled receipts will trip up' is cut off and incomplete.",
+   "Scene 5: The subtitle text 'Comment 'SCAN' if you want' is cut off and incomplete."
+  ],
+  "issues": [
+   "The subtitle text in every scene is being cut off by the frame boundary, making the narration difficult to follow.",
+   "The visual hierarchy is inconsistent; the main on-screen text is clear, but the cut-off subtitles create a cluttered and unprofessional look.",
+   "The call to action in the final scene is incomplete due to the text cutoff."
+  ],
+  "fix_instructions": "Fix the subtitle placement immediately. The text currently being cut off at the bottom of the screen must be repositioned higher or shortened to fit within the safe zone. Ensure the full sentence is visible for the duration of the narration. In the final scene, ensure the full CTA 'Comment 'SCAN' if you want a list of top free tools' is visible and not truncated."
+ },
+ "rules": [],
+ "reasons": [
+  "originality 7/10 (<8)",
+  "visual_integrity 6/10 (<8)",
+  "publish_readiness 6/10 (<7)"
+ ],
+ "meta": {
+  "duration": 40.5,
+  "voice": "edge",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1404/R2-pilot-20261023-1404/try2/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1404/R2-pilot-20261023-1404/try2/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1404/R2-pilot-20261023-1404/try2/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1404/R2-pilot-20261023-1404/try2/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1404/R2-pilot-20261023-1404/try2/scene_05.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   5.73,
+   7.26,
+   7.41,
+   9.16,
+   10.91
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1404/R2-pilot-20261023-1404/try2",
+ "attempt": 2,
+ "approved": false,
+ "hook": "Stop typing delivery slips into your ledger at the end of every day.",
+ "log": [
+  "attempt 1: fail {'hook': 7, 'originality': 6, 'practical_value': 8, 'natural_language': 7, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 6, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 6} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'natural_language 7/10 (<8)', 'visual_integrity 6/10 (<8)']",
+  "attempt 2: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 6, 'pacing': 7, 'brand_consistency': 9, 'publish_readiness': 6} ['originality 7/10 (<8)', 'visual_integrity 6/10 (<8)', 'publish_readiness 6/10 (<7)']",
+  "attempt 3: fail {'hook': 7, 'originality': 6, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 6, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 6} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'narrative 7/10 (<8)', 'visual_integrity 6/10 (<8)']"
+ ],
+ "id": "R2-pilot-20261023-1404",
+ "caption_final": "Stop wasting your evenings manually typing delivery slips and GST invoices into Tally or Excel. Most modern scanning apps with OCR technology can convert your physical paperwork into editable text in seconds. Remember, scanning is not magic; poor paper quality like fading or deep folds can impact accuracy. Before adding new apps, check your current tech stack—many apps you already use may have built-in OCR capabilities. If you're looking for a reliable way to digitize your paperwork, comment 'SCAN' below for my list of the top three free tools. What is the one document you hate typing the most? #smallbusinessindia #gstinvoicing #ledger #productivityhacks #shopmanagement\n\n#smallbusinessindia #gstinvoicing #ledger #productivityhacks #shopmanagement"
+}

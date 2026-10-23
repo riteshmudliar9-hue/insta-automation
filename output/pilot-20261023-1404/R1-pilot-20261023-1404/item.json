@@ -1,0 +1,195 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Automated Cyber Attacks Are Targeting SMB Billing PCs: 4 Defense Steps",
+  "angle": "AI agents are now used by attackers to scan and breach unpatched remote desktop software on small business systems.",
+  "audience_problem": "Traders assume hackers only target large tech firms, leaving their billing PCs, GST software, and remote desktops vulnerable.",
+  "format": "checklist",
+  "medium": "reel",
+  "source_ids": [
+   7
+  ],
+  "evergreen": true,
+  "keywords": [
+   "cybersecurity checklist",
+   "billing PC safety",
+   "remote desktop hack",
+   "ransomware",
+   "SMB protection"
+  ],
+  "scores": {
+   "relevance": 8,
+   "novelty": 8,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 9,
+   "evidence": 8
+  },
+  "total": 8.38
+ },
+ "piece": {
+  "hooks": [
+   "Hackers are using AI to target your billing PC right now.",
+   "Small businesses are being hit by 3,000 login attempts every minute.",
+   "Think your shop's billing software is too small to be hacked?"
+  ],
+  "chosen_hook": 1,
+  "hook_reason": "It uses a specific, alarming statistic from the source to immediately capture attention by highlighting the sheer scale of the threat.",
+  "title": "Protect Your Billing PC From AI Attacks",
+  "scenes": [
+   {
+    "purpose": "Hook the viewer with the scale of the threat.",
+    "narration": "Small businesses are being hit by 3,000 login attempts every minute. Hackers now use AI to find weak spots.",
+    "on_screen": "AI bots attacking small businesses",
+    "visual_type": "text",
+    "headline": "3,000 attacks per minute"
+   },
+   {
+    "purpose": "Explain the vulnerability.",
+    "narration": "If you use remote access for your billing software or site management, you are a prime target for these agents.",
+    "on_screen": "Remote access is the weak link",
+    "visual_type": "photo",
+    "query": "billing computer in Indian shop"
+   },
+   {
+    "purpose": "Provide concrete defense steps.",
+    "narration": "You must secure your systems before a breach happens. Check these four steps to harden your billing PC today.",
+    "on_screen": "Four steps to stay secure",
+    "visual_type": "text",
+    "headline": "Lock down your billing PC"
+   },
+   {
+    "purpose": "Detailed checklist for the user.",
+    "narration": "First, force Multi-Factor Authentication on every account. Second, revoke old API keys. Third, restrict remote access hours.",
+    "on_screen": "Immediate security actions",
+    "visual_type": "checklist",
+    "items": [
+     "Enable Multi-Factor Authentication",
+     "Revoke unused API keys",
+     "Limit remote access hours",
+     "Update all security software"
+    ]
+   },
+   {
+    "purpose": "Explain the limitation and final advice.",
+    "narration": "Software updates cannot stop every breach if your passwords are weak. Always use unique, strong credentials for every login.",
+    "on_screen": "Password hygiene matters most",
+    "visual_type": "text",
+    "headline": "Updates are not enough"
+   }
+  ],
+  "caption": "Is your shop's billing software secure? Hackers are using AI frameworks like ARTEX to scan for weak security and lack of Multi-Factor Authentication on thousands of systems. Even if you are a small trader, your remote access setup could be the entry point for an automated attack. Don't wait for a data breach to audit your setup. Start by turning on MFA for your cloud billing and remote desktop tools today. Review your software's security settings and ensure no old API keys are still active. What is the biggest security hurdle you face when setting up your shop's digital tools?",
+  "hashtags": [
+   "#SmallBusinessSecurity",
+   "#CyberSecurityTips",
+   "#RetailTech",
+   "#GSTBilling"
+  ],
+  "keywords": [
+   "small business cybersecurity",
+   "billing software security",
+   "protect remote desktop",
+   "MFA for traders",
+   "prevent cyber attacks"
+  ],
+  "claims": [
+   {
+    "claim": "Chinese state-aligned hackers breached ConnectWise's cloud backup service to steal credentials.",
+    "source_id": 7
+   },
+   {
+    "claim": "Hackers used AI agents to attack 2,250 organizations at a rate of 3,000 attempts per minute.",
+    "source_id": 7
+   },
+   {
+    "claim": "ARTEX is an open source AI framework used to stress-test cyber defenses.",
+    "source_id": 7
+   },
+   {
+    "claim": "Weak security and lack of multi-factor authentication contributed to the compromise of financial systems.",
+    "source_id": 7
+   }
+  ]
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 7,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 7
+  },
+  "claims": [
+   {
+    "claim": "Hackers used AI agents to attack 2,250 organizations at a rate of 3,000 attempts per minute.",
+    "supported": true
+   },
+   {
+    "claim": "ARTEX is an open source AI framework used to stress-test cyber defenses.",
+    "supported": true
+   },
+   {
+    "claim": "ConnectWise breach involved stealing application credentials.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Scene 1: The subtitle text 'minute. Hackers now use AI' is cut off at the bottom and overlaps with the safe zone.",
+   "Scene 2: The stock photo of the laptop is generic and does not clearly convey 'remote access' or 'billing software' in an Indian context.",
+   "Scene 4: The subtitle 'Third, restrict remote access' is redundant as it is already listed in the checklist above it.",
+   "Scene 5: The subtitle 'strong credentials for every' is cut off and incomplete."
+  ],
+  "issues": [
+   "The reel relies on generic stock imagery that doesn't feel authentic to an Indian small business owner.",
+   "The subtitle placement is inconsistent and often gets cut off by the Instagram UI.",
+   "The transition between the '3,000 attacks' statistic and the 'billing PC' focus is slightly jarring."
+  ],
+  "fix_instructions": "1. Fix the subtitle timing and placement so they do not overlap with the bottom UI or get cut off. Ensure the full sentence is visible. 2. Replace the generic laptop stock photo in Scene 2 with a more relatable, high-quality image of a shop counter or a local business setup to improve brand resonance. 3. In Scene 4, remove the redundant subtitle text that repeats the checklist item. 4. Ensure the final call to action is punchy and fully visible."
+ },
+ "rules": [
+  "opening line too long for a 3-second hook"
+ ],
+ "reasons": [
+  "opening line too long for a 3-second hook",
+  "originality 7/10 (<8)",
+  "visual_integrity 7/10 (<8)"
+ ],
+ "meta": {
+  "duration": 49.7,
+  "voice": "edge",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1404/R1-pilot-20261023-1404/try2/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1404/R1-pilot-20261023-1404/try2/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1404/R1-pilot-20261023-1404/try2/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1404/R1-pilot-20261023-1404/try2/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1404/R1-pilot-20261023-1404/try2/scene_05.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   9.81,
+   8.32,
+   8.82,
+   12.09,
+   10.67
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1404/R1-pilot-20261023-1404/try2",
+ "attempt": 2,
+ "approved": false,
+ "hook": "Small businesses are being hit by 3,000 login attempts every minute.",
+ "log": [
+  "attempt 1: fail {'hook': 6, 'originality': 5, 'practical_value': 6, 'natural_language': 6, 'accuracy': 6, 'narrative': 6, 'visual_integrity': 5, 'pacing': 6, 'brand_consistency': 6, 'publish_readiness': 5} ['hook 6/10 (<8)', 'originality 5/10 (<8)', 'practical_value 6/10 (<8)', 'natural_language 6/10 (<8)']",
+  "attempt 2: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['opening line too long for a 3-second hook', 'originality 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+  "attempt 3: fail {'hook': 8, 'originality': 7, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 5, 'pacing': 6, 'brand_consistency': 8, 'publish_readiness': 5} ['originality 7/10 (<8)', 'practical_value 7/10 (<8)', 'narrative 7/10 (<8)', 'visual_integrity 5/10 (<8)']"
+ ],
+ "id": "R1-pilot-20261023-1404",
+ "caption_final": "Is your shop's billing software secure? Hackers are using AI frameworks like ARTEX to scan for weak security and lack of Multi-Factor Authentication on thousands of systems. Even if you are a small trader, your remote access setup could be the entry point for an automated attack. Don't wait for a data breach to audit your setup. Start by turning on MFA for your cloud billing and remote desktop tools today. Review your software's security settings and ensure no old API keys are still active. What is the biggest security hurdle you face when setting up your shop's digital tools?\n\n#SmallBusinessSecurity #CyberSecurityTips #RetailTech #GSTBilling"
+}

@@ -1,0 +1,191 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Why AI Won't Replace Local Indian Traders: The Ground Reality Moat",
+  "angle": "Frontier AI can compute logic, but it cannot navigate local credit trust, ground vendor networks, and physical logistics.",
+  "audience_problem": "Independent contractors and distributors worry that giant AI-driven tech platforms will make local trade intermediaries obsolete.",
+  "format": "audience_q",
+  "medium": "both",
+  "source_ids": [
+   24
+  ],
+  "evergreen": true,
+  "keywords": [
+   "business moat",
+   "trader future",
+   "local distribution",
+   "human relationships",
+   "AI limits"
+  ],
+  "scores": {
+   "relevance": 8,
+   "novelty": 8,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 8,
+   "feasibility": 9,
+   "evidence": 7
+  },
+  "total": 8.06
+ },
+ "piece": {
+  "hooks": [
+   "If AI is so smart, why are OpenAI and Anthropic selling software instead of running your business?",
+   "Why don't the people who build AI just use it to crush small business owners?",
+   "The big AI labs know their models cannot replace your shop or local contractor business."
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "It highlights the irony of the situation using the source's core question while directly addressing the audience's fear that AI tech companies are direct competitors.",
+  "title": "Why AI Won't Replace Your Local Trade Business",
+  "scenes": [
+   {
+    "purpose": "Hook the viewer with the core question.",
+    "narration": "If AI is so smart, why are OpenAI and Anthropic selling software instead of running your business?",
+    "on_screen": "The real business moat",
+    "visual_type": "text",
+    "headline": "AI Labs vs Local Business"
+   },
+   {
+    "purpose": "Explain the limitation of AI in physical business.",
+    "narration": "It is because building a company is not just about logic. It is about logistics, local trust, and ground networks.",
+    "on_screen": "Models lack ground reality",
+    "visual_type": "diagram",
+    "steps": [
+     "Local credit trust",
+     "Physical logistics",
+     "Vendor relationships"
+    ]
+   },
+   {
+    "purpose": "Compare the model capabilities vs business reality.",
+    "narration": "These models are great at computing, but they cannot manage your site attendance or walk to your local supplier.",
+    "on_screen": "What AI cannot do",
+    "visual_type": "compare",
+    "left_label": "AI Model",
+    "right_label": "Your Business",
+    "rows": [
+     {
+      "left": "Writing code",
+      "right": "Vendor negotiation"
+     },
+     {
+      "left": "Pattern matching",
+      "right": "Physical site work"
+     },
+     {
+      "left": "Text generation",
+      "right": "Local market trust"
+     }
+    ]
+   },
+   {
+    "purpose": "Provide the practical takeaway.",
+    "narration": "Stop worrying about replacement. Focus on using these tools to automate your back-office while you manage the ground reality.",
+    "on_screen": "Your competitive advantage",
+    "visual_type": "checklist",
+    "items": [
+     "Automate your invoices",
+     "Keep the customer trust",
+     "Focus on site work"
+    ]
+   }
+  ],
+  "caption": "Local business owners often fear that giant tech companies will eventually use their AI to replace local traders and contractors. The reality is that building a business is not just about compute power; it requires navigating complex physical logistics, building local credit, and managing vendor relationships on the ground. These are things frontier models simply cannot do. Your advantage is not the speed of your data processing, but your presence in the local market. Use AI to handle the boring paperwork like invoices and stock tracking, but keep your focus on the personal relationships and physical work that AI cannot replicate. How do you maintain trust with your suppliers that an AI could never match?",
+  "hashtags": [
+   "#SmallBusinessIndia",
+   "#ContractorLife",
+   "#BusinessGrowth",
+   "#LocalTrade"
+  ],
+  "keywords": [
+   "AI for small business",
+   "Indian traders",
+   "business automation",
+   "contractor management",
+   "AI vs reality"
+  ],
+  "claims": [
+   {
+    "claim": "Frontier AI models are primarily sold as tokens/software rather than being used by labs to run their own physical companies.",
+    "source_id": 24
+   },
+   {
+    "claim": "The profitability of selling model access is currently a primary strategy for AI labs.",
+    "source_id": 24
+   }
+  ]
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 6,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 7,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 7
+  },
+  "claims": [
+   {
+    "claim": "Frontier AI models are primarily sold as tokens/software rather than being used by labs to run their own physical companies.",
+    "supported": true,
+    "note": "The source material poses this as a question/observation about the current strategy of AI labs."
+   },
+   {
+    "claim": "The profitability of selling model access is currently a primary strategy for AI labs.",
+    "supported": true,
+    "note": "The source material discusses the commodification and pricing of tokens as a primary business model."
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Scene 1: The subtitle text 'selling software instead of' is cut off at the bottom of the frame.",
+   "Scene 2: The subtitle text 'local trust,' is cut off at the bottom of the frame.",
+   "Scene 3: The subtitle text 'manage your site attendance or' is cut off at the bottom of the frame.",
+   "Scene 4: The subtitle text 'back-office while you manage' is cut off at the bottom of the frame."
+  ],
+  "issues": [
+   "The subtitle placement is consistently too low, causing text to be clipped by the UI or the edge of the screen.",
+   "The practical advice in the final scene is a bit generic; it could be more specific to the Indian SMB context (e.g., mentioning WhatsApp for business or specific local accounting tools)."
+  ],
+  "fix_instructions": "1. Adjust the subtitle safe zone to ensure no text is cut off at the bottom of the screen. 2. Increase the font size of the main slide content slightly to improve readability on smaller devices. 3. In the final slide, replace 'Automate your invoices' with a more specific, actionable example relevant to Indian small businesses, such as 'Use AI to draft GST-compliant invoices' to increase practical value."
+ },
+ "rules": [],
+ "reasons": [
+  "originality 7/10 (<8)",
+  "practical_value 6/10 (<8)",
+  "visual_integrity 7/10 (<8)"
+ ],
+ "meta": {
+  "duration": 35.8,
+  "voice": "edge",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1404/R3-pilot-20261023-1404/try1/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1404/R3-pilot-20261023-1404/try1/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1404/R3-pilot-20261023-1404/try1/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1404/R3-pilot-20261023-1404/try1/scene_04.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   7.89,
+   9.54,
+   8.73,
+   9.66
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/pilot-20261023-1404/R3-pilot-20261023-1404/try1",
+ "attempt": 1,
+ "approved": false,
+ "hook": "If AI is so smart, why are OpenAI and Anthropic selling software instead of running your business?",
+ "log": [
+  "attempt 1: fail {'hook': 8, 'originality': 7, 'practical_value': 6, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'practical_value 6/10 (<8)', 'visual_integrity 7/10 (<8)']",
+  "attempt 2: fail {'hook': 8, 'originality': 7, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 6, 'pacing': 7, 'brand_consistency': 9, 'publish_readiness': 6} ['originality 7/10 (<8)', 'practical_value 7/10 (<8)', 'visual_integrity 6/10 (<8)', 'publish_readiness 6/10 (<7)']",
+  "attempt 3: fail {'hook': 7, 'originality': 8, 'practical_value': 6, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 4, 'pacing': 7, 'brand_consistency': 7, 'publish_readiness': 5} ['hook 7/10 (<8)', 'practical_value 6/10 (<8)', 'visual_integrity 4/10 (<8)', 'publish_readiness 5/10 (<7)']"
+ ],
+ "id": "R3-pilot-20261023-1404",
+ "caption_final": "Local business owners often fear that giant tech companies will eventually use their AI to replace local traders and contractors. The reality is that building a business is not just about compute power; it requires navigating complex physical logistics, building local credit, and managing vendor relationships on the ground. These are things frontier models simply cannot do. Your advantage is not the speed of your data processing, but your presence in the local market. Use AI to handle the boring paperwork like invoices and stock tracking, but keep your focus on the personal relationships and physical work that AI cannot replicate. How do you maintain trust with your suppliers that an AI could never match?\n\n#SmallBusinessIndia #ContractorLife #BusinessGrowth #LocalTrade"
+}

@@ -1,0 +1,42 @@
+{
+ "kind": "carousel",
+ "idea": {
+  "idea": "Predicting Customer Payment Delays Before Granting Udhaar with AI Scoring",
+  "angle": "Move debt collection from aggressive chasing to pre-delivery risk scoring using basic transaction history.",
+  "audience_problem": "Indian traders and wholesalers suffer severe cash flow crunches due to delayed market credit and bad receivables.",
+  "format": "problem_fix",
+  "medium": "carousel",
+  "source_ids": [
+   83
+  ],
+  "evergreen": true,
+  "keywords": [
+   "debt collection",
+   "credit risk",
+   "cash flow",
+   "udhaar",
+   "traders"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 8,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 9,
+   "evidence": 8
+  },
+  "total": 8.59
+ },
+ "approved": false,
+ "reasons": [
+  "no usable draft: attempt 3: rules failed: [\"slide 1 (cover) is missing 'subtitle'\", \"slide 2 (mythfact) is missing 'fact'\", \"slide 3 (point) is missing 'body'\", \"slide 4 (compare) is missing 'rows'\", \"slide 5 (steps) is missing 'items'\", \"slide 6 (summary) is missing 'items'\"]"
+ ],
+ "log": [
+  "attempt 1: rules failed: [\"slide 1 (cover) is missing 'subtitle'\", \"slide 2 (mythfact) is missing 'fact'\", \"slide 3 (point) is missing 'body'\"]",
+  "attempt 2: rules failed: [\"slide 1 (cover) is missing 'subtitle'\", \"slide 2 (mythfact) is missing 'fact'\", \"slide 3 (point) is missing 'body'\"]",
+  "attempt 3: rules failed: [\"slide 1 (cover) is missing 'subtitle'\", \"slide 2 (mythfact) is missing 'fact'\", \"slide 3 (point) is missing 'body'\", \"slide 4 (compare) is missing 'rows'\", \"slide 5 (steps) is missing 'items'\", \"slide 6 (summary) is missing 'items'\"]"
+ ],
+ "id": "C1-pilot-20261023-1404",
+ "caption_final": ""
+}
