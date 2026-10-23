@@ -114,14 +114,15 @@ def _compare(img, s):
     y = _title(d, s.get("title", ""), _start(th + 108 + per * len(rows)), 70) + 36
     colw = (W - 2 * M - 24) // 2
     lx, rx = M, M + colw + 24
-    f = D.font("Bold", 30)
-    D.cross_icon(d, lx, y, 40)
-    d.text((lx + 54, y + 2), (s.get("left_label") or "Manual").upper(), font=f, fill=D.MUTED)
-    D.check_icon(d, rx, y, 40)
-    d.text((rx + 54, y + 2), (s.get("right_label") or "Automated").upper(), font=f, fill=D.INK)
+    f = D.font("Bold", 28)
+    for x, lab, bg, fg in ((lx, s.get("left_label") or "Before", (226, 222, 212), D.INK),
+                           (rx, s.get("right_label") or "After", D.INK, D.WHITE)):
+        d.rounded_rectangle((x, y - 4, x + colw, y + 50), radius=25, fill=bg)
+        t = lab.upper()
+        d.text((x + (colw - d.textlength(t, font=f)) / 2, y + 6), t, font=f, fill=fg)
     y += 72
     for r in rows:
-        for x, txt, fill, bg in ((lx, r.get("left", ""), D.MUTED, (238, 235, 228)),
+        for x, txt, fill, bg in ((lx, r.get("left", ""), D.INK, D.CARD),
                                  (rx, r.get("right", ""), D.INK, D.CARD)):
             d.rounded_rectangle((x, y, x + colw, y + per - 18), radius=20, fill=bg, outline=D.LINE, width=2)
             D.text_block(d, (x + 26, y + 24), txt, "Medium", colw - 52, per - 60, 40, 26, fill, spacing=1.2)
