@@ -44,6 +44,17 @@ BANNED = ["fast-paced", "digital age", "unlock", "unleash", "revolutioni", "game
           "next level", "in today's", "ever-evolving", "landscape of", "embark", "tapestry"]
 
 
+# Never screenshot these (article pages = logos, ads, clutter). Screenshots only for real product/tool pages.
+NEWS_DOMAINS = ["techcrunch.com", "theverge.com", "technologyreview.com", "yourstory.com", "inc42.com",
+                "news.ycombinator.com", "reddit.com", "hnrss.org", "zapier.com/blog", "blog.google",
+                "openai.com/news", "openai.com/index"]
+
+
+def is_news(url):
+    u = (url or "").lower()
+    return any(d in u for d in NEWS_DOMAINS)
+
+
 def prompt_file(name):
     with open(os.path.join(PROMPTS, name), encoding="utf-8") as f:
         return f.read()
