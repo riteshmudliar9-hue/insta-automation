@@ -25,6 +25,7 @@ jobs:
           key: presenter-v1-${{ hashFiles('tools/setup_presenter.sh') }}
       - name: Install presenter engine
         run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg >/dev/null
           /usr/bin/time -f "setup %e s" bash tools/setup_presenter.sh 2>&1 | tail -15
       - name: Make a test voice line
         run: |
@@ -54,6 +55,7 @@ jobs:
         run: |
           git config user.name "insta-bot"
           git config user.email "insta-bot@users.noreply.github.com"
+          mkdir -p output/presenter-test
           git add -A output/presenter-test
           git diff --cached --quiet && exit 0
           git commit -q -m "bot: presenter test $(date -u +%FT%H%M)"
