@@ -1,0 +1,58 @@
+name: 0b - Presenter test (never posts)
+on:
+  workflow_dispatch:
+    inputs:
+      size:
+        description: "256 or 512"
+        default: "256"
+      enhancer:
+        description: "none or gfpgan"
+        default: "none"
+permissions:
+  contents: write
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+      - uses: actions/cache@v4
+        with:
+          path: .presenter
+          key: presenter-v1-${{ hashFiles('tools/setup_presenter.sh') }}
+      - name: Install presenter engine
+        run: |
+          /usr/bin/time -f "setup %e s" bash tools/setup_presenter.sh 2>&1 | tail -15
+      - name: Make a test voice line
+        run: |
+          pip install -q edge-tts
+          edge-tts --voice en-IN-PrabhatNeural --text "Your AI agent does not need your password. Here is the safer way to let it work for you, step by step." --write-media /tmp/test.mp3
+          ffmpeg -loglevel error -y -i /tmp/test.mp3 -ar 16000 -ac 1 /tmp/test.wav
+      - name: Render talking head
+        run: |
+          IMG=library/presenter/presenter.png
+          [ -f "$IMG" ] || IMG=.presenter/SadTalker/examples/source_image/art_0.png
+          cd .presenter/SadTalker
+          . ../venv/bin/activate
+          ENH=""; [ "${{ github.event.inputs.enhancer }}" = "gfpgan" ] && ENH="--enhancer gfpgan"
+          START=$(date +%s)
+          python inference.py --driven_audio /tmp/test.wav --source_image "$GITHUB_WORKSPACE/$IMG" \
+            --result_dir /tmp/st --still --preprocess full --size ${{ github.event.inputs.size }} --cpu $ENH 2>&1 | tail -20
+          END=$(date +%s)
+          mkdir -p $GITHUB_WORKSPACE/output/presenter-test
+          OUT=$(ls -t /tmp/st/*.mp4 | head -1)
+          DUR=$(ffprobe -v error -show_entries format=duration -of csv=p=0 "$OUT")
+          echo "size=${{ github.event.inputs.size }} enhancer=${{ github.event.inputs.enhancer }} image=$IMG render_seconds=$((END-START)) video_seconds=$DUR cores=$(nproc)" | tee -a $GITHUB_WORKSPACE/output/presenter-test/timing.txt
+          cp "$OUT" $GITHUB_WORKSPACE/output/presenter-test/test_${{ github.event.inputs.size }}_${{ github.event.inputs.enhancer }}.mp4
+      - name: Save results
+        if: always()
+        run: |
+          git config user.name "insta-bot"
+          git config user.email "insta-bot@users.noreply.github.com"
+          git add -A output/presenter-test
+          git diff --cached --quiet && exit 0
+          git commit -q -m "bot: presenter test $(date -u +%FT%H%M)"
+          for i in 1 2 3; do git pull -q --rebase && git push -q && break; sleep 5; done
