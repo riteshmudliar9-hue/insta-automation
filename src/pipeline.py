@@ -49,8 +49,9 @@ def make_one(kind, idea, items, folder, recent_hooks):
             break
         piece["hashtags"] = qc.clean_tags(piece.get("hashtags", []))
         rules = qc.rule_checks(piece, kind, urls, len(items))
-        if len(rules) >= 3:                    # cheap reject: rewrite before spending a render + review
+        if len(rules) >= 2:                    # cheap reject: rewrite before spending a render + review
             log.append(f"attempt {attempt}: rules failed: {rules}")
+            print("   " + log[-1])
             feedback = qc.feedback_text(rules, None)
             continue
         adir = os.path.join(folder, f"try{attempt}")
@@ -62,7 +63,7 @@ def make_one(kind, idea, items, folder, recent_hooks):
             else:
                 shot = None
                 for u in urls:
-                    if "reddit.com" not in u:
+                    if not config.is_news(u):          # only real product pages, never article/news pages
                         shot = visuals.screenshot(u)
                         if shot is not None:
                             break
@@ -82,6 +83,9 @@ def make_one(kind, idea, items, folder, recent_hooks):
                "meta": meta, "dir": adir, "attempt": attempt, "approved": ok,
                "hook": chosen_hook(piece), "images": images}
         log.append(f"attempt {attempt}: {'PASS' if ok else 'fail'} {rev['scores']} {reasons[:4]}")
+        print("   " + log[-1])
+        for v in rev.get("visual_issues", [])[:3]:
+            print("      visual:", v)
         if best is None or sum(rev["scores"].values()) > sum(best["review"]["scores"].values()):
             best = res
         if ok:
@@ -89,7 +93,8 @@ def make_one(kind, idea, items, folder, recent_hooks):
             break
         feedback = qc.feedback_text(rules, rev)
     if best is None:
-        return {"kind": kind, "idea": idea, "approved": False, "reasons": ["no usable draft"], "log": log}
+        return {"kind": kind, "idea": idea, "approved": False,
+                "reasons": ["no usable draft: " + (log[-1] if log else "writer unavailable")], "log": log}
     best["log"] = log
     return best
 
