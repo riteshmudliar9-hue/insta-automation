@@ -1,15 +1,17 @@
-name: 4 - Publish Reel if approved (6:00 PM IST)
+name: 3 - Insights + daily report (11 PM IST)
 on:
   schedule:
-    - cron: "30 12 * * *"  # 12:30 UTC = 18:00 IST
+    - cron: "30 17 * * *"  # 23:00 IST
   workflow_dispatch:
 permissions:
   contents: write
-concurrency: insta-bot
+concurrency:
+  group: insta-bot
+  cancel-in-progress: false
 jobs:
-  publish-reel:
-    if: ${{ github.event_name == 'workflow_dispatch' }}  # paused during v2 upgrade
+  insights:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
     env:
       GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
@@ -17,22 +19,27 @@ jobs:
       TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
       IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
       IG_USER_ID: ${{ secrets.IG_USER_ID }}
+      PYTHONUNBUFFERED: "1"
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
           cache: pip
-      - run: pip install -r requirements.txt
-      - run: python src/main.py publish-reel
+      - name: Install
+        run: |
+          (sudo apt-get update -qq && sudo apt-get install -y -qq fonts-inter) >/dev/null 2>&1 || echo "fonts-inter not available; using Poppins"
+          pip install -q -r requirements.txt
+      - run: python src/main.py insights
       - name: Save results to repo
+        if: always()
         run: |
           git config user.name "insta-bot"
           git config user.email "insta-bot@users.noreply.github.com"
-          git add -A .
-          git diff --cached --quiet || git commit -m "bot: $(date -u +%F) ${{ github.workflow }}"
-          git pull --rebase
-          git push
+          git add -A output data
+          git diff --cached --quiet && exit 0
+          git commit -q -m "bot: ${{ github.workflow }} $(date -u +%FT%H%M)"
+          for i in 1 2 3; do git pull -q --rebase && git push -q && break; sleep 5; done
       - name: Tell me on Telegram if this failed
         if: failure()
         run: |
