@@ -31,9 +31,14 @@
    "brand_consistency": 9,
    "publish_readiness": 8
   },
-  "status": "queued",
+  "status": "published",
   "produced_at": 1792801386,
-  "log": []
+  "log": [
+   "2026-10-24T17:30:01.092677+05:30 published https://www.instagram.com/reel/De4FWZkgU50/"
+  ],
+  "media_id": "18006662075790810",
+  "permalink": "https://www.instagram.com/reel/De4FWZkgU50/",
+  "published_at": "2026-10-24T17:30:01.092677+05:30"
  },
  {
   "id": "R3-2026-10-24",
@@ -108,9 +113,14 @@
    "brand_consistency": 9,
    "publish_readiness": 8
   },
-  "status": "queued",
+  "status": "published",
   "produced_at": 1792801386,
-  "log": []
+  "log": [
+   "2026-10-24T17:30:01.092677+05:30 published https://www.instagram.com/p/De4FUyTkWT4/"
+  ],
+  "media_id": "18340036819273934",
+  "permalink": "https://www.instagram.com/p/De4FUyTkWT4/",
+  "published_at": "2026-10-24T17:30:01.092677+05:30"
  },
  {
   "id": "C1-2026-10-24",
