@@ -255,11 +255,14 @@
    "brand_consistency": 9,
    "publish_readiness": 8
   },
-  "status": "queued",
+  "status": "published",
   "produced_at": 1792801386,
   "log": [
-   "2026-10-24T20:44:14.169545+05:30 error: IG 17841429745146281/media_publish -> 500: {\"error\":{\"message\":\"An unexpected error has occurred. Please retry your request later.\",\"type\":\"OAuthException\",\"is_transient\":true,\"code\":2,\"fbtrace_id\":\"AVUPR-UjnAEAoD-XQJNOvwf\"}}"
+   "2026-10-24T20:44:14.169545+05:30 error: IG 17841429745146281/media_publish -> 500: {\"error\":{\"message\":\"An unexpected error has occurred. Please retry your request later.\",\"type\":\"OAuthException\",\"is_transient\":true,\"code\":2,\"fbtrace_id\":\"AVUPR-UjnAEAoD-XQJNOvwf\"}}",
+   "2026-10-24T21:22:48.671748+05:30 found already published; not posting again"
   ],
-  "attempts": 1
+  "attempts": 1,
+  "media_id": "17973203175167490",
+  "permalink": "https://www.instagram.com/p/De4bjM2nMKx/"
  }
 ]
