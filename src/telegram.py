@@ -11,10 +11,43 @@ API = f"https://api.telegram.org/bot{TOKEN}"
 
 
 def send_text(text):
+    """Sends text (split if long). Returns the message_id of the last part."""
+    mid = None
     for i in range(0, len(text), 4000):
         r = requests.post(f"{API}/sendMessage", data={"chat_id": CHAT_ID, "text": text[i:i + 4000],
                                                        "disable_web_page_preview": True}, timeout=30)
         r.raise_for_status()
+        mid = r.json().get("result", {}).get("message_id")
+    return mid
+
+
+def send_photo(path, caption=""):
+    with open(path, "rb") as f:
+        r = requests.post(f"{API}/sendDocument", data={"chat_id": CHAT_ID, "caption": caption[:1000]},
+                          files={"document": (os.path.basename(path), f)}, timeout=120)
+    r.raise_for_status()
+    return r.json().get("result", {}).get("message_id")
+
+
+def owner_updates():
+    """All recent messages from the owner's chat (Telegram keeps about 24 hours of updates)."""
+    r = requests.get(f"{API}/getUpdates", params={"timeout": 0, "limit": 100}, timeout=30)
+    r.raise_for_status()
+    return [u["message"] for u in r.json().get("result", [])
+            if u.get("message") and str(u["message"].get("chat", {}).get("id")) == str(CHAT_ID)]
+
+
+def download(file_id, dest):
+    """Downloads a file the owner sent (bots can fetch files up to 20 MB)."""
+    r = requests.get(f"{API}/getFile", params={"file_id": file_id}, timeout=30)
+    r.raise_for_status()
+    path = r.json()["result"]["file_path"]
+    data = requests.get(f"https://api.telegram.org/file/bot{TOKEN}/{path}", timeout=120)
+    data.raise_for_status()
+    os.makedirs(os.path.dirname(dest), exist_ok=True)
+    with open(dest, "wb") as f:
+        f.write(data.content)
+    return dest
 
 
 def send_album(paths, caption=""):
