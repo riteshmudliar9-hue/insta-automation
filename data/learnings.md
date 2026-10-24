@@ -1,3 +1,3 @@
 # Learnings (auto-generated 2026-10-24)
 
-Only 0 published items with data; need 8+ before drawing conclusions. Keep varying formats.
+Only 5 published items with data; need 8+ before drawing conclusions. Keep varying formats.

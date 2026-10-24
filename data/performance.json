@@ -1,10 +1,117 @@
 {
- "media": {},
+ "media": {
+  "18006662075790810": {
+   "id": "R1-2026-10-24",
+   "kind": "reel",
+   "format": "checklist",
+   "hook": "Most AI agents crash when they hit real business data. Here is how to test.",
+   "topic": "Evaluating out-of-the-box AI agents: What actually works for SMB admin in 2026",
+   "date": "2026-10-24",
+   "metrics": {
+    "reach": 3,
+    "views": 6,
+    "likes": 2,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 2,
+    "ig_reels_avg_watch_time": 6818,
+    "ig_reels_video_view_total_time": 27274
+   },
+   "fetched": "2026-10-24T17:49:13.006851"
+  },
+  "17986761333084821": {
+   "id": "R3-2026-10-24",
+   "kind": "reel",
+   "format": "tool_test",
+   "hook": "You can now let AI agents log in without ever seeing your password.",
+   "topic": "Masked credential delegation: Letting AI agents log into vendor portals safely",
+   "date": "2026-10-24",
+   "metrics": {
+    "reach": 11,
+    "views": 19,
+    "likes": 2,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 2,
+    "ig_reels_avg_watch_time": 7902,
+    "ig_reels_video_view_total_time": 86930
+   },
+   "fetched": "2026-10-24T17:49:13.358892"
+  },
+  "18340036819273934": {
+   "id": "C2-2026-10-24",
+   "kind": "carousel",
+   "format": "checklist",
+   "hook": "Are your AI chat links exposing your business data?",
+   "topic": "The public AI link leak: Why sharing chat logs is exposing business numbers",
+   "date": "2026-10-24",
+   "metrics": {
+    "reach": 2,
+    "views": 10,
+    "likes": 2,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 2,
+    "profile_visits": 0,
+    "follows": 0
+   },
+   "fetched": "2026-10-24T17:49:13.716758"
+  },
+  "18061930895631903": {
+   "id": "C1-2026-10-24",
+   "kind": "carousel",
+   "format": "problem_fix",
+   "hook": "Your invoices are visible to Google's ad algorithms",
+   "topic": "How to disable Google AI data-scraping in business Gmail accounts",
+   "date": "2026-10-24",
+   "metrics": {
+    "reach": 1,
+    "views": 5,
+    "likes": 1,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 1,
+    "profile_visits": 0,
+    "follows": 0
+   },
+   "fetched": "2026-10-24T17:49:14.223073"
+  },
+  "18095704943246132": {
+   "id": "C3-2026-10-24",
+   "kind": "carousel",
+   "format": "tutorial",
+   "hook": "Design posters in 2 steps without paying freelance designers",
+   "topic": "Using Canva's new 2-stage planning AI model to design retail promotion banners",
+   "date": "2026-10-24",
+   "metrics": {
+    "reach": 1,
+    "views": 7,
+    "likes": 2,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 2,
+    "profile_visits": 0,
+    "follows": 0
+   },
+   "fetched": "2026-10-24T17:49:14.668004"
+  }
+ },
  "account": [
   {
    "date": "2026-10-24",
    "followers_count": 0,
    "media_count": 0,
+   "id": "29357876020471934"
+  },
+  {
+   "date": "2026-10-24",
+   "followers_count": 2,
+   "media_count": 6,
    "id": "29357876020471934"
   }
  ]
