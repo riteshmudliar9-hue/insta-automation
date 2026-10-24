@@ -1,4 +1,4 @@
 {
-  "publishing_enabled": true,
+  "publishing_enabled": false,
   "note": "Set to true to let the daily produce + publish jobs run. false = paused (pilot still works)."
 }
