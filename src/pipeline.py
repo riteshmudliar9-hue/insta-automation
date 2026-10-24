@@ -99,6 +99,7 @@ def make_one(kind, idea, items, folder, recent_hooks):
         return {"kind": kind, "idea": idea, "approved": False,
                 "reasons": ["no usable draft: " + (log[-1] if log else "writer unavailable")], "log": log}
     best["log"] = log
+    best["material"] = material
     return best
 
 
