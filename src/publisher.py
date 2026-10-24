@@ -81,6 +81,14 @@ def publish_due():
     q = load()
     now = dt.datetime.now(IST)
     today = now.strftime("%Y-%m-%d")
+    try:
+        import presenter
+        if presenter.process(q, today):
+            save(q)
+    except Exception as ex:
+        print("[presenter] processing failed:", ex)
+        presenter = None
+    slot_of = (lambda e: presenter.effective_slot(e)) if presenter else (lambda e: e["slot"])
     pending = [e for e in q if e["status"] in ("queued", "publishing") and e["date"] == today]
     if not pending:
         print("nothing due")
@@ -88,7 +96,7 @@ def publish_due():
     stop_all, stop_ids = telegram.stop_commands(min(e["produced_at"] for e in pending))
     done = []
     for kind in ("carousel", "reel"):            # at most one of each kind per run → natural spacing
-        due = [e for e in pending if e["kind"] == kind and e["slot"] <= now.strftime("%Y-%m-%dT%H:%M")]
+        due = [e for e in pending if e["kind"] == kind and slot_of(e) <= now.strftime("%Y-%m-%dT%H:%M")]
         if not due:
             continue
         e = sorted(due, key=lambda x: x["slot"])[0]
@@ -110,8 +118,11 @@ def publish_due():
             urls = _urls(e)
             if kind == "reel":
                 r = requests.head(urls[0], timeout=30, allow_redirects=True)
-                if r.status_code != 200:
-                    raise RuntimeError(f"video not on GitHub Pages yet ({r.status_code})")
+                if r.status_code != 200:            # Pages still deploying: try next run, not a failed attempt
+                    e["status"] = "queued"
+                    e["log"].append(f"{now.isoformat()} waiting for GitHub Pages ({r.status_code})")
+                    save(q)
+                    continue
                 mid, link = instagram.publish_reel(urls[0], e["caption"])
             else:
                 mid, link = instagram.publish_carousel(urls, e["caption"])
