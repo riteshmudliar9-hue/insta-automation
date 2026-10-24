@@ -257,6 +257,9 @@
   },
   "status": "queued",
   "produced_at": 1792801386,
-  "log": []
+  "log": [
+   "2026-10-24T20:44:14.169545+05:30 error: IG 17841429745146281/media_publish -> 500: {\"error\":{\"message\":\"An unexpected error has occurred. Please retry your request later.\",\"type\":\"OAuthException\",\"is_transient\":true,\"code\":2,\"fbtrace_id\":\"AVUPR-UjnAEAoD-XQJNOvwf\"}}"
+  ],
+  "attempts": 1
  }
 ]
