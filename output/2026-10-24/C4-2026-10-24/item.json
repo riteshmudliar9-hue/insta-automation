@@ -1,0 +1,255 @@
+{
+ "kind": "carousel",
+ "idea": {
+  "idea": "Cutting automation costs by 90% with dedicated decision models",
+  "angle": "Stop routing simple dispatch and customer triage tasks through expensive general LLMs when fast decision APIs do the exact routing for pennies.",
+  "audience_problem": "Small business automation systems become unexpectedly expensive when full reasoning models are used for basic if-then categorization.",
+  "format": "manual_vs_auto",
+  "medium": "carousel",
+  "source_ids": [
+   42
+  ],
+  "evergreen": true,
+  "keywords": [
+   "OpenAI Decisions API",
+   "API pricing",
+   "cost optimization",
+   "workflow triage",
+   "small business AI"
+  ],
+  "scores": {
+   "relevance": 8,
+   "novelty": 8,
+   "hook_potential": 8,
+   "retention": 7,
+   "save_share": 9,
+   "feasibility": 8,
+   "evidence": 8
+  },
+  "total": 8.03
+ },
+ "piece": {
+  "hooks": [
+   "Cut your AI automation costs by 90% today",
+   "Stop using expensive AI models for simple business decisions",
+   "How to automate routine business tasks for pennies"
+  ],
+  "chosen_hook": 2,
+  "hook_reason": "It directly addresses the pain point of 'expensive AI' for small business owners while hinting at a specific technical solution that saves money.",
+  "slides": [
+   {
+    "kind": "cover",
+    "title": "Stop using expensive AI models for simple business decisions",
+    "subtitle": "Use focused decision APIs to route tasks 10x faster for pennies.",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "compare",
+    "title": "Standard AI vs. Decision APIs",
+    "subtitle": "Why general reasoning models are often overkill for daily tasks.",
+    "body": "",
+    "items": [],
+    "left_label": "General LLM",
+    "right_label": "Decisions API",
+    "rows": [
+     {
+      "left": "Slow, high cost",
+      "right": "10x faster, cheaper"
+     },
+     {
+      "left": "Open-ended generation",
+      "right": "Bounded answers only"
+     },
+     {
+      "left": "High overhead per task",
+      "right": "Optimized for logic"
+     }
+    ],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "mythfact",
+    "title": "The Scaling Trap",
+    "subtitle": "",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "Using one powerful AI model for every single business task is cost-effective.",
+    "fact": "At scale, the cost and latency of general models add up quickly; specialized decision APIs are built for high-volume, simple routing tasks.",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "steps",
+    "title": "How to set it up",
+    "subtitle": "Follow these steps to replace expensive logic flows.",
+    "body": "",
+    "items": [
+     "Define your question and allowed answers",
+     "Provide context as text or JSON inputs",
+     "Choose probability, choice, or score types",
+     "Route the action based on the result"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "checklist",
+    "title": "Before you automate",
+    "subtitle": "Check these criteria for your decision tasks.",
+    "body": "",
+    "items": [
+     "Is the decision binary or limited?",
+     "Do you have predefined allowed answers?",
+     "Are you processing high-volume routine data?",
+     "Can you map it to a score?"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "quote",
+    "title": "Efficiency matters",
+    "subtitle": "",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "Applications and agents make many small decisions throughout a workflow: how to classify an input, where to route a request, or which action to take next.",
+    "attribution": "OpenAI"
+   },
+   {
+    "kind": "summary",
+    "title": "Key Takeaways",
+    "subtitle": "",
+    "body": "Keep your automation lean by using the right tool for the job.",
+    "items": [
+     "Decisions API is for bounded logic",
+     "Cost is $0.10 per million tokens",
+     "Supports text, image, and JSON inputs",
+     "No output token charges apply"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   }
+  ],
+  "caption": "Stop paying for intelligence you don't need. If your business automation involves simple routing—like sorting customer emails, classifying transaction types, or checking if a product image shows damage—you don't need a heavy, general-purpose LLM. Dedicated decision APIs are significantly faster and cheaper. At $0.10 per million input tokens with no output fees, it’s a practical way to scale your operations without your cloud bill spiraling out of control. Start by picking one recurring, repetitive decision your team makes every day and move it to a dedicated endpoint. What is one repetitive manual categorization task your team handles that could be automated?",
+  "hashtags": [
+   "#businessautomation",
+   "#smallbusinesstips",
+   "#openai",
+   "#costoptimization"
+  ],
+  "keywords": [
+   "AI automation",
+   "Decisions API",
+   "business efficiency",
+   "reduce AI costs",
+   "workflow automation"
+  ],
+  "claims": [
+   {
+    "claim": "Decisions API focuses on questions with bounded answers and is up to 10x faster than GPT-6 Luna.",
+    "source_id": 42
+   },
+   {
+    "claim": "The Decisions API supports three answer types: probability, choice, and score.",
+    "source_id": 42
+   },
+   {
+    "claim": "Decisions API costs $0.10 per million input tokens with no output-token charges.",
+    "source_id": 42
+   },
+   {
+    "claim": "Developers can pass native JSON inputs and include images in question instructions.",
+    "source_id": 42
+   }
+  ]
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "Decisions API focuses on questions with bounded answers and is up to 10x faster than GPT-6 Luna.",
+    "supported": true
+   },
+   {
+    "claim": "The Decisions API supports three answer types: probability, choice, and score.",
+    "supported": true
+   },
+   {
+    "claim": "Decisions API costs $0.10 per million input tokens with no output-token charges.",
+    "supported": true
+   },
+   {
+    "claim": "Developers can pass native JSON inputs and include images in question instructions.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [],
+  "issues": [
+   "The term 'GPT-6 Luna' is specific to the source material provided, but ensure this is not a hallucination or a placeholder in your branding strategy if it hasn't been officially released yet.",
+   "The 'Before you automate' slide (5/7) is slightly redundant with the 'How to set it up' slide (4/7).",
+   "The caption is strong but could benefit from a clearer call-to-action (CTA) that encourages saving the post for later reference."
+  ],
+  "fix_instructions": "The content is high quality and ready for publication. To improve slightly: 1. On slide 5, change the title to 'Is your task a good fit?' to differentiate it from the 'How to' steps. 2. In the caption, add a clear CTA: 'Save this post to reference when you're ready to optimize your next workflow.' 3. Ensure the 'GPT-6 Luna' mention aligns with your current knowledge of the OpenAI roadmap to avoid confusion."
+ },
+ "rules": [],
+ "reasons": [],
+ "meta": {
+  "ai_visuals": false,
+  "slides": 7
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-10-24/C4-2026-10-24/try1",
+ "attempt": 1,
+ "approved": true,
+ "hook": "How to automate routine business tasks for pennies",
+ "log": [
+  "attempt 1: PASS {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} []"
+ ],
+ "id": "C4-2026-10-24",
+ "caption_final": "Stop paying for intelligence you don't need. If your business automation involves simple routing—like sorting customer emails, classifying transaction types, or checking if a product image shows damage—you don't need a heavy, general-purpose LLM. Dedicated decision APIs are significantly faster and cheaper. At $0.10 per million input tokens with no output fees, it’s a practical way to scale your operations without your cloud bill spiraling out of control. Start by picking one recurring, repetitive decision your team makes every day and move it to a dedicated endpoint. What is one repetitive manual categorization task your team handles that could be automated?\n\n#businessautomation #smallbusinesstips #openai #costoptimization"
+}

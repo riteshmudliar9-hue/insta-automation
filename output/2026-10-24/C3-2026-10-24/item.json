@@ -1,0 +1,223 @@
+{
+ "kind": "carousel",
+ "idea": {
+  "idea": "Using Canva's new 2-stage planning AI model to design retail promotion banners",
+  "angle": "Stop paying freelance designers ₹500 per poster: Canva Craft plans visual layout hierarchy before generating, preventing cluttered graphics.",
+  "audience_problem": "Small shop owners and retailers spend too much money or time struggling to design legible sale graphics for WhatsApp status and print.",
+  "format": "tutorial",
+  "medium": "carousel",
+  "source_ids": [
+   8,
+   16,
+   80
+  ],
+  "evergreen": true,
+  "keywords": [
+   "Canva AI",
+   "Canva Craft",
+   "retail marketing",
+   "poster design",
+   "automation"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 8,
+   "hook_potential": 8,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 9,
+   "evidence": 8
+  },
+  "total": 8.45
+ },
+ "piece": {
+  "hooks": [
+   "Design posters in 2 steps without paying freelance designers",
+   "Why your AI-generated shop flyers look messy and cluttered",
+   "Stop wasting money on designers for basic WhatsApp ads"
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "It addresses the specific pain point (cost) and the solution (the 2-stage process) directly, which appeals to small business owners looking for immediate practical value.",
+  "slides": [
+   {
+    "kind": "cover",
+    "title": "Design posters in 2 steps without paying freelance designers",
+    "subtitle": "Use Canva's new 2-stage planning AI to stop cluttered graphics.",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "mythfact",
+    "title": "AI Design Myth",
+    "subtitle": "Why most AI posters look wrong.",
+    "body": "AI image tools often struggle with text and layout. Canva Craft changes this by planning the design before it draws the image.",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "AI image generators are just for pretty pictures.",
+    "fact": "Canva Craft plans spatial relationships, scale, and visual hierarchy first, ensuring your text is actually legible.",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "steps",
+    "title": "How to use Canva Craft",
+    "subtitle": "Follow these steps to build your next ad.",
+    "body": "Access the new model directly in your Canva workspace to create professional-looking promotional banners.",
+    "items": [
+     "Open your Canva dashboard.",
+     "Click the three-dot menu on the left.",
+     "Select the Dream Lab tab.",
+     "Enter your prompt to generate your design."
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "compare",
+    "title": "Old vs New AI",
+    "subtitle": "Why the two-stage model matters.",
+    "body": "Traditional AI generators often produce random results. Canva's new approach focuses on design structure.",
+    "items": [],
+    "left_label": "Standard AI",
+    "right_label": "Canva Craft",
+    "rows": [
+     {
+      "left": "Random pixel placement",
+      "right": "Plans layout hierarchy"
+     },
+     {
+      "left": "Often illegible text",
+      "right": "Generates readable text"
+     },
+     {
+      "left": "Fixed image output",
+      "right": "Editable layered designs"
+     }
+    ],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "summary",
+    "title": "Key Takeaways",
+    "subtitle": "What you need to know.",
+    "body": "Use this tool to save on design costs while keeping your marketing materials on brand and professional.",
+    "items": [
+     "Plans layout before generating pixels.",
+     "Supports up to 2K resolution.",
+     "Export designs as editable layers.",
+     "Available to all users now."
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   }
+  ],
+  "caption": "Stop paying ₹500 for simple WhatsApp posters. Canva's new Craft model is designed specifically for business layouts, meaning it thinks about where your text goes before it creates the graphic. This solves the classic 'cluttered AI' problem where words end up looking like gibberish. If you run a hardware shop or a small office, you can now iterate on promo banners in minutes instead of waiting for a freelancer. Remember, technology doesn't replace your judgment—you still need to ensure the final output is relevant to your customers. Start by testing a simple festival sale banner in Dream Lab today. What is the biggest hurdle you face when creating your own shop marketing materials?",
+  "hashtags": [
+   "#smallbusinessindia",
+   "#canva",
+   "#retailmarketing",
+   "#automation"
+  ],
+  "keywords": [
+   "Canva Craft",
+   "AI design tool",
+   "retail promotion",
+   "small business marketing",
+   "WhatsApp business"
+  ],
+  "claims": [
+   {
+    "claim": "Canva Craft uses a two-stage architecture to plan designs before generation.",
+    "source_id": 16
+   },
+   {
+    "claim": "The model generates images at up to 2K resolution.",
+    "source_id": 8
+   },
+   {
+    "claim": "Generated images can be converted into layered designs using Canva Magic.",
+    "source_id": 8
+   },
+   {
+    "claim": "Canva Craft is available to all users via the Dream Lab tab.",
+    "source_id": 16
+   }
+  ]
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 9,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "Canva Craft uses a two-stage architecture to plan designs before generation.",
+    "supported": true
+   },
+   {
+    "claim": "The model generates images at up to 2K resolution.",
+    "supported": true
+   },
+   {
+    "claim": "Generated images can be converted into layered designs using Canva Magic.",
+    "supported": true
+   },
+   {
+    "claim": "Canva Craft is available to all users via the Dream Lab tab.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [],
+  "issues": [
+   "The term '2 steps' in the hook and slide 1 is slightly misleading as the process involves more than two distinct actions (opening, menu, tab, prompt).",
+   "The caption mentions '₹500' which is a good local touch, but ensure the tone remains professional and not overly dismissive of freelancers."
+  ],
+  "fix_instructions": "The content is strong and ready for publication. To improve, change '2 steps' to 'simple steps' in the hook and slide 1 to avoid being technically inaccurate. The visual design is clean and adheres to the brand guidelines. Ensure the final export is high resolution for Instagram's carousel format."
+ },
+ "rules": [],
+ "reasons": [],
+ "meta": {
+  "ai_visuals": false,
+  "slides": 5
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-10-24/C3-2026-10-24/try1",
+ "attempt": 1,
+ "approved": true,
+ "hook": "Design posters in 2 steps without paying freelance designers",
+ "log": [
+  "attempt 1: PASS {'hook': 8, 'originality': 7, 'practical_value': 9, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} []"
+ ],
+ "id": "C3-2026-10-24",
+ "caption_final": "Stop paying ₹500 for simple WhatsApp posters. Canva's new Craft model is designed specifically for business layouts, meaning it thinks about where your text goes before it creates the graphic. This solves the classic 'cluttered AI' problem where words end up looking like gibberish. If you run a hardware shop or a small office, you can now iterate on promo banners in minutes instead of waiting for a freelancer. Remember, technology doesn't replace your judgment—you still need to ensure the final output is relevant to your customers. Start by testing a simple festival sale banner in Dream Lab today. What is the biggest hurdle you face when creating your own shop marketing materials?\n\n#smallbusinessindia #canva #retailmarketing #automation"
+}

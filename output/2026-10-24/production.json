@@ -1,0 +1,459 @@
+{
+ "date": "2026-10-24",
+ "tag": "2026-10-24",
+ "pilot": false,
+ "sources": 94,
+ "ideas": 14,
+ "idea_list": [
+  {
+   "idea": "How to disable Google AI data-scraping in business Gmail accounts",
+   "format": "problem_fix",
+   "total": 9.03,
+   "scores": {
+    "relevance": 9,
+    "novelty": 9,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 10,
+    "feasibility": 9,
+    "evidence": 9
+   }
+  },
+  {
+   "idea": "The public AI link leak: Why sharing chat logs is exposing business numbers",
+   "format": "checklist",
+   "total": 8.59,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 8
+   }
+  },
+  {
+   "idea": "Why generic AI pricing estimates fail and how business context fixes it",
+   "format": "problem_fix",
+   "total": 8.59,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 8
+   }
+  },
+  {
+   "idea": "Three mandatory guardrails to implement before putting AI agents on customer WhatsApp",
+   "format": "checklist",
+   "total": 8.59,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 8
+   }
+  },
+  {
+   "idea": "Using Canva's new 2-stage planning AI model to design retail promotion banners",
+   "format": "tutorial",
+   "total": 8.45,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 8
+   }
+  },
+  {
+   "idea": "Evaluating out-of-the-box AI agents: What actually works for SMB admin in 2026",
+   "format": "checklist",
+   "total": 8.45,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 8
+   }
+  },
+  {
+   "idea": "A practical 4-step framework to train non-technical retail and warehouse staff on AI",
+   "format": "checklist",
+   "total": 8.33,
+   "scores": {
+    "relevance": 9,
+    "novelty": 7,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 8
+   }
+  },
+  {
+   "idea": "Automating candidate and client outreach using Claude and Zapier MCP",
+   "format": "demo",
+   "total": 8.28,
+   "scores": {
+    "relevance": 8,
+    "novelty": 9,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 8,
+    "evidence": 8
+   }
+  },
+  {
+   "idea": "Google Forms vs Jotform for automating customer orders and intake",
+   "format": "tool_test",
+   "total": 8.22,
+   "scores": {
+    "relevance": 9,
+    "novelty": 6,
+    "hook_potential": 7,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 9
+   }
+  },
+  {
+   "idea": "Masked credential delegation: Letting AI agents log into vendor portals safely",
+   "format": "tool_test",
+   "total": 8.13,
+   "scores": {
+    "relevance": 8,
+    "novelty": 9,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 8,
+    "evidence": 8
+   }
+  },
+  {
+   "idea": "Cutting automation costs by 90% with dedicated decision models",
+   "format": "manual_vs_auto",
+   "total": 8.03,
+   "scores": {
+    "relevance": 8,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 7,
+    "save_share": 9,
+    "feasibility": 8,
+    "evidence": 8
+   }
+  },
+  {
+   "idea": "Notion vs Obsidian for managing contractor SOPs and automated rate cards",
+   "format": "tool_test",
+   "total": 7.85,
+   "scores": {
+    "relevance": 8,
+    "novelty": 6,
+    "hook_potential": 7,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 9,
+    "evidence": 9
+   }
+  },
+  {
+   "idea": "Answering: Can AI agents work together in a shared group chat to handle quotes?",
+   "format": "audience_q",
+   "total": 7.76,
+   "scores": {
+    "relevance": 7,
+    "novelty": 9,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 8,
+    "evidence": 7
+   }
+  },
+  {
+   "idea": "Preventing the silent storage and token drain in repetitive AI workflows",
+   "format": "problem_fix",
+   "total": 7.66,
+   "scores": {
+    "relevance": 7,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 7,
+    "save_share": 8,
+    "feasibility": 8,
+    "evidence": 8
+   }
+  }
+ ],
+ "rejected_ideas": [
+  [
+   "Google Forms vs Jotform for automating customer orders and intake",
+   "low relevance or novelty"
+  ],
+  [
+   "Notion vs Obsidian for managing contractor SOPs and automated rate cards",
+   "low relevance or novelty"
+  ]
+ ],
+ "items": [
+  {
+   "id": "R1-2026-10-24",
+   "kind": "reel",
+   "format": "checklist",
+   "topic": "Evaluating out-of-the-box AI agents: What actually works for SMB admin in 2026",
+   "hook": "Most AI agents crash when they hit real business data. Here is how to test.",
+   "approved": true,
+   "attempts": 3,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 8,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 9,
+    "pacing": 9,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [],
+   "log": [
+    "attempt 1: fail {'hook': 6, 'originality': 6, 'practical_value': 6, 'natural_language': 7, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 6, 'pacing': 7, 'brand_consistency': 7, 'publish_readiness': 6} ['hook 6/10 (<8)', 'originality 6/10 (<8)', 'practical_value 6/10 (<8)', 'natural_language 7/10 (<8)']",
+    "attempt 2: fail {'hook': 8, 'originality': 7, 'practical_value': 9, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+    "attempt 3: PASS {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} []"
+   ],
+   "dir": "output/2026-10-24/R1-2026-10-24/try3",
+   "duration": 39.7,
+   "voice": "edge"
+  },
+  {
+   "id": "R2-2026-10-24",
+   "kind": "reel",
+   "format": "demo",
+   "topic": "Automating candidate and client outreach using Claude and Zapier MCP",
+   "hook": "Recruitment agencies are saving 240 hours a week by connecting Claude to their database.",
+   "approved": false,
+   "attempts": 3,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 7,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 9,
+    "pacing": 8,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [
+    "originality 7/10 (<8)",
+    "practical_value 7/10 (<8)"
+   ],
+   "log": [
+    "attempt 1: fail {'hook': 8, 'originality': 7, 'practical_value': 6, 'natural_language': 8, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 7, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 6} ['originality 7/10 (<8)', 'practical_value 6/10 (<8)', 'narrative 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+    "attempt 2: fail {'hook': 7, 'originality': 7, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 8} ['hook 7/10 (<8)', 'originality 7/10 (<8)', 'practical_value 7/10 (<8)']",
+    "attempt 3: fail {'hook': 8, 'originality': 7, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['originality 7/10 (<8)', 'practical_value 7/10 (<8)']"
+   ],
+   "dir": "output/2026-10-24/R2-2026-10-24/try3",
+   "duration": 42.6,
+   "voice": "edge"
+  },
+  {
+   "id": "R3-2026-10-24",
+   "kind": "reel",
+   "format": "tool_test",
+   "topic": "Masked credential delegation: Letting AI agents log into vendor portals safely",
+   "hook": "You can now let AI agents log in without ever seeing your password.",
+   "approved": true,
+   "attempts": 3,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 8,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 9,
+    "pacing": 8,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [],
+   "log": [
+    "attempt 1: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['opening line too long for a 3-second hook', 'originality 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+    "attempt 2: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+    "attempt 3: PASS {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} []"
+   ],
+   "dir": "output/2026-10-24/R3-2026-10-24/try3",
+   "duration": 40.5,
+   "voice": "edge"
+  },
+  {
+   "id": "R4-2026-10-24",
+   "kind": "reel",
+   "format": "audience_q",
+   "topic": "Answering: Can AI agents work together in a shared group chat to handle quotes?",
+   "hook": "Group chats for AI agents could change how you handle inventory tasks.",
+   "approved": false,
+   "attempts": 1,
+   "scores": {
+    "hook": 8,
+    "originality": 8,
+    "practical_value": 6,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 9,
+    "pacing": 8,
+    "brand_consistency": 9,
+    "publish_readiness": 7
+   },
+   "reasons": [
+    "practical_value 6/10 (<8)"
+   ],
+   "log": [
+    "attempt 1: fail {'hook': 8, 'originality': 8, 'practical_value': 6, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['practical_value 6/10 (<8)']",
+    "attempt 2: fail {'hook': 8, 'originality': 7, 'practical_value': 6, 'natural_language': 8, 'accuracy': 7, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 6} ['originality 7/10 (<8)', 'practical_value 6/10 (<8)', 'accuracy 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+    "attempt 3: fail {'hook': 8, 'originality': 7, 'practical_value': 6, 'natural_language': 8, 'accuracy': 8, 'narrative': 7, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 6} ['originality 7/10 (<8)', 'practical_value 6/10 (<8)', 'narrative 7/10 (<8)', 'visual_integrity 7/10 (<8)']"
+   ],
+   "dir": "output/2026-10-24/R4-2026-10-24/try1",
+   "duration": 49.1,
+   "voice": "edge"
+  },
+  {
+   "id": "C1-2026-10-24",
+   "kind": "carousel",
+   "format": "problem_fix",
+   "topic": "How to disable Google AI data-scraping in business Gmail accounts",
+   "hook": "Your invoices are visible to Google's ad algorithms",
+   "approved": true,
+   "attempts": 1,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 9,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 9,
+    "pacing": 9,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [],
+   "log": [
+    "attempt 1: PASS {'hook': 8, 'originality': 7, 'practical_value': 9, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} []"
+   ],
+   "dir": "output/2026-10-24/C1-2026-10-24/try1",
+   "duration": null,
+   "voice": null
+  },
+  {
+   "id": "C2-2026-10-24",
+   "kind": "carousel",
+   "format": "checklist",
+   "topic": "The public AI link leak: Why sharing chat logs is exposing business numbers",
+   "hook": "Are your AI chat links exposing your business data?",
+   "approved": true,
+   "attempts": 1,
+   "scores": {
+    "hook": 9,
+    "originality": 8,
+    "practical_value": 9,
+    "natural_language": 9,
+    "accuracy": 9,
+    "narrative": 9,
+    "visual_integrity": 8,
+    "pacing": 9,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [],
+   "log": [
+    "attempt 1: PASS {'hook': 9, 'originality': 8, 'practical_value': 9, 'natural_language': 9, 'accuracy': 9, 'narrative': 9, 'visual_integrity': 8, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} []"
+   ],
+   "dir": "output/2026-10-24/C2-2026-10-24/try1",
+   "duration": null,
+   "voice": null
+  },
+  {
+   "id": "C3-2026-10-24",
+   "kind": "carousel",
+   "format": "tutorial",
+   "topic": "Using Canva's new 2-stage planning AI model to design retail promotion banners",
+   "hook": "Design posters in 2 steps without paying freelance designers",
+   "approved": true,
+   "attempts": 1,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 9,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 9,
+    "pacing": 9,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [],
+   "log": [
+    "attempt 1: PASS {'hook': 8, 'originality': 7, 'practical_value': 9, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} []"
+   ],
+   "dir": "output/2026-10-24/C3-2026-10-24/try1",
+   "duration": null,
+   "voice": null
+  },
+  {
+   "id": "C4-2026-10-24",
+   "kind": "carousel",
+   "format": "manual_vs_auto",
+   "topic": "Cutting automation costs by 90% with dedicated decision models",
+   "hook": "How to automate routine business tasks for pennies",
+   "approved": true,
+   "attempts": 1,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 8,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 9,
+    "pacing": 9,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [],
+   "log": [
+    "attempt 1: PASS {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} []"
+   ],
+   "dir": "output/2026-10-24/C4-2026-10-24/try1",
+   "duration": null,
+   "voice": null
+  }
+ ],
+ "llm_calls": {
+  "text": 33,
+  "tts": 5,
+  "failed": 0
+ }
+}

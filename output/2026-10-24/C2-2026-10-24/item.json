@@ -1,0 +1,226 @@
+{
+ "kind": "carousel",
+ "idea": {
+  "idea": "The public AI link leak: Why sharing chat logs is exposing business numbers",
+  "angle": "Security audits found small business revenue sheets and internal proposals exposed via shared chat links; here is how to secure your team's AI history.",
+  "audience_problem": "Small business teams frequently click 'Share Chat' to send AI-generated proposals to clients, inadvertently making sensitive company figures publicly searchable.",
+  "format": "checklist",
+  "medium": "carousel",
+  "source_ids": [
+   18
+  ],
+  "evergreen": true,
+  "keywords": [
+   "data leak",
+   "AI security",
+   "Meta AI",
+   "ChatGPT share link",
+   "confidentiality"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 8,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 9,
+   "evidence": 8
+  },
+  "total": 8.59
+ },
+ "piece": {
+  "hooks": [
+   "Are your AI chat links exposing your business data?",
+   "Stop sharing private business data via AI chat links",
+   "How your AI-generated quotes might be public knowledge"
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "It directly addresses the fear of data exposure while being specific to the audience's habit of sharing AI-generated outputs.",
+  "slides": [
+   {
+    "kind": "cover",
+    "title": "Are your AI chat links exposing your business data?",
+    "subtitle": "Publicly shared AI logs can leak sensitive internal revenue and loan documents.",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "point",
+    "title": "The hidden risk",
+    "subtitle": "",
+    "body": "When you click 'Share' to send an AI-generated proposal to a client, the URL sometimes includes the chat title and gets written into public DNS registries.",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "mythfact",
+    "title": "Data visibility",
+    "subtitle": "",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "Shared AI links are private to the recipient.",
+    "fact": "Researchers found company revenue reviews and loan applications indexed and findable via public links.",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "checklist",
+    "title": "Audit your AI links",
+    "subtitle": "",
+    "body": "Check these steps to secure your team's workspace today.",
+    "items": [
+     "Audit previous shared AI conversation links",
+     "Avoid pasting internal revenue data into chat",
+     "Check permissions before clicking any share button",
+     "Delete old shared links if they contain sensitive text",
+     "Review new privacy updates from your AI provider"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "quote",
+    "title": "A note on security",
+    "subtitle": "",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "Anyone visiting the old link will see a note asking them to get the new one from you.",
+    "attribution": "David Singleton, Meta"
+   },
+   {
+    "kind": "summary",
+    "title": "Final safety rules",
+    "subtitle": "",
+    "body": "",
+    "items": [
+     "Assume shared links are publicly searchable",
+     "Never include bank or internal tax data",
+     "Always verify who can access shared URLs",
+     "Treat AI chat as a public whiteboard"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   }
+  ],
+  "caption": "Are your business proposals and revenue reports visible to anyone with a search engine? Small business owners often use 'Share' links to send AI-generated quotes to clients, but some AI platforms accidentally made these chat logs publicly searchable. Researchers recently found private loan applications and internal revenue reviews indexed online. Before you hit share on your next AI chat, remove any sensitive financial figures or client names. Treat every shared AI link as if it were a public notice board. Have you checked your shared AI chat history lately? #BusinessSecurity #SmallBusinessIndia #DataPrivacy #AITips #BusinessOwner",
+  "hashtags": [
+   "#BusinessSecurity",
+   "#SmallBusinessIndia",
+   "#DataPrivacy",
+   "#AITips",
+   "#BusinessOwner"
+  ],
+  "keywords": [
+   "AI data leak",
+   "business security",
+   "shared chat links",
+   "small business data",
+   "Meta Muse security"
+  ],
+  "claims": [
+   {
+    "claim": "Researchers found public links to marketing company internal revenue reviews and loan applications.",
+    "source_id": 18
+   },
+   {
+    "claim": "Shared conversations from Muse were named after titles and written into public DNS.",
+    "source_id": 18
+   },
+   {
+    "claim": "Meta re-enabled Muse sharing after fixing the URL issue.",
+    "source_id": 18
+   },
+   {
+    "claim": "Shared links created before the fix are now invalid.",
+    "source_id": 18
+   }
+  ]
+ },
+ "review": {
+  "scores": {
+   "hook": 9,
+   "originality": 8,
+   "practical_value": 9,
+   "natural_language": 9,
+   "accuracy": 9,
+   "narrative": 9,
+   "visual_integrity": 8,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "Researchers found company revenue reviews and loan applications indexed and findable via public links.",
+    "supported": true
+   },
+   {
+    "claim": "Shared conversations from Muse were named after titles and written into public DNS.",
+    "supported": true
+   },
+   {
+    "claim": "Meta re-enabled Muse sharing after fixing the URL issue.",
+    "supported": true
+   },
+   {
+    "claim": "Shared links created before the fix are now invalid.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Slide 1: The 'CHECKLIST' badge at the top feels slightly misaligned with the main title hierarchy.",
+   "Slide 4: The list items are slightly cramped vertically; consider increasing the padding between the boxes for better readability."
+  ],
+  "issues": [
+   "The content is excellent and highly relevant, but ensure the 'Meta Muse' branding is clear, as the carousel implies a general AI issue while the source is specific to Meta's Muse agent."
+  ],
+  "fix_instructions": "1. Increase vertical padding between the checklist items on Slide 4 to improve visual breathing room. 2. Adjust the 'CHECKLIST' badge alignment on Slide 1 to be perfectly flush with the left margin of the title. 3. Add a small note on Slide 2 or 3 clarifying that this specific vulnerability was identified in Meta's Muse AI, to ensure readers don't panic about every AI tool they use."
+ },
+ "rules": [],
+ "reasons": [],
+ "meta": {
+  "ai_visuals": false,
+  "slides": 6
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-10-24/C2-2026-10-24/try1",
+ "attempt": 1,
+ "approved": true,
+ "hook": "Are your AI chat links exposing your business data?",
+ "log": [
+  "attempt 1: PASS {'hook': 9, 'originality': 8, 'practical_value': 9, 'natural_language': 9, 'accuracy': 9, 'narrative': 9, 'visual_integrity': 8, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} []"
+ ],
+ "id": "C2-2026-10-24",
+ "caption_final": "Are your business proposals and revenue reports visible to anyone with a search engine? Small business owners often use 'Share' links to send AI-generated quotes to clients, but some AI platforms accidentally made these chat logs publicly searchable. Researchers recently found private loan applications and internal revenue reviews indexed online. Before you hit share on your next AI chat, remove any sensitive financial figures or client names. Treat every shared AI link as if it were a public notice board. Have you checked your shared AI chat history lately?\n\n#BusinessSecurity #SmallBusinessIndia #DataPrivacy #AITips #BusinessOwner"
+}

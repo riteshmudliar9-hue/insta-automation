@@ -1,0 +1,201 @@
+{
+ "kind": "carousel",
+ "idea": {
+  "idea": "How to disable Google AI data-scraping in business Gmail accounts",
+  "angle": "If you send quotes and invoices via Gmail, Google's updated policy allows AI to scan your data for ad targeting unless you toggle off these specific settings.",
+  "audience_problem": "Contractors and traders unknowingly expose confidential client pricing, trade terms, and invoices to advertising algorithms.",
+  "format": "problem_fix",
+  "medium": "carousel",
+  "source_ids": [
+   13
+  ],
+  "evergreen": true,
+  "keywords": [
+   "Gmail privacy",
+   "Google AI ads",
+   "business privacy",
+   "data security",
+   "data protection"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 9,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 10,
+   "feasibility": 9,
+   "evidence": 9
+  },
+  "total": 9.03
+ },
+ "piece": {
+  "hooks": [
+   "Is your business Gmail data being used for ads?",
+   "Stop Google AI from scanning your client quotes today",
+   "Your invoices are visible to Google's ad algorithms"
+  ],
+  "chosen_hook": 2,
+  "hook_reason": "It directly highlights the risk to the specific business documents (quotes) mentioned in the prompt, creating immediate concern and relevance for the audience.",
+  "slides": [
+   {
+    "kind": "cover",
+    "title": "Stop Google AI from scanning your client quotes today",
+    "subtitle": "Updated privacy settings now allow AI to use your Gmail data for ad targeting.",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "point",
+    "title": "The New Risk",
+    "subtitle": "",
+    "body": "Google updated its privacy policy on October 16th. If you connect your Gmail or Drive to 'Personal Intelligence' features for better AI responses, that same data is now open for personalized ad targeting.",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "steps",
+    "title": "How to Disable It",
+    "subtitle": "",
+    "body": "Protect your business communications by following these steps in your Google account settings:",
+    "items": [
+     "Go to your Google Search settings page.",
+     "Find the 'Search Services Personalization' section.",
+     "Disconnect your Gmail and Drive from Personal Intelligence.",
+     "Disable 'Personalized Recommendations' entirely to be safe."
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "mythfact",
+    "title": "Privacy Clarified",
+    "subtitle": "",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "Google now gives advertisers access to my private emails.",
+    "fact": "Advertisers do not see your actual email content, names, or addresses. Google uses your data to show relevant ads internally, but does not share your sensitive business info directly.",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "summary",
+    "title": "Action Plan",
+    "subtitle": "",
+    "body": "Keep your business data private by checking your settings today.",
+    "items": [
+     "Audit your Google Personal Intelligence connections.",
+     "Unlink Gmail if you send sensitive quotes.",
+     "Check your account settings every few months.",
+     "Prefer privacy over AI personalization for work."
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   }
+  ],
+  "caption": "How to turn off Gmail ad tracking and protect your business data. Google's recent privacy policy update means your Gmail and Drive content can now be used for personalized ads if you use their AI 'Personal Intelligence' tools. If you use Gmail to send price quotes or vendor invoices, check your Search Services Personalization settings immediately to disconnect your Workspace apps. This ensures your commercial data stays out of the ad-targeting loop. Have you checked your Google account privacy settings in the last six months? #GooglePrivacy #BusinessTips #GmailSecurity #DataProtection #SmallBusinessIndia",
+  "hashtags": [
+   "#GooglePrivacy",
+   "#BusinessTips",
+   "#GmailSecurity",
+   "#DataProtection",
+   "#SmallBusinessIndia"
+  ],
+  "keywords": [
+   "Google Gmail privacy settings",
+   "disable personalized ads Google",
+   "business Gmail security",
+   "Google AI data policy",
+   "protect client invoices"
+  ],
+  "claims": [
+   {
+    "claim": "Google updated its privacy policy on October 16th to allow Gmail and Drive data to be used for personalized ads if connected to AI features.",
+    "source_id": 13
+   },
+   {
+    "claim": "Users can prevent data usage for ads by disabling Personal Intelligence features in Search Services Personalization settings.",
+    "source_id": 13
+   },
+   {
+    "claim": "Advertisers do not get direct access to your Gmail content or personally identifying information.",
+    "source_id": 13
+   }
+  ]
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 9,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "Google updated its privacy policy on October 16th to allow Gmail and Drive data to be used for personalized ads if connected to AI features.",
+    "supported": true
+   },
+   {
+    "claim": "Users can prevent data usage for ads by disabling Personal Intelligence features in Search Services Personalization settings.",
+    "supported": true
+   },
+   {
+    "claim": "Advertisers do not get direct access to your Gmail content or personally identifying information.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [],
+  "issues": [
+   "The term 'Personal Intelligence' is used as a catch-all, but users might struggle to find this exact phrasing in their actual Google account settings, which often use 'Personalization' or 'Google Assistant' terminology.",
+   "The tone is slightly alarmist in the hook, which is effective for clicks but needs to be balanced by the clear 'Myth/Fact' slide."
+  ],
+  "fix_instructions": "The content is strong and ready for publication. To improve, add a small 'Pro-tip' or a note on the final slide clarifying that if users cannot find the exact 'Personal Intelligence' menu, they should look for 'Data & Privacy' > 'Personalized ads' or 'Google Assistant' settings, as Google's UI naming conventions can vary by region and account type. Otherwise, proceed to publish."
+ },
+ "rules": [],
+ "reasons": [],
+ "meta": {
+  "ai_visuals": false,
+  "slides": 5
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-10-24/C1-2026-10-24/try1",
+ "attempt": 1,
+ "approved": true,
+ "hook": "Your invoices are visible to Google's ad algorithms",
+ "log": [
+  "attempt 1: PASS {'hook': 8, 'originality': 7, 'practical_value': 9, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} []"
+ ],
+ "id": "C1-2026-10-24",
+ "caption_final": "How to turn off Gmail ad tracking and protect your business data. Google's recent privacy policy update means your Gmail and Drive content can now be used for personalized ads if you use their AI 'Personal Intelligence' tools. If you use Gmail to send price quotes or vendor invoices, check your Search Services Personalization settings immediately to disconnect your Workspace apps. This ensures your commercial data stays out of the ad-targeting loop. Have you checked your Google account privacy settings in the last six months?\n\n#GooglePrivacy #BusinessTips #GmailSecurity #DataProtection #SmallBusinessIndia"
+}

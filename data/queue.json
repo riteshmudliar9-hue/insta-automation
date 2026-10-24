@@ -1,0 +1,237 @@
+[
+ {
+  "id": "R1-2026-10-24",
+  "kind": "reel",
+  "date": "2026-10-24",
+  "slot": "2026-10-24T10:00",
+  "dir": "output/2026-10-24/R1-2026-10-24/try3",
+  "files": [
+   "reel.mp4"
+  ],
+  "caption": "Choosing the right AI agent for your small business comes down to one thing: control. Don't hand over your WhatsApp or email login to any tool that doesn't let you set strict boundaries. A reliable agent should always have a human-in-the-loop check before executing sensitive tasks like purchases or client communication. Managed platforms are safer for most teams because they include audit trails and guardrails that you'd otherwise have to build yourself. Before you automate, ask the vendor specifically where they store your credentials and how you can review the agent's past actions. Which administrative process are you trying to automate first?\n\n#AIBusiness #SmallBusinessIndia #WorkplaceAutomation #DigitalOffice #OfficeManagement",
+  "topic": "Evaluating out-of-the-box AI agents: What actually works for SMB admin in 2026",
+  "format": "checklist",
+  "hook": "Most AI agents crash when they hit real business data. Here is how to test.",
+  "keywords": [
+   "AI agents for business",
+   "automate small business",
+   "business automation tools",
+   "AI guardrails",
+   "admin automation"
+  ],
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "status": "queued",
+  "produced_at": 1792801386,
+  "log": []
+ },
+ {
+  "id": "R3-2026-10-24",
+  "kind": "reel",
+  "date": "2026-10-24",
+  "slot": "2026-10-24T14:00",
+  "dir": "output/2026-10-24/R3-2026-10-24/try3",
+  "files": [
+   "reel.mp4"
+  ],
+  "caption": "Stop handing over your business portal passwords to AI tools. Sharing credentials puts your supplier accounts and bank data at risk if the agent saves that information for later. 1Password for Agents now lets you delegate login tasks without exposing the actual password. The system sends a digital key to confirm the agent's identity, and you approve each login attempt manually. It supports tools like Claude, ChatGPT Work, and Grok. \n\nIf you use AI to track inventory or orders across different vendor portals, this is the safer way to handle access. Are you currently sharing any passwords with AI chatbots to get your work done?\n\n#CyberSecurity #SmallBusinessTech #BusinessAutomation #AI #1Password",
+  "topic": "Masked credential delegation: Letting AI agents log into vendor portals safely",
+  "format": "tool_test",
+  "hook": "You can now let AI agents log in without ever seeing your password.",
+  "keywords": [
+   "AI agent security",
+   "password manager for business",
+   "secure portal access",
+   "1Password for Agents",
+   "business automation tools"
+  ],
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "status": "queued",
+  "produced_at": 1792801386,
+  "log": []
+ },
+ {
+  "id": "C2-2026-10-24",
+  "kind": "carousel",
+  "date": "2026-10-24",
+  "slot": "2026-10-24T08:30",
+  "dir": "output/2026-10-24/C2-2026-10-24/try1",
+  "files": [
+   "slide_01.jpg",
+   "slide_02.jpg",
+   "slide_03.jpg",
+   "slide_04.jpg",
+   "slide_05.jpg",
+   "slide_06.jpg"
+  ],
+  "caption": "Are your business proposals and revenue reports visible to anyone with a search engine? Small business owners often use 'Share' links to send AI-generated quotes to clients, but some AI platforms accidentally made these chat logs publicly searchable. Researchers recently found private loan applications and internal revenue reviews indexed online. Before you hit share on your next AI chat, remove any sensitive financial figures or client names. Treat every shared AI link as if it were a public notice board. Have you checked your shared AI chat history lately?\n\n#BusinessSecurity #SmallBusinessIndia #DataPrivacy #AITips #BusinessOwner",
+  "topic": "The public AI link leak: Why sharing chat logs is exposing business numbers",
+  "format": "checklist",
+  "hook": "Are your AI chat links exposing your business data?",
+  "keywords": [
+   "AI data leak",
+   "business security",
+   "shared chat links",
+   "small business data",
+   "Meta Muse security"
+  ],
+  "scores": {
+   "hook": 9,
+   "originality": 8,
+   "practical_value": 9,
+   "natural_language": 9,
+   "accuracy": 9,
+   "narrative": 9,
+   "visual_integrity": 8,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "status": "queued",
+  "produced_at": 1792801386,
+  "log": []
+ },
+ {
+  "id": "C1-2026-10-24",
+  "kind": "carousel",
+  "date": "2026-10-24",
+  "slot": "2026-10-24T12:30",
+  "dir": "output/2026-10-24/C1-2026-10-24/try1",
+  "files": [
+   "slide_01.jpg",
+   "slide_02.jpg",
+   "slide_03.jpg",
+   "slide_04.jpg",
+   "slide_05.jpg"
+  ],
+  "caption": "How to turn off Gmail ad tracking and protect your business data. Google's recent privacy policy update means your Gmail and Drive content can now be used for personalized ads if you use their AI 'Personal Intelligence' tools. If you use Gmail to send price quotes or vendor invoices, check your Search Services Personalization settings immediately to disconnect your Workspace apps. This ensures your commercial data stays out of the ad-targeting loop. Have you checked your Google account privacy settings in the last six months?\n\n#GooglePrivacy #BusinessTips #GmailSecurity #DataProtection #SmallBusinessIndia",
+  "topic": "How to disable Google AI data-scraping in business Gmail accounts",
+  "format": "problem_fix",
+  "hook": "Your invoices are visible to Google's ad algorithms",
+  "keywords": [
+   "Google Gmail privacy settings",
+   "disable personalized ads Google",
+   "business Gmail security",
+   "Google AI data policy",
+   "protect client invoices"
+  ],
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 9,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "status": "queued",
+  "produced_at": 1792801386,
+  "log": []
+ },
+ {
+  "id": "C3-2026-10-24",
+  "kind": "carousel",
+  "date": "2026-10-24",
+  "slot": "2026-10-24T16:30",
+  "dir": "output/2026-10-24/C3-2026-10-24/try1",
+  "files": [
+   "slide_01.jpg",
+   "slide_02.jpg",
+   "slide_03.jpg",
+   "slide_04.jpg",
+   "slide_05.jpg"
+  ],
+  "caption": "Stop paying ₹500 for simple WhatsApp posters. Canva's new Craft model is designed specifically for business layouts, meaning it thinks about where your text goes before it creates the graphic. This solves the classic 'cluttered AI' problem where words end up looking like gibberish. If you run a hardware shop or a small office, you can now iterate on promo banners in minutes instead of waiting for a freelancer. Remember, technology doesn't replace your judgment—you still need to ensure the final output is relevant to your customers. Start by testing a simple festival sale banner in Dream Lab today. What is the biggest hurdle you face when creating your own shop marketing materials?\n\n#smallbusinessindia #canva #retailmarketing #automation",
+  "topic": "Using Canva's new 2-stage planning AI model to design retail promotion banners",
+  "format": "tutorial",
+  "hook": "Design posters in 2 steps without paying freelance designers",
+  "keywords": [
+   "Canva Craft",
+   "AI design tool",
+   "retail promotion",
+   "small business marketing",
+   "WhatsApp business"
+  ],
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 9,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "status": "queued",
+  "produced_at": 1792801386,
+  "log": []
+ },
+ {
+  "id": "C4-2026-10-24",
+  "kind": "carousel",
+  "date": "2026-10-24",
+  "slot": "2026-10-24T20:30",
+  "dir": "output/2026-10-24/C4-2026-10-24/try1",
+  "files": [
+   "slide_01.jpg",
+   "slide_02.jpg",
+   "slide_03.jpg",
+   "slide_04.jpg",
+   "slide_05.jpg",
+   "slide_06.jpg",
+   "slide_07.jpg"
+  ],
+  "caption": "Stop paying for intelligence you don't need. If your business automation involves simple routing—like sorting customer emails, classifying transaction types, or checking if a product image shows damage—you don't need a heavy, general-purpose LLM. Dedicated decision APIs are significantly faster and cheaper. At $0.10 per million input tokens with no output fees, it’s a practical way to scale your operations without your cloud bill spiraling out of control. Start by picking one recurring, repetitive decision your team makes every day and move it to a dedicated endpoint. What is one repetitive manual categorization task your team handles that could be automated?\n\n#businessautomation #smallbusinesstips #openai #costoptimization",
+  "topic": "Cutting automation costs by 90% with dedicated decision models",
+  "format": "manual_vs_auto",
+  "hook": "How to automate routine business tasks for pennies",
+  "keywords": [
+   "AI automation",
+   "Decisions API",
+   "business efficiency",
+   "reduce AI costs",
+   "workflow automation"
+  ],
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "status": "queued",
+  "produced_at": 1792801386,
+  "log": []
+ }
+]

@@ -1,0 +1,243 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Evaluating out-of-the-box AI agents: What actually works for SMB admin in 2026",
+  "angle": "Skip complex DIY coding: evaluate which turnkey AI agents reliably handle document drafting, data lookup, and basic admin without crashing.",
+  "audience_problem": "Non-technical owners are paralyzed by hype and do not know which off-the-shelf agents are safe to assign actual administrative tasks.",
+  "format": "checklist",
+  "medium": "both",
+  "source_ids": [
+   60
+  ],
+  "evergreen": true,
+  "keywords": [
+   "AI agents 2026",
+   "turnkey automation",
+   "administrative automation",
+   "SMB tools",
+   "task execution"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 8,
+   "hook_potential": 8,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 9,
+   "evidence": 8
+  },
+  "total": 8.45
+ },
+ "piece": {
+  "hooks": [
+   "Most AI agents crash when they hit real business data. Here is how to test.",
+   "Stop wasting money on AI agents that cannot handle your actual office work.",
+   "Giving an AI agent access to your business email is a massive risk."
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "It addresses the specific pain point of reliability and sets the stage for a practical checklist, which is the requested format.",
+  "title": "4-Step AI Safety Check for Business",
+  "scenes": [
+   {
+    "purpose": "Opening hook",
+    "narration": "Most AI agents crash when they hit real business data. Here is how to test.",
+    "on_screen": "Safety first for your business",
+    "visual_type": "text",
+    "url": "https://zapier.com/blog/best-ai-agents",
+    "query": "none",
+    "headline": "Check your AI before connecting",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Define the risk",
+    "narration": "Before giving an agent your Gmail or Salesforce, check if it lets you limit permissions.",
+    "on_screen": "Limit what the AI touches",
+    "visual_type": "checklist",
+    "url": "https://zapier.com/blog/best-ai-agents",
+    "query": "none",
+    "headline": "Control app access strictly",
+    "steps": [],
+    "items": [
+     "Check app connectivity limits",
+     "Restrict read/write actions",
+     "Audit long-lived credentials"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Explain human-in-the-loop",
+    "narration": "Never let an agent buy anything or send emails without a human check in the middle.",
+    "on_screen": "Human-in-the-loop is mandatory",
+    "visual_type": "diagram",
+    "url": "https://zapier.com/blog/best-ai-agents",
+    "query": "none",
+    "headline": "Keep control of final actions",
+    "steps": [
+     "AI drafts action",
+     "Human reviews logic",
+     "Execution confirmed"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Explain governance",
+    "narration": "Managed platforms like Zapier offer audit trails. Self-hosted agents usually lack these built-in safety guardrails.",
+    "on_screen": "Audit trails track every action",
+    "visual_type": "compare",
+    "url": "https://zapier.com/blog/best-ai-agents",
+    "query": "none",
+    "headline": "Managed vs Self-hosted agents",
+    "steps": [],
+    "items": [],
+    "left_label": "Managed Platform",
+    "right_label": "Self-hosted Tool",
+    "rows": [
+     {
+      "left": "Built-in security",
+      "right": "Needs security review"
+     },
+     {
+      "left": "Activity dashboard",
+      "right": "No logs included"
+     },
+     {
+      "left": "Predictable costs",
+      "right": "Hard to forecast"
+     }
+    ]
+   },
+   {
+    "purpose": "Final takeaway",
+    "narration": "Start with agents that offer SOC 2 compliance. If it cannot show you what it did, do not use it.",
+    "on_screen": "Visibility equals business safety",
+    "visual_type": "checklist",
+    "url": "https://zapier.com/blog/best-ai-agents",
+    "query": "none",
+    "headline": "Three rules for choosing agents",
+    "steps": [],
+    "items": [
+     "Demand audit logs",
+     "Prioritize SOC 2 compliance",
+     "Test with dummy data"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "Choosing the right AI agent for your small business comes down to one thing: control. Don't hand over your WhatsApp or email login to any tool that doesn't let you set strict boundaries. A reliable agent should always have a human-in-the-loop check before executing sensitive tasks like purchases or client communication. Managed platforms are safer for most teams because they include audit trails and guardrails that you'd otherwise have to build yourself. Before you automate, ask the vendor specifically where they store your credentials and how you can review the agent's past actions. Which administrative process are you trying to automate first? #AIBusiness #SmallBusinessIndia #WorkplaceAutomation #DigitalOffice #OfficeManagement",
+  "hashtags": [
+   "#AIBusiness",
+   "#SmallBusinessIndia",
+   "#WorkplaceAutomation",
+   "#DigitalOffice",
+   "#OfficeManagement"
+  ],
+  "keywords": [
+   "AI agents for business",
+   "automate small business",
+   "business automation tools",
+   "AI guardrails",
+   "admin automation"
+  ],
+  "claims": [
+   {
+    "claim": "Managed platforms like Zapier offer audit trails and built-in security guardrails for AI agents.",
+    "source_id": 60
+   },
+   {
+    "claim": "AI agents should have managed credentials and scoped permissions to prevent full admin access to systems.",
+    "source_id": 60
+   },
+   {
+    "claim": "Self-hosted agents require internal security reviews and engineering time which managed platforms handle for you.",
+    "source_id": 60
+   },
+   {
+    "claim": "Human-in-the-loop checkpoints allow users to intervene and approve agent actions.",
+    "source_id": 60
+   }
+  ]
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "Managed platforms like Zapier offer audit trails and built-in security guardrails for AI agents.",
+    "supported": true
+   },
+   {
+    "claim": "AI agents should have managed credentials and scoped permissions to prevent full admin access to systems.",
+    "supported": true
+   },
+   {
+    "claim": "Self-hosted agents require internal security reviews and engineering time which managed platforms handle for you.",
+    "supported": true
+   },
+   {
+    "claim": "Human-in-the-loop checkpoints allow users to intervene and approve agent actions.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [],
+  "issues": [
+   "The reel leans heavily on Zapier as the primary solution, which is accurate to the source but borders on advertorial; ensure the tone remains educational rather than promotional.",
+   "The 'Self-hosted' column in Scene 4 is a bit broad; while accurate to the source, it might confuse users who don't know the difference between a managed SaaS agent and a local LLM."
+  ],
+  "fix_instructions": "The content is strong and ready for publication. To improve, ensure the voiceover emphasizes that these are general principles for ANY agent, not just Zapier, to maintain the 'trusted advisor' brand position. No visual changes required."
+ },
+ "rules": [],
+ "reasons": [],
+ "meta": {
+  "duration": 39.7,
+  "voice": "edge",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-24/R1-2026-10-24/try3/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-24/R1-2026-10-24/try3/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-24/R1-2026-10-24/try3/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-24/R1-2026-10-24/try3/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-24/R1-2026-10-24/try3/scene_05.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   7.24,
+   7.09,
+   6.9,
+   9.73,
+   8.73
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-10-24/R1-2026-10-24/try3",
+ "attempt": 3,
+ "approved": true,
+ "hook": "Most AI agents crash when they hit real business data. Here is how to test.",
+ "log": [
+  "attempt 1: fail {'hook': 6, 'originality': 6, 'practical_value': 6, 'natural_language': 7, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 6, 'pacing': 7, 'brand_consistency': 7, 'publish_readiness': 6} ['hook 6/10 (<8)', 'originality 6/10 (<8)', 'practical_value 6/10 (<8)', 'natural_language 7/10 (<8)']",
+  "attempt 2: fail {'hook': 8, 'originality': 7, 'practical_value': 9, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+  "attempt 3: PASS {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} []"
+ ],
+ "id": "R1-2026-10-24",
+ "caption_final": "Choosing the right AI agent for your small business comes down to one thing: control. Don't hand over your WhatsApp or email login to any tool that doesn't let you set strict boundaries. A reliable agent should always have a human-in-the-loop check before executing sensitive tasks like purchases or client communication. Managed platforms are safer for most teams because they include audit trails and guardrails that you'd otherwise have to build yourself. Before you automate, ask the vendor specifically where they store your credentials and how you can review the agent's past actions. Which administrative process are you trying to automate first?\n\n#AIBusiness #SmallBusinessIndia #WorkplaceAutomation #DigitalOffice #OfficeManagement"
+}

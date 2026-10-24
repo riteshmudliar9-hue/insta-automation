@@ -1,0 +1,98 @@
+[
+ {
+  "id": "R1-2026-10-24",
+  "date": "2026-10-24",
+  "kind": "reel",
+  "format": "checklist",
+  "topic": "Evaluating out-of-the-box AI agents: What actually works for SMB admin in 2026",
+  "hook": "Most AI agents crash when they hit real business data. Here is how to test.",
+  "keywords": [
+   "AI agents for business",
+   "automate small business",
+   "business automation tools",
+   "AI guardrails",
+   "admin automation"
+  ],
+  "status": "queued"
+ },
+ {
+  "id": "R3-2026-10-24",
+  "date": "2026-10-24",
+  "kind": "reel",
+  "format": "tool_test",
+  "topic": "Masked credential delegation: Letting AI agents log into vendor portals safely",
+  "hook": "You can now let AI agents log in without ever seeing your password.",
+  "keywords": [
+   "AI agent security",
+   "password manager for business",
+   "secure portal access",
+   "1Password for Agents",
+   "business automation tools"
+  ],
+  "status": "queued"
+ },
+ {
+  "id": "C2-2026-10-24",
+  "date": "2026-10-24",
+  "kind": "carousel",
+  "format": "checklist",
+  "topic": "The public AI link leak: Why sharing chat logs is exposing business numbers",
+  "hook": "Are your AI chat links exposing your business data?",
+  "keywords": [
+   "AI data leak",
+   "business security",
+   "shared chat links",
+   "small business data",
+   "Meta Muse security"
+  ],
+  "status": "queued"
+ },
+ {
+  "id": "C1-2026-10-24",
+  "date": "2026-10-24",
+  "kind": "carousel",
+  "format": "problem_fix",
+  "topic": "How to disable Google AI data-scraping in business Gmail accounts",
+  "hook": "Your invoices are visible to Google's ad algorithms",
+  "keywords": [
+   "Google Gmail privacy settings",
+   "disable personalized ads Google",
+   "business Gmail security",
+   "Google AI data policy",
+   "protect client invoices"
+  ],
+  "status": "queued"
+ },
+ {
+  "id": "C3-2026-10-24",
+  "date": "2026-10-24",
+  "kind": "carousel",
+  "format": "tutorial",
+  "topic": "Using Canva's new 2-stage planning AI model to design retail promotion banners",
+  "hook": "Design posters in 2 steps without paying freelance designers",
+  "keywords": [
+   "Canva Craft",
+   "AI design tool",
+   "retail promotion",
+   "small business marketing",
+   "WhatsApp business"
+  ],
+  "status": "queued"
+ },
+ {
+  "id": "C4-2026-10-24",
+  "date": "2026-10-24",
+  "kind": "carousel",
+  "format": "manual_vs_auto",
+  "topic": "Cutting automation costs by 90% with dedicated decision models",
+  "hook": "How to automate routine business tasks for pennies",
+  "keywords": [
+   "AI automation",
+   "Decisions API",
+   "business efficiency",
+   "reduce AI costs",
+   "workflow automation"
+  ],
+  "status": "queued"
+ }
+]

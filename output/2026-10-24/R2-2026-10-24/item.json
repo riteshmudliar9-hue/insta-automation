@@ -1,0 +1,240 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Automating candidate and client outreach using Claude and Zapier MCP",
+  "angle": "Stop copying and pasting between LLMs and your CRM: Zapier's Model Context Protocol lets Claude directly search and update your external business tools.",
+  "audience_problem": "Traders and hiring contractors lose hours daily switching tabs between AI text drafts, spreadsheets, and messaging platforms.",
+  "format": "demo",
+  "medium": "reel",
+  "source_ids": [
+   64
+  ],
+  "evergreen": true,
+  "keywords": [
+   "Claude AI",
+   "Zapier MCP",
+   "workflow automation",
+   "lead outreach",
+   "CRM sync"
+  ],
+  "scores": {
+   "relevance": 8,
+   "novelty": 9,
+   "hook_potential": 8,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 8,
+   "evidence": 8
+  },
+  "total": 8.28
+ },
+ "piece": {
+  "hooks": [
+   "Most AI agents break when they need your actual business files.",
+   "Stop copying and pasting data between your AI chatbot and your spreadsheets.",
+   "Recruitment agencies are saving 240 hours a week by connecting Claude to their database."
+  ],
+  "chosen_hook": 2,
+  "hook_reason": "This hook provides a specific, impressive quantitative result (240 hours/week) that immediately signals value to business owners.",
+  "title": "Connect Claude to your business data with Zapier MCP",
+  "scenes": [
+   {
+    "purpose": "Intro",
+    "narration": "Recruitment agencies are saving 240 hours a week by connecting Claude to their database.",
+    "on_screen": "Save 240+ hours weekly",
+    "visual_type": "text",
+    "url": "https://zapier.com/blog/blue-castle-agency-zapier-mcp",
+    "query": "none",
+    "headline": "Automation with context",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Problem",
+    "narration": "Usually, you copy-paste candidate profiles from your ATS to an AI for analysis. It is tedious work.",
+    "on_screen": "No more manual copy-paste",
+    "visual_type": "compare",
+    "url": "https://zapier.com/blog/blue-castle-agency-zapier-mcp",
+    "query": "none",
+    "headline": "Stop switching tabs",
+    "steps": [],
+    "items": [],
+    "left_label": "Manual way",
+    "right_label": "Automated way",
+    "rows": [
+     {
+      "left": "Open ATS",
+      "right": "Claude reads ATS"
+     },
+     {
+      "left": "Copy text",
+      "right": "Claude analyzes data"
+     },
+     {
+      "left": "Paste to AI",
+      "right": "Work happens itself"
+     }
+    ]
+   },
+   {
+    "purpose": "Solution",
+    "narration": "Zapier MCP allows Claude to search and update your tools directly, like your spreadsheets or tracking software.",
+    "on_screen": "Claude talks to your apps",
+    "visual_type": "diagram",
+    "url": "https://zapier.com/blog/blue-castle-agency-zapier-mcp",
+    "query": "none",
+    "headline": "How it connects",
+    "steps": [
+     "Zapier MCP bridge",
+     "Claude accesses tools",
+     "Data updates itself"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Result",
+    "narration": "By letting Claude handle sourcing and quality checks, their candidate approval rate jumped to 94 percent.",
+    "on_screen": "94% approval rate",
+    "visual_type": "checklist",
+    "url": "https://zapier.com/blog/blue-castle-agency-zapier-mcp",
+    "query": "none",
+    "headline": "Better quality output",
+    "steps": [],
+    "items": [
+     "Automated sourcing",
+     "Double-check quality",
+     "Higher approval rates"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Takeaway",
+    "narration": "Start by identifying where your team repeats the same data entry. Move those steps into a Zap.",
+    "on_screen": "Automate your repetitive steps",
+    "visual_type": "text",
+    "url": "https://zapier.com/blog/blue-castle-agency-zapier-mcp",
+    "query": "none",
+    "headline": "Your next step",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "Stop wasting time copying client data between your CRM and AI tools. Zapier MCP allows Claude to directly search your spreadsheets and ATS, meaning you don't need custom integrations for every single software. One recruitment agency used this to save over 240 hours of admin work every week while actually increasing their candidate approval rate to 94%. Automation works best when you give the AI context to your specific business data, rather than just using it for drafting emails. What manual admin task in your business takes up the most time every morning? #automation #businessgrowth #zapier #ai #smallbusiness",
+  "hashtags": [
+   "#automation",
+   "#businessgrowth",
+   "#zapier",
+   "#ai",
+   "#smallbusiness"
+  ],
+  "keywords": [
+   "Zapier MCP",
+   "Claude AI",
+   "business automation",
+   "hiring agency",
+   "save time"
+  ],
+  "claims": [
+   {
+    "claim": "Blue Castle Agency saves 240+ hours per week using sourcing and quality-control automations.",
+    "source_id": 64
+   },
+   {
+    "claim": "Claude's candidate approvals are approved about 94 percent of the time compared to human sourcers at 78 to 83 percent.",
+    "source_id": 64
+   },
+   {
+    "claim": "Zapier MCP allows Claude to search and update business tools without custom integrations for each one.",
+    "source_id": 64
+   }
+  ]
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 7,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "Blue Castle Agency saves 240+ hours per week using sourcing and quality-control automations.",
+    "supported": true
+   },
+   {
+    "claim": "Claude's candidate approvals are approved about 94 percent of the time compared to human sourcers at 78 to 83 percent.",
+    "supported": true
+   },
+   {
+    "claim": "Zapier MCP allows Claude to search and update business tools without custom integrations for each one.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Scene 1: The subtitle text 'hours a week by connecting Claude' is slightly cut off at the bottom of the frame.",
+   "Scene 2: The subtitle text 'for analysis.' is slightly cut off at the bottom of the frame.",
+   "Scene 3: The subtitle text 'like your spreadsheets or tracking software.' is slightly cut off at the bottom of the frame.",
+   "Scene 4: The subtitle text 'their candidate approval rate jumped' is slightly cut off at the bottom of the frame.",
+   "Scene 5: The subtitle text 'Move those steps into a Zap.' is slightly cut off at the bottom of the frame."
+  ],
+  "issues": [
+   "The subtitle placement is consistently too low, causing the bottom of the text to be clipped by the UI safe zone.",
+   "The 'Work happens itself' row in Scene 2 is slightly awkward phrasing; 'Work happens automatically' would be more professional."
+  ],
+  "fix_instructions": "Shift all subtitle boxes up by 20-30 pixels to ensure they remain within the safe zone and are not clipped. In Scene 2, change the text 'Work happens itself' to 'Work happens automatically' for better flow. Otherwise, the content is strong and ready for publication."
+ },
+ "rules": [],
+ "reasons": [
+  "originality 7/10 (<8)",
+  "practical_value 7/10 (<8)"
+ ],
+ "meta": {
+  "duration": 42.6,
+  "voice": "edge",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-24/R2-2026-10-24/try3/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-24/R2-2026-10-24/try3/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-24/R2-2026-10-24/try3/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-24/R2-2026-10-24/try3/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-24/R2-2026-10-24/try3/scene_05.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   7.62,
+   9.09,
+   9.18,
+   8.29,
+   8.46
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-10-24/R2-2026-10-24/try3",
+ "attempt": 3,
+ "approved": false,
+ "hook": "Recruitment agencies are saving 240 hours a week by connecting Claude to their database.",
+ "log": [
+  "attempt 1: fail {'hook': 8, 'originality': 7, 'practical_value': 6, 'natural_language': 8, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 7, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 6} ['originality 7/10 (<8)', 'practical_value 6/10 (<8)', 'narrative 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+  "attempt 2: fail {'hook': 7, 'originality': 7, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 8} ['hook 7/10 (<8)', 'originality 7/10 (<8)', 'practical_value 7/10 (<8)']",
+  "attempt 3: fail {'hook': 8, 'originality': 7, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['originality 7/10 (<8)', 'practical_value 7/10 (<8)']"
+ ],
+ "id": "R2-2026-10-24",
+ "caption_final": "Stop wasting time copying client data between your CRM and AI tools. Zapier MCP allows Claude to directly search your spreadsheets and ATS, meaning you don't need custom integrations for every single software. One recruitment agency used this to save over 240 hours of admin work every week while actually increasing their candidate approval rate to 94%. Automation works best when you give the AI context to your specific business data, rather than just using it for drafting emails. What manual admin task in your business takes up the most time every morning?\n\n#automation #businessgrowth #zapier #ai #smallbusiness"
+}

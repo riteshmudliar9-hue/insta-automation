@@ -1,0 +1,222 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Masked credential delegation: Letting AI agents log into vendor portals safely",
+  "angle": "How 1Password's new agent-access feature lets AI automate repetitive supplier and portal logins without exposing your master passwords to staff or bots.",
+  "audience_problem": "Business owners waste hours manually logging into vendor portals to check inventory or dispatch orders because they cannot risk sharing passwords.",
+  "format": "tool_test",
+  "medium": "reel",
+  "source_ids": [
+   6
+  ],
+  "evergreen": true,
+  "keywords": [
+   "1Password",
+   "AI agents",
+   "password security",
+   "vendor portal automation",
+   "SMB security"
+  ],
+  "scores": {
+   "relevance": 8,
+   "novelty": 9,
+   "hook_potential": 8,
+   "retention": 8,
+   "save_share": 8,
+   "feasibility": 8,
+   "evidence": 8
+  },
+  "total": 8.13
+ },
+ "piece": {
+  "hooks": [
+   "Stop typing your supplier portal password into AI chatbots.",
+   "Banks are terrified of AI agents accessing your business accounts.",
+   "You can now let AI agents log in without ever seeing your password."
+  ],
+  "chosen_hook": 2,
+  "hook_reason": "This hook creates immediate urgency by linking a specific business risk (bank security concerns) to the solution being discussed, which is highly relevant to small business owners.",
+  "title": "Secure AI Access with 1Password",
+  "scenes": [
+   {
+    "purpose": "Define the problem of insecure AI agent access.",
+    "narration": "You can now let AI agents log in without ever seeing your password.",
+    "on_screen": "AI Agents + Portal Login",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "No More Credential Sharing",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Compare manual entry vs secure delegation.",
+    "narration": "Sharing passwords with bots is risky. 1Password for Agents creates a bridge so the bot logs in, but stays blind to your actual credentials.",
+    "on_screen": "Manual vs Delegated Access",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "Why Delegating is Safer",
+    "steps": [],
+    "items": [],
+    "left_label": "Manual Sharing",
+    "right_label": "1Password Agents",
+    "rows": [
+     {
+      "left": "Bot sees password",
+      "right": "Bot is blind"
+     },
+     {
+      "left": "Credential stored by bot",
+      "right": "Password stays encrypted"
+     },
+     {
+      "left": "High security risk",
+      "right": "Unique digital key"
+     }
+    ]
+   },
+   {
+    "purpose": "Explain the step-by-step process.",
+    "narration": "When the agent tries to login, a unique key confirms its identity. You get an alert on your phone to approve the specific request.",
+    "on_screen": "Approval Required",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "How It Works",
+    "steps": [],
+    "items": [
+     "Agent attempts login",
+     "Unique key validates identity",
+     "You receive push alert",
+     "You approve access"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "State the limitation of the tool.",
+    "narration": "Remember, this only works for supported agents like ChatGPT Work, Claude Duet, or Grok. It does not replace your need for bank-level security.",
+    "on_screen": "Know the Limits",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Check Your AI Tool",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "Stop handing over your business portal passwords to AI tools. Sharing credentials puts your supplier accounts and bank data at risk if the agent saves that information for later. 1Password for Agents now lets you delegate login tasks without exposing the actual password. The system sends a digital key to confirm the agent's identity, and you approve each login attempt manually. It supports tools like Claude, ChatGPT Work, and Grok. \n\nIf you use AI to track inventory or orders across different vendor portals, this is the safer way to handle access. Are you currently sharing any passwords with AI chatbots to get your work done?\n\n#CyberSecurity #SmallBusinessTech #BusinessAutomation #AI #1Password",
+  "hashtags": [
+   "#CyberSecurity",
+   "#SmallBusinessTech",
+   "#BusinessAutomation",
+   "#AI",
+   "#1Password"
+  ],
+  "keywords": [
+   "AI agent security",
+   "password manager for business",
+   "secure portal access",
+   "1Password for Agents",
+   "business automation tools"
+  ],
+  "claims": [
+   {
+    "claim": "1Password for Agents allows users to let AI log in without the agent seeing credentials.",
+    "source_id": 6
+   },
+   {
+    "claim": "The system works by using a unique digital key and requiring user approval for login attempts.",
+    "source_id": 6
+   },
+   {
+    "claim": "Supported agents include Claude Duet, OpenAI’s Dots, ChatGPT Work, Grok Bot, Meta’s Muse, and Town agents.",
+    "source_id": 6
+   },
+   {
+    "claim": "Banks have begun detecting agentic activity inside user accounts.",
+    "source_id": 6
+   }
+  ]
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "1Password for Agents allows users to let AI log in without the agent seeing credentials.",
+    "supported": true
+   },
+   {
+    "claim": "The system works by using a unique digital key and requiring user approval for login attempts.",
+    "supported": true
+   },
+   {
+    "claim": "Supported agents include Claude Duet, OpenAI’s Dots, ChatGPT Work, Grok Bot, Meta’s Muse, and Town agents.",
+    "supported": true
+   },
+   {
+    "claim": "Banks have begun detecting agentic activity inside user accounts.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Scene 3: The checklist items are all pre-checked with green checkmarks before the narration explains them, which creates a visual disconnect with the 'How It Works' process flow."
+  ],
+  "issues": [
+   "The narration in Scene 4 is cut off mid-sentence ('It does not replace your need') in the visual frame, which feels incomplete.",
+   "The caption is slightly repetitive regarding the 'digital key' explanation already covered in the video."
+  ],
+  "fix_instructions": "In Scene 3, remove the green checkmarks from the list items so they appear as a clean, neutral list. In Scene 4, ensure the full sentence 'It does not replace your need for bank-level security' is visible or spoken in its entirety to avoid an abrupt ending. Otherwise, the content is strong and ready for publication."
+ },
+ "rules": [],
+ "reasons": [],
+ "meta": {
+  "duration": 40.5,
+  "voice": "edge",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-24/R3-2026-10-24/try3/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-24/R3-2026-10-24/try3/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-24/R3-2026-10-24/try3/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-24/R3-2026-10-24/try3/scene_04.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   5.89,
+   12.09,
+   10.38,
+   12.16
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-10-24/R3-2026-10-24/try3",
+ "attempt": 3,
+ "approved": true,
+ "hook": "You can now let AI agents log in without ever seeing your password.",
+ "log": [
+  "attempt 1: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['opening line too long for a 3-second hook', 'originality 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+  "attempt 2: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+  "attempt 3: PASS {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} []"
+ ],
+ "id": "R3-2026-10-24",
+ "caption_final": "Stop handing over your business portal passwords to AI tools. Sharing credentials puts your supplier accounts and bank data at risk if the agent saves that information for later. 1Password for Agents now lets you delegate login tasks without exposing the actual password. The system sends a digital key to confirm the agent's identity, and you approve each login attempt manually. It supports tools like Claude, ChatGPT Work, and Grok. \n\nIf you use AI to track inventory or orders across different vendor portals, this is the safer way to handle access. Are you currently sharing any passwords with AI chatbots to get your work done?\n\n#CyberSecurity #SmallBusinessTech #BusinessAutomation #AI #1Password"
+}

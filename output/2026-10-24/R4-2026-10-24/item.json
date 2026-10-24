@@ -1,0 +1,228 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Answering: Can AI agents work together in a shared group chat to handle quotes?",
+  "angle": "Instead of building complex linear automations, pair two distinct AI agents—one that drafts customer estimates and one that checks inventory limits.",
+  "audience_problem": "Traders get stuck when a single automation flow breaks every time an inquiry has multiple custom specifications or missing line items.",
+  "format": "audience_q",
+  "medium": "reel",
+  "source_ids": [
+   89
+  ],
+  "evergreen": false,
+  "keywords": [
+   "multi-agent systems",
+   "group chat AI",
+   "quote automation",
+   "small business bots",
+   "workflow design"
+  ],
+  "scores": {
+   "relevance": 7,
+   "novelty": 9,
+   "hook_potential": 8,
+   "retention": 8,
+   "save_share": 8,
+   "feasibility": 8,
+   "evidence": 7
+  },
+  "total": 7.76
+ },
+ "piece": {
+  "hooks": [
+   "Most business automation breaks when a request has more than two conditions.",
+   "Stop building long linear workflows for your shop's customer quotes.",
+   "Group chats for AI agents could change how you handle inventory tasks."
+  ],
+  "chosen_hook": 2,
+  "hook_reason": "It addresses the core frustration of linear automation rigidity by introducing a novel concept (group chats for agents) that directly relates to the source material's shift in workflow design.",
+  "title": "Using AI agent group chats for quotes",
+  "scenes": [
+   {
+    "purpose": "Identify the problem",
+    "narration": "Group chats for AI agents could change how you handle inventory tasks.",
+    "on_screen": "New way to manage tasks",
+    "visual_type": "text",
+    "url": "https://www.reddit.com/r/automation/comments/1xd7q95/a_novel_approach_to_ai_automation/",
+    "query": "",
+    "headline": "Stop linear workflows",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Explain the current constraint",
+    "narration": "Most automations today are linear. A tool does one step, then passes it to the next. If one piece is missing, the flow fails.",
+    "on_screen": "Linear flows break easily",
+    "visual_type": "diagram",
+    "url": "https://www.reddit.com/r/automation/comments/1xd7q95/a_novel_approach_to_ai_automation/",
+    "query": "",
+    "headline": "The linear bottleneck",
+    "steps": [
+     "Customer inquiry",
+     "Agent 1: Price",
+     "Agent 2: Stock check",
+     "Final quote output"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Introduce the new approach",
+    "narration": "A better way is to group specialized agents in a chat. You give them a task, and they collaborate to complete it together.",
+    "on_screen": "Agents collaborate in chat",
+    "visual_type": "diagram",
+    "url": "https://www.reddit.com/r/automation/comments/1xd7q95/a_novel_approach_to_ai_automation/",
+    "query": "",
+    "headline": "Agents working together",
+    "steps": [
+     "Grouped agents",
+     "Task assigned",
+     "Collaborative response"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Provide a concrete scenario",
+    "narration": "Say you run a hardware shop. You invite a pricing agent and an inventory agent into a single chat. They check stock and quotes simultaneously.",
+    "on_screen": "Real-time task coordination",
+    "visual_type": "compare",
+    "url": "https://www.reddit.com/r/automation/comments/1xd7q95/a_novel_approach_to_ai_automation/",
+    "query": "",
+    "headline": "Agents in action",
+    "steps": [],
+    "items": [],
+    "left_label": "Old linear way",
+    "right_label": "Agent group chat",
+    "rows": [
+     {
+      "left": "Fixed sequence",
+      "right": "Collaborative discussion"
+     },
+     {
+      "left": "Breaks on errors",
+      "right": "Agents resolve gaps"
+     }
+    ]
+   },
+   {
+    "purpose": "The final takeaway/limitation",
+    "narration": "This is a new approach. It is not fully mainstream yet. Look for tools that let you group agents for a single prompt.",
+    "on_screen": "Watch for new tools",
+    "visual_type": "checklist",
+    "url": "https://www.reddit.com/r/automation/comments/1xd7q95/a_novel_approach_to_ai_automation/",
+    "query": "",
+    "headline": "Next steps",
+    "steps": [],
+    "items": [
+     "Research agent group tools",
+     "Test with simple tasks",
+     "Check for data limits"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "Stop wasting time on linear automation flows that crash the moment a customer request gets complicated. Most workflows require a rigid step-by-step process, but specialized AI agents can now work in collaborative groups. By using a shared chat, agents handle pricing and inventory checks as a team rather than a line. This is an emerging approach, so keep your initial tests simple before moving your full order desk over. Have you tried using multiple AI agents for one task yet? #BusinessAutomation #AItools #SmallBusinessIndia #WorkflowOptimization",
+  "hashtags": [
+   "#BusinessAutomation",
+   "#AItools",
+   "#SmallBusinessIndia",
+   "#WorkflowOptimization"
+  ],
+  "keywords": [
+   "AI automation",
+   "business workflows",
+   "agent collaboration",
+   "inventory management",
+   "customer quotes"
+  ],
+  "claims": [
+   {
+    "claim": "Current automations are mostly linear, where agents are used for specific, singular steps.",
+    "source_id": 89
+   },
+   {
+    "claim": "There is a new approach being developed that allows users to group different AI agents and give them a task to complete together.",
+    "source_id": 89
+   }
+  ]
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 8,
+   "practical_value": 6,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 7
+  },
+  "claims": [
+   {
+    "claim": "Current automations are mostly linear, where agents are used for specific, singular steps.",
+    "supported": true
+   },
+   {
+    "claim": "There is a new approach being developed that allows users to group different AI agents and give them a task to complete together.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Scene 4: The comparison table is slightly cramped; ensure the text size remains legible on smaller mobile devices.",
+   "Scene 5: The checklist items appear with checkmarks already filled in before the narration finishes; consider animating them to appear as they are mentioned."
+  ],
+  "issues": [
+   "The content is highly conceptual and lacks a specific tool recommendation or a 'how-to' for the Indian SMB owner to actually implement this today.",
+   "The transition from 'linear' to 'group chat' is clear, but the 'how' remains abstract."
+  ],
+  "fix_instructions": "The content is strong but needs more grounding. Add a specific, actionable tip or mention one accessible platform (like a multi-agent framework or a specific AI tool) that allows this 'group chat' functionality so the viewer isn't left wondering where to start. Adjust the animation in Scene 5 so the checkmarks appear sequentially with the voiceover. Ensure the comparison table in Scene 4 has enough padding to avoid looking cluttered."
+ },
+ "rules": [],
+ "reasons": [
+  "practical_value 6/10 (<8)"
+ ],
+ "meta": {
+  "duration": 49.1,
+  "voice": "edge",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-24/R4-2026-10-24/try1/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-24/R4-2026-10-24/try1/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-24/R4-2026-10-24/try1/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-24/R4-2026-10-24/try1/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-24/R4-2026-10-24/try1/scene_05.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   5.97,
+   11.08,
+   9.54,
+   12.59,
+   9.97
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-10-24/R4-2026-10-24/try1",
+ "attempt": 1,
+ "approved": false,
+ "hook": "Group chats for AI agents could change how you handle inventory tasks.",
+ "log": [
+  "attempt 1: fail {'hook': 8, 'originality': 8, 'practical_value': 6, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['practical_value 6/10 (<8)']",
+  "attempt 2: fail {'hook': 8, 'originality': 7, 'practical_value': 6, 'natural_language': 8, 'accuracy': 7, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 6} ['originality 7/10 (<8)', 'practical_value 6/10 (<8)', 'accuracy 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+  "attempt 3: fail {'hook': 8, 'originality': 7, 'practical_value': 6, 'natural_language': 8, 'accuracy': 8, 'narrative': 7, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 6} ['originality 7/10 (<8)', 'practical_value 6/10 (<8)', 'narrative 7/10 (<8)', 'visual_integrity 7/10 (<8)']"
+ ],
+ "id": "R4-2026-10-24",
+ "caption_final": "Stop wasting time on linear automation flows that crash the moment a customer request gets complicated. Most workflows require a rigid step-by-step process, but specialized AI agents can now work in collaborative groups. By using a shared chat, agents handle pricing and inventory checks as a team rather than a line. This is an emerging approach, so keep your initial tests simple before moving your full order desk over. Have you tried using multiple AI agents for one task yet?\n\n#BusinessAutomation #AItools #SmallBusinessIndia #WorkflowOptimization"
+}
