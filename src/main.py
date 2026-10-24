@@ -62,10 +62,22 @@ def produce():
     _cleanup()
     results, summary = pipeline.produce(config.MAX_REELS, config.MAX_CAROUSELS)
     queued = publisher.enqueue(results, started)
-    slots = {e["id"]: e["slot"][-5:] for e in queued}
+    try:
+        import presenter
+        planned = {e["id"] for e in presenter.plan(results, queued)}
+    except Exception as ex:
+        planned = set()
+        print("[presenter] planning failed:", ex)
+    ids = {e["id"] for e in queued}
+    slots = {e["id"]: e["slot"][-5:] for e in publisher.load() if e["id"] in ids}
+    for r in results:
+        if r["id"] in planned:
+            r["arjun"] = True
     for r in results:
         if r["id"] in slots:
             r["slot_info"] = f"Scheduled {slots[r['id']]} IST — reply 'stop {r['id'].split('-')[0]}' to cancel"
+            if r.get("arjun"):
+                r["slot_info"] += " (Arjun version replaces this once his clips arrive)"
     _send_previews(results, "TODAY")
     ok = sum(r["approved"] for r in results)
     telegram.send_text(f"Production {summary['date']}: {len(results)} made, {ok} approved and scheduled, "
