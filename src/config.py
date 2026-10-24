@@ -18,6 +18,12 @@ MAX_CAROUSELS = int(os.environ.get("MAX_CAROUSELS", "4"))
 CAROUSEL_SLOTS = ["08:30", "12:30", "16:30", "20:30"]
 REEL_SLOTS = ["10:00", "14:00", "18:30", "21:30"]
 
+# AI presenter "Arjun" (clips made by the owner in the Gemini app and sent back through Telegram)
+PRESENTER_REELS = int(os.environ.get("PRESENTER_REELS", "2"))   # Arjun Reels per day (2 Pro accounts ≈ 6 clips)
+PRESENTER_TAKES = 3                                              # 8-second clips per Arjun Reel
+PRESENTER_GRACE_MIN = 60                                         # wait this long after the slot for missing clips
+PRESENTER_PHOTO_DIR = os.path.join(ROOT, "library", "presenter")
+
 # Quality gate
 CRITICAL = ["hook", "originality", "practical_value", "natural_language", "accuracy",
             "narrative", "visual_integrity"]
