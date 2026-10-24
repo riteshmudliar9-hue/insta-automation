@@ -27,12 +27,14 @@ def _post(model, body, timeout=120):
                          headers={"x-goog-api-key": KEY(), "Content-Type": "application/json"})
 
 
-def generate_json(prompt, schema=None, images=None, temperature=0.8, rounds=3):
-    """Returns parsed JSON. images = list of JPEG/PNG bytes for multimodal review."""
+def generate_json(prompt, schema=None, images=None, temperature=0.8, rounds=3, audio=None):
+    """Returns parsed JSON. images = list of JPEG/PNG bytes; audio = list of WAV bytes."""
     parts = [{"text": prompt}]
     for img in images or []:
         mime = "image/png" if img[:4] == b"\x89PNG" else "image/jpeg"
         parts.append({"inline_data": {"mime_type": mime, "data": base64.b64encode(img).decode()}})
+    for a in audio or []:
+        parts.append({"inline_data": {"mime_type": "audio/wav", "data": base64.b64encode(a).decode()}})
     cfg = {"responseMimeType": "application/json", "temperature": temperature}
     if schema:
         cfg["responseSchema"] = schema
