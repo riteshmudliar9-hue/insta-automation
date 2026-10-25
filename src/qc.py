@@ -112,7 +112,7 @@ def rule_checks(piece, kind, source_urls, n_sources):
             probs.append(f"total narration {total} words (want 40-85, i.e. 15-35 s)")
         for i, s in enumerate(sc, 1):
             n = len(s.get("narration", "").split())
-            if n < 3 or n > 24:
+            if n < 3 or n > 18:
                 probs.append(f"scene {i} narration {n} words (want 4-14)")
             if len(s.get("on_screen", "").split()) > 7:
                 probs.append(f"scene {i} on-screen text too long")
@@ -187,6 +187,8 @@ def verdict(rules, rev, render_meta=None):
         reasons.append("unsupported claims: " + "; ".join(bad[:3]))
     if rev.get("spelling_errors"):
         reasons.append("spelling: " + "; ".join(rev["spelling_errors"][:3]))
+    if render_meta and render_meta.get("duration", 0) > 45:
+        reasons.append(f"reel is {render_meta['duration']} s long (max 45 s; aim for 15-35 s)")
     if render_meta and render_meta.get("fallback_visuals", 0) > 1:
         reasons.append(f"{render_meta['fallback_visuals']} scenes lost their real visual (screenshot/photo failed)")
     return (len(reasons) == 0), reasons
