@@ -317,6 +317,26 @@ def _handle_badge():
     return img
 
 
+def _title_card(text):
+    """Big white hook title shown at the top during the first seconds of the Reel."""
+    text = (text or "").strip()
+    if not text:
+        return None
+    img = Image.new("RGBA", (RW, 330), (0, 0, 0, 0))
+    d = ImageDraw.Draw(img)
+    f, lines, lh = D.fit(d, text, "Bold", RW - 200, 230, 76, 48, 1.15)
+    tw = max(d.textlength(l, font=f) for l in lines)
+    h = lh * len(lines)
+    x0 = (RW - tw) / 2
+    d.rounded_rectangle((x0 - 36, 30, x0 + tw + 36, 30 + h + 40), radius=28, fill=(255, 255, 255, 240))
+    y = 48
+    for l in lines:
+        d.text(((RW - d.textlength(l, font=f)) / 2, y), l, font=f, fill=D.INK)
+        y += lh
+    d.rectangle(((RW - 90) / 2, 30 + h + 40 - 12, (RW + 90) / 2, 30 + h + 40 - 4), fill=D.ACCENT)
+    return img
+
+
 def _split_panel(scene, dur):
     """A Scene object for the top half (diagram/checklist/compare from the original script)."""
     return reel.Scene(scene, dur, [])
@@ -378,9 +398,11 @@ def compose(e):
                             "-movflags", "+faststart", out_path], stdin=subprocess.PIPE)
     previews = []
     scenes = pres.get("scenes", [])
+    title = _title_card((scenes[0].get("on_screen") if scenes else "") or "")
     for i, (t, clip, d, (s0, s1), text) in enumerate(zip(takes, clips, durs, spans, lines)):
         subs = [(a + s0, b + s0, img) for a, b, img in reel.timed_subs(text, max(0.5, s1 - s0))]
-        split = 0 <= t["visual_scene"] < len(scenes)
+        split = config.PRESENTER_STYLE == "split" and 0 <= t["visual_scene"] < len(scenes)
+        zoom = 1.12 if i % 2 else 1.0                      # alternate punch-in so cuts between clips feel intentional
         panel = _split_panel(scenes[t["visual_scene"]], d) if split else None
         n_frames = int(round(d * FPS))
         k = 0
@@ -396,8 +418,14 @@ def compose(e):
                 p = panel.panel(tt).resize((848, 760), Image.LANCZOS)
                 D.rounded_paste(canvas, p, ((RW - 848) // 2, 150), 30)
                 img = canvas
+            elif zoom != 1.0:
+                w, h = int(RW / zoom), int(RH / zoom)
+                x0, y0 = (RW - w) // 2, int((RH - h) * 0.35)    # keep his face in frame while zooming
+                img = fr.crop((x0, y0, x0 + w, y0 + h)).resize((RW, RH), Image.LANCZOS)
             else:
                 img = fr.copy()
+            if i == 0 and title is not None and tt < 2.6:     # big hook title for the first seconds
+                img.paste(title, (0, 150), title)
             img.paste(badge, (40, 60), badge)
             img.paste(tag, (RW - 340, 60), tag)
             sub_y = 880 if split else reel.SUB_Y - 80      # split screen: captions sit between graphic and face
