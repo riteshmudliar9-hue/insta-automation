@@ -302,9 +302,14 @@
    "brand_consistency": 9,
    "publish_readiness": 8
   },
-  "status": "queued",
+  "status": "published",
   "produced_at": 1792887356,
-  "log": []
+  "log": [
+   "2026-10-25T08:49:23.309110+05:30 published https://www.instagram.com/p/De5uiFGDXXR/"
+  ],
+  "media_id": "18119016835995041",
+  "permalink": "https://www.instagram.com/p/De5uiFGDXXR/",
+  "published_at": "2026-10-25T08:49:23.309110+05:30"
  },
  {
   "id": "C4-2026-10-25",
