@@ -31,6 +31,9 @@ jobs:
           (sudo apt-get update -qq && sudo apt-get install -y -qq fonts-inter) >/dev/null 2>&1 || echo "fonts-inter not available; using Poppins"
           pip install -q -r requirements.txt
       - run: python src/main.py publish-due
+      - name: Comment-to-DM
+        continue-on-error: true
+        run: python src/main.py engage
       - name: Save results to repo
         if: always()
         run: |
