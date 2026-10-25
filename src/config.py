@@ -40,8 +40,9 @@ GEMINI_TTS_MODELS = ["gemini-3.8-flash-tts", "gemini-3.1-flash-tts-preview"]
 GEMINI_VOICE = os.environ.get("GEMINI_VOICE", "Charon")
 VOICE_STYLE = ("Read this in natural Hinglish (Hindi-English mix, written in Roman script) like a confident young "
                "Indian creator explaining something useful to a business owner. Natural Indian accent, energetic but "
-               "not shouty, conversational pace, no announcer tone. Text: ")
+               "not shouty, brisk Reels pace (about 170 words per minute), no long pauses, no announcer tone. Text: ")
 REEL_LANGUAGE = "hinglish"
+TARGET_REEL_SECONDS = 34      # Reels longer than this get a faster voice (up to 1.4x); over 45 s fails the gate
 EDGE_VOICE = "en-IN-PrabhatNeural"
 
 TEXT_MODELS = [m for m in [os.environ.get("GEMINI_MODEL")] if m] + [
