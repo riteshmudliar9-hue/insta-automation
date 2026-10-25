@@ -43,7 +43,8 @@ def make_one(kind, idea, items, folder, recent_hooks):
     urls = [items[i]["link"] for i in idea["source_ids"]]
     feedback, log = "", []
     best = None
-    for attempt in range(1, config.MAX_ATTEMPTS + 1):
+    tries = config.MAX_ATTEMPTS_REEL if kind == "reel" else config.MAX_ATTEMPTS
+    for attempt in range(1, tries + 1):
         try:
             piece = (writer.write_reel if kind == "reel" else writer.write_carousel)(
                 idea, items, recent_hooks, feedback)
