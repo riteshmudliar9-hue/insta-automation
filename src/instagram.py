@@ -106,3 +106,23 @@ def refresh_token():
         raise RuntimeError(f"refresh failed {r.status_code}: {r.text}")
     j = r.json()
     return j["access_token"], j.get("expires_in")
+
+
+# ---------------- comments + private replies (comment-to-DM) ----------------
+def media_comments(mid, limit=50):
+    """Top-level comments on a post. Needs the instagram_business_manage_comments permission."""
+    return _get(f"{mid}/comments", {"fields": "id,text,timestamp,from,username", "limit": limit}).get("data", [])
+
+
+def reply_comment(comment_id, text):
+    return _post(f"{comment_id}/replies", {"message": text})
+
+
+def private_reply(comment_id, text):
+    """One DM to the person who wrote the comment (allowed once per comment, within 7 days).
+    Needs the instagram_business_manage_messages permission."""
+    r = requests.post(f"{GRAPH}/{IG_USER_ID}/messages", headers={**_h(), "Content-Type": "application/json"},
+                      json={"recipient": {"comment_id": comment_id}, "message": {"text": text[:1000]}}, timeout=60)
+    if r.status_code >= 400:
+        raise RuntimeError(f"IG messages -> {r.status_code}: {r.text[:300]}")
+    return r.json()
