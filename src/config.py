@@ -20,9 +20,10 @@ REEL_SLOTS = ["13:00", "19:00", "21:30", "10:00"]           # Indian peak hours;
 
 # AI presenter "Arjun" (clips made by the owner in the Gemini app and sent back through Telegram)
 PRESENTER_REELS = int(os.environ.get("PRESENTER_REELS", "2"))   # Arjun Reels per day (2 Pro accounts ≈ 6 clips)
-PRESENTER_SLOTS = ["19:00", "21:30"]                             # Arjun Reels post in the evening peak
+PRESENTER_SLOTS = ["21:00", "22:00"]                             # Arjun Reels post in the late-evening peak
+PRESENTER_PROMPT_TIME = "19:00"                                  # Telegram prompts go out at 7 PM IST
 PRESENTER_TAKES = 3                                              # 8-second clips per Arjun Reel
-PRESENTER_GRACE_MIN = 60                                         # wait this long after the slot for missing clips
+PRESENTER_GRACE_MIN = 30                                         # wait this long after the slot for missing clips
 PRESENTER_PHOTO_DIR = os.path.join(ROOT, "library", "presenter")
 
 # Quality gate
