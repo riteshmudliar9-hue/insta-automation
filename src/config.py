@@ -15,11 +15,12 @@ MAX_REELS = int(os.environ.get("MAX_REELS", "4"))
 MAX_CAROUSELS = int(os.environ.get("MAX_CAROUSELS", "4"))
 
 # Publishing slots (IST, 24h). Items are queued into the earliest free slots by quality score.
-CAROUSEL_SLOTS = ["08:30", "12:30", "16:30", "20:30"]
-REEL_SLOTS = ["10:00", "14:00", "18:30", "21:30"]
+CAROUSEL_SLOTS = ["09:00", "17:00", "12:00", "20:00"]      # first slots are used first
+REEL_SLOTS = ["13:00", "19:00", "21:30", "10:00"]           # Indian peak hours; Arjun Reels take the evening ones
 
 # AI presenter "Arjun" (clips made by the owner in the Gemini app and sent back through Telegram)
 PRESENTER_REELS = int(os.environ.get("PRESENTER_REELS", "2"))   # Arjun Reels per day (2 Pro accounts ≈ 6 clips)
+PRESENTER_SLOTS = ["19:00", "21:30"]                             # Arjun Reels post in the evening peak
 PRESENTER_TAKES = 3                                              # 8-second clips per Arjun Reel
 PRESENTER_GRACE_MIN = 60                                         # wait this long after the slot for missing clips
 PRESENTER_PHOTO_DIR = os.path.join(ROOT, "library", "presenter")
@@ -30,14 +31,17 @@ CRITICAL = ["hook", "originality", "practical_value", "natural_language", "accur
 OTHER = ["pacing", "brand_consistency", "publish_readiness"]
 MIN_CRITICAL = 8
 MIN_OTHER = 7
+MAX_ATTEMPTS_REEL = 4     # Reels matter most for reach: one extra rewrite
 MAX_ATTEMPTS = 3          # generate → check → regenerate with feedback; after this it becomes a draft
 DUP_THRESHOLD = 0.45      # keyword similarity to any item in the last 60 days that counts as a repeat
 
 # Voice: Gemini TTS first (natural), edge-tts as fallback
 GEMINI_TTS_MODELS = ["gemini-3.8-flash-tts", "gemini-3.1-flash-tts-preview"]
 GEMINI_VOICE = os.environ.get("GEMINI_VOICE", "Charon")
-VOICE_STYLE = ("Read this like a calm, knowledgeable Indian friend explaining something useful over chai. "
-               "Natural Indian English accent, conversational pace, slight warmth, no announcer tone. Text: ")
+VOICE_STYLE = ("Read this in natural Hinglish (Hindi-English mix, written in Roman script) like a confident young "
+               "Indian creator explaining something useful to a business owner. Natural Indian accent, energetic but "
+               "not shouty, conversational pace, no announcer tone. Text: ")
+REEL_LANGUAGE = "hinglish"
 EDGE_VOICE = "en-IN-PrabhatNeural"
 
 TEXT_MODELS = [m for m in [os.environ.get("GEMINI_MODEL")] if m] + [
