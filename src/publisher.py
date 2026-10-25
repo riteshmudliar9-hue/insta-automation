@@ -40,7 +40,9 @@ def enqueue(results, produced_at):
             e = {"id": r["id"], "kind": kind, "date": date, "slot": f"{date}T{slot}", "dir": rel, "files": files,
                  "caption": r["caption_final"], "topic": r["idea"]["idea"], "format": r["idea"]["format"],
                  "hook": r["hook"], "keywords": r["piece"].get("keywords", []), "scores": r["review"]["scores"],
-                 "status": "queued", "produced_at": produced_at, "log": []}
+                 "status": "queued", "produced_at": produced_at, "log": [],
+                 "dm_keyword": (r["piece"].get("dm_keyword") or "").strip().upper(),
+                 "dm_text": (r["piece"].get("dm_text") or "").strip()}
             q.append(e)
             out.append(e)
             history.add({"id": e["id"], "date": date, "kind": kind, "format": e["format"], "topic": e["topic"],
