@@ -161,7 +161,8 @@ def _send_prompts(planned):
         "For each prompt message below:\n"
         "1. Open Gemini, attach Arjun's photo (file below), choose Video, portrait 9:16.\n"
         "2. Copy the prompt (long-press the message > Copy) and generate.\n"
-        "3. Download the video, then REPLY to that prompt message with the video.\n\n"
+        "3. Download the video, then REPLY to that prompt message with the video.\n"
+        "   (If you forget to reply, send the clips in order: R first, clip 1, 2, 3. The bot fills them in order.)\n\n"
         f"Clips needed by each Reel's time. If a Reel is missing clips {config.PRESENTER_GRACE_MIN} min after its "
         "time, the normal version is posted instead.")
     try:
@@ -196,10 +197,12 @@ def collect(q, today):
         print("[presenter] telegram read failed:", ex)
         return False
     by_msg = {t["msg_id"]: (e, t) for e in waiting for t in e["presenter"]["takes"] if t.get("msg_id")}
+    seen = {t.get("got_msg") for x in q if x.get("presenter") for t in x["presenter"]["takes"] if t.get("got_msg")}
+    seen |= {i for x in q if x.get("presenter") for i in x["presenter"].get("seen", [])}
     changed = False
     for m in sorted(msgs, key=lambda x: x.get("message_id", 0)):
         v = _video_of(m)
-        if not v:
+        if not v or m.get("message_id") in seen:
             continue
         target = by_msg.get((m.get("reply_to_message") or {}).get("message_id"))
         if not target:                                   # fallback: caption like "R1 2" or "r1 clip 2"
@@ -210,6 +213,16 @@ def collect(q, today):
                         for t in e["presenter"]["takes"]:
                             if t["n"] == int(mm.group(2)):
                                 target = (e, t)
+        if not target:                                   # fallback: plain video (no reply/caption) → next missing clip
+            sent_at = min((x["presenter"].get("prompts_sent_at") or 0) for x in waiting)
+            if sent_at and m.get("date", 0) >= sent_at:
+                for e in sorted(waiting, key=lambda x: x["slot"]):
+                    for t in e["presenter"]["takes"]:
+                        if not t.get("file") and not t.get("got_msg"):
+                            target = (e, t)
+                            break
+                    if target:
+                        break
         if not target:
             continue
         e, t = target
@@ -218,7 +231,8 @@ def collect(q, today):
         if (v.get("file_size") or 0) > 20_000_000:
             telegram.send_text(f"{_short(e)} clip {t['n']}: that file is over 20 MB, which Telegram bots can't "
                                "download. Please send it again as a normal video (not as a file).")
-            t["got_msg"] = m["message_id"]
+            seen.add(m["message_id"])
+            e["presenter"].setdefault("seen", []).append(m["message_id"])
             changed = True
             continue
         dest = os.path.join(config.ROOT, os.path.dirname(e["dir"]), "arjun", f"clip{t['n']}_{m['message_id']}.mp4")
@@ -229,6 +243,7 @@ def collect(q, today):
             continue
         t["file"] = os.path.relpath(dest, config.ROOT)
         t["got_msg"] = m["message_id"]
+        seen.add(m["message_id"])
         changed = True
         have = sum(1 for x in e["presenter"]["takes"] if x.get("file"))
         need = len(e["presenter"]["takes"])
@@ -439,6 +454,7 @@ def process(q, today):
             _send_prompts(due)
             for e in due:
                 e["presenter"]["prompts_sent"] = True
+                e["presenter"]["prompts_sent_at"] = int(dt.datetime.now(IST).timestamp())
         except Exception as ex:
             print("[presenter] could not send prompts:", ex)
         changed = True
