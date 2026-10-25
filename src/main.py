@@ -145,52 +145,58 @@ def refresh_token():
     print(f"Token refreshed; valid for {int(expires or 0) // 86400} days.")
 
 
-TEST_LINE = ("Agar aap abhi bhi har customer ko payment reminder khud bhejte ho, "
-             "toh ye Reel aapke liye hai.")
+def _test_state_path():
+    return os.path.join(config.DATA, "arjun_test.json")
 
 
 def arjun_test_send():
-    """Sends ONE test prompt (nothing is posted). The owner replies to it with the Gemini video."""
+    """Designs a full Arjun Reel from the latest approved Reel and sends all shot prompts now (never posts)."""
+    import glob
     import presenter
-    import telegram
-    telegram.send_text(
-        "ARJUN TEST CLIP (only a test, nothing will be posted)\n\n"
-        "STEP 1: Save Arjun's photo (next message) to your phone or PC.\n"
-        "STEP 2: Open gemini.google.com (or the Gemini app), Pro account.\n"
-        "STEP 3: Tap + and attach Arjun's photo.\n"
-        "STEP 4: Choose 'Video' (Veo). If it asks for a format, choose portrait / 9:16.\n"
-        "STEP 5: Copy the whole prompt from the third message (long-press > Copy) and paste it in Gemini. Send.\n"
-        "STEP 6: Wait 1-2 minutes, play it once, then download the video.\n"
-        "STEP 7: Come back here, long-press the PROMPT message > Reply, attach the video and send.")
-    telegram.send_photo(presenter.photo_path(), "Arjun's photo: attach this in Gemini.")
-    mid = telegram.send_text("TEST CLIP · reply to this message with the video\n\n" + presenter.veo_prompt(TEST_LINE, 1))
-    with open(os.path.join(config.DATA, "arjun_test.json"), "w", encoding="utf-8") as f:
-        json.dump({"msg_id": mid, "line": TEST_LINE, "sent_at": int(time.time())}, f)
-    print("test prompt sent, message", mid)
+    items = []
+    for p in sorted(glob.glob(os.path.join(config.OUT, "*", "R*", "item.json"))):
+        with open(p, encoding="utf-8") as f:
+            it = json.load(f)
+        if it.get("approved") and it.get("piece", {}).get("scenes"):
+            items.append(it)
+    if not items:
+        raise SystemExit("no approved Reel found to base the test on")
+    it = items[-1]
+    takes, hook_title, cta = presenter._adapt(it["piece"], it.get("material") or "")
+    today = dt.datetime.now(IST).strftime("%Y-%m-%d")
+    e = {"id": "T1-test", "kind": "reel", "date": today, "slot": f"{today}T23:59", "status": "queued",
+         "dir": "output/arjun-test/T1/try1", "caption": it.get("caption_final") or "", "files": ["reel.mp4"],
+         "presenter": {"status": "waiting", "takes": takes, "material": (it.get("material") or "")[:8000],
+                       "scenes": it["piece"]["scenes"], "composed_from": None, "hook_title": hook_title,
+                       "cta": cta, "prompts_sent": True, "prompts_sent_at": int(time.time())},
+         "test": True, "based_on": it.get("id")}
+    presenter._send_prompts([e])
+    with open(_test_state_path(), "w", encoding="utf-8") as f:
+        json.dump(e, f, indent=1, ensure_ascii=False)
+    print("test storyboard sent:", hook_title, "|", [t["kind"] for t in takes])
 
 
 def arjun_test_collect():
+    """Collects the shots the owner sent; when all are in, edits the Reel and sends it to Telegram (never posts)."""
     import presenter
     import telegram
-    path = os.path.join(config.DATA, "arjun_test.json")
-    with open(path, encoding="utf-8") as f:
-        st = json.load(f)
-    msgs = telegram.owner_updates()
-    for m in msgs:
-        print("msg", m.get("message_id"), m.get("date"), "reply_to", (m.get("reply_to_message") or {}).get("message_id"),
-              "keys", [k for k in m if k not in ("from", "chat")])
-    vids = [m for m in msgs if presenter._video_of(m) and m.get("date", 0) >= st["sent_at"]]
-    replies = [m for m in vids if (m.get("reply_to_message") or {}).get("message_id") == st["msg_id"]]
-    for m in (replies or vids[-1:]):        # a reply to the prompt, or else the latest video sent after it
-        v = presenter._video_of(m)
-        if v:
-            dest = os.path.join(config.OUT, "arjun-test", f"clip_{m['message_id']}.mp4")
-            telegram.download(v["file_id"], dest)
-            st["clip"] = os.path.relpath(dest, config.ROOT)
-            telegram.send_text("Got your test clip. Claude will check it now.")
-    with open(path, "w", encoding="utf-8") as f:
-        json.dump(st, f)
-    print("clip:", st.get("clip"))
+    with open(_test_state_path(), encoding="utf-8") as f:
+        e = json.load(f)
+    today = dt.datetime.now(IST).strftime("%Y-%m-%d")
+    e["date"] = today
+    q = [e]
+    presenter.collect(q, today)
+    files = [t.get("file") for t in e["presenter"]["takes"]]
+    print("shots:", files)
+    if all(files) and e["presenter"].get("composed_from") != files:
+        e["presenter"]["composed_from"] = files
+        ok, reasons, meta = presenter.compose(e)
+        e["presenter"]["meta"] = meta
+        msg = ("TEST Arjun Reel (not posted). Quality check: " + ("PASSED" if ok else "held back: " +
+               "; ".join(reasons[:3])))
+        telegram.send_video(os.path.join(config.ROOT, meta["dir"], "reel.mp4"), msg[:1000])
+    with open(_test_state_path(), "w", encoding="utf-8") as f:
+        json.dump(e, f, indent=1, ensure_ascii=False)
 
 
 if __name__ == "__main__":
