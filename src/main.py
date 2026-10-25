@@ -175,9 +175,15 @@ def arjun_test_collect():
     path = os.path.join(config.DATA, "arjun_test.json")
     with open(path, encoding="utf-8") as f:
         st = json.load(f)
-    for m in telegram.owner_updates():
+    msgs = telegram.owner_updates()
+    for m in msgs:
+        print("msg", m.get("message_id"), m.get("date"), "reply_to", (m.get("reply_to_message") or {}).get("message_id"),
+              "keys", [k for k in m if k not in ("from", "chat")])
+    vids = [m for m in msgs if presenter._video_of(m) and m.get("date", 0) >= st["sent_at"]]
+    replies = [m for m in vids if (m.get("reply_to_message") or {}).get("message_id") == st["msg_id"]]
+    for m in (replies or vids[-1:]):        # a reply to the prompt, or else the latest video sent after it
         v = presenter._video_of(m)
-        if v and (m.get("reply_to_message") or {}).get("message_id") == st["msg_id"]:
+        if v:
             dest = os.path.join(config.OUT, "arjun-test", f"clip_{m['message_id']}.mp4")
             telegram.download(v["file_id"], dest)
             st["clip"] = os.path.relpath(dest, config.ROOT)
