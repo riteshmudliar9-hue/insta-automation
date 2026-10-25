@@ -29,10 +29,12 @@ small-business owners. Review this {kind} BEFORE it is published. Be demanding: 
 to compete with the best human creators in this niche; most first drafts should score 5-7.
 
 RUBRIC (score 1-10 each):
-hook: does the first line/scene stop the scroll with a specific promise, problem or surprise?
+hook: does the first line/scene stop the scroll in under 2 seconds with a specific promise, problem or surprise,
+  and does the piece fully pay it off (no clickbait)?
 originality: fresh angle, not generic AI content seen a hundred times?
 practical_value: can the viewer DO something useful after this? specific steps, settings, decisions?
 natural_language: sounds like a real knowledgeable person talking; no AI clichés, filler, hype, robotic lists?
+  (Reels are in Hinglish, Roman script: judge whether it sounds like a natural Indian creator, not translated text.)
 accuracy: every factual statement supported by the SOURCE MATERIAL? (illustrative examples clearly framed are fine)
 narrative: logical flow, each slide/scene adds something new, no redundancy, satisfying ending?
 visual_integrity: in the attached rendered images: readable text, nothing cut off/overlapping, real interfaces
@@ -67,8 +69,8 @@ def _small(path, w=540):
 
 def _texts(piece, kind):
     if kind == "reel":
-        return [piece.get("caption", "")] + [s.get("narration", "") + " " + s.get("on_screen", "")
-                                             for s in piece.get("scenes", [])]
+        return [piece.get("caption", ""), piece.get("dm_text", "")] + [
+            s.get("narration", "") + " " + s.get("on_screen", "") for s in piece.get("scenes", [])]
     out = [piece.get("caption", "")]
     for s in piece.get("slides", []):
         out += [str(v) for k, v in s.items() if isinstance(v, str)]
@@ -103,15 +105,15 @@ def rule_checks(piece, kind, source_urls, n_sources):
         sc = piece.get("scenes", [])
         if not 4 <= len(sc) <= 9:
             probs.append(f"{len(sc)} scenes (want 4-8)")
-        if sc and len(sc[0].get("narration", "").split()) > 18:
-            probs.append("opening line too long for a 3-second hook")
+        if sc and len(sc[0].get("narration", "").split()) > 14:
+            probs.append("opening line too long for a 2-second hook (max 12 words)")
         total = sum(len(s.get("narration", "").split()) for s in sc)
-        if not 45 <= total <= 125:
-            probs.append(f"total narration {total} words (want 55-110, i.e. 22-45 s)")
+        if not 35 <= total <= 95:
+            probs.append(f"total narration {total} words (want 40-85, i.e. 15-35 s)")
         for i, s in enumerate(sc, 1):
             n = len(s.get("narration", "").split())
-            if n < 4 or n > 34:
-                probs.append(f"scene {i} narration {n} words")
+            if n < 3 or n > 24:
+                probs.append(f"scene {i} narration {n} words (want 4-14)")
             if len(s.get("on_screen", "").split()) > 7:
                 probs.append(f"scene {i} on-screen text too long")
             vt = s.get("visual_type")
@@ -123,6 +125,17 @@ def rule_checks(piece, kind, source_urls, n_sources):
                 probs.append(f"scene {i}: compare needs rows")
             if vt == "checklist" and len(s.get("items") or []) < 2:
                 probs.append(f"scene {i}: checklist needs items")
+        kw = (piece.get("dm_keyword") or "").strip()
+        if not re.fullmatch(r"[A-Z0-9]{2,12}", kw):
+            probs.append("dm_keyword must be one short English word in capitals")
+        elif sc and kw.lower() not in (sc[-1].get("narration", "") + " " + piece.get("caption", "")).lower():
+            probs.append(f"the comment hook must use the keyword {kw} in the last scene or caption")
+        dm = piece.get("dm_text") or ""
+        if not 30 <= len(dm.split()) <= 200:
+            probs.append(f"dm_text has {len(dm.split())} words (want 60-150)")
+        for u in re.findall(r"https?://\S+", dm):
+            if not any(u.rstrip(".,)").startswith(src.rstrip("/")) or src.startswith(u.rstrip(".,)")) for src in source_urls):
+                probs.append(f"dm_text link not from the sources: {u[:60]}")
     else:
         sl = piece.get("slides", [])
         if not 4 <= len(sl) <= 9:
