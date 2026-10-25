@@ -349,6 +349,15 @@ def build(script, out_path, preview_dir=None):
     scenes = script["scenes"]
     lines = [s["narration"].strip() for s in scenes]
     wavs, adurs, engine = voice_lines(lines, tmp)
+    total = sum(adurs) + TAIL * len(adurs)
+    if total > config.TARGET_REEL_SECONDS:                 # keep Reels short: speed the voice up (max 1.4x)
+        factor = min(1.4, total / config.TARGET_REEL_SECONDS)
+        fast = []
+        for i, w in enumerate(wavs):
+            out = os.path.join(tmp, f"f{i}.wav")
+            run(["-i", w, "-filter:a", f"atempo={factor:.3f}", "-ar", "44100", "-ac", "1", "-sample_fmt", "s16", out])
+            fast.append(out)
+        wavs, adurs = fast, [_seconds(w) for w in fast]
     durs = [round(a + TAIL, 2) for a in adurs]
     audio = os.path.join(tmp, "voice.wav")
     concat_audio(wavs, durs, audio)
