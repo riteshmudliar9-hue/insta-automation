@@ -145,6 +145,48 @@ def refresh_token():
     print(f"Token refreshed; valid for {int(expires or 0) // 86400} days.")
 
 
+TEST_LINE = ("Agar aap abhi bhi har customer ko payment reminder khud bhejte ho, "
+             "toh ye Reel aapke liye hai.")
+
+
+def arjun_test_send():
+    """Sends ONE test prompt (nothing is posted). The owner replies to it with the Gemini video."""
+    import presenter
+    import telegram
+    telegram.send_text(
+        "ARJUN TEST CLIP (only a test, nothing will be posted)\n\n"
+        "STEP 1: Save Arjun's photo (next message) to your phone or PC.\n"
+        "STEP 2: Open gemini.google.com (or the Gemini app), Pro account.\n"
+        "STEP 3: Tap + and attach Arjun's photo.\n"
+        "STEP 4: Choose 'Video' (Veo). If it asks for a format, choose portrait / 9:16.\n"
+        "STEP 5: Copy the whole prompt from the third message (long-press > Copy) and paste it in Gemini. Send.\n"
+        "STEP 6: Wait 1-2 minutes, play it once, then download the video.\n"
+        "STEP 7: Come back here, long-press the PROMPT message > Reply, attach the video and send.")
+    telegram.send_photo(presenter.photo_path(), "Arjun's photo: attach this in Gemini.")
+    mid = telegram.send_text("TEST CLIP · reply to this message with the video\n\n" + presenter.veo_prompt(TEST_LINE, 1))
+    with open(os.path.join(config.DATA, "arjun_test.json"), "w", encoding="utf-8") as f:
+        json.dump({"msg_id": mid, "line": TEST_LINE, "sent_at": int(time.time())}, f)
+    print("test prompt sent, message", mid)
+
+
+def arjun_test_collect():
+    import presenter
+    import telegram
+    path = os.path.join(config.DATA, "arjun_test.json")
+    with open(path, encoding="utf-8") as f:
+        st = json.load(f)
+    for m in telegram.owner_updates():
+        v = presenter._video_of(m)
+        if v and (m.get("reply_to_message") or {}).get("message_id") == st["msg_id"]:
+            dest = os.path.join(config.OUT, "arjun-test", f"clip_{m['message_id']}.mp4")
+            telegram.download(v["file_id"], dest)
+            st["clip"] = os.path.relpath(dest, config.ROOT)
+            telegram.send_text("Got your test clip. Claude will check it now.")
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(st, f)
+    print("clip:", st.get("clip"))
+
+
 if __name__ == "__main__":
     cmd = sys.argv[1] if len(sys.argv) > 1 else ""
     if cmd == "produce":
@@ -153,6 +195,10 @@ if __name__ == "__main__":
         pilot(int(sys.argv[2]) if len(sys.argv) > 2 else 5)
     elif cmd == "publish-due":
         publish_due()
+    elif cmd == "arjun-test-send":
+        arjun_test_send()
+    elif cmd == "arjun-test-collect":
+        arjun_test_collect()
     elif cmd == "engage":
         import engage
         engage.run()
