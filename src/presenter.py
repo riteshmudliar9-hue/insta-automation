@@ -33,7 +33,8 @@ RW, RH, FPS = reel.RW, reel.RH, reel.FPS
 
 LOOK = ("Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same "
         "as the photo.")
-VOICE = "a calm, warm, confident Indian English male voice at a natural medium pace"
+VOICE = ("a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural "
+         "Indian accent, at a lively but clear pace")
 ACTING = [
     "He looks straight into the camera with a small knowing smile, then speaks with energy, leaning in slightly.",
     "He explains like a friendly expert, with small natural head movements and one light open-hand gesture.",
@@ -48,13 +49,15 @@ TAKES_SCHEMA = {"type": "OBJECT", "properties": {
     "required": ["takes"]}
 
 ADAPT = """You are the head writer for a top Instagram creator who explains practical AI to Indian small-business
-owners. Turn this Reel script into exactly {n} lines spoken to camera by the presenter, Arjun.
+owners. Turn this Reel script into exactly {n} lines spoken to camera by the presenter, Arjun, in natural
+HINGLISH (Roman script), the way a smart young Indian creator talks.
 
 RULES
 - Each line is ONE 8-second clip: 12-19 words, one or two short sentences, easy to say in one breath.
 - Line 1 is the hook: stop the scroll in the first 2 seconds (a specific problem, surprise or strong claim).
 - Middle line(s): the single most useful, concrete point (a step, a setting, a number or a clear rule).
-- Last line: the takeaway the viewer can act on today. No "follow for more", no "like and share".
+- Last line: the payoff plus the comment hook from the script ("Comment {keyword}, main aapko ___ DM kar dunga").
+  No "follow for more", no "like and share".
 - Sound like a sharp, friendly human creator: contractions, plain words, no hype, no AI clichés.
   Banned words/phrases: {banned}.
 - Only facts that are in the script or the source material. Do not invent numbers.
@@ -109,9 +112,8 @@ def plan(results, queue_entries):
     chosen = reels[:config.PRESENTER_REELS]
     others = reels[config.PRESENTER_REELS:]
     date = reels[0]["date"]
-    slots = list(config.REEL_SLOTS)
-    pres_slots = slots[-len(chosen):]
-    other_slots = slots[:len(slots) - len(chosen)]
+    pres_slots = list(config.PRESENTER_SLOTS)[:len(chosen)]
+    other_slots = [s for s in config.REEL_SLOTS if s not in pres_slots]
     for e, s in zip(others, other_slots):
         e["slot"] = f"{date}T{s}"
     planned = []
@@ -137,7 +139,8 @@ def _adapt(piece, material):
     scenes = piece.get("scenes", [])
     listing = "\n".join(f"{i}: {s.get('visual_type')} | {s.get('narration')}" for i, s in enumerate(scenes))
     res = llm.generate_json(ADAPT.format(n=config.PRESENTER_TAKES, banned=", ".join(config.BANNED[:20]),
-                                         scenes=listing, material=material[:6000]),
+                                         scenes=listing, material=material[:6000],
+                                         keyword=piece.get("dm_keyword") or "KEYWORD"),
                             TAKES_SCHEMA, temperature=0.6)
     takes = res.get("takes", [])[:config.PRESENTER_TAKES]
     if len(takes) < 2:
@@ -309,8 +312,8 @@ def _split_panel(scene, dur):
 
 def _transcribe(e, wavs):
     takes = e["presenter"]["takes"]
-    prompt = ("These audio clips are, in order, takes of an Instagram presenter. For each clip give the exact "
-              "transcript, whether it matches the intended line closely (same meaning, nearly same words), and a "
+    prompt = ("These audio clips are, in order, takes of an Instagram presenter speaking Hinglish. For each clip give "
+              "the exact transcript (Hindi words in Roman script, as Indians type on WhatsApp), whether it matches the intended line closely (same meaning, nearly same words), and a "
               "short problem note if not (empty string if fine).\n\n" +
               "\n".join(f"Clip {t['n']} intended line: {t['line']}" for t in takes))
     blobs = []
