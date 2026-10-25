@@ -1,15 +1,14 @@
 """AI presenter "Arjun".
 
 Daily flow
-1. plan():   after production, the best approved Reels become Arjun Reels. Each script is rewritten into
-             PRESENTER_TAKES short lines (one 8-second clip each). The bot sends the owner one Telegram message
-             per clip with a ready-to-paste Gemini (Veo) prompt. These Reels move to the evening slots.
-2. collect(): every publish run reads the owner's Telegram replies. A video sent as a reply to a prompt
-             message (or captioned like "R1 2") is saved as that clip.
-3. compose(): when all clips of a Reel are in, the bot transcribes them, builds the final edit
-             (Arjun full screen → split screen with the Reel's diagrams → Arjun full screen), adds subtitles
-             and an "AI presenter" label, runs the quality gate and swaps it in for publishing.
-If clips are missing PRESENTER_GRACE_MIN minutes after the slot, the normal (non-Arjun) Reel is posted.
+1. plan():    after production, the best approved Reel becomes the Arjun Reel. A "director" prompt designs it
+              start to end: 3 spoken Arjun shots (hook, point, payoff + comment hook) with varied camera framing
+              and acting notes, plus 2 silent B-roll cutaways. Every shot gets a ready-to-paste Gemini (Veo) prompt.
+2. process(): at 7 PM the bot sends the shot prompts on Telegram; the owner replies to each with the video.
+3. compose(): when all shots are in, the bot transcribes Arjun's lines, trims dead air, cuts the B-roll in over
+              his voice, adds subtitles, a hook title, a comment-hook card and an "AI presenter" label, runs the
+              quality gate and swaps the result in for publishing.
+If shots are missing PRESENTER_GRACE_MIN minutes after the slot, the normal (non-Arjun) Reel is posted.
 """
 import datetime as dt
 import json
@@ -35,40 +34,76 @@ LOOK = ("Keep his face, hair, beard, navy overshirt, white t-shirt and the plain
         "as the photo.")
 VOICE = ("a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural "
          "Indian accent, at a lively but clear pace")
-ACTING = [
-    "He looks straight into the camera with a small knowing smile, then speaks with energy, leaning in slightly.",
-    "He explains like a friendly expert, with small natural head movements and one light open-hand gesture.",
-    "He speaks calmly and sincerely, nods slightly at the end and gives a small smile.",
-    "He counts a point on his fingers once while talking, relaxed and natural.",
-]
+CAMERAS = ["close-up, camera steady at eye level",
+           "medium close-up with a slow, smooth push-in towards his face",
+           "medium shot from slightly to his left (about 20 degrees), camera steady",
+           "medium shot from slightly to his right (about 20 degrees), camera steady"]
 
-TAKES_SCHEMA = {"type": "OBJECT", "properties": {
-    "takes": {"type": "ARRAY", "items": {"type": "OBJECT", "properties": {
-        "line": {"type": "STRING"}, "visual_scene": {"type": "INTEGER"}},
-        "required": ["line", "visual_scene"]}}},
-    "required": ["takes"]}
+STORY_SCHEMA = {"type": "OBJECT", "properties": {
+    "hook_title": {"type": "STRING"}, "cta_text": {"type": "STRING"},
+    "talks": {"type": "ARRAY", "items": {"type": "OBJECT", "properties": {
+        "line": {"type": "STRING"}, "camera": {"type": "INTEGER"}, "action": {"type": "STRING"},
+        "broll": {"type": "STRING"}},
+        "required": ["line", "camera", "action", "broll"]}}},
+    "required": ["hook_title", "cta_text", "talks"]}
 
-ADAPT = """You are the head writer for a top Instagram creator who explains practical AI to Indian small-business
-owners. Turn this Reel script into exactly {n} lines spoken to camera by the presenter, Arjun, in natural
-HINGLISH (Roman script), the way a smart young Indian creator talks.
+DIRECT = """You are the director and head writer of a top Indian Instagram creator channel about practical AI for
+small-business owners. Design ONE complete Reel, start to end, presented by Arjun (a friendly young Indian tech
+advisor, always filmed in front of the same plain cream wall in a navy overshirt and white t-shirt).
 
-RULES
-- Each line is ONE 8-second clip: 12-19 words, one or two short sentences, easy to say in one breath.
-- Line 1 is the hook: stop the scroll in the first 2 seconds (a specific problem, surprise or strong claim).
-- Middle line(s): the single most useful, concrete point (a step, a setting, a number or a clear rule).
-- Last line: the payoff plus the comment hook from the script ("Comment {keyword}, main aapko ___ DM kar dunga").
-  No "follow for more", no "like and share".
-- Sound like a sharp, friendly human creator: contractions, plain words, no hype, no AI clichés.
-  Banned words/phrases: {banned}.
-- Only facts that are in the script or the source material. Do not invent numbers.
-- visual_scene: index (0-based) of the script scene whose diagram/checklist/comparison best supports the line,
-  or -1 to show Arjun full screen. Line 1 and the last line must be -1. Middle lines should use a visual.
+The Reel is made of exactly {n} spoken shots. Each shot is ONE 8-second video clip of Arjun talking to camera.
+Some shots also get a B-roll cutaway: a separate silent 8-second clip that plays for about 3 seconds in the
+middle of that shot while Arjun's voice continues (a classic creator edit).
 
-SCRIPT SCENES (index: visual_type | narration):
+STORY
+- Shot 1 = the hook: stops the scroll in 2 seconds (a specific problem, surprise or strong claim). No B-roll.
+- Middle shot(s) = the single most useful, concrete point (a step, a setting, a clear rule).
+- Last shot = the payoff + the comment hook: "Comment {keyword}, main aapko ___ DM kar dunga".
+- The shots must flow as ONE continuous talk: each line follows naturally from the previous one.
+
+FOR EACH SHOT
+- line: HINGLISH in Roman script, 12-19 words (one breath, 8 seconds). Sounds like a sharp, friendly human creator.
+  Contractions, plain words, no hype. Banned: {banned}. Only facts from the script/source; no invented numbers.
+- camera: index of the framing that best suits the line, varied from shot to shot:
+  {cameras}
+- action: ONE short, natural acting note for Arjun (e.g. "raises one finger when he says the key word",
+  "leans in slightly and lowers his voice", "smiles and shrugs lightly"). Different in every shot.
+- broll: for shot 1 always "". For shots 2-{n}, a SPECIFIC, realistic cutaway that shows what he is talking about,
+  in an Indian small-business setting, WITHOUT any person's face and WITHOUT readable text, logos or brand names
+  (e.g. "close-up of a shopkeeper's hands typing on a laptop next to a stack of paper invoices on a wooden counter",
+  "over-the-shoulder shot of a phone on a shop counter lighting up with new message notifications"). One sentence.
+  Give a B-roll to at most {brolls} shots; use "" for the others.
+
+Also: hook_title = 2-5 big words shown on screen during the first 2 seconds (Hinglish or English).
+cta_text = 3-6 words shown on screen at the end, e.g. "Comment {keyword} for the list".
+
+SCRIPT SCENES (narration of the approved Reel this is based on):
 {scenes}
 
 SOURCE MATERIAL:
 {material}"""
+
+
+def veo_talk_prompt(line, camera, action):
+    cam = CAMERAS[camera] if 0 <= camera < len(CAMERAS) else CAMERAS[0]
+    act = action.strip().rstrip(".") or "He speaks with natural head movements"
+    act = act[0].upper() + act[1:]
+    return (f"Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. {LOOK} "
+            f"Camera: {cam}. {act}. Natural blinks, realistic skin and teeth, soft natural "
+            f"lighting. He speaks in {VOICE}, saying exactly: \"{line}\" "
+            f"No subtitles, no on-screen text, no music, no other people.")
+
+
+def veo_broll_prompt(desc):
+    return (f"Create a realistic vertical 9:16 video of about 8 seconds: {desc.strip().rstrip('.')}. "
+            f"Indian small-business setting, warm natural light, handheld smartphone-camera look, slow subtle "
+            f"camera movement, shallow depth of field. No faces, no readable text, no brand names or logos, "
+            f"no subtitles, no speech, no music.")
+
+
+def veo_prompt(line, n):                                   # kept for the one-off test command
+    return veo_talk_prompt(line, (n - 1) % len(CAMERAS), "He speaks with natural head movements and one light gesture")
+
 
 TRANSCRIBE_SCHEMA = {"type": "OBJECT", "properties": {
     "clips": {"type": "ARRAY", "items": {"type": "OBJECT", "properties": {
@@ -83,13 +118,6 @@ def photo_path():
         return None
     files = sorted(f for f in os.listdir(d) if f.lower().endswith((".png", ".jpg", ".jpeg")))
     return os.path.join(d, files[0]) if files else None
-
-
-def veo_prompt(line, n):
-    return (f"Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. {LOOK} "
-            f"{ACTING[(n - 1) % len(ACTING)]} Natural blinks, realistic skin and teeth, soft natural lighting, "
-            f"steady camera. He speaks in {VOICE}, saying exactly: \"{line}\" "
-            f"No subtitles, no on-screen text, no music, no other people.")
 
 
 def _short(e):
@@ -121,58 +149,79 @@ def plan(results, queue_entries):
         e["slot"] = f"{date}T{s}"
         r = by_id.get(e["id"], {})
         try:
-            takes = _adapt(r.get("piece", {}), r.get("material", ""))
+            takes, hook_title, cta = _adapt(r.get("piece", {}), r.get("material", ""))
         except Exception as ex:
-            print("[presenter] could not adapt", e["id"], ex)
+            print("[presenter] could not design the Arjun Reel", e["id"], ex)
             continue
         e["presenter"] = {"status": "waiting", "takes": takes, "material": (r.get("material") or "")[:8000],
-                          "scenes": r.get("piece", {}).get("scenes", []), "composed_from": None}
+                          "scenes": r.get("piece", {}).get("scenes", []), "composed_from": None,
+                          "hook_title": hook_title, "cta": cta}
         planned.append(e)
     publisher.save(q)                     # prompts are sent later, at PRESENTER_PROMPT_TIME (see process)
     return planned
 
 
 def _adapt(piece, material):
+    """Designs the whole Arjun Reel (storyboard) and returns the shot list with ready Gemini prompts."""
     scenes = piece.get("scenes", [])
-    listing = "\n".join(f"{i}: {s.get('visual_type')} | {s.get('narration')}" for i, s in enumerate(scenes))
-    res = llm.generate_json(ADAPT.format(n=config.PRESENTER_TAKES, banned=", ".join(config.BANNED[:20]),
-                                         scenes=listing, material=material[:6000],
-                                         keyword=piece.get("dm_keyword") or "KEYWORD"),
-                            TAKES_SCHEMA, temperature=0.6)
-    takes = res.get("takes", [])[:config.PRESENTER_TAKES]
-    if len(takes) < 2:
-        raise RuntimeError("too few takes")
-    out = []
-    for n, t in enumerate(takes, 1):
+    keyword = piece.get("dm_keyword") or "KEYWORD"
+    listing = "\n".join(f"{i + 1}. {s.get('narration')}" for i, s in enumerate(scenes))
+    res = llm.generate_json(DIRECT.format(n=config.PRESENTER_TALKS, brolls=config.PRESENTER_BROLLS, keyword=keyword,
+                                          banned=", ".join(config.BANNED[:20]),
+                                          cameras="\n  ".join(f"{i}: {c}" for i, c in enumerate(CAMERAS)),
+                                          scenes=listing, material=material[:6000]),
+                            STORY_SCHEMA, temperature=0.7)
+    talks = res.get("talks", [])[:config.PRESENTER_TALKS]
+    if len(talks) < 2:
+        raise RuntimeError("storyboard has too few shots")
+    shots, n_broll = [], 0
+    for i, t in enumerate(talks, 1):
         line = re.sub(r"\s+", " ", t["line"]).strip().strip('"')
-        vs = t.get("visual_scene", -1)
-        if n in (1, len(takes)) or not (0 <= vs < len(scenes)):
-            vs = -1
-        out.append({"n": n, "line": line, "visual_scene": vs, "prompt": veo_prompt(line, n),
-                    "msg_id": None, "file": None, "got_msg": None})
-    return out
+        shots.append({"n": len(shots) + 1, "kind": "talk", "talk": i, "line": line, "visual_scene": -1,
+                      "prompt": veo_talk_prompt(line, t.get("camera", 0), t.get("action") or ""),
+                      "msg_id": None, "file": None, "got_msg": None})
+        desc = (t.get("broll") or "").strip()
+        if i > 1 and desc and n_broll < config.PRESENTER_BROLLS:
+            n_broll += 1
+            shots.append({"n": len(shots) + 1, "kind": "broll", "cover": i, "desc": desc,
+                          "prompt": veo_broll_prompt(desc), "msg_id": None, "file": None, "got_msg": None})
+    return shots, (res.get("hook_title") or "").strip(), (res.get("cta_text") or f"Comment {keyword}").strip()
 
 
 def _send_prompts(planned):
     total = sum(len(e["presenter"]["takes"]) for e in planned)
     times = ", ".join(f"{_short(e)} at {e['slot'][-5:]}" for e in planned)
     telegram.send_text(
-        f"ARJUN CLIPS FOR TONIGHT: {len(planned)} Reels, {total} clips ({times} IST).\n\n"
-        "For each prompt message below:\n"
-        "1. Open Gemini, attach Arjun's photo (file below), choose Video, portrait 9:16.\n"
-        "2. Copy the prompt (long-press the message > Copy) and generate.\n"
-        "3. Download the video, then REPLY to that prompt message with the video.\n"
-        "   (If you forget to reply, send the clips in order: R first, clip 1, 2, 3. The bot fills them in order.)\n\n"
-        f"Clips needed by each Reel's time. If a Reel is missing clips {config.PRESENTER_GRACE_MIN} min after its "
-        "time, the normal version is posted instead.")
+        f"ARJUN SHOTS FOR TONIGHT: {len(planned)} Reel(s), {total} video clips ({times} IST).\n\n"
+        "Each message below is ONE shot of the Reel, in story order. For each one:\n"
+        "1. Open Gemini (Pro account) and choose Video. Portrait / 9:16.\n"
+        "2. ARJUN shots: attach Arjun's photo (file below). B-ROLL shots: do NOT attach any photo.\n"
+        "3. Copy the prompt (long-press > Copy), paste it in Gemini and generate.\n"
+        "4. Download the video, then REPLY to that shot's message with the video.\n"
+        "   (If you forget to reply, just send the videos in the same order as the shots.)\n\n"
+        "The bot edits all shots into one Reel: Arjun's voice runs through, B-roll cuts in over it, "
+        "subtitles, title and comment hook are added, then the quality check runs.\n"
+        f"If shots are missing {config.PRESENTER_GRACE_MIN} min after the Reel's time, the normal version posts.")
     try:
-        telegram.send_photo(photo_path(), "Arjun's photo: attach this in Gemini for every clip.")
+        telegram.send_photo(photo_path(), "Arjun's photo: attach this ONLY for the ARJUN shots.")
     except Exception as ex:
         print("[presenter] photo send failed:", ex)
     for e in planned:
+        n_all = len(e["presenter"]["takes"])
         for t in e["presenter"]["takes"]:
-            head = f"{_short(e)} · clip {t['n']} of {len(e['presenter']['takes'])} · reply to this message with the video\n\n"
+            if t.get("kind") == "broll":
+                what = f"B-ROLL (no photo) · plays over shot {_talk_shot_no(e, t['cover'])}"
+            else:
+                what = "ARJUN TALKING (attach Arjun's photo)"
+            head = f"{_short(e)} · SHOT {t['n']} of {n_all} · {what}\nReply to this message with the video.\n\n"
             t["msg_id"] = telegram.send_text(head + t["prompt"])
+
+
+def _talk_shot_no(e, talk_index):
+    for t in e["presenter"]["takes"]:
+        if t.get("kind", "talk") == "talk" and t.get("talk", t["n"]) == talk_index:
+            return t["n"]
+    return talk_index
 
 
 # ---------------------------------------------------------------- 2. collect
@@ -247,7 +296,7 @@ def collect(q, today):
         changed = True
         have = sum(1 for x in e["presenter"]["takes"] if x.get("file"))
         need = len(e["presenter"]["takes"])
-        telegram.send_text(f"Got {_short(e)} clip {t['n']} ({have}/{need})." +
+        telegram.send_text(f"Got {_short(e)} shot {t['n']} ({have}/{need})." +
                            (" All clips in, editing the Reel now." if have == need else ""))
     return changed
 
@@ -285,7 +334,8 @@ def _frames(path, w, h):
     """Yields RGB frames of a clip scaled to cover w x h at FPS."""
     p = subprocess.Popen([reel.ffmpeg(), "-loglevel", "error", "-i", path, "-vf",
                           f"fps={FPS},scale={w}:{h}:force_original_aspect_ratio=increase,crop={w}:{h}",
-                          "-f", "rawvideo", "-pix_fmt", "rgb24", "-"], stdout=subprocess.PIPE)
+                          "-f", "rawvideo", "-pix_fmt", "rgb24", "-"], stdout=subprocess.PIPE,
+                         stderr=subprocess.DEVNULL)
     size = w * h * 3
     while True:
         buf = p.stdout.read(size)
@@ -356,12 +406,14 @@ def _transcribe(e, wavs):
 
 
 def compose(e):
-    """Builds the Arjun edit. Returns (ok, reasons, meta)."""
+    """Edits all shots into one Reel. Returns (ok, reasons, meta)."""
     pres = e["presenter"]
     takes = pres["takes"]
+    talks = [t for t in takes if t.get("kind", "talk") == "talk"]
+    brolls = {t["cover"]: t for t in takes if t.get("kind") == "broll" and t.get("file")}
     tmp = tempfile.mkdtemp(prefix="arjun_")
     clips, wavs, spans = [], [], []
-    for t in takes:
+    for t in talks:
         src = os.path.join(config.ROOT, t["file"])
         wav = os.path.join(tmp, f"a{t['n']}.wav")
         _ff(["-i", src, "-vn", "-ac", "1", "-ar", "44100", "-sample_fmt", "s16", wav])
@@ -369,27 +421,34 @@ def compose(e):
         wavs.append(wav)
         spans.append(_speech_span(wav))
     try:
-        trans = _transcribe(e, wavs)
+        trans = _transcribe({"presenter": {"takes": talks}}, wavs)
     except Exception as ex:
         trans = []
         print("[presenter] transcription unavailable:", ex)
-    lines = []
-    problems = []
-    for i, t in enumerate(takes):
+    lines, problems = [], []
+    for i, t in enumerate(talks):
         tr = trans[i] if i < len(trans) else {}
-        text = (tr.get("transcript") or "").strip() or t["line"]
-        lines.append(text)
+        lines.append((tr.get("transcript") or "").strip() or t["line"])
         if tr and not tr.get("matches", True):
-            problems.append(f"clip {t['n']}: {tr.get('problem') or 'says something different from the prompt'}")
+            problems.append(f"shot {t['n']}: {tr.get('problem') or 'says something different from the prompt'}")
 
     out_dir = os.path.join(config.ROOT, os.path.dirname(e["dir"]), "arjun", "edit")
     os.makedirs(out_dir, exist_ok=True)
     out_path = os.path.join(out_dir, "reel.mp4")
-    durs = [max(1.0, _duration(c)) for c in clips]
+    # trim each talk clip to its speech (+ small breath) so the Reel flows without dead air
+    cuts = [(max(0.0, s0 - 0.15), min(_duration(c), s1 + 0.25)) for c, (s0, s1) in zip(clips, spans)]
+    trimmed = []
+    for i, (w, (a, b)) in enumerate(zip(wavs, cuts)):
+        tw = os.path.join(tmp, f"t{i}.wav")
+        _ff(["-i", w, "-ss", f"{a:.2f}", "-to", f"{b:.2f}", "-ac", "1", "-ar", "44100", "-sample_fmt", "s16", tw])
+        trimmed.append(tw)
+    durs = [max(0.8, b - a) for a, b in cuts]
     audio = os.path.join(tmp, "voice.wav")
-    reel.concat_audio(wavs, durs, audio)
+    reel.concat_audio(trimmed, durs, audio)
 
     tag, badge = _ai_tag(), _handle_badge()
+    title = _title_card(pres.get("hook_title") or "")
+    cta = _title_card(pres.get("cta") or "")
     enc = subprocess.Popen([reel.ffmpeg(), "-y", "-loglevel", "error", "-f", "rawvideo", "-pix_fmt", "rgb24",
                             "-s", f"{RW}x{RH}", "-r", str(FPS), "-i", "-", "-i", audio,
                             "-af", "loudnorm=I=-16:TP=-1.5:LRA=11",
@@ -397,59 +456,59 @@ def compose(e):
                             "-c:a", "aac", "-b:a", "160k", "-ar", "44100", "-shortest",
                             "-movflags", "+faststart", out_path], stdin=subprocess.PIPE)
     previews = []
-    scenes = pres.get("scenes", [])
-    title = _title_card((scenes[0].get("on_screen") if scenes else "") or "")
-    for i, (t, clip, d, (s0, s1), text) in enumerate(zip(takes, clips, durs, spans, lines)):
-        subs = [(a + s0, b + s0, img) for a, b, img in reel.timed_subs(text, max(0.5, s1 - s0))]
-        split = config.PRESENTER_STYLE == "split" and 0 <= t["visual_scene"] < len(scenes)
-        zoom = 1.12 if i % 2 else 1.0                      # alternate punch-in so cuts between clips feel intentional
-        panel = _split_panel(scenes[t["visual_scene"]], d) if split else None
+    img = None
+    for i, (t, clip, d, (a, b), text) in enumerate(zip(talks, clips, durs, cuts, lines)):
+        speech0 = spans[i][0] - a
+        subs = [(x + speech0, y + speech0, im) for x, y, im in reel.timed_subs(text, max(0.5, spans[i][1] - spans[i][0]))]
+        zoom = 1.12 if i % 2 else 1.0                     # alternate punch-in between Arjun shots
+        br = brolls.get(t.get("talk", i + 1))
+        b0 = b1 = -1
+        bframes = None
+        if br:                                            # cutaway in the middle of the line, max 3.2 s
+            b0 = max(0.6, d * 0.30)
+            b1 = min(d - 0.8, b0 + 3.2)
+            bframes = _frames(os.path.join(config.ROOT, br["file"]), RW, RH)
         n_frames = int(round(d * FPS))
         k = 0
-        for fr in _frames(clip, RW, RH):
+        for fr in _frames_from(clip, a, RW, RH):
             if k >= n_frames:
                 break
             tt = k / FPS
-            if split:
-                canvas = Image.new("RGB", (RW, RH), D.CREAM)
-                # Arjun in the lower half, framed on his face
-                face = fr.crop((0, int(RH * 0.17), RW, int(RH * 0.17) + RH // 2))
-                canvas.paste(face, (0, RH // 2))
-                p = panel.panel(tt).resize((848, 760), Image.LANCZOS)
-                D.rounded_paste(canvas, p, ((RW - 848) // 2, 150), 30)
-                img = canvas
+            if bframes is not None and b0 <= tt < b1:
+                bf = next(bframes, None)
+                img = bf.copy() if bf is not None else fr.copy()
             elif zoom != 1.0:
                 w, h = int(RW / zoom), int(RH / zoom)
-                x0, y0 = (RW - w) // 2, int((RH - h) * 0.35)    # keep his face in frame while zooming
+                x0, y0 = (RW - w) // 2, int((RH - h) * 0.35)
                 img = fr.crop((x0, y0, x0 + w, y0 + h)).resize((RW, RH), Image.LANCZOS)
             else:
                 img = fr.copy()
-            if i == 0 and title is not None and tt < 2.6:     # big hook title for the first seconds
+            if i == 0 and title is not None and tt < 2.4:
                 img.paste(title, (0, 150), title)
+            if i == len(talks) - 1 and cta is not None and tt > d - 2.4:
+                img.paste(cta, (0, 150), cta)
             img.paste(badge, (40, 60), badge)
             img.paste(tag, (RW - 340, 60), tag)
-            sub_y = 880 if split else reel.SUB_Y - 80      # split screen: captions sit between graphic and face
-            for a, b, sub in subs:
-                if a <= tt < b:
-                    img.paste(sub, (0, sub_y), sub)
+            for x, y, sub in subs:
+                if x <= tt < y:
+                    img.paste(sub, (0, reel.SUB_Y - 80), sub)
                     break
             enc.stdin.write(img.tobytes())
-            if k == int(n_frames * 0.55):
-                pv = os.path.join(out_dir, f"scene_{i + 1:02d}.jpg")
+            if k == int(n_frames * 0.5) or (bframes is not None and k == int((b0 + 0.8) * FPS)):
+                pv = os.path.join(out_dir, f"shot_{t['n']:02d}_{k}.jpg")
                 img.resize((540, 960)).save(pv, "JPEG", quality=85)
                 previews.append(pv)
             k += 1
         if k == 0:
-            raise RuntimeError(f"clip {t['n']} has no readable video frames")
-        while k < n_frames:                       # pad if the clip was shorter than its audio
+            raise RuntimeError(f"shot {t['n']} has no readable video frames")
+        while k < n_frames:
             enc.stdin.write(img.tobytes())
             k += 1
     enc.stdin.close()
     if enc.wait() != 0:
         raise RuntimeError("ffmpeg failed while editing the Arjun Reel")
 
-    piece = {"scenes": [{"narration": txt, "on_screen": "", "visual_type": "presenter" if takes[i]["visual_scene"] < 0
-                         else scenes[takes[i]["visual_scene"]].get("visual_type")} for i, txt in enumerate(lines)],
+    piece = {"scenes": [{"narration": txt, "on_screen": "", "visual_type": "presenter"} for txt in lines],
              "caption": e["caption"]}
     rev = qc.review(piece, "reel", pres.get("material", ""), previews)
     ok, reasons = qc.verdict([], rev)
@@ -459,6 +518,21 @@ def compose(e):
             "previews": [os.path.relpath(p, config.ROOT) for p in previews], "transcripts": lines,
             "visual_issues": rev.get("visual_issues", [])}
     return ok, reasons, meta
+
+
+def _frames_from(path, start, w, h):
+    """Like _frames, but starting at the start seconds."""
+    p = subprocess.Popen([reel.ffmpeg(), "-loglevel", "error", "-ss", f"{start:.2f}", "-i", path, "-vf",
+                          f"fps={FPS},scale={w}:{h}:force_original_aspect_ratio=increase,crop={w}:{h}",
+                          "-f", "rawvideo", "-pix_fmt", "rgb24", "-"], stdout=subprocess.PIPE,
+                         stderr=subprocess.DEVNULL)
+    size = w * h * 3
+    while True:
+        buf = p.stdout.read(size)
+        if len(buf) < size:
+            break
+        yield Image.frombytes("RGB", (w, h), buf)
+    p.wait()
 
 
 def _with_ai_note(caption):
