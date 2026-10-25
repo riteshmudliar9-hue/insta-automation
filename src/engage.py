@@ -47,6 +47,15 @@ def run():
     posts = [e for e in publisher.load() if e.get("status") == "published" and e.get("media_id")
              and e.get("dm_keyword") and e.get("dm_text") and e["date"] >= cutoff]
     sent = 0
+    if not posts:                                   # health check: can we read comments at all?
+        latest = [e for e in publisher.load() if e.get("status") == "published" and e.get("media_id")]
+        if latest:
+            posts_check = latest[-1:]
+            try:
+                instagram.media_comments(posts_check[0]["media_id"], limit=1)
+                print("engage: comment access OK (no keyword posts yet)")
+            except Exception as ex:
+                print("engage: comment access FAILED:", str(ex)[:200])
     for e in posts:
         try:
             comments = instagram.media_comments(e["media_id"])
