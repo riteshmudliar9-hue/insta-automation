@@ -128,10 +128,7 @@ def plan(results, queue_entries):
         e["presenter"] = {"status": "waiting", "takes": takes, "material": (r.get("material") or "")[:8000],
                           "scenes": r.get("piece", {}).get("scenes", []), "composed_from": None}
         planned.append(e)
-    publisher.save(q)
-    if planned:
-        _send_prompts(planned)
-        publisher.save(q)
+    publisher.save(q)                     # prompts are sent later, at PRESENTER_PROMPT_TIME (see process)
     return planned
 
 
@@ -160,7 +157,7 @@ def _send_prompts(planned):
     total = sum(len(e["presenter"]["takes"]) for e in planned)
     times = ", ".join(f"{_short(e)} at {e['slot'][-5:]}" for e in planned)
     telegram.send_text(
-        f"ARJUN CLIPS FOR TODAY: {len(planned)} Reels, {total} clips ({times} IST).\n\n"
+        f"ARJUN CLIPS FOR TONIGHT: {len(planned)} Reels, {total} clips ({times} IST).\n\n"
         "For each prompt message below:\n"
         "1. Open Gemini, attach Arjun's photo (file below), choose Video, portrait 9:16.\n"
         "2. Copy the prompt (long-press the message > Copy) and generate.\n"
@@ -432,8 +429,20 @@ def _with_ai_note(caption):
 
 
 def process(q, today):
-    """collect + compose for every Arjun Reel that has all its clips. Returns True if the queue changed."""
-    changed = collect(q, today)
+    """send the evening prompts, then collect + compose. Returns True if the queue changed."""
+    changed = False
+    now = dt.datetime.now(IST).strftime("%H:%M")
+    due = [e for e in q if e.get("presenter") and e["date"] == today and e["status"] == "queued"
+           and e["presenter"]["status"] == "waiting" and not e["presenter"].get("prompts_sent")]
+    if due and now >= config.PRESENTER_PROMPT_TIME:
+        try:
+            _send_prompts(due)
+            for e in due:
+                e["presenter"]["prompts_sent"] = True
+        except Exception as ex:
+            print("[presenter] could not send prompts:", ex)
+        changed = True
+    changed = collect(q, today) or changed
     for e in q:
         pres = e.get("presenter")
         if not pres or e["date"] != today or e["status"] != "queued" or pres["status"] not in ("waiting", "rejected"):
