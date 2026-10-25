@@ -3,6 +3,7 @@
 python src/main.py produce            # daily: research → write → render → quality gate → queue (05:30 IST)
 python src/main.py pilot [N]          # pilot batch of N reels + N carousels, never published
 python src/main.py publish-due        # every 30 min: publish queued items whose slot has arrived
+python src/main.py engage             # every 30 min: DM the promised resource to people who comment the keyword
 python src/main.py insights           # nightly: collect Insights, update learnings, send daily report
 python src/main.py refresh-token      # weekly: renew the Instagram token
 """
@@ -152,6 +153,9 @@ if __name__ == "__main__":
         pilot(int(sys.argv[2]) if len(sys.argv) > 2 else 5)
     elif cmd == "publish-due":
         publish_due()
+    elif cmd == "engage":
+        import engage
+        engage.run()
     elif cmd == "insights":
         daily_report()
     elif cmd == "refresh-token":
