@@ -1,0 +1,236 @@
+{
+ "kind": "carousel",
+ "idea": {
+  "idea": "Cut AI automation API bills using specialized decision models instead of heavy LLMs",
+  "angle": "Stop paying high API fees for simple yes/no lead routing when low-cost decision APIs perform the task for fractions of a cent.",
+  "audience_problem": "Tech-savvy shop owners running automated WhatsApp or email flows spend too much money calling full GPT-4 models for basic task classification.",
+  "format": "manual_vs_auto",
+  "medium": "both",
+  "source_ids": [
+   43
+  ],
+  "evergreen": true,
+  "keywords": [
+   "decisions api",
+   "ai API cost",
+   "automation saving",
+   "openai workflow"
+  ],
+  "scores": {
+   "relevance": 8,
+   "novelty": 8,
+   "hook_potential": 8,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 9,
+   "evidence": 9,
+   "viral": 8
+  },
+  "total": 8.31
+ },
+ "piece": {
+  "hooks": [
+   "Stop wasting money on AI for simple yes/no tasks",
+   "Why your AI automation costs are ballooning for simple tasks",
+   "Use specialized decision models to cut your AI bill"
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "It addresses a direct pain point (wasted money) using a clear, actionable benefit for a small business owner who likely uses automated workflows.",
+  "slides": [
+   {
+    "kind": "cover",
+    "title": "Stop wasting money on AI for simple yes/no tasks",
+    "subtitle": "Use specialized decision APIs to handle routine routing and sorting for fractions of a cent.",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "compare",
+    "title": "Heavy models vs. Decision APIs",
+    "subtitle": "Stop paying for full intelligence when you just need a simple category.",
+    "body": "Your automation flows often make simple choices that don't need a full-blown chatbot model.",
+    "items": [],
+    "left_label": "GPT-4 / Heavy Models",
+    "right_label": "Decisions API",
+    "rows": [
+     {
+      "left": "High cost per query",
+      "right": "Low cost ($0.10/M tokens)"
+     },
+     {
+      "left": "Generates full text",
+      "right": "Returns specific labels"
+     },
+     {
+      "left": "Slower response times",
+      "right": "Up to 10x faster"
+     }
+    ],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "point",
+    "title": "What it actually does",
+    "subtitle": "For your business workflows",
+    "body": "The Decisions API takes your input—like a WhatsApp message or a transaction description—and gives you one of three simple outputs: a probability, a choice, or a score.",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "steps",
+    "title": "How to set it up",
+    "subtitle": "Keep your automation lean",
+    "body": "",
+    "items": [
+     "Define your question and allowed choices",
+     "Provide context as text or JSON",
+     "Test in the Decisions Playground",
+     "Connect to your existing application"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "mythfact",
+    "title": "A common misconception",
+    "subtitle": "Is it just for text?",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "AI decision tools only work with written text documents.",
+    "fact": "The Decisions API can process text, images, and native JSON inputs to make decisions.",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "summary",
+    "title": "The bottom line",
+    "subtitle": "Key takeaways for your business",
+    "body": "",
+    "items": [
+     "Use specialized decision models for simple logic",
+     "Only pay for input tokens (no output charge)",
+     "Use prompt caching to save more",
+     "Up to 10x faster than standard models"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   }
+  ],
+  "caption": "Are your automated customer support or lead routing flows burning your budget? Many small businesses use heavy AI models for tasks as simple as categorizing a transaction or deciding if a customer query needs escalation. The Decisions API handles these specific tasks at a fraction of the cost—just $0.10 per million input tokens. Plus, there are no output token charges, meaning you stop paying for the AI to 'talk' when you only need a classification label. Start by identifying one recurring decision in your workflow that happens hundreds of times a day. Have you checked your recent API logs to see which tasks are costing you the most to automate?",
+  "hashtags": [
+   "#BusinessAutomation",
+   "#SmallBusinessIndia",
+   "#AItools",
+   "#CostOptimization"
+  ],
+  "keywords": [
+   "AI automation",
+   "API costs",
+   "small business tech",
+   "Decisions API",
+   "workflow automation"
+  ],
+  "claims": [
+   {
+    "claim": "The Decisions API costs $0.10 per million input tokens.",
+    "source_id": 43
+   },
+   {
+    "claim": "Decisions API processes inputs up to 10x faster than the Responses API.",
+    "source_id": 43
+   },
+   {
+    "claim": "There are no output-token charges for the Decisions API.",
+    "source_id": 43
+   },
+   {
+    "claim": "The Decisions API supports three answer types: probability, choice, and score.",
+    "source_id": 43
+   }
+  ]
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "The Decisions API costs $0.10 per million input tokens.",
+    "supported": true
+   },
+   {
+    "claim": "Decisions API processes inputs up to 10x faster than the Responses API.",
+    "supported": true
+   },
+   {
+    "claim": "There are no output-token charges for the Decisions API.",
+    "supported": true
+   },
+   {
+    "claim": "The Decisions API supports three answer types: probability, choice, and score.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [],
+  "issues": [
+   "The term 'GPT-4' in slide 2 is slightly misleading as the source material specifically highlights 'GPT-6 Luna' as the engine for the Decisions API.",
+   "The caption is a bit dense; consider breaking it into shorter paragraphs for better mobile readability."
+  ],
+  "fix_instructions": "On slide 2, change 'GPT-4 / HEAVY MODELS' to 'GENERAL MODELS' to be more accurate and avoid confusion with specific model versions. Otherwise, the content is solid and ready for publication."
+ },
+ "rules": [],
+ "reasons": [],
+ "meta": {
+  "ai_visuals": false,
+  "slides": 6
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/pilot-20261025-1317/C2-pilot-20261025-1317/try1",
+ "attempt": 1,
+ "approved": true,
+ "hook": "Stop wasting money on AI for simple yes/no tasks",
+ "log": [
+  "attempt 1: PASS {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} []"
+ ],
+ "material": "[43] OpenAI News — Build more responsive apps with the Decisions API\nURL: https://openai.com/index/decisions-api\nBuild more responsive apps with the Decisions API | OpenAI OpenAI October 22, 2026\nFast, focused, low-cost decisions for any application.\nShare Applications and agents make many small decisions throughout a workflow: how to classify an input, where to route a request, or which action to take next. Individually, they are simple. At scale, their latency and cost add up.\nToday, we’re making the Decisions API generally available. Built with GPT‑6 Luna , the Decisions API focuses Luna’s intelligence on questions with bounded answers, helping applications and agents make near real-time decisions from text, images, and structured inputs up to 10x faster than GPT‑6 Luna through the Responses API.\nSince public beta, we’ve added a native GPT‑Live integration, prompt caching for reused context, and inference residency in the US and EU. Developers can also pass native JSON inputs, include images in question instructions, and ask up to 400 questions per request, twice the previous limit. We’ve also continued to improve latency, including additional capacity in several regions in Asia.\nEarly adoption of Decisions has shown its applicability across a variety of use cases.\nAcross OpenAI, teams are applying the Decisions API across product and business workflows. The dots team is using it to reduce response times and improve interactivity. Our Personal Finance team is using it to categorize transaction descriptions, while our Communications team is using Decisions to classify coverage by the themes and scores whether it reinforces or challenges key narratives—helping identify what warrants closer review.\nThese early examples show how fast, structured decision-making can turn incoming information into useful action across a wide range of use cases. Customers are applying the Decisions API just as broadly, from accurately attributing AI costs to making language-learning experiences more interactive.\nSelect the type of decision your application needs\nUsing the Decisions API is simple: developers define a question and its allowed answers, then provide context as text, images, or native JSON. The API returns one of three supported answer types—a probability, choice, or score—that applications can use to determine what happens next. The variety of answer types allows Decisions to be applicable across a wide variety of use cases. Decisions API supports three answer types:\nEstimate the probability that a condition is true, such as whether a product has visible damage.\nprobability : an estimate from 0 to 1 that the condition is true.\nSelect one of your predefined options, such as whether an agent should continue, retry, or ask for clarification.\nchoice : one of your supplied values. The response also includes probabilities and confidence .\nRate an input against ordered levels in a rubric, such as the severity of damage.\nscore : the probability-weighted average of the level indices.\nBuild real-time voice experiences with the Decisions API and GPT‑Live\nWith GPT‑Live , you can bring natural, expressive conversation to your voice applications, with smooth interruption handling that keeps conversations flowing. Decisions API now integrates natively with GPT‑Live ⁠ (opens in a new window) , helping applications make fast, focused decisions during live conversations. A customer support agent can decide whether to ask a clarifying question, route a request, or escalate an issue. An avatar can adjust its facial expressions as a user speaks to it, and based on the user’s words, respond with a wink or a smile to create a more interactive experience.\nThe example below uses transcript updates to select an avatar’s expression. Add this configuration to session.triggers in an existing GPT‑Live session.\n1 { 2 \"type\" : \"decisions\" , 3 \"event_type\" : \"session.input_transcript.delta\" , 4 \"decisions\" : { 5 \"questions\" : [ { 6 \"type\" : \"choice\" , 7 \"name\" : \"reaction\" , 8 \"instructions\" : \"Choose an appropriate reaction for the avatar based on the user's latest message.\" , 9 \"choices\" : [ 10 { \"value\" : \"neutral\" } , 11 { \"value\" : \"happy\" } , 12 { \"value\" : \"sad\" } , 13 { \"value\" : \"concerned\" } 14 ] 15 } ] 16 } 17 } Live emits a decision.event ; the application reads the selected reaction and animates the character accordingly. Learn more about connecting voice to Decisions API. ⁠ (opens in a new window)\nStart session Microphone off until you start\nSession ended. Start again if you'd like to keep talking.\nWatch as the Decisions API chooses a facial expression based on what each of you says.\nI rehearsed my audition for my cat. She walked out halfway through.\nI have a secret. Lean in a little closer.\nActually, my sister got the part. It’s her first show!\nI’m nervous about tomorrow. Can you sit with me?\nI just got the part! Can you celebrate with me?\nLook surprised, then tell me what you saw.\nCould you search the web for the next meteor shower?\nI rehearsed my audition for my cat. She walked out halfway through.\nThis demo is time-limited. By using it, you agree to OpenAI's Terms ⁠ and acknowledge our Privacy Policy ⁠ .\nDecisions API is generally available today with GPT‑6 Luna through the dedicated Decisions endpoint. See the pricing and availability guide ⁠ (opens in a new window) for current rates and caching details.\nStart with one recurring decision your application makes often. Define the question, the possible answers, and the context needed to distinguish them. Test it on examples that reflect real usage, in the Decisions Playground ⁠ (opens in a new window) with your own text or images, or follow the developer guide ⁠ (opens in a new window) to make your first request.\nDecisions API costs $0.10 per million input tokens. Cached input costs $0.01 per million tokens. For 30-minute and 12-hour cached writes, read our pricing guide. ⁠ (opens in a new window) You only pay for input tokens: there are no output-token charges. Regional processing is available in the US and EU, and Zero Data Retention ⁠ (opens in a new window) is available to eligible customers. See pricing and caching ⁠ (opens in a new window) and data controls ⁠ (opens in a new window) for details.",
+ "id": "C2-pilot-20261025-1317",
+ "caption_final": "Are your automated customer support or lead routing flows burning your budget? Many small businesses use heavy AI models for tasks as simple as categorizing a transaction or deciding if a customer query needs escalation. The Decisions API handles these specific tasks at a fraction of the cost—just $0.10 per million input tokens. Plus, there are no output token charges, meaning you stop paying for the AI to 'talk' when you only need a classification label. Start by identifying one recurring decision in your workflow that happens hundreds of times a day. Have you checked your recent API logs to see which tasks are costing you the most to automate?\n\n#BusinessAutomation #SmallBusinessIndia #AItools #CostOptimization"
+}

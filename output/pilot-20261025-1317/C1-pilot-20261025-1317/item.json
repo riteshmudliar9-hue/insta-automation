@@ -1,0 +1,233 @@
+{
+ "kind": "carousel",
+ "idea": {
+  "idea": "Accelerating payment collections using AI-driven contextual payment reminders",
+  "angle": "How smart payment gateways attach contextual order details to automatic payment links to get paid faster.",
+  "audience_problem": "Wholesalers suffer from delayed customer payments because generic payment links get ignored in WhatsApp chats.",
+  "format": "case_study",
+  "medium": "carousel",
+  "source_ids": [
+   89
+  ],
+  "evergreen": true,
+  "keywords": [
+   "razorpay ai",
+   "phonepe business",
+   "payment collection",
+   "cash flow"
+  ],
+  "scores": {
+   "relevance": 10,
+   "novelty": 7,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 9,
+   "evidence": 9,
+   "viral": 9
+  },
+  "total": 8.82
+ },
+ "piece": {
+  "hooks": [
+   "Why generic payment links fail and how gateways fix it",
+   "How Razorpay and PhonePe use AI to collect faster",
+   "Stop sending plain payment links that customers ignore"
+  ],
+  "chosen_hook": 1,
+  "hook_reason": "It directly references the two payment platforms every Indian merchant uses and focuses on cash collection speed without hype.",
+  "slides": [
+   {
+    "kind": "cover",
+    "title": "How Razorpay and PhonePe use AI to collect faster",
+    "subtitle": "Beyond QR codes: how transaction data and agents recover pending sales.",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "point",
+    "title": "Collecting payments is no longer the bottleneck",
+    "subtitle": "",
+    "body": "Over 500 million Indians use UPI. For sellers, the real challenge has shifted to cart abandonment, pending transactions, and keeping buyers engaged after sharing a payment link.",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "point",
+    "title": "Autonomous agents recover lost orders",
+    "subtitle": "",
+    "body": "Razorpay deployed 12 AI agents across 600 brands. These agents automatically follow up on abandoned carts, confirm cash-on-delivery orders, and verify delivery addresses without manual phone calls.",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "quote",
+    "title": "",
+    "subtitle": "",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "Consumers don't really care whether a transaction fails. What they care about is it should not go into a pending state.",
+    "attribution": "Deep Agrawal, Head of Payments at PhonePe"
+   },
+   {
+    "kind": "compare",
+    "title": "Manual follow-ups vs AI gateway handling",
+    "subtitle": "",
+    "body": "",
+    "items": [],
+    "left_label": "Old manual method",
+    "right_label": "New AI agent flow",
+    "rows": [
+     {
+      "left": "Manual calls for COD confirmation",
+      "right": "Agent verifies address and COD"
+     },
+     {
+      "left": "Generic link shared on WhatsApp",
+      "right": "Cart recovery agent handles drop-off"
+     },
+     {
+      "left": "Payment stuck in bank pending",
+      "right": "Pre-check warns if bank down"
+     }
+    ],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "summary",
+    "title": "What traders should test today",
+    "subtitle": "",
+    "body": "",
+    "items": [
+     "Check your gateway for cart recovery agent settings",
+     "Enable automated COD address verification",
+     "Use voice-driven merchant support if available",
+     "Avoid chasing pending UPI states manually"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   }
+  ],
+  "caption": "How Indian businesses use payment gateway AI agents to recover unpaid orders and verify cash on delivery.\n\nIf you sell products online or take orders over WhatsApp, you know the routine: a buyer asks for pricing, you send a payment link, and the chat goes cold.\n\nPayment providers are building tools to fix this drop-off. Razorpay now has autonomous agents deployed across 600 brands to confirm cash-on-delivery orders, verify delivery addresses, and recover abandoned carts. Meanwhile, PhonePe uses predictive models to warn users when their bank server is slow, preventing transactions from getting stuck in pending states.\n\nCheck your payment gateway portal to see if automated COD verification or cart recovery agents can be enabled.\n\nDo unpaid WhatsApp payment links cause more headaches than delayed supplier deliveries in your daily business?",
+  "hashtags": [
+   "#Razorpay",
+   "#PhonePe",
+   "#DigitalPayments",
+   "#IndianBusiness"
+  ],
+  "keywords": [
+   "Razorpay AI agents",
+   "PhonePe Kill Switch",
+   "cart recovery automation",
+   "COD verification WhatsApp",
+   "UPI payment collection"
+  ],
+  "claims": [
+   {
+    "claim": "More than 500 million UPI users use digital payments in India.",
+    "source_id": 89
+   },
+   {
+    "claim": "Razorpay deployed 12 live autonomous agents used by 600 brands for tasks like recovering abandoned carts and confirming cash-on-delivery orders.",
+    "source_id": 89
+   },
+   {
+    "claim": "PhonePe's Kill Switch model predicts whether a transaction will succeed and alerts users before initiating if their bank is down.",
+    "source_id": 89
+   },
+   {
+    "claim": "Razorpay's Vulcan 5.2 foundation model analyzes nearly 3,000 attributes per transaction to predict conversion and reduce fraud.",
+    "source_id": 89
+   }
+  ]
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "More than 500 million UPI users use digital payments in India.",
+    "supported": true
+   },
+   {
+    "claim": "Razorpay deployed 12 live autonomous agents used by 600 brands for tasks like recovering abandoned carts and confirming cash-on-delivery orders.",
+    "supported": true
+   },
+   {
+    "claim": "PhonePe's Kill Switch model predicts whether a transaction will succeed and alerts users before initiating if their bank is down.",
+    "supported": true
+   },
+   {
+    "claim": "Razorpay's Vulcan 5.2 foundation model analyzes nearly 3,000 attributes per transaction to predict conversion and reduce fraud.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Slide 5: The contrast between the 'OLD MANUAL METHOD' and 'NEW AI AGENT FLOW' labels is slightly low; consider making the background of the labels more distinct to ensure they pop against the cream background."
+  ],
+  "issues": [
+   "The term 'traders' in slide 6 is slightly generic; 'merchants' or 'business owners' aligns better with the source material and the target audience of SMBs.",
+   "The caption is good but could benefit from a stronger call to action regarding the specific 'Agent Studio' or 'Ray' tools mentioned in the source to drive more curiosity."
+  ],
+  "fix_instructions": "1. Update slide 6 title from 'What traders should test today' to 'What merchants should test today'. 2. Enhance the contrast on the labels in slide 5 by darkening the background color of the 'OLD' and 'NEW' pills. 3. In the caption, add a specific mention of 'Ray' or 'Agent Studio' to encourage users to look for these specific features in their Razorpay dashboard."
+ },
+ "rules": [],
+ "reasons": [],
+ "meta": {
+  "ai_visuals": false,
+  "slides": 6
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/pilot-20261025-1317/C1-pilot-20261025-1317/try1",
+ "attempt": 1,
+ "approved": true,
+ "hook": "How Razorpay and PhonePe use AI to collect faster",
+ "log": [
+  "attempt 1: PASS {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} []"
+ ],
+ "material": "[89] YourStory — Beyond transactions: How PhonePe and Razorpay are using AI to improve digital payments\nURL: https://yourstory.com/2026/10/beyond-transactions-how-phonepe-and-razorpay-are-using-ai-to-improve-digital-payments\nSidebar is Loading... ADVERTISEMENT Beyond transactions: How PhonePe and Razorpay are using AI to improve digital payments | YourStory PhonePe\nIndia has made digital payments as simple as scanning a QR code. The next opportunity lies in using payments to connect consumers with relevant financial products and help businesses address the challenges of growing online.\nAt TechSparks 2026, Deep Agrawal, Head of Payments at PhonePe, and Khilan Haria, Chief Product Officer at Razorpay, joined Madanmohan Rao, Research Director at YourStory, for a panel discussion titled ‘Beyond transactions: Solving financial inclusion with contextual money’.\nThe discussion covered how payments are becoming part of a wider digital experience, from improving transaction success rates to helping merchants attract and retain customers.\nBeyond payments: What do users and businesses need?\nAgrawal said digital payments have become part of everyday life for more than 500 million UPI users, who use the system to send money to friends, pay electricity bills, shop online, and make payments at stores.\nHowever, the next challenge is to bring another 500 million people into the digital payments ecosystem while helping existing users access financial products beyond payments.\nFor businesses, accepting payments is only the first step.\nHaria said Razorpay’s experience working with millions of small and medium businesses has shown that merchants face several challenges once they have the infrastructure to collect payments, including attracting customers, improving conversions, and encouraging repeat purchases.\n“Over the years, we’ve learned as we’ve worked with millions of these SMBs. The larger problem sometimes goes beyond payments. Payments is what I now call the core infrastructure that SMBs need to set up their digital commerce or online business. But beyond that, the struggle most businesses go through is ‘how do I get demand? How do I maximize retention? How do I uplift conversion?’” he said.\nRazorpay initially addressed some of these requirements through products for payroll, salary disbursements, and vendor payments.\nHowever, conversations with merchants showed that businesses needed support beyond managing money. They also needed help building and growing their online operations.\nHaria said helping more small businesses establish an online presence and succeed in digital commerce could contribute to the growth of India's digital economy.\nUsing transaction data to improve payments\nEvery digital transaction generates information that payment platforms can use to better understand customer needs, identify risks and improve the payment experience.\nHaria discussed Razorpay's transaction-led foundation model, Vulcan 5.2, which is designed to understand what he described as the language of payments.\nAccording to Haria, each transaction contains nearly 3,000 attributes. By analyzing these, the model can predict missing information, assess the likelihood of fraud, and determine whether a transaction is likely to convert.\nThis can help businesses identify suspicious transactions, reduce risks, and improve the chances of converting potential buyers into paying customers.\nHaria explained that conventional machine learning typically involves identifying patterns, developing hypotheses, and training models around them. Transformer-based models, however, can identify smaller patterns that may be difficult to detect through conventional approaches.\nAt PhonePe, machine learning is being used to make payments more reliable.\nAgrawal discussed an internal model called Kill Switch, which predicts whether a transaction is likely to succeed. It considers factors such as bank response times and recent transaction success rates to assess the likelihood of a successful payment.\n“Consumers don't really care whether a transaction fails. What they care about is it should not go into a pending state,” Agrawal said.\n“In this model, we tell the customer even before they initiate the transaction that your bank is probably down, come back and do the transaction later.”\nAgrawal said this approach helps build trust and encourages users to return to the platform.\nTransaction context can also help payment platforms recommend financial products based on customer needs.\nFor example, a customer booking an international flight through PhonePe may benefit from a travel insurance recommendation. For someone who travels only within India, a bus booking may be more relevant.\nAgrawal said PhonePe uses guardrails in its algorithms to avoid recommending products that are not relevant to individual customers.\nRazorpay: From AI assistants to autonomous agents\nRazorpay is also using AI to help merchants manage everyday business operations.\nHaria discussed two initiatives, Ray and Agent Studio, designed to make business support and automation more accessible.\nRay is an AI assistant that functions as an account manager for businesses. While larger customers typically have dedicated account managers, providing similar support to smaller merchants has been difficult to scale.\nRay aims to address this gap by allowing merchants to explain their problems through WhatsApp voice notes or messages in plain English, without navigating complex dashboards and consoles.\nAgent Studio goes further by allowing businesses to use autonomous AI agents for specific tasks.\nThese include recovering abandoned shopping carts, representing merchants in disputes, confirming cash-on-delivery orders and verifying delivery addresses.\nHaria said Razorpay had 12 agents live, with 600 brands using them, including some that use multiple agents.\nThe company plans to increase the number of agents to 100 over the next six months and eventually reach 100,000 businesses using them.\nPhonePe: Bringing more users into digital payments\nAgrawal also discussed how AI-powered tools could help bring more people into the digital payments ecosystem.\nHe highlighted the challenges faced by feature-phone users, many of whom live in smaller towns and rural areas or are beginning to participate in the formal economy.\nFeature phones have several limitations, including the inability to receive software updates over the air. Users may also need assistance with processes that are familiar to more digitally experienced consumers.\nTo address these challenges, PhonePe has introduced voice bots that help users with tasks such as linking bank accounts and setting up UPI PINs.\nPhonePe is also working to make it easier for micro and small merchants to start selling online.\nBuilding a website using platforms such as Shopify or WooCommerce can be expensive and complicated for young entrepreneurs.\nPhonePe's SmartPages product aims to simplify this process by allowing merchants to create a checkout page, list products, and start selling without hiring a web developer or subscribing to a more complex platform.\nIndia's digital payments ecosystem has made everyday transactions easier for millions of people. The next oppo",
+ "id": "C1-pilot-20261025-1317",
+ "caption_final": "How Indian businesses use payment gateway AI agents to recover unpaid orders and verify cash on delivery.\n\nIf you sell products online or take orders over WhatsApp, you know the routine: a buyer asks for pricing, you send a payment link, and the chat goes cold.\n\nPayment providers are building tools to fix this drop-off. Razorpay now has autonomous agents deployed across 600 brands to confirm cash-on-delivery orders, verify delivery addresses, and recover abandoned carts. Meanwhile, PhonePe uses predictive models to warn users when their bank server is slow, preventing transactions from getting stuck in pending states.\n\nCheck your payment gateway portal to see if automated COD verification or cart recovery agents can be enabled.\n\nDo unpaid WhatsApp payment links cause more headaches than delayed supplier deliveries in your daily business?\n\n#Razorpay #PhonePe #DigitalPayments #IndianBusiness"
+}

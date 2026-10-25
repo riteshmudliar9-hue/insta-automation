@@ -1,0 +1,246 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Automating international customer invoicing and foreign payment reconciliation",
+  "angle": "Using modern fintech payment rails to cut foreign exchange markup fees and automate cross-border client receipts.",
+  "audience_problem": "Indian exporters and agency owners lose profit margin on high bank transfer charges and manual wire matching.",
+  "format": "demo",
+  "medium": "both",
+  "source_ids": [
+   84
+  ],
+  "evergreen": true,
+  "keywords": [
+   "cross border payments",
+   "exporters india",
+   "invoicing automation",
+   "fintech"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 8,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 9,
+   "evidence": 8,
+   "viral": 9
+  },
+  "total": 8.67
+ },
+ "piece": {
+  "hooks": [
+   "Agar aap foreign client se bank transfer se payment lete ho, ye dekho.",
+   "Client ne $5,000 bheje, par bank ne kitne rupees kaate pata hai?",
+   "90% exporters foreign payments ke exchange rate par paise gawa rahe hain.",
+   "Stop taking client dollars via normal wire. Iski jagah ye karo.",
+   "Foreign client payments mein hidden bank charges kaise pakdein?"
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "Directly addresses Indian service exporters and agencies using traditional wire transfers, creating instant curiosity about their current banking losses.",
+  "title": "Fixing Hidden Foreign Wire Transfer Deductions",
+  "scenes": [
+   {
+    "purpose": "Hook the viewer with a common operational mistake",
+    "narration": "Agar aap foreign client se bank transfer se payment lete ho, ye dekho.",
+    "on_screen": "Foreign Client Payment Trap",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Hidden FX Markup On Dollars",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Establish the scale of reliance on traditional banking",
+    "narration": "India mein 90% se zyada cross-border transactions abhi bhi traditional banks handle karte hain.",
+    "on_screen": "Banks Handle 90% Plus",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "Client Sends USD",
+     "Bank Currency Conversion",
+     "Net INR In Account"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Demonstrate the transparency issue with client wire receipts",
+    "narration": "Jab 5,000 dollar aate hain, exchange rate aur GST calculation clear nahi hoti.",
+    "on_screen": "Missing Rate Breakdown",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "Traditional Bank",
+    "right_label": "Fintech Rails",
+    "rows": [
+     {
+      "left": "Hidden FX margin",
+      "right": "Live rate visible"
+     },
+     {
+      "left": "Unclear GST cut",
+      "right": "Exact tax breakup"
+     }
+    ]
+   },
+   {
+    "purpose": "Provide concrete alternative fintech rail and transparent checks",
+    "narration": "Skydo jaise B2B fintech platforms real exchange rate aur exact INR amount upfront dikhate hain.",
+    "on_screen": "Transparent B2B Rails",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Live exchange rate",
+     "Upfront INR calculation",
+     "Applicable GST shown"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Call to action with comment trigger",
+    "narration": "Comment RAILS, main aapko cross-border payments transparency checklist DM kar dunga.",
+    "on_screen": "Comment RAILS For Checklist",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Audit Your Foreign Invoices",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "How to track hidden bank exchange charges on international client payments. When an overseas client wires payment, traditional banks rarely show the exact exchange rate spread or the specific GST charged on conversion fees. Modern B2B fintech rails like Skydo show the prevailing exchange rate and the exact rupee breakdown before the money hits your account. Always match the live interbank rate against the actual rupee conversion you received on your foreign invoice. Comment RAILS for our cross-border payment checklist.",
+  "hashtags": [
+   "#CrossBorderPayments",
+   "#IndianExporters",
+   "#ExportInvoicing",
+   "#FintechIndia"
+  ],
+  "keywords": [
+   "cross border payments India",
+   "export invoicing",
+   "foreign exchange markup",
+   "Skydo B2B payments",
+   "international client payment reconciliation"
+  ],
+  "claims": [
+   {
+    "claim": "India exports goods and services worth approximately $850 billion annually and imports around $1 trillion.",
+    "source_id": 84
+   },
+   {
+    "claim": "Less than 10% of India's cross-border transactions are handled by fintech companies, while banks manage most.",
+    "source_id": 84
+   },
+   {
+    "claim": "Businesses receiving foreign client payments often lack transparency regarding the exchange rate applied, foreign exchange charges, and applicable GST.",
+    "source_id": 84
+   },
+   {
+    "claim": "Modern cross-border platforms such as Skydo display the live prevailing exchange rate, upfront INR payout calculations, and applicable GST.",
+    "source_id": 84
+   }
+  ],
+  "dm_keyword": "RAILS",
+  "dm_text": "Cross-border payment transparency checklist for Indian exporters and agencies: 1. Check the interbank market rate at the exact timestamp your client makes the wire payment. 2. Request your bank's FX conversion advice note to inspect the exact spread margin deducted from the market rate. 3. Verify the applicable GST deducted on the conversion and processing fees. 4. Evaluate dedicated B2B platforms like Skydo that provide upfront exchange rate visibility and exact INR conversion totals before money lands in your bank."
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 7,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 7
+  },
+  "claims": [
+   {
+    "claim": "India exports goods and services worth approximately $850 billion annually and imports around $1 trillion.",
+    "supported": true
+   },
+   {
+    "claim": "Less than 10% of India's cross-border transactions are handled by fintech companies, while banks manage most.",
+    "supported": true
+   },
+   {
+    "claim": "Businesses receiving foreign client payments often lack transparency regarding the exchange rate applied, foreign exchange charges, and applicable GST.",
+    "supported": true
+   },
+   {
+    "claim": "Modern cross-border platforms such as Skydo display the live prevailing exchange rate, upfront INR payout calculations, and applicable GST.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Scene 3: The table layout is slightly cramped; ensure the text in the 'Traditional Bank' column doesn't feel too heavy compared to the 'Fintech Rails' column.",
+   "Scene 4: The checkmark icons are a bit small; ensure they are high-contrast against the cream background for mobile readability."
+  ],
+  "issues": [
+   "The transition between the problem (banks) and the solution (fintech) is clear, but the reel could benefit from a slightly stronger visual distinction between the 'hidden' nature of bank fees and the 'transparent' nature of fintech.",
+   "The narration in Scene 3 is slightly repetitive with the on-screen text; ensure the voiceover adds value rather than just reading the labels."
+  ],
+  "fix_instructions": "1. In Scene 3, increase the font size of the table headers to ensure they stand out as the primary comparison point. 2. In Scene 4, use a slightly bolder green for the checkmarks to improve visual hierarchy. 3. Ensure the voiceover in Scene 3 emphasizes the 'hidden' aspect of the bank fees to create more emotional resonance before presenting the solution. 4. Double-check that the subtitle box in Scene 2 does not overlap with the bottom of the diagram."
+ },
+ "rules": [],
+ "reasons": [
+  "originality 7/10 (<8)",
+  "visual_integrity 7/10 (<8)"
+ ],
+ "meta": {
+  "duration": 35.4,
+  "voice": "edge",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/pilot-20261025-1317/R2-pilot-20261025-1317/try4/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/pilot-20261025-1317/R2-pilot-20261025-1317/try4/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/pilot-20261025-1317/R2-pilot-20261025-1317/try4/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/pilot-20261025-1317/R2-pilot-20261025-1317/try4/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/pilot-20261025-1317/R2-pilot-20261025-1317/try4/scene_05.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   5.75,
+   7.5,
+   7.24,
+   8.22,
+   6.64
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/pilot-20261025-1317/R2-pilot-20261025-1317/try4",
+ "attempt": 4,
+ "approved": false,
+ "hook": "Agar aap foreign client se bank transfer se payment lete ho, ye dekho.",
+ "log": [
+  "attempt 1: fail {'hook': 8, 'originality': 6, 'practical_value': 6, 'natural_language': 8, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 6/10 (<8)', 'practical_value 6/10 (<8)', 'narrative 7/10 (<8)']",
+  "attempt 2: fail {'hook': 8, 'originality': 6, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 7} ['originality 6/10 (<8)', 'practical_value 7/10 (<8)']",
+  "attempt 3: fail {'hook': 7, 'originality': 6, 'practical_value': 5, 'natural_language': 8, 'accuracy': 7, 'narrative': 7, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 6} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 5/10 (<8)', 'accuracy 7/10 (<8)']",
+  "attempt 4: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'visual_integrity 7/10 (<8)']"
+ ],
+ "material": "[84] YourStory — What will it take for India’s fintech infrastructure to go global?\nURL: https://yourstory.com/2026/10/what-will-it-take-for-indias-fintech-infrastructure-global\nSidebar is Loading... ADVERTISEMENT What will it take for India’s fintech infrastructure to go global? | YourStory PhonePe\nIndia’s payments ecosystem has shown that financial infrastructure can operate at enormous scale. But as fintech companies expand into cross-border business payments and adopt AI, they face a different set of challenges.\nAt TechSparks 2026, Movin Jain, Founder of Skydo, and Srijon Biswas, Chief Technology Officer at PhonePe, discussed the technology behind large-scale payments, the need for transparency in cross-border transactions, and the opportunities emerging from AI.\nThe panel, titled ‘From domestic scale to global rails: The evolution of India's fintech infrastructure’, was moderated by Priya Patankar, Head of Corporate Communications at PhonePe.\nCross-border payments: A market still in its early stages\nJain believes cross-border payments offer considerable opportunities because fintech adoption remains relatively low.\nIndia exports goods and services worth approximately $850 billion annually and imports around $1 trillion worth, with both figures growing. However, less than 10% of these transactions are handled by fintech companies, according to Jain. Banks continue to manage most of these payments.\nSkydo focuses on business-to-business (B2B) payments, where fintech adoption is even lower than in consumer payments. Many businesses are still learning that fintech companies can help them manage cross-border transactions.\nJain believes the immediate opportunity lies in building awareness of the category rather than competing on price.\n“Spending time worrying about other fintech players and how to compete with them is not a good use of time. That time will come maybe 5–10 years down the line when all of us have a lot more penetration in the market,” he said.\nFor now, the priority is to show businesses how fintech companies can address payment problems they have traditionally relied on banks to solve.\nWhile venture capital activity and regulatory developments have helped the sector progress, Jain believes there is considerable room for growth.\nPhonePe’s experience shows the importance of making the right architectural decisions early.\nBiswas said the company planned for scale from the beginning. Its early architects established systems and engineering practices that continued to serve the platform as it grew by nearly 100-1,000X.\n“It's the same pattern that we have used, same set of libraries, same set of constructs that we have used. So it’s been ingrained from the very beginning. We haven’t actually done a large refactor of our architecture for the longest that I can remember,” he said.\nRather than undertake a major architectural overhaul, PhonePe has focused on understanding its technology stack and making deliberate choices about the systems it uses.\nThe company built its own site reliability engineering (SRE) team, adopted a sharded database architecture from the outset, and chose technologies that its engineers understood well.\nBiswas also emphasized the importance of engineering hygiene, instrumentation, testing, quality assurance, and scale testing.\nAt PhonePe’s scale, even unlikely failures can become operational problems. Biswas recalled encountering bugs that had surfaced at another organization years earlier.\nBuilding for scale, he said, requires more than increasing capacity. It also depends on sound architecture, careful technology choices, and the ability to understand and manage systems under demanding conditions.\nBiswas said regulation is not necessarily a constraint for fintech companies. It can encourage businesses to establish the right practices from the beginning.\nThe bigger engineering challenge, he explained, comes from India's combination of scale and diversity.\nHe compared India's scale with China’s, while pointing out that differences across geographies, use cases, and merchant environments create additional complexity.\nPhonePe encountered this during its early expansion into offline payments.\nWhile integrating with merchants, including pharmacy chains such as Apollo Pharmacy, the company found that different systems were already in use across states and cities.\nSupporting these merchants meant building integrations for multiple systems rather than relying on a single standardized setup.\nThese differences create numerous exceptions and edge cases that must be managed alongside high transaction volumes.\nPatankar also noted that PhonePe had received its UAE licence, bringing new opportunities and challenges.\nBiswas said the company would need to adapt its infrastructure for international markets rather than simply replicate its Indian operations.\nMuch of PhonePe’s existing payments architecture has been designed specifically for India. The company is now exploring additional layers of abstraction that could make international expansion easier without having to deploy the entire existing stack and build large teams in every new market.\nWhy transparency matters in cross-border payments\nFor businesses receiving payments from overseas clients, speed and cost are not the only concerns.\nJain believes transparency is equally important.\nSmall businesses, freelancers, and service providers may know how many dollars a client has transferred and how many rupees eventually reach their accounts. However, they may not understand the exchange rate used, the foreign exchange charges, or how the final amount was calculated.\nWithout this information, businesses may find it difficult to question charges or compare payment providers.\nJain said Skydo is working to educate customers about these costs and help them understand where savings are possible.\nHe gave the example of a business receiving a $5,000 payment from an international client.\nIn a transparent system, the business would know as soon as the client makes the payment how many rupees it can expect to receive and when the money is likely to arrive.\nIt would also be able to see the prevailing exchange rate, understand how the final amount was calculated, and know the applicable GST.\nThe discussion also covered AI’s growing role in fintech and its potential impact on businesses.\nJain said Skydo works with service businesses ranging from legal and consulting firms to IT services companies and freelancers.\nHe believes AI agents and automation could allow smaller firms to provide services that previously required the resources of much larger organizations.\nThis could create opportunities for smaller, specialized businesses and freelancers to earn more than was previously possible, particularly in India.\nAt PhonePe, Biswas described AI adoption across three areas: user-facing experiences, developer productivity, and operational efficiency.\nIn the PhonePe app, users can search and ask questions about their transactions using a model running at the edge.\nAI is also being used in operational workflows to interpret regulatory and compliance documents. It helps teams understand what regulatory",
+ "id": "R2-pilot-20261025-1317",
+ "caption_final": "How to track hidden bank exchange charges on international client payments. When an overseas client wires payment, traditional banks rarely show the exact exchange rate spread or the specific GST charged on conversion fees. Modern B2B fintech rails like Skydo show the prevailing exchange rate and the exact rupee breakdown before the money hits your account. Always match the live interbank rate against the actual rupee conversion you received on your foreign invoice. Comment RAILS for our cross-border payment checklist.\n\n#CrossBorderPayments #IndianExporters #ExportInvoicing #FintechIndia"
+}

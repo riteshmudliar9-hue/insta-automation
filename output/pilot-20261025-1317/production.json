@@ -1,0 +1,351 @@
+{
+ "date": "2026-10-25",
+ "tag": "pilot-20261025-1317",
+ "pilot": true,
+ "sources": 95,
+ "ideas": 14,
+ "idea_list": [
+  {
+   "idea": "Disable Google's AI ad targeting on personal Gmail used for small business operations",
+   "format": "problem_fix",
+   "total": 8.84,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 10,
+    "evidence": 9,
+    "viral": 9
+   }
+  },
+  {
+   "idea": "Accelerating payment collections using AI-driven contextual payment reminders",
+   "format": "case_study",
+   "total": 8.82,
+   "scores": {
+    "relevance": 10,
+    "novelty": 7,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 9
+   }
+  },
+  {
+   "idea": "Automating international customer invoicing and foreign payment reconciliation",
+   "format": "demo",
+   "total": 8.67,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 8,
+    "viral": 9
+   }
+  },
+  {
+   "idea": "Automating candidate and vendor matching using Claude and Zapier Model Context Protocol",
+   "format": "tutorial",
+   "total": 8.36,
+   "scores": {
+    "relevance": 8,
+    "novelty": 9,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 8,
+    "evidence": 9,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Cut AI automation API bills using specialized decision models instead of heavy LLMs",
+   "format": "manual_vs_auto",
+   "total": 8.31,
+   "scores": {
+    "relevance": 8,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Disclosing AI-generated product images in social media ads to preserve trust",
+   "format": "problem_fix",
+   "total": 8.12,
+   "scores": {
+    "relevance": 8,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 7,
+    "save_share": 8,
+    "feasibility": 10,
+    "evidence": 9,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Evaluating out-of-the-box AI agents for small business admin tasks in 2026",
+   "format": "tool_test",
+   "total": 8.06,
+   "scores": {
+    "relevance": 9,
+    "novelty": 7,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 8,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "Patching PHP website vulnerabilities to prevent hacker takeovers of shop websites",
+   "format": "checklist",
+   "total": 8.03,
+   "scores": {
+    "relevance": 8,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 7,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "Deploying SMS-based AI text agents for field and customer support",
+   "format": "tool_test",
+   "total": 7.98,
+   "scores": {
+    "relevance": 9,
+    "novelty": 7,
+    "hook_potential": 8,
+    "retention": 7,
+    "save_share": 8,
+    "feasibility": 9,
+    "evidence": 8,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Setting up internal AI training guidelines for shop and back-office staff",
+   "format": "checklist",
+   "total": 7.97,
+   "scores": {
+    "relevance": 9,
+    "novelty": 7,
+    "hook_potential": 7,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 10,
+    "evidence": 8,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "Why unconstrained AI agents fail in daily operational workflows",
+   "format": "myth_fact",
+   "total": 7.89,
+   "scores": {
+    "relevance": 8,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 9,
+    "evidence": 8,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "The hidden cost of AI chat logs and inference data storage",
+   "format": "myth_fact",
+   "total": 7.86,
+   "scores": {
+    "relevance": 7,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "Obsidian vs Notion: Managing store SOPs and client knowledge bases",
+   "format": "tool_test",
+   "total": 7.77,
+   "scores": {
+    "relevance": 8,
+    "novelty": 7,
+    "hook_potential": 7,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 8,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "Google Forms vs Jotform: Selecting the right form builder for automated client intake",
+   "format": "manual_vs_auto",
+   "total": 7.72,
+   "scores": {
+    "relevance": 9,
+    "novelty": 6,
+    "hook_potential": 7,
+    "retention": 7,
+    "save_share": 8,
+    "feasibility": 10,
+    "evidence": 9,
+    "viral": 7
+   }
+  }
+ ],
+ "rejected_ideas": [
+  [
+   "Google Forms vs Jotform: Selecting the right form builder for automated client intake",
+   "low relevance or novelty"
+  ]
+ ],
+ "items": [
+  {
+   "id": "R1-pilot-20261025-1317",
+   "kind": "reel",
+   "format": "problem_fix",
+   "topic": "Disable Google's AI ad targeting on personal Gmail used for small business operations",
+   "hook": "Personal Gmail use kar rahe ho business ke liye? Ye settings check karo.",
+   "approved": true,
+   "attempts": 2,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 8,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 8,
+    "pacing": 8,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [],
+   "log": [
+    "attempt 1: fail {'hook': 5, 'originality': 5, 'practical_value': 4, 'natural_language': 6, 'accuracy': 3, 'narrative': 5, 'visual_integrity': 4, 'pacing': 5, 'brand_consistency': 4, 'publish_readiness': 2} ['hook 5/10 (<8)', 'originality 5/10 (<8)', 'practical_value 4/10 (<8)', 'natural_language 6/10 (<8)']",
+    "attempt 2: PASS {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} []"
+   ],
+   "dir": "output/pilot-20261025-1317/R1-pilot-20261025-1317/try2",
+   "duration": 77.8,
+   "voice": "gemini"
+  },
+  {
+   "id": "R2-pilot-20261025-1317",
+   "kind": "reel",
+   "format": "demo",
+   "topic": "Automating international customer invoicing and foreign payment reconciliation",
+   "hook": "Agar aap foreign client se bank transfer se payment lete ho, ye dekho.",
+   "approved": false,
+   "attempts": 4,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 8,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 7,
+    "pacing": 8,
+    "brand_consistency": 9,
+    "publish_readiness": 7
+   },
+   "reasons": [
+    "originality 7/10 (<8)",
+    "visual_integrity 7/10 (<8)"
+   ],
+   "log": [
+    "attempt 1: fail {'hook': 8, 'originality': 6, 'practical_value': 6, 'natural_language': 8, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 6/10 (<8)', 'practical_value 6/10 (<8)', 'narrative 7/10 (<8)']",
+    "attempt 2: fail {'hook': 8, 'originality': 6, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 7} ['originality 6/10 (<8)', 'practical_value 7/10 (<8)']",
+    "attempt 3: fail {'hook': 7, 'originality': 6, 'practical_value': 5, 'natural_language': 8, 'accuracy': 7, 'narrative': 7, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 6} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 5/10 (<8)', 'accuracy 7/10 (<8)']",
+    "attempt 4: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'visual_integrity 7/10 (<8)']"
+   ],
+   "dir": "output/pilot-20261025-1317/R2-pilot-20261025-1317/try4",
+   "duration": 35.4,
+   "voice": "edge"
+  },
+  {
+   "id": "C1-pilot-20261025-1317",
+   "kind": "carousel",
+   "format": "case_study",
+   "topic": "Accelerating payment collections using AI-driven contextual payment reminders",
+   "hook": "How Razorpay and PhonePe use AI to collect faster",
+   "approved": true,
+   "attempts": 1,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 8,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 9,
+    "pacing": 9,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [],
+   "log": [
+    "attempt 1: PASS {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} []"
+   ],
+   "dir": "output/pilot-20261025-1317/C1-pilot-20261025-1317/try1",
+   "duration": null,
+   "voice": null
+  },
+  {
+   "id": "C2-pilot-20261025-1317",
+   "kind": "carousel",
+   "format": "manual_vs_auto",
+   "topic": "Cut AI automation API bills using specialized decision models instead of heavy LLMs",
+   "hook": "Stop wasting money on AI for simple yes/no tasks",
+   "approved": true,
+   "attempts": 1,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 8,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 9,
+    "pacing": 9,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [],
+   "log": [
+    "attempt 1: PASS {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} []"
+   ],
+   "dir": "output/pilot-20261025-1317/C2-pilot-20261025-1317/try1",
+   "duration": null,
+   "voice": null
+  }
+ ],
+ "llm_calls": {
+  "text": 17,
+  "tts": 26,
+  "failed": 0
+ }
+}
