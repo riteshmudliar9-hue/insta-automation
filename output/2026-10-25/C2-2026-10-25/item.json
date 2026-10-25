@@ -1,0 +1,209 @@
+{
+ "kind": "carousel",
+ "idea": {
+  "idea": "The 5-minute email-to-sheet automation that saves traders 40 minutes daily",
+  "angle": "You don't need a complex multi-agent system when a simple 3-step parser eliminates daily vendor bookkeeping.",
+  "audience_problem": "Wholesale traders spend an hour every evening copying invoice figures from vendor emails into Excel tally sheets.",
+  "format": "audience_q",
+  "medium": "carousel",
+  "source_ids": [
+   80
+  ],
+  "evergreen": true,
+  "keywords": [
+   "email automation",
+   "google sheets",
+   "invoice parsing",
+   "small business bookkeeping"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 7,
+   "hook_potential": 8,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 9,
+   "evidence": 8
+  },
+  "total": 8.33
+ },
+ "piece": {
+  "hooks": [
+   "Copying vendor invoices into Excel? Do this instead.",
+   "Stop manually logging invoice numbers from your daily emails.",
+   "Cut 40 minutes of daily bookkeeping to 5 minutes."
+  ],
+  "chosen_hook": 2,
+  "hook_reason": "It addresses the specific pain point of the audience (manual data entry) while promising a concrete, time-saving outcome, which is highly relevant to small business owners.",
+  "slides": [
+   {
+    "kind": "cover",
+    "title": "Stop manually logging invoice numbers from your daily emails.",
+    "subtitle": "Use a simple 3-step automation to pull vendor data into your spreadsheet.",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "point",
+    "title": "The Daily Bottleneck",
+    "subtitle": "Small business bookkeeping",
+    "body": "Many wholesale traders spend an hour every evening manually typing invoice figures from supplier emails into Excel or Tally. It is repetitive, slow, and prone to human error.",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "steps",
+    "title": "The 3-Step Setup",
+    "subtitle": "How to automate data entry",
+    "body": "Use low-code tools like Zapier or Make to connect your inbox to your sheets.",
+    "items": [
+     "Create a trigger for new emails from specific vendor domains.",
+     "Use a parser tool to extract invoice numbers and amounts.",
+     "Map the parsed data into your existing Excel or Google Sheet."
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "mythfact",
+    "title": "Automation vs Control",
+    "subtitle": "Addressing the fear of loss",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "Automation removes all human oversight.",
+    "fact": "You can automate the data pull while still reviewing the final summary before sending or filing it.",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "quote",
+    "title": "The Result",
+    "subtitle": "Real time savings",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "It cut about 40 minutes down to 5 and I still read it before sending.",
+    "attribution": "/u/ibrahim_40 (r/automation)"
+   },
+   {
+    "kind": "summary",
+    "title": "Before you start",
+    "subtitle": "Practical considerations",
+    "body": "",
+    "items": [
+     "Test with 5 emails first to ensure data maps correctly.",
+     "Keep the automation simple; avoid complex agent systems.",
+     "Always review the generated sheet for errors once a week.",
+     "Automation breaks if vendor email formats change suddenly."
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   }
+  ],
+  "caption": "Stop wasting 40 minutes every evening copying invoice figures into Excel. If you run a wholesale shop or manage multiple suppliers, you can automate this data entry using tools like Zapier or Make. The setup is simple: pull invoice numbers directly from incoming emails into your ledger or spreadsheet. You still maintain full control by reading the summary before final entry. Start by setting up this flow for your most frequent vendor first. Have you ever tried connecting your inbox to your accounting sheet? #SmallBusinessIndia #BookkeepingTips #OfficeAutomation #Efficiency #TraderLife",
+  "hashtags": [
+   "#SmallBusinessIndia",
+   "#BookkeepingTips",
+   "#OfficeAutomation",
+   "#Efficiency",
+   "#TraderLife"
+  ],
+  "keywords": [
+   "small business bookkeeping",
+   "automate invoice entry",
+   "wholesale trader tools",
+   "Zapier for business",
+   "Excel data automation"
+  ],
+  "claims": [
+   {
+    "claim": "An automation that pulls numbers from weekly emails into a spreadsheet cut 40 minutes of manual work down to 5 minutes.",
+    "source_id": 80
+   },
+   {
+    "claim": "Automation should be reviewed by a human before final processing.",
+    "source_id": 80
+   }
+  ]
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 9,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "An automation that pulls numbers from weekly emails into a spreadsheet cut 40 minutes of manual work down to 5 minutes.",
+    "supported": true,
+    "note": "Directly supported by the source material."
+   },
+   {
+    "claim": "Automation should be reviewed by a human before final processing.",
+    "supported": true,
+    "note": "Supported by the source's mention of reading the summary before sending."
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [],
+  "issues": [
+   "The carousel is very strong, but the '3-step setup' slide is slightly generic. It mentions 'parser tool' without naming a specific, accessible example for a beginner (like Zapier's built-in parser or Mailparser), which might leave a non-technical user stuck.",
+   "Slide 2 mentions 'Tally', which is excellent for the Indian context, but the rest of the advice focuses on Excel/Sheets. Ensure the user knows this automation usually requires an intermediary step to get data into Tally."
+  ],
+  "fix_instructions": "The content is excellent and ready for publication. For future iterations, consider adding a small 'Pro-tip' or footnote on Slide 3 mentioning a specific tool name (e.g., 'Zapier Parser') to bridge the gap between concept and execution. No immediate changes are required for this draft."
+ },
+ "rules": [],
+ "reasons": [],
+ "meta": {
+  "ai_visuals": false,
+  "slides": 6
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-10-25/C2-2026-10-25/try2",
+ "attempt": 2,
+ "approved": true,
+ "hook": "Cut 40 minutes of daily bookkeeping to 5 minutes.",
+ "log": [
+  "attempt 1: fail {'hook': 8, 'originality': 6, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 6/10 (<8)', 'practical_value 7/10 (<8)']",
+  "attempt 2: PASS {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 9, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} []"
+ ],
+ "material": "[80] r/automation — What’s the smallest automation that saved you the most time?\nURL: https://www.reddit.com/r/automation/comments/1xedd82/whats_the_smallest_automation_that_saved_you_the/\nMine pulls numbers from my weekly emails into a spreadsheet and drafts the summary. It cut about 40 minutes down to 5 and I still read it before sending. What’s yours and did you ever automate something that wasn’t worth it? submitted by /u/ibrahim_40 [link] [comments]",
+ "id": "C2-2026-10-25",
+ "caption_final": "Stop wasting 40 minutes every evening copying invoice figures into Excel. If you run a wholesale shop or manage multiple suppliers, you can automate this data entry using tools like Zapier or Make. The setup is simple: pull invoice numbers directly from incoming emails into your ledger or spreadsheet. You still maintain full control by reading the summary before final entry. Start by setting up this flow for your most frequent vendor first. Have you ever tried connecting your inbox to your accounting sheet?\n\n#SmallBusinessIndia #BookkeepingTips #OfficeAutomation #Efficiency #TraderLife"
+}

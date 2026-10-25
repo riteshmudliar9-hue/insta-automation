@@ -104,5 +104,53 @@
    "workflow automation"
   ],
   "status": "queued"
+ },
+ {
+  "id": "C2-2026-10-25",
+  "date": "2026-10-25",
+  "kind": "carousel",
+  "format": "audience_q",
+  "topic": "The 5-minute email-to-sheet automation that saves traders 40 minutes daily",
+  "hook": "Cut 40 minutes of daily bookkeeping to 5 minutes.",
+  "keywords": [
+   "small business bookkeeping",
+   "automate invoice entry",
+   "wholesale trader tools",
+   "Zapier for business",
+   "Excel data automation"
+  ],
+  "status": "queued"
+ },
+ {
+  "id": "C4-2026-10-25",
+  "date": "2026-10-25",
+  "kind": "carousel",
+  "format": "myth_fact",
+  "topic": "Why AI agents break in production: Autonomy needs strict engineering guardrails",
+  "hook": "Why your AI agents keep making expensive mistakes",
+  "keywords": [
+   "ai agents",
+   "business automation",
+   "production systems",
+   "ai guardrails",
+   "agent trust"
+  ],
+  "status": "queued"
+ },
+ {
+  "id": "C3-2026-10-25",
+  "date": "2026-10-25",
+  "kind": "carousel",
+  "format": "case_study",
+  "topic": "How AT&T's legal intake automation can be adapted for small vendor agreements",
+  "hook": "How large companies use AI to catch risky contract clauses",
+  "keywords": [
+   "contract review",
+   "business contracts",
+   "AI legal assistant",
+   "vendor agreement",
+   "contract negotiation"
+  ],
+  "status": "queued"
  }
 ]

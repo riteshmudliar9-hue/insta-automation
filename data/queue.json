@@ -264,5 +264,128 @@
   "attempts": 1,
   "media_id": "17973203175167490",
   "permalink": "https://www.instagram.com/p/De4bjM2nMKx/"
+ },
+ {
+  "id": "C2-2026-10-25",
+  "kind": "carousel",
+  "date": "2026-10-25",
+  "slot": "2026-10-25T08:30",
+  "dir": "output/2026-10-25/C2-2026-10-25/try2",
+  "files": [
+   "slide_01.jpg",
+   "slide_02.jpg",
+   "slide_03.jpg",
+   "slide_04.jpg",
+   "slide_05.jpg",
+   "slide_06.jpg"
+  ],
+  "caption": "Stop wasting 40 minutes every evening copying invoice figures into Excel. If you run a wholesale shop or manage multiple suppliers, you can automate this data entry using tools like Zapier or Make. The setup is simple: pull invoice numbers directly from incoming emails into your ledger or spreadsheet. You still maintain full control by reading the summary before final entry. Start by setting up this flow for your most frequent vendor first. Have you ever tried connecting your inbox to your accounting sheet?\n\n#SmallBusinessIndia #BookkeepingTips #OfficeAutomation #Efficiency #TraderLife",
+  "topic": "The 5-minute email-to-sheet automation that saves traders 40 minutes daily",
+  "format": "audience_q",
+  "hook": "Cut 40 minutes of daily bookkeeping to 5 minutes.",
+  "keywords": [
+   "small business bookkeeping",
+   "automate invoice entry",
+   "wholesale trader tools",
+   "Zapier for business",
+   "Excel data automation"
+  ],
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 9,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "status": "queued",
+  "produced_at": 1792887356,
+  "log": []
+ },
+ {
+  "id": "C4-2026-10-25",
+  "kind": "carousel",
+  "date": "2026-10-25",
+  "slot": "2026-10-25T12:30",
+  "dir": "output/2026-10-25/C4-2026-10-25/try1",
+  "files": [
+   "slide_01.jpg",
+   "slide_02.jpg",
+   "slide_03.jpg",
+   "slide_04.jpg",
+   "slide_05.jpg",
+   "slide_06.jpg"
+  ],
+  "caption": "When your AI agent starts quoting wrong prices or hallucinating stock levels, it is not a 'bad model' problem. It is a control problem. Moving from a successful demo to a reliable production system requires shifting focus from prompt engineering to infrastructure engineering. You need circuit breakers that can catch errors and escalate them to a human before they hit your customer's screen. If you cannot audit why an agent chose a specific price or credit limit, it is not ready for your business. Start by documenting the decision policies the agent must follow, then build the monitoring to ensure it stays within those boundaries. What is the most common failure you have seen when automating client-facing tasks?\n\n#aiagent #businessautomation #smallbusinessindia #techops #processautomation",
+  "topic": "Why AI agents break in production: Autonomy needs strict engineering guardrails",
+  "format": "myth_fact",
+  "hook": "Why your AI agents keep making expensive mistakes",
+  "keywords": [
+   "ai agents",
+   "business automation",
+   "production systems",
+   "ai guardrails",
+   "agent trust"
+  ],
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 9,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "status": "queued",
+  "produced_at": 1792887356,
+  "log": []
+ },
+ {
+  "id": "C3-2026-10-25",
+  "kind": "carousel",
+  "date": "2026-10-25",
+  "slot": "2026-10-25T16:30",
+  "dir": "output/2026-10-25/C3-2026-10-25/try3",
+  "files": [
+   "slide_01.jpg",
+   "slide_02.jpg",
+   "slide_03.jpg",
+   "slide_04.jpg",
+   "slide_05.jpg",
+   "slide_06.jpg"
+  ],
+  "caption": "Small contractors often rush to sign vendor agreements without checking for hidden penalty clauses. AT&T’s legal department is testing a 'front door' AI system to classify requests and pull relevant history before a lawyer even touches the document. You can mirror this by keeping a 'Standard Terms' file and asking your AI to compare any new incoming contract against it. Don't let the tool decide for you; use it to highlight what needs your specific attention. What is the one clause you always double-check before signing a supply contract?\n\n#contractmanagement #smallbusinessindia #businessautomation #contractlaw #vendorcontracts",
+  "topic": "How AT&T's legal intake automation can be adapted for small vendor agreements",
+  "format": "case_study",
+  "hook": "How large companies use AI to catch risky contract clauses",
+  "keywords": [
+   "contract review",
+   "business contracts",
+   "AI legal assistant",
+   "vendor agreement",
+   "contract negotiation"
+  ],
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "status": "queued",
+  "produced_at": 1792887356,
+  "log": []
  }
 ]

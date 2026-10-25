@@ -1,0 +1,477 @@
+{
+ "date": "2026-10-25",
+ "tag": "2026-10-25",
+ "pilot": false,
+ "sources": 86,
+ "ideas": 14,
+ "idea_list": [
+  {
+   "idea": "The 4-step framework to get non-tech warehouse and retail staff to use AI tools",
+   "format": "checklist",
+   "total": 8.45,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 8
+   }
+  },
+  {
+   "idea": "Why your WhatsApp automation crashes during flash sales and how to buffer it",
+   "format": "problem_fix",
+   "total": 8.37,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 8,
+    "evidence": 8
+   }
+  },
+  {
+   "idea": "The 5-minute email-to-sheet automation that saves traders 40 minutes daily",
+   "format": "audience_q",
+   "total": 8.33,
+   "scores": {
+    "relevance": 9,
+    "novelty": 7,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 8
+   }
+  },
+  {
+   "idea": "Cutting Zapier subscription bills: When to switch to Make or self-hosted n8n",
+   "format": "audience_q",
+   "total": 8.33,
+   "scores": {
+    "relevance": 9,
+    "novelty": 7,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 8
+   }
+  },
+  {
+   "idea": "PHP2Shell vulnerability: Is your WooCommerce store exposing customer order data?",
+   "format": "problem_fix",
+   "total": 8.26,
+   "scores": {
+    "relevance": 8,
+    "novelty": 9,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 8,
+    "evidence": 8
+   }
+  },
+  {
+   "idea": "How AT&T's legal intake automation can be adapted for small vendor agreements",
+   "format": "case_study",
+   "total": 8.16,
+   "scores": {
+    "relevance": 8,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 8,
+    "evidence": 8
+   }
+  },
+  {
+   "idea": "Why AI agents break in production: Autonomy needs strict engineering guardrails",
+   "format": "myth_fact",
+   "total": 8.16,
+   "scores": {
+    "relevance": 8,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 8,
+    "evidence": 8
+   }
+  },
+  {
+   "idea": "Text-message AI agents vs website chatbots: Which converts Indian retail buyers?",
+   "format": "tool_test",
+   "total": 8.05,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 8,
+    "evidence": 7
+   }
+  },
+  {
+   "idea": "Upgrading Zapier flows with Claude MCP to resolve delivery address mismatches",
+   "format": "problem_fix",
+   "total": 7.97,
+   "scores": {
+    "relevance": 8,
+    "novelty": 9,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 8,
+    "evidence": 7
+   }
+  },
+  {
+   "idea": "Running local voice models on laptop hardware for zero-cost call transcription",
+   "format": "tool_test",
+   "total": 7.83,
+   "scores": {
+    "relevance": 7,
+    "novelty": 9,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 7,
+    "evidence": 8
+   }
+  },
+  {
+   "idea": "Do you need coding skills to automate messy GST data for clients?",
+   "format": "myth_fact",
+   "total": 7.82,
+   "scores": {
+    "relevance": 8,
+    "novelty": 7,
+    "hook_potential": 7,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 9,
+    "evidence": 8
+   }
+  },
+  {
+   "idea": "Organizing messy shop operations: Obsidian vs Notion for Indian business SOPs",
+   "format": "manual_vs_auto",
+   "total": 7.77,
+   "scores": {
+    "relevance": 7,
+    "novelty": 7,
+    "hook_potential": 7,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 8
+   }
+  },
+  {
+   "idea": "Google Forms vs Jotform for contractor job estimate requests in 2026",
+   "format": "tool_test",
+   "total": 7.69,
+   "scores": {
+    "relevance": 8,
+    "novelty": 6,
+    "hook_potential": 7,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 9,
+    "evidence": 8
+   }
+  },
+  {
+   "idea": "Mandatory AI ad labeling laws: Protecting your export and digital ad accounts",
+   "format": "checklist",
+   "total": 7.66,
+   "scores": {
+    "relevance": 7,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 7,
+    "save_share": 8,
+    "feasibility": 8,
+    "evidence": 8
+   }
+  }
+ ],
+ "rejected_ideas": [
+  [
+   "Google Forms vs Jotform for contractor job estimate requests in 2026",
+   "low relevance or novelty"
+  ]
+ ],
+ "items": [
+  {
+   "id": "R1-2026-10-25",
+   "kind": "reel",
+   "format": "problem_fix",
+   "topic": "Why your WhatsApp automation crashes during flash sales and how to buffer it",
+   "hook": "Your WhatsApp automation crashes because ten customers messaged at the exact same minute.",
+   "approved": false,
+   "attempts": 1,
+   "scores": {
+    "hook": 8,
+    "originality": 8,
+    "practical_value": 7,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 9,
+    "pacing": 8,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [
+    "practical_value 7/10 (<8)"
+   ],
+   "log": [
+    "attempt 1: fail {'hook': 8, 'originality': 8, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['practical_value 7/10 (<8)']",
+    "attempt 2: fail {'hook': 6, 'originality': 6, 'practical_value': 5, 'natural_language': 6, 'accuracy': 6, 'narrative': 6, 'visual_integrity': 6, 'pacing': 6, 'brand_consistency': 6, 'publish_readiness': 5} ['hook 6/10 (<8)', 'originality 6/10 (<8)', 'practical_value 5/10 (<8)', 'natural_language 6/10 (<8)']",
+    "attempt 3: fail {'hook': 6, 'originality': 5, 'practical_value': 6, 'natural_language': 6, 'accuracy': 7, 'narrative': 6, 'visual_integrity': 6, 'pacing': 6, 'brand_consistency': 6, 'publish_readiness': 6} ['hook 6/10 (<8)', 'originality 5/10 (<8)', 'practical_value 6/10 (<8)', 'natural_language 6/10 (<8)']"
+   ],
+   "dir": "output/2026-10-25/R1-2026-10-25/try1",
+   "duration": 97.1,
+   "voice": "gemini"
+  },
+  {
+   "id": "R2-2026-10-25",
+   "kind": "reel",
+   "format": "tool_test",
+   "topic": "Text-message AI agents vs website chatbots: Which converts Indian retail buyers?",
+   "hook": "You do not need another app to manage site follow-ups and supplier reminders.",
+   "approved": false,
+   "attempts": 2,
+   "scores": {
+    "hook": 7,
+    "originality": 6,
+    "practical_value": 6,
+    "natural_language": 7,
+    "accuracy": 8,
+    "narrative": 7,
+    "visual_integrity": 8,
+    "pacing": 7,
+    "brand_consistency": 8,
+    "publish_readiness": 7
+   },
+   "reasons": [
+    "hook 7/10 (<8)",
+    "originality 6/10 (<8)",
+    "practical_value 6/10 (<8)",
+    "natural_language 7/10 (<8)",
+    "narrative 7/10 (<8)"
+   ],
+   "log": [
+    "attempt 1: fail {'hook': 6, 'originality': 6, 'practical_value': 4, 'natural_language': 7, 'accuracy': 4, 'narrative': 5, 'visual_integrity': 7, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 4} ['hook 6/10 (<8)', 'originality 6/10 (<8)', 'practical_value 4/10 (<8)', 'natural_language 7/10 (<8)']",
+    "attempt 2: fail {'hook': 7, 'originality': 6, 'practical_value': 6, 'natural_language': 7, 'accuracy': 8, 'narrative': 7, 'visual_integrity': 8, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 7} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 6/10 (<8)', 'natural_language 7/10 (<8)']",
+    "attempt 3: fail {'hook': 7, 'originality': 6, 'practical_value': 4, 'natural_language': 7, 'accuracy': 4, 'narrative': 5, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 4} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 4/10 (<8)', 'natural_language 7/10 (<8)']"
+   ],
+   "dir": "output/2026-10-25/R2-2026-10-25/try2",
+   "duration": 40.8,
+   "voice": "gemini"
+  },
+  {
+   "id": "R3-2026-10-25",
+   "kind": "reel",
+   "format": "myth_fact",
+   "topic": "Do you need coding skills to automate messy GST data for clients?",
+   "hook": "Drag-and-drop automation works fine until you hit messy client data.",
+   "approved": false,
+   "attempts": 1,
+   "scores": {
+    "hook": 7,
+    "originality": 6,
+    "practical_value": 6,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 7,
+    "pacing": 8,
+    "brand_consistency": 8,
+    "publish_readiness": 7
+   },
+   "reasons": [
+    "hook 7/10 (<8)",
+    "originality 6/10 (<8)",
+    "practical_value 6/10 (<8)",
+    "visual_integrity 7/10 (<8)"
+   ],
+   "log": [
+    "attempt 1: fail {'hook': 7, 'originality': 6, 'practical_value': 6, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 7} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 6/10 (<8)', 'visual_integrity 7/10 (<8)']",
+    "attempt 2: fail {'hook': 7, 'originality': 6, 'practical_value': 7, 'natural_language': 8, 'accuracy': 8, 'narrative': 8, 'visual_integrity': 6, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 6} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 7/10 (<8)', 'visual_integrity 6/10 (<8)']",
+    "attempt 3: fail {'hook': 6, 'originality': 5, 'practical_value': 5, 'natural_language': 6, 'accuracy': 7, 'narrative': 6, 'visual_integrity': 6, 'pacing': 6, 'brand_consistency': 6, 'publish_readiness': 6} ['hook 6/10 (<8)', 'originality 5/10 (<8)', 'practical_value 5/10 (<8)', 'natural_language 6/10 (<8)']"
+   ],
+   "dir": "output/2026-10-25/R3-2026-10-25/try1",
+   "duration": 36.9,
+   "voice": "edge"
+  },
+  {
+   "id": "R4-2026-10-25",
+   "kind": "reel",
+   "format": "checklist",
+   "topic": "Mandatory AI ad labeling laws: Protecting your export and digital ad accounts",
+   "hook": "Running AI ad creatives overseas can now trigger ad account bans.",
+   "approved": false,
+   "attempts": 3,
+   "scores": {
+    "hook": 7,
+    "originality": 7,
+    "practical_value": 8,
+    "natural_language": 8,
+    "accuracy": 7,
+    "narrative": 8,
+    "visual_integrity": 7,
+    "pacing": 8,
+    "brand_consistency": 9,
+    "publish_readiness": 7
+   },
+   "reasons": [
+    "hook 7/10 (<8)",
+    "originality 7/10 (<8)",
+    "accuracy 7/10 (<8)",
+    "visual_integrity 7/10 (<8)"
+   ],
+   "log": [
+    "attempt 1: fail {'hook': 5, 'originality': 6, 'practical_value': 5, 'natural_language': 6, 'accuracy': 7, 'narrative': 6, 'visual_integrity': 5, 'pacing': 7, 'brand_consistency': 6, 'publish_readiness': 5} ['need 3-5 hashtags, got 1', 'hook 5/10 (<8)', 'originality 6/10 (<8)', 'practical_value 5/10 (<8)']",
+    "attempt 2: fail {'hook': 7, 'originality': 8, 'practical_value': 6, 'natural_language': 7, 'accuracy': 8, 'narrative': 7, 'visual_integrity': 6, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 6} ['hook 7/10 (<8)', 'practical_value 6/10 (<8)', 'natural_language 7/10 (<8)', 'narrative 7/10 (<8)']",
+    "attempt 3: fail {'hook': 7, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 7, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['hook 7/10 (<8)', 'originality 7/10 (<8)', 'accuracy 7/10 (<8)', 'visual_integrity 7/10 (<8)']"
+   ],
+   "dir": "output/2026-10-25/R4-2026-10-25/try3",
+   "duration": 45.8,
+   "voice": "edge"
+  },
+  {
+   "id": "C1-2026-10-25",
+   "kind": "carousel",
+   "format": "checklist",
+   "topic": "The 4-step framework to get non-tech warehouse and retail staff to use AI tools",
+   "hook": "Why your staff still won't use AI",
+   "approved": false,
+   "attempts": 3,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 8,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 7,
+    "pacing": 8,
+    "brand_consistency": 9,
+    "publish_readiness": 7
+   },
+   "reasons": [
+    "originality 7/10 (<8)",
+    "visual_integrity 7/10 (<8)",
+    "spelling: Slide 6: 'Review first week AI drafts' should use a hyphen ('first-week AI drafts')."
+   ],
+   "log": [
+    "attempt 1: fail {'hook': 8, 'originality': 7, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 6, 'visual_integrity': 7, 'pacing': 6, 'brand_consistency': 8, 'publish_readiness': 6} ['need 3-5 hashtags, got 1', 'originality 7/10 (<8)', 'practical_value 7/10 (<8)', 'narrative 6/10 (<8)']",
+    "attempt 2: fail {'hook': 7, 'originality': 6, 'practical_value': 6, 'natural_language': 8, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 8, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 7} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 6/10 (<8)', 'narrative 7/10 (<8)']",
+    "attempt 3: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'visual_integrity 7/10 (<8)', \"spelling: Slide 6: 'Review first week AI drafts' should use a hyphen ('first-week AI drafts').\"]"
+   ],
+   "dir": "output/2026-10-25/C1-2026-10-25/try3",
+   "duration": null,
+   "voice": null
+  },
+  {
+   "id": "C2-2026-10-25",
+   "kind": "carousel",
+   "format": "audience_q",
+   "topic": "The 5-minute email-to-sheet automation that saves traders 40 minutes daily",
+   "hook": "Cut 40 minutes of daily bookkeeping to 5 minutes.",
+   "approved": true,
+   "attempts": 2,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 8,
+    "natural_language": 9,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 9,
+    "pacing": 9,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [],
+   "log": [
+    "attempt 1: fail {'hook': 8, 'originality': 6, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 6/10 (<8)', 'practical_value 7/10 (<8)']",
+    "attempt 2: PASS {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 9, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} []"
+   ],
+   "dir": "output/2026-10-25/C2-2026-10-25/try2",
+   "duration": null,
+   "voice": null
+  },
+  {
+   "id": "C3-2026-10-25",
+   "kind": "carousel",
+   "format": "case_study",
+   "topic": "How AT&T's legal intake automation can be adapted for small vendor agreements",
+   "hook": "How large companies use AI to catch risky contract clauses",
+   "approved": true,
+   "attempts": 3,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 8,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 9,
+    "pacing": 9,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [],
+   "log": [
+    "attempt 1: fail {'hook': 8, 'originality': 7, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} ['originality 7/10 (<8)', 'practical_value 7/10 (<8)']",
+    "attempt 2: fail {'hook': 8, 'originality': 7, 'practical_value': 7, 'natural_language': 8, 'accuracy': 8, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 7} ['originality 7/10 (<8)', 'practical_value 7/10 (<8)']",
+    "attempt 3: PASS {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} []"
+   ],
+   "dir": "output/2026-10-25/C3-2026-10-25/try3",
+   "duration": null,
+   "voice": null
+  },
+  {
+   "id": "C4-2026-10-25",
+   "kind": "carousel",
+   "format": "myth_fact",
+   "topic": "Why AI agents break in production: Autonomy needs strict engineering guardrails",
+   "hook": "Why your AI agents keep making expensive mistakes",
+   "approved": true,
+   "attempts": 1,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 8,
+    "natural_language": 9,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 9,
+    "pacing": 9,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [],
+   "log": [
+    "attempt 1: PASS {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 9, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} []"
+   ],
+   "dir": "output/2026-10-25/C4-2026-10-25/try1",
+   "duration": null,
+   "voice": null
+  }
+ ],
+ "llm_calls": {
+  "text": 43,
+  "tts": 26,
+  "failed": 0
+ }
+}

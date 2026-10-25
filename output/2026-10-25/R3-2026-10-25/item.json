@@ -1,0 +1,216 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Do you need coding skills to automate messy GST data for clients?",
+  "angle": "No-code builders handle 90% of business connections, but custom transformations like Indian GST calculations require minimal regex or Python snippets.",
+  "audience_problem": "Freelancers and business owners hit a wall when drag-and-drop tools cannot clean formatted tax receipts or split address lines.",
+  "format": "myth_fact",
+  "medium": "reel",
+  "source_ids": [
+   83
+  ],
+  "evergreen": true,
+  "keywords": [
+   "no code limits",
+   "gst automation",
+   "api transformation",
+   "automation freelancing"
+  ],
+  "scores": {
+   "relevance": 8,
+   "novelty": 7,
+   "hook_potential": 7,
+   "retention": 8,
+   "save_share": 8,
+   "feasibility": 9,
+   "evidence": 8
+  },
+  "total": 7.82
+ },
+ "piece": {
+  "hooks": [
+   "You do not need coding to start automating client business workflows.",
+   "Drag-and-drop automation works fine until you hit messy client data.",
+   "Most business automation is about logic and troubleshooting, not writing code."
+  ],
+  "chosen_hook": 1,
+  "hook_reason": "Directly confronts the limit of standard no-code tools when handling unformatted business inputs like GST invoices.",
+  "title": "Do You Need Coding for Client Automations?",
+  "scenes": [
+   {
+    "purpose": "Introduce the practical limit of drag-and-drop automation.",
+    "narration": "Drag-and-drop automation works fine until you hit messy client data.",
+    "on_screen": "No-code has clear limits",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "No-code hits boundaries",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Explain how initial automations rely on logic rather than code.",
+    "narration": "Tools like Zapier, Make, and n8n let you build client workflows using plain logic and basic integrations.",
+    "on_screen": "Logic beats coding early on",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "Connect apps",
+     "Apply logic",
+     "Trigger action"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Show where code becomes useful in real client projects.",
+    "narration": "Say you extract text from GST invoices. Coding only becomes necessary when dealing with messy API data or custom transformations.",
+    "on_screen": "Edge cases need code",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "Standard Setup",
+    "right_label": "Custom Needs",
+    "rows": [
+     {
+      "left": "Simple field mapping",
+      "right": "Custom code script"
+     },
+     {
+      "left": "Direct app trigger",
+      "right": "Data transformation"
+     },
+     {
+      "left": "Standard connectors",
+      "right": "Regex parsing"
+     }
+    ]
+   },
+   {
+    "purpose": "Provide actionable verdict for setting up business automations.",
+    "narration": "For professional builds, focus first on process logic and troubleshooting. Add short code snippets only when raw data breaks.",
+    "on_screen": "Focus on business logic",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Map process logic first",
+     "Connect standard app APIs",
+     "Test and troubleshoot",
+     "Add code for edge cases"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "How to automate client GST invoices and messy data without heavy coding. Building automations for small businesses or shop ledgers usually starts with platforms like Zapier, Make, or n8n. You can handle standard supplier follow-ups or invoice triggers purely through simple logic and built-in connectors. However, when incoming supplier receipts have split address lines or inconsistent tax fields, standard modules can stall. You do not need to write full software programs. Learn basic Python string operations or regex to clean messy payloads before pushing them to your ledger. What custom data issue usually stops your workflow?",
+  "hashtags": [
+   "#BusinessAutomation",
+   "#ZapierTips",
+   "#MakeAutomation",
+   "#GSTInvoice",
+   "#WorkflowAutomation"
+  ],
+  "keywords": [
+   "zapier gst automation",
+   "n8n workflow logic",
+   "make custom transformation",
+   "messy api data regex",
+   "small business automation india"
+  ],
+  "claims": [
+   {
+    "claim": "Initial client workflows in platforms like Zapier, Make, and n8n depend mainly on logic, integrations, and troubleshooting rather than coding.",
+    "source_id": 83
+   },
+   {
+    "claim": "Coding becomes necessary in automation work when handling edge cases like messy API data or custom transformations.",
+    "source_id": 83
+   }
+  ]
+ },
+ "review": {
+  "scores": {
+   "hook": 7,
+   "originality": 6,
+   "practical_value": 6,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 7,
+   "pacing": 8,
+   "brand_consistency": 8,
+   "publish_readiness": 7
+  },
+  "claims": [
+   {
+    "claim": "Initial client workflows in platforms like Zapier, Make, and n8n depend mainly on logic, integrations, and troubleshooting rather than coding.",
+    "supported": true,
+    "note": "Supported by source."
+   },
+   {
+    "claim": "Coding becomes necessary in automation work when handling edge cases like messy API data or custom transformations.",
+    "supported": true,
+    "note": "Supported by source."
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Scene 1: The white visual card redundantly repeats text ('No-code hits boundaries') right below the headline ('No-code has clear limits'), offering no diagram or visual illustration."
+  ],
+  "issues": [
+   "The mention of 'GST invoices' in Scene 3 narration is framed well for Indian SMB context in speech, but the slide graphics remain abstract ('Standard Setup' vs 'Custom Needs') rather than illustrating an invoice data example."
+  ],
+  "fix_instructions": "Replace the generic text block in Scene 1 visual card with a visual element (such as a split icon or a failing workflow block visual) instead of duplicating the headline. In Scene 3, consider displaying a quick visual example of messy GST invoice data fields to make the concept instantly concrete for viewers."
+ },
+ "rules": [],
+ "reasons": [
+  "hook 7/10 (<8)",
+  "originality 6/10 (<8)",
+  "practical_value 6/10 (<8)",
+  "visual_integrity 7/10 (<8)"
+ ],
+ "meta": {
+  "duration": 36.9,
+  "voice": "edge",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-25/R3-2026-10-25/try1/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-25/R3-2026-10-25/try1/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-25/R3-2026-10-25/try1/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-25/R3-2026-10-25/try1/scene_04.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   5.73,
+   9.09,
+   11.75,
+   10.29
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-10-25/R3-2026-10-25/try1",
+ "attempt": 1,
+ "approved": false,
+ "hook": "Drag-and-drop automation works fine until you hit messy client data.",
+ "log": [
+  "attempt 1: fail {'hook': 7, 'originality': 6, 'practical_value': 6, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 7} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 6/10 (<8)', 'visual_integrity 7/10 (<8)']",
+  "attempt 2: fail {'hook': 7, 'originality': 6, 'practical_value': 7, 'natural_language': 8, 'accuracy': 8, 'narrative': 8, 'visual_integrity': 6, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 6} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 7/10 (<8)', 'visual_integrity 6/10 (<8)']",
+  "attempt 3: fail {'hook': 6, 'originality': 5, 'practical_value': 5, 'natural_language': 6, 'accuracy': 7, 'narrative': 6, 'visual_integrity': 6, 'pacing': 6, 'brand_consistency': 6, 'publish_readiness': 6} ['hook 6/10 (<8)', 'originality 5/10 (<8)', 'practical_value 5/10 (<8)', 'natural_language 6/10 (<8)']"
+ ],
+ "material": "[83] r/automation — Do you really need to know code to build automations for clients?\nURL: https://www.reddit.com/r/automation/comments/1xe5f2d/do_you_really_need_to_know_code_to_build/\nI started with tools like Zapier, Make, and n8n without much coding and realized most client workflows are really about logic, integrations, and troubleshooting. Coding only became useful when I hit edge cases like messy API data or custom transformations. For people doing automation work professionally, how much coding do you actually use day to day? submitted by /u/Hefty_Camera_6948 [link] [comments]",
+ "id": "R3-2026-10-25",
+ "caption_final": "How to automate client GST invoices and messy data without heavy coding. Building automations for small businesses or shop ledgers usually starts with platforms like Zapier, Make, or n8n. You can handle standard supplier follow-ups or invoice triggers purely through simple logic and built-in connectors. However, when incoming supplier receipts have split address lines or inconsistent tax fields, standard modules can stall. You do not need to write full software programs. Learn basic Python string operations or regex to clean messy payloads before pushing them to your ledger. What custom data issue usually stops your workflow?\n\n#BusinessAutomation #ZapierTips #MakeAutomation #GSTInvoice #WorkflowAutomation"
+}

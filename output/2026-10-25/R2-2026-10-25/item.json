@@ -1,0 +1,249 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Text-message AI agents vs website chatbots: Which converts Indian retail buyers?",
+  "angle": "Indian buyers ignore embedded web chat widgets; placing conversational AI directly inside SMS and WhatsApp channels drives actual order inquiries.",
+  "audience_problem": "Retailers spend money installing web chatbots that nobody opens, while their WhatsApp inboxes overflow with repetitive stock questions.",
+  "format": "tool_test",
+  "medium": "both",
+  "source_ids": [
+   3
+  ],
+  "evergreen": true,
+  "keywords": [
+   "sms ai agents",
+   "whatsapp bot",
+   "conversational commerce",
+   "lead intake"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 8,
+   "hook_potential": 8,
+   "retention": 8,
+   "save_share": 8,
+   "feasibility": 8,
+   "evidence": 7
+  },
+  "total": 8.05
+ },
+ "piece": {
+  "hooks": [
+   "You do not need another app to manage site follow-ups and supplier reminders.",
+   "Texting an AI agent on WhatsApp can manage your daily business schedule.",
+   "Stop installing new apps just to track daily tasks and calendar reminders."
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "It addresses app overload directly while speaking to specific daily pain points like site follow-ups and supplier reminders.",
+  "title": "Text-Based AI Agents for Owner Productivity",
+  "scenes": [
+   {
+    "purpose": "Hook the audience with a real problem of app fatigue.",
+    "narration": "You do not need another app to manage site follow-ups and supplier reminders.",
+    "on_screen": "Skip downloading extra business apps",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Run Tasks via Text",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Introduce text-based AI agents operating inside existing chat channels.",
+    "narration": "New AI agents like Martin and Folk live directly inside WhatsApp, Telegram, or ordinary SMS.",
+    "on_screen": "Agents live in your inbox",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "Text your request",
+     "Agent reads context",
+     "Executes task or reminder"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Provide concrete examples for small business owners.",
+    "narration": "Say you run a hardware shop. Text the agent to set payment reminders or check your calendar.",
+    "on_screen": "Set reminders in normal chat",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Calendar scheduling",
+     "Supplier payment reminders",
+     "Daily briefing summaries",
+     "Email follow-ups"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Detail pricing and clarify crucial limitations.",
+    "narration": "Martin works on WhatsApp while Folk offers Pro plans for eight dollars a month. But these are personal assistants, not public customer chat widgets.",
+    "on_screen": "Personal assistant, not customer bot",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "Personal Messaging AI",
+    "right_label": "Public Web Chatbot",
+    "rows": [
+     {
+      "left": "Runs in WhatsApp/SMS",
+      "right": "Requires website widget"
+     },
+     {
+      "left": "Tracks owner tasks",
+      "right": "Handles public traffic"
+     },
+     {
+      "left": "Remembers personal context",
+      "right": "Resets every visitor"
+     }
+    ]
+   },
+   {
+    "purpose": "Deliver practical verdict and next step.",
+    "narration": "If your day is scattered across site visits and notes, test a messaging agent for internal reminders first.",
+    "on_screen": "Start with internal task tracking",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Test Internal Messaging Agents First",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "How small business owners can use SMS and WhatsApp AI agents for schedule management and daily task reminders. Instead of downloading more standalone apps, text-based AI agents like Martin and Folk operate inside chat apps you already open every day. You can message them to organize your calendar, set supplier payment reminders, or draft emails. Folk offers a Pro tier at $8.33 per month for running background tasks. Remember that these are built as internal personal assistants for owners, not as public web widgets for shop visitors. Do you currently track business reminders in messaging apps or notebooks?",
+  "hashtags": [
+   "#BusinessAutomation",
+   "#SmallBusinessTools",
+   "#WhatsAppAutomation",
+   "#TaskManagement"
+  ],
+  "keywords": [
+   "WhatsApp AI",
+   "text message agents",
+   "business task reminders",
+   "Folk AI",
+   "Martin AI"
+  ],
+  "claims": [
+   {
+    "claim": "AI agents can live directly inside SMS, WhatsApp, Telegram, and iMessage without downloading a separate app.",
+    "source_id": 3
+   },
+   {
+    "claim": "Martin is accessible through SMS, phone, WhatsApp, email, and Slack to manage calendars, notes, and reminders.",
+    "source_id": 3
+   },
+   {
+    "claim": "Folk works via iMessage, WhatsApp, and Telegram, offering a Pro subscription for $8.33 per month.",
+    "source_id": 3
+   },
+   {
+    "claim": "Text message agents can remember context, manage calendars, set reminders, and complete multi-step tasks.",
+    "source_id": 3
+   }
+  ]
+ },
+ "review": {
+  "scores": {
+   "hook": 7,
+   "originality": 6,
+   "practical_value": 6,
+   "natural_language": 7,
+   "accuracy": 8,
+   "narrative": 7,
+   "visual_integrity": 8,
+   "pacing": 7,
+   "brand_consistency": 8,
+   "publish_readiness": 7
+  },
+  "claims": [
+   {
+    "claim": "AI agents can live directly inside SMS, WhatsApp, Telegram, and iMessage without downloading a separate app.",
+    "supported": true,
+    "note": "Supported directly by the source article text."
+   },
+   {
+    "claim": "Martin is accessible through SMS, phone, WhatsApp, email, and Slack to manage calendars, notes, and reminders.",
+    "supported": true,
+    "note": "Explicitly listed under Martin in the source."
+   },
+   {
+    "claim": "Folk works via iMessage, WhatsApp, and Telegram, offering a Pro subscription for $8.33 per month.",
+    "supported": true,
+    "note": "Explicitly stated under Folk in the source."
+   },
+   {
+    "claim": "Text message agents can remember context, manage calendars, set reminders, and complete multi-step tasks.",
+    "supported": true,
+    "note": "Supported across general agent descriptions and Folk/Martin entries."
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [],
+  "issues": [
+   "Practical value is limited because the reel mentions Martin and Folk but does not tell the viewer how to actually access or start texting them.",
+   "Scenes 1 and 5 use very minimal text-only white card visuals which feel slightly repetitive."
+  ],
+  "fix_instructions": "Add a clear action step in the caption or Scene 5 directing viewers on how to connect with these agents (e.g., search links or website addresses in caption)."
+ },
+ "rules": [],
+ "reasons": [
+  "hook 7/10 (<8)",
+  "originality 6/10 (<8)",
+  "practical_value 6/10 (<8)",
+  "natural_language 7/10 (<8)",
+  "narrative 7/10 (<8)"
+ ],
+ "meta": {
+  "duration": 40.8,
+  "voice": "gemini",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-25/R2-2026-10-25/try2/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-25/R2-2026-10-25/try2/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-25/R2-2026-10-25/try2/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-25/R2-2026-10-25/try2/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-25/R2-2026-10-25/try2/scene_05.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   5.91,
+   9.83,
+   6.63,
+   10.59,
+   7.79
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-10-25/R2-2026-10-25/try2",
+ "attempt": 2,
+ "approved": false,
+ "hook": "You do not need another app to manage site follow-ups and supplier reminders.",
+ "log": [
+  "attempt 1: fail {'hook': 6, 'originality': 6, 'practical_value': 4, 'natural_language': 7, 'accuracy': 4, 'narrative': 5, 'visual_integrity': 7, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 4} ['hook 6/10 (<8)', 'originality 6/10 (<8)', 'practical_value 4/10 (<8)', 'natural_language 7/10 (<8)']",
+  "attempt 2: fail {'hook': 7, 'originality': 6, 'practical_value': 6, 'natural_language': 7, 'accuracy': 8, 'narrative': 7, 'visual_integrity': 8, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 7} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 6/10 (<8)', 'natural_language 7/10 (<8)']",
+  "attempt 3: fail {'hook': 7, 'originality': 6, 'practical_value': 4, 'natural_language': 7, 'accuracy': 4, 'narrative': 5, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 4} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 4/10 (<8)', 'natural_language 7/10 (<8)']"
+ ],
+ "material": "[3] TechCrunch AI — Here are the top AI agents that can live in your text messages\nURL: https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/\n–:–:–:– Buy One Founder Summit Ticket, Get a Second for Free. Register now.\nDisrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off. REGISTER NOW.\nImage Credits: Tero Vesalainen / Getty Images AI Here are the top AI agents that can live in your text messages Lauren Forristal 7:00 AM PDT · October 24, 2026 Rather than downloading another app, a growing number of agents can simply be texted like an ordinary person.\nYou text it what you need, and it can remember context, connect to the apps and services you already use, and complete tasks on your behalf. That can mean scheduling an appointment, organizing a calendar, researching a trip, sending an email, making a reservation, shopping online, or reminding you about something days later.\nWhile Instinct is one of the buzziest AI agents at present, thanks to its $10 billion valuation after its latest funding round of $1 billion, there are many others also making a play for this space.\nBelow are the most notable options so far, from general-purpose personal assistants to agents designed for families, travel, and work.\nAsk Proxy ’s biggest differentiator is that it “thinks like a woman,” meaning it aims to anticipate your needs before you even ask, the company explains on its website.\nIt works like a chatbot you can text like a friend, whether you need gift ideas, help planning an event, or recommendations for things to do that weekend. You can ask it to add important dates to your calendar, set reminders, or help with everyday decisions. You can also send it photos, like an empty table, to figure out how to decorate the table for a dinner party.\nUnlike a typical chatbot, Ask Proxy also takes a proactive approach. It can reach out when it notices something you might forget or when it comes across a new activity, restaurant, or experience you might enjoy.\nThere’s also a work-focused version, which the company explains “gets employees back to work faster, while keeping personal data off company systems.”\nThe personal version costs $1 per day. For businesses, pricing starts at $15 per employee per month for large companies and $23 per employee per month for small teams with fewer than 49 employees.\nAsk Proxy works over SMS. You can text “start” to 820-732-2625.\nCaddy is an AI assistant that turns the information scattered across your phone into things you can actually act on. It lives in iMessage for iPhone users and RCS for Android users, so there’s no separate app or inbox to constantly check.\nFor instance, an email contains an appointment that needs to be added to your calendar or a friend sends a list of things to pick up. Instead of worrying about all the details getting buried, Caddy connects to your calendars and conversations, then identifies things that may require action. It can add events to your calendar, set reminders, keep track of follow-ups, and even do research for you.\nCaddy has been available in public beta since April 2026.\nComma is designed to manage tasks across both work and everyday life. Comma carries tasks through to completion, checking its own work and determining when a task is finished.\nCompleted work is surfaced for review when a decision or approval is needed. It also proactively notifies users and recommends the next steps.\nIt can work across a user’s browser, computer, and files, while remaining accessible remotely through messaging apps such as Signal, Telegram, and WeChat. Comma maintains context and memory across devices and conversations, and can deliver daily briefings, flag urgent matters, and summarize recorded calls.\nFambot is an AI-powered “chief of staff” for families, designed to bring together the many moving parts of family life, including school communications, sports activities, meal planning, calendars, and other day-to-day responsibilities, and turn them into an organized plan.\nThe service is designed to work across both an app and text messages. Fambot is available on iOS devices, Android devices, and the web, and families can also interact with it directly over SMS. Every night, Fambot automatically sends a summary of the following day, including upcoming events, to-dos, and details such as school uniform or packing requirements. Parents can reply to those messages to ask questions, check information, or make changes to their calendar.\nFambot currently connects to Gmail, Google Calendar, Outlook, and WhatsApp, with support for Apple Calendar planned for the future.\nThe company launched in beta in early September 2026 and has raised $3.5 million in pre-seed funding. The service is currently free during the beta period, but Fambot expects to eventually charge roughly the equivalent of a Netflix subscription.\nFolk is designed to be an AI assistant you can reach through iMessage, WhatsApp, and Telegram. It can remember personal context, manage reminders, research topics, track flights, handle email, and perform real-world tasks such as restaurant reservations.\nOne distinction is that Folk runs on its own private cloud computer. It can also run code and execute multi-step tasks rather than merely responding conversationally.\nFolk launched its beta in May 2026, and it’s available for free but also offers a Pro subscription for $8.33/month if you want unlimited tasks running in the background.\nInstinct first made headlines after raising $350 million at a $2.5 billion valuation. In September 2026, it raised $1 billion , valuing it at $10 billion.\nThe always-available agent can take actions on your behalf, rather than simply answer questions. Users can communicate with Instinct by text or voice and connect it to the apps and services they already use, such as email, calendar, Google Workspace, and more. The company says early users have used Instinct for tasks ranging from planning trips and buying groceries to booking tickets and canceling subscriptions.\nIn September, Instinct began giving users dedicated email addresses for their assistants. The idea is to let Instinct create and manage accounts on a user’s behalf without filling the user’s personal inbox. The agent can use its address to sign up for services, contact businesses, follow up on requests, and handle tasks that require an email account. (However, this level of autonomy has also raised concerns about privacy and security .) It’s also begun rolling out support for placing calls .\nPowered by Hermes Agent, Iris is designed to let users delegate tasks to an AI assistant directly through iMessage. Users can connect the apps they use and hand over a task with a simple message. The agent then works through the required steps, while retaining relevant context from previous interactions. It’s also designed to follow up with users proactively rather than waiting for another request.\nMartin is a general-purpose personal assistant reachable through SMS as well as phone, WhatsApp, email, Slack, and its own iOS app.\nIt can help manage calendars, email, reminders, tasks, notes, and communications. It can also act",
+ "id": "R2-2026-10-25",
+ "caption_final": "How small business owners can use SMS and WhatsApp AI agents for schedule management and daily task reminders. Instead of downloading more standalone apps, text-based AI agents like Martin and Folk operate inside chat apps you already open every day. You can message them to organize your calendar, set supplier payment reminders, or draft emails. Folk offers a Pro tier at $8.33 per month for running background tasks. Remember that these are built as internal personal assistants for owners, not as public web widgets for shop visitors. Do you currently track business reminders in messaging apps or notebooks?\n\n#BusinessAutomation #SmallBusinessTools #WhatsAppAutomation #TaskManagement"
+}

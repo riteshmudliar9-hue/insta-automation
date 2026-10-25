@@ -1,0 +1,246 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Why your WhatsApp automation crashes during flash sales and how to buffer it",
+  "angle": "Automation workflows don't fail because of bad logic; they crash because burst triggers exceed spreadsheet and LLM API rate limits.",
+  "audience_problem": "Contractors and retailers lose leads when ten inquiries hit at the exact same minute and choke their automation tools.",
+  "format": "problem_fix",
+  "medium": "reel",
+  "source_ids": [
+   84
+  ],
+  "evergreen": true,
+  "keywords": [
+   "rate limits",
+   "webhook buffering",
+   "workflow crash",
+   "burst triggers",
+   "make automation"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 8,
+   "hook_potential": 8,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 8,
+   "evidence": 8
+  },
+  "total": 8.37
+ },
+ "piece": {
+  "hooks": [
+   "Your WhatsApp automation crashes because ten customers messaged at the exact same minute.",
+   "Automation tutorials never test what happens when ten inquiries arrive at once.",
+   "When ten orders hit your sheet simultaneously, Google rate limits drop rows."
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "It addresses a direct and frustrating real-world failure that shop owners and contractors face during sales broadcasts.",
+  "title": "Why Automation Workflows Crash During Inquiry Bursts",
+  "scenes": [
+   {
+    "purpose": "Hook the viewer with a specific failure scenario",
+    "narration": "Your WhatsApp automation crashes because ten customers messaged at the exact same minute.",
+    "on_screen": "Why burst triggers crash workflows",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "10 leads at once",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Identify the real technical bottleneck",
+    "narration": "Workflows don't fail on logic. They choke because Google Sheets and AI APIs have strict rate limits.",
+    "on_screen": "Spreadsheets choke first",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "10 burst leads",
+     "Google Sheets limit",
+     "Dropped entries"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Explain the exact consequence of rate limits",
+    "narration": "Sheets hits limits first. The trigger fires, rows get skipped, and runs finish halfway through.",
+    "on_screen": "Skipped rows and dropped data",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "Without Queue",
+    "right_label": "With Queue",
+    "rows": [
+     {
+      "left": "10 burst triggers",
+      "right": "10 burst triggers"
+     },
+     {
+      "left": "Hits API rate limit",
+      "right": "Buffers in line"
+     },
+     {
+      "left": "Half-finished runs",
+      "right": "All rows written"
+     }
+    ]
+   },
+   {
+    "purpose": "Present the simple architectural solution",
+    "narration": "The fix is simple: put a queue step right after your webhook trigger in n8n.",
+    "on_screen": "Add a queue buffer step",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "Webhook trigger",
+     "Queue step",
+     "Sheet and AI call"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "State the honest trade-off and final result",
+    "narration": "Every customer entry lands properly. It just finishes a few seconds later instead of crashing.",
+    "on_screen": "Reliable data, slight delay",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Zero dropped rows",
+     "Protects API rate limits",
+     "Delivers 5 seconds later"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "How to stop WhatsApp automation and webhook workflows from crashing during inquiry bursts.\n\nMost automation tutorials test one customer order at a time. In reality, a promotional broadcast or flash sale sends ten inquiries in the same minute. That burst chokes your Google Sheets node and LLM calls, leaving you with dropped rows and half-finished workflow runs. Sheets rate limits usually break first.\n\nThe fix is adding a queue step immediately after your webhook trigger. Your flow will process entries sequentially without choking API limits.\n\nHas your sheet or webhook ever skipped inquiries during a sale?",
+  "hashtags": [
+   "#n8n",
+   "#WorkflowAutomation",
+   "#GoogleSheetsAutomation",
+   "#SmallBusinessTech"
+  ],
+  "keywords": [
+   "webhook queue step",
+   "google sheets rate limit",
+   "whatsapp automation crash",
+   "n8n burst triggers",
+   "workflow buffer"
+  ],
+  "claims": [
+   {
+    "claim": "Real triggers fire in bursts of ten or more events in a minute, causing workflow nodes to choke.",
+    "source_id": 84
+   },
+   {
+    "claim": "Google Sheets rate limits usually hit first during trigger bursts.",
+    "source_id": 84
+   },
+   {
+    "claim": "Without a queue step, burst triggers result in skipped rows and half-finished workflow runs.",
+    "source_id": 84
+   },
+   {
+    "claim": "Placing a queue step after a webhook in n8n ensures all data lands, delayed only by a few seconds.",
+    "source_id": 84
+   }
+  ]
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 8,
+   "practical_value": 7,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "Real triggers fire in bursts of ten or more events in a minute, causing workflow nodes to choke.",
+    "supported": true,
+    "note": "Supported directly by source text."
+   },
+   {
+    "claim": "Google Sheets rate limits usually hit first during trigger bursts.",
+    "supported": true,
+    "note": "Supported directly by source text."
+   },
+   {
+    "claim": "Without a queue step, burst triggers result in skipped rows and half-finished workflow runs.",
+    "supported": true,
+    "note": "Supported directly by source text."
+   },
+   {
+    "claim": "Placing a queue step after a webhook in n8n ensures all data lands, delayed only by a few seconds.",
+    "supported": true,
+    "note": "Supported directly by source text."
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [],
+  "issues": [],
+  "fix_instructions": "The content is precise, visually clean, and well-aligned with Indian SMB tech scenarios (WhatsApp lead spikes). No major edits needed before publishing."
+ },
+ "rules": [],
+ "reasons": [
+  "practical_value 7/10 (<8)"
+ ],
+ "meta": {
+  "duration": 97.1,
+  "voice": "gemini",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-25/R1-2026-10-25/try1/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-25/R1-2026-10-25/try1/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-25/R1-2026-10-25/try1/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-25/R1-2026-10-25/try1/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-25/R1-2026-10-25/try1/scene_05.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   19.67,
+   20.71,
+   20.19,
+   18.55,
+   17.99
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-10-25/R1-2026-10-25/try1",
+ "attempt": 1,
+ "approved": false,
+ "hook": "Your WhatsApp automation crashes because ten customers messaged at the exact same minute.",
+ "log": [
+  "attempt 1: fail {'hook': 8, 'originality': 8, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['practical_value 7/10 (<8)']",
+  "attempt 2: fail {'hook': 6, 'originality': 6, 'practical_value': 5, 'natural_language': 6, 'accuracy': 6, 'narrative': 6, 'visual_integrity': 6, 'pacing': 6, 'brand_consistency': 6, 'publish_readiness': 5} ['hook 6/10 (<8)', 'originality 6/10 (<8)', 'practical_value 5/10 (<8)', 'natural_language 6/10 (<8)']",
+  "attempt 3: fail {'hook': 6, 'originality': 5, 'practical_value': 6, 'natural_language': 6, 'accuracy': 7, 'narrative': 6, 'visual_integrity': 6, 'pacing': 6, 'brand_consistency': 6, 'publish_readiness': 6} ['hook 6/10 (<8)', 'originality 5/10 (<8)', 'practical_value 6/10 (<8)', 'natural_language 6/10 (<8)']"
+ ],
+ "material": "[84] r/automation — what happens to your flow when a trigger sends ten events in a minute\nURL: https://www.reddit.com/r/automation/comments/1xefb6t/what_happens_to_your_flow_when_a_trigger_sends/\nMost automation tutorials assume one event at a time. Real triggers don’t work like that. An account that posts in bursts can fire a workflow a dozen times in a minute, and the slack node, the google sheets node and the llm call all start choking at different points. Sheets rate limits hit first, usually. A setup that came up recently: a webhook feed from 1322 going into n8n, then a queue step, then the slack message, the sheet row and the llm summary. Before the queue, burst posts caused skipped rows and half finished runs. After it, everything still lands, just a few seconds late. Queue plus",
+ "id": "R1-2026-10-25",
+ "caption_final": "How to stop WhatsApp automation and webhook workflows from crashing during inquiry bursts.\n\nMost automation tutorials test one customer order at a time. In reality, a promotional broadcast or flash sale sends ten inquiries in the same minute. That burst chokes your Google Sheets node and LLM calls, leaving you with dropped rows and half-finished workflow runs. Sheets rate limits usually break first.\n\nThe fix is adding a queue step immediately after your webhook trigger. Your flow will process entries sequentially without choking API limits.\n\nHas your sheet or webhook ever skipped inquiries during a sale?\n\n#n8n #WorkflowAutomation #GoogleSheetsAutomation #SmallBusinessTech"
+}

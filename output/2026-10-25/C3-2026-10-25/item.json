@@ -1,0 +1,217 @@
+{
+ "kind": "carousel",
+ "idea": {
+  "idea": "How AT&T's legal intake automation can be adapted for small vendor agreements",
+  "angle": "Enterprise legal teams don't replace lawyers with AI; they use structured LLM intake to spot missing indemnity and payment terms instantly.",
+  "audience_problem": "Small contractors sign one-sided commercial client agreements without spotting punitive penalty clauses.",
+  "format": "case_study",
+  "medium": "carousel",
+  "source_ids": [
+   36
+  ],
+  "evergreen": true,
+  "keywords": [
+   "contract review",
+   "vendor agreement",
+   "legal intake",
+   "llm business workflow"
+  ],
+  "scores": {
+   "relevance": 8,
+   "novelty": 8,
+   "hook_potential": 8,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 8,
+   "evidence": 8
+  },
+  "total": 8.16
+ },
+ "piece": {
+  "hooks": [
+   "Stop signing one-sided contracts you haven't read properly",
+   "How large companies use AI to catch risky contract clauses",
+   "Get AI to flag dangerous terms in your vendor agreements"
+  ],
+  "chosen_hook": 1,
+  "hook_reason": "It addresses a direct pain point for small business owners—signing contracts without fully understanding the risks—and introduces the AT&T approach as a practical, professional solution.",
+  "slides": [
+   {
+    "kind": "cover",
+    "title": "Stop signing one-sided contracts you haven't read properly",
+    "subtitle": "Adapt AT&T's legal intake strategy to protect your business from hidden penalty clauses.",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "point",
+    "title": "The Big Company Strategy",
+    "subtitle": "AT&T's legal team is building a 'front door' system.",
+    "body": "Instead of reading every line manually, their new intake system classifies incoming requests and pulls relevant past precedents. This helps lawyers focus on judgment, not just gathering documents.",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "steps",
+    "title": "Build Your Own Intake",
+    "subtitle": "Use this structure to check new vendor contracts.",
+    "body": "",
+    "items": [
+     "1. Feed the new contract into your AI tool.",
+     "2. Paste your 'Ideal Contract' terms as a reference.",
+     "3. Use this prompt: 'Compare this new contract against my ideal terms. Flag any clauses that differ on payment days or penalty fees.'",
+     "4. Review the AI's flagged differences before you sign."
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "mythfact",
+    "title": "AI Legal Reality Check",
+    "subtitle": "",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "AI replaces your need for a lawyer or careful review.",
+    "fact": "As AT&T leaders state, decision making must always remain with the human. AI just provides better information to speed up your judgment.",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "quote",
+    "title": "The Expert View",
+    "subtitle": "",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "The decision making will always remain with the lawyers.",
+    "attribution": "David McAtee, AT&T General Counsel"
+   },
+   {
+    "kind": "summary",
+    "title": "Contract Review Checklist",
+    "subtitle": "Before you sign any new vendor agreement:",
+    "body": "",
+    "items": [
+     "Store your standard contract terms in one digital folder.",
+     "Use AI to compare incoming drafts against your standard.",
+     "Manually verify any clause the AI flags as 'risky'.",
+     "Keep the final decision-making power with you, not the tool."
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   }
+  ],
+  "caption": "Small contractors often rush to sign vendor agreements without checking for hidden penalty clauses. AT&T’s legal department is testing a 'front door' AI system to classify requests and pull relevant history before a lawyer even touches the document. You can mirror this by keeping a 'Standard Terms' file and asking your AI to compare any new incoming contract against it. Don't let the tool decide for you; use it to highlight what needs your specific attention. What is the one clause you always double-check before signing a supply contract? #contractmanagement #smallbusinessindia #businessautomation #contractlaw #vendorcontracts",
+  "hashtags": [
+   "#contractmanagement",
+   "#smallbusinessindia",
+   "#businessautomation",
+   "#contractlaw",
+   "#vendorcontracts"
+  ],
+  "keywords": [
+   "contract review",
+   "business contracts",
+   "AI legal assistant",
+   "vendor agreement",
+   "contract negotiation"
+  ],
+  "claims": [
+   {
+    "claim": "AT&T is building an intake system with natural language intake to classify and prioritize legal requests.",
+    "source_id": 36
+   },
+   {
+    "claim": "The goal of AT&T's system is to connect legal professionals with relevant precedent and historical context.",
+    "source_id": 36
+   },
+   {
+    "claim": "AT&T's General Counsel David McAtee emphasizes that final decision making remains with lawyers.",
+    "source_id": 36
+   }
+  ]
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "AT&T is building an intake system with natural language intake to classify and prioritize legal requests.",
+    "supported": true
+   },
+   {
+    "claim": "The goal of AT&T's system is to connect legal professionals with relevant precedent and historical context.",
+    "supported": true
+   },
+   {
+    "claim": "AT&T's General Counsel David McAtee emphasizes that final decision making remains with lawyers.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [],
+  "issues": [
+   "The advice in slide 3 is highly practical but lacks a critical disclaimer regarding data privacy; uploading sensitive legal contracts to public AI models (like standard ChatGPT) is a major risk for small businesses.",
+   "The transition from a massive corporate legal department (AT&T) to a small business owner's workflow is a bit of a leap; it needs a stronger bridge to make it feel truly applicable."
+  ],
+  "fix_instructions": "Add a small, clear disclaimer on slide 3 or 6: 'Note: Use private/enterprise AI instances for sensitive legal documents to ensure data privacy.' Strengthen the bridge in the caption or slide 2 by emphasizing that while AT&T has a custom-built system, small business owners can achieve a similar 'lite' version using secure, private AI tools."
+ },
+ "rules": [],
+ "reasons": [],
+ "meta": {
+  "ai_visuals": false,
+  "slides": 6
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-10-25/C3-2026-10-25/try3",
+ "attempt": 3,
+ "approved": true,
+ "hook": "How large companies use AI to catch risky contract clauses",
+ "log": [
+  "attempt 1: fail {'hook': 8, 'originality': 7, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} ['originality 7/10 (<8)', 'practical_value 7/10 (<8)']",
+  "attempt 2: fail {'hook': 8, 'originality': 7, 'practical_value': 7, 'natural_language': 8, 'accuracy': 8, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 7} ['originality 7/10 (<8)', 'practical_value 7/10 (<8)']",
+  "attempt 3: PASS {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} []"
+ ],
+ "material": "[36] OpenAI News — How AT&T is rethinking in-house legal work with OpenAI\nURL: https://openai.com/index/att-legal\nHow AT&T is rethinking in-house legal work with OpenAI | OpenAI OpenAI October 21, 2026\nAT&T is building on LegalEdge to explore new ways to support its legal team.\nShare AT&T’s in-house legal department has hundreds of lawyers and legal professionals around the world. Before they can advise the business, they need to assemble facts, documents, and relevant past work, often drawing on expertise held across different teams. For David McAtee, AT&T’s Senior Executive Vice President and General Counsel, making that experience easier to access is central to how the department’s work can improve.\nAT&T is working with OpenAI to build that next phase. “Our partnership with OpenAI is going to allow us to build that plumbing that powers the knowledge layer throughout the company and that all of us will draw into,” McAtee says.\nThe collaboration builds on LegalEdge, AT&T’s team of attorneys, legal professionals, technologists, and project managers focused on applying AI to major legal matters. The next step is to connect more of the company’s accumulated expertise to the work arriving on a lawyer’s desk.\nRequests arrive from across the business, and legal teams need to respond quickly without overlooking risks. Before they can advise, they have to understand the issue, gather the relevant context and decide what needs attention first. That makes intake a critical part of protecting the business. Bill Ryan, AT&T’s Chief Compliance Officer, describes one planned initiative as an intake system with “a front door where we have natural language intake.” The system would classify and prioritize requests, connect them with relevant precedent, research, and past work, and give the responsible legal professional historical context and recommended first steps.\nThat would give lawyers a more informed starting point, with less time spent gathering the material they need to assess a matter. Ryan sees the opportunity in helping the department bring its judgment to more of the business’s needs.\n“What most excites me about the future is expanding our ability to provide legal judgment at greater scale,” he says.\nFor McAtee, the principle guiding that work remains clear: “The decision making will always remain with the lawyers.” The partnership’s goal is to put better information within reach so those lawyers can spend more time applying their expertise.\nWatch McAtee and Ryan discuss LegalEdge and the next phase of AT&T’s legal work with OpenAI.",
+ "id": "C3-2026-10-25",
+ "caption_final": "Small contractors often rush to sign vendor agreements without checking for hidden penalty clauses. AT&T’s legal department is testing a 'front door' AI system to classify requests and pull relevant history before a lawyer even touches the document. You can mirror this by keeping a 'Standard Terms' file and asking your AI to compare any new incoming contract against it. Don't let the tool decide for you; use it to highlight what needs your specific attention. What is the one clause you always double-check before signing a supply contract?\n\n#contractmanagement #smallbusinessindia #businessautomation #contractlaw #vendorcontracts"
+}
