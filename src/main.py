@@ -78,7 +78,7 @@ def produce():
         if r["id"] in slots:
             r["slot_info"] = f"Scheduled {slots[r['id']]} IST — reply 'stop {r['id'].split('-')[0]}' to cancel"
             if r.get("arjun"):
-                r["slot_info"] += " (Arjun version replaces this once his clips arrive)"
+                r["slot_info"] += " (Arjun prompts come at 7 PM; his version replaces this once the clips arrive)"
     _send_previews(results, "TODAY")
     ok = sum(r["approved"] for r in results)
     telegram.send_text(f"Production {summary['date']}: {len(results)} made, {ok} approved and scheduled, "
