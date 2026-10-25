@@ -1,1 +1,172 @@
-{"msg_id": 207, "line": "Agar aap abhi bhi har customer ko payment reminder khud bhejte ho, toh ye Reel aapke liye hai.", "sent_at": 1792933488, "clip": "output/arjun-test/clip_208.mp4"}
+{
+ "id": "T1-test",
+ "kind": "reel",
+ "date": "2026-10-25",
+ "slot": "2026-10-25T23:59",
+ "status": "queued",
+ "dir": "output/arjun-test/T1/try1",
+ "caption": "Protect your business invoices and client quotes from being used for personalized ad targeting in your personal Gmail account. Google recently updated its privacy policy, which means connecting your Gmail or Drive to AI tools can open your data to ad profiling. You don't have to stop using AI, but you should check your permissions to ensure your commercial data isn't feeding these algorithms. You can manage these settings directly in your Google Search Services Personalization dashboard. It is a quick check that keeps your business communications private. Comment PRIVACY for the direct link and steps to secure your account settings.\n\n#SmallBusinessIndia #PrivacyTips #GmailTips #BusinessTech #GooglePrivacy",
+ "files": [
+  "reel.mp4"
+ ],
+ "presenter": {
+  "status": "waiting",
+  "takes": [
+   {
+    "n": 1,
+    "kind": "talk",
+    "talk": 1,
+    "line": "Personal Gmail use kar rahe ho business ke liye? Ye privacy settings abhi check karni hogi aapko.",
+    "visual_scene": -1,
+    "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: close-up, camera steady at eye level. Points directly at the camera with a serious expression. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Personal Gmail use kar rahe ho business ke liye? Ye privacy settings abhi check karni hogi aapko.\" No subtitles, no on-screen text, no music, no other people.",
+    "msg_id": 212,
+    "file": null,
+    "got_msg": null
+   },
+   {
+    "n": 2,
+    "kind": "talk",
+    "talk": 2,
+    "line": "Google AI features ke naam par aapka data ads dikhane ke liye use kar sakta hai ab.",
+    "visual_scene": -1,
+    "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: medium close-up with a slow, smooth push-in towards his face. Leans in slightly and lowers his voice for emphasis. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Google AI features ke naam par aapka data ads dikhane ke liye use kar sakta hai ab.\" No subtitles, no on-screen text, no music, no other people.",
+    "msg_id": 213,
+    "file": null,
+    "got_msg": null
+   },
+   {
+    "n": 3,
+    "kind": "broll",
+    "cover": 2,
+    "desc": "close-up of a laptop screen showing a generic privacy settings toggle being switched off",
+    "prompt": "Create a realistic vertical 9:16 video of about 8 seconds: close-up of a laptop screen showing a generic privacy settings toggle being switched off. Indian small-business setting, warm natural light, handheld smartphone-camera look, slow subtle camera movement, shallow depth of field. No faces, no readable text, no brand names or logos, no subtitles, no speech, no music.",
+    "msg_id": 214,
+    "file": null,
+    "got_msg": null
+   },
+   {
+    "n": 4,
+    "kind": "talk",
+    "talk": 3,
+    "line": "Isse band karne ke liye Search Services Personalization page par jao. Comment PRIVACY, main steps DM karunga.",
+    "visual_scene": -1,
+    "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: medium shot from slightly to his right (about 20 degrees), camera steady. Smiles and shrugs lightly while gesturing with his hands. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Isse band karne ke liye Search Services Personalization page par jao. Comment PRIVACY, main steps DM karunga.\" No subtitles, no on-screen text, no music, no other people.",
+    "msg_id": 215,
+    "file": null,
+    "got_msg": null
+   },
+   {
+    "n": 5,
+    "kind": "broll",
+    "cover": 3,
+    "desc": "over-the-shoulder shot of a smartphone screen displaying a settings menu being scrolled",
+    "prompt": "Create a realistic vertical 9:16 video of about 8 seconds: over-the-shoulder shot of a smartphone screen displaying a settings menu being scrolled. Indian small-business setting, warm natural light, handheld smartphone-camera look, slow subtle camera movement, shallow depth of field. No faces, no readable text, no brand names or logos, no subtitles, no speech, no music.",
+    "msg_id": 216,
+    "file": null,
+    "got_msg": null
+   }
+  ],
+  "material": "[15] The Verge AI — Now Google says it might use your Gmail and Google Photos data to target ads\nURL: https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update\nNow Google says it might use your Gmail and Google Photos data to target ads | The Verge Skip to main content The homepage The Verge The Verge logo. The homepage The Verge The Verge logo. Notifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo. Login / Sign Up\nComments Loading comments Getting the conversation ready... Tech\nAccording to the new terms, sharing your data for better AI recommendations also means opening it up for more personalized ads.\nAccording to the new terms, sharing your data for better AI recommendations also means opening it up for more personalized ads.\nJess Weatherbed Oct 23, 2026, 4:52 PM UTC Link\nJess Weatherbed is a news writer focused on creative industries, computing, and internet culture. Jess started her career at TechRadar, covering news and hardware reviews. Google has updated its privacy policy in a way that could mean you’ll start seeing targeted ads based on your personal data if you’re using personalized AI features. The update, spotted by Android Authority , adds an exception to its promise about not using your Drive, Gmail, or Google Photos for personalized ads. While the previous version simply said it wouldn’t do that, as of October 16th, Google has added the line, “unless you choose to make data from these services available to other Google services that support personalized ads.”\nThat means anyone who has connected their Drive, Gmail, or Google Photos to AI Mode and other Search tools via Google’s Personal Intelligence feature — allowing those tools to provide better responses or recommendations by knowing more about you — may now see ads targeted on the basis of that content.\nAdvertisers don’t get access to your Drive, Gmail, and Photos information or personally identifying details such as your name or email address, and Google won’t show you ads based on sensitive categories like race, sexual orientation, religion, or health.\n“You may choose to allow certain Google services, including services like Search or Gemini Apps, to access data from other Google services you use, such as Google Photos and Workspace apps like Gmail and Drive, in order to provide you with a more personalized experience, subject to the policies and settings of the accessing service. For example, Search may process some of the data that you allow Search to access to personalize content, including ads.”\n“Depending on your settings, we may also show you personalized ads based on your interests, activity, or personalized content from Google services. For example, if you search for ‘mountain bikes,’ in Search you may see ads for sports equipment on YouTube.”\nIf you want to prevent your personal data from being used for targeted ads, you can choose which apps you want to disconnect from Search’s Personal Intelligence features or disable Personalized Recommendations entirely via the Search Services Personalization settings page.\nXbox’s first chief operating officer is out after just a few months\nWhat to expect from Apple’s ‘Pro and tell’ event\nNow Google says it might use your Gmail and Google Photos data to target ads\nPeople are vibe coding their way to better TVs\nThe Verge The Verge logo. Sign in to see your notifications or create an account to join the conversation.",
+  "scenes": [
+   {
+    "purpose": "Hook the user",
+    "narration": "Personal Gmail use kar rahe ho business ke liye? Ye settings check karo.",
+    "on_screen": "Business Gmail safety",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Stop ad profiling",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Explain the risk",
+    "narration": "Google ne privacy policy update ki hai. AI features ke naam par ye aapka Gmail data ads ke liye use kar sakte hain.",
+    "on_screen": "Google AI data access",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Privacy policy update",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Explain the mechanics",
+    "narration": "Agar Personal Intelligence features on hain, toh aapke emails aur drive files ads target karne mein use ho sakte hain.",
+    "on_screen": "Ad tracking risk",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "How it works",
+    "steps": [
+     "Enable AI tools",
+     "Data linked to search",
+     "Personalized ads shown"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Provide the fix",
+    "narration": "Isse band karne ke liye Search Services Personalization settings page par jao.",
+    "on_screen": "Change your settings",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Step: Open Settings",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Provide the fix",
+    "narration": "Yahan se aap Personalized Recommendations ya specific app permissions disable kar sakte ho.",
+    "on_screen": "Disable permissions",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "Steps to secure",
+    "steps": [],
+    "items": [
+     "Go to Search Settings",
+     "Check Personal Intelligence",
+     "Disable unwanted apps"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Conclusion and call to action",
+    "narration": "Privacy control aapke haath mein hai. Comment PRIVACY, main aapko steps DM kar dunga.",
+    "on_screen": "Secure your data",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Comment PRIVACY",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "composed_from": null,
+  "hook_title": "Gmail Privacy Alert",
+  "cta": "Comment PRIVACY for steps",
+  "prompts_sent": true,
+  "prompts_sent_at": 1792936004
+ },
+ "test": true,
+ "based_on": "R1-pilot-20261025-1317"
+}
