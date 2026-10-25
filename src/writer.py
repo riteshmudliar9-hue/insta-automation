@@ -19,8 +19,10 @@ REEL_SCHEMA = {"type": "OBJECT", "properties": {
         # Fields a visual does not need are returned as "" or [].
         "required": ["purpose", "narration", "on_screen", "visual_type", "url", "query", "headline", "steps",
                      "items", "left_label", "right_label", "rows"]}),
-    "caption": STR, "hashtags": ARR(STR), "keywords": ARR(STR), "claims": ARR(CLAIM)},
-    "required": ["hooks", "chosen_hook", "hook_reason", "title", "scenes", "caption", "hashtags", "keywords", "claims"]}
+    "caption": STR, "hashtags": ARR(STR), "keywords": ARR(STR), "claims": ARR(CLAIM),
+    "dm_keyword": STR, "dm_text": STR},
+    "required": ["hooks", "chosen_hook", "hook_reason", "title", "scenes", "caption", "hashtags", "keywords", "claims",
+                 "dm_keyword", "dm_text"]}
 
 CAROUSEL_SCHEMA = {"type": "OBJECT", "properties": {
     "hooks": ARR(STR), "chosen_hook": {"type": "INTEGER"}, "hook_reason": STR,
@@ -55,20 +57,26 @@ RECENT HOOKS TO AVOID REPEATING (style or wording):
 {feedback}"""
 
 REEL_TASK = """
-TASK: Write ONE Instagram Reel (9:16) in the chosen format.
-1. Write 3 genuinely different opening hooks (≤14 words each, spoken in the first 3 seconds): e.g. a problem,
-   a surprising fact from the source, a strong opinion, a result. Pick the strongest (chosen_hook = index) and say why.
-2. Write the scenes. Scene 1 narration = the chosen hook exactly. Each later scene must add new information,
-   a demonstration, or move the story; cut anything redundant. 4-7 scenes. Narration 6-25 words per scene,
-   TOTAL narration 55-110 words (about 22-45 seconds). Written to be SPOKEN (contractions, natural rhythm).
-3. on_screen: ≤6 words that reinforce (not repeat) the narration.
-4. Visual per scene: 'diagram' for workflows (2-4 short labels), 'compare' for manual-vs-auto (3 rows),
-   'checklist' (3-5 items), 'text' (headline = a short punchline DIFFERENT from on_screen).
+{playbook}
+
+TASK: Write ONE Instagram Reel (9:16) in HINGLISH (Roman script), built to go viral with Indian business owners.
+1. Write 5 genuinely different hooks (max 12 words each, spoken in the first 2 seconds), using the hook patterns.
+   Pick the one most likely to stop the scroll AND that the Reel can fully pay off (chosen_hook = index); say why.
+2. Scenes: 5-8 scenes. Scene 1 narration = the chosen hook exactly. Each scene 4-14 words (one new idea, 2-4 seconds).
+   TOTAL narration 40-85 words (15-35 seconds). Spoken Hinglish: natural, fast, no filler, no greetings.
+3. on_screen: max 5 words, big and punchy, in Hinglish or English; reinforces (does not repeat) the narration.
+4. Visual per scene: 'diagram' for workflows (2-4 short labels), 'compare' for manual-vs-auto (2-3 rows),
+   'checklist' (2-4 items), 'text' (headline = a short punchline DIFFERENT from on_screen).
    'screenshot' ONLY if a SOURCE URL is the product's own website (never a news article, blog post or Reddit page).
-   Do NOT use 'photo' (stock photos look generic); show ideas with diagrams, tables, checklists and text instead.
-   Fill every field the chosen visual needs (steps / rows / items / headline).
-5. Last scene: the practical takeaway or next step. No "follow for more", no "like and share".
-6. Caption + 3-5 hashtags + 5 search keywords. List every factual claim with its source id."""
+   Do NOT use 'photo'. Fill every field the chosen visual needs (steps / rows / items / headline).
+   Visual labels short (max 5 words each).
+5. Last scene: the payoff, then the comment hook: "Comment KEYWORD, main aapko ___ DM kar dunga."
+6. dm_keyword: ONE short English word in capitals that fits the topic (e.g. LIST, TOOLS, GST, STEPS, FREE).
+   dm_text: the exact message people get by DM (60-150 words, Hinglish or simple English): the promised checklist
+   or steps, numbered. Only facts and links that appear in the SOURCE MATERIAL (copy URLs exactly, or no links).
+7. Caption: first line = searchable English/Hinglish sentence with keywords; 40-120 words; end with
+   "Comment KEYWORD for ___" (same keyword). 3-5 English hashtags. 5 search keywords.
+   List every factual claim with its source id."""
 
 CAROUSEL_TASK = """
 TASK: Write ONE saveable Instagram carousel (1080x1350) in the chosen format.
@@ -101,7 +109,8 @@ def _prompt(task, idea, sources, recent_hooks, feedback):
 
 
 def write_reel(idea, sources, recent_hooks="", feedback=""):
-    return llm.generate_json(_prompt(REEL_TASK, idea, sources, recent_hooks, feedback), REEL_SCHEMA, temperature=0.85)
+    task = REEL_TASK.replace("{playbook}", config.prompt_file("viral_playbook.md"))
+    return llm.generate_json(_prompt(task, idea, sources, recent_hooks, feedback), REEL_SCHEMA, temperature=0.85)
 
 
 def write_carousel(idea, sources, recent_hooks="", feedback=""):
