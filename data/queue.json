@@ -450,7 +450,7 @@
      "line": "Pending payments ke liye client ko baar baar call karna band karo, ye trick try karo.",
      "visual_scene": -1,
      "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: close-up, camera steady at eye level. Points directly at the camera with a serious but helpful expression. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Pending payments ke liye client ko baar baar call karna band karo, ye trick try karo.\" No subtitles, no on-screen text, no music, no other people.",
-     "msg_id": null,
+     "msg_id": 243,
      "file": null,
      "got_msg": null
     },
@@ -461,7 +461,7 @@
      "line": "Razorpay ke Ray aur Agent Studio ab WhatsApp par aapke liye payments automatically recover karte hain.",
      "visual_scene": -1,
      "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: medium close-up with a slow, smooth push-in towards his face. Leans in slightly towards the camera to emphasize the technology. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Razorpay ke Ray aur Agent Studio ab WhatsApp par aapke liye payments automatically recover karte hain.\" No subtitles, no on-screen text, no music, no other people.",
-     "msg_id": null,
+     "msg_id": 244,
      "file": null,
      "got_msg": null
     },
@@ -471,7 +471,7 @@
      "cover": 2,
      "desc": "close-up of a smartphone screen showing a WhatsApp chat interface with automated payment status updates",
      "prompt": "Create a realistic vertical 9:16 video of about 8 seconds: close-up of a smartphone screen showing a WhatsApp chat interface with automated payment status updates. Indian small-business setting, warm natural light, handheld smartphone-camera look, slow subtle camera movement, shallow depth of field. No faces, no readable text, no brand names or logos, no subtitles, no speech, no music.",
-     "msg_id": null,
+     "msg_id": 245,
      "file": null,
      "got_msg": null
     },
@@ -482,7 +482,7 @@
      "line": "Bas voice note bhejo, ye agents COD confirm karenge. Comment AGENT, main details DM kar dunga.",
      "visual_scene": -1,
      "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: medium shot from slightly to his left (about 20 degrees), camera steady. Smiles and gives a light thumbs up to the camera. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Bas voice note bhejo, ye agents COD confirm karenge. Comment AGENT, main details DM kar dunga.\" No subtitles, no on-screen text, no music, no other people.",
-     "msg_id": null,
+     "msg_id": 246,
      "file": null,
      "got_msg": null
     },
@@ -492,7 +492,7 @@
      "cover": 3,
      "desc": "over-the-shoulder shot of a shop counter with a phone screen displaying a successful order confirmation notification",
      "prompt": "Create a realistic vertical 9:16 video of about 8 seconds: over-the-shoulder shot of a shop counter with a phone screen displaying a successful order confirmation notification. Indian small-business setting, warm natural light, handheld smartphone-camera look, slow subtle camera movement, shallow depth of field. No faces, no readable text, no brand names or logos, no subtitles, no speech, no music.",
-     "msg_id": null,
+     "msg_id": 247,
      "file": null,
      "got_msg": null
     }
@@ -607,7 +607,9 @@
    ],
    "composed_from": null,
    "hook_title": "STOP CALLING FOR PAYMENTS",
-   "cta": "Comment AGENT for details"
+   "cta": "Comment AGENT for details",
+   "prompts_sent": true,
+   "prompts_sent_at": 1793022191
   }
  },
  {
