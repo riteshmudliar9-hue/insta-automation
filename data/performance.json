@@ -8,17 +8,17 @@
    "topic": "Evaluating out-of-the-box AI agents: What actually works for SMB admin in 2026",
    "date": "2026-10-24",
    "metrics": {
-    "reach": 4,
+    "reach": 5,
     "views": 7,
     "likes": 2,
     "comments": 0,
     "shares": 0,
     "saved": 0,
     "total_interactions": 2,
-    "ig_reels_avg_watch_time": 6194,
-    "ig_reels_video_view_total_time": 43363
+    "ig_reels_avg_watch_time": 6470,
+    "ig_reels_video_view_total_time": 51764
    },
-   "fetched": "2026-10-25T17:51:09.371047"
+   "fetched": "2026-10-26T18:04:55.282248"
   },
   "17986761333084821": {
    "id": "R3-2026-10-24",
@@ -28,17 +28,17 @@
    "topic": "Masked credential delegation: Letting AI agents log into vendor portals safely",
    "date": "2026-10-24",
    "metrics": {
-    "reach": 23,
-    "views": 29,
+    "reach": 24,
+    "views": 30,
     "likes": 2,
     "comments": 0,
     "shares": 0,
     "saved": 0,
     "total_interactions": 2,
-    "ig_reels_avg_watch_time": 4775,
-    "ig_reels_video_view_total_time": 119393
+    "ig_reels_avg_watch_time": 5815,
+    "ig_reels_video_view_total_time": 157018
    },
-   "fetched": "2026-10-25T17:51:09.786662"
+   "fetched": "2026-10-26T18:04:57.253658"
   },
   "18340036819273934": {
    "id": "C2-2026-10-24",
@@ -58,7 +58,7 @@
     "profile_visits": 0,
     "follows": 0
    },
-   "fetched": "2026-10-25T17:51:10.309745"
+   "fetched": "2026-10-26T18:04:58.135544"
   },
   "18061930895631903": {
    "id": "C1-2026-10-24",
@@ -68,17 +68,17 @@
    "topic": "How to disable Google AI data-scraping in business Gmail accounts",
    "date": "2026-10-24",
    "metrics": {
-    "reach": 1,
-    "views": 5,
-    "likes": 1,
+    "reach": 3,
+    "views": 7,
+    "likes": 2,
     "comments": 0,
-    "shares": 0,
+    "shares": 1,
     "saved": 0,
-    "total_interactions": 1,
+    "total_interactions": 3,
     "profile_visits": 0,
     "follows": 0
    },
-   "fetched": "2026-10-25T17:51:10.777928"
+   "fetched": "2026-10-26T18:04:58.772049"
   },
   "18095704943246132": {
    "id": "C3-2026-10-24",
@@ -88,8 +88,8 @@
    "topic": "Using Canva's new 2-stage planning AI model to design retail promotion banners",
    "date": "2026-10-24",
    "metrics": {
-    "reach": 2,
-    "views": 8,
+    "reach": 3,
+    "views": 10,
     "likes": 2,
     "comments": 0,
     "shares": 0,
@@ -98,7 +98,7 @@
     "profile_visits": 0,
     "follows": 0
    },
-   "fetched": "2026-10-25T17:51:11.292701"
+   "fetched": "2026-10-26T18:04:59.711805"
   },
   "18119016835995041": {
    "id": "C2-2026-10-25",
@@ -108,17 +108,17 @@
    "topic": "The 5-minute email-to-sheet automation that saves traders 40 minutes daily",
    "date": "2026-10-25",
    "metrics": {
-    "reach": 2,
-    "views": 4,
-    "likes": 1,
+    "reach": 3,
+    "views": 8,
+    "likes": 2,
     "comments": 0,
     "shares": 0,
     "saved": 0,
-    "total_interactions": 1,
+    "total_interactions": 2,
     "profile_visits": 1,
     "follows": 0
    },
-   "fetched": "2026-10-25T17:51:11.739028"
+   "fetched": "2026-10-26T18:05:00.605560"
   },
   "18079498841712347": {
    "id": "C4-2026-10-25",
@@ -128,17 +128,17 @@
    "topic": "Why AI agents break in production: Autonomy needs strict engineering guardrails",
    "date": "2026-10-25",
    "metrics": {
-    "reach": 1,
-    "views": 1,
-    "likes": 0,
+    "reach": 3,
+    "views": 4,
+    "likes": 1,
     "comments": 0,
     "shares": 0,
     "saved": 0,
-    "total_interactions": 0,
+    "total_interactions": 1,
     "profile_visits": 0,
     "follows": 0
    },
-   "fetched": "2026-10-25T17:51:12.554537"
+   "fetched": "2026-10-26T18:05:01.266771"
   },
   "18144724249610082": {
    "id": "C3-2026-10-25",
@@ -148,8 +148,8 @@
    "topic": "How AT&T's legal intake automation can be adapted for small vendor agreements",
    "date": "2026-10-25",
    "metrics": {
-    "reach": 0,
-    "views": 1,
+    "reach": 2,
+    "views": 3,
     "likes": 1,
     "comments": 0,
     "shares": 0,
@@ -158,7 +158,47 @@
     "profile_visits": 0,
     "follows": 0
    },
-   "fetched": "2026-10-25T17:51:13.041477"
+   "fetched": "2026-10-26T18:05:02.158474"
+  },
+  "18636524926049964": {
+   "id": "R1-2026-10-26",
+   "kind": "reel",
+   "format": "problem_fix",
+   "hook": "Pending payments ke liye client ko call karna band karo. Ye dekho.",
+   "topic": "Automating overdue invoice recovery with contextual payment triggers instead of awkward phone calls",
+   "date": "2026-10-26",
+   "metrics": {
+    "reach": 1,
+    "views": 1,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 0,
+    "ig_reels_avg_watch_time": 33326,
+    "ig_reels_video_view_total_time": 66653
+   },
+   "fetched": "2026-10-26T18:05:03.238212"
+  },
+  "18170614912476873": {
+   "id": "C1-2026-10-26",
+   "kind": "carousel",
+   "format": "myth_fact",
+   "hook": "Why your AI subscriptions aren't increasing your shop's profit.",
+   "topic": "Why 80% of businesses see zero financial payoff from AI (and what the profitable 20% do differently)",
+   "date": "2026-10-26",
+   "metrics": {
+    "reach": 2,
+    "views": 4,
+    "likes": 3,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 3,
+    "profile_visits": 0,
+    "follows": 0
+   },
+   "fetched": "2026-10-26T18:05:04.154455"
   }
  },
  "account": [
@@ -178,6 +218,12 @@
    "date": "2026-10-25",
    "followers_count": 2,
    "media_count": 9,
+   "id": "29357876020471934"
+  },
+  {
+   "date": "2026-10-26",
+   "followers_count": 2,
+   "media_count": 11,
    "id": "29357876020471934"
   }
  ]
