@@ -1,0 +1,216 @@
+{
+ "kind": "carousel",
+ "idea": {
+  "idea": "Why 80% of businesses see zero financial payoff from AI (and what the profitable 20% do differently)",
+  "angle": "Paying for generic ChatGPT subscriptions yields zero ROI unless paired with a deterministic automation trigger like invoice extraction or payment reminders.",
+  "audience_problem": "Small business owners spending monthly fees on AI chat tools without seeing any measurable revenue growth or cost savings.",
+  "format": "myth_fact",
+  "medium": "carousel",
+  "source_ids": [
+   1
+  ],
+  "evergreen": true,
+  "keywords": [
+   "AI ROI",
+   "business automation",
+   "SaaS costs",
+   "productivity myth"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 8,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 9,
+   "evidence": 9,
+   "viral": 8
+  },
+  "total": 8.61
+ },
+ "piece": {
+  "hooks": [
+   "Why your AI subscriptions aren't increasing your shop's profit.",
+   "Stop paying for AI tools that don't save you money.",
+   "Is your business AI actually making any real money?"
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "It addresses the specific pain point (lack of profit) while framing the AI subscription as a business expense that needs justification, which resonates with shop owners.",
+  "slides": [
+   {
+    "kind": "cover",
+    "title": "Why your AI subscriptions aren't increasing your shop's profit.",
+    "subtitle": "Most businesses see zero financial return from AI. Here is why.",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "mythfact",
+    "title": "The AI Productivity Myth",
+    "subtitle": "Why expensive subscriptions aren't enough.",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "AI subscriptions automatically improve my business productivity and margins.",
+    "fact": "Apollo Global Management reports that for most non-tech companies, AI has delivered zero financial payoff and profit margins remain flat.",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "point",
+    "title": "The Missing Ingredient",
+    "subtitle": "Intelligence versus Judgment",
+    "body": "AI is a calculator, not a business owner. It lacks the judgment required to handle trust, accountability, or the unwritten rules that actually drive your shop's revenue.",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "quote",
+    "title": "Expert Insight",
+    "subtitle": "Why AI isn't fixing the bottom line",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "AI may be a great calculator, but in business, intelligence is mostly judgment.",
+    "attribution": "Torsten Slok, Chief Economist at Apollo Global Management"
+   },
+   {
+    "kind": "checklist",
+    "title": "Before You Renew AI Tools",
+    "subtitle": "Check these four areas first",
+    "body": "Does your current AI tool help with these specific business drivers?",
+    "items": [
+     "Does it automate a specific, repetitive task?",
+     "Does it save actual labour hours every week?",
+     "Is the data output directly actionable for billing?",
+     "Are you measuring the time saved vs cost?"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "summary",
+    "title": "The Bottom Line",
+    "subtitle": "How to make AI work for you",
+    "body": "",
+    "items": [
+     "Stop treating AI as a magic solution.",
+     "Use AI only for simple, repetitive calculations.",
+     "Rely on your human judgment for client trust.",
+     "If it does not show a clear ROI, cancel."
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   }
+  ],
+  "caption": "Spending monthly on AI chatbots for your shop? If you aren't seeing a dip in costs or a jump in revenue, you are likely just burning cash. Data shows that for most non-tech businesses, AI is currently a calculator that does not understand trust, ethics, or the specific trade-offs of running a physical business. Don't fall for the hype of 'intelligence'. If your current tool isn't saving you hours on specific tasks like data entry or invoice sorting, it is time to audit your subscriptions. What is one task you tried to automate that failed because it needed a 'human touch' instead?",
+  "hashtags": [
+   "#smallbusinessindia",
+   "#businessgrowth",
+   "#aiintips",
+   "#shopmanagement",
+   "#businesscosts"
+  ],
+  "keywords": [
+   "AI for small business",
+   "business automation audit",
+   "small business profit margins",
+   "ROI on AI tools",
+   "business efficiency tips"
+  ],
+  "claims": [
+   {
+    "claim": "AI has delivered zero financial payoff to corporate America outside of the tech industry.",
+    "source_id": 1
+   },
+   {
+    "claim": "Profit margins and revenue per worker appear to be flat across most non-tech industries.",
+    "source_id": 1
+   },
+   {
+    "claim": "AI lacks understanding of accountability, trust, culture, and ethical trade-offs.",
+    "source_id": 1
+   }
+  ]
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "AI has delivered zero financial payoff to corporate America outside of the tech industry.",
+    "supported": true
+   },
+   {
+    "claim": "Profit margins and revenue per worker appear to be flat across most non-tech industries.",
+    "supported": true
+   },
+   {
+    "claim": "AI lacks understanding of accountability, trust, culture, and ethical trade-offs.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [],
+  "issues": [
+   "The checklist slides (5 and 6) use green checkmarks for every item, which can visually imply that all items are 'correct' or 'done' rather than serving as a list of criteria to evaluate.",
+   "The tone is slightly academic; while accurate, it could benefit from a more direct 'small business owner' voice in the body text to increase relatability."
+  ],
+  "fix_instructions": "Change the green checkmarks on slides 5 and 6 to a neutral icon (like a small bullet point or a question mark icon) to avoid the visual confusion of 'checking off' items that are actually questions for the user to consider. Otherwise, the content is strong and ready for publication."
+ },
+ "rules": [],
+ "reasons": [],
+ "meta": {
+  "ai_visuals": false,
+  "slides": 6
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-10-26/C1-2026-10-26/try1",
+ "attempt": 1,
+ "approved": true,
+ "hook": "Why your AI subscriptions aren't increasing your shop's profit.",
+ "log": [
+  "attempt 1: PASS {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} []"
+ ],
+ "material": "[1] TechCrunch AI — AI delivers ‘zero financial payoff’ to most companies, Apollo economist says\nURL: https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/\n–:–:–:– Buy One Founder Summit Ticket, Get a Second for Free. Register now.\nDisrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off. REGISTER NOW.\nAI hasn’t benefited the bottom line of any big corporations outside the tech industry, according to a note recently published by the chief economist at Apollo Global Management (the private equity giant that used to own TechCrunch).\nApollo’s Torsten Slok focuses on what he calls the S&P 493 — the S&P 500, minus Alphabet, Amazon, Apple, Meta, Microsoft, Nvidia and Tesla — finding that profit margins and revenue per worker appear to be flat, with no evidence that AI is improving productivity.\n“Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech,” Slok said.\nIs this simply a matter of non-tech companies lagging behind the tech giants? Slok sounded skeptical, arguing that it will be tough for corporate America to “turn increasingly cheap intelligence into higher revenue growth and higher profit margins.”\n“AI may be a great calculator, but in business, intelligence is mostly judgment,” he wrote, later adding, “AI does not understand accountability, trust, culture, unwritten rules, ethical trade-offs or fairness, all of which shape reputational risk and ultimately drive revenue growth and profit margins.”\nRecent studies have also found that AI has yet to deliver significant productivity gains .\nBuy One Pass, Get a Second Free Cover more ground at TechCrunch’s ultimate founder bootcamp of the year by bringing your co-founder or partner for free Book before the BOGO deal expires\nSubscribe for the industry’s biggest tech news\nMedia & Entertainment Grok releases the first seven minutes of its AI-generated ‘Odyssey’\nSecurity Will AI expose the rickety infrastructure of the internet?\nAI Block’s new voice model sounds eerily human\nMedia & Entertainment Grok releases the first seven minutes of its AI-generated ‘Odyssey’\nIn Brief AI delivers ‘zero financial payoff’ to most companies, Apollo economist says\nAI The hottest AI wearables and gadgets you should know about",
+ "id": "C1-2026-10-26",
+ "caption_final": "Spending monthly on AI chatbots for your shop? If you aren't seeing a dip in costs or a jump in revenue, you are likely just burning cash. Data shows that for most non-tech businesses, AI is currently a calculator that does not understand trust, ethics, or the specific trade-offs of running a physical business. Don't fall for the hype of 'intelligence'. If your current tool isn't saving you hours on specific tasks like data entry or invoice sorting, it is time to audit your subscriptions. What is one task you tried to automate that failed because it needed a 'human touch' instead?\n\n#smallbusinessindia #businessgrowth #aiintips #shopmanagement #businesscosts"
+}

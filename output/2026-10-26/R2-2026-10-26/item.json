@@ -1,0 +1,259 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Building an automated SMS text agent that handles catalog queries outside business hours",
+  "angle": "Stop losing nighttime buyers to competitors by deploying a direct text-message agent connected to your product Google Sheet.",
+  "audience_problem": "Missing prospective buyers who text late at night or during store peak rush hours when staff cannot answer.",
+  "format": "demo",
+  "medium": "reel",
+  "source_ids": [
+   6
+  ],
+  "evergreen": true,
+  "keywords": [
+   "SMS bot",
+   "AI agent",
+   "customer support",
+   "after hours sales"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 8,
+   "hook_potential": 8,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 8,
+   "evidence": 8,
+   "viral": 8
+  },
+  "total": 8.28
+ },
+ "piece": {
+  "hooks": [
+   "Dukan band hone ke baad customer ka message aaye toh kya karoge?",
+   "Raat ko aaye orders miss mat karo, ye AI agent set karo.",
+   "Stop losing night-time sales. Ye AI agent aapka catalog sambhalega.",
+   "Zyada tar shop owners night-time orders miss karte hain. Ye dekho.",
+   "Agar aap WhatsApp pe orders manually letay ho, ye dekho."
+  ],
+  "chosen_hook": 1,
+  "hook_reason": "It highlights a specific, relatable pain point (missing orders) and offers a clear, practical solution (AI agent) that fits the Indian SME context.",
+  "title": "Automating Night-time Customer Queries with AI",
+  "scenes": [
+   {
+    "purpose": "Hook the viewer with the problem.",
+    "narration": "Raat ko aaye orders miss mat karo, ye AI agent set karo.",
+    "on_screen": "Night-time orders miss mat karo",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Stop losing night sales",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Explain the manual vs automated pain point.",
+    "narration": "Manual reply mein deri hoti hai, customer competitor ke paas chala jata hai.",
+    "on_screen": "Customer competitor ke paas",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "Manual vs AI response",
+    "steps": [],
+    "items": [],
+    "left_label": "Manual",
+    "right_label": "AI Agent",
+    "rows": [
+     {
+      "left": "Slow reply",
+      "right": "Instant reply"
+     },
+     {
+      "left": "Staff busy",
+      "right": "Always active"
+     },
+     {
+      "left": "Sales loss",
+      "right": "Orders captured"
+     }
+    ]
+   },
+   {
+    "purpose": "Introduce the AI agent concept.",
+    "narration": "Ask Proxy ya Folk jaise AI agents ko aap SMS ya WhatsApp se connect kar sakte ho.",
+    "on_screen": "Connect AI to SMS",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "How it connects",
+    "steps": [
+     "Select AI agent",
+     "Connect product sheet",
+     "Enable SMS/WhatsApp",
+     "Agent auto-replies"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Clarify functionality.",
+    "narration": "Ye agents aapki product sheet padh kar customer ke sawalon ka jawab dete hain.",
+    "on_screen": "Products read by AI",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "AI reads your catalog",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Honest limitation.",
+    "narration": "Dhyan rahe, ye tools business data handle karte hain, toh privacy settings check zaroor karein.",
+    "on_screen": "Check privacy settings",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "Safety first",
+    "steps": [],
+    "items": [
+     "Check private cloud",
+     "Verify data access",
+     "Test for errors"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Call to action.",
+    "narration": "Comment AGENT, main aapko best AI agents ki list DM kar dunga.",
+    "on_screen": "Comment AGENT for list",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Get the list now",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "How to handle customer queries automatically when your shop is closed. Many business owners lose potential buyers because they cannot reply to messages late at night or during peak rush hours. AI agents like Ask Proxy or Folk can now connect to your product information and handle these queries via SMS or WhatsApp, ensuring no lead goes cold. Always remember to check privacy settings when connecting these tools to your business data, as these agents handle sensitive information. Start small by testing with a limited product list. Comment AGENT for a list of AI agents that can live in your text messages. #SmallBusinessIndia #BusinessAutomation #WhatsAppMarketing #AIforBusiness #RetailTips",
+  "hashtags": [
+   "#SmallBusinessIndia",
+   "#BusinessAutomation",
+   "#WhatsAppMarketing",
+   "#AIforBusiness",
+   "#RetailTips"
+  ],
+  "keywords": [
+   "AI agents",
+   "business automation",
+   "customer support",
+   "WhatsApp business",
+   "SMS automation"
+  ],
+  "claims": [
+   {
+    "claim": "Ask Proxy works over SMS and costs $1 per day for personal use.",
+    "source_id": 6
+   },
+   {
+    "claim": "Folk is an AI assistant reachable through iMessage, WhatsApp, and Telegram.",
+    "source_id": 6
+   },
+   {
+    "claim": "Folk runs on its own private cloud computer.",
+    "source_id": 6
+   }
+  ],
+  "dm_keyword": "AGENT",
+  "dm_text": "Thanks for asking! Here are a few AI agents that can live in your text messages: 1. Ask Proxy (Works over SMS, $1/day). 2. Folk (Accessible via WhatsApp/iMessage, runs on private cloud). 3. Martin (Works via SMS/WhatsApp). These tools can help manage customer queries by connecting to your context and services. Always verify privacy terms before linking your business data. You can find more details at https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/"
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 7,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "Ask Proxy works over SMS and costs $1 per day for personal use.",
+    "supported": true
+   },
+   {
+    "claim": "Folk is an AI assistant reachable through iMessage, WhatsApp, and Telegram.",
+    "supported": true
+   },
+   {
+    "claim": "Folk runs on its own private cloud computer.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Scene 3: The diagram flow is clear, but the text 'Agent auto-replies' is in a dark box while others are light, which creates an inconsistent visual hierarchy."
+  ],
+  "issues": [
+   "The reel suggests connecting a 'product sheet' to an AI agent, but the source material does not explicitly detail how a small business owner performs this integration (e.g., via API, file upload, or manual entry). It assumes a level of technical capability that might be daunting for a beginner.",
+   "The transition between 'manual' and 'AI' in scene 2 is good, but the 'Manual' column could benefit from a more specific example of the pain point."
+  ],
+  "fix_instructions": "1. In Scene 3, standardize the box colors for the diagram to maintain a clean, professional look. 2. Add a small text overlay or mention in the caption that 'connecting a product sheet' usually involves uploading a simple CSV or linking a Google Sheet, as this clarifies the 'how-to' for non-technical users. 3. Ensure the tone remains encouraging; the current Hinglish is excellent and natural, keep it as is."
+ },
+ "rules": [],
+ "reasons": [
+  "originality 7/10 (<8)",
+  "practical_value 7/10 (<8)"
+ ],
+ "meta": {
+  "duration": 34.2,
+  "voice": "edge",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-26/R2-2026-10-26/try1/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-26/R2-2026-10-26/try1/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-26/R2-2026-10-26/try1/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-26/R2-2026-10-26/try1/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-26/R2-2026-10-26/try1/scene_05.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-26/R2-2026-10-26/try1/scene_06.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   4.96,
+   5.24,
+   6.69,
+   5.53,
+   6.52,
+   5.22
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-10-26/R2-2026-10-26/try1",
+ "attempt": 1,
+ "approved": false,
+ "hook": "Raat ko aaye orders miss mat karo, ye AI agent set karo.",
+ "log": [
+  "attempt 1: fail {'hook': 8, 'originality': 7, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['originality 7/10 (<8)', 'practical_value 7/10 (<8)']",
+  "attempt 2: fail {'hook': 7, 'originality': 6, 'practical_value': 5, 'natural_language': 8, 'accuracy': 6, 'narrative': 7, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 6} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 5/10 (<8)', 'accuracy 6/10 (<8)']",
+  "attempt 3: fail {'hook': 8, 'originality': 7, 'practical_value': 7, 'natural_language': 8, 'accuracy': 8, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'practical_value 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+  "attempt 4: fail {'hook': 8, 'originality': 7, 'practical_value': 6, 'natural_language': 8, 'accuracy': 7, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'practical_value 6/10 (<8)', 'accuracy 7/10 (<8)']"
+ ],
+ "material": "[6] TechCrunch AI — Here are the top AI agents that can live in your text messages\nURL: https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/\n–:–:–:– Buy One Founder Summit Ticket, Get a Second for Free. Register now.\nDisrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off. REGISTER NOW.\nImage Credits: Tero Vesalainen / Getty Images AI Here are the top AI agents that can live in your text messages Lauren Forristal 7:00 AM PDT · October 24, 2026 Rather than downloading another app, a growing number of agents can simply be texted like an ordinary person.\nYou text it what you need, and it can remember context, connect to the apps and services you already use, and complete tasks on your behalf. That can mean scheduling an appointment, organizing a calendar, researching a trip, sending an email, making a reservation, shopping online, or reminding you about something days later.\nWhile Instinct is one of the buzziest AI agents at present, thanks to its $10 billion valuation after its latest funding round of $1 billion, there are many others also making a play for this space.\nBelow are the most notable options so far, from general-purpose personal assistants to agents designed for families, travel, and work.\nAsk Proxy ’s biggest differentiator is that it “thinks like a woman,” meaning it aims to anticipate your needs before you even ask, the company explains on its website.\nIt works like a chatbot you can text like a friend, whether you need gift ideas, help planning an event, or recommendations for things to do that weekend. You can ask it to add important dates to your calendar, set reminders, or help with everyday decisions. You can also send it photos, like an empty table, to figure out how to decorate the table for a dinner party.\nUnlike a typical chatbot, Ask Proxy also takes a proactive approach. It can reach out when it notices something you might forget or when it comes across a new activity, restaurant, or experience you might enjoy.\nThere’s also a work-focused version, which the company explains “gets employees back to work faster, while keeping personal data off company systems.”\nThe personal version costs $1 per day. For businesses, pricing starts at $15 per employee per month for large companies and $23 per employee per month for small teams with fewer than 49 employees.\nAsk Proxy works over SMS. You can text “start” to 820-732-2625.\nCaddy is an AI assistant that turns the information scattered across your phone into things you can actually act on. It lives in iMessage for iPhone users and RCS for Android users, so there’s no separate app or inbox to constantly check.\nFor instance, an email contains an appointment that needs to be added to your calendar or a friend sends a list of things to pick up. Instead of worrying about all the details getting buried, Caddy connects to your calendars and conversations, then identifies things that may require action. It can add events to your calendar, set reminders, keep track of follow-ups, and even do research for you.\nCaddy has been available in public beta since April 2026.\nComma is designed to manage tasks across both work and everyday life. Comma carries tasks through to completion, checking its own work and determining when a task is finished.\nCompleted work is surfaced for review when a decision or approval is needed. It also proactively notifies users and recommends the next steps.\nIt can work across a user’s browser, computer, and files, while remaining accessible remotely through messaging apps such as Signal, Telegram, and WeChat. Comma maintains context and memory across devices and conversations, and can deliver daily briefings, flag urgent matters, and summarize recorded calls.\nFambot is an AI-powered “chief of staff” for families, designed to bring together the many moving parts of family life, including school communications, sports activities, meal planning, calendars, and other day-to-day responsibilities, and turn them into an organized plan.\nThe service is designed to work across both an app and text messages. Fambot is available on iOS devices, Android devices, and the web, and families can also interact with it directly over SMS. Every night, Fambot automatically sends a summary of the following day, including upcoming events, to-dos, and details such as school uniform or packing requirements. Parents can reply to those messages to ask questions, check information, or make changes to their calendar.\nFambot currently connects to Gmail, Google Calendar, Outlook, and WhatsApp, with support for Apple Calendar planned for the future.\nThe company launched in beta in early September 2026 and has raised $3.5 million in pre-seed funding. The service is currently free during the beta period, but Fambot expects to eventually charge roughly the equivalent of a Netflix subscription.\nFolk is designed to be an AI assistant you can reach through iMessage, WhatsApp, and Telegram. It can remember personal context, manage reminders, research topics, track flights, handle email, and perform real-world tasks such as restaurant reservations.\nOne distinction is that Folk runs on its own private cloud computer. It can also run code and execute multi-step tasks rather than merely responding conversationally.\nFolk launched its beta in May 2026, and it’s available for free but also offers a Pro subscription for $8.33/month if you want unlimited tasks running in the background.\nInstinct first made headlines after raising $350 million at a $2.5 billion valuation. In September 2026, it raised $1 billion , valuing it at $10 billion.\nThe always-available agent can take actions on your behalf, rather than simply answer questions. Users can communicate with Instinct by text or voice and connect it to the apps and services they already use, such as email, calendar, Google Workspace, and more. The company says early users have used Instinct for tasks ranging from planning trips and buying groceries to booking tickets and canceling subscriptions.\nIn September, Instinct began giving users dedicated email addresses for their assistants. The idea is to let Instinct create and manage accounts on a user’s behalf without filling the user’s personal inbox. The agent can use its address to sign up for services, contact businesses, follow up on requests, and handle tasks that require an email account. (However, this level of autonomy has also raised concerns about privacy and security .) It’s also begun rolling out support for placing calls .\nPowered by Hermes Agent, Iris is designed to let users delegate tasks to an AI assistant directly through iMessage. Users can connect the apps they use and hand over a task with a simple message. The agent then works through the required steps, while retaining relevant context from previous interactions. It’s also designed to follow up with users proactively rather than waiting for another request.\nMartin is a general-purpose personal assistant reachable through SMS as well as phone, WhatsApp, email, Slack, and its own iOS app.\nIt can help manage calendars, email, reminders, tasks, notes, and communications. It can also act",
+ "id": "R2-2026-10-26",
+ "caption_final": "How to handle customer queries automatically when your shop is closed. Many business owners lose potential buyers because they cannot reply to messages late at night or during peak rush hours. AI agents like Ask Proxy or Folk can now connect to your product information and handle these queries via SMS or WhatsApp, ensuring no lead goes cold. Always remember to check privacy settings when connecting these tools to your business data, as these agents handle sensitive information. Start small by testing with a limited product list. Comment AGENT for a list of AI agents that can live in your text messages.\n\n#SmallBusinessIndia #BusinessAutomation #WhatsAppMarketing #AIforBusiness #RetailTips"
+}

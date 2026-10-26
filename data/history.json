@@ -158,5 +158,37 @@
   "status": "published",
   "media_id": "18144724249610082",
   "permalink": "https://www.instagram.com/p/De6vwgxoLvt/"
+ },
+ {
+  "id": "R1-2026-10-26",
+  "date": "2026-10-26",
+  "kind": "reel",
+  "format": "problem_fix",
+  "topic": "Automating overdue invoice recovery with contextual payment triggers instead of awkward phone calls",
+  "hook": "Pending payments ke liye client ko call karna band karo. Ye dekho.",
+  "keywords": [
+   "automated payment reminders",
+   "Razorpay Agent Studio",
+   "WhatsApp business automation",
+   "invoice recovery AI",
+   "small business cash flow"
+  ],
+  "status": "queued"
+ },
+ {
+  "id": "C1-2026-10-26",
+  "date": "2026-10-26",
+  "kind": "carousel",
+  "format": "myth_fact",
+  "topic": "Why 80% of businesses see zero financial payoff from AI (and what the profitable 20% do differently)",
+  "hook": "Why your AI subscriptions aren't increasing your shop's profit.",
+  "keywords": [
+   "AI for small business",
+   "business automation audit",
+   "small business profit margins",
+   "ROI on AI tools",
+   "business efficiency tips"
+  ],
+  "status": "queued"
  }
 ]

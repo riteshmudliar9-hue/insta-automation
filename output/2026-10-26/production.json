@@ -1,0 +1,354 @@
+{
+ "date": "2026-10-26",
+ "tag": "2026-10-26",
+ "pilot": false,
+ "sources": 93,
+ "ideas": 14,
+ "idea_list": [
+  {
+   "idea": "Automating overdue invoice recovery with contextual payment triggers instead of awkward phone calls",
+   "format": "problem_fix",
+   "total": 8.82,
+   "scores": {
+    "relevance": 10,
+    "novelty": 7,
+    "hook_potential": 9,
+    "retention": 9,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 8,
+    "viral": 9
+   }
+  },
+  {
+   "idea": "Why 80% of businesses see zero financial payoff from AI (and what the profitable 20% do differently)",
+   "format": "myth_fact",
+   "total": 8.61,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Critical PHP website exploit alert: 3 security questions to ask your web developer right now",
+   "format": "problem_fix",
+   "total": 8.33,
+   "scores": {
+    "relevance": 8,
+    "novelty": 8,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Building an automated SMS text agent that handles catalog queries outside business hours",
+   "format": "demo",
+   "total": 8.28,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 8,
+    "evidence": 8,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Using dedicated AI voice recorders to turn chaotic vendor site discussions into itemized WhatsApp agreements",
+   "format": "tool_test",
+   "total": 8.26,
+   "scores": {
+    "relevance": 8,
+    "novelty": 9,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 8,
+    "evidence": 8,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Running open-source human voice models locally on shop hardware to transcribe calls for zero API cost",
+   "format": "demo",
+   "total": 8.2,
+   "scores": {
+    "relevance": 8,
+    "novelty": 9,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 7,
+    "evidence": 8,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "How to create a 1-page business context document so AI chatbots never quote wrong prices",
+   "format": "tutorial",
+   "total": 8.17,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 8,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "The 4-step internal AI usage checklist to stop counter staff from exposing wholesale price lists",
+   "format": "checklist",
+   "total": 8.17,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 8,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "Replacing unstructured WhatsApp order text with Jotform order slips wired to instant dispatch sheets",
+   "format": "manual_vs_auto",
+   "total": 8.03,
+   "scores": {
+    "relevance": 9,
+    "novelty": 7,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "How to connect Zapier MCP with Claude to automate subcontractor and vendor vetting in 15 minutes",
+   "format": "case_study",
+   "total": 8.03,
+   "scores": {
+    "relevance": 8,
+    "novelty": 9,
+    "hook_potential": 7,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 8,
+    "evidence": 9,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "AI ad transparency laws: How to publish AI product creatives without getting ad accounts restricted",
+   "format": "checklist",
+   "total": 7.89,
+   "scores": {
+    "relevance": 8,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 7,
+    "save_share": 8,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "Why small, specialized vision models beat multi-billion parameter LLMs for factory quality inspection",
+   "format": "myth_fact",
+   "total": 7.79,
+   "scores": {
+    "relevance": 7,
+    "novelty": 9,
+    "hook_potential": 8,
+    "retention": 7,
+    "save_share": 8,
+    "feasibility": 8,
+    "evidence": 9,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "The hidden storage trap: Why your customer WhatsApp bots get expensive after 3 months (and how to fix it)",
+   "format": "problem_fix",
+   "total": 7.56,
+   "scores": {
+    "relevance": 8,
+    "novelty": 8,
+    "hook_potential": 7,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 9,
+    "evidence": 8,
+    "viral": 6
+   }
+  },
+  {
+   "idea": "Automating foreign invoice and exchange rate checks for small export-import contractors",
+   "format": "tutorial",
+   "total": 7.38,
+   "scores": {
+    "relevance": 8,
+    "novelty": 8,
+    "hook_potential": 7,
+    "retention": 7,
+    "save_share": 8,
+    "feasibility": 8,
+    "evidence": 8,
+    "viral": 6
+   }
+  }
+ ],
+ "rejected_ideas": [],
+ "items": [
+  {
+   "id": "R1-2026-10-26",
+   "kind": "reel",
+   "format": "problem_fix",
+   "topic": "Automating overdue invoice recovery with contextual payment triggers instead of awkward phone calls",
+   "hook": "Pending payments ke liye client ko call karna band karo. Ye dekho.",
+   "approved": true,
+   "attempts": 4,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 8,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 9,
+    "pacing": 8,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [],
+   "log": [
+    "attempt 1: fail {'hook': 8, 'originality': 7, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['originality 7/10 (<8)', 'practical_value 7/10 (<8)']",
+    "attempt 2: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+    "attempt 3: fail {'hook': 8, 'originality': 7, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['originality 7/10 (<8)', 'practical_value 7/10 (<8)']",
+    "attempt 4: PASS {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} []"
+   ],
+   "dir": "output/2026-10-26/R1-2026-10-26/try4",
+   "duration": 34.2,
+   "voice": "edge"
+  },
+  {
+   "id": "R2-2026-10-26",
+   "kind": "reel",
+   "format": "demo",
+   "topic": "Building an automated SMS text agent that handles catalog queries outside business hours",
+   "hook": "Raat ko aaye orders miss mat karo, ye AI agent set karo.",
+   "approved": false,
+   "attempts": 1,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 7,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 9,
+    "pacing": 8,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [
+    "originality 7/10 (<8)",
+    "practical_value 7/10 (<8)"
+   ],
+   "log": [
+    "attempt 1: fail {'hook': 8, 'originality': 7, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['originality 7/10 (<8)', 'practical_value 7/10 (<8)']",
+    "attempt 2: fail {'hook': 7, 'originality': 6, 'practical_value': 5, 'natural_language': 8, 'accuracy': 6, 'narrative': 7, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 6} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 5/10 (<8)', 'accuracy 6/10 (<8)']",
+    "attempt 3: fail {'hook': 8, 'originality': 7, 'practical_value': 7, 'natural_language': 8, 'accuracy': 8, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'practical_value 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+    "attempt 4: fail {'hook': 8, 'originality': 7, 'practical_value': 6, 'natural_language': 8, 'accuracy': 7, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'practical_value 6/10 (<8)', 'accuracy 7/10 (<8)']"
+   ],
+   "dir": "output/2026-10-26/R2-2026-10-26/try1",
+   "duration": 34.2,
+   "voice": "edge"
+  },
+  {
+   "id": "R3-2026-10-26",
+   "kind": "reel",
+   "format": "tool_test",
+   "topic": "Using dedicated AI voice recorders to turn chaotic vendor site discussions into itemized WhatsApp agreements",
+   "hook": "Agar aap bhi verbal scope changes pe fans jate ho, ye dekho.",
+   "approved": false,
+   "attempts": 1,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 8,
+    "natural_language": 9,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 7,
+    "pacing": 8,
+    "brand_consistency": 9,
+    "publish_readiness": 7
+   },
+   "reasons": [
+    "originality 7/10 (<8)",
+    "visual_integrity 7/10 (<8)"
+   ],
+   "log": [
+    "attempt 1: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 9, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+    "attempt 2: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+    "attempt 3: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+    "attempt 4: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'visual_integrity 7/10 (<8)']"
+   ],
+   "dir": "output/2026-10-26/R3-2026-10-26/try1",
+   "duration": 33.9,
+   "voice": "edge"
+  },
+  {
+   "id": "C1-2026-10-26",
+   "kind": "carousel",
+   "format": "myth_fact",
+   "topic": "Why 80% of businesses see zero financial payoff from AI (and what the profitable 20% do differently)",
+   "hook": "Why your AI subscriptions aren't increasing your shop's profit.",
+   "approved": true,
+   "attempts": 1,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 8,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 9,
+    "pacing": 9,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [],
+   "log": [
+    "attempt 1: PASS {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} []"
+   ],
+   "dir": "output/2026-10-26/C1-2026-10-26/try1",
+   "duration": null,
+   "voice": null
+  }
+ ],
+ "llm_calls": {
+  "text": 27,
+  "tts": 4,
+  "failed": 0
+ }
+}

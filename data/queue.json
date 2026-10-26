@@ -402,5 +402,255 @@
   "media_id": "18144724249610082",
   "permalink": "https://www.instagram.com/p/De6vwgxoLvt/",
   "published_at": "2026-10-25T18:19:22.300934+05:30"
+ },
+ {
+  "id": "R1-2026-10-26",
+  "kind": "reel",
+  "date": "2026-10-26",
+  "slot": "2026-10-26T21:00",
+  "dir": "output/2026-10-26/R1-2026-10-26/try4",
+  "files": [
+   "reel.mp4"
+  ],
+  "caption": "How to automate customer payment reminders and follow-ups using AI without awkward calls. Manual ledger reminders take up hours every week and strain client relationships. Razorpay has rolled out Agent Studio and Ray to handle everyday merchant tasks automatically. Instead of checking dashboards or calling defaulting buyers, autonomous agents step in to recover abandoned transactions and confirm pending orders. Ray even lets you query business operations directly using voice notes on WhatsApp. Comment AGENT for the full breakdown sent to your DM.\n\n#PaymentAutomation #Razorpay #SmallBusinessIndia #MSMEIndia",
+  "topic": "Automating overdue invoice recovery with contextual payment triggers instead of awkward phone calls",
+  "format": "problem_fix",
+  "hook": "Pending payments ke liye client ko call karna band karo. Ye dekho.",
+  "keywords": [
+   "automated payment reminders",
+   "Razorpay Agent Studio",
+   "WhatsApp business automation",
+   "invoice recovery AI",
+   "small business cash flow"
+  ],
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "status": "queued",
+  "produced_at": 1792974148,
+  "log": [],
+  "dm_keyword": "AGENT",
+  "dm_text": "Here is how to use Razorpay's new AI features for payment follow-ups: 1. Ecosystem clarity: Both Ray and Agent Studio are built directly inside the Razorpay merchant platform. 2. Ray Assistant: Talk to Ray using WhatsApp voice notes or English messages to manage your merchant account without complex dashboard navigation. 3. Agent Studio: Deploy autonomous agents to handle tasks like recovering abandoned carts and payments, verifying customer addresses, and confirming cash-on-delivery orders automatically. Over 600 brands are already using these 12 live agents to avoid manual customer calling.",
+  "presenter": {
+   "status": "waiting",
+   "takes": [
+    {
+     "n": 1,
+     "kind": "talk",
+     "talk": 1,
+     "line": "Pending payments ke liye client ko baar baar call karna band karo, ye trick try karo.",
+     "visual_scene": -1,
+     "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: close-up, camera steady at eye level. Points directly at the camera with a serious but helpful expression. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Pending payments ke liye client ko baar baar call karna band karo, ye trick try karo.\" No subtitles, no on-screen text, no music, no other people.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    },
+    {
+     "n": 2,
+     "kind": "talk",
+     "talk": 2,
+     "line": "Razorpay ke Ray aur Agent Studio ab WhatsApp par aapke liye payments automatically recover karte hain.",
+     "visual_scene": -1,
+     "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: medium close-up with a slow, smooth push-in towards his face. Leans in slightly towards the camera to emphasize the technology. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Razorpay ke Ray aur Agent Studio ab WhatsApp par aapke liye payments automatically recover karte hain.\" No subtitles, no on-screen text, no music, no other people.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    },
+    {
+     "n": 3,
+     "kind": "broll",
+     "cover": 2,
+     "desc": "close-up of a smartphone screen showing a WhatsApp chat interface with automated payment status updates",
+     "prompt": "Create a realistic vertical 9:16 video of about 8 seconds: close-up of a smartphone screen showing a WhatsApp chat interface with automated payment status updates. Indian small-business setting, warm natural light, handheld smartphone-camera look, slow subtle camera movement, shallow depth of field. No faces, no readable text, no brand names or logos, no subtitles, no speech, no music.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    },
+    {
+     "n": 4,
+     "kind": "talk",
+     "talk": 3,
+     "line": "Bas voice note bhejo, ye agents COD confirm karenge. Comment AGENT, main details DM kar dunga.",
+     "visual_scene": -1,
+     "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: medium shot from slightly to his left (about 20 degrees), camera steady. Smiles and gives a light thumbs up to the camera. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Bas voice note bhejo, ye agents COD confirm karenge. Comment AGENT, main details DM kar dunga.\" No subtitles, no on-screen text, no music, no other people.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    },
+    {
+     "n": 5,
+     "kind": "broll",
+     "cover": 3,
+     "desc": "over-the-shoulder shot of a shop counter with a phone screen displaying a successful order confirmation notification",
+     "prompt": "Create a realistic vertical 9:16 video of about 8 seconds: over-the-shoulder shot of a shop counter with a phone screen displaying a successful order confirmation notification. Indian small-business setting, warm natural light, handheld smartphone-camera look, slow subtle camera movement, shallow depth of field. No faces, no readable text, no brand names or logos, no subtitles, no speech, no music.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    }
+   ],
+   "material": "[84] YourStory — Beyond transactions: How PhonePe and Razorpay are using AI to improve digital payments\nURL: https://yourstory.com/2026/10/beyond-transactions-how-phonepe-and-razorpay-are-using-ai-to-improve-digital-payments\nBeyond transactions: How PhonePe and Razorpay are using AI to improve digital payments | YourStory Sidebar is Loading... ADVERTISEMENT PhonePe\nIndia has made digital payments as simple as scanning a QR code. The next opportunity lies in using payments to connect consumers with relevant financial products and help businesses address the challenges of growing online.\nAt TechSparks 2026, Deep Agrawal, Head of Payments at PhonePe, and Khilan Haria, Chief Product Officer at Razorpay, joined Madanmohan Rao, Research Director at YourStory, for a panel discussion titled ‘Beyond transactions: Solving financial inclusion with contextual money’.\nThe discussion covered how payments are becoming part of a wider digital experience, from improving transaction success rates to helping merchants attract and retain customers.\nBeyond payments: What do users and businesses need?\nAgrawal said digital payments have become part of everyday life for more than 500 million UPI users, who use the system to send money to friends, pay electricity bills, shop online, and make payments at stores.\nHowever, the next challenge is to bring another 500 million people into the digital payments ecosystem while helping existing users access financial products beyond payments.\nFor businesses, accepting payments is only the first step.\nHaria said Razorpay’s experience working with millions of small and medium businesses has shown that merchants face several challenges once they have the infrastructure to collect payments, including attracting customers, improving conversions, and encouraging repeat purchases.\n“Over the years, we’ve learned as we’ve worked with millions of these SMBs. The larger problem sometimes goes beyond payments. Payments is what I now call the core infrastructure that SMBs need to set up their digital commerce or online business. But beyond that, the struggle most businesses go through is ‘how do I get demand? How do I maximize retention? How do I uplift conversion?’” he said.\nRazorpay initially addressed some of these requirements through products for payroll, salary disbursements, and vendor payments.\nHowever, conversations with merchants showed that businesses needed support beyond managing money. They also needed help building and growing their online operations.\nHaria said helping more small businesses establish an online presence and succeed in digital commerce could contribute to the growth of India's digital economy.\nUsing transaction data to improve payments\nEvery digital transaction generates information that payment platforms can use to better understand customer needs, identify risks and improve the payment experience.\nHaria discussed Razorpay's transaction-led foundation model, Vulcan 5.2, which is designed to understand what he described as the language of payments.\nAccording to Haria, each transaction contains nearly 3,000 attributes. By analyzing these, the model can predict missing information, assess the likelihood of fraud, and determine whether a transaction is likely to convert.\nThis can help businesses identify suspicious transactions, reduce risks, and improve the chances of converting potential buyers into paying customers.\nHaria explained that conventional machine learning typically involves identifying patterns, developing hypotheses, and training models around them. Transformer-based models, however, can identify smaller patterns that may be difficult to detect through conventional approaches.\nAt PhonePe, machine learning is being used to make payments more reliable.\nAgrawal discussed an internal model called Kill Switch, which predicts whether a transaction is likely to succeed. It considers factors such as bank response times and recent transaction success rates to assess the likelihood of a successful payment.\n“Consumers don't really care whether a transaction fails. What they care about is it should not go into a pending state,” Agrawal said.\n“In this model, we tell the customer even before they initiate the transaction that your bank is probably down, come back and do the transaction later.”\nAgrawal said this approach helps build trust and encourages users to return to the platform.\nTransaction context can also help payment platforms recommend financial products based on customer needs.\nFor example, a customer booking an international flight through PhonePe may benefit from a travel insurance recommendation. For someone who travels only within India, a bus booking may be more relevant.\nAgrawal said PhonePe uses guardrails in its algorithms to avoid recommending products that are not relevant to individual customers.\nRazorpay: From AI assistants to autonomous agents\nRazorpay is also using AI to help merchants manage everyday business operations.\nHaria discussed two initiatives, Ray and Agent Studio, designed to make business support and automation more accessible.\nRay is an AI assistant that functions as an account manager for businesses. While larger customers typically have dedicated account managers, providing similar support to smaller merchants has been difficult to scale.\nRay aims to address this gap by allowing merchants to explain their problems through WhatsApp voice notes or messages in plain English, without navigating complex dashboards and consoles.\nAgent Studio goes further by allowing businesses to use autonomous AI agents for specific tasks.\nThese include recovering abandoned shopping carts, representing merchants in disputes, confirming cash-on-delivery orders and verifying delivery addresses.\nHaria said Razorpay had 12 agents live, with 600 brands using them, including some that use multiple agents.\nThe company plans to increase the number of agents to 100 over the next six months and eventually reach 100,000 businesses using them.\nPhonePe: Bringing more users into digital payments\nAgrawal also discussed how AI-powered tools could help bring more people into the digital payments ecosystem.\nHe highlighted the challenges faced by feature-phone users, many of whom live in smaller towns and rural areas or are beginning to participate in the formal economy.\nFeature phones have several limitations, including the inability to receive software updates over the air. Users may also need assistance with processes that are familiar to more digitally experienced consumers.\nTo address these challenges, PhonePe has introduced voice bots that help users with tasks such as linking bank accounts and setting up UPI PINs.\nPhonePe is also working to make it easier for micro and small merchants to start selling online.\nBuilding a website using platforms such as Shopify or WooCommerce can be expensive and complicated for young entrepreneurs.\nPhonePe's SmartPages product aims to simplify this process by allowing merchants to create a checkout page, list products, and start selling without hiring a web developer or subscribing to a more complex platform.\nIndia's digital payments ecosystem has made everyday transactions easier for millions of people. The next oppo",
+   "scenes": [
+    {
+     "purpose": "Hook",
+     "narration": "Pending payments ke liye client ko call karna band karo. Ye dekho.",
+     "on_screen": "Stop Manual Calling",
+     "visual_type": "text",
+     "url": "",
+     "query": "",
+     "headline": "No Awkward Phone Calls",
+     "steps": [],
+     "items": [],
+     "left_label": "",
+     "right_label": "",
+     "rows": []
+    },
+    {
+     "purpose": "Problem and friction",
+     "narration": "Daily ledger balance mangne mein time aur customer relationship dono kharab hote hain.",
+     "on_screen": "Calls Hurt Business",
+     "visual_type": "compare",
+     "url": "",
+     "query": "",
+     "headline": "",
+     "steps": [],
+     "items": [],
+     "left_label": "Manual Calling",
+     "right_label": "AI Automation",
+     "rows": [
+      {
+       "left": "Awkward reminders",
+       "right": "Contextual prompts"
+      },
+      {
+       "left": "Hours wasted daily",
+       "right": "Automated recovery"
+      }
+     ]
+    },
+    {
+     "purpose": "Introduce solution",
+     "narration": "Razorpay ne Agent Studio aur Ray launch kiya hai WhatsApp based automations ke liye.",
+     "on_screen": "Razorpay AI Launch",
+     "visual_type": "diagram",
+     "url": "",
+     "query": "",
+     "headline": "",
+     "steps": [
+      "Customer Drop-off",
+      "Agent Studio Trigger",
+      "Auto Recovery"
+     ],
+     "items": [],
+     "left_label": "",
+     "right_label": "",
+     "rows": []
+    },
+    {
+     "purpose": "Explain capabilities",
+     "narration": "Ye autonomous agents abandoned payments recover karte hain aur COD orders confirm karte hain.",
+     "on_screen": "What Agents Do",
+     "visual_type": "checklist",
+     "url": "",
+     "query": "",
+     "headline": "",
+     "steps": [],
+     "items": [
+      "Recover abandoned payments",
+      "Confirm COD orders",
+      "Verify customer addresses"
+     ],
+     "left_label": "",
+     "right_label": "",
+     "rows": []
+    },
+    {
+     "purpose": "Show ease of use",
+     "narration": "Bas WhatsApp par voice note bhejo, Ray aapke account ko manage kar lega.",
+     "on_screen": "WhatsApp Voice Notes",
+     "visual_type": "diagram",
+     "url": "",
+     "query": "",
+     "headline": "",
+     "steps": [
+      "Send Voice Note",
+      "Ray AI Processes",
+      "Action Completed"
+     ],
+     "items": [],
+     "left_label": "",
+     "right_label": "",
+     "rows": []
+    },
+    {
+     "purpose": "Call to action and payoff",
+     "narration": "Comment AGENT, main aapko Razorpay AI setup details DM kar dunga.",
+     "on_screen": "Comment AGENT Below",
+     "visual_type": "text",
+     "url": "",
+     "query": "",
+     "headline": "Get AI Setup Guide",
+     "steps": [],
+     "items": [],
+     "left_label": "",
+     "right_label": "",
+     "rows": []
+    }
+   ],
+   "composed_from": null,
+   "hook_title": "STOP CALLING FOR PAYMENTS",
+   "cta": "Comment AGENT for details"
+  }
+ },
+ {
+  "id": "C1-2026-10-26",
+  "kind": "carousel",
+  "date": "2026-10-26",
+  "slot": "2026-10-26T09:00",
+  "dir": "output/2026-10-26/C1-2026-10-26/try1",
+  "files": [
+   "slide_01.jpg",
+   "slide_02.jpg",
+   "slide_03.jpg",
+   "slide_04.jpg",
+   "slide_05.jpg",
+   "slide_06.jpg"
+  ],
+  "caption": "Spending monthly on AI chatbots for your shop? If you aren't seeing a dip in costs or a jump in revenue, you are likely just burning cash. Data shows that for most non-tech businesses, AI is currently a calculator that does not understand trust, ethics, or the specific trade-offs of running a physical business. Don't fall for the hype of 'intelligence'. If your current tool isn't saving you hours on specific tasks like data entry or invoice sorting, it is time to audit your subscriptions. What is one task you tried to automate that failed because it needed a 'human touch' instead?\n\n#smallbusinessindia #businessgrowth #aiintips #shopmanagement #businesscosts",
+  "topic": "Why 80% of businesses see zero financial payoff from AI (and what the profitable 20% do differently)",
+  "format": "myth_fact",
+  "hook": "Why your AI subscriptions aren't increasing your shop's profit.",
+  "keywords": [
+   "AI for small business",
+   "business automation audit",
+   "small business profit margins",
+   "ROI on AI tools",
+   "business efficiency tips"
+  ],
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "status": "queued",
+  "produced_at": 1792974148,
+  "log": [],
+  "dm_keyword": "",
+  "dm_text": ""
  }
 ]
