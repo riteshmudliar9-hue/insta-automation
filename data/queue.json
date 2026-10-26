@@ -435,9 +435,11 @@
    "brand_consistency": 9,
    "publish_readiness": 8
   },
-  "status": "queued",
+  "status": "published",
   "produced_at": 1792974148,
-  "log": [],
+  "log": [
+   "2026-10-26T21:49:44.350362+05:30 published https://www.instagram.com/reel/De9sl1sFNsP/"
+  ],
   "dm_keyword": "AGENT",
   "dm_text": "Here is how to use Razorpay's new AI features for payment follow-ups: 1. Ecosystem clarity: Both Ray and Agent Studio are built directly inside the Razorpay merchant platform. 2. Ray Assistant: Talk to Ray using WhatsApp voice notes or English messages to manage your merchant account without complex dashboard navigation. 3. Agent Studio: Deploy autonomous agents to handle tasks like recovering abandoned carts and payments, verifying customer addresses, and confirming cash-on-delivery orders automatically. Over 600 brands are already using these 12 live agents to avoid manual customer calling.",
   "presenter": {
@@ -610,7 +612,10 @@
    "cta": "Comment AGENT for details",
    "prompts_sent": true,
    "prompts_sent_at": 1793022191
-  }
+  },
+  "media_id": "18636524926049964",
+  "permalink": "https://www.instagram.com/reel/De9sl1sFNsP/",
+  "published_at": "2026-10-26T21:49:44.350362+05:30"
  },
  {
   "id": "C1-2026-10-26",
