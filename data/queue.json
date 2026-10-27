@@ -664,5 +664,31 @@
   "media_id": "18170614912476873",
   "permalink": "https://www.instagram.com/p/De8YIfJACHl/",
   "published_at": "2026-10-26T09:31:26.652971+05:30"
+ },
+ {
+  "id": "R9-2026-10-27",
+  "kind": "reel",
+  "date": "2026-10-27",
+  "slot": "2026-10-27T12:30",
+  "dir": "output/manual/WA1",
+  "files": [
+   "whatsapp_trick_reel.mp4"
+  ],
+  "caption": "Har customer ko same reply baar baar type karte ho? 😩\n\nWhatsApp Business mein Quick Replies set karo:\n1️⃣ Business tools → Quick replies\n2️⃣ Common message save karo + shortcut do (jaise /price)\n3️⃣ Chat mein \"/\" type karo, reply ready ✅\n\nComment REPLY aur main poora setup step-by-step DM kar dunga 📩\n\n(Presenter is an AI-generated character.)\n\n#whatsappbusiness #smallbusinessindia #businesstips #automation #aitools",
+  "topic": "WhatsApp Business Quick Replies trick",
+  "format": "arjun_presenter",
+  "hook": "Har customer ko same reply baar baar type karte ho?",
+  "keywords": [
+   "WhatsApp Business",
+   "Quick Replies"
+  ],
+  "scores": {},
+  "status": "queued",
+  "produced_at": 1793083028,
+  "log": [
+   "manual upload by owner (Flow + edit)"
+  ],
+  "dm_keyword": "REPLY",
+  "dm_text": "Quick Replies setup (2 minute ka kaam):\n1. WhatsApp Business kholo → ⋮ (More options) → Business tools → Quick replies.\n2. \"+\" dabao. Apna message likho, jaise price list, address, payment details ya order confirmation.\n3. Shortcut do, jaise /price, /address, /pay. Save karo.\n4. Ab kisi bhi chat mein \"/\" type karo, list khulegi. Reply select karo aur bhej do.\nTip: sabse pehle ye 5 banao: greeting, price list, shop address + location, payment details (UPI), order confirmation. Roz ke 30–60 minute bachenge."
  }
 ]
