@@ -1,0 +1,253 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Turn WhatsApp into a 24/7 Automated Storefront using Meta Business Agent",
+  "angle": "Stop losing nighttime customer inquiries on WhatsApp by deploying automated product discovery and checkout flows.",
+  "audience_problem": "Small shop owners miss sales when prospective buyers message on WhatsApp outside operating hours.",
+  "format": "tutorial",
+  "medium": "both",
+  "source_ids": [
+   84
+  ],
+  "evergreen": true,
+  "keywords": [
+   "WhatsApp Business",
+   "Meta Business Agent",
+   "E-commerce Automation",
+   "Customer Support"
+  ],
+  "scores": {
+   "relevance": 10,
+   "novelty": 8,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 9,
+   "evidence": 8,
+   "viral": 9
+  },
+  "total": 8.81
+ },
+ "piece": {
+  "hooks": [
+   "Raat ko WhatsApp orders miss ho rahe hain? Ye AI setup dekho.",
+   "91% customers cart add karke buy nahi karte. Iska AI solution dekho.",
+   "WhatsApp Business par 24 ghante customer support set up kaise karein?",
+   "Agar aap abhi bhi WhatsApp par manual catalogue bhej rahe ho, ye dekho.",
+   "Meta AI agent se WhatsApp par automated sales kaise start karein?"
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "Addresses the specific pain point of losing late-night sales when small business owners or staff are asleep.",
+  "title": "Turn WhatsApp into a 24/7 Automated Storefront",
+  "scenes": [
+   {
+    "purpose": "Hook",
+    "narration": "Raat ko WhatsApp orders miss ho rahe hain? Ye AI setup dekho.",
+    "on_screen": "24/7 WhatsApp Storefront Setup",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Stop Losing Night Orders",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Problem and Context",
+    "narration": "Meta ki research ke mutabiq 91% log cart add karke khareede bina nikal jaate hain.",
+    "on_screen": "91% Cart Drop-off Rate",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "Manual Shop",
+    "right_label": "Meta Business Agent",
+    "rows": [
+     {
+      "left": "No reply at night",
+      "right": "24/7 instant replies"
+     },
+     {
+      "left": "High cart drop-off",
+      "right": "Automated follow-ups"
+     }
+    ]
+   },
+   {
+    "purpose": "Setup Overview",
+    "narration": "Meta Business Agent se aap catalogue connect karke AI replies set kar sakte ho.",
+    "on_screen": "Connect Catalogue & Set AI",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "Connect Product Catalogue",
+     "Set AI Response Rules",
+     "Enable WhatsApp Pay"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Controls and Capabilities",
+    "narration": "Aap control karte ho ki AI kab bolega aur complex query par human handoff hoga.",
+    "on_screen": "Full Control & Human Handoff",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Set business tone",
+     "Automate product discovery",
+     "Human staff handover option",
+     "In-chat payments in India"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Call to Action",
+    "narration": "Comment AGENT, main aapko WhatsApp Meta Business Agent setup guide DM kar dunga.",
+    "on_screen": "Comment AGENT For Setup Guide",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Comment AGENT Below",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "Turn your WhatsApp into a 24/7 storefront with Meta Business Agent. Meta research shows 91% of shoppers drop off after adding products to cart. With Meta Business Agent, Indian shops and D2C brands can show catalog items, process in-chat payments, and send automatic follow-up reminders to recover carts after hours. You keep full control over tone and can set human handover for complex queries. Which customer query takes up most of your staff time on WhatsApp? Comment AGENT for Meta Business Agent setup steps.",
+  "hashtags": [
+   "#WhatsAppBusiness",
+   "#MetaBusinessAgent",
+   "#D2CIndia",
+   "#BusinessAutomation"
+  ],
+  "keywords": [
+   "WhatsApp Business automation",
+   "Meta Business Agent India",
+   "WhatsApp storefront setup",
+   "WhatsApp cart recovery",
+   "AI chatbot small business"
+  ],
+  "claims": [
+   {
+    "claim": "Meta research found that 91% of users drop off after adding products to cart.",
+    "source_id": 84
+   },
+   {
+    "claim": "Meta Business Agent connects product catalogues and guides shoppers through purchase journeys.",
+    "source_id": 84
+   },
+   {
+    "claim": "Payments within WhatsApp are live in India.",
+    "source_id": 84
+   },
+   {
+    "claim": "Businesses can set agent tone, define topics, and hand over complex conversations to human staff.",
+    "source_id": 84
+   },
+   {
+    "claim": "One million businesses had adopted Meta Business Agent at the time of the TechSparks presentation.",
+    "source_id": 84
+   }
+  ],
+  "dm_keyword": "AGENT",
+  "dm_text": "Here are the key steps to set up Meta Business Agent for your WhatsApp storefront:\n\n1. Connect your product catalogue directly to WhatsApp Business.\n2. Define AI agent instructions, preferred brand tone, and topic limits.\n3. Enable in-chat payment features (live in India) and cart abandonment reminders.\n4. Configure human representative handoff rules for complex customer queries.\n\nNote: Over 1 million businesses have adopted Meta Business Agent to handle round-the-clock inquiries."
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 7,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "Meta research found that 91% of users drop off after adding products to cart.",
+    "supported": true,
+    "note": "Directly confirmed by the source article."
+   },
+   {
+    "claim": "Meta Business Agent connects product catalogues and guides shoppers through purchase journeys.",
+    "supported": true,
+    "note": "Supported by Meta's presentation detailed in the source."
+   },
+   {
+    "claim": "Payments within WhatsApp are live in India.",
+    "supported": true,
+    "note": "Source confirms WhatsApp payments are live in India and Brazil."
+   },
+   {
+    "claim": "Businesses can set agent tone, define topics, and hand over complex conversations to human staff.",
+    "supported": true,
+    "note": "Confirmed in source under human handover and control options."
+   },
+   {
+    "claim": "One million businesses had adopted Meta Business Agent at the time of the TechSparks presentation.",
+    "supported": true,
+    "note": "Explicitly stated in source material."
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [],
+  "issues": [],
+  "fix_instructions": "This reel is ready to publish. No mandatory fixes required. If desired, you can add a subtle WhatsApp chat UI icon to Scene 1 to enhance visual context immediately."
+ },
+ "rules": [],
+ "reasons": [
+  "originality 7/10 (<8)",
+  "practical_value 7/10 (<8)"
+ ],
+ "meta": {
+  "duration": 34.4,
+  "voice": "gemini",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-27/R3-2026-10-27/try1/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-27/R3-2026-10-27/try1/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-27/R3-2026-10-27/try1/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-27/R3-2026-10-27/try1/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-27/R3-2026-10-27/try1/scene_05.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   3.62,
+   17.53,
+   4.18,
+   4.48,
+   4.54
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-10-27/R3-2026-10-27/try1",
+ "attempt": 1,
+ "approved": false,
+ "hook": "Raat ko WhatsApp orders miss ho rahe hain? Ye AI setup dekho.",
+ "log": [
+  "attempt 1: fail {'hook': 8, 'originality': 7, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['originality 7/10 (<8)', 'practical_value 7/10 (<8)']",
+  "attempt 2: fail {'hook': 8, 'originality': 6, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 6/10 (<8)', 'practical_value 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+  "attempt 3: review unavailable (Gemini unavailable (gemini-3.1-flash-lite: HTTP 503))"
+ ],
+ "material": "[84] YourStory — Meta Business Agent aims to turn WhatsApp into a 24/7 storefront for D2C brands\nURL: https://yourstory.com/2026/10/meta-business-agent-whatsapp-d2c-growth\nMeta Business Agent aims to turn WhatsApp into a 24/7 storefront for D2C brands | YourStory Sidebar is Loading... ADVERTISEMENT A customer browsing a brand’s Instagram page late at night may have questions about a product, need help choosing the right option or want to know when an order will arrive.\nIf the business cannot respond immediately, that moment of interest could turn into a lost sale.\nFor direct-to-consumer (D2C) brands, the challenge is not just attracting customers but staying available when they are ready to engage. Meta wants to address this through AI-powered conversations on WhatsApp, turning the messaging platform into a storefront that remains open beyond business hours.\nAt TechSparks 2026, Piyush Vaidya, Enterprise Sales Specialist for India at Meta, presented Meta Business Agent, a tool designed to help businesses answer customer queries, recommend products and guide shoppers through their purchase journey.\nThe proposition is to bring product discovery, customer support and commerce closer together, without requiring customers to move between multiple platforms.\nRetailers face several obstacles along the path to purchase, including cart abandonment, limited personalisation, uncertainty about products and the cost of customer support. Vaidya said Meta’s research found that 91% of users drop off after adding products to their carts.\nMeta Business Agent aims to reduce this friction by allowing customers to ask questions and explore products through WhatsApp conversations. Businesses can connect their product catalogues and provide instructions that guide how the agent responds. For more complicated queries, the conversation can be handed over to a human representative.\nThe agent can also retain conversational context, helping businesses offer more relevant responses when customers return. Rather than repeating their requirements, shoppers can continue where an earlier interaction left off.\nBusinesses remain in control of how the agent operates. They can set its tone, define the topics it handles and choose between manual replies, AI-generated suggestions and automated responses. This gives brands room to introduce automation while keeping customer interactions aligned with their communication style.\nMeta is also working to help customers discover businesses directly through WhatsApp. Vaidya outlined entry points such as business contact cards shared in chats, calls to action on WhatsApp Status ads and a search experience intended to make AI-enabled businesses easier to find.\nOnce customers enter a conversation, businesses can showcase catalogue items, capture leads through forms and facilitate appointment bookings. Piyush Vaidya said payments within WhatsApp are live in India and Brazil, potentially allowing customers to complete more of the purchase journey without leaving the platform.\nBusinesses can also configure the agent to follow up with shoppers who abandon a purchase, using reminders or relevant product updates to encourage them to return.\nPiyush cited Prime Pix Accessories as an example of a small business that reported threefold revenue growth after enabling Meta Business Agent, alongside 30 to 40 daily orders and round-the-clock responses. The presentation did not provide further details on the period or methodology behind the reported growth.\nAutomation does not mean removing people from customer service. Businesses can test and refine the agent’s responses before customers interact with it, set limits on what it can handle and transfer complex conversations to human staff.\nAs Piyush Vaidya put it, “You decide when the AI works and who it talks to.”\nHe said one million businesses had adopted Meta Business Agent at the time of the presentation, with further adoption expected among larger enterprises and businesses using WhatsApp’s business platform.\nFor D2C brands, the opportunity lies in making customer engagement less dependent on operating hours. If shoppers can discover products, get answers and move towards a purchase in the same conversation, WhatsApp could become both a sales channel and a support layer.\nThe test will be whether these AI-powered interactions can deliver the personalisation and reliability customers expect while earning the trust needed to turn conversations into lasting relationships.",
+ "id": "R3-2026-10-27",
+ "caption_final": "Turn your WhatsApp into a 24/7 storefront with Meta Business Agent. Meta research shows 91% of shoppers drop off after adding products to cart. With Meta Business Agent, Indian shops and D2C brands can show catalog items, process in-chat payments, and send automatic follow-up reminders to recover carts after hours. You keep full control over tone and can set human handover for complex queries. Which customer query takes up most of your staff time on WhatsApp? Comment AGENT for Meta Business Agent setup steps.\n\n#WhatsAppBusiness #MetaBusinessAgent #D2CIndia #BusinessAutomation"
+}

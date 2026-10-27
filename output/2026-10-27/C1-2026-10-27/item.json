@@ -1,0 +1,40 @@
+{
+ "kind": "carousel",
+ "idea": {
+  "idea": "Adapting to Google AI Search: Adding Direct Schema and WhatsApp Triggers",
+  "angle": "How AI search overviews reduce website clicks and how local businesses can capture leads directly in Google search results.",
+  "audience_problem": "Small business websites are seeing drops in direct Google clicks as AI answers summarize their content.",
+  "format": "tutorial",
+  "medium": "both",
+  "source_ids": [
+   18
+  ],
+  "evergreen": false,
+  "keywords": [
+   "Google AI Search",
+   "Schema Markup",
+   "Local SEO",
+   "Lead Generation"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 9,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 8,
+   "evidence": 9,
+   "viral": 9
+  },
+  "total": 8.83
+ },
+ "approved": false,
+ "reasons": [
+  "no usable draft: attempt 1: review unavailable (Gemini unavailable (gemini-3.1-flash-lite: HTTP 503))"
+ ],
+ "log": [
+  "attempt 1: review unavailable (Gemini unavailable (gemini-3.1-flash-lite: HTTP 503))"
+ ],
+ "id": "C1-2026-10-27",
+ "caption_final": ""
+}
