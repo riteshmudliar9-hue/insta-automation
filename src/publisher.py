@@ -55,7 +55,7 @@ def _urls(e):
     repo = os.environ["GITHUB_REPOSITORY"]
     owner, name = repo.split("/")
     if e["kind"] == "reel":
-        return [f"https://{owner.lower()}.github.io/{name}/{e['dir']}/reel.mp4"]
+        return [f"https://{owner.lower()}.github.io/{name}/{e['dir']}/{(e.get('files') or ['reel.mp4'])[0]}"]
     return [f"https://raw.githubusercontent.com/{repo}/main/{e['dir']}/{f}" for f in e["files"]]
 
 
