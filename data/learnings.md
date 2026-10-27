@@ -1,12 +1,12 @@
-# Learnings (auto-generated 2026-10-26)
+# Learnings (auto-generated 2026-10-27)
 
-## reels (n=3, median reach 5)
+## reels (n=3, median reach 24)
 - format checklist: 4.10x account median (n=1)
 - format tool_test: 1.00x account median (n=1)
-- format problem_fix: 0.97x account median (n=1)
+- format problem_fix: 0.46x account median (n=1)
 - best hooks: Most AI agents crash when they hit real business data. Here is how to test. | You can now let AI agents log in without ever seeing your password. | Pending payments ke liye client ko call karna band karo. Ye dekho.
 - weakest hooks: Pending payments ke liye client ko call karna band karo. Ye dekho. | You can now let AI agents log in without ever seeing your password.
-- median avg watch time: 6.5s
+- median avg watch time: 5.8s
 
 ## carousels (n=7, median reach 3)
 - format problem_fix: 4.00x account median (n=1)
