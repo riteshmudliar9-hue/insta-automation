@@ -683,12 +683,16 @@
    "Quick Replies"
   ],
   "scores": {},
-  "status": "queued",
+  "status": "published",
   "produced_at": 1793083028,
   "log": [
-   "manual upload by owner (Flow + edit)"
+   "manual upload by owner (Flow + edit)",
+   "2026-10-27T12:43:19.510283+05:30 published https://www.instagram.com/reel/De_S2g8jxA0/"
   ],
   "dm_keyword": "REPLY",
-  "dm_text": "Quick Replies setup (2 minute ka kaam):\n1. WhatsApp Business kholo → ⋮ (More options) → Business tools → Quick replies.\n2. \"+\" dabao. Apna message likho, jaise price list, address, payment details ya order confirmation.\n3. Shortcut do, jaise /price, /address, /pay. Save karo.\n4. Ab kisi bhi chat mein \"/\" type karo, list khulegi. Reply select karo aur bhej do.\nTip: sabse pehle ye 5 banao: greeting, price list, shop address + location, payment details (UPI), order confirmation. Roz ke 30–60 minute bachenge."
+  "dm_text": "Quick Replies setup (2 minute ka kaam):\n1. WhatsApp Business kholo → ⋮ (More options) → Business tools → Quick replies.\n2. \"+\" dabao. Apna message likho, jaise price list, address, payment details ya order confirmation.\n3. Shortcut do, jaise /price, /address, /pay. Save karo.\n4. Ab kisi bhi chat mein \"/\" type karo, list khulegi. Reply select karo aur bhej do.\nTip: sabse pehle ye 5 banao: greeting, price list, shop address + location, payment details (UPI), order confirmation. Roz ke 30–60 minute bachenge.",
+  "media_id": "18183047347429312",
+  "permalink": "https://www.instagram.com/reel/De_S2g8jxA0/",
+  "published_at": "2026-10-27T12:43:19.510283+05:30"
  }
 ]
