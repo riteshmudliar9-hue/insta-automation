@@ -1,0 +1,244 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "How to automate customer payment reminders without phone calls",
+  "angle": "Efficiency: Use contextual triggers to stop chasing payments manually.",
+  "audience_problem": "Awkward, time-consuming manual follow-ups on overdue invoices.",
+  "format": "problem_fix",
+  "medium": "reel",
+  "source_ids": [
+   40,
+   48
+  ],
+  "evergreen": true,
+  "keywords": [
+   "automation",
+   "invoices",
+   "payment"
+  ],
+  "scores": {
+   "relevance": 10,
+   "novelty": 7,
+   "hook_potential": 9,
+   "retention": 9,
+   "save_share": 10,
+   "feasibility": 9,
+   "evidence": 8,
+   "viral": 10
+  },
+  "total": 9.13
+ },
+ "piece": {
+  "hooks": [
+   "Pending payments ke liye client ko call karna band karo. Ye dekho.",
+   "Customer follow-ups mein 2 ghante barbaad mat karo. Ye trick dekho.",
+   "Apne staff ka time kaise bachayein? Ye AI agent setup dekho.",
+   "Invoice follow-ups automated karne ka simple tarika yahan hai.",
+   "Customer calling mein ghanton mat lagao. Ye automation try karo."
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "It directly addresses a painful, specific daily problem for Indian business owners (chasing payments) and promises a concrete solution, which drives high engagement.",
+  "title": "Automating customer payment reminders with AI",
+  "scenes": [
+   {
+    "purpose": "State the problem",
+    "narration": "Pending payments ke liye client ko call karna band karo. Ye dekho.",
+    "on_screen": "Stop Manual Chasing",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Manual calling is expensive",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Manual vs Automated comparison",
+    "narration": "Manual calling mein time jata hai aur staff exhaust ho jate hain.",
+    "on_screen": "Manual Process",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "Why change the process?",
+    "steps": [],
+    "items": [],
+    "left_label": "Manual",
+    "right_label": "Automated",
+    "rows": [
+     {
+      "left": "Staff calling",
+      "right": "AI agents"
+     },
+     {
+      "left": "Slow follow-up",
+      "right": "Instant response"
+     },
+     {
+      "left": "High error",
+      "right": "80% resolution"
+     }
+    ]
+   },
+   {
+    "purpose": "How the AI works",
+    "narration": "AI agent customer ka context samajh kar automatically baat karta hai.",
+    "on_screen": "Context-Aware AI",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "How it talks",
+    "steps": [
+     "Read invoice data",
+     "Understand context",
+     "Generate natural response"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Human hand-off",
+    "narration": "Jab zarurat ho, AI agent staff ko brief karke call transfer karta hai.",
+    "on_screen": "Smooth Hand-off",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "Human intervention",
+    "steps": [
+     "Customer asks",
+     "AI briefs staff",
+     "Connect to person"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Outcome and call to action",
+    "narration": "80% resolution milta hai. Comment AGENT, main aapko pura process DM kar dunga.",
+    "on_screen": "80% Success Rate",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Start automating today",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "How to automate client payment reminders using voice AI agents for your business. Stop wasting hours manually calling customers for pending invoices. Voice AI can now handle routine support and follow-ups with 80% resolution rates, allowing your staff to focus on complex queries instead. It keeps the tone warm and pacing human-like, just like a real person. This isn't just about speed; it's about giving your staff their time back to handle actual business growth. Setting up a voice agent that understands your specific customer context is easier than you think. Comment AGENT for the step-by-step setup guide.",
+  "hashtags": [
+   "#BusinessAutomation",
+   "#SmallBusinessIndia",
+   "#VoiceAI",
+   "#CustomerSupport",
+   "#Efficiency"
+  ],
+  "keywords": [
+   "payment reminders",
+   "voice AI",
+   "business automation",
+   "customer follow-up",
+   "AI agent"
+  ],
+  "claims": [
+   {
+    "claim": "Retell platform serves more than 4,000 businesses with monthly call volume over 100 million.",
+    "source_id": 40
+   },
+   {
+    "claim": "Retell achieves customer resolution rates above 80%.",
+    "source_id": 40
+   },
+   {
+    "claim": "Voice agents can brief a human representative with context and confirm readiness before transferring.",
+    "source_id": 40
+   }
+  ],
+  "dm_keyword": "AGENT",
+  "dm_text": "Thanks for asking! Here is how voice AI agents work for business follow-ups: 1. Define your agent's business context, goals, and rules. 2. Configure your workflow integrations. 3. Use an AI platform to manage calls, listen, and respond. 4. AI handles Tier-1 requests and briefs your human staff if complex help is needed. Retell reports over 80% resolution rates with this method. You can learn more about how these voice agents work at https://openai.com/index/retell-ai"
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 6,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 7,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 7
+  },
+  "claims": [
+   {
+    "claim": "Retell platform serves more than 4,000 businesses with monthly call volume over 100 million.",
+    "supported": true
+   },
+   {
+    "claim": "Retell achieves customer resolution rates above 80%.",
+    "supported": true
+   },
+   {
+    "claim": "Voice agents can brief a human representative with context and confirm readiness before transferring.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Scene 1: The text 'Manual calling is expensive' is redundant with the 'Stop Manual Chasing' header.",
+   "Scene 5: The subtitle 'Comment AGENT, main aapko pura process' is cut off mid-sentence in the visual frame, which looks unprofessional."
+  ],
+  "issues": [
+   "The reel lacks a clear 'how-to' for the small business owner. It explains the 'what' and 'why' well, but the 'how' is entirely deferred to a DM, which might frustrate viewers looking for immediate value.",
+   "The visual hierarchy in the comparison table (Scene 2) is clean but could benefit from icons to make it more engaging for a mobile audience."
+  ],
+  "fix_instructions": "1. In Scene 1, change the body text to a more compelling sub-point, like 'Save 10+ hours weekly.' 2. In Scene 5, ensure the full sentence 'Comment AGENT, main aapko pura process DM kar dunga' is visible or timed so the full CTA is readable. 3. Add a quick 1-second visual overlay in Scene 3 or 4 showing a generic 'Retell AI' dashboard or a simple 'Connect' icon to ground the abstract diagram in reality. 4. Ensure the DM response includes a link to a specific, simple tool or platform (like Retell) so the user feels they received a concrete resource."
+ },
+ "rules": [],
+ "reasons": [
+  "originality 7/10 (<8)",
+  "practical_value 6/10 (<8)",
+  "visual_integrity 7/10 (<8)"
+ ],
+ "meta": {
+  "duration": 39.5,
+  "voice": "gemini",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-28/R1-2026-10-28/try4/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-28/R1-2026-10-28/try4/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-28/R1-2026-10-28/try4/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-28/R1-2026-10-28/try4/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-28/R1-2026-10-28/try4/scene_05.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   15.15,
+   3.11,
+   13.5,
+   3.41,
+   4.29
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-10-28/R1-2026-10-28/try4",
+ "attempt": 4,
+ "approved": false,
+ "hook": "Pending payments ke liye client ko call karna band karo. Ye dekho.",
+ "log": [
+  "attempt 1: fail {'hook': 7, 'originality': 7, 'practical_value': 6, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 6} ['hook 7/10 (<8)', 'originality 7/10 (<8)', 'practical_value 6/10 (<8)', 'visual_integrity 7/10 (<8)']",
+  "attempt 2: fail {'hook': 8, 'originality': 7, 'practical_value': 6, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 6, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 6} ['scene 3: screenshot must be a product page from the sources, not an article', 'originality 7/10 (<8)', 'practical_value 6/10 (<8)', 'visual_integrity 6/10 (<8)']",
+  "attempt 3: fail {'hook': 7, 'originality': 6, 'practical_value': 6, 'natural_language': 8, 'accuracy': 7, 'narrative': 7, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 6} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 6/10 (<8)', 'accuracy 7/10 (<8)']",
+  "attempt 4: fail {'hook': 8, 'originality': 7, 'practical_value': 6, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'practical_value 6/10 (<8)', 'visual_integrity 7/10 (<8)']"
+ ],
+ "material": "[40] OpenAI News — Retell uses OpenAI models to help power 100M monthly calls\nURL: https://openai.com/index/retell-ai\nRetell uses OpenAI models to help power 100M monthly calls | OpenAI OpenAI October 27, 2026\nGPT‑6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.\n(opens in a new window) Company size: Startup Region: North America Industry: Technology Products: API, Codex 100M+\nShare Retell AI ⁠ (opens in a new window) is a voice AI platform for contact center operations, helping businesses build agents that can answer questions, take action, and connect a caller with a person when needed. Its platform now serves more than 4,000 businesses, with monthly call volume growing from 30 million in early 2026 to more than 100 million by September.\nAs Retell serves more enterprises with complex workflows, it uses OpenAI models to keep call quality and reliability high. Today, OpenAI models generate responses for 80% of calls on Retell, with customers achieving resolution rates above 80%. Retell has also surpassed 1 trillion tokens consumed across OpenAI models, reflecting the scale of that adoption.\nRetell’s engineers use Codex throughout development, from researching unfamiliar code to building features and debugging issues, and GPT‑6 Astra to test front-end interfaces.\nChoosing OpenAI models for the demands of a live call\nEnterprise voice agents need to follow company policies and stay within their assigned roles, even as conversations change. Retell built its vCX benchmark to compare dozens of models using difficult, multi-turn conversations drawn from real production scenarios.\nIt tests how well models follow instructions, stay grounded in the information they are given, call the right tools, and use natural conversational language. In Retell’s October 13, 2026 benchmark, GPT‑6 Astra ranked first for instruction following at 89.7%.\nRetell also shared evaluations conducted before the launch of the GPT‑6 Astra model that showed GPT‑5.5 ranking highest among models on both non-hallucination rate (88.0%) and tool-call correctness (88.3%) with reasoning enabled, outperforming Gemini‑3.1‑Pro and Claude‑4.6 on both measures. It also led on non-hallucination rate with reasoning off.\nRetell says new customers who choose OpenAI models continue using them. Customers also have access to OpenAI Realtime models through the Realtime API and OpenAI text-to-speech as a voice engine. Retell makes new OpenAI models available the day they launch and reruns its benchmark as models improve.\nResolving more than 80% of customer requests with agents\nContact center teams use Retell to define their agents’ business context, goals, and rules. Developers can further configure workflows and integrations.\nDuring a call, Retell’s harness runs the audio models, tracks the conversation, and manages when the agent speaks, listens, or responds to interruptions. OpenAI models, including GPT‑6.1 Sol, GPT‑6 Astra, and GPT‑5.5, use the customer’s instructions and conversation context to generate responses and request tool calls. Retell executes those calls through integrations with the customer’s systems and can write outcomes back to a customer record.\nWhen human judgment is needed, the voice agent briefs the representative with context, answers their follow-up questions, and confirms they are ready before connecting the customer. After a call, Retell uses GPT‑5.6 Terra to analyze the transcript and extract outcomes and other data.\nWith this approach, Retell reports customer resolution rates above 80%. At electronics company Anker, agents handle Tier‑1 post-sales support in the US and UK, including order tracking, warranty checks, and troubleshooting. Anker reported an 80.4% case resolution rate and a Net Promoter Score (NPS) of 63. Its team also said the agents’ tone, pacing, and warmth met the standard they expected of a human agent.\nAt Pine Park Health, Retell agents handle appointment reminders and proactive scheduling and record the outcomes in patients’ medical charts. The team recovered medical-assistant time equivalent to 2.1 full-time roles and redirected it to patient care. Its scheduling agent achieved a 55.7% booking rate when it reached a patient.\nDaytime traffic on Retell’s platform can reach more than 50 times its overnight low. To help keep calls responsive even at peak demand, Retell uses dedicated servers with OpenAI, shared across its customers. In Retell’s October 13, 2026 benchmark, GPT‑6 Astra and GPT‑6 Sol each recorded median first-sentence latency of 883 milliseconds, with GPT‑5.6 Luna ranking highest at 497 milliseconds.\nOpenAI’s regional API endpoints allow developers to route traffic to specific geographic regions, which helps Retell reduce network travel time and meet customers’ data residency requirements in industries such as healthcare and financial services.\nRetell also builds redundancy into each layer of the service. It runs its own telephony stack with a second stack ready to take over, along with backups for voice and model services, to help keep calls running when a service fails.\nUsing Codex to research, build, and debug\nAs Retell’s enterprise growth brings more requests for custom workflows and integrations, its engineers often need to work in unfamiliar parts of the codebase. Before writing code, they give Codex a high-level requirement. Codex surveys the code, checks it against actual data, and explains what needs to change. One engineer said Codex did this research better and much faster than he could.\nDuring implementation, engineers say Codex often catches details they had not considered. For debugging, Codex cross-references logs and database records with the code to investigate what is happening. Retell’s engineers also use Codex in their work with customers building on OpenAI models to speed up tasks such as writing the instructions that guide how a model responds in a customer’s application.\nTo test changes to its web interface, Retell relies on GPT‑6 Astra’s computer use. When an engineer opens a front-end pull request, GPT‑6 Astra opens the interface, clicks through it, tests flows, tries to break them, and reports the issues it finds. Retell says earlier models could not perform this work reliably.\nRetell continues to hire, but its engineering team hasn’t needed to grow at the same pace as the business. Retell reports $1.6 million in annual revenue run rate per employee.\nEvery business knows how it wants to serve its customers. Retell’s goal is to let the people closest to that work apply their expertise directly, using advanced voice AI and a platform that lets them build, test, and improve their own agents. Next, Retell plans to expand quality assurance and simulation, support more languages, and develop knowledge base auto-learning.\nAs OpenAI models continue to advance, Retell expects its customers to deliver world-class service to millions of callers, on their own terms.\n“No one knows a company’s customers better than the company itself. We give them the power to act on that expertise and improve AI agent\n\n[48] OpenAI News — How Ultrafast cut incident investigation from hours to minutes at OpenAI\nURL: https://openai.com/index/openai-cut-incident-investigation\nHow Ultrafast cut incident investigation from hours to minutes at OpenAI | OpenAI OpenAI October 26, 2026\nShare This is part of our series sharing internal examples of how OpenAI is using its own technology and APIs. These tools are being used internally, at OpenAI, and are shared here as illustrative examples of how frontier AI is supporting use cases across our teams.\nUltrafast is a high-speed mode in Codex, and for engineers at OpenAI, it’s become the default for incident response. When something breaks, engineers often don’t have time to wait minutes for an answer while the issue compounds. With Ultrafast, they can investigate multiple potential causes at once and get answers without splitting their attention.\nAaron Friel, Member of the Technical Staff at OpenAI, is usually the one running point on an incident. He spins up a Slack channel for incident response and then points Codex at the problem, asking Codex to monitor, investigate, and answer any questions as they come in. “In any incident, there are usually many hops along the way of what could have gone wrong, and finding the right needle in the right haystack is really the chief job of the people on that channel,” he says. “Using Ultrafast, I’m able to essentially search all of those haystacks at the same time, and respond to incidents much faster.”\nAJ Trbojevic, Member of the Technical Staff and a Datacenter Security Architect, says investigations into security issues used to take an hour or two to pull structured and unstructured data together, normalize it, and provide context to make a decision. “Now that happens in 10 to 15 minutes,” he says. “And at times it’s near real time.”\nAdam Perry and Sayan Sisodiya both work on the core agent team, building the code that lets Codex take actions, run commands, and use tools. Ultrafast has changed how they operate during security incidents. “Before, I’d ask Codex to look into something, and then go look into it myself at the same time, because I knew it wouldn’t be fast enough to just wait on,” Adam says. “Now with Ultrafast, Codex is fast enough that I can just stay focused instead of splitting my attention.”\nSayan appreciates how Ultrafast lets him get immediate answers from multiple data sources: “Beyond just digging through logs in an incident, I use Codex to dig through Slack to see if there are references to changes that might be suspect or people talking about similar symptoms elsewhere in Slack,” he says.\nIf it takes more than 30 seconds to find an answer with AI, Jeff Niu, another Member of the Technical Staff, says he’ll check Slack or chat with a coworker. But most of his work is now under that threshold with Ultrafast. He used to ask Codex a question, switch over to something else while it thought, and come back having lost his train of thought. Now that conversation happens in real time; it helps him stay focused on the task at hand.\nUltrafast also makes Jeff more willing to tackle large refactors, because reworking existing code takes less time. “Technical debt is much easier to pay down now than it ever was before,” he says. “Code is cheap, and now it’s very quick to produce. A refactor that used to cost a lot happens almost instantly.”\nAdam keeps a running Codex thread that he calls his chief of staff. Every morning it tells him what meetings he has and which messages he might have forgotten to reply to. “It’s already looked at all the data to write that summary, so when I ask a followup, it’s not waiting to go fetch more,” he says. “I can just keep asking questions in the same conversation just like an actual chief of staff.”\nSayan uses Codex to do tedious manual work in the browser, like filling out forms—something he’d previously avoided because it was too slow. “It would open a browser, sit there thinking for five seconds, click something, sit there again,” he says. With the latest models’ improvements in computer use, he’s more comfortable letting Codex handle that work. “Now I’m totally fine letting it click through the browser and it’s fast enough that I’m not losing time by not doing it myself.”\nAcross incident response, daily planning, and refactoring, Ultrafast lets OpenAI’s Technical Staff work with Codex at the pace of their questions. They can follow up on an answer, try another approach, and keep working without losing their train of thought. That shorter wait also changes what they’re willing to take on, from a refactor they’d put off to a routine task that’s finally worth delegating.",
+ "id": "R1-2026-10-28",
+ "caption_final": "How to automate client payment reminders using voice AI agents for your business. Stop wasting hours manually calling customers for pending invoices. Voice AI can now handle routine support and follow-ups with 80% resolution rates, allowing your staff to focus on complex queries instead. It keeps the tone warm and pacing human-like, just like a real person. This isn't just about speed; it's about giving your staff their time back to handle actual business growth. Setting up a voice agent that understands your specific customer context is easier than you think. Comment AGENT for the step-by-step setup guide.\n\n#BusinessAutomation #SmallBusinessIndia #VoiceAI #CustomerSupport #Efficiency"
+}

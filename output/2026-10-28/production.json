@@ -1,0 +1,354 @@
+{
+ "date": "2026-10-28",
+ "tag": "2026-10-28",
+ "pilot": false,
+ "sources": 95,
+ "ideas": 14,
+ "idea_list": [
+  {
+   "idea": "How to automate customer payment reminders without phone calls",
+   "format": "problem_fix",
+   "total": 9.13,
+   "scores": {
+    "relevance": 10,
+    "novelty": 7,
+    "hook_potential": 9,
+    "retention": 9,
+    "save_share": 10,
+    "feasibility": 9,
+    "evidence": 8,
+    "viral": 10
+   }
+  },
+  {
+   "idea": "Manual vs Automated: Handling customer support calls",
+   "format": "manual_vs_auto",
+   "total": 9.13,
+   "scores": {
+    "relevance": 10,
+    "novelty": 7,
+    "hook_potential": 9,
+    "retention": 9,
+    "save_share": 10,
+    "feasibility": 9,
+    "evidence": 8,
+    "viral": 10
+   }
+  },
+  {
+   "idea": "Checklist: 5 questions before buying an AI agent for your business",
+   "format": "checklist",
+   "total": 9.02,
+   "scores": {
+    "relevance": 10,
+    "novelty": 7,
+    "hook_potential": 9,
+    "retention": 9,
+    "save_share": 10,
+    "feasibility": 10,
+    "evidence": 8,
+    "viral": 9
+   }
+  },
+  {
+   "idea": "Is your AI chat link exposing your shop's secrets?",
+   "format": "checklist",
+   "total": 8.98,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 10,
+    "feasibility": 10,
+    "evidence": 9,
+    "viral": 9
+   }
+  },
+  {
+   "idea": "Stop letting AI agents access your banking passwords",
+   "format": "myth_fact",
+   "total": 8.96,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 10,
+    "evidence": 10,
+    "viral": 9
+   }
+  },
+  {
+   "idea": "The 5-minute automation to sync order lines to tables",
+   "format": "tutorial",
+   "total": 8.88,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 9,
+    "save_share": 10,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 9
+   }
+  },
+  {
+   "idea": "Why your AI agents keep making expensive mistakes",
+   "format": "myth_fact",
+   "total": 8.82,
+   "scores": {
+    "relevance": 10,
+    "novelty": 7,
+    "hook_potential": 9,
+    "retention": 9,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 8,
+    "viral": 9
+   }
+  },
+  {
+   "idea": "Why your expensive AI subscription isn't helping your shop",
+   "format": "myth_fact",
+   "total": 8.59,
+   "scores": {
+    "relevance": 10,
+    "novelty": 7,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 10,
+    "evidence": 8,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Set up a cron job for business reminders without code",
+   "format": "tutorial",
+   "total": 8.48,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 9,
+    "save_share": 10,
+    "feasibility": 9,
+    "evidence": 7,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Don't use ChatGPT for business data: Here is why",
+   "format": "myth_fact",
+   "total": 8.39,
+   "scores": {
+    "relevance": 9,
+    "novelty": 7,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 8,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "How big firms use AI to review contracts (and you can too)",
+   "format": "case_study",
+   "total": 8.34,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 8,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Survival LLM: AI that works without internet for remote work",
+   "format": "tool_test",
+   "total": 8.29,
+   "scores": {
+    "relevance": 8,
+    "novelty": 9,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 8,
+    "evidence": 7,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "The real cost of AI: Data storage fees you aren't calculating",
+   "format": "myth_fact",
+   "total": 8.19,
+   "scores": {
+    "relevance": 8,
+    "novelty": 9,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 10,
+    "evidence": 8,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "Apple Pages/Numbers AI: New features for small business docs",
+   "format": "demo",
+   "total": 7.9,
+   "scores": {
+    "relevance": 8,
+    "novelty": 7,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 7
+   }
+  }
+ ],
+ "rejected_ideas": [],
+ "items": [
+  {
+   "id": "R1-2026-10-28",
+   "kind": "reel",
+   "format": "problem_fix",
+   "topic": "How to automate customer payment reminders without phone calls",
+   "hook": "Pending payments ke liye client ko call karna band karo. Ye dekho.",
+   "approved": false,
+   "attempts": 4,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 6,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 7,
+    "pacing": 8,
+    "brand_consistency": 9,
+    "publish_readiness": 7
+   },
+   "reasons": [
+    "originality 7/10 (<8)",
+    "practical_value 6/10 (<8)",
+    "visual_integrity 7/10 (<8)"
+   ],
+   "log": [
+    "attempt 1: fail {'hook': 7, 'originality': 7, 'practical_value': 6, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 6} ['hook 7/10 (<8)', 'originality 7/10 (<8)', 'practical_value 6/10 (<8)', 'visual_integrity 7/10 (<8)']",
+    "attempt 2: fail {'hook': 8, 'originality': 7, 'practical_value': 6, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 6, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 6} ['scene 3: screenshot must be a product page from the sources, not an article', 'originality 7/10 (<8)', 'practical_value 6/10 (<8)', 'visual_integrity 6/10 (<8)']",
+    "attempt 3: fail {'hook': 7, 'originality': 6, 'practical_value': 6, 'natural_language': 8, 'accuracy': 7, 'narrative': 7, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 6} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 6/10 (<8)', 'accuracy 7/10 (<8)']",
+    "attempt 4: fail {'hook': 8, 'originality': 7, 'practical_value': 6, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'practical_value 6/10 (<8)', 'visual_integrity 7/10 (<8)']"
+   ],
+   "dir": "output/2026-10-28/R1-2026-10-28/try4",
+   "duration": 39.5,
+   "voice": "gemini"
+  },
+  {
+   "id": "R2-2026-10-28",
+   "kind": "reel",
+   "format": "manual_vs_auto",
+   "topic": "Manual vs Automated: Handling customer support calls",
+   "hook": "Stop hiring extra staff for customer calls. Iski jagah ye dekho.",
+   "approved": false,
+   "attempts": 3,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 7,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 7,
+    "pacing": 8,
+    "brand_consistency": 9,
+    "publish_readiness": 7
+   },
+   "reasons": [
+    "banned phrase used: 'seamless'",
+    "originality 7/10 (<8)",
+    "practical_value 7/10 (<8)",
+    "visual_integrity 7/10 (<8)"
+   ],
+   "log": [
+    "attempt 1: fail {'hook': 8, 'originality': 6, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 6/10 (<8)', 'practical_value 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+    "attempt 2: fail {'hook': 7, 'originality': 6, 'practical_value': 6, 'natural_language': 7, 'accuracy': 8, 'narrative': 7, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 6} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 6/10 (<8)', 'natural_language 7/10 (<8)']",
+    "attempt 3: fail {'hook': 8, 'originality': 7, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} [\"banned phrase used: 'seamless'\", 'originality 7/10 (<8)', 'practical_value 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+    "attempt 4: fail {'hook': 7, 'originality': 6, 'practical_value': 5, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 7} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 5/10 (<8)']"
+   ],
+   "dir": "output/2026-10-28/R2-2026-10-28/try3",
+   "duration": 34.1,
+   "voice": "edge"
+  },
+  {
+   "id": "R3-2026-10-28",
+   "kind": "reel",
+   "format": "myth_fact",
+   "topic": "Stop letting AI agents access your banking passwords",
+   "hook": "AI agent ko apna net banking password mat dena. Boht bada risk hai.",
+   "approved": true,
+   "attempts": 1,
+   "scores": {
+    "hook": 9,
+    "originality": 7,
+    "practical_value": 8,
+    "natural_language": 9,
+    "accuracy": 10,
+    "narrative": 9,
+    "visual_integrity": 8,
+    "pacing": 9,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [],
+   "log": [
+    "attempt 1: PASS {'hook': 9, 'originality': 7, 'practical_value': 8, 'natural_language': 9, 'accuracy': 10, 'narrative': 9, 'visual_integrity': 8, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} []"
+   ],
+   "dir": "output/2026-10-28/R3-2026-10-28/try1",
+   "duration": 34.0,
+   "voice": "edge"
+  },
+  {
+   "id": "C1-2026-10-28",
+   "kind": "carousel",
+   "format": "checklist",
+   "topic": "Checklist: 5 questions before buying an AI agent for your business",
+   "hook": "Buying AI for your business? Check these 5 things first.",
+   "approved": true,
+   "attempts": 1,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 8,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 9,
+    "visual_integrity": 9,
+    "pacing": 9,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [],
+   "log": [
+    "attempt 1: PASS {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 9, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} []"
+   ],
+   "dir": "output/2026-10-28/C1-2026-10-28/try1",
+   "duration": null,
+   "voice": null
+  }
+ ],
+ "llm_calls": {
+  "text": 21,
+  "tts": 25,
+  "failed": 0
+ }
+}

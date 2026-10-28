@@ -194,5 +194,37 @@
   "status": "published",
   "media_id": "18170614912476873",
   "permalink": "https://www.instagram.com/p/De8YIfJACHl/"
+ },
+ {
+  "id": "R3-2026-10-28",
+  "date": "2026-10-28",
+  "kind": "reel",
+  "format": "myth_fact",
+  "topic": "Stop letting AI agents access your banking passwords",
+  "hook": "AI agent ko apna net banking password mat dena. Boht bada risk hai.",
+  "keywords": [
+   "AI bank password safety",
+   "banking security AI agents",
+   "net banking login risk",
+   "Bank of America AI warning",
+   "AI assistant credentials liability"
+  ],
+  "status": "queued"
+ },
+ {
+  "id": "C1-2026-10-28",
+  "date": "2026-10-28",
+  "kind": "carousel",
+  "format": "checklist",
+  "topic": "Checklist: 5 questions before buying an AI agent for your business",
+  "hook": "Buying AI for your business? Check these 5 things first.",
+  "keywords": [
+   "AI for small business",
+   "business automation",
+   "AI investment guide",
+   "business efficiency",
+   "cost effective AI"
+  ],
+  "status": "queued"
  }
 ]

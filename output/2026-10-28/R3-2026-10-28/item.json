@@ -1,0 +1,239 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Stop letting AI agents access your banking passwords",
+  "angle": "Security risk: AI agents don't 'know' boundaries; you are liable for their actions.",
+  "audience_problem": "Owners unknowingly handing over full banking access to AI assistants.",
+  "format": "myth_fact",
+  "medium": "reel",
+  "source_ids": [
+   2
+  ],
+  "evergreen": true,
+  "keywords": [
+   "AI security",
+   "banking",
+   "safety"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 8,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 10,
+   "evidence": 10,
+   "viral": 9
+  },
+  "total": 8.96
+ },
+ "piece": {
+  "hooks": [
+   "AI agent ko apna net banking password mat dena. Boht bada risk hai.",
+   "Agar aap AI assistant ko bank password de rahe ho, ruk jao.",
+   "Bank password AI tool ko dena sabse badi galti hai. Ye dekho.",
+   "AI tool aapke bank account se bina bataye paise kat sakta hai.",
+   "Kya aapne AI agent ko apna bank login diya hai? Ye galti mat karna."
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "Directly highlights a high-stakes security risk that immediately stops small business owners who use AI tools from making a costly mistake.",
+  "title": "Why you should never give AI agents your bank password",
+  "scenes": [
+   {
+    "purpose": "Hook",
+    "narration": "AI agent ko apna net banking password mat dena. Boht bada risk hai.",
+    "on_screen": "Bank Password Alert",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "AI Agent ko Login Mat Do",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Explain risks",
+    "narration": "Bank of America ne warning di hai ki AI tools ko apna username aur password mat do.",
+    "on_screen": "Bank Warning",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Password leak risk",
+     "Account lock penalty",
+     "Unauthorized transfers"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Legal liability",
+    "narration": "Agar AI agent koi wrong transaction karde, toh saari responsibility aapki hogi.",
+    "on_screen": "Aapki Responsibility",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "Bank Terms",
+    "right_label": "Your Risk",
+    "rows": [
+     {
+      "left": "Share Login",
+      "right": "Full Liability"
+     },
+     {
+      "left": "AI Mistake",
+      "right": "Owner Pays"
+     }
+    ]
+   },
+   {
+    "purpose": "Technical risk",
+    "narration": "AI tool mein koi security flaw hua toh hacker aapka bank account khaali kar dega.",
+    "on_screen": "Hacker Access Risk",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "AI System Flaw",
+     "Credentials Exposed",
+     "Account Compromised"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Payoff and comment hook",
+    "narration": "Bank details hamesha manual rakho. Comment BANK, main aapko AI security checklist DM kar dunga.",
+    "on_screen": "Comment BANK",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Comment BANK for Safety Checklist",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "Why you should never share your net banking password with AI assistants or automated tools. Major banks like Bank of America have started issuing warnings against entering login credentials into AI software. If an AI agent makes unauthorized transactions or suffers a security breach, bank terms explicitly state that the customer remains fully responsible for all losses. Never store bank passwords inside automation scripts or third-party assistants. Comment BANK for our complete AI financial safety checklist.",
+  "hashtags": [
+   "#CyberSecurity",
+   "#BankingSafety",
+   "#SmallBusinessIndia",
+   "#AITools"
+  ],
+  "keywords": [
+   "AI bank password safety",
+   "banking security AI agents",
+   "net banking login risk",
+   "Bank of America AI warning",
+   "AI assistant credentials liability"
+  ],
+  "claims": [
+   {
+    "claim": "Bank of America urged customers never to share usernames and passwords with outside services including AI tools or agents.",
+    "source_id": 2
+   },
+   {
+    "claim": "Sharing banking passwords with an AI assistant risks unauthorized financial actions or bank account lockouts.",
+    "source_id": 2
+   },
+   {
+    "claim": "Security flaws in AI assistants can lead to leaked banking credentials and hacker access.",
+    "source_id": 2
+   },
+   {
+    "claim": "Bank customer account agreements state that customers are responsible for activity resulting from sharing login credentials.",
+    "source_id": 2
+   }
+  ],
+  "dm_keyword": "BANK",
+  "dm_text": "Here is your AI Banking Security Checklist: 1. Never paste bank usernames or passwords into any AI tool, prompt, or agent platform. 2. Understand that bank account agreements hold account holders legally liable for all activity if login credentials are shared. 3. A flaw in an AI tool can expose saved credentials to unauthorized hackers. 4. Always perform bank transfers, vendor payments, and ledger approvals manually or through official bank APIs only."
+ },
+ "review": {
+  "scores": {
+   "hook": 9,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 9,
+   "accuracy": 10,
+   "narrative": 9,
+   "visual_integrity": 8,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "Bank of America urged customers never to share usernames and passwords with outside services including AI tools or agents.",
+    "supported": true
+   },
+   {
+    "claim": "Sharing banking passwords with an AI assistant risks unauthorized financial actions or bank account lockouts.",
+    "supported": true
+   },
+   {
+    "claim": "Security flaws in AI assistants can lead to leaked banking credentials and hacker access.",
+    "supported": true
+   },
+   {
+    "claim": "Bank customer account agreements state that customers are responsible for activity resulting from sharing login credentials.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Scene 3: The table layout is slightly cramped; ensure the text 'Full Liability' and 'Owner Pays' is perfectly centered within the boxes.",
+   "Scene 5: The subtitle 'Comment BANK, main aapko AI security' is cut off mid-sentence in the visual frame, which contradicts the instruction to have complete phrases."
+  ],
+  "issues": [
+   "The final call-to-action subtitle in Scene 5 is incomplete, which creates a jarring user experience.",
+   "The visual hierarchy in Scene 4 is good, but ensure the arrows are high-contrast against the cream background."
+  ],
+  "fix_instructions": "1. In Scene 5, adjust the subtitle timing or text length so the full phrase 'Comment BANK, main aapko AI security checklist DM kar dunga' is displayed in a way that doesn't feel cut off. 2. Double-check the padding in the Scene 3 table to ensure the text doesn't touch the borders. 3. Ensure the orange accent color is consistent across all slides."
+ },
+ "rules": [],
+ "reasons": [],
+ "meta": {
+  "duration": 34.0,
+  "voice": "edge",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-28/R3-2026-10-28/try1/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-28/R3-2026-10-28/try1/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-28/R3-2026-10-28/try1/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-28/R3-2026-10-28/try1/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-28/R3-2026-10-28/try1/scene_05.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   6.46,
+   6.93,
+   6.48,
+   6.01,
+   8.12
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-10-28/R3-2026-10-28/try1",
+ "attempt": 1,
+ "approved": true,
+ "hook": "AI agent ko apna net banking password mat dena. Boht bada risk hai.",
+ "log": [
+  "attempt 1: PASS {'hook': 9, 'originality': 7, 'practical_value': 8, 'natural_language': 9, 'accuracy': 10, 'narrative': 9, 'visual_integrity': 8, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} []"
+ ],
+ "material": "[2] TechCrunch AI — Bank of America kindly asks that you don’t share your banking password with your AI assistant\nURL: https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/\n–:–:–:– Buy One Founder Summit Ticket, Get a Second for Free. Register now.\nDisrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off. REGISTER NOW.\nImage Credits: AkinBostanci (opens in a new window) / Getty Images Security Bank of America kindly asks that you don’t share your banking password with your AI assistant Zack Whittaker 2:44 PM PDT · October 27, 2026 Financial giant Bank of America is reminding customers to bank safely by kindly not sharing your banking credentials with your AI agent.\nIn an email blast to customers titled “Protecting your finances in the Al World,” Bank of America urged customers to never share their username and password with another person or an outside service, “including an Al-enabled tool or agent that offers to act on your behalf.”\nYou can practically sense the frustration in the person sending the email. Still, customers are increasingly handing over their log-ins as personal AI assistants grow more popular . Sharing your banking username and password with an AI assistant runs the risk that it could do something with your finances without your knowledge, or that your bank thinks someone’s raiding your account and locks you out of it. Worse, a security flaw in the AI assistant could result in it leaking your banking credentials elsewhere, giving financially motivated hackers a way into your bank account.\nThis latest warning comes as banks are still exploring how AI agents fit into the financial world but are reportedly grappling with unauthorized agents accessing their customers’ money . As we discussed onstage at TechCrunch Disrupt , banks, payment providers, and processors are still trying to figure out how to allow customers access to their bank accounts using AI tools, such as for agentic payments, which allow people to set agents to autonomously buy things at the best price or the right time.\nA spokesperson for Bank of America confirmed the authenticity of the bank’s email that was posted to social media . But heed the bank’s warning, for if things go wrong, it’s on you. Account agreements at most banks hold customers responsible for anyone they give their log-in to. “If you do share your credentials,” its email reads, “keep in mind that you’re responsible for activity resulting from that access.”\nWhen you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence.\nZack Whittaker is the security editor at TechCrunch. He also authors the weekly cybersecurity newsletter, this week in security .\nHe can be reached via encrypted message at zackwhittaker.1337 on Signal. You can also contact him by email, or to verify outreach, at [email protected] .\nNovember 4 Boston Buy One Pass, Get a Second Free Cover more ground at TechCrunch’s ultimate founder bootcamp of the year by bringing your co-founder or partner for free Book before the BOGO deal expires\nMicrosoft offers buyouts to around 60,000 employees\nGrok releases the first seven minutes of its AI-generated ‘Odyssey’\nThe AI graveyard: a running list of projects and startups that didn’t make it\nHottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell\nWarhound raises $200M to engineer war dogs and arm them with Anduril gear\nUber puts all 30,000 employees on ChatGPT Work\nAirbnb limits chores for guests, sparking backlash from hosts",
+ "id": "R3-2026-10-28",
+ "caption_final": "Why you should never share your net banking password with AI assistants or automated tools. Major banks like Bank of America have started issuing warnings against entering login credentials into AI software. If an AI agent makes unauthorized transactions or suffers a security breach, bank terms explicitly state that the customer remains fully responsible for all losses. Never store bank passwords inside automation scripts or third-party assistants. Comment BANK for our complete AI financial safety checklist.\n\n#CyberSecurity #BankingSafety #SmallBusinessIndia #AITools"
+}

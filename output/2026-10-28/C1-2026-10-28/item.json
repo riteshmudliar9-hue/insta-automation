@@ -1,0 +1,231 @@
+{
+ "kind": "carousel",
+ "idea": {
+  "idea": "Checklist: 5 questions before buying an AI agent for your business",
+  "angle": "Decision guide: Save money by filtering out 'hype' tools that don't integrate.",
+  "audience_problem": "Purchasing AI tools that break when they hit real company data.",
+  "format": "checklist",
+  "medium": "carousel",
+  "source_ids": [
+   53,
+   54
+  ],
+  "evergreen": true,
+  "keywords": [
+   "buying guide",
+   "AI agents",
+   "SMB"
+  ],
+  "scores": {
+   "relevance": 10,
+   "novelty": 7,
+   "hook_potential": 9,
+   "retention": 9,
+   "save_share": 10,
+   "feasibility": 10,
+   "evidence": 8,
+   "viral": 9
+  },
+  "total": 9.02
+ },
+ "piece": {
+  "hooks": [
+   "Buying AI for your business? Check these 5 things first.",
+   "Don't buy an AI tool until you check these 5.",
+   "Is your business ready for AI? Use this 5-point checklist."
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "It clearly identifies the target audience (business owners) and the specific action (buying AI) while offering a concrete, practical guide.",
+  "slides": [
+   {
+    "kind": "cover",
+    "title": "Buying AI for your business? Check these 5 things first.",
+    "subtitle": "Before paying for subscriptions, check if the tool fits your actual business needs.",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "checklist",
+    "title": "5 Questions before buying AI",
+    "subtitle": "Ask these to avoid wasting money on tools that fail.",
+    "body": "Ask these questions to ensure your investment actually solves a real business problem rather than just adding costs.",
+    "items": [
+     "Does this tool solve a specific business problem?",
+     "Can it handle our current traffic volume?",
+     "Will it meet our response time needs?",
+     "Does it force us to rebuild our setup?",
+     "Is the cost justified by actual business outcomes?"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "mythfact",
+    "title": "The biggest AI trap",
+    "subtitle": "Stop chasing model capability and start chasing reliability.",
+    "body": "The focus should shift from 'what can the model do' to 'can we deliver results reliably'.",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "The best model is always the right choice.",
+    "fact": "The right solution is defined by your specific business workload, not just the model's benchmark scores.",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "compare",
+    "title": "Model vs. Business Reality",
+    "subtitle": "Engineering for your specific needs beats buying the most powerful tool.",
+    "body": "Avoid paying for features you do not need. Focus on the constraints that limit your productivity.",
+    "items": [],
+    "left_label": "High-End Model",
+    "right_label": "Right-Sized Solution",
+    "rows": [
+     {
+      "left": "Higher inference costs",
+      "right": "Lower, predictable budget"
+     },
+     {
+      "left": "Complex setup",
+      "right": "Fits current architecture"
+     },
+     {
+      "left": "Overkill capability",
+      "right": "Meets specific requirements"
+     }
+    ],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "summary",
+    "title": "The Golden Rule",
+    "subtitle": "Always measure before you optimize your systems.",
+    "body": "Do not treat optimization techniques like collection cards. Apply only what removes your highest-impact constraint.",
+    "items": [
+     "Measure the current bottleneck first.",
+     "Address the constraint, then re-measure.",
+     "Prioritize adaptability over building from scratch.",
+     "Focus on sustainable business value outcomes."
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   }
+  ],
+  "caption": "Most AI tools fail in production because they weren't built for your specific workflow. Before you spend on another monthly subscription, identify the bottleneck in your current process. Is it slow customer response? Document processing? Or high costs? A slightly better model that doubles your costs is a bad business choice. Invest in architecture that can grow with you rather than forcing a total rebuild when new technology arrives. Start by measuring your current performance limits. What is the biggest slowdown in your office daily routine right now? Let's discuss in the comments.",
+  "hashtags": [
+   "#smallbusinessindia",
+   "#businessautomation",
+   "#aiadoption",
+   "#businessgrowth"
+  ],
+  "keywords": [
+   "AI for small business",
+   "business automation",
+   "AI investment guide",
+   "business efficiency",
+   "cost effective AI"
+  ],
+  "claims": [
+   {
+    "claim": "The best AI solution is defined by the specific business workload requirements.",
+    "source_id": 53
+   },
+   {
+    "claim": "A model that produces better answers may be a poor choice if it doubles inference costs or fails latency requirements.",
+    "source_id": 53
+   },
+   {
+    "claim": "The goal of optimization is to apply techniques that remove the highest-impact constraint, not to collect all techniques.",
+    "source_id": 53
+   },
+   {
+    "claim": "Technology leaders should measure before they optimize to identify dominant constraints.",
+    "source_id": 53
+   },
+   {
+    "claim": "Adaptability is a key outcome for a sustainable AI strategy.",
+    "source_id": 53
+   }
+  ]
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 9,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "The best AI solution is defined by the specific business workload requirements.",
+    "supported": true
+   },
+   {
+    "claim": "A model that produces better answers may be a poor choice if it doubles inference costs or fails latency requirements.",
+    "supported": true
+   },
+   {
+    "claim": "The goal of optimization is to apply techniques that remove the highest-impact constraint, not to collect all techniques.",
+    "supported": true
+   },
+   {
+    "claim": "Technology leaders should measure before they optimize to identify dominant constraints.",
+    "supported": true
+   },
+   {
+    "claim": "Adaptability is a key outcome for a sustainable AI strategy.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [],
+  "issues": [
+   "The content is technically sound but slightly abstract for a small business owner who might not understand 'inference costs' or 'serving architecture' without a brief, relatable example.",
+   "The term 'inference costs' is jargon that could alienate non-technical SMB owners."
+  ],
+  "fix_instructions": "The carousel is excellent and ready for publication. To make it even better for the target audience, consider adding a tiny parenthetical note on slide 4 explaining that 'inference costs' simply means 'the cost of running the AI every time a customer uses it.' Otherwise, keep as is."
+ },
+ "rules": [],
+ "reasons": [],
+ "meta": {
+  "ai_visuals": false,
+  "slides": 5
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-10-28/C1-2026-10-28/try1",
+ "attempt": 1,
+ "approved": true,
+ "hook": "Buying AI for your business? Check these 5 things first.",
+ "log": [
+  "attempt 1: PASS {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 9, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} []"
+ ],
+ "material": "[53] MIT Tech Review AI — Designing an AI serving harness built to last\nURL: https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/\nYou need to enable JavaScript to view this site. Skip to Content Sponsored\nThe next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it.\nThat’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores. Those advances have been extraordinary. But as AI moves from experimentation to production, the question facing enterprise leaders has changed—it’s no longer, “what can the model do?”—it’s now, “Can we deliver that intelligence reliably, economically, and at scale?”\nIncreasingly, the answer depends on the serving harness—the engineering system surrounding the model, including the architecture, memory management , scheduling, and optimization decisions that determine how efficiently model intelligence becomes a production capability.\nFor technical executives, that changes where AI investment should go—and what they should demand from the architecture supporting it.\nThere is no universally “best” model or AI architecture. There is only the right solution for the business problem.\nA customer-facing assistant optimized for fast responses has fundamentally different requirements from a document-processing pipeline that can run overnight. An internal knowledge application and a high-volume customer service platform may use the same foundation model but require very different serving architectures.\nThe workload defines the constraints. The constraints should determine the architecture.\nThat sounds simple, but it runs counter to the way many organizations have approached early AI deployments. During a proof of concept, model accuracy naturally dominates the discussion. Production introduces constraints that are much easier to ignore when only a handful of users are involved: latency, concurrency, memory pressure, GPU utilization, infrastructure cost, and unpredictable traffic.\nA model that produces marginally better answers is not necessarily the better production choice if it doubles inference costs or cannot meet the application's latency requirements. Not every workload needs a Ferrari. Sometimes the smarter engineering decision is the model that delivers exactly the performance the business needs without paying for capability it doesn't.\nThe objective should be to deploy the right intelligence at the right cost for the workload. That makes serving architecture more than an engineering concern. It becomes an investment decision: where to spend on compute, where to optimize, and where additional model capability simply isn't worth the cost.\nOnce AI reaches production, seemingly isolated engineering decisions begin affecting one another. Serving architecture influences memory utilization. Memory management affects concurrency. Concurrency shapes batching and scheduling, and scheduling affects GPU utilization and latency.\nOnly then can techniques such as quantization, speculative decoding, or optimized attention mechanisms deliver their full value. This interdependence matters because organizations can spend considerably more on infrastructure without solving the constraint limiting performance.\nGPU memory is a good example. During inference, the model's weights remain fixed, but the key-value (KV) cache grows with active requests and context length. As concurrency increases, a system can run short of usable GPU memory even when compute capacity is still available. Adding more compute without understanding that bottleneck may simply make an inefficient system more expensive.\nThe lesson for technology leaders is broader than memory management: Measure before you optimize . Identify the dominant constraint. Address it. Measure the result. Then determine if another bottleneck emerged. Repeat.\nDon't think of optimization techniques as Pokémon cards: The goal isn't to collect them all. The goal is to apply the technique that removes the highest-impact constraint while preserving the application's business requirements.\nFor technology leaders, that demands a different governance question. Instead of asking which AI capabilities the organization can deploy, ask which constraints stand between a proven capability and sustainable business value.\nPerhaps the most important reason to invest in the serving harness is that today's leading model will probably not be tomorrow’s. Models will improve. Hardware will evolve. New optimization techniques will emerge. The architecture surrounding them should make those changes easier to absorb, not force the enterprise to rebuild its AI platform every time technology advances.\nThat makes adaptability an increasingly important outcome of AI strategy.\nOrganizations that build serving systems around workload requirements, clear service-level objectives, and measurable production economics gain the ability to evaluate new models and infrastructure against what the business actually needs. A model change can become an evaluation and configuration decision rather than an architectural reset.\nEXL researchers have explored these production challenges in greater depth in the EXL Engineering the Harness series. It examines how serving architecture, memory management, scheduling, and inference optimization work together to make enterprise AI more efficient, scalable, and economically sustainable.\nIncreasingly, enterprises have access to many of the same models. Sustainable differentiation comes from how effectively an organization turns that intelligence into business outcomes.\nThe model provides the intelligence. The harness determines whether the enterprise can deliver outcomes reliably, economically, and at scale.\nThis content was produced by EXL. It was not written by MIT Technology Review’s editorial staff.\nTen years after AlphaGo’s match against Go champion Lee Sedol, today’s AI still isn’t tapping into the machinery that made that win possible.\n“We were looking at it wrong”: The explosive claim that’s upended the AI world\nAn exclusive interview with Nick Cammarata, the researcher whose 26,000-word viral blog post has AI safety folks celebrating.\nDon’t be fooled by this summer of AI hype\nBreathless claims about AGI and new capabilities fall apart pretty quickly under scrutiny.\nThe US spent billions on border surveillance. Why can’t it catch people before they die?\nSurveillance towers, increasingly powered by AI, promised faster responses to crossings. Our investigation of deaths near the towers found they are failing to deliver.\nGet the latest updates from MIT Technology Review\nDiscover special offers, top stories, upcoming events, and more.\n\n[54] MIT Tech Review AI — The Foundations of Scalable AI\nURL: https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/\nYou need to enable JavaScript to view this site. Skip to Content Sponsored\nA scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review's EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible, trustworthy implementation can turn emerging capabilities, including agentic systems, into lasting value for investors.\nJing Wang, Principal, Center for AI and Insights, Vanguard\nJing Wang leads Vanguard's Center for AI & Insights (CAI), advancing the firm's AI, machine learning, generative AI, and behavioral science capabilities. Her team drives enterprise-wide innovation, research, and delivery, enabling Vanguard to translate emerging technologies into trusted solutions that enhance client experiences, improve investor outcomes, and create measurable business value.\nBefore her current position, Jing served in a range of leadership roles across Vanguard's Financial Services, Workplace Solutions, International, and Corporate Services divisions. Throughout her tenure, she has led teams and enterprise initiatives that advanced strategic priorities, strengthened client outcomes, and drove business performance across the firm.\nShe joined Vanguard in 2009 after several years as a Principal at the Boston Consulting Group. Jing earned a B.S. in Physics from the University of Science and Technology of China, a Ph.D. from the University of Pennsylvania, and an M.B.A. in Finance and Marketing from the Wharton School of Business at the University of Pennsylvania. Jing holds Series 7, 24, and 65 licenses.\nTen years after AlphaGo’s match against Go champion Lee Sedol, today’s AI still isn’t tapping into the machinery that made that win possible.\n“We were looking at it wrong”: The explosive claim that’s upended the AI world\nAn exclusive interview with Nick Cammarata, the researcher whose 26,000-word viral blog post has AI safety folks celebrating.\nDon’t be fooled by this summer of AI hype\nBreathless claims about AGI and new capabilities fall apart pretty quickly under scrutiny.\nThe US spent billions on border surveillance. Why can’t it catch people before they die?\nSurveillance towers, increasingly powered by AI, promised faster responses to crossings. Our investigation of deaths near the towers found they are failing to deliver.\nGet the latest updates from MIT Technology Review\nDiscover special offers, top stories, upcoming events, and more.",
+ "id": "C1-2026-10-28",
+ "caption_final": "Most AI tools fail in production because they weren't built for your specific workflow. Before you spend on another monthly subscription, identify the bottleneck in your current process. Is it slow customer response? Document processing? Or high costs? A slightly better model that doubles your costs is a bad business choice. Invest in architecture that can grow with you rather than forcing a total rebuild when new technology arrives. Start by measuring your current performance limits. What is the biggest slowdown in your office daily routine right now? Let's discuss in the comments.\n\n#smallbusinessindia #businessautomation #aiadoption #businessgrowth"
+}

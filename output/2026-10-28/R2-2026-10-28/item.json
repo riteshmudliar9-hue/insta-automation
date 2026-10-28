@@ -1,0 +1,277 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Manual vs Automated: Handling customer support calls",
+  "angle": "Cost: Compare the cost of human staff vs AI agents for basic inquiries.",
+  "audience_problem": "High costs of managing customer support in a growing business.",
+  "format": "manual_vs_auto",
+  "medium": "reel",
+  "source_ids": [
+   40,
+   85
+  ],
+  "evergreen": true,
+  "keywords": [
+   "cost saving",
+   "customer support",
+   "automation"
+  ],
+  "scores": {
+   "relevance": 10,
+   "novelty": 7,
+   "hook_potential": 9,
+   "retention": 9,
+   "save_share": 10,
+   "feasibility": 9,
+   "evidence": 8,
+   "viral": 10
+  },
+  "total": 9.13
+ },
+ "piece": {
+  "hooks": [
+   "Stop hiring extra staff for customer calls. Iski jagah ye dekho.",
+   "Customer support calls pe har mahine hazaron rupees kharch ho rahe hain?",
+   "Routine customer calls manually handle kar rahe ho? Ye system dekho.",
+   "Call staff ki salary bachani hai? Is AI voice setup ko dekho.",
+   "Customer calls manually attend karna band karo. Ye dekho."
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "Directly addresses the financial strain of hiring call staff and uses a proven pattern that stops scroll immediately.",
+  "title": "Manual vs Automated Customer Support Calls",
+  "scenes": [
+   {
+    "purpose": "Hook",
+    "narration": "Stop hiring extra staff for customer calls. Iski jagah ye dekho.",
+    "on_screen": "Stop Manual Support Calls",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "AI Voice vs Manual Calls",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Problem and cost comparison",
+    "narration": "Manual calls mein full-time staff aur salary lagti hai. AI agents automatic hote hain.",
+    "on_screen": "Manual vs AI Costs",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "Manual Call Support",
+    "right_label": "AI Voice Agent",
+    "rows": [
+     {
+      "left": "Full time staff salary",
+      "right": "Pay per call token"
+     },
+     {
+      "left": "Limited call capacity",
+      "right": "Handles peak traffic easily"
+     },
+     {
+      "left": "Manual tracking needed",
+      "right": "80% plus resolution rate"
+     }
+    ]
+   },
+   {
+    "purpose": "Case study proof",
+    "narration": "Electronics brand Anker ne basic support calls ke liye AI voice agents use kiye.",
+    "on_screen": "80% Resolution Rate",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Order tracking done",
+     "Warranty checks handled",
+     "Troubleshooting done automatically",
+     "80.4% case resolution"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "How it works diagram",
+    "narration": "Ye agent customer query sunta hai, tools call karta hai aur answer deta hai.",
+    "on_screen": "How Voice AI Works",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "Caller Asks Question",
+     "AI Checks Data Context",
+     "Agent Solves Request"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Limitation and human transfer",
+    "narration": "Jab complex case ho, AI human rep ko brief karke call connect karta hai.",
+    "on_screen": "Seamless Human Handover",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Human Agent Briefing Included",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Payoff and comment hook",
+    "narration": "Comment VOICE, main aapko voice AI guide DM kar dunga.",
+    "on_screen": "Comment VOICE for Guide",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Retell platform details",
+     "Anker case study facts",
+     "Developer API setup steps"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "How Indian small businesses can reduce customer call support costs using voice AI agents. Managing manual customer support calls eats up staff salary and time. Voice AI platforms like Retell can resolve over 80% of routine inquiries like order tracking and troubleshooting automatically. For example, electronics brand Anker achieved an 80.4% resolution rate using AI agents for post-sales support. However, keep in mind that setting up voice agents requires basic platform and API developer configuration to link with your CRM or inventory ledger. Comment VOICE for the full breakdown.",
+  "hashtags": [
+   "#CustomerSupport",
+   "#VoiceAI",
+   "#Automation",
+   "#SmallBusinessIndia",
+   "#RetellAI"
+  ],
+  "keywords": [
+   "voice ai customer support",
+   "automate customer calls india",
+   "retell ai case study",
+   "small business call automation",
+   "ai voice agent cost"
+  ],
+  "claims": [
+   {
+    "claim": "Retell voice agents achieve resolution rates above 80% using OpenAI models.",
+    "source_id": 40
+   },
+   {
+    "claim": "Electronics brand Anker achieved an 80.4% case resolution rate using AI agents for post-sales support.",
+    "source_id": 40
+   },
+   {
+    "claim": "Pine Park Health recovered medical-assistant time equivalent to 2.1 full-time roles using AI voice agents.",
+    "source_id": 40
+   },
+   {
+    "claim": "Retell voice agents brief human representatives with call context before transferring complex calls.",
+    "source_id": 40
+   }
+  ],
+  "dm_keyword": "VOICE",
+  "dm_text": "Here is the breakdown on voice AI agents for customer calls:\n\n1. How Voice Agents Work: Voice AI platforms like Retell use OpenAI models to answer calls, follow business context, and execute back-end tools.\n2. Proven Results: Electronics brand Anker used voice agents for Tier-1 support (order tracking, warranty checks, troubleshooting) and achieved an 80.4% resolution rate.\n3. Human Transfer: When complex decisions are needed, the agent briefs your staff member with caller context before handing over the call.\n4. Technical Note: Implementing this requires basic developer setup using APIs to connect the platform to your database or CRM.\n\nSource: OpenAI Retell Case Study (https://openai.com/index/retell-ai)"
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 7,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 7,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 7
+  },
+  "claims": [
+   {
+    "claim": "Retell voice agents achieve resolution rates above 80% using OpenAI models.",
+    "supported": true
+   },
+   {
+    "claim": "Electronics brand Anker achieved an 80.4% case resolution rate using AI agents for post-sales support.",
+    "supported": true
+   },
+   {
+    "claim": "Pine Park Health recovered medical-assistant time equivalent to 2.1 full-time roles using AI voice agents.",
+    "supported": true
+   },
+   {
+    "claim": "Retell voice agents brief human representatives with call context before transferring complex calls.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Scene 1: The subtitle 'Iski jagah ye dekho' is slightly redundant given the on-screen text 'Stop Manual Support Calls'.",
+   "Scene 2: The table layout is clean but the text '80% plus resolution rate' is slightly cramped compared to other rows.",
+   "Scene 5: The subtitle 'Al human rep ko brief karke call connect' is a bit long for the screen duration."
+  ],
+  "issues": [
+   "The transition from the hook to the cost comparison is a bit abrupt.",
+   "The technical barrier to entry (API/Developer setup) is mentioned in the caption but needs more emphasis in the video to manage expectations for SMB owners who might not have a dev team."
+  ],
+  "fix_instructions": "1. In Scene 2, shorten the text '80% plus resolution rate' to '80%+ Resolution Rate' to improve visual balance. 2. In Scene 5, ensure the subtitle timing is synced perfectly so it doesn't feel rushed. 3. Add a small text overlay in the final scene or a preceding scene that says 'Requires basic setup' to ensure SMB owners understand this isn't a 'one-click' solution, maintaining trust and brand integrity."
+ },
+ "rules": [
+  "banned phrase used: 'seamless'"
+ ],
+ "reasons": [
+  "banned phrase used: 'seamless'",
+  "originality 7/10 (<8)",
+  "practical_value 7/10 (<8)",
+  "visual_integrity 7/10 (<8)"
+ ],
+ "meta": {
+  "duration": 34.1,
+  "voice": "edge",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-28/R2-2026-10-28/try3/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-28/R2-2026-10-28/try3/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-28/R2-2026-10-28/try3/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-28/R2-2026-10-28/try3/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-28/R2-2026-10-28/try3/scene_05.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-28/R2-2026-10-28/try3/scene_06.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   5.72,
+   6.77,
+   5.85,
+   5.68,
+   5.51,
+   4.59
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-10-28/R2-2026-10-28/try3",
+ "attempt": 3,
+ "approved": false,
+ "hook": "Stop hiring extra staff for customer calls. Iski jagah ye dekho.",
+ "log": [
+  "attempt 1: fail {'hook': 8, 'originality': 6, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 6/10 (<8)', 'practical_value 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+  "attempt 2: fail {'hook': 7, 'originality': 6, 'practical_value': 6, 'natural_language': 7, 'accuracy': 8, 'narrative': 7, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 6} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 6/10 (<8)', 'natural_language 7/10 (<8)']",
+  "attempt 3: fail {'hook': 8, 'originality': 7, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} [\"banned phrase used: 'seamless'\", 'originality 7/10 (<8)', 'practical_value 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+  "attempt 4: fail {'hook': 7, 'originality': 6, 'practical_value': 5, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 7} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 5/10 (<8)']"
+ ],
+ "material": "[40] OpenAI News — Retell uses OpenAI models to help power 100M monthly calls\nURL: https://openai.com/index/retell-ai\nRetell uses OpenAI models to help power 100M monthly calls | OpenAI OpenAI October 27, 2026\nGPT‑6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.\n(opens in a new window) Company size: Startup Region: North America Industry: Technology Products: API, Codex 100M+\nShare Retell AI ⁠ (opens in a new window) is a voice AI platform for contact center operations, helping businesses build agents that can answer questions, take action, and connect a caller with a person when needed. Its platform now serves more than 4,000 businesses, with monthly call volume growing from 30 million in early 2026 to more than 100 million by September.\nAs Retell serves more enterprises with complex workflows, it uses OpenAI models to keep call quality and reliability high. Today, OpenAI models generate responses for 80% of calls on Retell, with customers achieving resolution rates above 80%. Retell has also surpassed 1 trillion tokens consumed across OpenAI models, reflecting the scale of that adoption.\nRetell’s engineers use Codex throughout development, from researching unfamiliar code to building features and debugging issues, and GPT‑6 Astra to test front-end interfaces.\nChoosing OpenAI models for the demands of a live call\nEnterprise voice agents need to follow company policies and stay within their assigned roles, even as conversations change. Retell built its vCX benchmark to compare dozens of models using difficult, multi-turn conversations drawn from real production scenarios.\nIt tests how well models follow instructions, stay grounded in the information they are given, call the right tools, and use natural conversational language. In Retell’s October 13, 2026 benchmark, GPT‑6 Astra ranked first for instruction following at 89.7%.\nRetell also shared evaluations conducted before the launch of the GPT‑6 Astra model that showed GPT‑5.5 ranking highest among models on both non-hallucination rate (88.0%) and tool-call correctness (88.3%) with reasoning enabled, outperforming Gemini‑3.1‑Pro and Claude‑4.6 on both measures. It also led on non-hallucination rate with reasoning off.\nRetell says new customers who choose OpenAI models continue using them. Customers also have access to OpenAI Realtime models through the Realtime API and OpenAI text-to-speech as a voice engine. Retell makes new OpenAI models available the day they launch and reruns its benchmark as models improve.\nResolving more than 80% of customer requests with agents\nContact center teams use Retell to define their agents’ business context, goals, and rules. Developers can further configure workflows and integrations.\nDuring a call, Retell’s harness runs the audio models, tracks the conversation, and manages when the agent speaks, listens, or responds to interruptions. OpenAI models, including GPT‑6.1 Sol, GPT‑6 Astra, and GPT‑5.5, use the customer’s instructions and conversation context to generate responses and request tool calls. Retell executes those calls through integrations with the customer’s systems and can write outcomes back to a customer record.\nWhen human judgment is needed, the voice agent briefs the representative with context, answers their follow-up questions, and confirms they are ready before connecting the customer. After a call, Retell uses GPT‑5.6 Terra to analyze the transcript and extract outcomes and other data.\nWith this approach, Retell reports customer resolution rates above 80%. At electronics company Anker, agents handle Tier‑1 post-sales support in the US and UK, including order tracking, warranty checks, and troubleshooting. Anker reported an 80.4% case resolution rate and a Net Promoter Score (NPS) of 63. Its team also said the agents’ tone, pacing, and warmth met the standard they expected of a human agent.\nAt Pine Park Health, Retell agents handle appointment reminders and proactive scheduling and record the outcomes in patients’ medical charts. The team recovered medical-assistant time equivalent to 2.1 full-time roles and redirected it to patient care. Its scheduling agent achieved a 55.7% booking rate when it reached a patient.\nDaytime traffic on Retell’s platform can reach more than 50 times its overnight low. To help keep calls responsive even at peak demand, Retell uses dedicated servers with OpenAI, shared across its customers. In Retell’s October 13, 2026 benchmark, GPT‑6 Astra and GPT‑6 Sol each recorded median first-sentence latency of 883 milliseconds, with GPT‑5.6 Luna ranking highest at 497 milliseconds.\nOpenAI’s regional API endpoints allow developers to route traffic to specific geographic regions, which helps Retell reduce network travel time and meet customers’ data residency requirements in industries such as healthcare and financial services.\nRetell also builds redundancy into each layer of the service. It runs its own telephony stack with a second stack ready to take over, along with backups for voice and model services, to help keep calls running when a service fails.\nUsing Codex to research, build, and debug\nAs Retell’s enterprise growth brings more requests for custom workflows and integrations, its engineers often need to work in unfamiliar parts of the codebase. Before writing code, they give Codex a high-level requirement. Codex surveys the code, checks it against actual data, and explains what needs to change. One engineer said Codex did this research better and much faster than he could.\nDuring implementation, engineers say Codex often catches details they had not considered. For debugging, Codex cross-references logs and database records with the code to investigate what is happening. Retell’s engineers also use Codex in their work with customers building on OpenAI models to speed up tasks such as writing the instructions that guide how a model responds in a customer’s application.\nTo test changes to its web interface, Retell relies on GPT‑6 Astra’s computer use. When an engineer opens a front-end pull request, GPT‑6 Astra opens the interface, clicks through it, tests flows, tries to break them, and reports the issues it finds. Retell says earlier models could not perform this work reliably.\nRetell continues to hire, but its engineering team hasn’t needed to grow at the same pace as the business. Retell reports $1.6 million in annual revenue run rate per employee.\nEvery business knows how it wants to serve its customers. Retell’s goal is to let the people closest to that work apply their expertise directly, using advanced voice AI and a platform that lets them build, test, and improve their own agents. Next, Retell plans to expand quality assurance and simulation, support more languages, and develop knowledge base auto-learning.\nAs OpenAI models continue to advance, Retell expects its customers to deliver world-class service to millions of callers, on their own terms.\n“No one knows a company’s customers better than the company itself. We give them the power to act on that expertise and improve AI agent\n\n[85] YourStory — Google Cloud’s Gemini voice AI wants to do more than just talk\nURL: https://yourstory.com/2026/10/google-cloud-gemini-voice-ai-techsparks-2026\nGoogle Cloud’s Gemini voice AI wants to do more than just talk | YourStory Sidebar is Loading... ADVERTISEMENT Imagine asking an AI assistant to find a customer, negotiate a price and help close a sale, all without typing a single prompt. Voice AI is moving beyond answering questions to taking on tasks, and Google Cloud wants businesses to put it to work.\nAt TechSparks 2026, Naren Kachroo, Head of AI Go-to-Market at Google Cloud, demonstrated how Gemini’s voice AI capabilities could help businesses handle customer conversations, restaurant bookings and sales negotiations.\nUntil now, much of the AI experience has revolved around asking questions and getting answers. Kachroo said the next step is AI that can access information, use tools and take action on a user’s behalf.\n“We don't want to focus on voice AI just being an experience to talk to AI,” he said. “We want voice AI to be powered through agentic experiences where the task is actually accomplished with AI.”\nTo show what that means, Naren Kachroo played a demonstration of an AI assistant booking a restaurant table for eight. The assistant answered questions about bringing a birthday cake, identified a dish from an image, discussed vegetarian options and switched between English and Spanish during the conversation.\nIn other words, it did more than take a booking. It handled the questions that came with it, too.\nKachroo also introduced Gemini Live voice capabilities, alongside models for text-to-speech, speech-to-text and translation. He showcased Live Avatar, which combines voice interaction with a visual AI presence.\nThe standout demonstration involved a fictional safety equipment business with 500 helmets sitting in its inventory. Its owner, Rajesh, wanted to sell them quickly and instructed an AI voice agent to find a suitable lead, contact the customer and negotiate a price above Rs 400 per helmet.\nThe assistant checked the business’s leads, identified a construction company that needed 500 helmets and initiated a call in Hindi. When the prospective buyer pushed for a lower price, the AI negotiated while sticking to the owner’s pricing instruction.\nIt was a glimpse of how AI could help small businesses manage sales without handling every step themselves. The agent could draw on internal business information, speak to a customer and respond to objections, rather than simply recommend what the owner should do next.\nKachroo said the demonstration showed how the agent maintained context as it moved from internal information to a customer conversation.\nVoice could be particularly useful in India, where people speak many languages and have different levels of comfort with typing or navigating digital interfaces.\n“I believe that India and Indian consumer is continuing to go as voice first,” Naren said.\nHe highlighted Google’s work on Indian languages, accents and cultural nuances, and pointed to Equal AI, an Indian company building voice assistants that can handle calls on users’ behalf.\nFor Kachroo, the goal is to make voice AI useful in everyday business processes, not just impressive in a demo. That means building systems that understand context, handle interruptions and follow instructions while completing tasks.\nThe real test, then, is not whether AI can hold a conversation. It is whether it can get the job done. And for businesses exploring voice AI, that could be the difference between another chatbot and a genuinely useful assistant.",
+ "id": "R2-2026-10-28",
+ "caption_final": "How Indian small businesses can reduce customer call support costs using voice AI agents. Managing manual customer support calls eats up staff salary and time. Voice AI platforms like Retell can resolve over 80% of routine inquiries like order tracking and troubleshooting automatically. For example, electronics brand Anker achieved an 80.4% resolution rate using AI agents for post-sales support. However, keep in mind that setting up voice agents requires basic platform and API developer configuration to link with your CRM or inventory ledger. Comment VOICE for the full breakdown.\n\n#CustomerSupport #VoiceAI #Automation #SmallBusinessIndia #RetellAI"
+}

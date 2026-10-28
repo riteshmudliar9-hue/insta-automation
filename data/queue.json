@@ -694,5 +694,236 @@
   "media_id": "18183047347429312",
   "permalink": "https://www.instagram.com/reel/De_S2g8jxA0/",
   "published_at": "2026-10-27T12:43:19.510283+05:30"
+ },
+ {
+  "id": "R3-2026-10-28",
+  "kind": "reel",
+  "date": "2026-10-28",
+  "slot": "2026-10-28T21:00",
+  "dir": "output/2026-10-28/R3-2026-10-28/try1",
+  "files": [
+   "reel.mp4"
+  ],
+  "caption": "Why you should never share your net banking password with AI assistants or automated tools. Major banks like Bank of America have started issuing warnings against entering login credentials into AI software. If an AI agent makes unauthorized transactions or suffers a security breach, bank terms explicitly state that the customer remains fully responsible for all losses. Never store bank passwords inside automation scripts or third-party assistants. Comment BANK for our complete AI financial safety checklist.\n\n#CyberSecurity #BankingSafety #SmallBusinessIndia #AITools",
+  "topic": "Stop letting AI agents access your banking passwords",
+  "format": "myth_fact",
+  "hook": "AI agent ko apna net banking password mat dena. Boht bada risk hai.",
+  "keywords": [
+   "AI bank password safety",
+   "banking security AI agents",
+   "net banking login risk",
+   "Bank of America AI warning",
+   "AI assistant credentials liability"
+  ],
+  "scores": {
+   "hook": 9,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 9,
+   "accuracy": 10,
+   "narrative": 9,
+   "visual_integrity": 8,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "status": "queued",
+  "produced_at": 1793147406,
+  "log": [],
+  "dm_keyword": "BANK",
+  "dm_text": "Here is your AI Banking Security Checklist: 1. Never paste bank usernames or passwords into any AI tool, prompt, or agent platform. 2. Understand that bank account agreements hold account holders legally liable for all activity if login credentials are shared. 3. A flaw in an AI tool can expose saved credentials to unauthorized hackers. 4. Always perform bank transfers, vendor payments, and ledger approvals manually or through official bank APIs only.",
+  "presenter": {
+   "status": "waiting",
+   "takes": [
+    {
+     "n": 1,
+     "kind": "talk",
+     "talk": 1,
+     "line": "AI agent ko kabhi bhi apna net banking password mat dena, yeh boht bada security risk hai.",
+     "visual_scene": -1,
+     "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: medium close-up with a slow, smooth push-in towards his face. Points a warning finger towards the camera lens. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"AI agent ko kabhi bhi apna net banking password mat dena, yeh boht bada security risk hai.\" No subtitles, no on-screen text, no music, no other people.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    },
+    {
+     "n": 2,
+     "kind": "talk",
+     "talk": 2,
+     "line": "Bank of America ne saaf warning di hai ki AI tools ko apna username kabhi mat share karo.",
+     "visual_scene": -1,
+     "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: close-up, camera steady at eye level. Leans in slightly and lowers his voice for emphasis. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Bank of America ne saaf warning di hai ki AI tools ko apna username kabhi mat share karo.\" No subtitles, no on-screen text, no music, no other people.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    },
+    {
+     "n": 3,
+     "kind": "broll",
+     "cover": 2,
+     "desc": "close-up of a shopkeeper's hands typing on a laptop next to a stack of paper invoices on a wooden counter",
+     "prompt": "Create a realistic vertical 9:16 video of about 8 seconds: close-up of a shopkeeper's hands typing on a laptop next to a stack of paper invoices on a wooden counter. Indian small-business setting, warm natural light, handheld smartphone-camera look, slow subtle camera movement, shallow depth of field. No faces, no readable text, no brand names or logos, no subtitles, no speech, no music.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    },
+    {
+     "n": 4,
+     "kind": "talk",
+     "talk": 3,
+     "line": "Bank details manual rakho, comment BANK, main aapko security checklist DM kar dunga, safe raho mere bhai.",
+     "visual_scene": -1,
+     "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: medium shot from slightly to his right (about 20 degrees), camera steady. Smiles and shrugs lightly while gesturing with both hands. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Bank details manual rakho, comment BANK, main aapko security checklist DM kar dunga, safe raho mere bhai.\" No subtitles, no on-screen text, no music, no other people.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    },
+    {
+     "n": 5,
+     "kind": "broll",
+     "cover": 3,
+     "desc": "over-the-shoulder shot of a phone on a shop counter lighting up with new message notifications",
+     "prompt": "Create a realistic vertical 9:16 video of about 8 seconds: over-the-shoulder shot of a phone on a shop counter lighting up with new message notifications. Indian small-business setting, warm natural light, handheld smartphone-camera look, slow subtle camera movement, shallow depth of field. No faces, no readable text, no brand names or logos, no subtitles, no speech, no music.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    }
+   ],
+   "material": "[2] TechCrunch AI — Bank of America kindly asks that you don’t share your banking password with your AI assistant\nURL: https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/\n–:–:–:– Buy One Founder Summit Ticket, Get a Second for Free. Register now.\nDisrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off. REGISTER NOW.\nImage Credits: AkinBostanci (opens in a new window) / Getty Images Security Bank of America kindly asks that you don’t share your banking password with your AI assistant Zack Whittaker 2:44 PM PDT · October 27, 2026 Financial giant Bank of America is reminding customers to bank safely by kindly not sharing your banking credentials with your AI agent.\nIn an email blast to customers titled “Protecting your finances in the Al World,” Bank of America urged customers to never share their username and password with another person or an outside service, “including an Al-enabled tool or agent that offers to act on your behalf.”\nYou can practically sense the frustration in the person sending the email. Still, customers are increasingly handing over their log-ins as personal AI assistants grow more popular . Sharing your banking username and password with an AI assistant runs the risk that it could do something with your finances without your knowledge, or that your bank thinks someone’s raiding your account and locks you out of it. Worse, a security flaw in the AI assistant could result in it leaking your banking credentials elsewhere, giving financially motivated hackers a way into your bank account.\nThis latest warning comes as banks are still exploring how AI agents fit into the financial world but are reportedly grappling with unauthorized agents accessing their customers’ money . As we discussed onstage at TechCrunch Disrupt , banks, payment providers, and processors are still trying to figure out how to allow customers access to their bank accounts using AI tools, such as for agentic payments, which allow people to set agents to autonomously buy things at the best price or the right time.\nA spokesperson for Bank of America confirmed the authenticity of the bank’s email that was posted to social media . But heed the bank’s warning, for if things go wrong, it’s on you. Account agreements at most banks hold customers responsible for anyone they give their log-in to. “If you do share your credentials,” its email reads, “keep in mind that you’re responsible for activity resulting from that access.”\nWhen you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence.\nZack Whittaker is the security editor at TechCrunch. He also authors the weekly cybersecurity newsletter, this week in security .\nHe can be reached via encrypted message at zackwhittaker.1337 on Signal. You can also contact him by email, or to verify outreach, at [email protected] .\nNovember 4 Boston Buy One Pass, Get a Second Free Cover more ground at TechCrunch’s ultimate founder bootcamp of the year by bringing your co-founder or partner for free Book before the BOGO deal expires\nMicrosoft offers buyouts to around 60,000 employees\nGrok releases the first seven minutes of its AI-generated ‘Odyssey’\nThe AI graveyard: a running list of projects and startups that didn’t make it\nHottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell\nWarhound raises $200M to engineer war dogs and arm them with Anduril gear\nUber puts all 30,000 employees on ChatGPT Work\nAirbnb limits chores for guests, sparking backlash from hosts",
+   "scenes": [
+    {
+     "purpose": "Hook",
+     "narration": "AI agent ko apna net banking password mat dena. Boht bada risk hai.",
+     "on_screen": "Bank Password Alert",
+     "visual_type": "text",
+     "url": "",
+     "query": "",
+     "headline": "AI Agent ko Login Mat Do",
+     "steps": [],
+     "items": [],
+     "left_label": "",
+     "right_label": "",
+     "rows": []
+    },
+    {
+     "purpose": "Explain risks",
+     "narration": "Bank of America ne warning di hai ki AI tools ko apna username aur password mat do.",
+     "on_screen": "Bank Warning",
+     "visual_type": "checklist",
+     "url": "",
+     "query": "",
+     "headline": "",
+     "steps": [],
+     "items": [
+      "Password leak risk",
+      "Account lock penalty",
+      "Unauthorized transfers"
+     ],
+     "left_label": "",
+     "right_label": "",
+     "rows": []
+    },
+    {
+     "purpose": "Legal liability",
+     "narration": "Agar AI agent koi wrong transaction karde, toh saari responsibility aapki hogi.",
+     "on_screen": "Aapki Responsibility",
+     "visual_type": "compare",
+     "url": "",
+     "query": "",
+     "headline": "",
+     "steps": [],
+     "items": [],
+     "left_label": "Bank Terms",
+     "right_label": "Your Risk",
+     "rows": [
+      {
+       "left": "Share Login",
+       "right": "Full Liability"
+      },
+      {
+       "left": "AI Mistake",
+       "right": "Owner Pays"
+      }
+     ]
+    },
+    {
+     "purpose": "Technical risk",
+     "narration": "AI tool mein koi security flaw hua toh hacker aapka bank account khaali kar dega.",
+     "on_screen": "Hacker Access Risk",
+     "visual_type": "diagram",
+     "url": "",
+     "query": "",
+     "headline": "",
+     "steps": [
+      "AI System Flaw",
+      "Credentials Exposed",
+      "Account Compromised"
+     ],
+     "items": [],
+     "left_label": "",
+     "right_label": "",
+     "rows": []
+    },
+    {
+     "purpose": "Payoff and comment hook",
+     "narration": "Bank details hamesha manual rakho. Comment BANK, main aapko AI security checklist DM kar dunga.",
+     "on_screen": "Comment BANK",
+     "visual_type": "text",
+     "url": "",
+     "query": "",
+     "headline": "Comment BANK for Safety Checklist",
+     "steps": [],
+     "items": [],
+     "left_label": "",
+     "right_label": "",
+     "rows": []
+    }
+   ],
+   "composed_from": null,
+   "hook_title": "AI Ko Password Mat Do",
+   "cta": "Comment BANK for checklist"
+  }
+ },
+ {
+  "id": "C1-2026-10-28",
+  "kind": "carousel",
+  "date": "2026-10-28",
+  "slot": "2026-10-28T09:00",
+  "dir": "output/2026-10-28/C1-2026-10-28/try1",
+  "files": [
+   "slide_01.jpg",
+   "slide_02.jpg",
+   "slide_03.jpg",
+   "slide_04.jpg",
+   "slide_05.jpg"
+  ],
+  "caption": "Most AI tools fail in production because they weren't built for your specific workflow. Before you spend on another monthly subscription, identify the bottleneck in your current process. Is it slow customer response? Document processing? Or high costs? A slightly better model that doubles your costs is a bad business choice. Invest in architecture that can grow with you rather than forcing a total rebuild when new technology arrives. Start by measuring your current performance limits. What is the biggest slowdown in your office daily routine right now? Let's discuss in the comments.\n\n#smallbusinessindia #businessautomation #aiadoption #businessgrowth",
+  "topic": "Checklist: 5 questions before buying an AI agent for your business",
+  "format": "checklist",
+  "hook": "Buying AI for your business? Check these 5 things first.",
+  "keywords": [
+   "AI for small business",
+   "business automation",
+   "AI investment guide",
+   "business efficiency",
+   "cost effective AI"
+  ],
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 9,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "status": "queued",
+  "produced_at": 1793147406,
+  "log": [],
+  "dm_keyword": "",
+  "dm_text": ""
  }
 ]
