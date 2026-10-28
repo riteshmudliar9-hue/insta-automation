@@ -18,7 +18,7 @@
     "ig_reels_avg_watch_time": 6470,
     "ig_reels_video_view_total_time": 51764
    },
-   "fetched": "2026-10-27T18:04:48.227372"
+   "fetched": "2026-10-28T18:07:48.359103"
   },
   "17986761333084821": {
    "id": "R3-2026-10-24",
@@ -38,7 +38,7 @@
     "ig_reels_avg_watch_time": 5815,
     "ig_reels_video_view_total_time": 157018
    },
-   "fetched": "2026-10-27T18:04:48.611493"
+   "fetched": "2026-10-28T18:07:48.930589"
   },
   "18340036819273934": {
    "id": "C2-2026-10-24",
@@ -58,7 +58,7 @@
     "profile_visits": 0,
     "follows": 0
    },
-   "fetched": "2026-10-27T18:04:48.906380"
+   "fetched": "2026-10-28T18:07:49.307254"
   },
   "18061930895631903": {
    "id": "C1-2026-10-24",
@@ -78,7 +78,7 @@
     "profile_visits": 0,
     "follows": 0
    },
-   "fetched": "2026-10-27T18:04:49.349231"
+   "fetched": "2026-10-28T18:07:49.838526"
   },
   "18095704943246132": {
    "id": "C3-2026-10-24",
@@ -98,7 +98,7 @@
     "profile_visits": 0,
     "follows": 0
    },
-   "fetched": "2026-10-27T18:04:49.773108"
+   "fetched": "2026-10-28T18:07:51.834171"
   },
   "18119016835995041": {
    "id": "C2-2026-10-25",
@@ -118,7 +118,7 @@
     "profile_visits": 1,
     "follows": 0
    },
-   "fetched": "2026-10-27T18:04:50.187391"
+   "fetched": "2026-10-28T18:07:52.424954"
   },
   "18079498841712347": {
    "id": "C4-2026-10-25",
@@ -138,7 +138,7 @@
     "profile_visits": 0,
     "follows": 0
    },
-   "fetched": "2026-10-27T18:04:50.532829"
+   "fetched": "2026-10-28T18:07:52.947577"
   },
   "18144724249610082": {
    "id": "C3-2026-10-25",
@@ -158,7 +158,7 @@
     "profile_visits": 0,
     "follows": 0
    },
-   "fetched": "2026-10-27T18:04:50.811399"
+   "fetched": "2026-10-28T18:07:53.624638"
   },
   "18636524926049964": {
    "id": "R1-2026-10-26",
@@ -175,10 +175,10 @@
     "shares": 0,
     "saved": 0,
     "total_interactions": 2,
-    "ig_reels_avg_watch_time": 3782,
-    "ig_reels_video_view_total_time": 230726
+    "ig_reels_avg_watch_time": 3920,
+    "ig_reels_video_view_total_time": 246974
    },
-   "fetched": "2026-10-27T18:04:51.165978"
+   "fetched": "2026-10-28T18:07:54.063061"
   },
   "18170614912476873": {
    "id": "C1-2026-10-26",
@@ -198,7 +198,47 @@
     "profile_visits": 0,
     "follows": 0
    },
-   "fetched": "2026-10-27T18:04:51.618048"
+   "fetched": "2026-10-28T18:07:54.951238"
+  },
+  "18102419912561396": {
+   "id": "R3-2026-10-28",
+   "kind": "reel",
+   "format": "myth_fact",
+   "hook": "AI agent ko apna net banking password mat dena. Boht bada risk hai.",
+   "topic": "Stop letting AI agents access your banking passwords",
+   "date": "2026-10-28",
+   "metrics": {
+    "reach": 10,
+    "views": 10,
+    "likes": 1,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 1,
+    "ig_reels_avg_watch_time": 2113,
+    "ig_reels_video_view_total_time": 21138
+   },
+   "fetched": "2026-10-28T18:07:55.495225"
+  },
+  "17989989126078110": {
+   "id": "C1-2026-10-28",
+   "kind": "carousel",
+   "format": "checklist",
+   "hook": "Buying AI for your business? Check these 5 things first.",
+   "topic": "Checklist: 5 questions before buying an AI agent for your business",
+   "date": "2026-10-28",
+   "metrics": {
+    "reach": 4,
+    "views": 10,
+    "likes": 2,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 2,
+    "profile_visits": 0,
+    "follows": 0
+   },
+   "fetched": "2026-10-28T18:07:55.976159"
   }
  },
  "account": [
@@ -230,6 +270,12 @@
    "date": "2026-10-27",
    "followers_count": 2,
    "media_count": 12,
+   "id": "29357876020471934"
+  },
+  {
+   "date": "2026-10-28",
+   "followers_count": 2,
+   "media_count": 14,
    "id": "29357876020471934"
   }
  ]
