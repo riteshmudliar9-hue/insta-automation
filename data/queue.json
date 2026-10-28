@@ -727,9 +727,11 @@
    "brand_consistency": 9,
    "publish_readiness": 8
   },
-  "status": "queued",
+  "status": "published",
   "produced_at": 1793147406,
-  "log": [],
+  "log": [
+   "2026-10-28T21:45:33.213257+05:30 published https://www.instagram.com/reel/DfC1tEZlqbm/"
+  ],
   "dm_keyword": "BANK",
   "dm_text": "Here is your AI Banking Security Checklist: 1. Never paste bank usernames or passwords into any AI tool, prompt, or agent platform. 2. Understand that bank account agreements hold account holders legally liable for all activity if login credentials are shared. 3. A flaw in an AI tool can expose saved credentials to unauthorized hackers. 4. Always perform bank transfers, vendor payments, and ledger approvals manually or through official bank APIs only.",
   "presenter": {
@@ -884,7 +886,10 @@
    "cta": "Comment BANK for checklist",
    "prompts_sent": true,
    "prompts_sent_at": 1793197181
-  }
+  },
+  "media_id": "18102419912561396",
+  "permalink": "https://www.instagram.com/reel/DfC1tEZlqbm/",
+  "published_at": "2026-10-28T21:45:33.213257+05:30"
  },
  {
   "id": "C1-2026-10-28",
