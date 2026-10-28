@@ -742,7 +742,7 @@
      "line": "AI agent ko kabhi bhi apna net banking password mat dena, yeh boht bada security risk hai.",
      "visual_scene": -1,
      "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: medium close-up with a slow, smooth push-in towards his face. Points a warning finger towards the camera lens. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"AI agent ko kabhi bhi apna net banking password mat dena, yeh boht bada security risk hai.\" No subtitles, no on-screen text, no music, no other people.",
-     "msg_id": null,
+     "msg_id": 268,
      "file": null,
      "got_msg": null
     },
@@ -753,7 +753,7 @@
      "line": "Bank of America ne saaf warning di hai ki AI tools ko apna username kabhi mat share karo.",
      "visual_scene": -1,
      "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: close-up, camera steady at eye level. Leans in slightly and lowers his voice for emphasis. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Bank of America ne saaf warning di hai ki AI tools ko apna username kabhi mat share karo.\" No subtitles, no on-screen text, no music, no other people.",
-     "msg_id": null,
+     "msg_id": 269,
      "file": null,
      "got_msg": null
     },
@@ -763,7 +763,7 @@
      "cover": 2,
      "desc": "close-up of a shopkeeper's hands typing on a laptop next to a stack of paper invoices on a wooden counter",
      "prompt": "Create a realistic vertical 9:16 video of about 8 seconds: close-up of a shopkeeper's hands typing on a laptop next to a stack of paper invoices on a wooden counter. Indian small-business setting, warm natural light, handheld smartphone-camera look, slow subtle camera movement, shallow depth of field. No faces, no readable text, no brand names or logos, no subtitles, no speech, no music.",
-     "msg_id": null,
+     "msg_id": 270,
      "file": null,
      "got_msg": null
     },
@@ -774,7 +774,7 @@
      "line": "Bank details manual rakho, comment BANK, main aapko security checklist DM kar dunga, safe raho mere bhai.",
      "visual_scene": -1,
      "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: medium shot from slightly to his right (about 20 degrees), camera steady. Smiles and shrugs lightly while gesturing with both hands. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Bank details manual rakho, comment BANK, main aapko security checklist DM kar dunga, safe raho mere bhai.\" No subtitles, no on-screen text, no music, no other people.",
-     "msg_id": null,
+     "msg_id": 271,
      "file": null,
      "got_msg": null
     },
@@ -784,7 +784,7 @@
      "cover": 3,
      "desc": "over-the-shoulder shot of a phone on a shop counter lighting up with new message notifications",
      "prompt": "Create a realistic vertical 9:16 video of about 8 seconds: over-the-shoulder shot of a phone on a shop counter lighting up with new message notifications. Indian small-business setting, warm natural light, handheld smartphone-camera look, slow subtle camera movement, shallow depth of field. No faces, no readable text, no brand names or logos, no subtitles, no speech, no music.",
-     "msg_id": null,
+     "msg_id": 272,
      "file": null,
      "got_msg": null
     }
@@ -881,7 +881,9 @@
    ],
    "composed_from": null,
    "hook_title": "AI Ko Password Mat Do",
-   "cta": "Comment BANK for checklist"
+   "cta": "Comment BANK for checklist",
+   "prompts_sent": true,
+   "prompts_sent_at": 1793197181
   }
  },
  {
