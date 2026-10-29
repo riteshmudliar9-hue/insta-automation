@@ -18,7 +18,7 @@
     "ig_reels_avg_watch_time": 6470,
     "ig_reels_video_view_total_time": 51764
    },
-   "fetched": "2026-10-28T18:07:48.359103"
+   "fetched": "2026-10-29T18:10:10.290969"
   },
   "17986761333084821": {
    "id": "R3-2026-10-24",
@@ -38,7 +38,7 @@
     "ig_reels_avg_watch_time": 5815,
     "ig_reels_video_view_total_time": 157018
    },
-   "fetched": "2026-10-28T18:07:48.930589"
+   "fetched": "2026-10-29T18:10:10.755190"
   },
   "18340036819273934": {
    "id": "C2-2026-10-24",
@@ -58,7 +58,7 @@
     "profile_visits": 0,
     "follows": 0
    },
-   "fetched": "2026-10-28T18:07:49.307254"
+   "fetched": "2026-10-29T18:10:11.218568"
   },
   "18061930895631903": {
    "id": "C1-2026-10-24",
@@ -78,7 +78,7 @@
     "profile_visits": 0,
     "follows": 0
    },
-   "fetched": "2026-10-28T18:07:49.838526"
+   "fetched": "2026-10-29T18:10:11.657226"
   },
   "18095704943246132": {
    "id": "C3-2026-10-24",
@@ -98,7 +98,7 @@
     "profile_visits": 0,
     "follows": 0
    },
-   "fetched": "2026-10-28T18:07:51.834171"
+   "fetched": "2026-10-29T18:10:12.099573"
   },
   "18119016835995041": {
    "id": "C2-2026-10-25",
@@ -118,7 +118,7 @@
     "profile_visits": 1,
     "follows": 0
    },
-   "fetched": "2026-10-28T18:07:52.424954"
+   "fetched": "2026-10-29T18:10:12.609235"
   },
   "18079498841712347": {
    "id": "C4-2026-10-25",
@@ -138,7 +138,7 @@
     "profile_visits": 0,
     "follows": 0
    },
-   "fetched": "2026-10-28T18:07:52.947577"
+   "fetched": "2026-10-29T18:10:13.340247"
   },
   "18144724249610082": {
    "id": "C3-2026-10-25",
@@ -158,7 +158,7 @@
     "profile_visits": 0,
     "follows": 0
    },
-   "fetched": "2026-10-28T18:07:53.624638"
+   "fetched": "2026-10-29T18:10:13.765048"
   },
   "18636524926049964": {
    "id": "R1-2026-10-26",
@@ -178,7 +178,7 @@
     "ig_reels_avg_watch_time": 3920,
     "ig_reels_video_view_total_time": 246974
    },
-   "fetched": "2026-10-28T18:07:54.063061"
+   "fetched": "2026-10-29T18:10:14.237712"
   },
   "18170614912476873": {
    "id": "C1-2026-10-26",
@@ -198,7 +198,7 @@
     "profile_visits": 0,
     "follows": 0
    },
-   "fetched": "2026-10-28T18:07:54.951238"
+   "fetched": "2026-10-29T18:10:14.718011"
   },
   "18102419912561396": {
    "id": "R3-2026-10-28",
@@ -208,17 +208,17 @@
    "topic": "Stop letting AI agents access your banking passwords",
    "date": "2026-10-28",
    "metrics": {
-    "reach": 10,
-    "views": 10,
+    "reach": 30,
+    "views": 38,
     "likes": 1,
     "comments": 0,
     "shares": 0,
     "saved": 0,
     "total_interactions": 1,
-    "ig_reels_avg_watch_time": 2113,
-    "ig_reels_video_view_total_time": 21138
+    "ig_reels_avg_watch_time": 3593,
+    "ig_reels_video_view_total_time": 122167
    },
-   "fetched": "2026-10-28T18:07:55.495225"
+   "fetched": "2026-10-29T18:10:15.608077"
   },
   "17989989126078110": {
    "id": "C1-2026-10-28",
@@ -238,7 +238,27 @@
     "profile_visits": 0,
     "follows": 0
    },
-   "fetched": "2026-10-28T18:07:55.976159"
+   "fetched": "2026-10-29T18:10:16.051185"
+  },
+  "18105185309634006": {
+   "id": "C1-2026-10-29",
+   "kind": "carousel",
+   "format": "tutorial",
+   "hook": "How to automate messy customer data cleaning using AI",
+   "topic": "Bulk-cleaning messy customer phone numbers and GSTIN entries using AI Apps Script",
+   "date": "2026-10-29",
+   "metrics": {
+    "reach": 2,
+    "views": 9,
+    "likes": 2,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 2,
+    "profile_visits": 0,
+    "follows": 0
+   },
+   "fetched": "2026-10-29T18:10:16.548469"
   }
  },
  "account": [
@@ -276,6 +296,12 @@
    "date": "2026-10-28",
    "followers_count": 2,
    "media_count": 14,
+   "id": "29357876020471934"
+  },
+  {
+   "date": "2026-10-29",
+   "followers_count": 2,
+   "media_count": 15,
    "id": "29357876020471934"
   }
  ]
