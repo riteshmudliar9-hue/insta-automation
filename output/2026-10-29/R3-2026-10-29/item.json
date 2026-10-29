@@ -1,0 +1,258 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Querying stock levels and pending client ledger balances through natural language chat",
+  "angle": "ERP ya accounting software ke 10 menus kholne ki zaroorat nahi: seedha business chat assistant se poochho kaunse client ka payment pending hai.",
+  "audience_problem": "Field sales reps and contractors constantly call their back-office accounting staff during client meetings to verify stock availability and outstanding balances.",
+  "format": "demo",
+  "medium": "reel",
+  "source_ids": [
+   40,
+   44
+  ],
+  "evergreen": true,
+  "keywords": [
+   "natural language erp",
+   "ledger balance query",
+   "chatgpt enterprise",
+   "inventory lookup",
+   "sales automation"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 9,
+   "hook_potential": 9,
+   "retention": 9,
+   "save_share": 9,
+   "feasibility": 8,
+   "evidence": 8,
+   "viral": 9
+  },
+  "total": 8.83
+ },
+ "piece": {
+  "hooks": [
+   "Client balance check karne ke liye office call karna band karo.",
+   "Field reps ab direct ChatGPT se client balance poochh sakte hain.",
+   "ERP ke 10 menus kholne ki zaroorat nahi hai. Ye dekho.",
+   "Agar aap abhi bhi stock check manually phone par karte ho, ye dekho.",
+   "Accounting software khole bina outstanding payment kaise check karein?"
+  ],
+  "chosen_hook": 1,
+  "hook_reason": "Directly addresses field sales reps and business owners with a clear, specific result that solves a daily back-office dependency.",
+  "title": "Check Client Balances via ChatGPT",
+  "scenes": [
+   {
+    "purpose": "Hook",
+    "narration": "Field reps ab direct ChatGPT se client balance poochh sakte hain.",
+    "on_screen": "No More Office Calls",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Check Balances via Chat",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Problem statement with clear example framing",
+    "narration": "Maan lo aapka hardware supply business hai aur client spot par outstanding balance poochhta hai.",
+    "on_screen": "Client Meeting Problem",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "Old Way",
+    "right_label": "AI Way",
+    "rows": [
+     {
+      "left": "Call office staff",
+      "right": "Ask AI in chat"
+     }
+    ]
+   },
+   {
+    "purpose": "Core solution rollout from source",
+    "narration": "Oracle aur OpenAI ab Oracle AI Workspace ChatGPT mein la rahe hain.",
+    "on_screen": "Oracle + ChatGPT Integration",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "ChatGPT Prompt",
+     "Oracle AI Workspace",
+     "Ledger Data"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Data security and user approvals aspect",
+    "narration": "Aapke business permissions aur access rules ke hisaab se hi data milta hai.",
+    "on_screen": "Strict Access Rules",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Role permissions applied",
+     "Company data secure"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Small business specific offer context",
+    "narration": "Oracle AI SMB bundle se small businesses ye workspace settings manage kar sakte hain.",
+    "on_screen": "Oracle SMB Bundle",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "ChatGPT Business included",
+     "Codex & Cloud credits"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Call to action comment hook",
+    "narration": "Comment CHAT, main aapko set up details aur source links DM kar dunga.",
+    "on_screen": "Comment CHAT",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Get Full Integration Guide",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "How field sales reps can check client ledger balances directly in ChatGPT without calling back-office accounting staff.\n\nIf your sales reps or site supervisors call your office staff every time a client asks for pending ledger balances or stock levels, natural language chat integrations with ERPs are fixing this. Oracle is developing Oracle AI Workspace to connect enterprise data directly to ChatGPT while strictly enforcing company access permissions. Small businesses can also access the Oracle AI SMB bundle which pairs ChatGPT Business with Oracle applications.\n\nWhich accounting software or ERP does your business use right now?\n\nComment CHAT for the complete integration breakdown.",
+  "hashtags": [
+   "#ERPAutomation",
+   "#ChatGPTforBusiness",
+   "#SmallBusinessIndia",
+   "#OracleAI",
+   "#BusinessWorkflow"
+  ],
+  "keywords": [
+   "ChatGPT ERP integration",
+   "Oracle AI Workspace",
+   "client ledger balance chat",
+   "small business accounting automation",
+   "field sales balance check"
+  ],
+  "claims": [
+   {
+    "claim": "Oracle is developing Oracle AI Workspace to bring Oracle applications and data into ChatGPT.",
+    "source_id": 44
+   },
+   {
+    "claim": "Data access in Oracle AI Workspace inside ChatGPT is governed by each organization's permissions and access controls.",
+    "source_id": 44
+   },
+   {
+    "claim": "Oracle AI SMB Bundle combines ChatGPT Business, Codex, Oracle applications, and recurring Cloud Infrastructure credits for small businesses.",
+    "source_id": 44
+   }
+  ],
+  "dm_keyword": "CHAT",
+  "dm_text": "Here is how ChatGPT is integrating with ERP and enterprise finance systems like Oracle and ServiceNow:\n\n1. Oracle AI Workspace: Oracle is bringing finance, procurement, and planning data into ChatGPT so teams can ask queries in natural language.\n2. Built-in Security: Access is governed by your organization's existing permissions and approvals, so staff only see authorized data.\n3. SMB Bundle: Oracle AI SMB Bundle pairs ChatGPT Business and Codex with Oracle apps and cloud credits for small businesses.\n4. ServiceNow Integration: ServiceNow MCP plugin allows users to inspect records and take workflow actions inside ChatGPT.\n\nSource links:\n- https://openai.com/index/oracle-apps-in-chatgpt\n- https://openai.com/index/openai-servicenow-partnership-expansion"
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 7,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 8,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "Oracle is developing Oracle AI Workspace to bring Oracle applications and data into ChatGPT.",
+    "supported": true
+   },
+   {
+    "claim": "Data access in Oracle AI Workspace inside ChatGPT is governed by each organization's permissions and access controls.",
+    "supported": true
+   },
+   {
+    "claim": "Oracle AI SMB Bundle combines ChatGPT Business, Codex, Oracle applications, and recurring Cloud Infrastructure credits for small businesses.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Scene 2: The 'Old Way' vs 'AI Way' comparison is slightly cramped; ensure the text alignment is perfectly centered within the boxes for better readability on mobile.",
+   "Scene 3: The diagram flow is clear, but the arrows could be slightly bolder to ensure they stand out against the cream background."
+  ],
+  "issues": [
+   "The reel focuses heavily on Oracle, but the source material also includes a significant ServiceNow partnership. While you can't cover everything, the DM text mentions ServiceNow, which is good, but the reel itself might feel slightly incomplete to a viewer who expects both based on the 'AI for SMB' promise.",
+   "The term 'Codex' is mentioned, but for a typical Indian SMB owner, this might be jargon. A quick visual or verbal clarification that it's for 'building custom tools' would add value."
+  ],
+  "fix_instructions": "1. In Scene 3, increase the stroke weight of the arrows in the diagram for better visual hierarchy. 2. In Scene 5, add a small sub-text or icon to clarify that 'Codex' is for 'Custom App Building' to make it more accessible to non-technical business owners. 3. Ensure the transition between Scene 2 and 3 is snappy to maintain the momentum of the 'problem-solution' narrative. Otherwise, the content is solid and ready for publication."
+ },
+ "rules": [
+  "scene 2: compare needs rows"
+ ],
+ "reasons": [
+  "scene 2: compare needs rows",
+  "originality 7/10 (<8)",
+  "practical_value 7/10 (<8)"
+ ],
+ "meta": {
+  "duration": 34.1,
+  "voice": "edge",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-29/R3-2026-10-29/try1/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-29/R3-2026-10-29/try1/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-29/R3-2026-10-29/try1/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-29/R3-2026-10-29/try1/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-29/R3-2026-10-29/try1/scene_05.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-29/R3-2026-10-29/try1/scene_06.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   5.09,
+   6.65,
+   5.32,
+   5.3,
+   6.38,
+   5.4
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-10-29/R3-2026-10-29/try1",
+ "attempt": 1,
+ "approved": false,
+ "hook": "Field reps ab direct ChatGPT se client balance poochh sakte hain.",
+ "log": [
+  "attempt 1: fail {'hook': 8, 'originality': 7, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['scene 2: compare needs rows', 'originality 7/10 (<8)', 'practical_value 7/10 (<8)']",
+  "attempt 2: fail {'hook': 7, 'originality': 6, 'practical_value': 6, 'natural_language': 7, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 7} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 6/10 (<8)', 'natural_language 7/10 (<8)']",
+  "attempt 3: fail {'hook': 8, 'originality': 7, 'practical_value': 6, 'natural_language': 8, 'accuracy': 8, 'narrative': 7, 'visual_integrity': 7, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 7} ['originality 7/10 (<8)', 'practical_value 6/10 (<8)', 'narrative 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+  "attempt 4: fail {'hook': 8, 'originality': 7, 'practical_value': 6, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'practical_value 6/10 (<8)']"
+ ],
+ "material": "[40] OpenAI News — OpenAI and ServiceNow expand partnership across enterprise workflows\nURL: https://openai.com/index/openai-servicenow-partnership-expansion\nOpenAI and ServiceNow expand partnership across enterprise workflows | OpenAI OpenAI October 28, 2026\nServiceNow will bring OpenAI models and agents into workflows from development to security, and expand ChatGPT Work and Codex to employees.\nShare OpenAI and ServiceNow are expanding our partnership to bring more of our models and agents into ServiceNow products and connect ServiceNow workflows with ChatGPT and Codex. Together, we’re making it easier for businesses to build applications, resolve IT requests and address security issues using AI.\nThe expansion builds on our partnership announced in January, bringing OpenAI into more of the work ServiceNow does for its customers and within its own business.\nA new ServiceNow integration will bring business context and workflow actions directly into ChatGPT, helping teams investigate issues and take the next step in the same conversation. An IT team member will be able to find similar incidents, assess the risk of a change and update a ServiceNow record without leaving ChatGPT.\nCustomers connect ChatGPT to their own ServiceNow instance and choose which capabilities to make available. ServiceNow’s Action Fabric applies existing business rules and permissions, so the actions people can take reflect their organization’s configuration and access.\nServiceNow is also previewing interactive experiences inside ChatGPT. In one example, an on-call engineer will be able to review linked monitoring alerts, recent changes and affected services, then assign the right team and work toward a fix within ChatGPT.\nPowering more ServiceNow products with OpenAI\nWe also plan to develop new capabilities across three areas:\nApplication development: A planned Codex integration in ServiceNow’s AI Workflow Factory will help developers build applications using ServiceNow’s business context and platform capabilities. OpenAI models will also power Build Agent and Autonomous Engineer to support application development and modernization.\nCybersecurity: A joint security solution will combine OpenAI’s cybersecurity capabilities with ServiceNow’s asset, identity and business context to help teams investigate vulnerabilities, prioritize risks and coordinate remediation.\nVoice: An OpenAI-powered experience in ServiceNow’s Super Intelligence Control Tower will let people describe an AI use case aloud, helping populate assessment fields and gather missing information through follow-up questions.\nBringing ChatGPT Work and Codex to all ServiceNow employees\nServiceNow plans to give all employees access to ChatGPT Work and Codex, expanding beyond its engineering organization. Engineers can use Codex to explore codebases, make changes and run tests, while teams across the business can use ChatGPT Work in their day-to-day work. ServiceNow also plans to use OpenAI capabilities in its internal security work. OpenAI is also using ServiceNow workflows in our own operations, supported by the Super Intelligence Control Tower.\nThe ServiceNow MCP plugin is available in the OpenAI marketplace today, with enhanced capabilities expected by the end of 2026. Voice capabilities in the Super Intelligence Control Tower are expected in the first quarter of 2027. The OpenAI-powered security capabilities are expected to enter early access in January 2027, with general availability planned for the second quarter of 2027. Codex in AI Workflow Factory is expected to be available in 2027.\n\n[44] OpenAI News — OpenAI expands partnership with Oracle to bring its apps to ChatGPT\nURL: https://openai.com/index/oracle-apps-in-chatgpt\nOpenAI expands partnership with Oracle to bring its apps to ChatGPT | OpenAI OpenAI October 27, 2026\nExpanding what businesses can do with Oracle—in ChatGPT and through new offerings powered by OpenAI.\nLoading… Share OpenAI and Oracle are bringing Oracle applications and data into ChatGPT and powering new Oracle products and services with OpenAI models and products. Together, we aim to help businesses use AI to run core operations, build better applications, and strengthen security.\nThis builds on our commercial relationship across the OpenAI API, ChatGPT Work, and Codex. Oracle reported ⁠ 130,000 active ChatGPT users and more than 95,000 active Codex users. Its recruiting team uses ChatGPT Work for market research that once took two to four days to compile, with preparation now taking 15–20 minutes.\nOpenAI and Oracle share a vision for an agent-ready enterprise where people and AI agents work across business applications in one connected environment. Our goal is to make Oracle software easier to discover, use, and manage, with simpler administration, unified sign-in, and access governed by each organization’s permissions and approvals. This would help businesses scale AI across core operations and get more value from the software they already use.\nOracle is developing Oracle AI Workspace ⁠ to bring that vision into ChatGPT through integrations with Oracle applications and data. The goal is to let people describe what they need to accomplish, find the right information, and complete approved business workflows in one place.\nFor example, a new finance team member could use ChatGPT to investigate costs, understand purchasing decisions, and identify what remains before month-end close. The intended experience would bring information from finance, procurement, and planning applications together, helping more employees use Oracle software within their organization’s permissions and approvals.\nAlongside Oracle AI Workspace, Oracle is announcing updates and new offerings built with OpenAI models and tools:\nOracle AI Security Mesh is designed to help customers find and fix vulnerabilities in applications and infrastructure using OpenAI cyber models. Oracle manages the testing infrastructure, helping customers put these capabilities to work safely and within their authorized scope.\nOracle AI SMB Bundle combines ChatGPT Business and Codex with Oracle applications and recurring Oracle Cloud Infrastructure credits to help small businesses build products and manage operations.\nOracle App Composer is designed to help teams build apps with Codex and other AI tools, connect them to approved Oracle data and workflows, and share them across their organization. Oracle manages deployment on Oracle Cloud Infrastructure, with company permissions and access controls built in.\nOracle customers in the U.S. can purchase access to the OpenAI API, Codex, and ChatGPT Work through Oracle Marketplace ⁠ , using existing procurement processes and eligible Oracle Universal Credits.\nLearn more about the OpenAI and Oracle partnership ⁠ .",
+ "id": "R3-2026-10-29",
+ "caption_final": "How field sales reps can check client ledger balances directly in ChatGPT without calling back-office accounting staff.\n\nIf your sales reps or site supervisors call your office staff every time a client asks for pending ledger balances or stock levels, natural language chat integrations with ERPs are fixing this. Oracle is developing Oracle AI Workspace to connect enterprise data directly to ChatGPT while strictly enforcing company access permissions. Small businesses can also access the Oracle AI SMB bundle which pairs ChatGPT Business with Oracle applications.\n\nWhich accounting software or ERP does your business use right now?\n\nComment CHAT for the complete integration breakdown.\n\n#ERPAutomation #ChatGPTforBusiness #SmallBusinessIndia #OracleAI #BusinessWorkflow"
+}

@@ -1,0 +1,254 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Why you should never trust AI chatbots to calculate your business tax and GST liability",
+  "angle": "ChatGPT se GST slab aur business tax calculations karwana penalty bulana hai: Dayjob benchmark test ne AI ki professional tax accuracy expose kar di.",
+  "audience_problem": "SMB owners rely on conversational AI prompts to verify tax deductions and GST rates without realizing models frequently hallucinate tax law nuances.",
+  "format": "myth_fact",
+  "medium": "reel",
+  "source_ids": [
+   23
+  ],
+  "evergreen": true,
+  "keywords": [
+   "gst calculation",
+   "business tax",
+   "chatgpt mistakes",
+   "dayjob tax benchmark",
+   "accounting compliance"
+  ],
+  "scores": {
+   "relevance": 10,
+   "novelty": 9,
+   "hook_potential": 10,
+   "retention": 9,
+   "save_share": 9,
+   "feasibility": 9,
+   "evidence": 9,
+   "viral": 9
+  },
+  "total": 9.3
+ },
+ "piece": {
+  "hooks": [
+   "GST ya tax calculations ke liye ChatGPT mat use karo. Ye dekho.",
+   "Tax calculation AI se karwana heavy GST penalty bula sakta hai.",
+   "90 percent tax calculation AI galat karta hai. Real test report dekho.",
+   "AI aapka tax aur GST calculate kar sakta hai? Result unexpected hai.",
+   "GST slab aur tax filing ke liye AI chatbot par bharosa mat karo."
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "Direct action-oriented hook using a clear warning pattern that immediately hits Indian business owners using ChatGPT for tax and business queries.",
+  "title": "Why AI Chatbots Fail at Business Tax and GST Calculations",
+  "scenes": [
+   {
+    "purpose": "Hook",
+    "narration": "GST ya tax calculations ke liye ChatGPT mat use karo. Ye dekho.",
+    "on_screen": "ChatGPT Tax Risk",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Tax ke liye ChatGPT risk hai",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Test Setup",
+    "narration": "Surge AI ne DAYJOB benchmark mein AI models ko 50 complex tax tests diye.",
+    "on_screen": "50 Tax Benchmark Tests",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "Client Files",
+     "AI Processing",
+     "Tax Audit Result"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Benchmark Results",
+    "narration": "Top AI model Claude Sonnet 5.5 sirf 10.8 percent tests pass kar paya.",
+    "on_screen": "Pass Rate: 10.8%",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "Model Name",
+    "right_label": "Pass Rate",
+    "rows": [
+     {
+      "left": "Sonnet 5.5",
+      "right": "10.8%"
+     },
+     {
+      "left": "Fable 5.1",
+      "right": "9.6%"
+     },
+     {
+      "left": "Opus 5.5",
+      "right": "9.2%"
+     }
+    ]
+   },
+   {
+    "purpose": "Flaw Analysis",
+    "narration": "AI models hidden tax deadlines miss karte hain aur unverified assumptions par report banate hain.",
+    "on_screen": "Critical AI Tax Flaws",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Misses Consequential Deadlines",
+     "Relies On Unverified Assumptions",
+     "Ignores Conflicting Evidence"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Takeaway and Call to Action",
+    "narration": "Tax aur GST filing ke liye expert CA ki hi salah lein. Comment TAX, report breakdown DM kar dunga.",
+    "on_screen": "Comment TAX For Breakdown",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Consult CA For Tax Compliance",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "Why you should never rely on AI chatbots like ChatGPT for business tax and GST liability calculations.\n\nRunning your shop or business with AI assistance helps save daily administrative time, but do not let chatbots calculate your tax liabilities or GST deductions. In a rigorous benchmark by Surge AI across 50 professional tax assignments, the top-performing model achieved only a 10.8% pass rate at a 95% accuracy threshold. AI agents routinely overlooked crucial legal deadlines and relied on unverified assumptions. Always verify tax slabs and filings with a licensed Chartered Accountant.\n\nWhich tax tasks do you currently consult your CA for?",
+  "hashtags": [
+   "#GSTIndia",
+   "#SmallBusinessIndia",
+   "#IndianBusiness",
+   "#TaxFiling"
+  ],
+  "keywords": [
+   "GST calculation AI risk",
+   "ChatGPT business tax accuracy",
+   "Surge AI DAYJOB tax benchmark",
+   "Chartered Accountant GST filing",
+   "Indian small business accounting"
+  ],
+  "claims": [
+   {
+    "claim": "Surge AI benchmarked AI agents on 50 professional tax assignments in its DAYJOB Tax benchmark.",
+    "source_id": 23
+   },
+   {
+    "claim": "Claude Sonnet 5.5 achieved a 10.8% pass rate at a 95% rubric threshold on the DAYJOB Tax benchmark.",
+    "source_id": 23
+   },
+   {
+    "claim": "Claude Fable 5.1 achieved a 9.6% pass rate and Claude Opus 5.5 achieved a 9.2% pass rate on the benchmark.",
+    "source_id": 23
+   },
+   {
+    "claim": "AI tax agents routinely missed consequential deadlines and relied on unverified assumptions during tax evaluations.",
+    "source_id": 23
+   }
+  ],
+  "dm_keyword": "TAX",
+  "dm_text": "Here is why you should not rely on AI chatbots for business tax calculations based on the Surge AI DAYJOB Tax benchmark (source: https://surgehq.ai/blog/dayjob-tax):\n\n1. Low Accuracy: Top performing AI model (Claude Sonnet 5.5) passed only 10.8% of tax assignments evaluated at a 95% rubric threshold.\n2. Missed Deadlines: Models frequently failed to identify critical tax deadlines that clients did not explicitly ask about.\n3. Unverified Assumptions: Models made major recommendations based on unverified assumptions rather than investigating supporting records.\n4. Decision Rule: Use AI to draft emails or search document text, but always consult a qualified CA for tax computations and filing compliance."
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 7,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 7
+  },
+  "claims": [
+   {
+    "claim": "Surge AI benchmarked AI agents on 50 professional tax assignments in its DAYJOB Tax benchmark.",
+    "supported": true
+   },
+   {
+    "claim": "Claude Sonnet 5.5 achieved a 10.8% pass rate at a 95% rubric threshold on the DAYJOB Tax benchmark.",
+    "supported": true
+   },
+   {
+    "claim": "Claude Fable 5.1 achieved a 9.6% pass rate and Claude Opus 5.5 achieved a 9.2% pass rate on the benchmark.",
+    "supported": true
+   },
+   {
+    "claim": "AI tax agents routinely missed consequential deadlines and relied on unverified assumptions during tax evaluations.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Scene 4: The on-screen text 'Critical AI Tax Flaws' is good, but the subtitle box text 'karte hain aur unverified assumptions' is grammatically incomplete and redundant compared to the bullet points above it.",
+   "Scene 3: The table header 'MODEL NAME' and 'PASS RATE' are clear, but the alignment of the numbers in the right column feels slightly cramped."
+  ],
+  "issues": [
+   "The transition between the 'Critical AI Tax Flaws' slide and the narration is slightly disjointed.",
+   "The call to action in Scene 5 is a bit generic; it could be punchier to match the urgency of the hook."
+  ],
+  "fix_instructions": "1. In Scene 4, change the subtitle to 'AI models critical flaws: missing deadlines and unverified assumptions.' to ensure it flows better with the visual list. 2. In Scene 5, replace 'Comment TAX, report breakdown DM kar dunga' with 'Comment TAX, main aapko full report ka breakdown DM kar dunga' for a more natural, conversational Hinglish tone. 3. Ensure the font size in the Scene 3 table is consistent and has enough padding so it doesn't look squashed on mobile screens."
+ },
+ "rules": [
+  "scene 5 narration 19 words (want 4-14)"
+ ],
+ "reasons": [
+  "scene 5 narration 19 words (want 4-14)",
+  "originality 7/10 (<8)",
+  "visual_integrity 7/10 (<8)"
+ ],
+ "meta": {
+  "duration": 29.8,
+  "voice": "gemini",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-29/R1-2026-10-29/try3/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-29/R1-2026-10-29/try3/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-29/R1-2026-10-29/try3/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-29/R1-2026-10-29/try3/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-29/R1-2026-10-29/try3/scene_05.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   5.07,
+   6.23,
+   5.91,
+   6.03,
+   6.51
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-10-29/R1-2026-10-29/try3",
+ "attempt": 3,
+ "approved": false,
+ "hook": "GST ya tax calculations ke liye ChatGPT mat use karo. Ye dekho.",
+ "log": [
+  "attempt 1: fail {'hook': 8, 'originality': 7, 'practical_value': 6, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 7} ['originality 7/10 (<8)', 'practical_value 6/10 (<8)', 'reel is 57.9 s long (max 45 s; aim for 15-35 s)']",
+  "attempt 2: fail {'hook': 8, 'originality': 8, 'practical_value': 7, 'natural_language': 8, 'accuracy': 6, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 6} ['practical_value 7/10 (<8)', 'accuracy 6/10 (<8)', 'publish_readiness 6/10 (<7)', 'unsupported claims: Claude Sonnet 5.5 passed 10.8% of criteria.']",
+  "attempt 3: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['scene 5 narration 19 words (want 4-14)', 'originality 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+  "attempt 4: fail {'hook': 7, 'originality': 7, 'practical_value': 6, 'natural_language': 8, 'accuracy': 7, 'narrative': 7, 'visual_integrity': 5, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 5} ['hook 7/10 (<8)', 'originality 7/10 (<8)', 'practical_value 6/10 (<8)', 'accuracy 7/10 (<8)']"
+ ],
+ "material": "[23] Hacker News — Dayjob: Tax – evaluating AI agents on 50 professional tax assignments\nURL: https://surgehq.ai/blog/dayjob-tax\nDAYJOB: Tax — Benchmarking AI Agents on Professional Tax Work | Surge AI DAYJOB: Tax A benchmark for AI tax agents\nAnna was planning to sell her condo. She had moved out in August 2024 and wanted to know whether closing in October 2026 or January 2027 would be better for taxes.\nAn AI agent reviewed both options and correctly concluded that either date would satisfy the residence requirement for a tax break worth up to $250,000 in excluded gains.\nUnder the usual rules, homeowners must have lived in a property for at least two of the five years before selling it to qualify for the exclusion. Because Anna moved out in August 2024, she would stop satisfying that requirement around the end of August 2027. If her sale was delayed beyond August 2027, she could lose eligibility.\nAcross five attempts, Astra never identified the deadline. Opus identified it in all five attempts.\nThe agent evaluated the proposed dates correctly, but its advice left Anna unaware of a deadline that could affect a major financial decision. A tax adviser should recognize consequential issues even when the client doesn't know to ask about them.\nThis is the kind of professional judgment we're testing with DAYJOB: Tax , the latest addition to Surge AI's DAYJOB benchmark family .\nDAYJOB evaluates AI agents on professional tax assignments requiring specialized expertise, complex materials, and decisions that aren't fully specified in the initial instructions. Our earlier releases covered Healthcare and Finance. DAYJOB: Tax extends that work into tax preparation, compliance, and advisory services.\nThe benchmark contains 50 environments across eight areas of tax practice. Agents receive client requests and supporting records, then produce tax returns, workpapers, technical reviews, or client advice.\nThese assignments test professional judgment alongside tax knowledge, calculations, retrieval, and instruction following. Agents must decide what deserves investigation, resolve conflicting evidence, recognize when information is insufficient, and carry those decisions into their final work.\nResults: Leaderboard and Pareto Frontiers\nClaude Sonnet 5.5 leads with a 10.8% pass rate on the DAYJOB: Tax leaderboard , followed by Claude Fable 5.1 at 9.6% and Claude Opus 5.5 at 9.2%.\nWe report pass@1 at a 95% rubric threshold. An attempt passes when it satisfies at least 95% of the task's criteria, which assess calculations, supporting evidence, consequential issues, and the completed deliverable.\nWe also compared model performance against average cost per trial.\nClaude Sonnet 5.5 and Opus 5.5 occupy the high-performance end of the measured Pareto frontier.\nDAYJOB: Tax covers eight areas, each requiring different rules, records, and expertise:\nSome assignments require complete filing packages with supporting workpapers. Others ask agents to investigate transactions, review previous filings, or prepare advice about decisions clients haven't yet made.\nThe benchmark contains 1,789 workspace files , with a median of 30 per assignment and as many as 123. These include 1,487 PDFs, 117 Excel workbooks, 38 Word documents, and additional emails, images, CSVs, JSON records, and text files.\nThe workspaces include filed and draft tax returns, K-1s, W-2s, IRS notices, general ledgers, payroll records, contracts, and correspondence. They also contain the less standardized evidence that tax professionals routinely work with.\nOne assignment includes a photograph of a handwritten receipt for merchandise purchased for resale . The agent must read the item descriptions and amounts, reconcile them with spending records, and determine how the purchases affect inventory and cost of goods sold.\nAnother assignment involves an industrial silo-services company whose client assumes it operates only in Alabama. But its field dispatch log shows crews working across five states . The job locations, crew sizes, and days on site provide evidence relevant to the company's multistate tax obligations.\nOther environments are similarly varied. One involves a cross-border household whose Polish employment and property records must be reconciled with cryptocurrency exchange exports, wallet histories, and historical purchase lots.\nDAYJOB tasks begin with real-world professional workflows. Tax experts turn these situations into realistic assignments, developing the supporting records, expected outcomes, and grading criteria. Each task undergoes a three-layer expert review for correctness, completeness, and solvability.\nTax experts bring experience across corporate taxation, partnerships, individual returns, trusts, and multistate compliance. Their backgrounds include:\nCorporate and private-equity taxation: A tax attorney with over 10 years of experience at PwC, Deloitte, and Exxon, covering tax planning, compliance, audits, and controversy.\nPartnership and corporate taxation: A Baker Tilly Tax Director with experience at PwC, Moss Adams, and Windes, specializing in complex partnership allocations, consolidated corporate returns, REITs, and high-net-worth clients.\nReal estate and individual taxation: A tax professional with experience at Deloitte and EY, specializing in real-estate partnerships, individual taxation, and trusts.\nA retirement plan built on an unverified assumption\nA separating couple asked an AI agent how to divide their Roth IRA and 401(k). Opus 5.5 told them they weren't legally married and recommended keeping their accounts separate, with a cash payment to even out the balances.\nBut the couple's own records raised doubts about that conclusion. Although they now lived in Florida, where new common-law marriages generally aren't recognized, they had previously lived together in Texas and held a ceremony in Colorado. Texas recognizes informal marriages under certain conditions, and a valid marriage established elsewhere may remain valid in Florida.\nThat distinction could change the tax consequences of dividing their retirement accounts.\nAcross all five attempts, Opus based its recommendations around the assumption that the couple was unmarried , even when it acknowledged uncertainty. Astra recognized the need to verify their marital status in four of five attempts. One response advised:\nThe client asked how to divide the accounts. The agent needed to establish whether they were married before recommending a course of action. The evidence that should have prompted that investigation was already in the files.\nMost existing tax benchmarks begin with a defined problem: a legal question to answer, a return to calculate, or missing taxpayer information to collect. These evaluations measure important capabilities, but much of a tax professional's work involves figuring out what the problem actually is. Clients provide incomplete instructions, records contain conflicting evidence, and consequential issues may never appear in the original request.\nDAYJOB tests whether agents can handle that end-to-end responsibility , including identifying issues the clie",
+ "id": "R1-2026-10-29",
+ "caption_final": "Why you should never rely on AI chatbots like ChatGPT for business tax and GST liability calculations.\n\nRunning your shop or business with AI assistance helps save daily administrative time, but do not let chatbots calculate your tax liabilities or GST deductions. In a rigorous benchmark by Surge AI across 50 professional tax assignments, the top-performing model achieved only a 10.8% pass rate at a 95% accuracy threshold. AI agents routinely overlooked crucial legal deadlines and relied on unverified assumptions. Always verify tax slabs and filings with a licensed Chartered Accountant.\n\nWhich tax tasks do you currently consult your CA for?\n\n#GSTIndia #SmallBusinessIndia #IndianBusiness #TaxFiling"
+}

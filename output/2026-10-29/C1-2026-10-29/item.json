@@ -1,0 +1,194 @@
+{
+ "kind": "carousel",
+ "idea": {
+  "idea": "Bulk-cleaning messy customer phone numbers and GSTIN entries using AI Apps Script",
+  "angle": "Spreadsheet mein invalid GST numbers aur missing +91 country codes ko 10 seconds mein format karo frontier coding models ke banaye free Google Apps Script se.",
+  "audience_problem": "Messy customer contact lists with irregular spaces and invalid phone formatting cause bulk WhatsApp campaigns and GST e-invoicing uploads to fail.",
+  "format": "tutorial",
+  "medium": "carousel",
+  "source_ids": [
+   12,
+   22
+  ],
+  "evergreen": true,
+  "keywords": [
+   "google apps script",
+   "phone number cleaning",
+   "gstin validation",
+   "spreadsheet automation",
+   "data cleanup"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 8,
+   "hook_potential": 8,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 9,
+   "evidence": 8,
+   "viral": 8
+  },
+  "total": 8.34
+ },
+ "piece": {
+  "hooks": [
+   "How to automate messy customer data cleaning using AI",
+   "Stop manually cleaning your customer contact and GST lists",
+   "Use AI to fix spreadsheet errors in 10 seconds"
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "It directly addresses the core workflow issue (messy data) and positions AI as the actionable solution, which is the most relevant approach for small business owners managing spreadsheets.",
+  "slides": [
+   {
+    "kind": "cover",
+    "title": "How to automate messy customer data cleaning using AI",
+    "subtitle": "Use Gemini 4 Carbon to clean your customer contact lists and GST entries in seconds.",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "point",
+    "title": "Why spreadsheets get messy",
+    "subtitle": "Data entry friction",
+    "body": "Your customer list likely contains missing country codes, inconsistent spacing, and invalid GSTIN formats. These small errors cause bulk WhatsApp campaigns and automated e-invoicing uploads to fail every time.",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "steps",
+    "title": "Clean your data with AI",
+    "subtitle": "A 3-step automation workflow",
+    "body": "Use a frontier model like Gemini 4 Carbon to handle the logic, as its improved reasoning reduces fabrication rates.",
+    "items": [
+     "Copy your messy data column into your AI chat.",
+     "Prompt the AI: 'Format these into valid E.164 phone numbers and standard GSTINs.'",
+     "Paste the clean results back into your Google Sheet."
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "mythfact",
+    "title": "AI reliability",
+    "subtitle": "Reducing errors in your data",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "AI models always guess or make up data when they are unsure.",
+    "fact": "New models like Gemini 4 Carbon cut unsupported claims by approximately 2x compared to older versions, providing more transparency when evidence is missing.",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "summary",
+    "title": "Data hygiene habits",
+    "subtitle": "Maintain your customer registry",
+    "body": "Focus on these three rules to keep your business records clean.",
+    "items": [
+     "Standardize input formats using AI tools.",
+     "Use models that surface discrepancies before acting.",
+     "Verify high-risk entries manually after AI processing."
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   }
+  ],
+  "caption": "Stop spending hours fixing spreadsheet errors. If you manage a list of customer phone numbers or GSTINs, manual cleaning is prone to mistakes that break your WhatsApp or invoicing automation. By using a frontier AI model like Gemini 4 Carbon, you can handle data standardization with significantly lower fabrication rates. Note: While AI is excellent at pattern recognition, always review flagged entries manually before hitting 'send' on bulk campaigns. Start by running just 10 rows of your messy data to test the output quality. What is the one spreadsheet column that causes you the most frustration every month? Comment DATA to get our guide on building your own automated cleaning script.",
+  "hashtags": [
+   "#SmallBusinessIndia",
+   "#BusinessAutomation",
+   "#GoogleSheetsTips",
+   "#DataManagement"
+  ],
+  "keywords": [
+   "data cleaning",
+   "spreadsheet automation",
+   "GSTIN format",
+   "AI business tools",
+   "customer database"
+  ],
+  "claims": [
+   {
+    "claim": "Gemini 4 Carbon cuts unsupported claims by approximately 2x compared to Argon.",
+    "source_id": 22
+   },
+   {
+    "claim": "Gemini 4 Carbon provides better transparency by listing what remains required rather than fabricating missing evidence.",
+    "source_id": 22
+   }
+  ]
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "Gemini 4 Carbon cuts unsupported claims by approximately 2x compared to Argon.",
+    "supported": true
+   },
+   {
+    "claim": "Gemini 4 Carbon provides better transparency by listing what remains required rather than fabricating missing evidence.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [],
+  "issues": [
+   "The carousel promotes a specific model (Gemini 4 Carbon) that is currently restricted to a select group of cybersecurity defense companies and not yet available to the general public or small business owners.",
+   "The practical advice assumes the user has access to a model that they cannot currently use, which may frustrate the audience."
+  ],
+  "fix_instructions": "Add a disclaimer on slide 3 or in the caption clarifying that Gemini 4 Carbon is currently in a limited rollout and that these workflows can be tested with current models like Gemini 1.5 Pro or Flash in the meantime. This manages expectations while keeping the content forward-looking."
+ },
+ "rules": [],
+ "reasons": [],
+ "meta": {
+  "ai_visuals": false,
+  "slides": 5
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-10-29/C1-2026-10-29/try2",
+ "attempt": 2,
+ "approved": true,
+ "hook": "How to automate messy customer data cleaning using AI",
+ "log": [
+  "attempt 1: fail {'hook': 6, 'originality': 4, 'practical_value': 3, 'natural_language': 6, 'accuracy': 4, 'narrative': 3, 'visual_integrity': 7, 'pacing': 5, 'brand_consistency': 5, 'publish_readiness': 2} ['hook 6/10 (<8)', 'originality 4/10 (<8)', 'practical_value 3/10 (<8)', 'natural_language 6/10 (<8)']",
+  "attempt 2: PASS {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} []"
+ ],
+ "material": "[12] The Verge AI — Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity\nURL: https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier\nGoogle launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity | The Verge Skip to main content The homepage The Verge The Verge logo. The homepage The Verge The Verge logo. Notifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo. Login / Sign Up\nComments Loading comments Getting the conversation ready... Tech\nGemini 4 Carbon is outperforming the top models from OpenAI and Anthropic on some benchmarks.\nGemini 4 Carbon is outperforming the top models from OpenAI and Anthropic on some benchmarks.\nEmma Roth is a news writer who covers the streaming wars, consumer tech, crypto, social media, and much more. Previously, she was a writer and editor at MUO. Google has released its latest frontier model, Gemini 4 Carbon, offering “significant gains” in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday , Google highlights Carbon’s top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-6 Astra trailing behind.\nThe new Gemini 4 Carbon model offers improvements over Argon, which Google released earlier this month. It’s currently only available to a select group of cybersecurity defense companies, but it will eventually expand to other partners in its Fairwind Program .\nThe company says Carbon reflects the “pace at which we’re pushing the frontier forward,” coming with a “significant leap” in cyberdefense that makes it better at finding vulnerabilities and generating secure code. Carbon currently holds the number one spot on SEC-bench Pro , a benchmark that measures an AI model’s ability to discover real-world bugs, and ExploitGym , which measures how a model can turn a vulnerability into exploits.\nGoogle says Gemini 4 Carbon is built for completing longer tasks, adding that its internal teams have seen it “run for days to persist through dead ends to tackle complex, multi-step engineering tasks.” It’s also better at avoiding shortcuts, resisting prompt injection attacks, and collaborating with users, according to Google. Carbon is supposed to offer more “transparency and honesty” as well, by cutting “unsupported claims” by two times when compared to Argon.\nIt will launch at the same competitive introductory price as Argon, at $2 per million input tokens and $10 per million output tokens.\nHands-on with Apple’s touchscreen MacBook Pro\nAll the news from Apple’s ‘Pro and tell’ event\nApple announces its first touchscreen MacBook Pro\nHere’s why the iPhone Duo’s hinge could be cracking the screen\nTouchscreen MacBook live blog: On the ground at Apple’s launch event\nThe Verge The Verge logo. Sign in to see your notifications or create an account to join the conversation.\n\n[22] Hacker News — Gemini 4 Carbon\nURL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/\nGemini 4 Carbon: our next frontier model Oct 28, 2026\nGemini 4 Carbon is our strongest model with state-of-the-art cybersecurity and long horizon capabilities.\nSVP, Google DeepMind and Chief AI Architect, Google\nToday, we’re announcing the next frontier model: Gemini 4 Carbon, our strongest model with state-of-the-art cybersecurity and long horizon capabilities.\nCarbon ranks #1 on the recently updated v5.0 of Artificial Analysis Intelligence Index at 59. It shows significant gains across coding and agentic tasks as well as across key capabilities critical for cybersecurity defense, landing a firm lead in SEC-bench Pro (88.2%) for finding vulnerabilities, ExploitGym (54.8%) for exploitation, and CWE-bench (71.0%) for patching. On internal benchmarks, Carbon drives a strong uplift in generating secure code, and in live coding environments with our own teams it shows reduced misalignment and fabrication rates.\nBuilding on Gemini 4 Argon , which was launched two weeks ago, Carbon illustrates the pace at which we’re pushing the frontier forward. Our researchers and models are working hand in hand to advance capabilities faster, while strengthening our safeguards in tandem.\nWe're taking a deliberate approach to rollout and are actively engaged in the U.S. government’s voluntary process for pre-release model testing. Starting this week, we will make Carbon available to a subset of cyber defenders and will gradually phase access to additional trusted partners through our Fairwind Program . We’re continuing to gather feedback and iterate on guardrails before making Carbon available to developers, businesses, and consumers via our product surfaces as soon as possible.\nGemini 4 Carbon will launch at the same introductory price 1 as Argon at $2 per million input tokens and $10 per million output tokens, with cached input tokens priced at 95% off input token price.\nImproving coding and reasoning for challenging, long-horizon tasks\nDesigned to take on much harder, long-horizon engineering problems, Carbon is built for sustained agentic workflows. Internally, our teams have seen Carbon run for days to persist through dead ends to tackle complex, multi-step engineering tasks like root-causing and patching subtle bugs across large codebases and low-level systems.\nBuilding on user feedback, we focused on improving model performance across a variety of domains, including coding, agentic, and scientific tasks, as well as full-stack web development and multimodal understanding. With improved quality of output and artifacts in web development, Carbon jumps +89 elo points to land at #4 (1768) on WebDev Arena .\nState-of-the-art cybersecurity performance to help build secure systems\nGemini 4 Carbon delivers a significant leap in cybersecurity capabilities. It achieves state-of-the-art performance across the cybersecurity defense lifecycle — vulnerability detection, validation, and remediation.\nOur teams are already seeing strong gains in cyberdefense. On internal benchmarks, Carbon achieves more than 2x uplift in success rate for generating secure code over Argon. As another example, the Chrome team has reported that Carbon performed more than 10X better than another lab's large frontier model when generating high quality patches. Wiz, our leading Cloud security platform, also observes Carbon leading on benchmarks for web penetration testing, a core capability for Wiz's Scan for Good initiative.\nCarbon excels across key external benchmarks (evaluated without guardrails):\nFinding real vulnerabilities: Core to cybersecurity defense is finding real vulnerabilities. Carbon achieves a state-of-the-art 88.2% on SEC-bench Pro , autonomously uncovering complex flaws buried in real-world software.\nValidating risk through exploitation: To prioritize which vulnerabilities to remediate first or remediate at all, cyber defenders increasingly rely on models to check which vulnerabilities are exploitable. Carbon sets a new state-of-the-art on the popular exploitation benchmark ExploitGym (54.8%).\nPatching at the root cause: Ultimately after identifying the vulnerabilities, fixing the root cause is a critical step in the cybersecurity defense lifecycle. Carbon reaches 71.0% on Collinear’s CWE-bench , turning validated findings directly into working code fixes.\nAdvancing frontier model safety & security\nGemini 4 Carbon builds on the same multi-layered safety and security stack of Argon — combining model training, real-time misuse defenses, prompt-injection resilience, and chain-of-thought monitoring. In particular, we made significant strides in model alignment with Argon, and reported its propensities to behave in an aligned way in our Safety and Security report . With Carbon, we challenged ourselves to go a step further on alignment, and trained the model to respond to complex or high-pressure tasks in the right way.\nReducing shortcuts and loophole exploitation: With Carbon, we further mitigated shortcut attempts in training while ensuring high-quality coding performance. Carbon reduced successful cheating on Terminal-Bench 4.0 to 0.0%, with attempts to cheat dropping to 0.4% — all while improving overall accuracy. In live coding environments with our internal teams, we observed that high-severity misalignment alerts dropped by almost 80%.\nGreater transparency and honesty: In our internal testing, Carbon cuts unsupported claims by approximately 2x over Argon. It puts methodological caveats directly into the deliverable or withholds blocked actions with a clear list of what remains required, rather than fabricating or hedging around missing evidence.\nImproved collaboration with the user in the face of ambiguity: Rather than guessing or forcing a path forward, Carbon retrieves the relevant sources and surfaces discrepancies to the user before acting — as a result, users should observe a much better collaborative experience with Carbon.\nFollowing through without overstepping: Carbon simultaneously reduced overreach by 26% and under-service by 29% resulting in much more reliable execution of multi-step plans end-to-end while respecting project constraints and staying strictly within scope.\nResisting prompt injection: While Argon previously led the Gray Swan’s Indirect Prompt Injection (IPI) Benchmark in prompt injection resistance with a very low 0.7% attack success rate, Carbon achieves 0.0% — resisting every evaluated attack attempt.\nComing soon to developers, businesses, and consumers\nPushing the frontier forward requires moving fast while remaining deliberate about deployment. With Gemini 4 Carbon, our goal is to deliver meaningful leaps in software engineering and cybersecurity defense without compromising on safety or reliability. We’re eager to see how the initial cohort of cyber defenders use this model and we look forward to bringing Carbon to developers, businesses, and consumers soon.\nAfter the introductory period expires, the price of $4 per 1M input tokens and $20 per 1M output tokens will apply.\nD",
+ "id": "C1-2026-10-29",
+ "caption_final": "Stop spending hours fixing spreadsheet errors. If you manage a list of customer phone numbers or GSTINs, manual cleaning is prone to mistakes that break your WhatsApp or invoicing automation. By using a frontier AI model like Gemini 4 Carbon, you can handle data standardization with significantly lower fabrication rates. Note: While AI is excellent at pattern recognition, always review flagged entries manually before hitting 'send' on bulk campaigns. Start by running just 10 rows of your messy data to test the output quality. What is the one spreadsheet column that causes you the most frustration every month? Comment DATA to get our guide on building your own automated cleaning script.\n\n#SmallBusinessIndia #BusinessAutomation #GoogleSheetsTips #DataManagement"
+}

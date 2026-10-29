@@ -230,5 +230,21 @@
   "status": "published",
   "media_id": "17989989126078110",
   "permalink": "https://www.instagram.com/p/DfBjHPClacj/"
+ },
+ {
+  "id": "C1-2026-10-29",
+  "date": "2026-10-29",
+  "kind": "carousel",
+  "format": "tutorial",
+  "topic": "Bulk-cleaning messy customer phone numbers and GSTIN entries using AI Apps Script",
+  "hook": "How to automate messy customer data cleaning using AI",
+  "keywords": [
+   "data cleaning",
+   "spreadsheet automation",
+   "GSTIN format",
+   "AI business tools",
+   "customer database"
+  ],
+  "status": "queued"
  }
 ]

@@ -937,5 +937,47 @@
   "media_id": "17989989126078110",
   "permalink": "https://www.instagram.com/p/DfBjHPClacj/",
   "published_at": "2026-10-28T09:43:39.270168+05:30"
+ },
+ {
+  "id": "C1-2026-10-29",
+  "kind": "carousel",
+  "date": "2026-10-29",
+  "slot": "2026-10-29T09:00",
+  "dir": "output/2026-10-29/C1-2026-10-29/try2",
+  "files": [
+   "slide_01.jpg",
+   "slide_02.jpg",
+   "slide_03.jpg",
+   "slide_04.jpg",
+   "slide_05.jpg"
+  ],
+  "caption": "Stop spending hours fixing spreadsheet errors. If you manage a list of customer phone numbers or GSTINs, manual cleaning is prone to mistakes that break your WhatsApp or invoicing automation. By using a frontier AI model like Gemini 4 Carbon, you can handle data standardization with significantly lower fabrication rates. Note: While AI is excellent at pattern recognition, always review flagged entries manually before hitting 'send' on bulk campaigns. Start by running just 10 rows of your messy data to test the output quality. What is the one spreadsheet column that causes you the most frustration every month? Comment DATA to get our guide on building your own automated cleaning script.\n\n#SmallBusinessIndia #BusinessAutomation #GoogleSheetsTips #DataManagement",
+  "topic": "Bulk-cleaning messy customer phone numbers and GSTIN entries using AI Apps Script",
+  "format": "tutorial",
+  "hook": "How to automate messy customer data cleaning using AI",
+  "keywords": [
+   "data cleaning",
+   "spreadsheet automation",
+   "GSTIN format",
+   "AI business tools",
+   "customer database"
+  ],
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "status": "queued",
+  "produced_at": 1793233817,
+  "log": [],
+  "dm_keyword": "",
+  "dm_text": ""
  }
 ]

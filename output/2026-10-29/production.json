@@ -1,0 +1,359 @@
+{
+ "date": "2026-10-29",
+ "tag": "2026-10-29",
+ "pilot": false,
+ "sources": 100,
+ "ideas": 14,
+ "idea_list": [
+  {
+   "idea": "Why you should never trust AI chatbots to calculate your business tax and GST liability",
+   "format": "myth_fact",
+   "total": 9.3,
+   "scores": {
+    "relevance": 10,
+    "novelty": 9,
+    "hook_potential": 10,
+    "retention": 9,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 9
+   }
+  },
+  {
+   "idea": "Transcribing regional language WhatsApp audio orders using open multilingual speech models",
+   "format": "tool_test",
+   "total": 8.86,
+   "scores": {
+    "relevance": 10,
+    "novelty": 8,
+    "hook_potential": 9,
+    "retention": 9,
+    "save_share": 9,
+    "feasibility": 8,
+    "evidence": 8,
+    "viral": 9
+   }
+  },
+  {
+   "idea": "Querying stock levels and pending client ledger balances through natural language chat",
+   "format": "demo",
+   "total": 8.83,
+   "scores": {
+    "relevance": 9,
+    "novelty": 9,
+    "hook_potential": 9,
+    "retention": 9,
+    "save_share": 9,
+    "feasibility": 8,
+    "evidence": 8,
+    "viral": 9
+   }
+  },
+  {
+   "idea": "Optimizing local business product listings for conversational AI Search discovery",
+   "format": "problem_fix",
+   "total": 8.83,
+   "scores": {
+    "relevance": 9,
+    "novelty": 9,
+    "hook_potential": 9,
+    "retention": 9,
+    "save_share": 9,
+    "feasibility": 8,
+    "evidence": 8,
+    "viral": 9
+   }
+  },
+  {
+   "idea": "How to set hard spending limits and usage monitors on your AI automation accounts",
+   "format": "problem_fix",
+   "total": 8.67,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 10,
+    "evidence": 9,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Using Chrome's new AI Autofill to fill repetitive supplier procurement forms from Gmail",
+   "format": "tutorial",
+   "total": 8.61,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Bulk-cleaning messy customer phone numbers and GSTIN entries using AI Apps Script",
+   "format": "tutorial",
+   "total": 8.34,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 8,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Ditching expensive survey tools: Running automated customer intake on Google Forms for free",
+   "format": "manual_vs_auto",
+   "total": 8.3,
+   "scores": {
+    "relevance": 9,
+    "novelty": 7,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 10,
+    "evidence": 8,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Comparing manual front-desk reception with 24/7 AI voice agents for quote inquiries",
+   "format": "manual_vs_auto",
+   "total": 8.25,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 8,
+    "evidence": 9,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Emergency security audit checklist for WordPress and PHP business websites",
+   "format": "checklist",
+   "total": 8.14,
+   "scores": {
+    "relevance": 8,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "Unpacking multi-item eCommerce orders into individual packing rows with Zapier Tables",
+   "format": "problem_fix",
+   "total": 8.06,
+   "scores": {
+    "relevance": 9,
+    "novelty": 7,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 8,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "Why generic AI prompts give bad business decisions without operational context",
+   "format": "myth_fact",
+   "total": 7.92,
+   "scores": {
+    "relevance": 9,
+    "novelty": 7,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 9,
+    "evidence": 8,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "Benchmark guide: Picking the right LLM for multi-step workflow automations",
+   "format": "tool_test",
+   "total": 7.81,
+   "scores": {
+    "relevance": 8,
+    "novelty": 8,
+    "hook_potential": 7,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 6
+   }
+  },
+  {
+   "idea": "Database audit: Stopping AI log bloat from driving up your cloud storage tiers",
+   "format": "checklist",
+   "total": 7.63,
+   "scores": {
+    "relevance": 7,
+    "novelty": 9,
+    "hook_potential": 7,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 6
+   }
+  }
+ ],
+ "rejected_ideas": [],
+ "items": [
+  {
+   "id": "R1-2026-10-29",
+   "kind": "reel",
+   "format": "myth_fact",
+   "topic": "Why you should never trust AI chatbots to calculate your business tax and GST liability",
+   "hook": "GST ya tax calculations ke liye ChatGPT mat use karo. Ye dekho.",
+   "approved": false,
+   "attempts": 3,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 8,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 7,
+    "pacing": 8,
+    "brand_consistency": 9,
+    "publish_readiness": 7
+   },
+   "reasons": [
+    "scene 5 narration 19 words (want 4-14)",
+    "originality 7/10 (<8)",
+    "visual_integrity 7/10 (<8)"
+   ],
+   "log": [
+    "attempt 1: fail {'hook': 8, 'originality': 7, 'practical_value': 6, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 7} ['originality 7/10 (<8)', 'practical_value 6/10 (<8)', 'reel is 57.9 s long (max 45 s; aim for 15-35 s)']",
+    "attempt 2: fail {'hook': 8, 'originality': 8, 'practical_value': 7, 'natural_language': 8, 'accuracy': 6, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 6} ['practical_value 7/10 (<8)', 'accuracy 6/10 (<8)', 'publish_readiness 6/10 (<7)', 'unsupported claims: Claude Sonnet 5.5 passed 10.8% of criteria.']",
+    "attempt 3: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['scene 5 narration 19 words (want 4-14)', 'originality 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+    "attempt 4: fail {'hook': 7, 'originality': 7, 'practical_value': 6, 'natural_language': 8, 'accuracy': 7, 'narrative': 7, 'visual_integrity': 5, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 5} ['hook 7/10 (<8)', 'originality 7/10 (<8)', 'practical_value 6/10 (<8)', 'accuracy 7/10 (<8)']"
+   ],
+   "dir": "output/2026-10-29/R1-2026-10-29/try3",
+   "duration": 29.8,
+   "voice": "gemini"
+  },
+  {
+   "id": "R2-2026-10-29",
+   "kind": "reel",
+   "format": "tool_test",
+   "topic": "Transcribing regional language WhatsApp audio orders using open multilingual speech models",
+   "hook": "Customer ke 2-minute Hindi voice notes se direct order list banao.",
+   "approved": false,
+   "attempts": 4,
+   "scores": {
+    "hook": 8,
+    "originality": 8,
+    "practical_value": 7,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 9,
+    "pacing": 8,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [
+    "practical_value 7/10 (<8)"
+   ],
+   "log": [
+    "attempt 1: fail {'hook': 8, 'originality': 7, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'practical_value 7/10 (<8)']",
+    "attempt 2: fail {'hook': 8, 'originality': 7, 'practical_value': 6, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'practical_value 6/10 (<8)', 'visual_integrity 7/10 (<8)']",
+    "attempt 3: fail {'hook': 7, 'originality': 7, 'practical_value': 5, 'natural_language': 7, 'accuracy': 8, 'narrative': 7, 'visual_integrity': 7, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 6} ['hook 7/10 (<8)', 'originality 7/10 (<8)', 'practical_value 5/10 (<8)', 'natural_language 7/10 (<8)']",
+    "attempt 4: fail {'hook': 8, 'originality': 8, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['practical_value 7/10 (<8)']"
+   ],
+   "dir": "output/2026-10-29/R2-2026-10-29/try4",
+   "duration": 34.2,
+   "voice": "edge"
+  },
+  {
+   "id": "R3-2026-10-29",
+   "kind": "reel",
+   "format": "demo",
+   "topic": "Querying stock levels and pending client ledger balances through natural language chat",
+   "hook": "Field reps ab direct ChatGPT se client balance poochh sakte hain.",
+   "approved": false,
+   "attempts": 1,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 7,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 8,
+    "pacing": 8,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [
+    "scene 2: compare needs rows",
+    "originality 7/10 (<8)",
+    "practical_value 7/10 (<8)"
+   ],
+   "log": [
+    "attempt 1: fail {'hook': 8, 'originality': 7, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['scene 2: compare needs rows', 'originality 7/10 (<8)', 'practical_value 7/10 (<8)']",
+    "attempt 2: fail {'hook': 7, 'originality': 6, 'practical_value': 6, 'natural_language': 7, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 7} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 6/10 (<8)', 'natural_language 7/10 (<8)']",
+    "attempt 3: fail {'hook': 8, 'originality': 7, 'practical_value': 6, 'natural_language': 8, 'accuracy': 8, 'narrative': 7, 'visual_integrity': 7, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 7} ['originality 7/10 (<8)', 'practical_value 6/10 (<8)', 'narrative 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+    "attempt 4: fail {'hook': 8, 'originality': 7, 'practical_value': 6, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'practical_value 6/10 (<8)']"
+   ],
+   "dir": "output/2026-10-29/R3-2026-10-29/try1",
+   "duration": 34.1,
+   "voice": "edge"
+  },
+  {
+   "id": "C1-2026-10-29",
+   "kind": "carousel",
+   "format": "tutorial",
+   "topic": "Bulk-cleaning messy customer phone numbers and GSTIN entries using AI Apps Script",
+   "hook": "How to automate messy customer data cleaning using AI",
+   "approved": true,
+   "attempts": 2,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 8,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 9,
+    "pacing": 9,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [],
+   "log": [
+    "attempt 1: fail {'hook': 6, 'originality': 4, 'practical_value': 3, 'natural_language': 6, 'accuracy': 4, 'narrative': 3, 'visual_integrity': 7, 'pacing': 5, 'brand_consistency': 5, 'publish_readiness': 2} ['hook 6/10 (<8)', 'originality 4/10 (<8)', 'practical_value 3/10 (<8)', 'natural_language 6/10 (<8)']",
+    "attempt 2: PASS {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} []"
+   ],
+   "dir": "output/2026-10-29/C1-2026-10-29/try2",
+   "duration": null,
+   "voice": null
+  }
+ ],
+ "llm_calls": {
+  "text": 29,
+  "tts": 22,
+  "failed": 0
+ }
+}

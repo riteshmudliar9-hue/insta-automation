@@ -1,0 +1,263 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Transcribing regional language WhatsApp audio orders using open multilingual speech models",
+  "angle": "WhatsApp par customers ke 2-minute ke lambe voice notes sunkar likhna band karo: open ASR models se regional Hindi audio ko direct order summary mein convert karo.",
+  "audience_problem": "Wholesale traders and local contractors waste hours listening to chaotic customer voice notes to manually jot down items, dimensions, and quantities.",
+  "format": "tool_test",
+  "medium": "reel",
+  "source_ids": [
+   25
+  ],
+  "evergreen": true,
+  "keywords": [
+   "voice to text",
+   "whatsapp voice notes",
+   "nemotron transcribe",
+   "hindi transcription",
+   "order processing"
+  ],
+  "scores": {
+   "relevance": 10,
+   "novelty": 8,
+   "hook_potential": 9,
+   "retention": 9,
+   "save_share": 9,
+   "feasibility": 8,
+   "evidence": 8,
+   "viral": 9
+  },
+  "total": 8.86
+ },
+ "piece": {
+  "hooks": [
+   "WhatsApp ke lambe voice notes sunkar order likhna band karo.",
+   "Customer ke 2-minute Hindi voice notes se direct order list banao.",
+   "Audio order notes sunne mein time waste hota hai? Ye dekho.",
+   "Voice notes se GST order list banane ka naya developer tool dekho.",
+   "Regional language audio orders ko auto-transcribe karne ka open model try karo."
+  ],
+  "chosen_hook": 1,
+  "hook_reason": "Directly targets wholesale traders and shop owners dealing with WhatsApp audio orders, promising a clear and practical solution.",
+  "title": "Automating WhatsApp Audio Orders with Open ASR Models",
+  "scenes": [
+   {
+    "purpose": "Hook",
+    "narration": "Customer ke 2-minute Hindi voice notes se direct order list banao.",
+    "on_screen": "Voice Notes To Text",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "WhatsApp Voice Notes To Order Text",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Define problem",
+    "narration": "Hardware shop ya distributor ke paas WhatsApp par aate hain lambe regional audio notes.",
+    "on_screen": "Manual Audio Orders",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "Customer Voice Note",
+     "Manual Replay",
+     "Paper Entry Errors"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Introduce open tool",
+    "narration": "Nvidia ka open model Nemotron 3.5 Transcribe 40 languages support karta hai.",
+    "on_screen": "Nvidia Nemotron 3.5",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Open Speech Model For 40 Languages",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Symmetrical comparison",
+    "narration": "Replay karke likhne ki jagah, ye model 1 ghante tak ka audio summary karta hai.",
+    "on_screen": "Manual vs Auto ASR",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "Manual Audio",
+    "right_label": "Nemotron AI",
+    "rows": [
+     {
+      "left": "Listen repeatedly",
+      "right": "Instant transcript"
+     },
+     {
+      "left": "Manual note taking",
+      "right": "Prompted summary"
+     },
+     {
+      "left": "High speech errors",
+      "right": "2.8 percent AA-WER"
+     }
+    ]
+   },
+   {
+    "purpose": "Explain technical setup",
+    "narration": "Aapka developer Is model ko Hugging Face se setup karke voice to order flow bana sakta hai.",
+    "on_screen": "Developer Setup Needed",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Open source model",
+     "Hugging Face host",
+     "Prompt driven extraction",
+     "4B active params"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Payoff and comment hook",
+    "narration": "Tool links aur details ke liye, Comment ORDER, main aapko guide DM kar dunga.",
+    "on_screen": "Comment ORDER For Info",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Comment ORDER For Model Link",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "How to automate WhatsApp voice note orders for Indian small businesses using open AI models. If your hardware shop or distribution business gets chaotic voice notes on WhatsApp, manually jotted items lead to billing errors. Nvidia Nemotron 3.5 Transcribe is an open-weight speech model supporting 40 languages. It requires a developer or tech partner to deploy via Hugging Face, but once integrated, it can auto-transcribe regional speech and extract item lists. Has your business tried automated voice transcription yet? Comment ORDER for the model guide.",
+  "hashtags": [
+   "#WhatsAppAutomation",
+   "#BusinessAutomation",
+   "#AIForBusiness",
+   "#VoiceToText"
+  ],
+  "keywords": [
+   "WhatsApp order automation",
+   "speech to text",
+   "Nemotron Transcribe",
+   "regional audio transcription",
+   "small business automation"
+  ],
+  "claims": [
+   {
+    "claim": "NVIDIA Nemotron 3.5 Transcribe is an open-weight speech model supporting 40 languages.",
+    "source_id": 25
+   },
+   {
+    "claim": "Nemotron 3.5 Transcribe handles recordings up to an hour long.",
+    "source_id": 25
+   },
+   {
+    "claim": "Nemotron 3.5 Transcribe achieves 2.80% AA-WER on Artificial Analysis leaderboard with about 4B active parameters.",
+    "source_id": 25
+   },
+   {
+    "claim": "Nemotron 3.5 Transcribe is available on Hugging Face and ModelScope.",
+    "source_id": 25
+   }
+  ],
+  "dm_keyword": "ORDER",
+  "dm_text": "Here are the details on Nvidia Nemotron 3.5 Transcribe for audio processing: 1. What it is: An open-weight speech model on Hugging Face supporting 40 languages and audio Q&A. 2. Implementation: Ask your tech partner or developer to deploy it via Hugging Face or ModelScope. 3. Capability: Handles audio up to 1 hour, converting regional voice notes into structured text using simple prompts. Model link: https://huggingface.co/blog/nvidia/nemotron-transcribe-granary"
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 8,
+   "practical_value": 7,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "NVIDIA Nemotron 3.5 Transcribe is an open-weight speech model supporting 40 languages.",
+    "supported": true
+   },
+   {
+    "claim": "Nemotron 3.5 Transcribe handles recordings up to an hour long.",
+    "supported": true
+   },
+   {
+    "claim": "Nemotron 3.5 Transcribe achieves 2.80% AA-WER on Artificial Analysis leaderboard with about 4B active parameters.",
+    "supported": true
+   },
+   {
+    "claim": "Nemotron 3.5 Transcribe is available on Hugging Face and ModelScope.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [],
+  "issues": [
+   "Scene 5 notes 'Developer Setup Needed', which is accurate and essential so non-technical shop owners do not expect a zero-code WhatsApp plugin, but the caption could make it slightly clearer what the developer actually needs to build (an API integration between WhatsApp Web/Business API and Hugging Face)."
+  ],
+  "fix_instructions": "The reel is in strong shape and ready for publication. Optionally, add a single sentence in the caption explicitly mentioning that a developer needs to connect WhatsApp API to Hugging Face."
+ },
+ "rules": [],
+ "reasons": [
+  "practical_value 7/10 (<8)"
+ ],
+ "meta": {
+  "duration": 34.2,
+  "voice": "edge",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-29/R2-2026-10-29/try4/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-29/R2-2026-10-29/try4/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-29/R2-2026-10-29/try4/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-29/R2-2026-10-29/try4/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-29/R2-2026-10-29/try4/scene_05.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-29/R2-2026-10-29/try4/scene_06.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   4.63,
+   5.93,
+   6.37,
+   5.67,
+   5.93,
+   5.71
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-10-29/R2-2026-10-29/try4",
+ "attempt": 4,
+ "approved": false,
+ "hook": "Customer ke 2-minute Hindi voice notes se direct order list banao.",
+ "log": [
+  "attempt 1: fail {'hook': 8, 'originality': 7, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'practical_value 7/10 (<8)']",
+  "attempt 2: fail {'hook': 8, 'originality': 7, 'practical_value': 6, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'practical_value 6/10 (<8)', 'visual_integrity 7/10 (<8)']",
+  "attempt 3: fail {'hook': 7, 'originality': 7, 'practical_value': 5, 'natural_language': 7, 'accuracy': 8, 'narrative': 7, 'visual_integrity': 7, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 6} ['hook 7/10 (<8)', 'originality 7/10 (<8)', 'practical_value 5/10 (<8)', 'natural_language 7/10 (<8)']",
+  "attempt 4: fail {'hook': 8, 'originality': 8, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['practical_value 7/10 (<8)']"
+ ],
+ "material": "[25] Hacker News — Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages\nURL: https://huggingface.co/blog/nvidia/nemotron-transcribe-granary\nNVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt Back to Articles a]:hidden\"> NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt Enterprise + Article Published October 28, 2026 Upvote 43\nOne open model for multilingual transcription, speaker attribution, translation, and audio Q&A, with top leaderboard results, plus the open Granary v2 data pipeline and fine-tuning recipes to adapt it.\nA transcript can capture every spoken word and still leave users or applications wondering who said what, how to translate it, or how to format domain-specific jargon. Multilingual calls, fast-paced meetings, and medical dictation each need different output: a translation, speaker labels, or correctly spelled medical terms.\nNVIDIA Nemotron 3.5 Transcribe is an open-weight, promptable model that turns recorded speech into useful text, now available on Hugging Face and ModelScope . It brings transcription, speaker attribution (diarization), translation, and audio question answering into one checkpoint: it transcribes 40 languages, translates 31 of them to or from English, and attributes speakers in 13. It handles recordings up to an hour long and labels up to eight speakers. Developers can guide output with natural language, choose where their audio is processed, and adapt recognition to domain vocabulary and accents.\nTranscribe is first among open-weight models on the Hugging Face Open ASR Leaderboard for English and sits on Artificial Analysis ’s accuracy–active-parameter frontier. For speaker attribution, it posts the lowest error rate on David AI’s 21-language diarization leaderboard and ranks first in VoiceArena’s 14-system comparison . Quantized versions are coming soon, so you can run Transcribe locally on your RTX Spark, DGX Spark, or Jetson AGX Thor—or scale up on Blackwell data-center GPUs.\nGranary v2’s multilingual data (available on Hugging Face and ModelScope ) and reusable curation pipeline, together with NeMo Speech fine-tuning tools , extend prompt-level control to training: developers can define the written form they need and adapt the model to the speech their applications encounter. In a medical case study , fine-tuning cut word error rate (WER) on held-out speakers by 45.8% relative to the best prompt.\nGuide transcription and analysis with natural language The same checkpoint can turn one meeting recording into different outputs, depending on the instruction:\n“Transcribe this recording and label each speaker.”\n“What decisions were made in this meeting?”\nExperience the model in action in the video below, where it tackles a classic scene from the 1940 screwball comedy His Girl Friday—a film famous for its rapid-fire, heavily overlapping dialogue.\nNemotron 3.5 Transcribe captions a scene from His Girl Friday (1940) and labels speakers, including overlapping dialogue.\nFor unfamiliar terms, try context before training. In a healthcare setting, for example:\nTranscribe this medical discussion in the original language. Possible terms: HbA1c, metformin. Use these terms only when supported by the audio. Preserve standard medical spelling and write numbers in conventional written form.\nThe model card has recommended presets, including reasoning for audio questions, plus the full prompt guide and a task-by-language matrix: language support differs by task, and audio question answering is trained in English. Word-level timestamps are also supported. As with any speech model, spot-check names, speaker changes, and answers against the recording.\nFrom live classes to lasting lessons. Agora, whose real-time voice and video platform powers live conversations in apps, used word-level timestamps in a classroom demo: Nemotron 3.5 Transcribe turns a recorded class into a transcript shown alongside the replay, so students can see what was said and when. Agora’s blog walks through how they built it.\nLeaderboard wins from transcription to speaker attribution Among open-weight models, Transcribe leads on what was said; on who said it, it tops two speaker-attribution benchmarks outright.\nHugging Face Open ASR Leaderboard. The leaderboard measures transcription accuracy as word error rate (WER) on public test sets, in three tracks:\nEnglish: first among open-weight models at 5.33% average WER (Figure 1).\nMultilingual: 4.62% mean WER across seven languages, the lowest among evaluated open-weight models in the model card’s Open ASR comparison.\nLong-form: 10.98% mean WER, also the lowest in that comparison.\nFigure 1. Nemotron 3.5 Transcribe ranks first among open-weight models on the Hugging Face Open ASR Leaderboard (English) at 5.33% average WER, with API models excluded. Lower WER means fewer transcription errors.\nArtificial Analysis Speech-to-Text Leaderboard. Artificial Analysis independently ranks speech-to-text models by AA-WER, its word error rate index. Nemotron 3.5 Transcribe ties for first among open-weight models at 2.8% AA-WER, with about 4B active parameters versus 24B for the model it ties. On AA-AgentTalk, the held-out voice-agent speech set that makes up 50% of the AA-WER index, Transcribe scores 1.8% WER, versus 2.3% for the next-best open-weight model. Transcribe pairs its speech encoder with a hybrid Mamba–Transformer mixture-of-experts language model, so only about 4B of its 30B parameters are active per token. That puts it on Artificial Analysis ’s open-weight Pareto frontier of accuracy versus active parameters. On AA’s all-model chart, it ranks ahead of several widely used proprietary speech APIs.\nFigure 2. Leading AA accuracy at about one-sixth the active parameters: Nemotron 3.5 Transcribe achieves 2.80% AA-WER with approximately 4B active parameters.\nSpeaker attribution across languages and overlap. Sortformer speaker cues reach the language model with the acoustic features, so Transcribe can tag each turn during generation instead of relying solely on a later step to attach speakers to words.\nDavid AI DAI-ASR-I18N Leaderboard. On David AI’s DAI-ASR-I18N combined transcription-and-speaker-attribution track , Transcribe ranks first among evaluated open-weight models and second overall. On the benchmark’s diarization track, which scores who spoke when across 21 languages, it has the lowest diarization error rate of the 14 systems tested, slightly ahead of NVIDIA’s dedicated Nemotron 3 Diarization model.\nFigure 3. NVIDIA models hold the top two spots on David AI’s multilingual diarization leaderboard : Nemotron 3.5 Transcribe posts the lowest overall diarization error rate (DER), 18.26% across 21 languages, followed by Nemotron 3 Diarization at 18.38%. DER measures speaker-time errors; lower is better.\nVoiceArena Diarization-Bench. On VoiceArena’s English full-session benchmark , Transcribe posts the lowest concatenated minimum-permutation WER (cpWER) of 14 systems and ranks first in both in-person and online settings. It also drops the fewest words: deleti",
+ "id": "R2-2026-10-29",
+ "caption_final": "How to automate WhatsApp voice note orders for Indian small businesses using open AI models. If your hardware shop or distribution business gets chaotic voice notes on WhatsApp, manually jotted items lead to billing errors. Nvidia Nemotron 3.5 Transcribe is an open-weight speech model supporting 40 languages. It requires a developer or tech partner to deploy via Hugging Face, but once integrated, it can auto-transcribe regional speech and extract item lists. Has your business tried automated voice transcription yet? Comment ORDER for the model guide.\n\n#WhatsAppAutomation #BusinessAutomation #AIForBusiness #VoiceToText"
+}
