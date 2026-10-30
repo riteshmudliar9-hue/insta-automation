@@ -18,7 +18,7 @@
     "ig_reels_avg_watch_time": 6470,
     "ig_reels_video_view_total_time": 51764
    },
-   "fetched": "2026-10-29T18:10:10.290969"
+   "fetched": "2026-10-30T18:02:14.464007"
   },
   "17986761333084821": {
    "id": "R3-2026-10-24",
@@ -38,7 +38,7 @@
     "ig_reels_avg_watch_time": 5815,
     "ig_reels_video_view_total_time": 157018
    },
-   "fetched": "2026-10-29T18:10:10.755190"
+   "fetched": "2026-10-30T18:02:14.888815"
   },
   "18340036819273934": {
    "id": "C2-2026-10-24",
@@ -58,7 +58,7 @@
     "profile_visits": 0,
     "follows": 0
    },
-   "fetched": "2026-10-29T18:10:11.218568"
+   "fetched": "2026-10-30T18:02:15.231818"
   },
   "18061930895631903": {
    "id": "C1-2026-10-24",
@@ -78,7 +78,7 @@
     "profile_visits": 0,
     "follows": 0
    },
-   "fetched": "2026-10-29T18:10:11.657226"
+   "fetched": "2026-10-30T18:02:15.582123"
   },
   "18095704943246132": {
    "id": "C3-2026-10-24",
@@ -98,7 +98,7 @@
     "profile_visits": 0,
     "follows": 0
    },
-   "fetched": "2026-10-29T18:10:12.099573"
+   "fetched": "2026-10-30T18:02:15.920149"
   },
   "18119016835995041": {
    "id": "C2-2026-10-25",
@@ -118,7 +118,7 @@
     "profile_visits": 1,
     "follows": 0
    },
-   "fetched": "2026-10-29T18:10:12.609235"
+   "fetched": "2026-10-30T18:02:16.322060"
   },
   "18079498841712347": {
    "id": "C4-2026-10-25",
@@ -138,7 +138,7 @@
     "profile_visits": 0,
     "follows": 0
    },
-   "fetched": "2026-10-29T18:10:13.340247"
+   "fetched": "2026-10-30T18:02:16.746500"
   },
   "18144724249610082": {
    "id": "C3-2026-10-25",
@@ -158,7 +158,7 @@
     "profile_visits": 0,
     "follows": 0
    },
-   "fetched": "2026-10-29T18:10:13.765048"
+   "fetched": "2026-10-30T18:02:17.133839"
   },
   "18636524926049964": {
    "id": "R1-2026-10-26",
@@ -178,7 +178,7 @@
     "ig_reels_avg_watch_time": 3920,
     "ig_reels_video_view_total_time": 246974
    },
-   "fetched": "2026-10-29T18:10:14.237712"
+   "fetched": "2026-10-30T18:02:17.458949"
   },
   "18170614912476873": {
    "id": "C1-2026-10-26",
@@ -198,7 +198,7 @@
     "profile_visits": 0,
     "follows": 0
    },
-   "fetched": "2026-10-29T18:10:14.718011"
+   "fetched": "2026-10-30T18:02:17.787555"
   },
   "18102419912561396": {
    "id": "R3-2026-10-28",
@@ -215,10 +215,10 @@
     "shares": 0,
     "saved": 0,
     "total_interactions": 1,
-    "ig_reels_avg_watch_time": 3593,
-    "ig_reels_video_view_total_time": 122167
+    "ig_reels_avg_watch_time": 3561,
+    "ig_reels_video_view_total_time": 124635
    },
-   "fetched": "2026-10-29T18:10:15.608077"
+   "fetched": "2026-10-30T18:02:18.084899"
   },
   "17989989126078110": {
    "id": "C1-2026-10-28",
@@ -238,7 +238,7 @@
     "profile_visits": 0,
     "follows": 0
    },
-   "fetched": "2026-10-29T18:10:16.051185"
+   "fetched": "2026-10-30T18:02:18.438941"
   },
   "18105185309634006": {
    "id": "C1-2026-10-29",
@@ -248,8 +248,8 @@
    "topic": "Bulk-cleaning messy customer phone numbers and GSTIN entries using AI Apps Script",
    "date": "2026-10-29",
    "metrics": {
-    "reach": 2,
-    "views": 9,
+    "reach": 3,
+    "views": 11,
     "likes": 2,
     "comments": 0,
     "shares": 0,
@@ -258,7 +258,27 @@
     "profile_visits": 0,
     "follows": 0
    },
-   "fetched": "2026-10-29T18:10:16.548469"
+   "fetched": "2026-10-30T18:02:18.796422"
+  },
+  "17914894887513259": {
+   "id": "C1-2026-10-30",
+   "kind": "carousel",
+   "format": "demo",
+   "hook": "Edit invoices and sheets directly inside Google Gemini.",
+   "topic": "Direct editing of business PDFs and Sheets inside Gemini chat",
+   "date": "2026-10-30",
+   "metrics": {
+    "reach": 2,
+    "views": 4,
+    "likes": 1,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 1,
+    "profile_visits": 0,
+    "follows": 0
+   },
+   "fetched": "2026-10-30T18:02:19.187921"
   }
  },
  "account": [
@@ -302,6 +322,12 @@
    "date": "2026-10-29",
    "followers_count": 2,
    "media_count": 15,
+   "id": "29357876020471934"
+  },
+  {
+   "date": "2026-10-30",
+   "followers_count": 2,
+   "media_count": 16,
    "id": "29357876020471934"
   }
  ]
