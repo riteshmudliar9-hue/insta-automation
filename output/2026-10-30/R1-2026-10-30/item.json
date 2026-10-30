@@ -1,0 +1,241 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Converting voice notes to formatted client requirements and tasks using audio AI dictation",
+  "angle": "Turn client WhatsApp voice notes into structured daily work lists automatically without retyping.",
+  "audience_problem": "Traders and contractors receive dozens of chaotic voice messages from clients on WhatsApp and forget key deliverables.",
+  "format": "manual_vs_auto",
+  "medium": "reel",
+  "source_ids": [
+   5
+  ],
+  "evergreen": true,
+  "keywords": [
+   "Voice AI",
+   "WhatsApp Voice Notes",
+   "Dictation",
+   "Task List",
+   "Client Management"
+  ],
+  "scores": {
+   "relevance": 10,
+   "novelty": 8,
+   "hook_potential": 9,
+   "retention": 9,
+   "save_share": 9,
+   "feasibility": 9,
+   "evidence": 8,
+   "viral": 9
+  },
+  "total": 8.92
+ },
+ "piece": {
+  "hooks": [
+   "Client ke voice notes retype mat karo. Ye dekho.",
+   "WhatsApp pe heavy typing band karo. Bas bolte jao.",
+   "Voice notes se client summary ready karne ka shortcut.",
+   "Voice typing ke liye alag se paise mat do.",
+   "Mac users ke liye zero-cost AI voice typing tool."
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "Directly targets a specific pain point (retyping messy audio messages from clients) with immediate visual intrigue.",
+  "title": "Convert Voice Notes into Formatted Text with Granola",
+  "scenes": [
+   {
+    "purpose": "Hook and immediate problem definition",
+    "narration": "Client ke voice notes retype mat karo. Ye dekho.",
+    "on_screen": "Stop Retyping Voice Notes",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "Manual Typing",
+    "right_label": "Granola AI",
+    "rows": [
+     {
+      "left": "Listen & retype",
+      "right": "Press Fn & speak"
+     },
+     {
+      "left": "Fix messy text",
+      "right": "Auto clean format"
+     }
+    ]
+   },
+   {
+    "purpose": "Clarify OS compatibility early",
+    "narration": "Agar aap Mac user ho, to Granola app se free dictation try karo.",
+    "on_screen": "Currently Mac Only",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Free Unlimited Dictation On Mac",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Explain the step-by-step mechanism",
+    "narration": "Fn key dabao, bolo, aur AI speech clean karke text format kar dega.",
+    "on_screen": "Press Fn And Speak",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "Press Fn Key",
+     "Speak Dictation",
+     "AI Formats Text",
+     "Auto Paste"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Show app versatility",
+    "narration": "Ye kisi bhi app mein kaam karta hai, WhatsApp messages se email tak.",
+    "on_screen": "Works In All Apps",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "WhatsApp Business Replies",
+     "Client Quotations Email",
+     "Prompt Drafting",
+     "Daily Notes"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Future availability and comment call to action",
+    "narration": "Windows aur iOS update jald aayega. Comment DICTATE, main link bhej dunga.",
+    "on_screen": "Comment DICTATE Below",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Comment DICTATE For Direct Link",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "How to convert voice dictation into formatted text automatically using free AI on Mac. Typing long client requirements or email quotations manually takes up unnecessary effort. Granola now offers free unlimited voice dictation on Mac. Press the Fn key, speak naturally, and the tool cleans up speech and formats text directly inside any app like WhatsApp or Mail. Windows and iOS support is arriving soon. Have you tried voice dictation for writing business emails yet? Comment DICTATE for the link.",
+  "hashtags": [
+   "#VoiceAI",
+   "#MacTools",
+   "#SmallBusinessAutomation",
+   "#DictationApp",
+   "#Granola"
+  ],
+  "keywords": [
+   "Granola AI",
+   "voice dictation",
+   "Mac productivity",
+   "client voice notes",
+   "dictation tool"
+  ],
+  "claims": [
+   {
+    "claim": "Granola launched a free voice dictation feature on Mac that cleans and formats spoken text across apps.",
+    "source_id": 5
+   },
+   {
+    "claim": "Dictation works by pressing the Fn key and supports unlimited words for free.",
+    "source_id": 5
+   },
+   {
+    "claim": "Granola voice dictation feature is currently on Mac and coming soon to iOS and Windows.",
+    "source_id": 5
+   }
+  ],
+  "dm_keyword": "DICTATE",
+  "dm_text": "Here is the details for Granola free AI voice dictation setup:\n\n1. Works on Mac by pressing the 'Fn' key.\n2. Cleans up filler words and formats speech automatically.\n3. Works across all apps including WhatsApp, Mail, and document editors.\n4. Unlimited words available for free.\n5. Note: iOS and Windows versions are coming soon.\n\nSource: https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/"
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 9,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 8,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "Granola launched a free voice dictation feature on Mac that cleans and formats spoken text across apps.",
+    "supported": true
+   },
+   {
+    "claim": "Dictation works by pressing the Fn key and supports unlimited words for free.",
+    "supported": true
+   },
+   {
+    "claim": "Granola voice dictation feature is currently on Mac and coming soon to iOS and Windows.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Scene 1: The comparison table is clean but the text 'Listen & retype' vs 'Press Fn & speak' could be more visually distinct to emphasize the benefit.",
+   "Scene 3: The flow diagram is clear, but ensure the 'Auto Paste' step is highlighted as the final action to avoid confusion about where the text goes."
+  ],
+  "issues": [
+   "The narration is solid, but ensure the Hinglish flows naturally; 'retype mat karo' is good, but ensure the tone remains professional for SMB owners.",
+   "The call to action is clear, but verify that the DM automation is ready to handle the 'DICTATE' keyword immediately upon posting."
+  ],
+  "fix_instructions": "1. In Scene 1, bold the 'Granola AI' column header or use a slightly brighter color to make the 'better' option pop. 2. In Scene 3, add a small visual indicator (like a cursor icon) next to 'Auto Paste' to show the user that the text appears automatically in their active window. 3. Ensure the transition between Scene 2 and 3 is snappy so the viewer doesn't lose interest before the 'how-to' starts. 4. Otherwise, this is ready to publish."
+ },
+ "rules": [],
+ "reasons": [
+  "reel is 48.0 s long (max 45 s; aim for 15-35 s)"
+ ],
+ "meta": {
+  "duration": 48.0,
+  "voice": "gemini",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-30/R1-2026-10-30/try3/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-30/R1-2026-10-30/try3/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-30/R1-2026-10-30/try3/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-30/R1-2026-10-30/try3/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-30/R1-2026-10-30/try3/scene_05.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   3.16,
+   12.04,
+   3.8,
+   14.32,
+   14.73
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-10-30/R1-2026-10-30/try3",
+ "attempt": 3,
+ "approved": false,
+ "hook": "Client ke voice notes retype mat karo. Ye dekho.",
+ "log": [
+  "attempt 1: fail {'hook': 4, 'originality': 4, 'practical_value': 3, 'natural_language': 7, 'accuracy': 4, 'narrative': 4, 'visual_integrity': 4, 'pacing': 5, 'brand_consistency': 5, 'publish_readiness': 2} ['scene 1: compare needs rows', 'hook 4/10 (<8)', 'originality 4/10 (<8)', 'practical_value 3/10 (<8)']",
+  "attempt 2: fail {'hook': 6, 'originality': 5, 'practical_value': 6, 'natural_language': 7, 'accuracy': 9, 'narrative': 6, 'visual_integrity': 5, 'pacing': 6, 'brand_consistency': 7, 'publish_readiness': 5} ['hook 6/10 (<8)', 'originality 5/10 (<8)', 'practical_value 6/10 (<8)', 'natural_language 7/10 (<8)']",
+  "attempt 3: fail {'hook': 8, 'originality': 7, 'practical_value': 9, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 8, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} ['reel is 48.0 s long (max 45 s; aim for 15-35 s)']",
+  "attempt 4: fail {'hook': 7, 'originality': 5, 'practical_value': 5, 'natural_language': 7, 'accuracy': 6, 'narrative': 6, 'visual_integrity': 4, 'pacing': 6, 'brand_consistency': 7, 'publish_readiness': 4} ['hook 7/10 (<8)', 'originality 5/10 (<8)', 'practical_value 5/10 (<8)', 'natural_language 7/10 (<8)']"
+ ],
+ "material": "[5] TechCrunch AI — Granola crunches up a dictation feature to compete with Wispr\nURL: https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/\n–:–:–:– Buy One Founder Summit Ticket, Get a Second for Free. Register now.\nDisrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off. REGISTER NOW.\nApps in the consumer voice AI world seem to be converging, as Granola , known for its meeting notetaker, launched a dictation feature today. This comes months after Wispr, known for its dictation tool, launched a meeting notetaker .\nGranola’s dictation currently works on Mac just like any other such tool. Users can press the “Fn” key and start speaking, and the tool cleans up and formats their speech and posts the final text. This feature works across all apps, so users can post notes, dictate prompts, and reply to emails and messages.\nGranola now does voice typing. Unlimited words, for free. Granola already writes your meeting notes. Now it can do the typing for you, in any app. pic.twitter.com/et60VtwWA0\nThe company said that the feature will land on iOS and Windows soon.\nGranola and Wispr are valued at $1.5 billion and $2 billion , respectively. Granola is focused on meeting-related automation and notetaking. On the other hand, Wispr is trying to build its own models through a research lab, which is exploring different human-computer interfaces.\nThe feature mashups are not exclusive to Granola and Wispr. Other voice startups such as Fireflies , Speechify , and Monologue have converged into multifeature apps with meeting notetaking and dictation capabilities. Until earlier in the year, the play was around having a focused app that does one thing well. But now, all of these apps are thinking about how to get more out of capturing users’ speech.\nBuy One Pass, Get a Second Free Cover more ground at TechCrunch’s ultimate founder bootcamp of the year by bringing your co-founder or partner for free Book before the BOGO deal expires\nSubscribe for the industry’s biggest tech news\nApps Meta quietly launches an AI fashion app called Style Sketch\nApps As AI agents reshape the web, Google opens Gemini and Search to more apps\nApps Meta has a new AI pet app called Waddle World\nAI AWS will be a $1T business, Jassy says. But first, it will spend big.\nAI As search traffic dries up, Reddit announces it’s shifting to a logged-in experience\nTransportation Rivian expands joint venture with VW to include AI assistant",
+ "id": "R1-2026-10-30",
+ "caption_final": "How to convert voice dictation into formatted text automatically using free AI on Mac. Typing long client requirements or email quotations manually takes up unnecessary effort. Granola now offers free unlimited voice dictation on Mac. Press the Fn key, speak naturally, and the tool cleans up speech and formats text directly inside any app like WhatsApp or Mail. Windows and iOS support is arriving soon. Have you tried voice dictation for writing business emails yet? Comment DICTATE for the link.\n\n#VoiceAI #MacTools #SmallBusinessAutomation #DictationApp #Granola"
+}

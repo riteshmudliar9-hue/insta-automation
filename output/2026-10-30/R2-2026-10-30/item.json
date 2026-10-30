@@ -1,0 +1,257 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Generating polished client project proposals and pitch slides in 3 minutes using AI presentation builders",
+  "angle": "Stop spending hours alignment-tweaking slides; let structured AI presentation tools turn raw specs into formatted client decks.",
+  "audience_problem": "Contractors and agency owners lose hours formatting quotation slide decks instead of closing deals.",
+  "format": "demo",
+  "medium": "reel",
+  "source_ids": [
+   63
+  ],
+  "evergreen": true,
+  "keywords": [
+   "AI Presentation",
+   "Slide Generation",
+   "Client Proposals",
+   "Pitch Decks",
+   "Workflow"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 7,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 9,
+   "evidence": 8,
+   "viral": 9
+  },
+  "total": 8.57
+ },
+ "piece": {
+  "hooks": [
+   "Quotation slides banane mein ghanton mat lagao. Ye dekho.",
+   "Client deck ke liye PowerPoint mat use karo. Ye try karo.",
+   "Client presentation banane mein ghanton lagte hain? Isko try karo.",
+   "Agar aap abhi bhi client decks manually bana rahe ho, ye dekho.",
+   "Stop making quotation slides in PowerPoint. Iski jagah ye karo."
+  ],
+  "chosen_hook": 3,
+  "hook_reason": "Directly targets contractors and owners who waste hours manually formatting proposal slides, using a proven high-performing scroll-stopper pattern.",
+  "title": "Build Client Decks in 3 Minutes with AI",
+  "scenes": [
+   {
+    "purpose": "Hook audience on manual pitch deck struggle",
+    "narration": "Agar aap abhi bhi client decks manually bana rahe ho, ye dekho.",
+    "on_screen": "Stop Manual Slide Design",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Manual Slides Take Hours",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Compare manual PPT creation vs AI decks",
+    "narration": "Ghanton alignment aur formatting karne ki bajaye AI direct polished slides banayega.",
+    "on_screen": "Manual Vs AI Decks",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "Manual PPT",
+    "right_label": "AI Presentation",
+    "rows": [
+     {
+      "left": "2 Hours Formatting",
+      "right": "3 Min Generation"
+     },
+     {
+      "left": "Manual Layouts",
+      "right": "Auto Visual Themes"
+     }
+    ]
+   },
+   {
+    "purpose": "Introduce Gamma AI step by step",
+    "narration": "Gamma app mein bas apna project topic aur slide count enter karo.",
+    "on_screen": "Gamma Presentation AI",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "Enter Project Topic",
+     "Select Slide Count",
+     "Review Outline"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Demonstrate slide controls in Gamma",
+    "narration": "Ye pehle outline dikhayega. Phir text density aur image style set kar lo.",
+    "on_screen": "Gamma AI Controls",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Adjust Text Density",
+     "Choose Image Style",
+     "Generate Full Deck"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Deliver honest limits and CTA",
+    "narration": "Dhyan rahe, free plan mein AI credits refill nahi hote. Comment DECK, main details DM kar dunga.",
+    "on_screen": "Comment DECK For Info",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Free Credits Do Not Refill",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "How to make client pitch presentation decks using AI in 3 minutes. Formatting quotation decks and client presentations takes hours of manual work in PowerPoint. Using dedicated AI tools like Gamma, you can type your topic, review an auto-generated outline, and create formatted slides in minutes. You can customize text density and visual image styles before generating. Remember that Gamma free plan does not refill AI credits monthly, so use them carefully on actual client pitches. Do you currently spend more than an hour formatting client proposal decks? Comment DECK for details.",
+  "hashtags": [
+   "#PresentationAI",
+   "#PitchDeck",
+   "#SmallBusinessIndia",
+   "#ContractorTools"
+  ],
+  "keywords": [
+   "AI presentation maker",
+   "Gamma presentation AI",
+   "client proposal deck",
+   "pitch deck generator",
+   "business presentation tool"
+  ],
+  "claims": [
+   {
+    "claim": "Gamma builds presentations, documents, social media carousels, websites, and handles image generation.",
+    "source_id": 63
+   },
+   {
+    "claim": "When generating with AI in Gamma, typing topic and choosing slide count generates an outline first.",
+    "source_id": 63
+   },
+   {
+    "claim": "Gamma allows adjusting text density per slide and setting prompts for image style.",
+    "source_id": 63
+   },
+   {
+    "claim": "AI credits do not refill monthly on Gamma free plan.",
+    "source_id": 63
+   },
+   {
+    "claim": "Gamma has a free plan available without AI features, and paid plans start from $12 per month.",
+    "source_id": 63
+   }
+  ],
+  "dm_keyword": "DECK",
+  "dm_text": "Here is how to build client pitch decks faster using Gamma AI: 1. Enter your project topic and required slide count into Gamma. 2. Review and adjust the generated presentation outline. 3. Set text density per slide and image style prompts. 4. Generate the full formatted deck automatically. Note: Gamma offers a free plan, but AI credits do not refill monthly on the free tier. Paid plans start from $12/month."
+ },
+ "review": {
+  "scores": {
+   "hook": 7,
+   "originality": 6,
+   "practical_value": 7,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 8,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 7
+  },
+  "claims": [
+   {
+    "claim": "Gamma builds presentations, documents, social media carousels, websites, and handles image generation.",
+    "supported": true,
+    "note": "Supported by source text."
+   },
+   {
+    "claim": "When generating with AI in Gamma, typing topic and choosing slide count generates an outline first.",
+    "supported": true,
+    "note": "Supported by source text."
+   },
+   {
+    "claim": "Gamma allows adjusting text density per slide and setting prompts for image style.",
+    "supported": true,
+    "note": "Supported by source text."
+   },
+   {
+    "claim": "AI credits do not refill monthly on Gamma free plan.",
+    "supported": true,
+    "note": "Supported by source text."
+   },
+   {
+    "claim": "Gamma has a free plan available without AI features, and paid plans start from $12 per month.",
+    "supported": true,
+    "note": "Supported by source pricing details."
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [],
+  "issues": [
+   "The reel uses abstract graphic cards instead of actual screenshots of the Gamma interface, which lowers tangible demonstration value."
+  ],
+  "fix_instructions": "The script and visual design are solid and accurate. To elevate the post further, incorporate actual UI screenshots or screen recordings of Gamma showing the outline generation and text density slider in scenes 3 and 4."
+ },
+ "rules": [],
+ "reasons": [
+  "hook 7/10 (<8)",
+  "originality 6/10 (<8)",
+  "practical_value 7/10 (<8)"
+ ],
+ "meta": {
+  "duration": 33.5,
+  "voice": "edge",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-30/R2-2026-10-30/try3/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-30/R2-2026-10-30/try3/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-30/R2-2026-10-30/try3/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-30/R2-2026-10-30/try3/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-30/R2-2026-10-30/try3/scene_05.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   5.2,
+   6.76,
+   5.63,
+   7.07,
+   8.87
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-10-30/R2-2026-10-30/try3",
+ "attempt": 3,
+ "approved": false,
+ "hook": "Agar aap abhi bhi client decks manually bana rahe ho, ye dekho.",
+ "log": [
+  "attempt 1: fail {'hook': 6, 'originality': 5, 'practical_value': 5, 'natural_language': 6, 'accuracy': 6, 'narrative': 5, 'visual_integrity': 6, 'pacing': 5, 'brand_consistency': 6, 'publish_readiness': 5} ['hook 6/10 (<8)', 'originality 5/10 (<8)', 'practical_value 5/10 (<8)', 'natural_language 6/10 (<8)']",
+  "attempt 2: fail {'hook': 6, 'originality': 5, 'practical_value': 6, 'natural_language': 6, 'accuracy': 7, 'narrative': 6, 'visual_integrity': 5, 'pacing': 6, 'brand_consistency': 6, 'publish_readiness': 5} ['hook 6/10 (<8)', 'originality 5/10 (<8)', 'practical_value 6/10 (<8)', 'natural_language 6/10 (<8)']",
+  "attempt 3: fail {'hook': 7, 'originality': 6, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 7/10 (<8)']",
+  "attempt 4: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 7, 'publish_readiness': 7} ['originality 7/10 (<8)', 'visual_integrity 7/10 (<8)']"
+ ],
+ "material": "[63] Zapier Blog — The 6 best AI presentation makers in 2026\nURL: https://zapier.com/blog/best-ai-presentation-maker\nWe independently review every app we recommend in our best apps lists. When you click some of the links on this page, we may earn a commission. Learn more .\nThe days of spending hours dragging images to just the right place on a slide are far behind us. You can now create a presentation with AI, giving the robots the job of setting the structure, adding the initial content, and executing on the aesthetics of your deck. All you have to do is tweak it with your information, human insights, and flair—and rehearse it a bit before the big performance.\nI spent a month testing all the best presentation software, focusing on the ones that use AI in a way that will help you get the presentation you want faster. Based on all my testing, these are the best AI presentation apps.\nCanva for an all-in-one presentation and design platform\nBeautiful.ai for updating stats over time\nChronicle for clean design and widget-based editing\nPrezi for non-linear, zoomable presentations\nWhat makes the best AI presentation-making software?\nOur best apps roundups are written by humans who've spent much of their careers using, testing, and writing about software. Unless explicitly stated, we spend dozens of hours researching and testing apps, using each app as it's intended to be used and evaluating it against the criteria we set for the category. We're never paid for placement in our articles from any app or for links to any site—we value the trust readers put in us to offer authentic evaluations of the categories and apps we review. For more details on our process, read the full rundown of how we select apps to feature on the Zapier blog .\nTraditional presentation apps offer tools to create as many slides as you need, letting you combine text, images, and animations to support your monthly stats report or pitch deck. Over time, these platforms launched templates with fixed content that you can replace, a starting point to help you save time.\nBut with AI in the mix, you can get personalized content that better matches your objective. This can both save time and open up new angles, showing you topics you could talk about to make it more thorough and engaging. The best AI presentation makers should have a good balance between providing a viable (and somewhat accurate) first draft and tools to quickly help you edit, refine, and polish.\nHere's what I looked for to find the best presentation maker:\nAI content generation. Be it text or images, the content needs to make sense when considering your prompt or instructions.\nSpeed. The point of these apps is to save time, not add complexity. I measured how quick and easy it was to get from the dashboard to a presentation I could edit.\nCustomization. Ideally, a full kit of customization tools, but I also looked for user experiences with fewer, more direct settings to edit the most important parts.\nExporting and integrations. Just in case you need to present it somewhere else, send it via email, or collaborate with your team.\nPricing. Unless developing presentations is your entire job description, you shouldn't be paying a lot for this speed boost.\nI spent a fun month signing up for the 40+ apps on my list, checking out their AI abilities and prompting my way to dozens of presentations on random topics. In the end, I was able to narrow it down to my six top picks.\nWhat about Microsoft Copilot for PowerPoint and Google Gemini for Google Slides?\nMicrosoft PowerPoint and Google Slides have AI features, the former through Copilot and the latter via Gemini . They were part of this list in the past, but the competition is now fierce: new AI presentation builders offer high output quality and a smooth user experience that neither tech giant has been able to fully achieve yet.\nI decided to remove both from the list to make space for new options and to save you some time when making a choice. That being said, if you have a Microsoft or Google subscription, be sure to check out their AI feature sets: they might fit your needs if you're an extremely casual user.\nBoth OpenAI and Anthropic have been rolling out their tools for building presentations in their chatbot apps. If you already subscribe to either ChatGPT or Claude, start a new chat and ask for a presentation to see if the output matches your needs.\nChatGPT takes your prompt and puts together a presentation in the .pptx file format, generating the text and slides based on your instructions and attached context. You can keep editing by sending more messages to the agent. When you're ready to present, hit the play button at the top-right, and the app goes into full screen.\nClaude is a few steps ahead. It does everything that ChatGPT currently does, but also generates speaker notes for each slide. You can add elements or edit text manually in the canvas for minor changes, and insert new slides with a predetermined layout, ready to fill.\nThe major advantage of using either option is that you can leverage your existing integrations. When you connect your knowledge from Google Drive or Notion, you can put the agent to work on your data, not on general training or web searches.\nHaving said all that, neither made the cut for this list because their feature sets are limited compared with dedicated AI presentation makers.\nThe best AI presentation makers at a glance\nAdvanced customization settings for visual harmony\nAn all-in-one presentation and design platform\nStrong branding and collaboration features\nFree plan available without AI features; from $12/month\nBest AI presentation maker for beautiful presentations\nAI credits don't refill monthly on the free plan\nIf your team's presentations are missing that special spark, it's time to upgrade: Gamma builds beautiful presentations that make design experts jealous, helping you make all your presentations more engaging without extra effort. And, since it also covers documents, social media carousels, websites, and image generation, it offers a lot of value in a single subscription.\nCurrently in version 5, the Gamma engine offers more visual variety when compared with previous versions, delivering more creative results, especially if you prompt it to impress. But even with a basic prompt, it builds a theme that matches the topic, balancing text-only slides with image slides to make presentations more engaging.\nWhen generating with AI, type in the topic of your presentation and choose the number of slides. First, you get an outline of the presentation to see if it covers everything you need: add or reorganize the cards to choose what you'd like. Scrolling down, the extra knobs let you adjust how much text should be in each slide, determine the image source (automatic, web images, or AI), and add a prompt for the image style.\nThe presentation will stream into digital existence in front of your eyes. No jarring color differences, no weird layouts, no slides more overcrowded than a Taylor Swift concert. The AI-generated images are in line with the color scheme of the theme, blending ",
+ "id": "R2-2026-10-30",
+ "caption_final": "How to make client pitch presentation decks using AI in 3 minutes. Formatting quotation decks and client presentations takes hours of manual work in PowerPoint. Using dedicated AI tools like Gamma, you can type your topic, review an auto-generated outline, and create formatted slides in minutes. You can customize text density and visual image styles before generating. Remember that Gamma free plan does not refill AI credits monthly, so use them carefully on actual client pitches. Do you currently spend more than an hour formatting client proposal decks? Comment DECK for details.\n\n#PresentationAI #PitchDeck #SmallBusinessIndia #ContractorTools"
+}

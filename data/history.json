@@ -248,5 +248,21 @@
   "status": "published",
   "media_id": "18105185309634006",
   "permalink": "https://www.instagram.com/p/DfEDGkgDinR/"
+ },
+ {
+  "id": "C1-2026-10-30",
+  "date": "2026-10-30",
+  "kind": "carousel",
+  "format": "demo",
+  "topic": "Direct editing of business PDFs and Sheets inside Gemini chat",
+  "hook": "Edit invoices and sheets directly inside Google Gemini.",
+  "keywords": [
+   "Google Gemini file editing",
+   "edit sheets in Gemini",
+   "edit PDF in chat",
+   "business invoice automation",
+   "Gemini full screen editor"
+  ],
+  "status": "queued"
  }
 ]

@@ -984,5 +984,48 @@
   "media_id": "18105185309634006",
   "permalink": "https://www.instagram.com/p/DfEDGkgDinR/",
   "published_at": "2026-10-29T09:01:33.254022+05:30"
+ },
+ {
+  "id": "C1-2026-10-30",
+  "kind": "carousel",
+  "date": "2026-10-30",
+  "slot": "2026-10-30T09:00",
+  "dir": "output/2026-10-30/C1-2026-10-30/try2",
+  "files": [
+   "slide_01.jpg",
+   "slide_02.jpg",
+   "slide_03.jpg",
+   "slide_04.jpg",
+   "slide_05.jpg",
+   "slide_06.jpg"
+  ],
+  "caption": "How to edit invoices, rate lists, and spreadsheets directly inside Google Gemini chat without switching tabs.\n\nWhen you ask Gemini to create a stock register or draft a quotation, you no longer have to download it to correct a minor figure. You can expand the file into full-screen mode, highlight the exact table or sentence, and instruct Gemini to recalculate the numbers or turn a table into a graph.\n\nOne practical catch: if you are reviewing on your phone, only PDF editing works right now. For Google Sheets and Docs, use your office desktop browser.\n\nWhich file type do you update most often during the workday: PDFs, Docs, or Sheets?\n\n#GoogleGemini #OfficeProductivity #SmallBusinessTools #BusinessAutomation",
+  "topic": "Direct editing of business PDFs and Sheets inside Gemini chat",
+  "format": "demo",
+  "hook": "Edit invoices and sheets directly inside Google Gemini.",
+  "keywords": [
+   "Google Gemini file editing",
+   "edit sheets in Gemini",
+   "edit PDF in chat",
+   "business invoice automation",
+   "Gemini full screen editor"
+  ],
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "status": "queued",
+  "produced_at": 1793320277,
+  "log": [],
+  "dm_keyword": "",
+  "dm_text": ""
  }
 ]

@@ -1,0 +1,358 @@
+{
+ "date": "2026-10-30",
+ "tag": "2026-10-30",
+ "pilot": false,
+ "sources": 98,
+ "ideas": 14,
+ "idea_list": [
+  {
+   "idea": "Converting voice notes to formatted client requirements and tasks using audio AI dictation",
+   "format": "manual_vs_auto",
+   "total": 8.92,
+   "scores": {
+    "relevance": 10,
+    "novelty": 8,
+    "hook_potential": 9,
+    "retention": 9,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 8,
+    "viral": 9
+   }
+  },
+  {
+   "idea": "Direct editing of business PDFs and Sheets inside Gemini chat",
+   "format": "demo",
+   "total": 8.61,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Generating polished client project proposals and pitch slides in 3 minutes using AI presentation builders",
+   "format": "demo",
+   "total": 8.57,
+   "scores": {
+    "relevance": 9,
+    "novelty": 7,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 8,
+    "viral": 9
+   }
+  },
+  {
+   "idea": "How to verify 'zombie stats' hallucinated by ChatGPT during market research",
+   "format": "problem_fix",
+   "total": 8.45,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Automating high-volume inbound phone lead qualification using AI voice models",
+   "format": "case_study",
+   "total": 8.37,
+   "scores": {
+    "relevance": 8,
+    "novelty": 9,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 8,
+    "evidence": 9,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "How to audit and cap team AI subscription spending before software bloat eats your margins",
+   "format": "checklist",
+   "total": 8.34,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 7,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Why autonomous AI agents shouldn't be given unsupervised access to office files and admin portals",
+   "format": "myth_fact",
+   "total": 8.24,
+   "scores": {
+    "relevance": 8,
+    "novelty": 9,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "Auto-generating a visual digital catalog from existing Instagram shop photos using AI vision apps",
+   "format": "tutorial",
+   "total": 8.2,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 9,
+    "evidence": 8,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Replacing chaotic WhatsApp site update chats with automated AI project tracking software",
+   "format": "tool_test",
+   "total": 8.14,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 8,
+    "evidence": 8,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Using OpenAI Playground instead of ChatGPT chat interface for reliable, structured JSON business outputs",
+   "format": "tutorial",
+   "total": 8.09,
+   "scores": {
+    "relevance": 8,
+    "novelty": 9,
+    "hook_potential": 7,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "Connecting enterprise ERPs and databases directly to ChatGPT for instant inventory queries",
+   "format": "case_study",
+   "total": 7.83,
+   "scores": {
+    "relevance": 8,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 7,
+    "save_share": 8,
+    "feasibility": 8,
+    "evidence": 9,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "Using specialized AI world models vs generic LLMs for construction cost and permit estimations",
+   "format": "tool_test",
+   "total": 7.6,
+   "scores": {
+    "relevance": 8,
+    "novelty": 9,
+    "hook_potential": 7,
+    "retention": 7,
+    "save_share": 8,
+    "feasibility": 8,
+    "evidence": 9,
+    "viral": 6
+   }
+  },
+  {
+   "idea": "The sequence of business growth: Why automating an unvalidated sales process burns money faster",
+   "format": "myth_fact",
+   "total": 7.51,
+   "scores": {
+    "relevance": 8,
+    "novelty": 7,
+    "hook_potential": 7,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 10,
+    "evidence": 8,
+    "viral": 6
+   }
+  },
+  {
+   "idea": "Avoiding the hidden data storage trap when storing vector logs and chat histories for business AI",
+   "format": "problem_fix",
+   "total": 7.24,
+   "scores": {
+    "relevance": 7,
+    "novelty": 8,
+    "hook_potential": 7,
+    "retention": 7,
+    "save_share": 8,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 5
+   }
+  }
+ ],
+ "rejected_ideas": [],
+ "items": [
+  {
+   "id": "R1-2026-10-30",
+   "kind": "reel",
+   "format": "manual_vs_auto",
+   "topic": "Converting voice notes to formatted client requirements and tasks using audio AI dictation",
+   "hook": "Client ke voice notes retype mat karo. Ye dekho.",
+   "approved": false,
+   "attempts": 3,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 9,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 8,
+    "pacing": 9,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [
+    "reel is 48.0 s long (max 45 s; aim for 15-35 s)"
+   ],
+   "log": [
+    "attempt 1: fail {'hook': 4, 'originality': 4, 'practical_value': 3, 'natural_language': 7, 'accuracy': 4, 'narrative': 4, 'visual_integrity': 4, 'pacing': 5, 'brand_consistency': 5, 'publish_readiness': 2} ['scene 1: compare needs rows', 'hook 4/10 (<8)', 'originality 4/10 (<8)', 'practical_value 3/10 (<8)']",
+    "attempt 2: fail {'hook': 6, 'originality': 5, 'practical_value': 6, 'natural_language': 7, 'accuracy': 9, 'narrative': 6, 'visual_integrity': 5, 'pacing': 6, 'brand_consistency': 7, 'publish_readiness': 5} ['hook 6/10 (<8)', 'originality 5/10 (<8)', 'practical_value 6/10 (<8)', 'natural_language 7/10 (<8)']",
+    "attempt 3: fail {'hook': 8, 'originality': 7, 'practical_value': 9, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 8, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} ['reel is 48.0 s long (max 45 s; aim for 15-35 s)']",
+    "attempt 4: fail {'hook': 7, 'originality': 5, 'practical_value': 5, 'natural_language': 7, 'accuracy': 6, 'narrative': 6, 'visual_integrity': 4, 'pacing': 6, 'brand_consistency': 7, 'publish_readiness': 4} ['hook 7/10 (<8)', 'originality 5/10 (<8)', 'practical_value 5/10 (<8)', 'natural_language 7/10 (<8)']"
+   ],
+   "dir": "output/2026-10-30/R1-2026-10-30/try3",
+   "duration": 48.0,
+   "voice": "gemini"
+  },
+  {
+   "id": "R2-2026-10-30",
+   "kind": "reel",
+   "format": "demo",
+   "topic": "Generating polished client project proposals and pitch slides in 3 minutes using AI presentation builders",
+   "hook": "Agar aap abhi bhi client decks manually bana rahe ho, ye dekho.",
+   "approved": false,
+   "attempts": 3,
+   "scores": {
+    "hook": 7,
+    "originality": 6,
+    "practical_value": 7,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 8,
+    "pacing": 8,
+    "brand_consistency": 9,
+    "publish_readiness": 7
+   },
+   "reasons": [
+    "hook 7/10 (<8)",
+    "originality 6/10 (<8)",
+    "practical_value 7/10 (<8)"
+   ],
+   "log": [
+    "attempt 1: fail {'hook': 6, 'originality': 5, 'practical_value': 5, 'natural_language': 6, 'accuracy': 6, 'narrative': 5, 'visual_integrity': 6, 'pacing': 5, 'brand_consistency': 6, 'publish_readiness': 5} ['hook 6/10 (<8)', 'originality 5/10 (<8)', 'practical_value 5/10 (<8)', 'natural_language 6/10 (<8)']",
+    "attempt 2: fail {'hook': 6, 'originality': 5, 'practical_value': 6, 'natural_language': 6, 'accuracy': 7, 'narrative': 6, 'visual_integrity': 5, 'pacing': 6, 'brand_consistency': 6, 'publish_readiness': 5} ['hook 6/10 (<8)', 'originality 5/10 (<8)', 'practical_value 6/10 (<8)', 'natural_language 6/10 (<8)']",
+    "attempt 3: fail {'hook': 7, 'originality': 6, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 7/10 (<8)']",
+    "attempt 4: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 7, 'publish_readiness': 7} ['originality 7/10 (<8)', 'visual_integrity 7/10 (<8)']"
+   ],
+   "dir": "output/2026-10-30/R2-2026-10-30/try3",
+   "duration": 33.5,
+   "voice": "edge"
+  },
+  {
+   "id": "R3-2026-10-30",
+   "kind": "reel",
+   "format": "problem_fix",
+   "topic": "How to verify 'zombie stats' hallucinated by ChatGPT during market research",
+   "hook": "Market research ke liye ChatGPT se numbers maangte ho? Ye dekho.",
+   "approved": false,
+   "attempts": 1,
+   "scores": {
+    "hook": 8,
+    "originality": 8,
+    "practical_value": 9,
+    "natural_language": 9,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 7,
+    "pacing": 8,
+    "brand_consistency": 9,
+    "publish_readiness": 7
+   },
+   "reasons": [
+    "scene 5 narration 19 words (want 4-14)",
+    "visual_integrity 7/10 (<8)"
+   ],
+   "log": [
+    "attempt 1: fail {'hook': 8, 'originality': 8, 'practical_value': 9, 'natural_language': 9, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['scene 5 narration 19 words (want 4-14)', 'visual_integrity 7/10 (<8)']",
+    "attempt 2: fail {'hook': 6, 'originality': 7, 'practical_value': 6, 'natural_language': 7, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['hook 6/10 (<8)', 'originality 7/10 (<8)', 'practical_value 6/10 (<8)', 'natural_language 7/10 (<8)']",
+    "attempt 3: fail {'hook': 7, 'originality': 7, 'practical_value': 6, 'natural_language': 7, 'accuracy': 6, 'narrative': 7, 'visual_integrity': 6, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 6} ['hook 7/10 (<8)', 'originality 7/10 (<8)', 'practical_value 6/10 (<8)', 'natural_language 7/10 (<8)']",
+    "attempt 4: fail {'hook': 4, 'originality': 6, 'practical_value': 4, 'natural_language': 6, 'accuracy': 4, 'narrative': 5, 'visual_integrity': 4, 'pacing': 5, 'brand_consistency': 5, 'publish_readiness': 3} ['scene 5 narration 19 words (want 4-14)', 'hook 4/10 (<8)', 'originality 6/10 (<8)', 'practical_value 4/10 (<8)']"
+   ],
+   "dir": "output/2026-10-30/R3-2026-10-30/try1",
+   "duration": 34.1,
+   "voice": "edge"
+  },
+  {
+   "id": "C1-2026-10-30",
+   "kind": "carousel",
+   "format": "demo",
+   "topic": "Direct editing of business PDFs and Sheets inside Gemini chat",
+   "hook": "Edit invoices and sheets directly inside Google Gemini.",
+   "approved": true,
+   "attempts": 2,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 8,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 9,
+    "pacing": 8,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [],
+   "log": [
+    "attempt 1: fail {'hook': 6, 'originality': 6, 'practical_value': 7, 'natural_language': 6, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 6} ['hook 6/10 (<8)', 'originality 6/10 (<8)', 'practical_value 7/10 (<8)', 'natural_language 6/10 (<8)']",
+    "attempt 2: PASS {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} []"
+   ],
+   "dir": "output/2026-10-30/C1-2026-10-30/try2",
+   "duration": null,
+   "voice": null
+  }
+ ],
+ "llm_calls": {
+  "text": 29,
+  "tts": 24,
+  "failed": 0
+ }
+}

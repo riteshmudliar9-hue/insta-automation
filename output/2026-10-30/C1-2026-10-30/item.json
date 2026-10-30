@@ -1,0 +1,238 @@
+{
+ "kind": "carousel",
+ "idea": {
+  "idea": "Direct editing of business PDFs and Sheets inside Gemini chat",
+  "angle": "Eliminate switching tabs by modifying customer invoices, stock sheets, and rate lists directly inside Google Gemini.",
+  "audience_problem": "Small business owners waste hours opening Excel and PDF editors just to fix small line items or recalculate totals.",
+  "format": "demo",
+  "medium": "both",
+  "source_ids": [
+   10
+  ],
+  "evergreen": true,
+  "keywords": [
+   "Google Gemini",
+   "PDF Editor",
+   "Sheets",
+   "Quotations",
+   "Automation"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 8,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 9,
+   "evidence": 9,
+   "viral": 8
+  },
+  "total": 8.61
+ },
+ "piece": {
+  "hooks": [
+   "Edit invoices and sheets directly inside Google Gemini.",
+   "Stop switching tabs to fix quotation errors.",
+   "Fix mistakes in business files without opening Excel."
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "It clearly names the tool and the exact practical task small business owners deal with daily.",
+  "slides": [
+   {
+    "kind": "cover",
+    "title": "Edit invoices and sheets directly inside Google Gemini.",
+    "subtitle": "Update rate lists, supplier PDFs, and spreadsheets without switching apps.",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "point",
+    "title": "No more downloading to edit",
+    "subtitle": "",
+    "body": "Say you draft a material quotation in Gemini. Earlier, you had to export it to fix one rate. Now you can edit it directly inside your chat.",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "steps",
+    "title": "How to edit files in Gemini",
+    "subtitle": "",
+    "body": "",
+    "items": [
+     "Generate your document, sheet, or PDF in chat",
+     "Click expand to open the full-screen editor",
+     "Highlight any table, text, or line item",
+     "Prompt Gemini to recalculate or reformat directly"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "compare",
+    "title": "Old workflow vs in-chat editing",
+    "subtitle": "",
+    "body": "",
+    "items": [],
+    "left_label": "Old manual way",
+    "right_label": "Inside Gemini",
+    "rows": [
+     {
+      "left": "Download file to desktop",
+      "right": "Open full-screen in chat"
+     },
+     {
+      "left": "Launch Excel or Acrobat",
+      "right": "Highlight text on screen"
+     },
+     {
+      "left": "Manually recalculate totals",
+      "right": "Prompt AI to update live"
+     },
+     {
+      "left": "Re-export and attach again",
+      "right": "Save or download once"
+     }
+    ],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "point",
+    "title": "Check this limit before starting",
+    "subtitle": "",
+    "body": "PDF preview and editing works on web and mobile. But editing Google Sheets, Docs, and slide decks is currently limited to the web browser version.",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "summary",
+    "title": "Key rules for file editing",
+    "subtitle": "",
+    "body": "",
+    "items": [
+     "Supported formats include Docs, Sheets, and PDFs",
+     "Use full-screen mode for line-item tweaks",
+     "Highlight specific tables to trigger updates",
+     "Use a desktop browser for spreadsheets"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   }
+  ],
+  "caption": "How to edit invoices, rate lists, and spreadsheets directly inside Google Gemini chat without switching tabs.\n\nWhen you ask Gemini to create a stock register or draft a quotation, you no longer have to download it to correct a minor figure. You can expand the file into full-screen mode, highlight the exact table or sentence, and instruct Gemini to recalculate the numbers or turn a table into a graph.\n\nOne practical catch: if you are reviewing on your phone, only PDF editing works right now. For Google Sheets and Docs, use your office desktop browser.\n\nWhich file type do you update most often during the workday: PDFs, Docs, or Sheets?",
+  "hashtags": [
+   "#GoogleGemini",
+   "#OfficeProductivity",
+   "#SmallBusinessTools",
+   "#BusinessAutomation"
+  ],
+  "keywords": [
+   "Google Gemini file editing",
+   "edit sheets in Gemini",
+   "edit PDF in chat",
+   "business invoice automation",
+   "Gemini full screen editor"
+  ],
+  "claims": [
+   {
+    "claim": "Gemini allows users to generate, preview, and edit PDFs, Google Docs, Sheets, slide decks, Markdown files, TXT files, and code directly inside chat.",
+    "source_id": 10
+   },
+   {
+    "claim": "Users can expand documents into full-screen mode and highlight text or tables to prompt Gemini to make changes directly.",
+    "source_id": 10
+   },
+   {
+    "claim": "PDF previewing and editing works on both web and mobile, while other file formats like Sheets and Docs are currently web-only.",
+    "source_id": 10
+   }
+  ]
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "Gemini allows users to generate, preview, and edit PDFs, Google Docs, Sheets, slide decks, Markdown files, TXT files, and code directly inside chat.",
+    "supported": true,
+    "note": "Directly confirmed by The Verge report covering Gemini's new in-chat editing capabilities."
+   },
+   {
+    "claim": "Users can expand documents into full-screen mode and highlight text or tables to prompt Gemini to make changes directly.",
+    "supported": true,
+    "note": "Supported by the source text describing full-screen mode and text/table highlighting."
+   },
+   {
+    "claim": "PDF previewing and editing works on both web and mobile, while other file formats like Sheets and Docs are currently web-only.",
+    "supported": true,
+    "note": "Supported explicitly by the source article."
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Slide 2 and Slide 5 have substantial empty whitespace below the body paragraph, though text remains legible and within hierarchy guidelines."
+  ],
+  "issues": [
+   "Slide 6 summary slightly repeats the points made on Slide 3 and Slide 5 without adding a distinct closing CTA for save/share."
+  ],
+  "fix_instructions": "The carousel is clean, factually tight, and well-adapted for Indian SMB use cases. To elevate it further before scheduling, add a clear call to action on Slide 6 (e.g., 'Save this guide before drafting your next supplier quotation') and keep the caption question as the primary discussion prompt."
+ },
+ "rules": [],
+ "reasons": [],
+ "meta": {
+  "ai_visuals": false,
+  "slides": 6
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-10-30/C1-2026-10-30/try2",
+ "attempt": 2,
+ "approved": true,
+ "hook": "Edit invoices and sheets directly inside Google Gemini.",
+ "log": [
+  "attempt 1: fail {'hook': 6, 'originality': 6, 'practical_value': 7, 'natural_language': 6, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 6} ['hook 6/10 (<8)', 'originality 6/10 (<8)', 'practical_value 7/10 (<8)', 'natural_language 6/10 (<8)']",
+  "attempt 2: PASS {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} []"
+ ],
+ "material": "[10] The Verge AI — You can generate and edit Google Docs files directly in Gemini chats now\nURL: https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs\nYou can generate and edit Google Docs files directly in Gemini chats now | The Verge Skip to main content The homepage The Verge The Verge logo. The homepage The Verge The Verge logo. Notifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo. Login / Sign Up\nComments Loading comments Getting the conversation ready... AI\nEditing files you generate with Gemini no longer requires leaving the app.﻿\nEditing files you generate with Gemini no longer requires leaving the app.﻿\nStevie Bonifield Oct 29, 2026, 6:45 PM UTC Link\nStevie Bonifield is a news writer covering all things consumer tech. Stevie started out at Laptop Mag writing news and reviews on hardware, gaming, and AI. Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini . The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on both the web and mobile, all other file formats are only in the web version for now.\nGoogle added support for generating and downloading files in Gemini earlier this year, but now you can tweak those files without leaving the Gemini app. Google says you can expand documents to edit them in full-screen mode and highlight text in files to ask Gemini questions or prompt it to make changes to the file, like highlighting a table and asking Gemini to turn it into a graph.\nYou could already use Gemini to edit files with its integrations in Google’s Workspace apps, like the Gemini bar in Google Docs . Anthropic also launched a feature earlier this year that allows users to generate and edit documents and presentations in Claude chats.\nHands-on with Apple’s touchscreen MacBook Pro\nApple finally combined a toaster and a refrigerator\nAnthropic is asking Wall Street to believe in AGI Anthropic’s business plan: Build God or die trying AI has come for Arizona’s water Adam Mosseri says negativity around AI is ‘going to get worse’ Microsoft’s AI future has fewer jobs Tom Warren Oct 29 The NYT Cooking app is testing AI recipe modifications Jess Weatherbed Oct 29 Play Anthropic is asking Wall Street to believe in AGI Nilay Patel Oct 29 Anthropic’s business plan: Build God or die trying Elizabeth Lopatto Oct 29 AI has come for Arizona’s water Gaby Del Valle Oct 29 Adam Mosseri says negativity around AI is ‘going to get worse’ Stevie Bonifield Oct 28 Advertiser Content From This is the title for the native ad\nThe Verge The Verge logo. Sign in to see your notifications or create an account to join the conversation.",
+ "id": "C1-2026-10-30",
+ "caption_final": "How to edit invoices, rate lists, and spreadsheets directly inside Google Gemini chat without switching tabs.\n\nWhen you ask Gemini to create a stock register or draft a quotation, you no longer have to download it to correct a minor figure. You can expand the file into full-screen mode, highlight the exact table or sentence, and instruct Gemini to recalculate the numbers or turn a table into a graph.\n\nOne practical catch: if you are reviewing on your phone, only PDF editing works right now. For Google Sheets and Docs, use your office desktop browser.\n\nWhich file type do you update most often during the workday: PDFs, Docs, or Sheets?\n\n#GoogleGemini #OfficeProductivity #SmallBusinessTools #BusinessAutomation"
+}

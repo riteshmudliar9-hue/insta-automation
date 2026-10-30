@@ -1,0 +1,247 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "How to verify 'zombie stats' hallucinated by ChatGPT during market research",
+  "angle": "ChatGPT quotes outdated or completely fabricated pricing/GST metrics because it synthesizes unverified internet search citations.",
+  "audience_problem": "Business owners trusting ChatGPT for competitive pricing or regulatory compliance get false data that misleads business decisions.",
+  "format": "problem_fix",
+  "medium": "both",
+  "source_ids": [
+   26
+  ],
+  "evergreen": true,
+  "keywords": [
+   "AI Hallucination",
+   "Market Research",
+   "Fact Checking",
+   "Zombie Stats",
+   "ChatGPT Accuracy"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 8,
+   "hook_potential": 8,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 9,
+   "evidence": 9,
+   "viral": 8
+  },
+  "total": 8.45
+ },
+ "piece": {
+  "hooks": [
+   "ChatGPT ke market research numbers par blindly trust mat karo.",
+   "Market research ke liye ChatGPT se numbers maangte ho? Ye dekho.",
+   "ChatGPT se pricing aur stats lene se pehle ye galti mat karo.",
+   "AI jo statistics deta hai, unmein se 60% unreliable hote hain.",
+   "ChatGPT jo stats dikhata hai, unki sachai ye hai."
+  ],
+  "chosen_hook": 1,
+  "hook_reason": "Directly targets small business owners using ChatGPT for market research or pricing, presenting a clear problem with high stopping power.",
+  "title": "How to verify AI market research stats",
+  "scenes": [
+   {
+    "purpose": "Hook",
+    "narration": "Market research ke liye ChatGPT se numbers maangte ho? Ye dekho.",
+    "on_screen": "ChatGPT Stats Warning",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "ChatGPT Numbers Alert",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Problem proof from research",
+    "narration": "AI assistant ke 1285 stats trace karne par pata chala bas 40% original study tak pahunchte hain.",
+    "on_screen": "Only 40% Sourced",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "AI Stat",
+    "right_label": "Reality",
+    "rows": [
+     {
+      "left": "40% stats",
+      "right": "Real study"
+     },
+     {
+      "left": "11% stats",
+      "right": "No study"
+     },
+     {
+      "left": "40% stats",
+      "right": "Locked source"
+     }
+    ]
+   },
+   {
+    "purpose": "Explain citation flaw",
+    "narration": "82% cited pages par number milta hai, lekin original research sirf 21% hoti hai.",
+    "on_screen": "Company Blogs Citation",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "AI Answer",
+     "Company Blog",
+     "No Real Study"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Concrete verification action",
+    "narration": "Aapko source link click karke original research study check karni chahiye.",
+    "on_screen": "Check Original Source",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Click citation link",
+     "Find original paper",
+     "Verify year and sample"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Payoff and CTA",
+    "narration": "ChatGPT numbers verify karne ki step by step guide ke liye, Comment STATS, main aapko guide DM kar dunga.",
+    "on_screen": "Comment STATS for Guide",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Comment STATS",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "How to check if market research numbers from ChatGPT are accurate and sourced. When you ask AI models for market statistics or pricing research, most citations lead to company blogs or roundups rather than actual studies. In fact, research shows only 40% of AI-cited numbers reach an original study, while 11% have no research behind them at all. Always click the citation link and trace it back to the primary source before making key business decisions. Comment STATS for the verification checklist.",
+  "hashtags": [
+   "#MarketResearch",
+   "#ChatGPTForBusiness",
+   "#BusinessData",
+   "#AIResearch"
+  ],
+  "keywords": [
+   "ChatGPT accuracy",
+   "verify AI statistics",
+   "market research tools",
+   "AI hallucination check",
+   "business intelligence"
+  ],
+  "claims": [
+   {
+    "claim": "In a research study tracing 1,285 statistics cited by AI assistants, only 40% led to a matching research study.",
+    "source_id": 26
+   },
+   {
+    "claim": "11% of statistics cited by AI assistants led nowhere at all with no study behind them.",
+    "source_id": 26
+   },
+   {
+    "claim": "82% of pages cited by AI assistants contained the figure, but only 21% of cited pages were original research.",
+    "source_id": 26
+   }
+  ],
+  "dm_keyword": "STATS",
+  "dm_text": "Here is how to verify AI statistics for your business research: 1. AI stats tracing showed only 40% of cited numbers reach a real study, and 11% lead nowhere. 2. 82% of cited pages show the quoted number, but only 21% are original research (most are company blogs). 3. Always click the citation link in ChatGPT to check if it leads to original research or a blog repeating unverified stats."
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 8,
+   "practical_value": 9,
+   "natural_language": 9,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 7,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 7
+  },
+  "claims": [
+   {
+    "claim": "In a research study tracing 1,285 statistics cited by AI assistants, only 40% led to a matching research study.",
+    "supported": true
+   },
+   {
+    "claim": "11% of statistics cited by AI assistants led nowhere at all with no study behind them.",
+    "supported": true
+   },
+   {
+    "claim": "82% of pages cited by AI assistants contained the figure, but only 21% of cited pages were original research.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Scene 2: The table rows are slightly cramped; the 'Locked source' row is visually disconnected from the '40% stats' label.",
+   "Scene 3: The diagram is too simplistic; it needs a clearer visual distinction between the 'AI Answer' and the 'No Real Study' endpoint to show the broken chain effectively.",
+   "Scene 4: The checklist items are a bit generic; adding a small icon or visual cue for 'primary source' would improve clarity."
+  ],
+  "issues": [
+   "The narration in Scene 2 is slightly long for the visual; it might feel rushed.",
+   "The transition between the problem (zombie stats) and the solution (verification) is a bit abrupt.",
+   "The call to action (CTA) is clear but could be more punchy to drive higher engagement."
+  ],
+  "fix_instructions": "1. In Scene 2, shorten the narration to 'AI ke 1285 stats trace kiye, sirf 40% original study tak pahunche.' to improve pacing. 2. In Scene 3, add a red 'X' or broken link icon between the 'Company Blog' and 'No Real Study' boxes to emphasize the failure point. 3. Ensure the font size in the table rows (Scene 2) is consistent and readable on mobile. 4. In the final scene, add a visual 'DM' icon or a small arrow pointing to the comment section to make the CTA more intuitive. 5. Keep the overall design clean but ensure the contrast between the text and the background is high enough for quick reading."
+ },
+ "rules": [
+  "scene 5 narration 19 words (want 4-14)"
+ ],
+ "reasons": [
+  "scene 5 narration 19 words (want 4-14)",
+  "visual_integrity 7/10 (<8)"
+ ],
+ "meta": {
+  "duration": 34.1,
+  "voice": "edge",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-30/R3-2026-10-30/try1/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-30/R3-2026-10-30/try1/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-30/R3-2026-10-30/try1/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-30/R3-2026-10-30/try1/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-10-30/R3-2026-10-30/try1/scene_05.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   5.62,
+   7.78,
+   7.56,
+   5.21,
+   7.94
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-10-30/R3-2026-10-30/try1",
+ "attempt": 1,
+ "approved": false,
+ "hook": "Market research ke liye ChatGPT se numbers maangte ho? Ye dekho.",
+ "log": [
+  "attempt 1: fail {'hook': 8, 'originality': 8, 'practical_value': 9, 'natural_language': 9, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['scene 5 narration 19 words (want 4-14)', 'visual_integrity 7/10 (<8)']",
+  "attempt 2: fail {'hook': 6, 'originality': 7, 'practical_value': 6, 'natural_language': 7, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['hook 6/10 (<8)', 'originality 7/10 (<8)', 'practical_value 6/10 (<8)', 'natural_language 7/10 (<8)']",
+  "attempt 3: fail {'hook': 7, 'originality': 7, 'practical_value': 6, 'natural_language': 7, 'accuracy': 6, 'narrative': 7, 'visual_integrity': 6, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 6} ['hook 7/10 (<8)', 'originality 7/10 (<8)', 'practical_value 6/10 (<8)', 'natural_language 7/10 (<8)']",
+  "attempt 4: fail {'hook': 4, 'originality': 6, 'practical_value': 4, 'natural_language': 6, 'accuracy': 4, 'narrative': 5, 'visual_integrity': 4, 'pacing': 5, 'brand_consistency': 5, 'publish_readiness': 3} ['scene 5 narration 19 words (want 4-14)', 'hook 4/10 (<8)', 'originality 6/10 (<8)', 'practical_value 4/10 (<8)']"
+ ],
+ "material": "[26] Hacker News — Zombie stats: Where the numbers AI quotes come from\nURL: https://trakkr.ai/trakkr-research/zombie-stats\nZombie Stats: Where the Numbers AI Quotes Come From | Trakkr Research Skip to content We asked ChatGPT, Perplexity, Gemini, Claude and Google’s AI Overviews 200 questions that call for a number, the kind people ask every day. 1 Note 1 A statistic is a share, rate, average, count or cost that an assistant states as fact. We left out advice (“save 20% of your income”) and prices. Then we clicked the citations, and kept clicking. Here is one trail, from the answer to the end.\nWhat percentage of salespeople give up after one follow-up?\n44% of salespeople give up after just one follow-up attempt. 1\n44% of salespeople give up after one follow-up attempt (source) .\n80 Percent of Sales Require 5 Follow-up Calls after Meeting; 44 Percent Salespeople Give Up After One Follow-up\nNo study behind it This page cites no research.\nIn the answer Every assistant got the same question: “What percentage of salespeople give up after one follow-up?” All five assistants gave the same figure, and only ChatGPT said the evidence behind it was unclear.\nOne click in Google AI Overviews cited a sales firm’s stats page, from 2020. The number is right there. Its “source” link goes to a writing sample.\nTwo clicks in That leads to a freelance writer’s sample article, online by 2017. The number is in its headline. It lists two slide decks, a blog list and two news stories. None is a study of follow-ups.\nThe end of the trail That’s where the trail ends. We tried every other route to this number we could find, and each one stopped at a page that cites no research. This is what we mean by a zombie stat: a number that keeps getting repeated with no study behind it.\nMost numbers aren’t like this one. The trouble is that you can’t tell which ones are from the answer. This one came with the same confident tone and the same kind of citation as any other, and all five assistants agreed on it. So we followed 1,285 statistics the same way.\nWe took a random sample of the statistics each assistant cited, 1,285 in all, and walked every trail the same way: the cited page, then that page’s source, up to five pages deep. 2 Note 2 Each assistant’s sample was drawn at random from the statistics it cited: ChatGPT 108, Perplexity 277, Gemini 300, Claude 300, Google AI Overviews 300. The five-assistant rate weights each assistant by how many cited statistics it quoted, so it describes the statistics people were shown. Where a page named a source without a link, we searched for it.\n40% reached a study that says the same thing. Another 8% reached the study, but the number or its context had changed on the way. The rest never got there: 40% stopped at a source we couldn’t check, because it was locked, gone or silent on the number, and 11% led nowhere at all. 3 Note 3 An AI model judged every trail, and a stronger one re-judged 300. Then people re-checked 150 trails at random, with a third check wherever the two disagreed. People found originals the model missed: by the model alone, 23% were sourced. Every rate here is corrected with the hand checks, and its range carries the uncertainty from both.\nFour in ten trails reached a study that says the same thing\nEach square is one in a hundred of the 1,285 statistics we traced, sorted by where its trail ended.\n40% Sourced We found the study, and it says the same thing.\n8% Changed We found the study, but the number, who was asked, where or when is different.\n40% Can’t check A page names a real source, but the number isn’t in it, or the source is locked or gone.\n11% Nowhere No study anywhere on the trail. Every page repeats the number and credits no one.\nThe last 1%: trails whose pages wouldn’t load for us.\nChatGPT did best, and quoted the fewest numbers: 1.3 per answer, against 6.8 for Claude. The other four landed between 38% and 46%, too close to rank.\nChatGPT quoted the fewest numbers, and sourced the most\nThe same hundred squares for each assistant, from its own sample of cited statistics.\nTo check this wasn’t down to the questions we picked, we also traced 300 statistics from Google AI Overviews answers to real everyday searches. 40% were sourced, about the same share. 4 Note 4 Google AI Overviews answers to 52,930 everyday English searches that Trakkr tracked between 25 September 2026 and 25 October 2026. 4.4% carried a statistic, and we traced 300 of those the same way. Only counts and rates leave our systems.\nThe AI mostly wasn’t making numbers up. The page it cited had the figure 82% of the time. But only 21% of the pages cited for a number were the original research.\nMore than half were company blogs. Add news stories and statistics roundups and you have most of the citations: pages that repeat figures from somewhere else, often without linking to it.\nHow often each kind of cited page led to the study\nEvery page an assistant cited first for a number, by kind. Each column’s width is its share of those citations. Green is how often its trails reached a study that says the same thing.\nThe first page made a big difference. When a trail started at a research firm or a government page, it reached a matching study 61% of the time. From a company blog, 37%; from a statistics roundup, 35%. Even research firms fell short 38% of the time, often because the full report sat behind a form.\nA citation tells you where the AI found a number, not where the number came from.\nReaching the study didn’t always mean the number held. Of the statistics that got there, 17% had changed on the way. The digits moved only about one time in four. Usually it was the context: what was measured, the year, the source, or who was asked.\nWhat changed, across every change we logged\nIn one case, a 2004 study of 15 women judging health websites turned into a claim about first impressions of every website. Below are the clearest trails we followed, each checked by hand. 5 Note 5 We name the original studies. The pages that repeated them are described by type, not named. Every step in these trails was checked by hand on the open web, with archived copies kept.\nEach trail runs from the original study to an answer an assistant gave in October 2026. Step along it: the number stays, and the words around it change.\nAsked What percentage of first impressions of a website are design-related?\nThe study · Sillence and colleagues, CHI, 2004\nOf the comments 15 women made about rejecting or mistrusting health websites, 94% were about design.\n“ Research shows us that 94 percent of people notice the look-and-feel of a website or application first ”\nWhat changed Comments about rejecting health sites become what people notice first\n“ Since 94% of first impressions are related to design, leveraging captivating visuals across your brand's website… ”\nWhat changed Now 94% of all first impressions\n“ About 94% of a website's first impressions are design-related. ”\nWhat changed Stated as fact for every website\nA 2004 study watched 15 British women judge health websites, and 94% of their comments about rejecting a site were about design.",
+ "id": "R3-2026-10-30",
+ "caption_final": "How to check if market research numbers from ChatGPT are accurate and sourced. When you ask AI models for market statistics or pricing research, most citations lead to company blogs or roundups rather than actual studies. In fact, research shows only 40% of AI-cited numbers reach an original study, while 11% have no research behind them at all. Always click the citation link and trace it back to the primary source before making key business decisions. Comment STATS for the verification checklist.\n\n#MarketResearch #ChatGPTForBusiness #BusinessData #AIResearch"
+}
