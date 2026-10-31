@@ -1080,7 +1080,7 @@
      "line": "Accounting aur GST sheets ke liye ChatGPT use karna abhi band karo, ye dangerous ho sakta hai.",
      "visual_scene": -1,
      "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: close-up, camera steady at eye level. Arjun holds up his hand in a firm stop gesture while looking directly at camera. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Accounting aur GST sheets ke liye ChatGPT use karna abhi band karo, ye dangerous ho sakta hai.\" No subtitles, no on-screen text, no music, no other people.",
-     "msg_id": null,
+     "msg_id": 311,
      "file": null,
      "got_msg": null
     },
@@ -1091,7 +1091,7 @@
      "line": "AI models aapke data se train hote hain, isliye customer GSTN aur ledger balances share mat karo.",
      "visual_scene": -1,
      "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: medium close-up with a slow, smooth push-in towards his face. Arjun leans in slightly and taps his temple as if giving a serious piece of advice. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"AI models aapke data se train hote hain, isliye customer GSTN aur ledger balances share mat karo.\" No subtitles, no on-screen text, no music, no other people.",
-     "msg_id": null,
+     "msg_id": 312,
      "file": null,
      "got_msg": null
     },
@@ -1101,7 +1101,7 @@
      "cover": 2,
      "desc": "Close-up of a shopkeeper's hands typing on a laptop next to a stack of paper invoices on a wooden counter.",
      "prompt": "Create a realistic vertical 9:16 video of about 8 seconds: Close-up of a shopkeeper's hands typing on a laptop next to a stack of paper invoices on a wooden counter. Indian small-business setting, warm natural light, handheld smartphone-camera look, slow subtle camera movement, shallow depth of field. No faces, no readable text, no brand names or logos, no subtitles, no speech, no music.",
-     "msg_id": null,
+     "msg_id": 313,
      "file": null,
      "got_msg": null
     },
@@ -1112,7 +1112,7 @@
      "line": "Data secure rakhne ke liye comment DATA, main aapko MeitY ke naye privacy rules DM kar dunga.",
      "visual_scene": -1,
      "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: medium shot from slightly to his left (about 20 degrees), camera steady. Arjun smiles and points towards the bottom of the screen with his index finger. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Data secure rakhne ke liye comment DATA, main aapko MeitY ke naye privacy rules DM kar dunga.\" No subtitles, no on-screen text, no music, no other people.",
-     "msg_id": null,
+     "msg_id": 314,
      "file": null,
      "got_msg": null
     },
@@ -1122,7 +1122,7 @@
      "cover": 3,
      "desc": "Over-the-shoulder shot of a phone on a shop counter lighting up with new message notifications.",
      "prompt": "Create a realistic vertical 9:16 video of about 8 seconds: Over-the-shoulder shot of a phone on a shop counter lighting up with new message notifications. Indian small-business setting, warm natural light, handheld smartphone-camera look, slow subtle camera movement, shallow depth of field. No faces, no readable text, no brand names or logos, no subtitles, no speech, no music.",
-     "msg_id": null,
+     "msg_id": 315,
      "file": null,
      "got_msg": null
     }
@@ -1237,7 +1237,9 @@
    ],
    "composed_from": null,
    "hook_title": "Accounting Data Ka Khatra",
-   "cta": "Comment DATA for privacy guide"
+   "cta": "Comment DATA for privacy guide",
+   "prompts_sent": true,
+   "prompts_sent_at": 1793455352
   }
  },
  {
