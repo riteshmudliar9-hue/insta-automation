@@ -1032,5 +1032,255 @@
   "media_id": "17914894887513259",
   "permalink": "https://www.instagram.com/p/DfGn0AlETbn/",
   "published_at": "2026-10-30T09:00:52.245092+05:30"
+ },
+ {
+  "id": "R1-2026-10-31",
+  "kind": "reel",
+  "date": "2026-10-31",
+  "slot": "2026-10-31T21:00",
+  "dir": "output/2026-10-31/R1-2026-10-31/try3",
+  "files": [
+   "reel.mp4"
+  ],
+  "caption": "How to protect business accounting data from public AI model training leaks. Pasting supplier ledgers, customer GST numbers, and profit margins into free AI chat tools can expose your underlying data to public model training. MeitY's new DEPA architecture requires confidential clean rooms and differential privacy so raw datasets remain inaccessible. Standard AI chat windows do not provide these institutional safeguards by default. Always sanitize sensitive numbers before prompting.\n\nComment DATA for the breakdown of official AI data protection standards.\n\n#BusinessAccounting #DataPrivacyIndia #GSTCompliance #SmallBusinessTech",
+  "topic": "Don't use ChatGPT for your business accounting data",
+  "format": "problem_fix",
+  "hook": "Accounting aur GST sheets ke liye ChatGPT mat use karo.",
+  "keywords": [
+   "ChatGPT accounting privacy",
+   "DEPA AI training framework",
+   "business data leak AI",
+   "GST data security",
+   "AI data protection DPDP"
+  ],
+  "scores": {
+   "hook": 9,
+   "originality": 8,
+   "practical_value": 9,
+   "natural_language": 9,
+   "accuracy": 8,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "status": "queued",
+  "produced_at": 1793406928,
+  "log": [],
+  "dm_keyword": "DATA",
+  "dm_text": "MeitY ke proposed DEPA framework ke mutabiq, AI training ke dauran sensitive data protect karne ke technical pillars:\n\n1. Confidential Clean Rooms: Secure computing environments jahan data processing hoti hai bina underlying dataset expose kiye.\n2. Differential Privacy: Aisi privacy technique jisse individual-level information identify ya extract nahi ho sakti.\n3. Electronic Contracts: Machine-readable agreements jo data-sharing conditions aur security enforce karte hain.\n4. Zero-Trust Security: Har access request authenticate aur encrypt hoti hai continuous monitoring ke sath.\n\nStandard chatbots mein raw customer GST, turnover aur margins direct paste mat karein.",
+  "presenter": {
+   "status": "waiting",
+   "takes": [
+    {
+     "n": 1,
+     "kind": "talk",
+     "talk": 1,
+     "line": "Accounting aur GST sheets ke liye ChatGPT use karna abhi band karo, ye dangerous ho sakta hai.",
+     "visual_scene": -1,
+     "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: close-up, camera steady at eye level. Arjun holds up his hand in a firm stop gesture while looking directly at camera. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Accounting aur GST sheets ke liye ChatGPT use karna abhi band karo, ye dangerous ho sakta hai.\" No subtitles, no on-screen text, no music, no other people.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    },
+    {
+     "n": 2,
+     "kind": "talk",
+     "talk": 2,
+     "line": "AI models aapke data se train hote hain, isliye customer GSTN aur ledger balances share mat karo.",
+     "visual_scene": -1,
+     "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: medium close-up with a slow, smooth push-in towards his face. Arjun leans in slightly and taps his temple as if giving a serious piece of advice. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"AI models aapke data se train hote hain, isliye customer GSTN aur ledger balances share mat karo.\" No subtitles, no on-screen text, no music, no other people.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    },
+    {
+     "n": 3,
+     "kind": "broll",
+     "cover": 2,
+     "desc": "Close-up of a shopkeeper's hands typing on a laptop next to a stack of paper invoices on a wooden counter.",
+     "prompt": "Create a realistic vertical 9:16 video of about 8 seconds: Close-up of a shopkeeper's hands typing on a laptop next to a stack of paper invoices on a wooden counter. Indian small-business setting, warm natural light, handheld smartphone-camera look, slow subtle camera movement, shallow depth of field. No faces, no readable text, no brand names or logos, no subtitles, no speech, no music.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    },
+    {
+     "n": 4,
+     "kind": "talk",
+     "talk": 3,
+     "line": "Data secure rakhne ke liye comment DATA, main aapko MeitY ke naye privacy rules DM kar dunga.",
+     "visual_scene": -1,
+     "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: medium shot from slightly to his left (about 20 degrees), camera steady. Arjun smiles and points towards the bottom of the screen with his index finger. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Data secure rakhne ke liye comment DATA, main aapko MeitY ke naye privacy rules DM kar dunga.\" No subtitles, no on-screen text, no music, no other people.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    },
+    {
+     "n": 5,
+     "kind": "broll",
+     "cover": 3,
+     "desc": "Over-the-shoulder shot of a phone on a shop counter lighting up with new message notifications.",
+     "prompt": "Create a realistic vertical 9:16 video of about 8 seconds: Over-the-shoulder shot of a phone on a shop counter lighting up with new message notifications. Indian small-business setting, warm natural light, handheld smartphone-camera look, slow subtle camera movement, shallow depth of field. No faces, no readable text, no brand names or logos, no subtitles, no speech, no music.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    }
+   ],
+   "material": "[40] OpenAI News — Making it easier for websites to express AI training preferences\nURL: https://openai.com/index/helping-websites-express-ai-training-preferences\nMaking it easier for websites to express AI training preferences | OpenAI OpenAI October 30, 2026\nWhy we’re supporting a common signal that lets website operators communicate their choices to multiple AI providers at once.\nShare Today, we’re announcing that OpenAI will honor a common signal ⁠ (opens in a new window) in robots.txt, the file that lets websites express their preferences about the use of their content for foundational generative AI training. This voluntary effort makes it easier for publishers and website operators to communicate the same preference to multiple participating providers at once.\nPreviously, website operators would identify individual crawlers and maintain separate rules for each and every provider. Having a shared signal across multiple providers reduces that work for operators.\nWe aim to implement the signal in the coming months, and will share another update with details about our implementation when we do so. This new signal will not replace the controls we already provide through robots.txt. Our existing crawler controls ⁠ (opens in a new window) , which provide web publishers flexibility and control over their pages, will continue to apply and be respected.\nThis draws on the ongoing work ⁠ (opens in a new window) of the Internet Engineering Task Force’s (IETF) AI Preferences working group. We’re joining other participants in the working group in today’s announcement of this shared signal, and believe this strengthens our continued participation in the IETF standards discussions. OpenAI will continue to adapt its practices as those conversations and the landscape continue to evolve in view of appropriate controls and fairness.\nWe believe this is a practical step toward an open web where people can publish and discover information, and website owners have clearer, simpler ways to communicate their choices about how their content is used. We encourage other AI providers to honor the signal.\n\n[70] Inc42 — MeitY Floats New Privacy-Led Framework To Unlock Data For Training AI Models\nURL: https://inc42.com/buzz/meity-floats-new-privacy-led-framework-to-unlock-data-for-training-ai-models/\nMeitY Floats Framework To Unlock Data For Training AI Models --> tag --> Skip to content MeitY Floats New Privacy-Led Framework To Unlock Data For Training AI Models --> SHARE Share on Facebook\nSUMMARY The proposed framework aims to help startups and institutions access large-scale, India-specific datasets to develop AI models while protecting citizens' privacy\nThe DEPA for AI training also proposes a techno-legal architecture to enable companies to collaborate on AI training without transferring underlying datasets\nThe framework also proposes that trained models must undergo independent checks for bias, fairness, security, safety and explainability\nAdded to Saved Stories in Login VIEW SAVED STORIES\nThe IT ministry (MeitY) has proposed a consent-based framework to facilitate data sharing for training AI models in India.\nCalled the Data Empowerment and Protection Architecture (DEPA) for AI training, the framework aims to help startups, businesses and academic institutions access large-scale, India-specific datasets to develop AI models while protecting citizens’ privacy and ensuring compliance with the DPDP Act.\nThe DEPA for AI training also proposes a techno-legal architecture to enable organisations to collaborate on AI model training without directly transferring underlying datasets.\nWith this, the ministry aims to foster access to datasets for researchers and businesses looking to train AI models. The guidelines have been formulated in collaboration with think tank iSPIRT.\nThe proposed architecture builds on India’s existing DEPA framework, which already supports consent-based data sharing through initiatives such as Account Aggregator. The new framework encompasses the following technical pillars:\nConfidential Clean Rooms: Secure computing environments where organisations can collaborate on data processing and AI model training without exposing the underlying datasets to one another\nDifferential Privacy: A privacy-preserving technique used to ensure that individual-level information cannot be identified or extracted from an aggregate dataset\nElectronic Contracts: Machine-readable agreements that define and enforce data-sharing conditions, including permitted uses, data protection and security requirements\nZero-Trust Security: An approach where every access request is authenticated and authorised, with encryption, continuous monitoring and auditing to protect data\nThe proposed framework also defines key stakeholders for enabling safe sharing of data for training AI models:\nTraining Data Providers (TDPs): Organisations that make their data accessible through the framework. For instance: banks, hospitals, government agencies\nTraining Data Consumers (TDCs): Startups, enterprises, researchers and individuals seeking access to datasets to train AI models\nData Collectives or Data Collabs: Intermediaries that aggregate, standardise, and organise data from various sources and define data-sharing policies and governance rules for participants\nUnder the DEPA framework, TDPs would first register their datasets on a data exchange platform after anonymising and encrypting them. The datasets would then be tagged with metadata and cryptographic identifiers for traceability.\nTDCs can then request a dataset for their specific use cases, and an electronic contract system checks their requests against data-sharing policies and governance rules before granting access.\nOnce access is given, the model is then trained within a secure data environment using differential privacy methods, ensuring that the raw data remains inaccessible to consumers.\nThe framework also proposes that trained models must undergo independent checks for bias, fairness, security, safety and explainability. Only models that pass receive approval for pilot deployment and scaling.\nEven after deployment, the oversight will continue in the interest of long-term trust and accountability. In line with this, the framework will ensure that TDCs remain subject to continuous monitoring, periodic reviews, and traceability of the model’s outputs back to the data and contracts used in its training.\nThe launch of the new DEPA framework for AI training comes soon after TRAI also released draft guidelines on the responsible use of AI in telecom networks and service delivery. The telecom regulator has sought inputs from stakeholders by November 27.\nAs per TRAI, its draft guidelines are rooted in the IndiaAI Governance Guidelines . The centre had earlier released these guidelines to focus on fostering innovation and safe development and deployment of AI offerings, while mitigating risks posed by the technology.\nA few weeks ago, union IT minister Ashwini Vaishnaw had also said that the centre will release a consultation paper for regulation on AI safety and security within a month. Earlier reports had also hinted that the Centre was looking at formulating a new framework for AI regulation .\nPartner With Inc42 Inc42 Startup Spotlight\nCut the noise. Get the Brief. Your personalised brief at 9 AM 70,000+ companies. All in the app. Track funding, investors and company financials Download App Now Continue on Web Stories Profiles Not Finding what you are looking for? Advanced filter You have reached your limit of free stories want to read the full story? Unlock This Story & Enjoy All Members-Only Benefits With Inc42 Plus.\nUnlock special offers and join 10,000+ founders, investors & operators staying ahead in India’s startup economy.\nOffer Ends In --> 3 YEAR PLAN ₹29999 ₹7999 ₹222/Month --> UNLOCK 73% OFF Become a member Cancel Anytime 2 YEAR PLAN ₹19999 ₹5999 ₹249/Month --> UNLOCK 70% OFF Become a member Cancel Anytime 1 YEAR PLAN ₹9999 ₹3499 ₹291/Mo",
+   "scenes": [
+    {
+     "purpose": "Call out the dangerous accounting habit immediately",
+     "narration": "Accounting aur GST sheets ke liye ChatGPT mat use karo.",
+     "on_screen": "ChatGPT for Accounting?",
+     "visual_type": "text",
+     "url": "",
+     "query": "",
+     "headline": "Public AI Leaks Numbers",
+     "steps": [],
+     "items": [],
+     "left_label": "",
+     "right_label": "",
+     "rows": []
+    },
+    {
+     "purpose": "Explain how public AI models consume training inputs",
+     "narration": "AI models aapke data se train hote hain jab tak controls na hon.",
+     "on_screen": "AI Training Exposure",
+     "visual_type": "diagram",
+     "url": "",
+     "query": "",
+     "headline": "",
+     "steps": [
+      "Upload raw sheet",
+      "Model absorbs data",
+      "Exposed in training"
+     ],
+     "items": [],
+     "left_label": "",
+     "right_label": "",
+     "rows": []
+    },
+    {
+     "purpose": "Highlight Government safety standards for AI data handling",
+     "narration": "Govt ka naya DEPA framework clean rooms aur differential privacy demand karta hai.",
+     "on_screen": "MeitY DEPA Rules",
+     "visual_type": "checklist",
+     "url": "",
+     "query": "",
+     "headline": "",
+     "steps": [],
+     "items": [
+      "Confidential Clean Rooms",
+      "Differential Privacy",
+      "Zero-Trust Security"
+     ],
+     "left_label": "",
+     "right_label": "",
+     "rows": []
+    },
+    {
+     "purpose": "Contrast public chatbot risks against secure architectures",
+     "narration": "Lekin regular chat tools mein raw accounting data expose ho jata hai.",
+     "on_screen": "Raw Data Risk",
+     "visual_type": "compare",
+     "url": "",
+     "query": "",
+     "headline": "",
+     "steps": [],
+     "items": [],
+     "left_label": "Public Chat",
+     "right_label": "Secure DEPA",
+     "rows": [
+      {
+       "left": "Raw data exposed",
+       "right": "Clean rooms used"
+      },
+      {
+       "left": "No privacy shield",
+       "right": "Differential privacy"
+      }
+     ]
+    },
+    {
+     "purpose": "List specific sensitive financial items to keep private",
+     "narration": "Customer GSTN, margins aur ledger balances chat window se bahar rakho.",
+     "on_screen": "Keep Out of AI",
+     "visual_type": "checklist",
+     "url": "",
+     "query": "",
+     "headline": "",
+     "steps": [],
+     "items": [
+      "Customer GST numbers",
+      "Product profit margins",
+      "Tally ledger balances"
+     ],
+     "left_label": "",
+     "right_label": "",
+     "rows": []
+    },
+    {
+     "purpose": "Deliver clear takeaway and comment hook",
+     "narration": "Data secure rakhne ke liye comment DATA, main MeitY privacy rules DM kar dunga.",
+     "on_screen": "Comment DATA",
+     "visual_type": "text",
+     "url": "",
+     "query": "",
+     "headline": "Protect Business Data",
+     "steps": [],
+     "items": [],
+     "left_label": "",
+     "right_label": "",
+     "rows": []
+    }
+   ],
+   "composed_from": null,
+   "hook_title": "Accounting Data Ka Khatra",
+   "cta": "Comment DATA for privacy guide"
+  }
+ },
+ {
+  "id": "C1-2026-10-31",
+  "kind": "carousel",
+  "date": "2026-10-31",
+  "slot": "2026-10-31T09:00",
+  "dir": "output/2026-10-31/C1-2026-10-31/try2",
+  "files": [
+   "slide_01.jpg",
+   "slide_02.jpg",
+   "slide_03.jpg",
+   "slide_04.jpg",
+   "slide_05.jpg",
+   "slide_06.jpg"
+  ],
+  "caption": "Are you paying monthly for AI tools you barely use? Stop guessing. Credit Saison saw a 954% ROI by running a targeted pilot before rolling out AI to their entire team. Instead of buying every hyped tool, test it with one staff member for a month. If it doesn't save measurable hours—like summarizing your daily shop debrief or roleplaying sales calls—it is just another cost eating your margin. Track your hours, do the math, and cancel what doesn't pay for itself. Which subscription currently takes the biggest chunk of your monthly office budget?\n\n#BusinessAutomation #SmallBusinessIndia #AIForBusiness #TechEfficiency #CostManagement",
+  "topic": "Are you falling for the AI 'miracle' trap?",
+  "format": "myth_fact",
+  "hook": "Stop buying AI subscriptions until you calculate ROI",
+  "keywords": [
+   "AI ROI calculator",
+   "small business automation",
+   "business efficiency tips",
+   "AI tool subscription",
+   "credit saison ai pilot"
+  ],
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 9,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "status": "queued",
+  "produced_at": 1793406928,
+  "log": [],
+  "dm_keyword": "",
+  "dm_text": ""
  }
 ]

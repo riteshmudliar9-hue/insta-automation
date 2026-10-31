@@ -266,5 +266,37 @@
   "status": "published",
   "media_id": "17914894887513259",
   "permalink": "https://www.instagram.com/p/DfGn0AlETbn/"
+ },
+ {
+  "id": "R1-2026-10-31",
+  "date": "2026-10-31",
+  "kind": "reel",
+  "format": "problem_fix",
+  "topic": "Don't use ChatGPT for your business accounting data",
+  "hook": "Accounting aur GST sheets ke liye ChatGPT mat use karo.",
+  "keywords": [
+   "ChatGPT accounting privacy",
+   "DEPA AI training framework",
+   "business data leak AI",
+   "GST data security",
+   "AI data protection DPDP"
+  ],
+  "status": "queued"
+ },
+ {
+  "id": "C1-2026-10-31",
+  "date": "2026-10-31",
+  "kind": "carousel",
+  "format": "myth_fact",
+  "topic": "Are you falling for the AI 'miracle' trap?",
+  "hook": "Stop buying AI subscriptions until you calculate ROI",
+  "keywords": [
+   "AI ROI calculator",
+   "small business automation",
+   "business efficiency tips",
+   "AI tool subscription",
+   "credit saison ai pilot"
+  ],
+  "status": "queued"
  }
 ]

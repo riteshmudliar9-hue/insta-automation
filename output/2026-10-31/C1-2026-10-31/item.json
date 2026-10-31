@@ -1,0 +1,231 @@
+{
+ "kind": "carousel",
+ "idea": {
+  "idea": "Are you falling for the AI 'miracle' trap?",
+  "angle": "Address why many AI subscriptions have zero ROI for small businesses vs. the 20% that actually see profit.",
+  "audience_problem": "Feeling guilty about not using AI, but realizing paid tools aren't helping the bottom line.",
+  "format": "myth_fact",
+  "medium": "carousel",
+  "source_ids": [
+   16,
+   46
+  ],
+  "evergreen": true,
+  "keywords": [
+   "AI ROI",
+   "business profit",
+   "subscription fatigue",
+   "AI tools"
+  ],
+  "scores": {
+   "relevance": 10,
+   "novelty": 8,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 10,
+   "evidence": 7,
+   "viral": 9
+  },
+  "total": 8.76
+ },
+ "piece": {
+  "hooks": [
+   "Stop buying AI subscriptions until you calculate ROI",
+   "Why your AI tool subscription is losing you money",
+   "How to calculate if your AI tools actually profit"
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "It addresses the direct financial pain of the small business owner immediately and frames the carousel as a practical decision-making guide rather than a generic tech trend.",
+  "slides": [
+   {
+    "kind": "cover",
+    "title": "Stop buying AI subscriptions until you calculate ROI",
+    "subtitle": "Stop guessing if your tools help. Here is the math.",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "mythfact",
+    "title": "The AI Subscription Trap",
+    "subtitle": "Is your tech stack actually paying for itself?",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "Paying for every new AI tool guarantees business growth.",
+    "fact": "Most AI tools are just overhead. Real profit comes from specific tasks like documentation, sales prep, or training that save measurable hours.",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "compare",
+    "title": "Manual vs AI Task Workflow",
+    "subtitle": "Where the actual time savings happen",
+    "body": "",
+    "items": [],
+    "left_label": "Manual Way",
+    "right_label": "AI Assisted",
+    "rows": [
+     {
+      "left": "Writing store debriefs",
+      "right": "AI summarizes daily audio"
+     },
+     {
+      "left": "Prospect research",
+      "right": "AI identifies customer pain"
+     },
+     {
+      "left": "New hire training",
+      "right": "AI voice roleplay"
+     }
+    ],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "steps",
+    "title": "How to Run a Small Pilot",
+    "subtitle": "Don't roll out to the whole shop at once",
+    "body": "Pick 1-2 staff members to test a specific tool for one month. Only expand if you see actual time saved.",
+    "items": [
+     "Select one specific repetitive task to automate",
+     "Track total hours spent on that task manually",
+     "Use the AI tool for that task for 30 days",
+     "Compare the total hours saved against the subscription cost"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "point",
+    "title": "The ROI Calculation",
+    "subtitle": "Use this simple formula for every tool",
+    "body": "Formula: (Hours Saved per Month x Your Hourly Cost) - Subscription Price = Monthly Profit. If the result is negative, cancel the tool immediately.",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "summary",
+    "title": "Final Decision Checklist",
+    "subtitle": "Before you renew any AI subscription",
+    "body": "",
+    "items": [
+     "Did it save at least 7 hours per person monthly?",
+     "Do you have a clear, documented use case?",
+     "Is the staff using it for actual work?",
+     "Does the time saved exceed the monthly cost?"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   }
+  ],
+  "caption": "Are you paying monthly for AI tools you barely use? Stop guessing. Credit Saison saw a 954% ROI by running a targeted pilot before rolling out AI to their entire team. Instead of buying every hyped tool, test it with one staff member for a month. If it doesn't save measurable hours—like summarizing your daily shop debrief or roleplaying sales calls—it is just another cost eating your margin. Track your hours, do the math, and cancel what doesn't pay for itself. Which subscription currently takes the biggest chunk of your monthly office budget? #BusinessAutomation #SmallBusinessIndia #AIForBusiness #TechEfficiency #CostManagement",
+  "hashtags": [
+   "#BusinessAutomation",
+   "#SmallBusinessIndia",
+   "#AIForBusiness",
+   "#TechEfficiency",
+   "#CostManagement"
+  ],
+  "keywords": [
+   "AI ROI calculator",
+   "small business automation",
+   "business efficiency tips",
+   "AI tool subscription",
+   "credit saison ai pilot"
+  ],
+  "claims": [
+   {
+    "claim": "Credit Saison achieved 954% ROI in their ChatGPT Enterprise pilot.",
+    "source_id": 46
+   },
+   {
+    "claim": "The pilot saved participants 14 hours each month.",
+    "source_id": 46
+   },
+   {
+    "claim": "Anthropic's S-1 prospectus warns that AI models could pose catastrophic or existential risks.",
+    "source_id": 16
+   },
+   {
+    "claim": "Anthropic founders advise an 'underpromise and overdeliver' strategy.",
+    "source_id": 16
+   }
+  ]
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 9,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "Credit Saison achieved 954% ROI in their ChatGPT Enterprise pilot.",
+    "supported": true
+   },
+   {
+    "claim": "The pilot saved participants 14 hours each month.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [],
+  "issues": [
+   "The carousel content is excellent and highly practical, but the provided JSON claims list included references to Anthropic (Source 16) which are not actually present in the carousel slides. The carousel focuses exclusively on the Credit Saison case study.",
+   "The 'Final Decision Checklist' mentions '7 hours' as a benchmark, which is a specific number derived from the Credit Saison pilot (7.5 hours), but it might be too high a bar for a generic small business just starting out."
+  ],
+  "fix_instructions": "The carousel is ready for publication. Ensure the final caption does not reference the Anthropic 'existential risk' claims, as they were included in the JSON claims list but are not relevant to the practical business advice being shared in the slides. The content is strong, actionable, and fits the brand perfectly."
+ },
+ "rules": [],
+ "reasons": [],
+ "meta": {
+  "ai_visuals": false,
+  "slides": 6
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-10-31/C1-2026-10-31/try2",
+ "attempt": 2,
+ "approved": true,
+ "hook": "Stop buying AI subscriptions until you calculate ROI",
+ "log": [
+  "attempt 1: fail {'hook': 6, 'originality': 6, 'practical_value': 5, 'natural_language': 7, 'accuracy': 8, 'narrative': 5, 'visual_integrity': 6, 'pacing': 5, 'brand_consistency': 6, 'publish_readiness': 4} ['hook 6/10 (<8)', 'originality 6/10 (<8)', 'practical_value 5/10 (<8)', 'natural_language 7/10 (<8)']",
+  "attempt 2: PASS {'hook': 8, 'originality': 7, 'practical_value': 9, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} []"
+ ],
+ "material": "[16] The Verge AI — Silicon Valley wants you to invest in miracles\nURL: https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles\nSilicon Valley wants you to invest in miracles | The Verge Skip to main content The homepage The Verge The Verge logo. The homepage The Verge The Verge logo. Notifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo. Login / Sign Up\nComments Loading comments Getting the conversation ready... AI\nAnthropic’s S-1 is a new milestone in Big Tech’s sprawling and lofty promises to Wall Street.\nAnthropic’s S-1 is a new milestone in Big Tech’s sprawling and lofty promises to Wall Street.\nEllen Thomas Oct 30, 2026, 1:11 PM UTC Link\nInvesting in any stock is kind of like gambling in the sense that you’re betting your money on a company’s future performance. But how do you bet on a technology that could, in the worst-case scenario, “pose catastrophic or existential risks to humanity,” or best case, “bring forth an age of miracles”?\nTo some extent, Anthropic suggests in a letter at the top of its S-1 filing, you have to just believe.\nAnthropic’s 335-page S-1 prospectus, filed Monday, is part of a steady hype escalation in Silicon Valley’s interactions with Wall Street. In some ways, it’s not even that bizarre; SpaceX IPO’d in June after filing an S-1 that referenced dinosaurs and “colonizing Mars.” But its sweeping language and sheer volume — including 94 pages of risk factors — is a sometimes overwhelming collision of AI industry rhetoric and a hard financial pitch. Out-of-this-world promises are integral to Anthropic’s survival as a company . That doesn’t make reading the S-1 any less surreal.\nIn the letter, Anthropic’s founders urge prospective stock owners “not to think of your purchase in purely transactional terms. We hope you will see it instead as an opportunity to be part of something greater.” The march toward advanced AI “is one of the seminal moments in human history,” the letter says. “Our aim is to help humankind chart a safe course through this technological evolution, open new frontiers of discovery, and bring forth an age of miracles.” But the S-1 warns that if things go wrong, the consequences could be disastrous — even an “existential” risk to humanity. Many dangers are laid out in exhaustive detail, including risks that models “behave in ways that no user or developer intended,” leading to “catastrophic” incidents that the entire insurance industry couldn’t afford to underwrite.\nAnthropic’s elaborate plan to keep Wall Street at bay\nAnthropic’s business plan: Build God or die trying\nCan Anthropic really become a $10 trillion company?\nTech startups preparing to go public haven’t always used the information overload approach. “In 1980, a highly touted company called Apple Computer went public. Its prospectus, which I have, is 47 pages long with zero risk factors,” said Jay R. Ritter, a professor at the University of Florida’s Warrington College of Business. “If you go back and read it, it’s incredibly simple.”\nRitter pointed to Facebook’s S-1 filing as a turning point. The company now known as Meta filed a 200-page prospectus with 22 pages of risk factors. CEO Mark Zuckerberg’s letter to investors was a manifesto on his move-fast-and-break-things approach to growth, which he dubbed “The Hacker Way.”\nWhile the idea might be to cover all possible bases, “a problem with this bloat is that it’s become more and more difficult to find the nuggets of what’s important,” Ritter said. “You know, I don’t know if you’re like me, but the longer it is, the less inclined I am to read it.”\nAnthropic’s founders explain in their investor letter that oversharing is part of their “anti-sell” strategy, designed to attract long-term investors who believe in their vision.\n“It is very dangerous when people buy your company’s stock based on expectations you cannot fulfill or on incorrect predictions about how you will behave. This is in fact very similar to one of Anthropic’s guiding principles: underpromise and overdeliver,” the founders’ letter says.\nSome of the statements in Anthropic’s S-1 read as surprising admissions. “We may make forward investments that may seem irresponsibly large,” for instance, or “model safety, interpretability, alignment, and welfare may lead us to limit or delay the deprecation of older models.” Maybe none of this should be surprising, considering the founders do warn readers about the company’s policy of practicing “radical honesty.”\nAnthropic’s ‘radical honesty’ includes being open about the prospects of human extinction\nThis policy led to the biggest jumpscare of the whole filing, on page 46:\n“Concerns have been raised both within our organization and by other researchers, regulators, policymakers, and industry participants that, if not developed, deployed, and operated with appropriate safeguards, oversight, and security measures, pose catastrophic or existential risks to humanity.”\n“Our development of highly advanced models, platforms, and applications and expansion of use cases could further increase the risk that our models cause harm.”\nAnthropic has famously been a proponent of doomsday AI scenarios. CEO Dario Amodei has said there’s an up to 25 percent chance that further AI development could lead to human extinction.\nThe heart of Anthropic’s pitch — or anti-sell — is that despite the risks, it is absolutely committed to developing safe and secure AI technology. After all, it will go public as a public benefit corporation, a type of business entity that, unlike C-corporations that are required to maximize shareholder value, must prioritize a social mission alongside shareholder interests.\n“Powerful AI” — Anthropic’s term for hypothetical future AI that surpasses collective human intelligence — is presented in the company’s S-1 as inevitable. If this technology is coming no matter what, then Anthropic, a public benefit corporation, should lead the charge. But Anthropic will need a lot of money, possibly an unlimited amount, to do this. And more practically, as Liz Lopatto has written , powerful AI (in the form of dramatic recursive self-improvement) might be about the only way Anthropic can stay ahead of the competition and survive.\n“All of us have a sincere conviction that the AI exponential will generate so much value, that, in the long run, it will far outweigh any shorter-term economic sacrifices we make as part of our mission,” the letter says.\nFor all the information the company made available in its S-1, there are some gaps. Crucial information that could be used to assess profitability — third quarter results, for instance — is missing. Anthropic saw explosive revenue growth in the second quarter, but the second quarter was also the height of tokenmaxxing , which could have led to a surge in sales. Some corporate executives have warned that AI costs are surging out of control. While Anthropic’s operating losses narrowed in the second quarter, the S-1 also revealed hundreds of billions of dollars in financial obligations to secure the computing power it says it needs to keep growing. It also said it wil\n\n[46] OpenAI News — Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot\nURL: https://openai.com/index/credit-saison\nCredit Saison achieves 954% ROI in a ChatGPT Enterprise pilot | OpenAI OpenAI October 29, 2026\nCredit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.\nhours saved per pilot participant each month\nmonth from the end of the pilot to the decision to roll out ChatGPT Enterprise companywide\nhours saved per month on average through the engineering team’s use of Codex\nShare Credit Saison’s business centers on credit cards, with approximately 31.16 million cardholders. The company also operates financing and international businesses.\nIn September 2025, Credit Saison rolled out ChatGPT Enterprise to all employees. A pilot had exceeded its targets for time savings, giving the company the confidence to approve a companywide rollout just one month after the pilot ended. The rollout gave every employee access to AI at work. That shift began with the pilot.\nA pilot across the business delivers 954% ROI\nWith many employees in generalist roles, Credit Saison wanted to understand how AI could improve everyday work and deliver tangible results. Kazutoshi Ono, Credit Saison’s Senior Managing Executive Officer, CDO, and CTO, set a clear direction: “We won’t know until we really put it to work.”\nWorking with OpenAI, the company ran a ChatGPT Enterprise pilot with 315 participants for a little over a month, from late June to early August 2025. The group brought together volunteers, employees nominated by the project team, every executive including the president, and representatives from every department. It accounted for just under 10% of the company’s approximately 3,700 employees in Japan.\nThe results? Credit Saison reports a 954% return on investment (ROI) and 14 hours saved per employee each month, equivalent to approximately 169 hours annually. Both figures significantly exceeded the company’s initial targets of 500% ROI and 7.5 hours saved per person per month.\nIn a survey after the pilot, 75% of managers and 70% of nonmanagerial employees said they could not do without ChatGPT Enterprise. Approximately 80% of respondents in the legal department felt it improved their ability to do their jobs, while more than 80% in the IT department reported greater job satisfaction. The benefits extended beyond time savings to how employees felt about their capabilities and their work.\nBuilding adoption through employees and leaders\nThe pilot’s results reflected both the support in place and the people involved. Credit Saison’s CoE, which leads AI adoption, used a dedicated Slack channel to share successes and failures openly. Individual experiences became lessons the whole organization could use. OpenAI supported the effort with training for executives and practical workshops for beginners, helping participants apply AI to their work.\nOne highlight of the pilot was a custom GPT designed to simulate shareholder meetings. Using voice mode, employees could rehearse realistic, interactive exchanges that mirrored an actual shareholder meeting. The GPT drew particularly strong interest from Credit Saison’s senior leadership, and requests to share the prompt soon followed. This enthusiasm helped drive broader adoption of voice-based AI across the company.\nLeadership’s engagement went beyond showing interest. Ono encouraged Katsumi Mizuno, Credit Saison’s representative director, executive president and COO, to lead by example: “It’s not enough to encourage employees to use it. Leaders need to use it regularly themselves.” Mizuno embraced this approach, creating his own custom GPT for company research and incorporating it into his daily work.\nExecutives were using AI themselves while employees were finding practical applications. Together, those efforts connected the decision to invest with everyday use, helping Credit Saison approve a companywide rollout within a month of completing the pilot.\nThree ways Credit Saison employees put ChatGPT to work\nAcross Credit Saison, employees are finding practical ways to incorporate ChatGPT into their everyday work, as these three use cases illustrate.\nRetail sales: capturing daily team debriefs\nAt counters in shopping malls and other locations, Credit Saison employees help customers sign up for and use credit cards. A custom GPT for store performance reporting helps these teams document their meetings at the end of each day.\nUsing audio from the regular debrief, the GPT automatically summarizes each employee’s results, meeting notes, handover items for the next day, and areas to focus on. Teams keep running their meetings as usual while spending less time on documentation and compiling results. The familiar workflow makes it easy to adopt even for employees new to AI, and it is now used at every location.\nCorporate sales: turning business challenges into better proposals\nCorporate sales teams use a custom GPT for company research to analyze customers. It helps them identify business challenges and assess where Credit Saison’s services could help.\nIn one company analysis, it surfaced challenges that employees themselves had not fully recognized. By streamlining research and analysis before sales meetings, the GPT is helping teams improve the quality of their proposals.\nInside sales: giving new hires more opportunities to practice\nInside sales teams needed to give less experienced employees more opportunities to practice without taking experienced colleagues away from selling.\nA custom GPT for prospect roleplay helps address that challenge. The AI plays the prospective customer, allowing employees to rehearse sales conversations by voice and receive feedback afterward. Teams value the chance to gain practical experience before speaking with real prospects.\n954% ROI achieved in a pilot with 315 participants\n14 hours saved per participant per month, equivalent to approximately 169 hours a year\n75% of managers and 70% of nonmanagerial employees said they could not do without ChatGPT Enterprise in the post-pilot survey\nApproximately 80% of legal department respondents reported an improved ability to do their jobs, and more than 80% of IT department respondents reported greater job satisfaction in the same survey\nA decision to roll out ChatGPT Enterprise companywide within one month of completing the pilot\nTransforming the company with assistive intelligence\nCredit Saison sees AI transformation, or AX, as having three dimensions. The first, “Employee AX,” changes how employees work and enables things they could not have done without AI. That extends beyond the use of ChatGPT in sales. In engineering, for example, Credit Saison reports that Codex saves an average of 850 hours of work each month.\nThe company is also looking toward “Customer AX,” which focuses on improving customer experiences, user interfaces, and user experience, and “Corporate AX,” which rethinks organizational structures and roles around AI.\nFor Customer AX, Credit Saison is developing an AI call center in-house. Corpora",
+ "id": "C1-2026-10-31",
+ "caption_final": "Are you paying monthly for AI tools you barely use? Stop guessing. Credit Saison saw a 954% ROI by running a targeted pilot before rolling out AI to their entire team. Instead of buying every hyped tool, test it with one staff member for a month. If it doesn't save measurable hours—like summarizing your daily shop debrief or roleplaying sales calls—it is just another cost eating your margin. Track your hours, do the math, and cancel what doesn't pay for itself. Which subscription currently takes the biggest chunk of your monthly office budget?\n\n#BusinessAutomation #SmallBusinessIndia #AIForBusiness #TechEfficiency #CostManagement"
+}
