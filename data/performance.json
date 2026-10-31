@@ -18,7 +18,7 @@
     "ig_reels_avg_watch_time": 6470,
     "ig_reels_video_view_total_time": 51764
    },
-   "fetched": "2026-10-30T18:02:14.464007"
+   "fetched": "2026-10-31T17:55:59.130556"
   },
   "17986761333084821": {
    "id": "R3-2026-10-24",
@@ -38,7 +38,7 @@
     "ig_reels_avg_watch_time": 5815,
     "ig_reels_video_view_total_time": 157018
    },
-   "fetched": "2026-10-30T18:02:14.888815"
+   "fetched": "2026-10-31T17:55:59.559670"
   },
   "18340036819273934": {
    "id": "C2-2026-10-24",
@@ -58,7 +58,7 @@
     "profile_visits": 0,
     "follows": 0
    },
-   "fetched": "2026-10-30T18:02:15.231818"
+   "fetched": "2026-10-31T17:56:00.006972"
   },
   "18061930895631903": {
    "id": "C1-2026-10-24",
@@ -78,7 +78,7 @@
     "profile_visits": 0,
     "follows": 0
    },
-   "fetched": "2026-10-30T18:02:15.582123"
+   "fetched": "2026-10-31T17:56:00.570048"
   },
   "18095704943246132": {
    "id": "C3-2026-10-24",
@@ -98,7 +98,7 @@
     "profile_visits": 0,
     "follows": 0
    },
-   "fetched": "2026-10-30T18:02:15.920149"
+   "fetched": "2026-10-31T17:56:01.124252"
   },
   "18119016835995041": {
    "id": "C2-2026-10-25",
@@ -118,7 +118,7 @@
     "profile_visits": 1,
     "follows": 0
    },
-   "fetched": "2026-10-30T18:02:16.322060"
+   "fetched": "2026-10-31T17:56:02.603678"
   },
   "18079498841712347": {
    "id": "C4-2026-10-25",
@@ -138,7 +138,7 @@
     "profile_visits": 0,
     "follows": 0
    },
-   "fetched": "2026-10-30T18:02:16.746500"
+   "fetched": "2026-10-31T17:56:03.113436"
   },
   "18144724249610082": {
    "id": "C3-2026-10-25",
@@ -158,7 +158,7 @@
     "profile_visits": 0,
     "follows": 0
    },
-   "fetched": "2026-10-30T18:02:17.133839"
+   "fetched": "2026-10-31T17:56:03.587481"
   },
   "18636524926049964": {
    "id": "R1-2026-10-26",
@@ -175,10 +175,10 @@
     "shares": 0,
     "saved": 0,
     "total_interactions": 2,
-    "ig_reels_avg_watch_time": 3920,
-    "ig_reels_video_view_total_time": 246974
+    "ig_reels_avg_watch_time": 3870,
+    "ig_reels_video_view_total_time": 247707
    },
-   "fetched": "2026-10-30T18:02:17.458949"
+   "fetched": "2026-10-31T17:56:04.061839"
   },
   "18170614912476873": {
    "id": "C1-2026-10-26",
@@ -198,7 +198,7 @@
     "profile_visits": 0,
     "follows": 0
    },
-   "fetched": "2026-10-30T18:02:17.787555"
+   "fetched": "2026-10-31T17:56:04.667864"
   },
   "18102419912561396": {
    "id": "R3-2026-10-28",
@@ -215,10 +215,10 @@
     "shares": 0,
     "saved": 0,
     "total_interactions": 1,
-    "ig_reels_avg_watch_time": 3561,
-    "ig_reels_video_view_total_time": 124635
+    "ig_reels_avg_watch_time": 3512,
+    "ig_reels_video_view_total_time": 126449
    },
-   "fetched": "2026-10-30T18:02:18.084899"
+   "fetched": "2026-10-31T17:56:05.039719"
   },
   "17989989126078110": {
    "id": "C1-2026-10-28",
@@ -238,7 +238,7 @@
     "profile_visits": 0,
     "follows": 0
    },
-   "fetched": "2026-10-30T18:02:18.438941"
+   "fetched": "2026-10-31T17:56:05.532314"
   },
   "18105185309634006": {
    "id": "C1-2026-10-29",
@@ -258,7 +258,7 @@
     "profile_visits": 0,
     "follows": 0
    },
-   "fetched": "2026-10-30T18:02:18.796422"
+   "fetched": "2026-10-31T17:56:05.960520"
   },
   "17914894887513259": {
    "id": "C1-2026-10-30",
@@ -268,8 +268,8 @@
    "topic": "Direct editing of business PDFs and Sheets inside Gemini chat",
    "date": "2026-10-30",
    "metrics": {
-    "reach": 2,
-    "views": 4,
+    "reach": 3,
+    "views": 7,
     "likes": 1,
     "comments": 0,
     "shares": 0,
@@ -278,7 +278,47 @@
     "profile_visits": 0,
     "follows": 0
    },
-   "fetched": "2026-10-30T18:02:19.187921"
+   "fetched": "2026-10-31T17:56:06.917546"
+  },
+  "18097498862137309": {
+   "id": "R1-2026-10-31",
+   "kind": "reel",
+   "format": "problem_fix",
+   "hook": "Accounting aur GST sheets ke liye ChatGPT mat use karo.",
+   "topic": "Don't use ChatGPT for your business accounting data",
+   "date": "2026-10-31",
+   "metrics": {
+    "reach": 1,
+    "views": 1,
+    "likes": 1,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 1,
+    "ig_reels_avg_watch_time": 3288,
+    "ig_reels_video_view_total_time": 3288
+   },
+   "fetched": "2026-10-31T17:56:07.636876"
+  },
+  "18106136219124221": {
+   "id": "C1-2026-10-31",
+   "kind": "carousel",
+   "format": "myth_fact",
+   "hook": "Stop buying AI subscriptions until you calculate ROI",
+   "topic": "Are you falling for the AI 'miracle' trap?",
+   "date": "2026-10-31",
+   "metrics": {
+    "reach": 1,
+    "views": 2,
+    "likes": 1,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 1,
+    "profile_visits": 0,
+    "follows": 0
+   },
+   "fetched": "2026-10-31T17:56:08.123511"
   }
  },
  "account": [
@@ -328,6 +368,12 @@
    "date": "2026-10-30",
    "followers_count": 2,
    "media_count": 16,
+   "id": "29357876020471934"
+  },
+  {
+   "date": "2026-10-31",
+   "followers_count": 2,
+   "media_count": 18,
    "id": "29357876020471934"
   }
  ]
