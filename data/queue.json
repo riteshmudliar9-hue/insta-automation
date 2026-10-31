@@ -1277,10 +1277,15 @@
    "brand_consistency": 9,
    "publish_readiness": 8
   },
-  "status": "queued",
+  "status": "published",
   "produced_at": 1793406928,
-  "log": [],
+  "log": [
+   "2026-10-31T09:00:09.243536+05:30 published https://www.instagram.com/p/DfJMiRAAKt5/"
+  ],
   "dm_keyword": "",
-  "dm_text": ""
+  "dm_text": "",
+  "media_id": "18106136219124221",
+  "permalink": "https://www.instagram.com/p/DfJMiRAAKt5/",
+  "published_at": "2026-10-31T09:00:09.243536+05:30"
  }
 ]
