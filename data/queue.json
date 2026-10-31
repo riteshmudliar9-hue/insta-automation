@@ -1065,9 +1065,11 @@
    "brand_consistency": 9,
    "publish_readiness": 8
   },
-  "status": "queued",
+  "status": "published",
   "produced_at": 1793406928,
-  "log": [],
+  "log": [
+   "2026-10-31T21:55:25.725744+05:30 published https://www.instagram.com/reel/DfKlOB9kgCA/"
+  ],
   "dm_keyword": "DATA",
   "dm_text": "MeitY ke proposed DEPA framework ke mutabiq, AI training ke dauran sensitive data protect karne ke technical pillars:\n\n1. Confidential Clean Rooms: Secure computing environments jahan data processing hoti hai bina underlying dataset expose kiye.\n2. Differential Privacy: Aisi privacy technique jisse individual-level information identify ya extract nahi ho sakti.\n3. Electronic Contracts: Machine-readable agreements jo data-sharing conditions aur security enforce karte hain.\n4. Zero-Trust Security: Har access request authenticate aur encrypt hoti hai continuous monitoring ke sath.\n\nStandard chatbots mein raw customer GST, turnover aur margins direct paste mat karein.",
   "presenter": {
@@ -1240,7 +1242,10 @@
    "cta": "Comment DATA for privacy guide",
    "prompts_sent": true,
    "prompts_sent_at": 1793455352
-  }
+  },
+  "media_id": "18097498862137309",
+  "permalink": "https://www.instagram.com/reel/DfKlOB9kgCA/",
+  "published_at": "2026-10-31T21:55:25.725744+05:30"
  },
  {
   "id": "C1-2026-10-31",
