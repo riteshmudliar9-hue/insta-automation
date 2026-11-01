@@ -1506,10 +1506,15 @@
    "brand_consistency": 9,
    "publish_readiness": 8
   },
-  "status": "queued",
+  "status": "published",
   "produced_at": 1793493617,
-  "log": [],
+  "log": [
+   "2026-11-01T13:14:20.942868+05:30 published https://www.instagram.com/reel/DfMOYaHjNAS/"
+  ],
   "dm_keyword": "CONTRACT",
-  "dm_text": "Here is the contract screening framework used for legal diligence:\n\n1. Copy your contract text into ChatGPT, Claude, or Gemini.\n2. Paste this screening prompt: 'Act as a contract reviewer. Analyze this agreement and list all clauses related to: (a) late payment interest rates or daily penalties, (b) automatic contract renewal terms, (c) unilateral termination rights. Highlight any terms that seem strict or non-standard.'\n3. Review the flagged lines against your actual document before signing.\n\nNote: As noted by firms like Ropes & Gray, AI only provides a first pass summary; human verification is mandatory for final decisions."
+  "dm_text": "Here is the contract screening framework used for legal diligence:\n\n1. Copy your contract text into ChatGPT, Claude, or Gemini.\n2. Paste this screening prompt: 'Act as a contract reviewer. Analyze this agreement and list all clauses related to: (a) late payment interest rates or daily penalties, (b) automatic contract renewal terms, (c) unilateral termination rights. Highlight any terms that seem strict or non-standard.'\n3. Review the flagged lines against your actual document before signing.\n\nNote: As noted by firms like Ropes & Gray, AI only provides a first pass summary; human verification is mandatory for final decisions.",
+  "media_id": "17976311646157299",
+  "permalink": "https://www.instagram.com/reel/DfMOYaHjNAS/",
+  "published_at": "2026-11-01T13:14:20.942868+05:30"
  }
 ]
