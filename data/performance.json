@@ -18,7 +18,7 @@
     "ig_reels_avg_watch_time": 6470,
     "ig_reels_video_view_total_time": 51764
    },
-   "fetched": "2026-10-31T17:55:59.130556"
+   "fetched": "2026-11-01T17:56:40.598473"
   },
   "17986761333084821": {
    "id": "R3-2026-10-24",
@@ -38,7 +38,7 @@
     "ig_reels_avg_watch_time": 5815,
     "ig_reels_video_view_total_time": 157018
    },
-   "fetched": "2026-10-31T17:55:59.559670"
+   "fetched": "2026-11-01T17:56:41.081781"
   },
   "18340036819273934": {
    "id": "C2-2026-10-24",
@@ -58,7 +58,7 @@
     "profile_visits": 0,
     "follows": 0
    },
-   "fetched": "2026-10-31T17:56:00.006972"
+   "fetched": "2026-11-01T17:56:41.782688"
   },
   "18061930895631903": {
    "id": "C1-2026-10-24",
@@ -78,7 +78,7 @@
     "profile_visits": 0,
     "follows": 0
    },
-   "fetched": "2026-10-31T17:56:00.570048"
+   "fetched": "2026-11-01T17:56:42.244569"
   },
   "18095704943246132": {
    "id": "C3-2026-10-24",
@@ -98,7 +98,7 @@
     "profile_visits": 0,
     "follows": 0
    },
-   "fetched": "2026-10-31T17:56:01.124252"
+   "fetched": "2026-11-01T17:56:42.805662"
   },
   "18119016835995041": {
    "id": "C2-2026-10-25",
@@ -118,7 +118,7 @@
     "profile_visits": 1,
     "follows": 0
    },
-   "fetched": "2026-10-31T17:56:02.603678"
+   "fetched": "2026-11-01T17:56:43.349654"
   },
   "18079498841712347": {
    "id": "C4-2026-10-25",
@@ -138,7 +138,7 @@
     "profile_visits": 0,
     "follows": 0
    },
-   "fetched": "2026-10-31T17:56:03.113436"
+   "fetched": "2026-11-01T17:56:43.878926"
   },
   "18144724249610082": {
    "id": "C3-2026-10-25",
@@ -158,7 +158,7 @@
     "profile_visits": 0,
     "follows": 0
    },
-   "fetched": "2026-10-31T17:56:03.587481"
+   "fetched": "2026-11-01T17:56:44.361678"
   },
   "18636524926049964": {
    "id": "R1-2026-10-26",
@@ -178,7 +178,7 @@
     "ig_reels_avg_watch_time": 3870,
     "ig_reels_video_view_total_time": 247707
    },
-   "fetched": "2026-10-31T17:56:04.061839"
+   "fetched": "2026-11-01T17:56:44.806818"
   },
   "18170614912476873": {
    "id": "C1-2026-10-26",
@@ -198,7 +198,7 @@
     "profile_visits": 0,
     "follows": 0
    },
-   "fetched": "2026-10-31T17:56:04.667864"
+   "fetched": "2026-11-01T17:56:45.310334"
   },
   "18102419912561396": {
    "id": "R3-2026-10-28",
@@ -215,10 +215,10 @@
     "shares": 0,
     "saved": 0,
     "total_interactions": 1,
-    "ig_reels_avg_watch_time": 3512,
-    "ig_reels_video_view_total_time": 126449
+    "ig_reels_avg_watch_time": 3684,
+    "ig_reels_video_view_total_time": 136328
    },
-   "fetched": "2026-10-31T17:56:05.039719"
+   "fetched": "2026-11-01T17:56:46.711559"
   },
   "17989989126078110": {
    "id": "C1-2026-10-28",
@@ -238,7 +238,7 @@
     "profile_visits": 0,
     "follows": 0
    },
-   "fetched": "2026-10-31T17:56:05.532314"
+   "fetched": "2026-11-01T17:56:47.242474"
   },
   "18105185309634006": {
    "id": "C1-2026-10-29",
@@ -258,7 +258,7 @@
     "profile_visits": 0,
     "follows": 0
    },
-   "fetched": "2026-10-31T17:56:05.960520"
+   "fetched": "2026-11-01T17:56:47.833932"
   },
   "17914894887513259": {
    "id": "C1-2026-10-30",
@@ -268,8 +268,8 @@
    "topic": "Direct editing of business PDFs and Sheets inside Gemini chat",
    "date": "2026-10-30",
    "metrics": {
-    "reach": 3,
-    "views": 7,
+    "reach": 4,
+    "views": 8,
     "likes": 1,
     "comments": 0,
     "shares": 0,
@@ -278,7 +278,7 @@
     "profile_visits": 0,
     "follows": 0
    },
-   "fetched": "2026-10-31T17:56:06.917546"
+   "fetched": "2026-11-01T17:56:48.373451"
   },
   "18097498862137309": {
    "id": "R1-2026-10-31",
@@ -295,10 +295,10 @@
     "shares": 0,
     "saved": 0,
     "total_interactions": 1,
-    "ig_reels_avg_watch_time": 3288,
-    "ig_reels_video_view_total_time": 3288
+    "ig_reels_avg_watch_time": 27520,
+    "ig_reels_video_view_total_time": 55040
    },
-   "fetched": "2026-10-31T17:56:07.636876"
+   "fetched": "2026-11-01T17:56:48.827479"
   },
   "18106136219124221": {
    "id": "C1-2026-10-31",
@@ -308,8 +308,8 @@
    "topic": "Are you falling for the AI 'miracle' trap?",
    "date": "2026-10-31",
    "metrics": {
-    "reach": 1,
-    "views": 2,
+    "reach": 2,
+    "views": 3,
     "likes": 1,
     "comments": 0,
     "shares": 0,
@@ -318,7 +318,47 @@
     "profile_visits": 0,
     "follows": 0
    },
-   "fetched": "2026-10-31T17:56:08.123511"
+   "fetched": "2026-11-01T17:56:49.403553"
+  },
+  "18011779505776759": {
+   "id": "R3-2026-11-01",
+   "kind": "reel",
+   "format": "myth_fact",
+   "hook": "AI bot ki galti par law aapko zimmedar manega, vendor ko nahi.",
+   "topic": "Indian courts are already enforcing liability for AI errors—don't wait for an AI law",
+   "date": "2026-11-01",
+   "metrics": {
+    "reach": 0,
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 0,
+    "ig_reels_avg_watch_time": 0,
+    "ig_reels_video_view_total_time": 0
+   },
+   "fetched": "2026-11-01T17:56:49.873455"
+  },
+  "17976311646157299": {
+   "id": "R2-2026-11-01",
+   "kind": "reel",
+   "format": "demo",
+   "hook": "Contract me chhipi penalty clauses 30 second me AI se dhundho.",
+   "topic": "Using AI contract analysis tools to flag risky vendor agreement clauses automatically",
+   "date": "2026-11-01",
+   "metrics": {
+    "reach": 5,
+    "views": 6,
+    "likes": 1,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 1,
+    "ig_reels_avg_watch_time": 1507,
+    "ig_reels_video_view_total_time": 7536
+   },
+   "fetched": "2026-11-01T17:56:50.332996"
   }
  },
  "account": [
@@ -374,6 +414,12 @@
    "date": "2026-10-31",
    "followers_count": 2,
    "media_count": 18,
+   "id": "29357876020471934"
+  },
+  {
+   "date": "2026-11-01",
+   "followers_count": 2,
+   "media_count": 20,
    "id": "29357876020471934"
   }
  ]
