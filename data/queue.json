@@ -1342,7 +1342,7 @@
      "line": "Agar aapke AI tool ne koi galat decision liya, toh kanoon vendor ko nahi, aapko pakdega.",
      "visual_scene": -1,
      "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: medium close-up with a slow, smooth push-in towards his face. Points firmly towards the camera with a serious expression. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Agar aapke AI tool ne koi galat decision liya, toh kanoon vendor ko nahi, aapko pakdega.\" No subtitles, no on-screen text, no music, no other people.",
-     "msg_id": null,
+     "msg_id": 331,
      "file": null,
      "got_msg": null
     },
@@ -1353,7 +1353,7 @@
      "line": "Har AI output ke sath prompt, model version aur human approval ka audit log save karna zaroori hai.",
      "visual_scene": -1,
      "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: medium shot from slightly to his left (about 20 degrees), camera steady. Counts off three points on his fingers calmly. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Har AI output ke sath prompt, model version aur human approval ka audit log save karna zaroori hai.\" No subtitles, no on-screen text, no music, no other people.",
-     "msg_id": null,
+     "msg_id": 332,
      "file": null,
      "got_msg": null
     },
@@ -1363,7 +1363,7 @@
      "cover": 2,
      "desc": "Close-up of hands typing timestamps and verification notes on a laptop keyboard next to a physical ledger.",
      "prompt": "Create a realistic vertical 9:16 video of about 8 seconds: Close-up of hands typing timestamps and verification notes on a laptop keyboard next to a physical ledger. Indian small-business setting, warm natural light, handheld smartphone-camera look, slow subtle camera movement, shallow depth of field. No faces, no readable text, no brand names or logos, no subtitles, no speech, no music.",
-     "msg_id": null,
+     "msg_id": 333,
      "file": null,
      "got_msg": null
     },
@@ -1374,7 +1374,7 @@
      "line": "Comment AILAW, main aapko vendor se poochhne waale paanch zaroori compliance questions turant DM kar dunga.",
      "visual_scene": -1,
      "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: close-up, camera steady at eye level. Leans forward slightly with a reassuring smile. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Comment AILAW, main aapko vendor se poochhne waale paanch zaroori compliance questions turant DM kar dunga.\" No subtitles, no on-screen text, no music, no other people.",
-     "msg_id": null,
+     "msg_id": 334,
      "file": null,
      "got_msg": null
     }
@@ -1471,7 +1471,9 @@
    ],
    "composed_from": null,
    "hook_title": "AI Mistake, Aapki Zimmedari?",
-   "cta": "Comment AILAW for 5 questions"
+   "cta": "Comment AILAW for 5 questions",
+   "prompts_sent": true,
+   "prompts_sent_at": 1793541910
   }
  },
  {
