@@ -1294,5 +1294,222 @@
   "media_id": "18106136219124221",
   "permalink": "https://www.instagram.com/p/DfJMiRAAKt5/",
   "published_at": "2026-10-31T09:00:09.243536+05:30"
+ },
+ {
+  "id": "R3-2026-11-01",
+  "kind": "reel",
+  "date": "2026-11-01",
+  "slot": "2026-11-01T21:00",
+  "dir": "output/2026-11-01/R3-2026-11-01/try1",
+  "files": [
+   "reel.mp4"
+  ],
+  "caption": "AI legal liability for small businesses in India: why you cannot blame vendors for software errors. Many small business owners think using third-party AI tools shields them from legal trouble. But Indian courts and RBI guidelines state that model risk sits on the business using the tool, not the software vendor. The DPDPA also comes into full effect on May 13, 2027, making you accountable for data processing. Before deploying any AI tool for invoices, customer support, or approvals, ask your vendor if they log prompts, model versions, and human sign-offs. Comment AILAW for the 5 safety questions you must ask your AI vendor before signing up.\n\n#BusinessIndia #AILaw #Compliance #IndianBusiness #DataPrivacy",
+  "topic": "Indian courts are already enforcing liability for AI errors—don't wait for an AI law",
+  "format": "myth_fact",
+  "hook": "AI bot ki galti par law aapko zimmedar manega, vendor ko nahi.",
+  "keywords": [
+   "AI legal risk India",
+   "RBI AI guidance",
+   "DPDPA compliance small business",
+   "AI liability vendor",
+   "AI audit trail"
+  ],
+  "scores": {
+   "hook": 9,
+   "originality": 9,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 9,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "status": "queued",
+  "produced_at": 1793493617,
+  "log": [],
+  "dm_keyword": "AILAW",
+  "dm_text": "Here are the 5 questions to ask any AI vendor before deploying software in your business:\n\n1. Model Logs: Does the system record which exact model version handled each request?\n2. Data Export: Can decision records and prompts be exported and saved for audits?\n3. Inference Location: Where does inference physically take place and what happens to inputs after processing?\n4. Human Approval: Where in the workflow is human sign-off recorded?\n5. Legal Risk: Does the contract transfer model output risk entirely to the buyer?\n\nUnder RBI guidelines and DPDPA (effective May 13, 2027), legal responsibility stays with your business, not the software vendor.",
+  "presenter": {
+   "status": "waiting",
+   "takes": [
+    {
+     "n": 1,
+     "kind": "talk",
+     "talk": 1,
+     "line": "Agar aapke AI tool ne koi galat decision liya, toh kanoon vendor ko nahi, aapko pakdega.",
+     "visual_scene": -1,
+     "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: medium close-up with a slow, smooth push-in towards his face. Points firmly towards the camera with a serious expression. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Agar aapke AI tool ne koi galat decision liya, toh kanoon vendor ko nahi, aapko pakdega.\" No subtitles, no on-screen text, no music, no other people.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    },
+    {
+     "n": 2,
+     "kind": "talk",
+     "talk": 2,
+     "line": "Har AI output ke sath prompt, model version aur human approval ka audit log save karna zaroori hai.",
+     "visual_scene": -1,
+     "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: medium shot from slightly to his left (about 20 degrees), camera steady. Counts off three points on his fingers calmly. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Har AI output ke sath prompt, model version aur human approval ka audit log save karna zaroori hai.\" No subtitles, no on-screen text, no music, no other people.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    },
+    {
+     "n": 3,
+     "kind": "broll",
+     "cover": 2,
+     "desc": "Close-up of hands typing timestamps and verification notes on a laptop keyboard next to a physical ledger.",
+     "prompt": "Create a realistic vertical 9:16 video of about 8 seconds: Close-up of hands typing timestamps and verification notes on a laptop keyboard next to a physical ledger. Indian small-business setting, warm natural light, handheld smartphone-camera look, slow subtle camera movement, shallow depth of field. No faces, no readable text, no brand names or logos, no subtitles, no speech, no music.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    },
+    {
+     "n": 4,
+     "kind": "talk",
+     "talk": 3,
+     "line": "Comment AILAW, main aapko vendor se poochhne waale paanch zaroori compliance questions turant DM kar dunga.",
+     "visual_scene": -1,
+     "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: close-up, camera steady at eye level. Leans forward slightly with a reassuring smile. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Comment AILAW, main aapko vendor se poochhne waale paanch zaroori compliance questions turant DM kar dunga.\" No subtitles, no on-screen text, no music, no other people.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    }
+   ],
+   "material": "[83] YourStory — Waiting for an AI law is a poor compliance strategy\nURL: https://yourstory.com/2026/10/waiting-for-an-ai-law-is-a-poor-compliance-strategy\nSidebar is Loading... ADVERTISEMENT Waiting for an AI law is a poor compliance strategy | YourStory A bank has an AI system in place to flag suspicious transactions and take the call to freeze accounts. While the workflow has a human sign-off in place, clearing around 400 cases a day has resulted in the approval system becoming a formality. So, when a wrongly-frozen account takes the system to court, the bank becomes unable to prove what the human actually reviewed. This, unfortunately, is no longer a hypothetical scenario.\nOn July 2, 2026, the Supreme Court of India quashed orders passed by the National Company Law Tribunal and the National Company Law Appellate Tribunal in the Pooja Ramesh Singh v. Jammu and Kashmir Bank Ltd. case . The orders had rested on citations generated by an AI tool and attributed to the Supreme Court itself. This directed the Bar Council of India to constitute a committee to prescribe disciplinary norms for advocates who file AI-generated citations.\nThis is a business story as much as a legal one. Despite two tribunals and several rounds of proceedings, the parties had to carry the cost of a machine error that no human caught before filing. No AI statute was required to reach that outcome. Ordinary law, applied by judges, did the work.\nThe regulators are moving faster than the legislature\nFor most Indian companies, the sharper edge is coming from sectoral regulators rather than from the bench.\nIn early June this year, the Reserve Bank of India gave banks and other regulated entities until June 30 to submit gap assessments on frontier-AI cyber risk. Instead of having the CISO to file the note, the RBI had asked the board to sign one.\nLater, on June 24, the RBI publicly released a draft 'Guidance on Regulatory Principles for Model Risk Management' to establish a comprehensive enterprise-wide model governance framework for the financial sector. Here 'models' extend to third-party models, AI, and machine learning (ML) systems used by commercial banks, small finance banks, payments banks, NBFCs, and other financial institutions. So if a lending decision is influenced by a model licensed from a vendor, the model risk sits on the one putting the AI system to use and not the vendor who built it.\nMeanwhile, India's legislative position is still a work-in-progress. On October 8, 2026, Union Minister Ashwini Vaishnaw had assured that the time has come for India to get an AI law. In a first step towards this, the government will be launching a consultation paper on regulating artificial intelligence.\nHowever, any business that is treating a pending law as its compliance milestone has their sequencing backwards. Even when the statute arrives, it can only land on top of existing case laws and sectoral circulars, not in place of them. Regardless of what law comes into place, the Digital Personal Data Protection Act takes full effect on May 13, 2027. Businesses will be held accountable even if the data is being processed by an external vendor as the DPDPA will be applicable wherever an AI system handles personal data.\nBehind all the legal vocabulary, the requirements across all the domains are the same—one needs to show their working.\nFor any consequential decision made by an AI system, organisations must be able to have the visibility regarding which model produced the output, what data it drew on, whether a retrieval step was involved, who reviewed it before it went out, and whether that record still exists six months later.\nMultiple Indian firms have written a policy, appointed a committee, and deployed systems but can still not answer any of the above questions. This is clearly an architecture question before it is a policy-related one. Recording the model version, prompt, retrieved data and human sign-off for every AI decision is only cheap if it is thoughtfully designed for. It can, however, become close to impossible to reconstruct afterwards.\nIt is important for businesses to question an AI vendor before procuring a model. Does the system record which model version handled each request? Can that record be exported and retained? Where does inference physically happen? What happens to inputs after processing? Where in the workflow is a human required to act? Vendors that cannot answer plainly are transferring risk to the buyer.\nThere is not much point in waiting for an AI law. AI adoption is already in full swing, and when unprepared, the chain is only waiting to break. In the case of the tribunal matter, that chain broke at the review step. In an RBI-regulated entity, the chain is most likely to break earlier, at provenance, if nobody logged which version of which model scored the application.\nThe current strategy, albeit unglamorous, is to ensure that the record of every AI-assisted decision made can survive being read aloud. So while the law may still be pending, the question is not. When it does come, the answer will have to exist already.\n(The article has been authored by Ramprakash Ramamoorthy, Director - AI Research, Zoho Corporation)\n(Disclaimer: The views and opinions expressed in this article are those of the author and do not necessarily reflect the views of YourStory.)",
+   "scenes": [
+    {
+     "purpose": "Hook business owners on AI error liability",
+     "narration": "AI bot ki galti par law aapko zimmedar manega, vendor ko nahi.",
+     "on_screen": "AI Risk Liability",
+     "visual_type": "text",
+     "url": "",
+     "query": "",
+     "headline": "Who is liable for AI errors?",
+     "steps": [],
+     "items": [],
+     "left_label": "",
+     "right_label": "",
+     "rows": []
+    },
+    {
+     "purpose": "Provide concrete legal precedent and regulatory updates",
+     "narration": "Supreme Court ne fake AI citations waale tribunal orders quash kar diye hain.",
+     "on_screen": "Supreme Court Action",
+     "visual_type": "checklist",
+     "url": "",
+     "query": "",
+     "headline": "",
+     "steps": [],
+     "items": [
+      "AI citations quashed by Supreme Court",
+      "RBI model risk guidance active",
+      "DPDPA effective May 13 2027"
+     ],
+     "left_label": "",
+     "right_label": "",
+     "rows": []
+    },
+    {
+     "purpose": "Explain vendor risk transfer",
+     "narration": "RBI ke mutabiq AI model ka risk business use karne wale ka hai.",
+     "on_screen": "Vendor vs Business Risk",
+     "visual_type": "compare",
+     "url": "",
+     "query": "",
+     "headline": "",
+     "steps": [],
+     "items": [],
+     "left_label": "AI Vendor",
+     "right_label": "Your Business",
+     "rows": [
+      {
+       "left": "Sells AI tool",
+       "right": "Bears legal risk"
+      },
+      {
+       "left": "No liability",
+       "right": "Must show working log"
+      }
+     ]
+    },
+    {
+     "purpose": "Explain exact audit logging requirements",
+     "narration": "Aapko model version, prompt, input data aur human approval ka record rakhna hoga.",
+     "on_screen": "Required AI Audit Log",
+     "visual_type": "diagram",
+     "url": "",
+     "query": "",
+     "headline": "",
+     "steps": [
+      "Log prompt and input data",
+      "Record exact model version",
+      "Store human approval proof"
+     ],
+     "items": [],
+     "left_label": "",
+     "right_label": "",
+     "rows": []
+    },
+    {
+     "purpose": "Deliver payoff and DM comment hook",
+     "narration": "Comment AILAW, main aapko vendor se puchhne waale 5 compliance questions DM kar dunga.",
+     "on_screen": "Comment AILAW for Checklist",
+     "visual_type": "text",
+     "url": "",
+     "query": "",
+     "headline": "Get Vendor AI Checklist",
+     "steps": [],
+     "items": [],
+     "left_label": "",
+     "right_label": "",
+     "rows": []
+    }
+   ],
+   "composed_from": null,
+   "hook_title": "AI Mistake, Aapki Zimmedari?",
+   "cta": "Comment AILAW for 5 questions"
+  }
+ },
+ {
+  "id": "R2-2026-11-01",
+  "kind": "reel",
+  "date": "2026-11-01",
+  "slot": "2026-11-01T13:00",
+  "dir": "output/2026-11-01/R2-2026-11-01/try4",
+  "files": [
+   "reel.mp4"
+  ],
+  "caption": "How to screen vendor contracts for late payment penalties using AI tools before signing.\n\nWhen signing supplier or contractor agreements, hidden penalty clauses can cost you heavily. Large legal organizations like Ropes & Gray and Legora use AI for a first pass review, categorizing documents and surfacing key risks across contract sets. You can adopt this exact method: run a targeted prompt on any contract text to flag non-standard payment terms or automatic renewal traps. Remember, AI only does the initial diligence, human verification remains essential before signing.\n\nComment CONTRACT for the exact screening prompt.\n\n#ContractManagement #BusinessAutomation #LegalTech #IndianBusiness #ChatGPTForBusiness",
+  "topic": "Using AI contract analysis tools to flag risky vendor agreement clauses automatically",
+  "format": "demo",
+  "hook": "Contract me chhipi penalty clauses 30 second me AI se dhundho.",
+  "keywords": [
+   "AI contract analysis",
+   "vendor agreement screening",
+   "late payment penalty check",
+   "contract diligence prompt",
+   "small business legal automation"
+  ],
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 8,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "status": "queued",
+  "produced_at": 1793493617,
+  "log": [],
+  "dm_keyword": "CONTRACT",
+  "dm_text": "Here is the contract screening framework used for legal diligence:\n\n1. Copy your contract text into ChatGPT, Claude, or Gemini.\n2. Paste this screening prompt: 'Act as a contract reviewer. Analyze this agreement and list all clauses related to: (a) late payment interest rates or daily penalties, (b) automatic contract renewal terms, (c) unilateral termination rights. Highlight any terms that seem strict or non-standard.'\n3. Review the flagged lines against your actual document before signing.\n\nNote: As noted by firms like Ropes & Gray, AI only provides a first pass summary; human verification is mandatory for final decisions."
  }
 ]

@@ -302,5 +302,37 @@
   "status": "published",
   "media_id": "18106136219124221",
   "permalink": "https://www.instagram.com/p/DfJMiRAAKt5/"
+ },
+ {
+  "id": "R3-2026-11-01",
+  "date": "2026-11-01",
+  "kind": "reel",
+  "format": "myth_fact",
+  "topic": "Indian courts are already enforcing liability for AI errors—don't wait for an AI law",
+  "hook": "AI bot ki galti par law aapko zimmedar manega, vendor ko nahi.",
+  "keywords": [
+   "AI legal risk India",
+   "RBI AI guidance",
+   "DPDPA compliance small business",
+   "AI liability vendor",
+   "AI audit trail"
+  ],
+  "status": "queued"
+ },
+ {
+  "id": "R2-2026-11-01",
+  "date": "2026-11-01",
+  "kind": "reel",
+  "format": "demo",
+  "topic": "Using AI contract analysis tools to flag risky vendor agreement clauses automatically",
+  "hook": "Contract me chhipi penalty clauses 30 second me AI se dhundho.",
+  "keywords": [
+   "AI contract analysis",
+   "vendor agreement screening",
+   "late payment penalty check",
+   "contract diligence prompt",
+   "small business legal automation"
+  ],
+  "status": "queued"
  }
 ]
