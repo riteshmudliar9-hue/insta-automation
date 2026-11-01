@@ -1327,9 +1327,11 @@
    "brand_consistency": 9,
    "publish_readiness": 8
   },
-  "status": "queued",
+  "status": "published",
   "produced_at": 1793493617,
-  "log": [],
+  "log": [
+   "2026-11-01T21:57:22.856467+05:30 published https://www.instagram.com/reel/DfNKPPeEeqJ/"
+  ],
   "dm_keyword": "AILAW",
   "dm_text": "Here are the 5 questions to ask any AI vendor before deploying software in your business:\n\n1. Model Logs: Does the system record which exact model version handled each request?\n2. Data Export: Can decision records and prompts be exported and saved for audits?\n3. Inference Location: Where does inference physically take place and what happens to inputs after processing?\n4. Human Approval: Where in the workflow is human sign-off recorded?\n5. Legal Risk: Does the contract transfer model output risk entirely to the buyer?\n\nUnder RBI guidelines and DPDPA (effective May 13, 2027), legal responsibility stays with your business, not the software vendor.",
   "presenter": {
@@ -1474,7 +1476,10 @@
    "cta": "Comment AILAW for 5 questions",
    "prompts_sent": true,
    "prompts_sent_at": 1793541910
-  }
+  },
+  "media_id": "18011779505776759",
+  "permalink": "https://www.instagram.com/reel/DfNKPPeEeqJ/",
+  "published_at": "2026-11-01T21:57:22.856467+05:30"
  },
  {
   "id": "R2-2026-11-01",
