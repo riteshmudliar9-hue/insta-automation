@@ -1556,9 +1556,11 @@
    "brand_consistency": 9,
    "publish_readiness": 9
   },
-  "status": "queued",
+  "status": "published",
   "produced_at": 1793579805,
-  "log": [],
+  "log": [
+   "2026-11-02T22:18:25.918254+05:30 published https://www.instagram.com/reel/DfPxdktETRx/"
+  ],
   "dm_keyword": "CLOUD",
   "dm_text": "Here is your practical guide to running AI on standard office PCs without hardware upgrades: 1. Stop Buying Expensive Hardware: Global RAM shortages are driving up PC endpoint prices according to chipmakers like Intel. 2. Use Cloud Servers: Sam Altman (OpenAI CEO) noted local desktop RAM is used only 5% of the time. Data center RAM provides maximum utilization. 3. Simple Web Browser Setup: Instead of buying local AI PCs, open web interfaces like ChatGPT, Claude, or Google Gemini in your existing browser to handle text, quotations, and invoice summarization. 4. Save IT Budget: Keep your existing office PCs and let cloud servers handle the heavy compute load.",
   "presenter": {
@@ -1735,6 +1737,9 @@
    "cta": "Comment CLOUD for the guide",
    "prompts_sent": true,
    "prompts_sent_at": 1793626679
-  }
+  },
+  "media_id": "18088562087313529",
+  "permalink": "https://www.instagram.com/reel/DfPxdktETRx/",
+  "published_at": "2026-11-02T22:18:25.918254+05:30"
  }
 ]
