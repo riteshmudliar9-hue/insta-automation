@@ -1,14 +1,15 @@
-# Learnings (auto-generated 2026-11-01)
+# Learnings (auto-generated 2026-11-02)
 
-## reels (n=6, median reach 14)
-- format problem_fix: 3.70x account median (n=2)
-- format checklist: 2.74x account median (n=1)
-- format demo: 1.33x account median (n=1)
-- format tool_test: 0.67x account median (n=1)
-- format myth_fact: 0.30x account median (n=1)
-- best hooks: Accounting aur GST sheets ke liye ChatGPT mat use karo. | Most AI agents crash when they hit real business data. Here is how to test. | Contract me chhipi penalty clauses 30 second me AI se dhundho.
-- weakest hooks: AI agent ko apna net banking password mat dena. Boht bada risk hai. | Pending payments ke liye client ko call karna band karo. Ye dekho.
-- median avg watch time: 4.8s
+## reels (n=8, median reach 20)
+- format checklist: 5.62x account median (n=1)
+- format problem_fix: 4.07x account median (n=2)
+- format tool_test: 1.37x account median (n=1)
+- format myth_fact: 1.29x account median (n=2)
+- format demo: 0.37x account median (n=1)
+- format manual_vs_auto: 0.18x account median (n=1)
+- best hooks: Accounting aur GST sheets ke liye ChatGPT mat use karo. | Most AI agents crash when they hit real business data. Here is how to test. | AI bot ki galti par law aapko zimmedar manega, vendor ko nahi.
+- weakest hooks: AI kaam ke liye ₹1.5 Lakh ka mehanga laptop mat khareedo. | Contract me chhipi penalty clauses 30 second me AI se dhundho.
+- median avg watch time: 4.0s
 
 ## carousels (n=11, median reach 3)
 - format problem_fix: 4.00x account median (n=1)
