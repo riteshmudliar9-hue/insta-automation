@@ -1571,7 +1571,7 @@
      "line": "AI kaam ke liye naya laptop mat khareedo, RAM shortage se PC prices boht badh gaye hain.",
      "visual_scene": -1,
      "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: medium close-up with a slow, smooth push-in towards his face. Shakes his head firmly with a gentle warning hand gesture. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"AI kaam ke liye naya laptop mat khareedo, RAM shortage se PC prices boht badh gaye hain.\" No subtitles, no on-screen text, no music, no other people.",
-     "msg_id": null,
+     "msg_id": 351,
      "file": null,
      "got_msg": null
     },
@@ -1582,7 +1582,7 @@
      "line": "Sam Altman ke mutabiq desktop RAM sirf 5 percent use hoti hai, baaki sab cloud sambhalta hai.",
      "visual_scene": -1,
      "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: medium shot from slightly to his left (about 20 degrees), camera steady. Raises one finger to emphasize the single statistic. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Sam Altman ke mutabiq desktop RAM sirf 5 percent use hoti hai, baaki sab cloud sambhalta hai.\" No subtitles, no on-screen text, no music, no other people.",
-     "msg_id": null,
+     "msg_id": 352,
      "file": null,
      "got_msg": null
     },
@@ -1592,7 +1592,7 @@
      "cover": 2,
      "desc": "over-the-shoulder shot of hands typing on an older keyboard next to stacked paper ledgers",
      "prompt": "Create a realistic vertical 9:16 video of about 8 seconds: over-the-shoulder shot of hands typing on an older keyboard next to stacked paper ledgers. Indian small-business setting, warm natural light, handheld smartphone-camera look, slow subtle camera movement, shallow depth of field. No faces, no readable text, no brand names or logos, no subtitles, no speech, no music.",
-     "msg_id": null,
+     "msg_id": 353,
      "file": null,
      "got_msg": null
     },
@@ -1603,7 +1603,7 @@
      "line": "Purane PC par browser se kaam karo; comment CLOUD, main aapko web-based AI guide DM kar dunga.",
      "visual_scene": -1,
      "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: close-up, camera steady at eye level. Points directly towards the lens with a warm encouraging smile. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Purane PC par browser se kaam karo; comment CLOUD, main aapko web-based AI guide DM kar dunga.\" No subtitles, no on-screen text, no music, no other people.",
-     "msg_id": null,
+     "msg_id": 354,
      "file": null,
      "got_msg": null
     }
@@ -1732,7 +1732,9 @@
    ],
    "composed_from": null,
    "hook_title": "MEHANGA LAPTOP MAT KHAREEDO",
-   "cta": "Comment CLOUD for the guide"
+   "cta": "Comment CLOUD for the guide",
+   "prompts_sent": true,
+   "prompts_sent_at": 1793626679
   }
  }
 ]
