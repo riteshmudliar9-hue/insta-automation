@@ -338,5 +338,21 @@
   "status": "published",
   "media_id": "17976311646157299",
   "permalink": "https://www.instagram.com/reel/DfMOYaHjNAS/"
+ },
+ {
+  "id": "R3-2026-11-02",
+  "date": "2026-11-02",
+  "kind": "reel",
+  "format": "manual_vs_auto",
+  "topic": "Stop buying expensive AI PCs: Cloud API setup vs upgrading hardware amidst RAM shortages",
+  "hook": "AI kaam ke liye ₹1.5 Lakh ka mehanga laptop mat khareedo.",
+  "keywords": [
+   "AI PC",
+   "RAM shortage",
+   "cloud APIs",
+   "small business IT",
+   "ChatGPT"
+  ],
+  "status": "queued"
  }
 ]

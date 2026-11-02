@@ -1523,5 +1523,216 @@
   "media_id": "17976311646157299",
   "permalink": "https://www.instagram.com/reel/DfMOYaHjNAS/",
   "published_at": "2026-11-01T13:14:20.942868+05:30"
+ },
+ {
+  "id": "R3-2026-11-02",
+  "kind": "reel",
+  "date": "2026-11-02",
+  "slot": "2026-11-02T21:00",
+  "dir": "output/2026-11-02/R3-2026-11-02/try4",
+  "files": [
+   "reel.mp4"
+  ],
+  "caption": "Why buying expensive AI PCs for small offices is a waste of money when cloud APIs exist. With ongoing global RAM shortages squeezing memory supply, system endpoint prices are rising significantly across IT budgets. Instead of spending heavily on local PC upgrades, businesses get much higher efficiency using cloud-based web tools like ChatGPT, Claude, or Google Gemini. OpenAI CEO Sam Altman noted that personal PC RAM sits idle 95% of the time, whereas cloud data centers maximize memory utilization. Keep your existing office hardware and handle daily invoice summaries and text work directly through your browser. Comment CLOUD for the setup guide.\n\n#SmallBusinessTech #OfficeAutomation #CloudComputing #BusinessTools #TechTips",
+  "topic": "Stop buying expensive AI PCs: Cloud API setup vs upgrading hardware amidst RAM shortages",
+  "format": "manual_vs_auto",
+  "hook": "AI kaam ke liye ₹1.5 Lakh ka mehanga laptop mat khareedo.",
+  "keywords": [
+   "AI PC",
+   "RAM shortage",
+   "cloud APIs",
+   "small business IT",
+   "ChatGPT"
+  ],
+  "scores": {
+   "hook": 9,
+   "originality": 8,
+   "practical_value": 8,
+   "natural_language": 9,
+   "accuracy": 9,
+   "narrative": 9,
+   "visual_integrity": 9,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 9
+  },
+  "status": "queued",
+  "produced_at": 1793579805,
+  "log": [],
+  "dm_keyword": "CLOUD",
+  "dm_text": "Here is your practical guide to running AI on standard office PCs without hardware upgrades: 1. Stop Buying Expensive Hardware: Global RAM shortages are driving up PC endpoint prices according to chipmakers like Intel. 2. Use Cloud Servers: Sam Altman (OpenAI CEO) noted local desktop RAM is used only 5% of the time. Data center RAM provides maximum utilization. 3. Simple Web Browser Setup: Instead of buying local AI PCs, open web interfaces like ChatGPT, Claude, or Google Gemini in your existing browser to handle text, quotations, and invoice summarization. 4. Save IT Budget: Keep your existing office PCs and let cloud servers handle the heavy compute load.",
+  "presenter": {
+   "status": "waiting",
+   "takes": [
+    {
+     "n": 1,
+     "kind": "talk",
+     "talk": 1,
+     "line": "AI kaam ke liye naya laptop mat khareedo, RAM shortage se PC prices boht badh gaye hain.",
+     "visual_scene": -1,
+     "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: medium close-up with a slow, smooth push-in towards his face. Shakes his head firmly with a gentle warning hand gesture. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"AI kaam ke liye naya laptop mat khareedo, RAM shortage se PC prices boht badh gaye hain.\" No subtitles, no on-screen text, no music, no other people.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    },
+    {
+     "n": 2,
+     "kind": "talk",
+     "talk": 2,
+     "line": "Sam Altman ke mutabiq desktop RAM sirf 5 percent use hoti hai, baaki sab cloud sambhalta hai.",
+     "visual_scene": -1,
+     "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: medium shot from slightly to his left (about 20 degrees), camera steady. Raises one finger to emphasize the single statistic. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Sam Altman ke mutabiq desktop RAM sirf 5 percent use hoti hai, baaki sab cloud sambhalta hai.\" No subtitles, no on-screen text, no music, no other people.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    },
+    {
+     "n": 3,
+     "kind": "broll",
+     "cover": 2,
+     "desc": "over-the-shoulder shot of hands typing on an older keyboard next to stacked paper ledgers",
+     "prompt": "Create a realistic vertical 9:16 video of about 8 seconds: over-the-shoulder shot of hands typing on an older keyboard next to stacked paper ledgers. Indian small-business setting, warm natural light, handheld smartphone-camera look, slow subtle camera movement, shallow depth of field. No faces, no readable text, no brand names or logos, no subtitles, no speech, no music.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    },
+    {
+     "n": 4,
+     "kind": "talk",
+     "talk": 3,
+     "line": "Purane PC par browser se kaam karo; comment CLOUD, main aapko web-based AI guide DM kar dunga.",
+     "visual_scene": -1,
+     "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: close-up, camera steady at eye level. Points directly towards the lens with a warm encouraging smile. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Purane PC par browser se kaam karo; comment CLOUD, main aapko web-based AI guide DM kar dunga.\" No subtitles, no on-screen text, no music, no other people.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    }
+   ],
+   "material": "[8] TechCrunch AI — Intel’s stock crashes, knocking $12B from government’s stake\nURL: https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/\n–:–:–:– Buy One Founder Summit Ticket, Get a Second for Free. Register now.\nFounder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts. REGISTER HERE.\nImage Credits: Intel Enterprise Intel’s stock crashes, knocking $12B from government’s stake Julie Bort 2:54 PM PDT · October 30, 2026 Intel’s stock suffered one of its worst days ever on Friday, crashing around 28% after the chip giant reported a weaker-than-expected outlook for the fourth quarter.\nThis rout reduced the value of Intel’s holdings by the government by $12 billion, CNBC reports . The Trump administration had the government buy 10% stake over a year ago. Nvidia, which also took a big stake in Intel in 2025, saw its stock drop a bit on Friday as well. Much of the tech industry — especially chipmakers — were caught in the sell-off.\nIntel’s stock is still a profitable investment for the government so far (and for Nvidia), as it’s up more than 70% for the year, even if it’s dropped significantly from the sky-high prices it commanded over the summer.\nThe scare-off was caused when Intel warned to expect revenue of $15 billion to $16 billion in the fourth quarter when analysts were looking for around $17 billion. It also warned that its gross profit margin would decline to 37% from 43%, and it was investing so heavily, it expected no positive cash flow.\nThe main problem for Intel is that PC sales are being hurt by the AI industry gobbling memory and other components, and causing PC prices to rise .\n“Our customers began signaling a PC slowdown based on the memory prices and availability. Year-to-date system endpoint prices have increased significantly, placing additional pressure on already limited IT budgets,” Intel CEO Lip-Bu Tan warned on the call.\nThe bright side is that revenue from Intel’s data center business grew 78% over the year-ago quarter. But it is hamstrung on that front until it can bring more capacity to its fabs and book more external customers for them, competing with powerhouse Taiwan Semiconductor Manufacturing Co . One of Intel’s new fabs in Arizona is operational but the next one isn’t expected to be online until 2028.\nWhen you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence.\nNovember 4 Boston Buy One Pass, Get a Second Free Cover more ground at TechCrunch’s ultimate founder bootcamp of the year by bringing your co-founder or partner for free Book before the BOGO deal expires\nAnthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says\nGoogle’s first data center satellite is online and writing poetry\nAs search traffic dries up, Reddit announces it’s shifting to a logged-in experience\nAI execs may be too out of touch to build for the general public\nVCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more\nBillionaire Palmer Luckey isn’t leaving California over the wealth tax\nAnduril, Qualcomm launch BlueChip, a new kind of US-made laptop\n\n[12] The Verge AI — Sam Altman says it’s better for RAM to be in a data center than on your desk\nURL: https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers\nSam Altman says it’s better for RAM to be in a data center than on your desk | The Verge Skip to main content The homepage The Verge The Verge logo. The homepage The Verge The Verge logo. Notifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo. Login / Sign Up\nComments Loading comments Getting the conversation ready... AI\nAs OpenAI’s buying spree squeezes the world’s supply of RAM, its CEO explains why he needs so much.﻿\nAs OpenAI’s buying spree squeezes the world’s supply of RAM, its CEO explains why he needs so much.﻿\nStevie Bonifield Oct 30, 2026, 8:48 PM UTC Link\nStevie Bonifield is a news writer covering all things consumer tech. Stevie started out at Laptop Mag writing news and reviews on hardware, gaming, and AI. Asked about supply chain shortages, like the ongoing RAM shortage , OpenAI CEO Sam Altman said in an interview that it’s “terrible” to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented on AI’s impact on math , Altman said:\n“A lot of people want local inference. And somehow, they assume that the problem is solved now because we are going to have open-source models, we’re going to be able to run them on our computers, and so we’re not going to need all the stuff in the data center.\nBut from a global allocation perspective, actually, it’s quite terrible to have everybody have a bunch of the world’s limited supply of DRAM sitting in their own computer and being used five percent of the time.\nYou want maximum utilization in the cloud if you’re trying to deal with this very supply constrained environment. And somehow everyone’s— many people’s intuition is the opposite of that.”\nWhether Altman meant your gaming PC or developers working with something like the Surface RTX Spark Dev Box or the new touchscreen MacBook Pro , the outcome is the same. Right now, memory companies Samsung and SK Hynix have long term deals with cloud service operators and projects like OpenAI’s Stargate that have reserved much of the world’s RAM output over the next few years. And the billions they’re willing to lay out for chips is why the laptops, phones, and other tech you use are getting more expensive right now.\nMore in: RAM price hikes: the latest on the global memory shortage\nNew Zelda and GTA represent a games industry that no longer exists\nHomePod Mini 2 first look: Three things I love and one disappointment\nSam Altman says it’s better for RAM to be in a data center than on your desk\nSam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop\nThe Verge The Verge logo. Sign in to see your notifications or create an account to join the conversation.",
+   "scenes": [
+    {
+     "purpose": "Hook warning against expensive AI PC upgrades",
+     "narration": "AI kaam ke liye ₹1.5 Lakh ka mehanga laptop mat khareedo.",
+     "on_screen": "Don't Buy AI PCs",
+     "visual_type": "compare",
+     "url": "",
+     "query": "",
+     "headline": "",
+     "steps": [],
+     "items": [],
+     "left_label": "Local AI PC",
+     "right_label": "Cloud Setup",
+     "rows": [
+      {
+       "left": "₹1.5 Lakh Cost",
+       "right": "Existing PC"
+      },
+      {
+       "left": "RAM Shortage",
+       "right": "Browser Access"
+      }
+     ]
+    },
+    {
+     "purpose": "Highlight rising PC prices due to memory shortages",
+     "narration": "RAM shortage ki wajah se endpoints aur PC prices boht badh chuke hain.",
+     "on_screen": "PC Prices Rising",
+     "visual_type": "text",
+     "url": "",
+     "query": "",
+     "headline": "RAM Shortage Is Driving PC Costs Up",
+     "steps": [],
+     "items": [],
+     "left_label": "",
+     "right_label": "",
+     "rows": []
+    },
+    {
+     "purpose": "Explain low local utilization cited by Sam Altman",
+     "narration": "OpenAI CEO Sam Altman ne kaha ki desktop RAM sirf 5 percent use hota hai.",
+     "on_screen": "5 Percent Local Use",
+     "visual_type": "checklist",
+     "url": "",
+     "query": "",
+     "headline": "",
+     "steps": [],
+     "items": [
+      "Desktop RAM used 5% of time",
+      "Cloud servers maximize memory",
+      "Data centers handle heavy processing"
+     ],
+     "left_label": "",
+     "right_label": "",
+     "rows": []
+    },
+    {
+     "purpose": "Detail specific cloud tools for daily office tasks",
+     "narration": "Browser mein ChatGPT, Claude ya Gemini se invoice summarization easily ho jata hai.",
+     "on_screen": "Use Cloud Web Apps",
+     "visual_type": "diagram",
+     "url": "",
+     "query": "",
+     "headline": "",
+     "steps": [
+      "Standard Office PC",
+      "Open Browser",
+      "ChatGPT Claude Gemini",
+      "Instant Summarization"
+     ],
+     "items": [],
+     "left_label": "",
+     "right_label": "",
+     "rows": []
+    },
+    {
+     "purpose": "Compare local hardware versus cloud setup",
+     "narration": "Purane office PC par web browser chalao. Load cloud data center sambhalega.",
+     "on_screen": "Cloud Handles Load",
+     "visual_type": "compare",
+     "url": "",
+     "query": "",
+     "headline": "",
+     "steps": [],
+     "items": [],
+     "left_label": "Local Hardware",
+     "right_label": "Cloud Web API",
+     "rows": [
+      {
+       "left": "Expensive Upgrade",
+       "right": "Zero Hardware Cost"
+      },
+      {
+       "left": "Idle 95% Time",
+       "right": "Full Utilization"
+      },
+      {
+       "left": "Hardware Bottleneck",
+       "right": "Cloud Data Center"
+      }
+     ]
+    },
+    {
+     "purpose": "Provide comment hook and takeaway checklist",
+     "narration": "Comment CLOUD, main aapko web-based AI guide DM kar dunga.",
+     "on_screen": "Comment CLOUD Below",
+     "visual_type": "checklist",
+     "url": "",
+     "query": "",
+     "headline": "",
+     "steps": [],
+     "items": [
+      "No hardware upgrade needed",
+      "Web browser AI workflow",
+      "Save IT budget"
+     ],
+     "left_label": "",
+     "right_label": "",
+     "rows": []
+    }
+   ],
+   "composed_from": null,
+   "hook_title": "MEHANGA LAPTOP MAT KHAREEDO",
+   "cta": "Comment CLOUD for the guide"
+  }
  }
 ]
