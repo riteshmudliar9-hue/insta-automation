@@ -1789,7 +1789,7 @@
      "line": "Daily receipt entry Excel me karna band karo, iski jagah ye automatic system set karo.",
      "visual_scene": -1,
      "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: medium close-up with a slow, smooth push-in towards his face. Leans in slightly towards the camera with a firm expression. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Daily receipt entry Excel me karna band karo, iski jagah ye automatic system set karo.\" No subtitles, no on-screen text, no music, no other people.",
-     "msg_id": null,
+     "msg_id": 370,
      "file": null,
      "got_msg": null
     },
@@ -1800,7 +1800,7 @@
      "line": "Zapier me receipt upload trigger lagao, Grok photo se details nikaal kar Google Sheet me bhej dega.",
      "visual_scene": -1,
      "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: medium shot from slightly to his left (about 20 degrees), camera steady. Raises two fingers to emphasize the steps in the workflow. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Zapier me receipt upload trigger lagao, Grok photo se details nikaal kar Google Sheet me bhej dega.\" No subtitles, no on-screen text, no music, no other people.",
-     "msg_id": null,
+     "msg_id": 371,
      "file": null,
      "got_msg": null
     },
@@ -1810,7 +1810,7 @@
      "cover": 2,
      "desc": "close-up of a shopkeeper's hands typing on a laptop next to a stack of paper invoices on a wooden counter",
      "prompt": "Create a realistic vertical 9:16 video of about 8 seconds: close-up of a shopkeeper's hands typing on a laptop next to a stack of paper invoices on a wooden counter. Indian small-business setting, warm natural light, handheld smartphone-camera look, slow subtle camera movement, shallow depth of field. No faces, no readable text, no brand names or logos, no subtitles, no speech, no music.",
-     "msg_id": null,
+     "msg_id": 372,
      "file": null,
      "got_msg": null
     },
@@ -1821,7 +1821,7 @@
      "line": "Grok step ke liye xAI API key lagegi. Comment GROK, main aapko receipt extraction workflow steps DM kar dunga.",
      "visual_scene": -1,
      "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: close-up, camera steady at eye level. Smiles warmly and points directly towards the camera lens. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Grok step ke liye xAI API key lagegi. Comment GROK, main aapko receipt extraction workflow steps DM kar dunga.\" No subtitles, no on-screen text, no music, no other people.",
-     "msg_id": null,
+     "msg_id": 373,
      "file": null,
      "got_msg": null
     }
@@ -1940,7 +1940,9 @@
    ],
    "composed_from": null,
    "hook_title": "STOP MANUAL EXCEL ENTRY",
-   "cta": "Comment GROK for setup steps"
+   "cta": "Comment GROK for setup steps",
+   "prompts_sent": true,
+   "prompts_sent_at": 1793714295
   }
  },
  {
