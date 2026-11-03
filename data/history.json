@@ -356,5 +356,37 @@
   "status": "published",
   "media_id": "18088562087313529",
   "permalink": "https://www.instagram.com/reel/DfPxdktETRx/"
+ },
+ {
+  "id": "R3-2026-11-03",
+  "date": "2026-11-03",
+  "kind": "reel",
+  "format": "audience_q",
+  "topic": "Cut 40 minutes of daily bookkeeping to 5 minutes.",
+  "hook": "Daily receipt entry Excel me karna band karo. Iski jagah ye karo.",
+  "keywords": [
+   "Zapier Grok receipt extraction",
+   "automate bill entry Google Sheets",
+   "extract data from receipt image AI",
+   "Zapier SpaceXSI API key",
+   "spreadsheet data entry automation"
+  ],
+  "status": "queued"
+ },
+ {
+  "id": "C1-2026-11-03",
+  "date": "2026-11-03",
+  "kind": "carousel",
+  "format": "problem_fix",
+  "topic": "Your invoices are visible to Google's ad algorithms",
+  "hook": "Block multiple AI web scrapers with one standard setting",
+  "keywords": [
+   "AI web scraping opt out",
+   "robots.txt AI training",
+   "block AI crawlers",
+   "website data privacy",
+   "small business website setup"
+  ],
+  "status": "queued"
  }
 ]

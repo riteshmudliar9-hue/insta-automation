@@ -1,0 +1,366 @@
+{
+ "date": "2026-11-03",
+ "tag": "2026-11-03",
+ "pilot": false,
+ "sources": 94,
+ "ideas": 14,
+ "idea_list": [
+  {
+   "idea": "Your invoices are visible to Google's ad algorithms",
+   "format": "problem_fix",
+   "total": 9.57,
+   "scores": {
+    "relevance": 10,
+    "novelty": 8,
+    "hook_potential": 10,
+    "retention": 9,
+    "save_share": 10,
+    "feasibility": 10,
+    "evidence": 9,
+    "viral": 10
+   }
+  },
+  {
+   "idea": "AI bot ki galti par law aapko zimmedar manega, vendor ko nahi.",
+   "format": "myth_fact",
+   "total": 9.42,
+   "scores": {
+    "relevance": 9,
+    "novelty": 9,
+    "hook_potential": 10,
+    "retention": 9,
+    "save_share": 10,
+    "feasibility": 10,
+    "evidence": 8,
+    "viral": 10
+   }
+  },
+  {
+   "idea": "Stop letting AI agents access your banking passwords",
+   "format": "myth_fact",
+   "total": 9.34,
+   "scores": {
+    "relevance": 10,
+    "novelty": 8,
+    "hook_potential": 10,
+    "retention": 9,
+    "save_share": 10,
+    "feasibility": 10,
+    "evidence": 7,
+    "viral": 10
+   }
+  },
+  {
+   "idea": "Pending payments ke liye client ko call karna band karo. Ye dekho.",
+   "format": "problem_fix",
+   "total": 9.29,
+   "scores": {
+    "relevance": 10,
+    "novelty": 7,
+    "hook_potential": 10,
+    "retention": 9,
+    "save_share": 10,
+    "feasibility": 9,
+    "evidence": 8,
+    "viral": 10
+   }
+  },
+  {
+   "idea": "Don't use ChatGPT for your business accounting data",
+   "format": "problem_fix",
+   "total": 9.24,
+   "scores": {
+    "relevance": 10,
+    "novelty": 6,
+    "hook_potential": 10,
+    "retention": 9,
+    "save_share": 10,
+    "feasibility": 10,
+    "evidence": 8,
+    "viral": 10
+   }
+  },
+  {
+   "idea": "Cut 40 minutes of daily bookkeeping to 5 minutes.",
+   "format": "audience_q",
+   "total": 9.17,
+   "scores": {
+    "relevance": 10,
+    "novelty": 7,
+    "hook_potential": 10,
+    "retention": 9,
+    "save_share": 10,
+    "feasibility": 9,
+    "evidence": 7,
+    "viral": 10
+   }
+  },
+  {
+   "idea": "Stop buying AI subscriptions until you calculate ROI",
+   "format": "myth_fact",
+   "total": 8.9,
+   "scores": {
+    "relevance": 10,
+    "novelty": 7,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 10,
+    "feasibility": 10,
+    "evidence": 8,
+    "viral": 9
+   }
+  },
+  {
+   "idea": "AI kaam ke liye ₹1.5 Lakh ka mehanga laptop mat khareedo",
+   "format": "manual_vs_auto",
+   "total": 8.88,
+   "scores": {
+    "relevance": 10,
+    "novelty": 7,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 10,
+    "evidence": 9,
+    "viral": 9
+   }
+  },
+  {
+   "idea": "Contract me chhipi penalty clauses 30 second me AI se dhundho",
+   "format": "demo",
+   "total": 8.67,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 8,
+    "viral": 9
+   }
+  },
+  {
+   "idea": "Why your AI agents keep making expensive mistakes",
+   "format": "myth_fact",
+   "total": 8.57,
+   "scores": {
+    "relevance": 9,
+    "novelty": 7,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 8,
+    "viral": 9
+   }
+  },
+  {
+   "idea": "Buying AI for your business? Check these 5 things first.",
+   "format": "checklist",
+   "total": 8.22,
+   "scores": {
+    "relevance": 9,
+    "novelty": 6,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 10,
+    "feasibility": 10,
+    "evidence": 7,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Bulk-cleaning messy customer phone numbers and GSTIN entries using AI",
+   "format": "tutorial",
+   "total": 8.12,
+   "scores": {
+    "relevance": 9,
+    "novelty": 7,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 7,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Design posters in 2 steps without paying freelance designers",
+   "format": "tutorial",
+   "total": 8.12,
+   "scores": {
+    "relevance": 9,
+    "novelty": 7,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 7,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Edit invoices and sheets directly inside Google Gemini.",
+   "format": "demo",
+   "total": 7.78,
+   "scores": {
+    "relevance": 8,
+    "novelty": 7,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 9,
+    "evidence": 8,
+    "viral": 7
+   }
+  }
+ ],
+ "rejected_ideas": [
+  [
+   "Don't use ChatGPT for your business accounting data",
+   "low relevance or novelty"
+  ],
+  [
+   "Buying AI for your business? Check these 5 things first.",
+   "low relevance or novelty"
+  ],
+  [
+   "Bulk-cleaning messy customer phone numbers and GSTIN entries using AI",
+   "too similar (0.50) to: Bulk-cleaning messy customer phone numbers and GSTIN entries using AI Apps Script"
+  ]
+ ],
+ "items": [
+  {
+   "id": "R1-2026-11-03",
+   "kind": "reel",
+   "format": "myth_fact",
+   "topic": "AI bot ki galti par law aapko zimmedar manega, vendor ko nahi.",
+   "hook": "AI tool ki galat billing par vendor court nahi jaayega, aap jaoge.",
+   "approved": false,
+   "attempts": 4,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 9,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 9,
+    "pacing": 8,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [
+    "scene 5 narration 19 words (want 4-14)"
+   ],
+   "log": [
+    "attempt 1: fail {'hook': 6, 'originality': 7, 'practical_value': 6, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['scene 6 narration 22 words (want 4-14)', 'hook 6/10 (<8)', 'originality 7/10 (<8)', 'practical_value 6/10 (<8)']",
+    "attempt 2: fail {'hook': 8, 'originality': 8, 'practical_value': 7, 'natural_language': 8, 'accuracy': 8, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['scene 2: compare needs rows', 'practical_value 7/10 (<8)']",
+    "attempt 3: fail {'hook': 8, 'originality': 7, 'practical_value': 6, 'natural_language': 8, 'accuracy': 8, 'narrative': 7, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'practical_value 6/10 (<8)', 'narrative 7/10 (<8)']",
+    "attempt 4: fail {'hook': 8, 'originality': 7, 'practical_value': 9, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['scene 5 narration 19 words (want 4-14)']"
+   ],
+   "dir": "output/2026-11-03/R1-2026-11-03/try4",
+   "duration": 34.4,
+   "voice": "gemini"
+  },
+  {
+   "id": "R2-2026-11-03",
+   "kind": "reel",
+   "format": "problem_fix",
+   "topic": "Pending payments ke liye client ko call karna band karo. Ye dekho.",
+   "hook": "ChatGPT se sirf message mat likhwao. Ye naya feature dekho.",
+   "approved": false,
+   "attempts": 2,
+   "scores": {
+    "hook": 7,
+    "originality": 7,
+    "practical_value": 6,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 9,
+    "pacing": 8,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [
+    "scene 3 narration 19 words (want 4-14)",
+    "hook 7/10 (<8)",
+    "originality 7/10 (<8)",
+    "practical_value 6/10 (<8)"
+   ],
+   "log": [
+    "attempt 1: fail {'hook': 6, 'originality': 5, 'practical_value': 4, 'natural_language': 7, 'accuracy': 8, 'narrative': 6, 'visual_integrity': 8, 'pacing': 7, 'brand_consistency': 7, 'publish_readiness': 5} ['hook 6/10 (<8)', 'originality 5/10 (<8)', 'practical_value 4/10 (<8)', 'natural_language 7/10 (<8)']",
+    "attempt 2: fail {'hook': 7, 'originality': 7, 'practical_value': 6, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['scene 3 narration 19 words (want 4-14)', 'hook 7/10 (<8)', 'originality 7/10 (<8)', 'practical_value 6/10 (<8)']",
+    "attempt 3: fail {'hook': 5, 'originality': 5, 'practical_value': 2, 'natural_language': 6, 'accuracy': 5, 'narrative': 5, 'visual_integrity': 8, 'pacing': 6, 'brand_consistency': 8, 'publish_readiness': 3} ['hook 5/10 (<8)', 'originality 5/10 (<8)', 'practical_value 2/10 (<8)', 'natural_language 6/10 (<8)']",
+    "attempt 4: fail {'hook': 6, 'originality': 5, 'practical_value': 4, 'natural_language': 6, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 5, 'pacing': 7, 'brand_consistency': 5, 'publish_readiness': 5} ['hook 6/10 (<8)', 'originality 5/10 (<8)', 'practical_value 4/10 (<8)', 'natural_language 6/10 (<8)']"
+   ],
+   "dir": "output/2026-11-03/R2-2026-11-03/try2",
+   "duration": 34.1,
+   "voice": "edge"
+  },
+  {
+   "id": "R3-2026-11-03",
+   "kind": "reel",
+   "format": "audience_q",
+   "topic": "Cut 40 minutes of daily bookkeeping to 5 minutes.",
+   "hook": "Daily receipt entry Excel me karna band karo. Iski jagah ye karo.",
+   "approved": true,
+   "attempts": 1,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 8,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 9,
+    "pacing": 8,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [],
+   "log": [
+    "attempt 1: PASS {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} []"
+   ],
+   "dir": "output/2026-11-03/R3-2026-11-03/try1",
+   "duration": 34.3,
+   "voice": "edge"
+  },
+  {
+   "id": "C1-2026-11-03",
+   "kind": "carousel",
+   "format": "problem_fix",
+   "topic": "Your invoices are visible to Google's ad algorithms",
+   "hook": "Block multiple AI web scrapers with one standard setting",
+   "approved": true,
+   "attempts": 2,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 8,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 9,
+    "pacing": 9,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [],
+   "log": [
+    "attempt 1: fail {'hook': 8, 'originality': 7, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} ['originality 7/10 (<8)', 'practical_value 7/10 (<8)']",
+    "attempt 2: PASS {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} []"
+   ],
+   "dir": "output/2026-11-03/C1-2026-11-03/try2",
+   "duration": null,
+   "voice": null
+  }
+ ],
+ "llm_calls": {
+  "text": 23,
+  "tts": 24,
+  "failed": 0
+ }
+}

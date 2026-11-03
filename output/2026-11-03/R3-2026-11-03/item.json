@@ -1,0 +1,254 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Cut 40 minutes of daily bookkeeping to 5 minutes.",
+  "angle": "Automate data entry from emails to spreadsheets using AI triggers.",
+  "audience_problem": "Traders waste hours manual-entering order details from emails into Excel.",
+  "format": "audience_q",
+  "medium": "reel",
+  "source_ids": [
+   42,
+   63
+  ],
+  "evergreen": true,
+  "keywords": [
+   "bookkeeping",
+   "automation",
+   "email to sheet",
+   "time saving"
+  ],
+  "scores": {
+   "relevance": 10,
+   "novelty": 7,
+   "hook_potential": 10,
+   "retention": 9,
+   "save_share": 10,
+   "feasibility": 9,
+   "evidence": 7,
+   "viral": 10
+  },
+  "total": 9.17
+ },
+ "piece": {
+  "hooks": [
+   "Agar aap bills se data Excel me manually enter kar rahe ho, ye dekho.",
+   "Receipts aur bill data typing ka time 90% bacha sakte ho.",
+   "Daily receipt entry Excel me karna band karo. Iski jagah ye karo.",
+   "Google Drive me bill photo dalo, Excel data entry automatic ho jayegi.",
+   "Manual bill entry me ghante waste ho rahe hain? Ye AI workflow set karo."
+  ],
+  "chosen_hook": 2,
+  "hook_reason": "It directly addresses a concrete chore faced by business owners and offers an immediate alternative action without sounding hyped.",
+  "title": "Automate Receipt Data Entry to Spreadsheets with Grok and Zapier",
+  "scenes": [
+   {
+    "purpose": "Hook",
+    "narration": "Daily receipt entry Excel me karna band karo. Iski jagah ye karo.",
+    "on_screen": "Stop Manual Bill Entry",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Automate Receipt Data Entry",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Problem and Context",
+    "narration": "Say aap hardware shop chalate ho. Supplier bills aur receipts typing me boht time jata hai.",
+    "on_screen": "Manual Entry Problem",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "Manual Entry",
+    "right_label": "AI Automation",
+    "rows": [
+     {
+      "left": "Type every bill",
+      "right": "Upload image"
+     },
+     {
+      "left": "Typing errors",
+      "right": "Direct extraction"
+     },
+     {
+      "left": "Daily manual work",
+      "right": "Background process"
+     }
+    ]
+   },
+   {
+    "purpose": "Trigger Step",
+    "narration": "Zapier me new receipt ya screenshot upload ko trigger ki tarah set karo.",
+    "on_screen": "Set Upload Trigger",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "Upload receipt photo",
+     "Save to Drive or QuickBooks",
+     "Trigger Zapier Zap"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "AI Data Extraction",
+    "narration": "Grok integration add karo to read bill image and extract required details.",
+    "on_screen": "Grok Reads Image",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "Pass image to Grok step",
+     "Extract dates and amounts",
+     "Parse items and vendor"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Destination and Caveat",
+    "narration": "Grok details Google Sheet me bhej dega. Grok Zap step ke liye SpaceXSI API key chahiye.",
+    "on_screen": "Log to Google Sheets",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Updates Google Sheet rows",
+     "Requires SpaceXSI API key",
+     "Consumes Zapier task allowance"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Call to Action",
+    "narration": "Comment GROK, main aapko receipt extraction workflow steps DM kar dunga.",
+    "on_screen": "Comment GROK For Steps",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Get The Setup Guide",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "Stop typing receipt details into Excel spreadsheets manually. You can set up Zapier with the Grok integration to read receipt photos or report screenshots from Google Drive or QuickBooks, extract key numbers, and automatically log them into Google Sheets or Slack. Keep in mind that using Grok inside the Zap editor requires an API key from your SpaceXSI account, and each step uses your Zapier task allowance. How do you log daily bill data right now? Comment GROK for workflow setup details.",
+  "hashtags": [
+   "#ZapierAutomation",
+   "#GrokAI",
+   "#ExcelAutomation",
+   "#SmallBusinessIndia"
+  ],
+  "keywords": [
+   "Zapier Grok receipt extraction",
+   "automate bill entry Google Sheets",
+   "extract data from receipt image AI",
+   "Zapier SpaceXSI API key",
+   "spreadsheet data entry automation"
+  ],
+  "claims": [
+   {
+    "claim": "Grok can read receipts, report screenshots, or charts uploaded to Google Drive or QuickBooks and send key details to Slack or Google Sheets.",
+    "source_id": 63
+   },
+   {
+    "claim": "Using the Grok integration in the Zap editor requires connecting a SpaceXSI account with an API key, billed by SpaceXSI, on top of Zapier tasks.",
+    "source_id": 63
+   },
+   {
+    "claim": "Zapier lets you connect Grok to over 9,000 apps.",
+    "source_id": 63
+   }
+  ],
+  "dm_keyword": "GROK",
+  "dm_text": "Here is how to set up automated receipt data entry:\n\n1. Set up a Zap triggered when a receipt image or report screenshot is uploaded to Google Drive or QuickBooks.\n2. Add a Grok integration step to read the image and extract key information like vendor, date, and totals.\n3. Add an action step to append the extracted details straight into Google Sheets or send them to Slack.\n\nNote: Running Grok inside a Zap requires connecting your SpaceXSI account with an API key (billed by SpaceXSI), plus your standard Zapier task allowance. Alternatively, Zapier MCP inside Grok Bot lets you run actions across 9,000+ apps directly via chat."
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "Grok can read receipts, report screenshots, or charts uploaded to Google Drive or QuickBooks and send key details to Slack or Google Sheets.",
+    "supported": true,
+    "note": "Directly supported by Source [63]."
+   },
+   {
+    "claim": "Using the Grok integration in the Zap editor requires connecting a SpaceXSI account with an API key, billed by SpaceXSI, on top of Zapier tasks.",
+    "supported": true,
+    "note": "Directly supported by Source [63]."
+   },
+   {
+    "claim": "Zapier lets you connect Grok to over 9,000 apps.",
+    "supported": true,
+    "note": "Directly supported by Source [63]."
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [],
+  "issues": [],
+  "fix_instructions": "This draft is well-structured, visually clean, and practically grounded for small business owners. It can be published as is."
+ },
+ "rules": [],
+ "reasons": [],
+ "meta": {
+  "duration": 34.3,
+  "voice": "edge",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-03/R3-2026-11-03/try1/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-03/R3-2026-11-03/try1/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-03/R3-2026-11-03/try1/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-03/R3-2026-11-03/try1/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-03/R3-2026-11-03/try1/scene_05.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-03/R3-2026-11-03/try1/scene_06.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   5.27,
+   6.66,
+   4.85,
+   5.42,
+   6.92,
+   5.15
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-03/R3-2026-11-03/try1",
+ "attempt": 1,
+ "approved": true,
+ "hook": "Daily receipt entry Excel me karna band karo. Iski jagah ye karo.",
+ "log": [
+  "attempt 1: PASS {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} []"
+ ],
+ "material": "[42] OpenAI News — LifeVal\nURL: https://openai.com/index/lifeval\nMeasuring AI progress on the tasks that matter in everyday life.\nShare OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. For the more than one billion people who currently use ChatGPT every week, we want to build AI that can help with the practical challenges of everyday life, like finding childcare, accessing government services, creating a budget, preparing for school, modifying recipes, ordering groceries, designing workout plans, and more.\nWhen someone is looking for help making their life easier, they need more than advice or a chat response. To be a truly helpful personal assistant, ChatGPT should be able to take actions that actually get things done.\nTo measure model performance over time on everyday tasks, we built an evaluation of tasks covering areas where users wanted the most help from AI and personal agents. We used this evaluation to track and drive improvement in model performance on everyday tasks over the past year.\nTo identify the tasks people value most, we started with two large studies that track how people spend time in both the U.S. and internationally: the American Time Use Survey ⁠ (opens in a new window) and the Multinational Time Use Study ⁠ (opens in a new window) . Together, these datasets provide a detailed catalog of everyday life tasks that people do across different demographics, times of day, and seasons. To understand where people would most value AI assistance, we expanded on these existing surveys with a new demographically representative survey of 3,995 respondents. For each task, we asked a variety of questions to identify the areas where everyday people most wanted help from a personal assistant. The resulting tasks span the most important areas that people want help with, including caregiving, health, education, household administration, personal finances, shopping, and accessing government services.\nBelow are some examples of how our current models perform on practical workflows from everyday life.\nEnroll in the right kindergarten after moving\nCompare kindergartens near our new home and shortlist the best fits.\nI’ve narrowed it to three kindergartens and organized the enrollment details. Two preferences still need your call. Want to review the shortlist?\nHelp me organize our community’s flood preparation volunteer force for four neighbors needing floodproofing assistance.\nI’ve prepared a simple action plan to help volunteers assess the sites mentioned and help them prepare for upcoming severe weather.\nFind a home in Luzerne County that fits my budget, has a separate living unit, and keeps my commute short after school drop-off. Add the deed to my cart so I can review it.\nI found one home that meets your requirements. I’ve calculated the transfer tax and added the deed to your country records cart to review.\nSet up an easy way for grandma and me to watch the game together remotely.\nThe easiest watch setup is ready, with a backup if the stream fails. Want me to walk you through it with grandma?\nMeal prep for a parent adjusting to a new diabetes diagnosis\nHelp my parent adjust to a new diabetes diagnosis with a practical care and meal plan.\nThe first-week plan is ready, including meals, reminders, and questions for the care team. Want to review it together before you share it with your parent?\nOur latest models score very highly on many LifeVal tasks. See more\nOver the past year, we’ve trained our models to become much faster, more capable, and more aligned on browser use, computer use, and connectors tasks. Enabling these capabilities in ChatGPT also expands the types of tasks the model can help with, helping move ChatGPT beyond a chat tool and towards a truly agentic personal assistant.\nTo ensure AGI benefits all of humanity, we need to measure and improve model progress on what matters in the lives of everyday people. That means going beyond academic assessments of model knowledge and actually measuring how well AI models can help people navigate decisions, manage everyday responsibilities, and get meaningful things done. We are hopeful that LifeVal represents a step towards that goal.\n\n[63] Zapier Blog — Grok automation: How to use the Zapier Grok integration (Grok 4.7, Grok Bot, and more)\nURL: https://zapier.com/blog/automate-grok\nGrok has a very specific edge over other AI models: live access to X, so your agents can keep their finger on the pulse a little more easily. But outside of that, Grok models and agents are still solid alternatives to what OpenAI, Anthropic, and Google have on offer. And if you're using Grok for work, you'll want to connect it to the rest of your tech stack. The most secure and easiest way to do that is with Zapier.\nThere are two main ways to automate Grok with Zapier. You can add Grok to the workflows you already run in Zapier, so it does research, analyzes inputs, or makes images whenever something happens in your other apps. Or you can install Zapier inside Grok Bot or Grok Build and ask your AI assistant to act across 9,000+ apps without leaving the chat.\nBuild automations from wherever you work. Describe the outcome you want, and Zapier connects your tools, runs the steps, and stays on the job after you close the chat. Combine AI with reliable, deterministic automation across 9,000+ apps. Get started for free.\nAdd Grok to your existing workflows (Grok integration)\nAutomate workflows directly from Grok (Zapier MCP)\nAdd Grok to your existing workflows (Grok integration)\nZapier is built for workflows that need to run the same way every time, but some of them benefit from reasoning somewhere along the line. Zapier's Grok integration lets you drop a Grok step into any Zap, right where it's useful.\nYou don't want an AI model running every step—that's a recipe for token burn . Moving a form submission into your CRM, for example, doesn't need reasoning, so it's a job for deterministic automation. Researching the company behind that submission, drafting an outline from a one-line brief, or spotting what's trending on social media, on the other hand, are the kinds of tasks where Grok shines.\nHere's an example. Say a new lead lands in Salesforce. A Zap picks it up, sends the company name to Grok with a prompt like \"Find recent news and industry challenges for this company and summarize them in three sentences,\" then writes the summary back to the lead record so your rep sees it before the first call. Grok only runs when there's a new lead to research, and everything around it behaves the same way each time.\nBeyond asking Grok, you can also do things like categorizing text, extracting data, and generating images.\nYou connect your own SpaceXSI account with an API key, so Grok usage is billed by SpaceXSI on top of the Zapier tasks your Zap uses. If you'd rather use a model that's built into Zapier, with no separate account or token billing, check out which models are available through AI by Zapier .\nHere are a few ways you might bring Grok into your Zapier workflows:\nEnrich new leads. When a lead is added to your CRM or submitted through a form, have Grok research the company and log recent announcements and industry challenges. Try the Salesforce version .\nTurn briefs into outlines or first drafts. When a new record lands in Airtable, Asana, or Notion, send the brief to Grok and have the outline land in a Google Doc, a Notion page, or your team's Slack channel for review.\nTrack trending topics. Schedule a Zap to ask Grok what's trending on a topic you care about every hour, day, or week, then send the results to Slack, Gmail, or a spreadsheet you can mine for content ideas. Try the daily Slack version .\nGenerate images from a spreadsheet. Write prompts in Trello cards, Airtable records, or Google Sheets rows, and have Grok create the image and attach it right back to where the prompt came from. This can be handy for webinar slides and social posts when a stock photo won't cut it.\nPull data out of images. When a receipt, report screenshot, or chart is uploaded to Google Drive or QuickBooks, have Grok read it and send the key details to Slack or a Google Sheet.\nAutomate workflows directly from Grok (Zapier MCP)\nIf you want to trigger automations from inside Grok Bot or Grok Build, that's what Grok's Zapier connector is for. It gives Grok governed access to 9,000+ apps, and you decide exactly which apps and actions it's allowed to touch.\nSetup happens inside Grok. You don't need to create anything on Zapier's side first.\nClick the Connect apps button at the bottom left.\nClick to add the connector, log in to Zapier, and authorize Cursor (Grok Bot).\nGo into a Bot chat and run /zapier-setup to discover and connect available actions.\nOnce connected, you can use all the actions Zapier has available for a given app, along with the Zaps you already have configured. You can ask Grok to do things like:\n\"Find my last five HubSpot deals, calculate weighted pipeline, and post a summary to Slack.\"\n\"Check what's trending on X about our product launch and add the top three themes to my Notion content calendar.\"\n\"Every Monday morning, send my open Asana tasks to the team Slack channel.\"\nThe X example is a good one to try first, since Grok's real-time access to X is its most standout feature. And Zapier gives you an easy way to send that social listening somewhere useful.\nEach successful action draws from your existing Zapier task allowance, the same one your Zaps already use, so your Zapier bill stays simple and straightforward. And because Zapier manages the credentials, Grok never has to ask you for an API key or password. It holds a single authorization token, and every app connection stays governed the way it would in any other Zapier workflow.\nOpen Grok, click Connect apps , and search for Zapier. Sign in to your Zapier account (or create a free one), and authorize Cursor (Grok Bot). Go into a Bot chat and run /zapier-setup . Grok can then use any action you've turned on for the apps already connected to your Zapier account.\nOnce connected, Grok can search, read, create, update, and send information across 9,000+ apps through Zapier, including apps it doesn't natively support, like Shopify, HubSpot, Airtable, and QuickBooks. You choose which actions Grok can run.\nConnecting Zapier to Grok is free. Each successful action uses a small number of tasks from your existing Zapier plan, the same allowance your Zaps already draw from. Depending on your Grok plan, you may need a paid Grok subscription to use connectors.\nWhat's the difference between using Grok in a Zap and using Zapier MCP in Grok?\nThe Grok integration lets you add a Grok step inside a workflow you build in the Zap editor, which is useful when AI needs to handle one part of an otherwise predictable process. Zapier MCP, on the other hand, lets Grok kick off actions across your apps directly from a chat, on your command, without you opening the Zap editor at all.\nDo I need an API key to automate Grok with Zapier?\nFor the Grok integration in the Zap editor, yes: you connect your SpaceXSI account with an API key, and SpaceXSI bills you for Grok usage. For Zapier MCP inside Grok, no. You sign in to Zapier from within Grok and authorize the connection.\nWhether you want a workflow running reliably in the background or you'd rather ask you",
+ "id": "R3-2026-11-03",
+ "caption_final": "Stop typing receipt details into Excel spreadsheets manually. You can set up Zapier with the Grok integration to read receipt photos or report screenshots from Google Drive or QuickBooks, extract key numbers, and automatically log them into Google Sheets or Slack. Keep in mind that using Grok inside the Zap editor requires an API key from your SpaceXSI account, and each step uses your Zapier task allowance. How do you log daily bill data right now? Comment GROK for workflow setup details.\n\n#ZapierAutomation #GrokAI #ExcelAutomation #SmallBusinessIndia"
+}
