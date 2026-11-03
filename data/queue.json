@@ -1980,10 +1980,15 @@
    "brand_consistency": 9,
    "publish_readiness": 8
   },
-  "status": "queued",
+  "status": "published",
   "produced_at": 1793666238,
-  "log": [],
+  "log": [
+   "2026-11-03T09:07:07.163782+05:30 published https://www.instagram.com/p/DfQ7tARlFbp/"
+  ],
   "dm_keyword": "",
-  "dm_text": ""
+  "dm_text": "",
+  "media_id": "18100714499082089",
+  "permalink": "https://www.instagram.com/p/DfQ7tARlFbp/",
+  "published_at": "2026-11-03T09:07:07.163782+05:30"
  }
 ]
