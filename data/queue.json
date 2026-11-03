@@ -1774,9 +1774,11 @@
    "brand_consistency": 9,
    "publish_readiness": 8
   },
-  "status": "queued",
+  "status": "published",
   "produced_at": 1793666238,
-  "log": [],
+  "log": [
+   "2026-11-03T22:09:40.776873+05:30 published https://www.instagram.com/reel/DfSVWD1D9lK/"
+  ],
   "dm_keyword": "GROK",
   "dm_text": "Here is how to set up automated receipt data entry:\n\n1. Set up a Zap triggered when a receipt image or report screenshot is uploaded to Google Drive or QuickBooks.\n2. Add a Grok integration step to read the image and extract key information like vendor, date, and totals.\n3. Add an action step to append the extracted details straight into Google Sheets or send them to Slack.\n\nNote: Running Grok inside a Zap requires connecting your SpaceXSI account with an API key (billed by SpaceXSI), plus your standard Zapier task allowance. Alternatively, Zapier MCP inside Grok Bot lets you run actions across 9,000+ apps directly via chat.",
   "presenter": {
@@ -1943,7 +1945,10 @@
    "cta": "Comment GROK for setup steps",
    "prompts_sent": true,
    "prompts_sent_at": 1793714295
-  }
+  },
+  "media_id": "17915659536517767",
+  "permalink": "https://www.instagram.com/reel/DfSVWD1D9lK/",
+  "published_at": "2026-11-03T22:09:40.776873+05:30"
  },
  {
   "id": "C1-2026-11-03",
