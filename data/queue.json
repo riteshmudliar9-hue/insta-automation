@@ -2035,10 +2035,15 @@
    "brand_consistency": 9,
    "publish_readiness": 8
   },
-  "status": "queued",
+  "status": "published",
   "produced_at": 1793752534,
-  "log": [],
+  "log": [
+   "2026-11-04T09:06:28.312587+05:30 published https://www.instagram.com/p/DfTgbe-jnRj/"
+  ],
   "dm_keyword": "",
-  "dm_text": ""
+  "dm_text": "",
+  "media_id": "18350354326254097",
+  "permalink": "https://www.instagram.com/p/DfTgbe-jnRj/",
+  "published_at": "2026-11-04T09:06:28.312587+05:30"
  }
 ]
