@@ -1,0 +1,267 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "The 10x token cost trap when running multi-step AI agents",
+  "angle": "AI agents use 10 to 50 times more tokens than standard ChatGPT prompts because of continuous feedback loops, destroying small tool budgets.",
+  "audience_problem": "SMB owners get surprised by unexpectedly high API bills after deploying autonomous AI agents for customer service.",
+  "format": "myth_fact",
+  "medium": "reel",
+  "source_ids": [
+   53
+  ],
+  "evergreen": true,
+  "keywords": [
+   "AI costs",
+   "token consumption",
+   "AI agents",
+   "API budget"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 8,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 9,
+   "evidence": 9,
+   "viral": 8
+  },
+  "total": 8.61
+ },
+ "piece": {
+  "hooks": [
+   "AI agent use kar rahe ho? Token bill 50x ho sakta hai.",
+   "AI agents ka monthly bill sudden surge kyu hota hai?",
+   "ChatGPT se AI agent 10 to 50 times zyada tokens khata hai.",
+   "AI agents par blanket spending cap lagana ek badi galti hai.",
+   "AI token costs control karne ke liye ye strategy use karo."
+  ],
+  "chosen_hook": 2,
+  "hook_reason": "It directly states a surprising factual figure from the source, creating immediate scroll-stopping curiosity about API bill traps.",
+  "title": "Why AI Agents Burn 10x to 50x More Tokens",
+  "scenes": [
+   {
+    "purpose": "Hook",
+    "narration": "ChatGPT se AI agent 10 to 50 times zyada tokens khata hai.",
+    "on_screen": "AI Agent Token Trap",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "10x to 50x Token Usage",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Explain feedback loops",
+    "narration": "Log sochte hain normal prompt jaisa bill aayega. Par agent continuous testing aur planning loops karta hai.",
+    "on_screen": "Continuous Feedback Loops",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "Plan Task",
+     "Generate Code",
+     "Run Tests",
+     "Fix Errors Loop"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Heavy user discrepancy",
+    "narration": "Top 5 percent users light users se 450 times zyada tokens use kar sakte hain.",
+    "on_screen": "Top 5% Heavy Users",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "Light User",
+    "right_label": "Heavy User",
+    "rows": [
+     {
+      "left": "1x prompt usage",
+      "right": "450x token usage"
+     }
+    ]
+   },
+   {
+    "purpose": "Why usage caps fail",
+    "narration": "Blanket limit lagane se real output ruk jata hai. Cost per result measure karna chahiye.",
+    "on_screen": "Budget Limit Problem",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Spending caps block work",
+     "Measure cost per result",
+     "Track rework defect rate"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Solution",
+    "narration": "Routine tasks ko open-weight models pe route karne se 30 to 50 percent savings milti hain.",
+    "on_screen": "Cut Bills 30-50%",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Frontier model for hard plan",
+     "Open models for routine work",
+     "Gateway routes tasks"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Payoff and call to action",
+    "narration": "Comment AGENT main aapko token cost optimization guide DM kar dunga.",
+    "on_screen": "Comment AGENT",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Get Optimization Steps",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "AI agent token costs explained for small business teams and developers. Deploying autonomous agents often results in surprising monthly bills because agents run repeated planning, testing, and error-correction loops. Instead of setting arbitrary spending caps that block productive workflows, evaluate cost per finished output. Route simple routine generation to open-weight models while reserving premium models for complex reasoning. Comment AGENT for the cost optimization guide.",
+  "hashtags": [
+   "#AIAgents",
+   "#TechCosts",
+   "#OpenSourceAI",
+   "#SoftwareEngineering",
+   "#CloudBudget"
+  ],
+  "keywords": [
+   "AI agent token costs",
+   "API cost optimization",
+   "open weight AI models",
+   "developer AI spend",
+   "AI workflow budgeting"
+  ],
+  "claims": [
+   {
+    "claim": "A single AI agent task can use 10 to 50 times more tokens than a basic chat prompt due to continuous planning, testing, and refactoring loops.",
+    "source_id": 53
+   },
+   {
+    "claim": "The top 5 percent of users generate most AI token consumption, using roughly 450 times more than the lightest users.",
+    "source_id": 53
+   },
+   {
+    "claim": "Blanket spending caps restrict value-delivering workflows along with wasteful retries.",
+    "source_id": 53
+   },
+   {
+    "claim": "Routing routine workloads to open-weight models can reduce token costs by 30 to 50 percent.",
+    "source_id": 53
+   }
+  ],
+  "dm_keyword": "AGENT",
+  "dm_text": "Here is your AI Agent Token Cost Optimization Guide:\n\n1. Track Cost Per Output: Measure cost per completed change or pull request rather than raw token meters.\n2. Use Gateway Routing: Reserve frontier models for complex planning; send routine code generation to open-weight models.\n3. Cut Token Bills: Hybrid platforms routing routine tasks to open-weight models reduce token costs by 30 to 50%.\n4. Monitor Heavy Users: The top 5% of users can consume 450x more tokens than light users. Baseline usage before adding seats."
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 7,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 8,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 7
+  },
+  "claims": [
+   {
+    "claim": "A single AI agent task can use 10 to 50 times more tokens than a basic chat prompt.",
+    "supported": true
+   },
+   {
+    "claim": "The top 5 percent of users generate most AI token consumption, using roughly 450 times more than the lightest users.",
+    "supported": true
+   },
+   {
+    "claim": "Blanket spending caps restrict value-delivering workflows.",
+    "supported": true
+   },
+   {
+    "claim": "Routing routine workloads to open-weight models can reduce token costs by 30 to 50 percent.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Scene 1: The subtitle 'zyada tokens khata hai.' is slightly disconnected from the main headline '10x to 50x Token Usage' due to the white box layout.",
+   "Scene 3: The comparison table is clean but the text '450x token usage' is quite small compared to the header."
+  ],
+  "issues": [
+   "The Hinglish narration is functional but feels a bit stiff; it could be more conversational to match the 'small business owner' persona.",
+   "The transition between 'Budget Limit Problem' and 'Solution' is a bit abrupt; it needs a stronger bridge sentence in the narration."
+  ],
+  "fix_instructions": "1. In the narration for scene 4, add a bridge: 'Sirf cap lagana solution nahi hai, kyunki isse kaam ruk jata hai. Iske badle ye approach try karo.' 2. Ensure the subtitle text in scene 1 is fully visible and not obscured by the UI. 3. Increase the font size of the '450x token usage' text in scene 3 for better readability on mobile screens. 4. Keep the tone slightly more informal—use 'AI agents ka bill control karna hai?' instead of the current hook for a more relatable opening."
+ },
+ "rules": [
+  "scene 3: compare needs rows"
+ ],
+ "reasons": [
+  "scene 3: compare needs rows",
+  "originality 7/10 (<8)",
+  "natural_language 7/10 (<8)"
+ ],
+ "meta": {
+  "duration": 34.4,
+  "voice": "edge",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-04/R2-2026-11-04/try1/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-04/R2-2026-11-04/try1/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-04/R2-2026-11-04/try1/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-04/R2-2026-11-04/try1/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-04/R2-2026-11-04/try1/scene_05.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-04/R2-2026-11-04/try1/scene_06.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   4.74,
+   7.06,
+   6.18,
+   5.94,
+   5.66,
+   4.83
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-04/R2-2026-11-04/try1",
+ "attempt": 1,
+ "approved": false,
+ "hook": "ChatGPT se AI agent 10 to 50 times zyada tokens khata hai.",
+ "log": [
+  "attempt 1: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 7, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['scene 3: compare needs rows', 'originality 7/10 (<8)', 'natural_language 7/10 (<8)']",
+  "attempt 2: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+  "attempt 3: fail {'hook': 8, 'originality': 7, 'practical_value': 7, 'natural_language': 8, 'accuracy': 8, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['scene 5 narration 24 words (want 4-14)', 'originality 7/10 (<8)', 'practical_value 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+  "attempt 4: fail {'hook': 7, 'originality': 7, 'practical_value': 5, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['hook 7/10 (<8)', 'originality 7/10 (<8)', 'practical_value 5/10 (<8)']"
+ ],
+ "material": "[53] MIT Tech Review AI — Stop counting tokens, start counting what ships\nURL: https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/\nYou need to enable JavaScript to view this site. Skip to Content Sponsored\nWhen a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls it makes. With per-token pricing, the workflows creating the most value can also become the most expensive.\nThe financial pressure is already visible. Uber reportedly exhausted its entire 2026 AI budget by April after expanding its use of Claude Code. GitHub Copilot moved from flat-rate pricing to metered credits. Gartner predicts that AI coding token costs will surpass average developer salaries by 2028.\nThe natural response is rationing usage caps, seat limits, and approvals before developers launch agents. But blanket limits can restrict the workflows delivering value. They also optimize the wrong number. Cost per token measures consumption, not results. Some spending reflects waste, including retries and runaway loops. Some represents the work of shipping software. A meter cannot distinguish them, and neither can a spending cap.\nA better measure is cost per merged pull request: total AI-assisted development cost divided by the number of changes that pass review and are merged. Track rework and defects alongside it so cheaper changes do not conceal lower quality.\nIf that cost falls as AI usage rises, without compromising quality, developers are converting more consumption into useful software. The question is not how many tokens they use, but how much finished work the investment produces.\nImproving that equation requires two changes: reserve expensive inference for tasks that need it, and lower the cost of routine work.\nAgentic coding does not require the most powerful model at every step. Use a frontier model, or an on-premises flagship when policy requires it, for difficult planning and novel reasoning. Route suitable work, including code generation, test creation, and repeated refactoring, to open-weight models you operate yourself.\nA gateway can route requests according to task complexity, data sensitivity, cost, and latency. This reserves premium inference for the moments that justify it rather than applying premium pricing to an entire workflow. Meter the exception, not the workload.\nOpen-weight models make this division increasingly practical. Software-engineering benchmarks show that leading open-weight models can approach frontier performance on some tasks. That does not establish equivalence across every repository or workflow. Evaluate candidates against your own code, tests, and acceptance criteria before assigning production work.\nNext, decide who owns the capacity. With rented inference, every call adds to the bill. With owned capacity, most of the cost is committed upfront, so each additional call gets cheaper as usage grows.\nThe economics are simple: per-token pricing makes heavy use more expensive, while owned capacity becomes more efficient as teams use it more. Ownership is not free, though. Power, operations, maintenance, and depreciation all must be considered. The number that matters is the fully loaded cost per merged pull request.\nOwned capacity also delivers a type of value that never appears on an invoice: control over sensitive code. When code generation and testing run on-premises, proprietary code stays inside the enterprise. Only approved planning prompts and governed exceptions go to external models, through a gateway the organization controls. That opens the sensitive repositories where security usually stalls adoption, and where the biggest gains are waiting.\nAt HPE, a hybrid AI platform routes routine workloads from more than 150 internal applications to open-weight models running on premises, including on HPE Private Cloud AI. The result: token costs down 30 to 50%.\nThat is the point of hybrid. With HPE Private Cloud AI, owning your inference does not mean giving up frontier models. Run the volume on capacity you own and let a gateway send the hardest work.\nData also shows that usage, not licensed headcount, drives spend. The top 5% of users generated most of the consumption, and the heaviest used roughly 450 times more than the lightest on the same license. If power users grow from a small minority to half the workforce, monthly spend can rise about 4.4 times with flat headcount. Your mix will differ, which is exactly why you need to measure it.\nHPE tracks two metrics and recommends customers do the same. First, it tracks cost per active developer, because averaging across all licenses hides the power users driving spend. Second, it tracks cost per merged pull request, because it connects AI spending to software that ships.\nBaseline both costs before changing infrastructure. Then run a complete development cycle on owned capacity. If both metrics do not improve as usage grows, your current model may still be the better choice.\nOwned capacity is not for everyone. Low or unpredictable usage favors APIs, with no capital tied up in idle infrastructure. Ownership pays off when sustained demand keeps it busy. Most enterprises will run hybrid: frontier APIs for demanding or intermittent work, owned capacity for repeatable volume. A governed gateway decides what leaves the building, so you get frontier models without giving up sovereignty over your code.\nAs developers lean harder on coding agents, usage will keep rising. The real choice is whether that growth shows up as a bigger variable-cost bill or as more software shipped on capacity you own. The companies that lead AI-assisted development will not ration adoption to control costs. They will build an operating model where more AI use improves the economics instead of undermining them.\nTo learn more about HPE Private Cloud AI, please visit HPE .\nThis content was produced by HPE. It was not written by MIT Technology Review’s editorial staff.\nTen years after AlphaGo’s match against Go champion Lee Sedol, today’s AI still isn’t tapping into the machinery that made that win possible.\n“We were looking at it wrong”: The explosive claim that’s upended the AI world\nAn exclusive interview with Nick Cammarata, the researcher whose 26,000-word viral blog post has AI safety folks celebrating.\nDon’t be fooled by this summer of AI hype\nBreathless claims about AGI and new capabilities fall apart pretty quickly under scrutiny.\nThe US spent billions on border surveillance. Why can’t it catch people before they die?\nSurveillance towers, increasingly powered by AI, promised faster responses to crossings. Our investigation of deaths near the towers found they are failing to deliver.\nGet the latest updates from MIT Technology Review\nDiscover special offers, top stories, upcoming events, and more.",
+ "id": "R2-2026-11-04",
+ "caption_final": "AI agent token costs explained for small business teams and developers. Deploying autonomous agents often results in surprising monthly bills because agents run repeated planning, testing, and error-correction loops. Instead of setting arbitrary spending caps that block productive workflows, evaluate cost per finished output. Route simple routine generation to open-weight models while reserving premium models for complex reasoning. Comment AGENT for the cost optimization guide.\n\n#AIAgents #TechCosts #OpenSourceAI #SoftwareEngineering #CloudBudget"
+}

@@ -1997,5 +1997,48 @@
   "media_id": "18100714499082089",
   "permalink": "https://www.instagram.com/p/DfQ7tARlFbp/",
   "published_at": "2026-11-03T09:07:07.163782+05:30"
+ },
+ {
+  "id": "C1-2026-11-04",
+  "kind": "carousel",
+  "date": "2026-11-04",
+  "slot": "2026-11-04T09:00",
+  "dir": "output/2026-11-04/C1-2026-11-04/try1",
+  "files": [
+   "slide_01.jpg",
+   "slide_02.jpg",
+   "slide_03.jpg",
+   "slide_04.jpg",
+   "slide_05.jpg",
+   "slide_06.jpg"
+  ],
+  "caption": "Traders often spend hours jumping between supplier websites to monitor price fluctuations. By using structured prompts in AI search tools, you can pull market summaries faster than manual browsing. Note that OpenAI now includes sponsored product images in results, so always double-check the actual vendor site before making bulk purchase decisions. ChatGPT handles roughly 20% of Google's query volume, making it a useful secondary tool, but it does not replace the need for your own market expertise. What is the biggest hurdle you face when trying to track competitor pricing for your stock?\n\n#WholesaleBusiness #MarketResearch #TraderTips #BusinessAutomation #ChatGPT",
+  "topic": "Using ChatGPT search prompts for wholesale competitor pricing research",
+  "format": "tutorial",
+  "hook": "How to research market prices using AI in minutes",
+  "keywords": [
+   "wholesale pricing",
+   "competitor research",
+   "AI search",
+   "market trends",
+   "small business tools"
+  ],
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "status": "queued",
+  "produced_at": 1793752534,
+  "log": [],
+  "dm_keyword": "",
+  "dm_text": ""
  }
 ]

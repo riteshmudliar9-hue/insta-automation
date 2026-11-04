@@ -1,0 +1,247 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Switching from manual inventory tracking to AI-driven reordering",
+  "angle": "Retailers can eliminate dead stock and stockouts by using AI-driven inventory logic that factors in seasonality and lead times.",
+  "audience_problem": "Retail shop owners lose money due to excess unsold inventory or running out of fast-moving products during peak sales periods.",
+  "format": "problem_fix",
+  "medium": "reel",
+  "source_ids": [
+   81
+  ],
+  "evergreen": true,
+  "keywords": [
+   "retail AI",
+   "inventory management",
+   "smart fulfillment",
+   "stock optimization"
+  ],
+  "scores": {
+   "relevance": 10,
+   "novelty": 7,
+   "hook_potential": 9,
+   "retention": 9,
+   "save_share": 9,
+   "feasibility": 8,
+   "evidence": 8,
+   "viral": 9
+  },
+  "total": 8.76
+ },
+ "piece": {
+  "hooks": [
+   "Dukan ka stock khatam hone se pehle AI ko kaise batayein?",
+   "Zyada tar shop owners inventory management mein ye galti karte hain.",
+   "Stop doing manual stock tracking. Iski jagah ye karo.",
+   "Festival sale mein inventory management ke liye AI use karo.",
+   "Inventory khatam hone se pehle automatic reorder kaise set karein?"
+  ],
+  "chosen_hook": 2,
+  "hook_reason": "It highlights a common pain point (manual tracking) and immediately offers an AI-driven alternative, positioning it as the standard for efficient operations.",
+  "title": "Stop doing manual stock tracking",
+  "scenes": [
+   {
+    "purpose": "Hook the audience",
+    "narration": "Stop doing manual stock tracking. Iski jagah ye karo.",
+    "on_screen": "Stop Manual Tracking",
+    "visual_type": "text",
+    "url": "https://yourstory.com/2026/11/why-ai-powered-intelligence-is-every-winning-brands-secret-sauce",
+    "query": "inventory tracking",
+    "headline": "Manual stock tracking is outdated",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Explain the manual vs automated difference",
+    "narration": "Manual tracking mein stockout ka dar hamesha rehta hai.",
+    "on_screen": "Stockout risk is high",
+    "visual_type": "compare",
+    "url": "https://yourstory.com/2026/11/why-ai-powered-intelligence-is-every-winning-brands-secret-sauce",
+    "query": "inventory management",
+    "headline": "Why manual methods fail",
+    "steps": [],
+    "items": [],
+    "left_label": "Manual Way",
+    "right_label": "AI Way",
+    "rows": [
+     {
+      "left": "Reactive checking",
+      "right": "Real-time forecasting"
+     },
+     {
+      "left": "Manual entry",
+      "right": "Automated logic"
+     },
+     {
+      "left": "High error risk",
+      "right": "Predictive accuracy"
+     }
+    ]
+   },
+   {
+    "purpose": "Explain the AI benefit",
+    "narration": "AI tools ab demand forecast karke stock route karte hain.",
+    "on_screen": "AI predicts demand",
+    "visual_type": "diagram",
+    "url": "https://yourstory.com/2026/11/why-ai-powered-intelligence-is-every-winning-brands-secret-sauce",
+    "query": "ai inventory automation",
+    "headline": "How AI handles stock",
+    "steps": [
+     "Data collection",
+     "Demand prediction",
+     "Auto-routing"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Emphasize setup requirements",
+    "narration": "Clean data entry zaroori hai, tabhi AI sahi recommendation dega.",
+    "on_screen": "Clean Data Required",
+    "visual_type": "checklist",
+    "url": "https://yourstory.com/2026/11/why-ai-powered-intelligence-is-every-winning-brands-secret-sauce",
+    "query": "data accuracy",
+    "headline": "Make your AI work",
+    "steps": [],
+    "items": [
+     "Daily order sync",
+     "Update stock nodes",
+     "Record warehouse scans"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Call to action",
+    "narration": "Comment AI, main aapko operational intelligence setup steps DM kar dunga.",
+    "on_screen": "Comment AI",
+    "visual_type": "text",
+    "url": "https://yourstory.com/2026/11/why-ai-powered-intelligence-is-every-winning-brands-secret-sauce",
+    "query": "business automation",
+    "headline": "Get the steps now",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "Stop manual stock tracking in your shop using AI-powered intelligence. Managing stock manually leads to stockouts or excess dead inventory during busy sale days. Modern platforms now use AI to forecast demand, track inventory nodes, and automate stock transfers before a customer even notices a shortage. Start by ensuring your daily transactions and warehouse movements are synced into your system, as AI needs clean data to make accurate decisions. This is how you scale operations without adding extra staff. Comment AI for the setup guide. #InventoryManagement #RetailTips #BusinessAutomation #SmallBusinessIndia #StockControl",
+  "hashtags": [
+   "#InventoryManagement",
+   "#RetailTips",
+   "#BusinessAutomation",
+   "#SmallBusinessIndia",
+   "#StockControl"
+  ],
+  "keywords": [
+   "inventory management",
+   "retail automation",
+   "stock forecasting",
+   "business efficiency",
+   "AI for retail"
+  ],
+  "claims": [
+   {
+    "claim": "AI can evaluate inventory, warehouse capacity, and delivery timelines to automatically route orders.",
+    "source_id": 81
+   },
+   {
+    "claim": "AI can detect when a product is running out in one location and trigger a transfer.",
+    "source_id": 81
+   },
+   {
+    "claim": "Systems of Intelligence use AI to actively execute decisions across business operations.",
+    "source_id": 81
+   }
+  ],
+  "dm_keyword": "AI",
+  "dm_text": "Thanks for asking! To move from manual tracking to AI-driven inventory management, follow these steps: 1. Ensure all your sales channels (website, offline store, marketplace) are integrated into a single system. 2. Start tracking every inventory movement and warehouse scan as this data feeds the AI. 3. Use platforms that offer 'Systems of Intelligence' to automate reordering based on real-time demand rather than static rules. 4. Focus on data quality; if your intake data is messy, your AI forecasts will be unreliable. You can read more about how this works here: https://yourstory.com/2026/11/why-ai-powered-intelligence-is-every-winning-brands-secret-sauce"
+ },
+ "review": {
+  "scores": {
+   "hook": 7,
+   "originality": 6,
+   "practical_value": 7,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 7,
+   "visual_integrity": 8,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 7
+  },
+  "claims": [
+   {
+    "claim": "AI can evaluate inventory, warehouse capacity, and delivery timelines to automatically route orders.",
+    "supported": true
+   },
+   {
+    "claim": "AI can detect when a product is running out in one location and trigger a transfer.",
+    "supported": true
+   },
+   {
+    "claim": "Systems of Intelligence use AI to actively execute decisions across business operations.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Scene 1: The text 'Manual stock tracking is outdated' is redundant with the header 'Stop Manual Tracking'.",
+   "Scene 2: The table layout is clean but the font size for the list items is slightly small for mobile readability.",
+   "Scene 5: The subtitle 'intelligence setup steps DM kar dunga' is slightly long for the subtitle box, risking a cramped look."
+  ],
+  "issues": [
+   "The hook is functional but a bit generic; it could be punchier by mentioning a specific business impact (e.g., 'losing sales').",
+   "The transition between 'manual' and 'AI' is clear, but the reel lacks a concrete example of a tool or platform type to make it truly actionable for a small business owner."
+  ],
+  "fix_instructions": "1. In Scene 1, change the headline to 'Stop Manual Inventory Tracking' and remove the redundant text block below it to improve visual hierarchy. 2. Increase the font size of the table rows in Scene 2 for better readability on smaller screens. 3. Shorten the subtitle in Scene 5 to 'Comment AI for setup steps' to ensure it fits comfortably in the box. 4. Ensure the DM response includes a clear, non-salesy recommendation for the type of SaaS platforms mentioned in the source material to increase practical value."
+ },
+ "rules": [],
+ "reasons": [
+  "hook 7/10 (<8)",
+  "originality 6/10 (<8)",
+  "practical_value 7/10 (<8)",
+  "narrative 7/10 (<8)",
+  "reel is 49.4 s long (max 45 s; aim for 15-35 s)"
+ ],
+ "meta": {
+  "duration": 49.4,
+  "voice": "gemini",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-04/R1-2026-11-04/try2/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-04/R1-2026-11-04/try2/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-04/R1-2026-11-04/try2/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-04/R1-2026-11-04/try2/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-04/R1-2026-11-04/try2/scene_05.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   3.04,
+   14.06,
+   14.44,
+   14.04,
+   3.85
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-04/R1-2026-11-04/try2",
+ "attempt": 2,
+ "approved": false,
+ "hook": "Stop doing manual stock tracking. Iski jagah ye karo.",
+ "log": [
+  "attempt 1: fail {'hook': 7, 'originality': 6, 'practical_value': 6, 'natural_language': 7, 'accuracy': 8, 'narrative': 7, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 7} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 6/10 (<8)', 'natural_language 7/10 (<8)']",
+  "attempt 2: fail {'hook': 7, 'originality': 6, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 7/10 (<8)', 'narrative 7/10 (<8)']",
+  "attempt 3: fail {'hook': 6, 'originality': 7, 'practical_value': 6, 'natural_language': 7, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 7} ['hook 6/10 (<8)', 'originality 7/10 (<8)', 'practical_value 6/10 (<8)', 'natural_language 7/10 (<8)']",
+  "attempt 4: fail {'hook': 8, 'originality': 7, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 6, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 7} ['originality 7/10 (<8)', 'practical_value 7/10 (<8)', 'visual_integrity 6/10 (<8)']"
+ ],
+ "material": "[81] YourStory — Why AI-powered intelligence is every winning brand’s secret sauce\nURL: https://yourstory.com/2026/11/why-ai-powered-intelligence-is-every-winning-brands-secret-sauce\nWhy AI-powered intelligence is every winning brand’s secret sauce | YourStory Sidebar is Loading... ADVERTISEMENT For years, the playbook for building a winning consumer brand was simple: a compelling product, a strong brand identity, and smart customer acquisition. Those fundamentals still hold, but they no longer decide who wins.\nToday's battle is fought in fragments of attention, where brands have seconds to convert interest into a purchase. And the moment “Buy Now” is clicked, a second, harder battle begins: fast fulfilment, a seamless delivery experience, and effortless handling of queries and returns - the moments that actually earn loyalty.\nAmid endless channels and ever-shifting marketing strategies, the real differentiator has moved downstream: it's the intelligence behind every operational decision made after the click.\nArtificial intelligence is rapidly becoming this intelligence layer. No longer limited to chatbots or content generation, AI is transforming how brands forecast demand, allocate inventory, orchestrate fulfilment, engage customers, and optimise operations in real time.\nThis shift comes at a time when commerce itself has grown far more complex. Consumers now discover, evaluate, and buy across a maze of touchpoints - brand websites, marketplaces, quick commerce, social commerce, and physical stores - often within a single purchase journey. Powering every one of those purchases is a complex web of inventory nodes, warehouses, logistics partners, and engagement systems that must move in perfect synchronisation.\nFor brands, this translates into a flood of operational data. Every inventory movement, customer interaction, order update, warehouse scan, and delivery milestone becomes a signal that can influence the next business decision. What begins as a simple online business quickly turns into a web of real-time, interconnected decisions - each one shaping the customer experience.\nUntil a few years ago, brands and marketplaces operated on Systems of Record - a single source of operational truth that captured transactions and helped manage inventory. Ecommerce enablement SaaS platforms turned these Systems of Insight - real-time dashboards and analytics that let businesses move from reactive to data-driven decision-making.\nThe next phase of this evolution is now underway. Building on this rich data and technology-enabled processes, these Systems of Record and Insight are becoming Systems of Intelligence - where AI is not just analysing information, but actively framing recommendations and executing decisions across business operations.\nConsider a fashion retailer during a festive sale. Thousands of orders may arrive simultaneously across its website, marketplaces, and quick commerce platforms. Instead of relying on manual rules or static workflows, AI can continuously evaluate inventory availability, warehouse capacity, delivery timelines, shipping costs, and customer location before automatically routing each order through the most efficient fulfilment path. It can also spot that a fast-moving product is about to run out in one city while stock sits healthy elsewhere and line up a transfer before availability ever becomes the customer's problem.\nThis matters even more in an omnichannel world, where customers expect availability wherever and however they shop. Delivering on that promise takes more than inventory visibility - it demands continuous coordination across allocation, order orchestration, warehouse operations, logistics, and customer communication. AI makes that coordination possible at a scale and speed manual decision-making simply can't match.\nThe next frontier here is Agentic AI. Unlike traditional automation, which follows predefined workflows, Agentic AI can reason across multiple variables, recommend the next best course of action, and autonomously execute routine operational decisions within business-defined guardrails. Whether prioritising high-value orders during peak demand, responding to supply chain disruptions, or flagging fulfilment bottlenecks before they bite, these systems move beyond supporting human decisions to actively driving them.\nThis marks a fundamental shift in how brands approach growth. Acquiring customers remains critical, but sustainable growth increasingly depends on what happens after demand is generated. Rather than adding operational headcount every time order volumes spike, businesses are investing in intelligent platforms that let them scale without proportionately scaling complexity. The goal is no longer simply to process more orders - it's to make better operational decisions, faster and more consistently.\nEcommerce enablement platforms, with deep data and operational ties into brands, are already building this future. AI-first SaaS tools are no longer just software - they're becoming operational partners, continuously improving how the business runs.\nTomorrow's market leaders won't necessarily be the brands with the biggest marketing budgets. They'll be the brands whose technology lets them operate smarter, adapt faster, and make better decisions every single day. Their competitive advantage will increasingly come from the intelligence behind every business decision they make.\n(Kapil Makhija is the MD & CEO of Unicommerce eSolutions Limited)\n(Disclaimer: The views and opinions expressed in this article are those of the author and do not necessarily reflect the views of YourStory.)",
+ "id": "R1-2026-11-04",
+ "caption_final": "Stop manual stock tracking in your shop using AI-powered intelligence. Managing stock manually leads to stockouts or excess dead inventory during busy sale days. Modern platforms now use AI to forecast demand, track inventory nodes, and automate stock transfers before a customer even notices a shortage. Start by ensuring your daily transactions and warehouse movements are synced into your system, as AI needs clean data to make accurate decisions. This is how you scale operations without adding extra staff. Comment AI for the setup guide.\n\n#InventoryManagement #RetailTips #BusinessAutomation #SmallBusinessIndia #StockControl"
+}

@@ -392,5 +392,21 @@
   "status": "published",
   "media_id": "18100714499082089",
   "permalink": "https://www.instagram.com/p/DfQ7tARlFbp/"
+ },
+ {
+  "id": "C1-2026-11-04",
+  "date": "2026-11-04",
+  "kind": "carousel",
+  "format": "tutorial",
+  "topic": "Using ChatGPT search prompts for wholesale competitor pricing research",
+  "hook": "How to research market prices using AI in minutes",
+  "keywords": [
+   "wholesale pricing",
+   "competitor research",
+   "AI search",
+   "market trends",
+   "small business tools"
+  ],
+  "status": "queued"
  }
 ]

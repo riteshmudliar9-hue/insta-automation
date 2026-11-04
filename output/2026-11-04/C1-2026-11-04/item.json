@@ -1,0 +1,221 @@
+{
+ "kind": "carousel",
+ "idea": {
+  "idea": "Using ChatGPT search prompts for wholesale competitor pricing research",
+  "angle": "How traders can analyze market trends and vendor pricing using structured AI search queries in 3 minutes instead of scrolling endless search pages.",
+  "audience_problem": "Wholesalers and traders waste time opening dozens of Google links to check competitor prices and supplier updates.",
+  "format": "tutorial",
+  "medium": "carousel",
+  "source_ids": [
+   14
+  ],
+  "evergreen": true,
+  "keywords": [
+   "ChatGPT search",
+   "market research",
+   "pricing analysis",
+   "trader workflow"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 8,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 9,
+   "evidence": 9,
+   "viral": 8
+  },
+  "total": 8.61
+ },
+ "piece": {
+  "hooks": [
+   "Stop opening 20 tabs to check competitor pricing",
+   "How to research market prices using AI in minutes",
+   "Use ChatGPT search to track competitor pricing efficiently"
+  ],
+  "chosen_hook": 1,
+  "hook_reason": "It directly addresses the specific pain point of time wasted on manual research, which is a major bottleneck for small traders and wholesalers.",
+  "slides": [
+   {
+    "kind": "cover",
+    "title": "Stop opening 20 tabs to check competitor pricing",
+    "subtitle": "Use structured AI search prompts to analyze market trends in three minutes.",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "point",
+    "title": "Why manual search fails",
+    "subtitle": "",
+    "body": "Searching for wholesale rates across multiple supplier sites is slow. You often waste time filtering through irrelevant links and ads instead of finding direct pricing data.",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "steps",
+    "title": "How to structure your search",
+    "subtitle": "Use specific prompts to get direct, actionable market data.",
+    "body": "",
+    "items": [
+     "Define your product and specific market region clearly.",
+     "Ask the AI to compare pricing across known vendor types.",
+     "Request a summary of market trends rather than just links.",
+     "Verify specific claims by checking the provided source links."
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "mythfact",
+    "title": "Search engine reality",
+    "subtitle": "",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "AI will replace all traditional search engines.",
+    "fact": "ChatGPT currently processes one-fifth the search query volume of Google. It is a tool for synthesis, not a total replacement.",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "checklist",
+    "title": "Important limitations to remember",
+    "subtitle": "",
+    "body": "",
+    "items": [
+     "AI may route queries through different search engines.",
+     "Sponsored product images are now appearing in results.",
+     "Always verify critical price data against primary sources.",
+     "Ads do not necessarily impact search quality yet."
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "summary",
+    "title": "Key takeaways for traders",
+    "subtitle": "",
+    "body": "",
+    "items": [
+     "Use AI to synthesize data, not just find links.",
+     "ChatGPT search volume is growing but remains secondary.",
+     "Watch for sponsored product placements in AI results.",
+     "Combine AI speed with your own manual verification."
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   }
+  ],
+  "caption": "Traders often spend hours jumping between supplier websites to monitor price fluctuations. By using structured prompts in AI search tools, you can pull market summaries faster than manual browsing. Note that OpenAI now includes sponsored product images in results, so always double-check the actual vendor site before making bulk purchase decisions. ChatGPT handles roughly 20% of Google's query volume, making it a useful secondary tool, but it does not replace the need for your own market expertise. What is the biggest hurdle you face when trying to track competitor pricing for your stock? #WholesaleBusiness #MarketResearch #TraderTips #BusinessAutomation #ChatGPT",
+  "hashtags": [
+   "#WholesaleBusiness",
+   "#MarketResearch",
+   "#TraderTips",
+   "#BusinessAutomation",
+   "#ChatGPT"
+  ],
+  "keywords": [
+   "wholesale pricing",
+   "competitor research",
+   "AI search",
+   "market trends",
+   "small business tools"
+  ],
+  "claims": [
+   {
+    "claim": "ChatGPT processes one-fifth the volume of search queries as Google.",
+    "source_id": 14
+   },
+   {
+    "claim": "OpenAI defines a search as any query resulting in a web search.",
+    "source_id": 14
+   },
+   {
+    "claim": "OpenAI is introducing images of sponsored products in ChatGPT.",
+    "source_id": 14
+   }
+  ]
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "ChatGPT processes one-fifth the volume of search queries as Google.",
+    "supported": true
+   },
+   {
+    "claim": "OpenAI defines a search as any query resulting in a web search.",
+    "supported": true
+   },
+   {
+    "claim": "OpenAI is introducing images of sponsored products in ChatGPT.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [],
+  "issues": [
+   "The content is solid but lacks a concrete example of a 'structured prompt' which would significantly increase the practical value for a small business owner.",
+   "The transition between the 'Myth/Fact' slide and the 'Limitations' slide feels slightly repetitive in terms of the information provided."
+  ],
+  "fix_instructions": "The carousel is high quality and ready for publication. To make it truly exceptional, add one additional slide between slide 3 and 4 that provides a concrete, copy-pasteable example of a prompt (e.g., 'Compare the wholesale price of [Product] in [Region] across [Supplier A] and [Supplier B]. Summarize the findings in a table.'). This will bridge the gap between theory and immediate application."
+ },
+ "rules": [],
+ "reasons": [],
+ "meta": {
+  "ai_visuals": false,
+  "slides": 6
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-04/C1-2026-11-04/try1",
+ "attempt": 1,
+ "approved": true,
+ "hook": "How to research market prices using AI in minutes",
+ "log": [
+  "attempt 1: PASS {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} []"
+ ],
+ "material": "[14] The Verge AI — OpenAI says ChatGPT is catching up to Google in search\nURL: https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search\nOpenAI says ChatGPT is catching up to Google in search | The Verge Skip to main content The homepage The Verge The Verge logo. The homepage The Verge The Verge logo. Notifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo. Login / Sign Up\nComments Loading comments Getting the conversation ready... AI\nChatGPT processes one-fifth the volume of search queries as Google, per OpenAI.\nChatGPT processes one-fifth the volume of search queries as Google, per OpenAI.\nHayden Field Nov 3, 2026, 6:30 PM UTC Link\nHayden Field is The Verge’s senior AI reporter. An AI beat reporter for more than five years, her work has also appeared in CNBC, MIT Technology Review, Wired UK, and other outlets. In many circles, “Ask Chat” has replaced “Google it,” and that’s reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run through Google.\nAdam Fry, OpenAI’s consumer product lead for ChatGPT, made the announcement at a press event on Monday. He said the company defines a search as any time a user inputs a query that results in a web search, as opposed to tasks like defining a term or a simple how-to explanation. (Fry did not specify the source of the Google search volume number.)\nHaving one-fifth as many searches as Google is still a long way from overtaking it, but for comparison, Microsoft CEO Satya Nadella said during Google’s 2023 antitrust trial that Bing had about 3 percent of the search engine market share after trying for more than a decade. During the trial, Google described AI as a potential disruptor, arguing ChatGPT was poised to seriously compete with it — now, OpenAI seems to agree. (OpenAI likely uses Microsoft Bing for a significant part of its searches, along with its in-house search index, although there is still some speculation that it routes some queries through Google.)\nThe news comes amid an ongoing search engine shake-up, as Google continues to reduce conventional referrals to third-party sites and invests heavily in AI tools — not just AI Overview but also additional generative AI capabilities , including personalized search results with visualizations and charts. But as search queries increasingly route through OpenAI and other AI labs’ services, other companies are investing in the same types of AI-focused search experience, even if they call it something else: for OpenAI, it’s “Intelligent UI,” or creating a visual and interactive interface within a chatbot response. “That’s where the future of this technology goes. You’re talking to a canvas,” Fry said.\nMuch like Google, OpenAI sees a potential path to profitability through ads, particularly as it approaches an IPO potentially slated for early next year. OpenAI has defended its ads in the past, and Fry told reporters they hadn’t produced a lasting backlash. “Ads have not negatively impacted the product or the usage of the product,” he said, adding that “most people do not seem to mind ads in the product.”\nOpenAI announced last month that the company would begin introducing images of sponsored products and services in ChatGPT rather than just a company’s name, logo, and a link to its product like before.\n“Ads have maybe shown us that we could be doing this more, actually,” Fry said.\nOne of Google’s Android partners turned 1.3 million set-top boxes into a botnet\nThe 2026 iPad Mini is a terrific tiny tablet — for a big price\nBambu’s nine-nozzle H3C foretells the future of 3D printing\nThe Elder Scrolls VI officially has a name: Sentinel\nGoogle is entirely disabling Search in schools that don’t want AI\nThe Verge The Verge logo. Sign in to see your notifications or create an account to join the conversation.",
+ "id": "C1-2026-11-04",
+ "caption_final": "Traders often spend hours jumping between supplier websites to monitor price fluctuations. By using structured prompts in AI search tools, you can pull market summaries faster than manual browsing. Note that OpenAI now includes sponsored product images in results, so always double-check the actual vendor site before making bulk purchase decisions. ChatGPT handles roughly 20% of Google's query volume, making it a useful secondary tool, but it does not replace the need for your own market expertise. What is the biggest hurdle you face when trying to track competitor pricing for your stock?\n\n#WholesaleBusiness #MarketResearch #TraderTips #BusinessAutomation #ChatGPT"
+}
