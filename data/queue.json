@@ -2045,5 +2045,49 @@
   "media_id": "18350354326254097",
   "permalink": "https://www.instagram.com/p/DfTgbe-jnRj/",
   "published_at": "2026-11-04T09:06:28.312587+05:30"
+ },
+ {
+  "id": "C1-2026-11-05",
+  "kind": "carousel",
+  "date": "2026-11-05",
+  "slot": "2026-11-05T09:00",
+  "dir": "output/2026-11-05/C1-2026-11-05/try1",
+  "files": [
+   "slide_01.jpg",
+   "slide_02.jpg",
+   "slide_03.jpg",
+   "slide_04.jpg",
+   "slide_05.jpg",
+   "slide_06.jpg",
+   "slide_07.jpg"
+  ],
+  "caption": "If your AI agents have direct access to your internal pricing sheets, they might be quoting your wholesale discount structure to retail customers. This happens when agents pull data from multiple sources without humans checking the final output. Traditional IT security won't stop this, because it doesn't watch how data moves between your agents and your files. To prevent leaks, you need to implement data lineage. This means mapping exactly where your agent gets its info before it sends an email or proposal. Start by auditing which systems your AI can reach. If you use AI for customer proposals, have a human verify every single draft before it goes out. How do you currently handle data access for your internal staff?\n\n#BusinessAutomation #DataSecurity #SmallBusinessIndia #AIGovernance",
+  "topic": "Data lineage guardrails: Preventing autonomous AI agents from leaking confidential wholesale pricing to customers.",
+  "format": "problem_fix",
+  "hook": "Why your AI agent might accidentally share your supplier margins",
+  "keywords": [
+   "AI agent data security",
+   "business data lineage",
+   "prevent AI data leakage",
+   "AI governance for small business",
+   "wholesale pricing protection"
+  ],
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "status": "queued",
+  "produced_at": 1793839323,
+  "log": [],
+  "dm_keyword": "",
+  "dm_text": ""
  }
 ]

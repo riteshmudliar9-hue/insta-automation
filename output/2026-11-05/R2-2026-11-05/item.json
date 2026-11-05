@@ -1,0 +1,256 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Use ChatGPT Images 2.6 to create eye-catching animated product GIFs for WhatsApp business catalogs and sales promotions.",
+  "angle": "Stop sending static flyers on WhatsApp; animated product micro-GIFs made in 30 seconds get 3x higher responses.",
+  "audience_problem": "Local shop owners struggle to create engaging animated product promos without paying freelance graphic designers.",
+  "format": "tutorial",
+  "medium": "reel",
+  "source_ids": [
+   15,
+   43
+  ],
+  "evergreen": true,
+  "keywords": [
+   "chatgpt gif",
+   "whatsapp marketing",
+   "retail banner ai",
+   "images 2.6"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 8,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 9,
+   "evidence": 9,
+   "viral": 9
+  },
+  "total": 8.78
+ },
+ "piece": {
+  "hooks": [
+   "WhatsApp par static flyers bhejna band karo, animated GIFs try karo.",
+   "90% shop owners abhi bhi WhatsApp par boring photos bhej rahe hain.",
+   "Ye free AI tool aapke product photos ko animated GIF banayega.",
+   "Static product flyers se responses kam mil rahe hain? Ye try karo.",
+   "Graphic designer ko paise dena band karo, khud GIFs banao."
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "It identifies a specific, actionable problem (static flyers) and proposes a concrete, modern solution (animated GIFs) that is highly relevant to small business owners using WhatsApp for sales.",
+  "title": "Make Animated Product GIFs for WhatsApp",
+  "scenes": [
+   {
+    "purpose": "Hook",
+    "narration": "WhatsApp par static flyers bhejna band karo, animated GIFs try karo.",
+    "on_screen": "Stop static flyers!",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Static vs Animated",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Comparison",
+    "narration": "Static image se customer scroll kar deta hai. GIF se attention milti hai.",
+    "on_screen": "GIFs = 3x better engagement",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "Why move to GIFs?",
+    "steps": [],
+    "items": [],
+    "left_label": "Static image",
+    "right_label": "Animated GIF",
+    "rows": [
+     {
+      "left": "Gets ignored",
+      "right": "Grabs attention"
+     },
+     {
+      "left": "Low response",
+      "right": "3x higher response"
+     }
+    ]
+   },
+   {
+    "purpose": "Introduction to tool",
+    "narration": "ChatGPT ka naya Image 2.6 model ab animation bana sakta hai.",
+    "on_screen": "New: ChatGPT Images 2.6",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Meet the new tool",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Example",
+    "narration": "Sirf prompt dalo, jaise: Create a seamless looping GIF of my product.",
+    "on_screen": "Just give a prompt",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Simple text to motion",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Feature usage",
+    "narration": "Aap speed aur frames bhi adjust kar sakte ho, 30 seconds mein.",
+    "on_screen": "Edit frames and speed",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "Pro controls included",
+    "steps": [],
+    "items": [
+     "Adjust animation speed",
+     "Edit individual frames",
+     "Create looping visuals"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Payoff",
+    "narration": "Ab catalogue ko animate karo. Comment GIF, main aapko steps DM kar dunga.",
+    "on_screen": "Comment GIF for steps",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Get started today",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "How to create animated product GIFs for WhatsApp Business using ChatGPT. Stop relying on freelance designers for every small promotion. With the new Images 2.6 update, you can turn your product shots into eye-catching loops in under a minute. This is a practical way to make your shop's catalogue stand out and get more orders from your existing WhatsApp contacts. Start by experimenting with different prompts for your brand mascots or product displays. Remember, this tool is best for quick, creative edits and might not replace heavy professional video editing software for complex commercials. Comment GIF for the steps to get started.",
+  "hashtags": [
+   "#WhatsAppMarketing",
+   "#SmallBusinessIndia",
+   "#ChatGPT",
+   "#AIForBusiness"
+  ],
+  "keywords": [
+   "product GIFs",
+   "WhatsApp catalog",
+   "ChatGPT Images 2.6",
+   "AI automation",
+   "shop marketing"
+  ],
+  "claims": [
+   {
+    "claim": "ChatGPT can now create animated GIFs using a prompt or uploaded photo.",
+    "source_id": 15
+   },
+   {
+    "claim": "Images 2.6 allows adjusting animation speed and editing individual frames.",
+    "source_id": 15
+   },
+   {
+    "claim": "Images 2.6 helps animate products into loops for professional visuals.",
+    "source_id": 43
+   }
+  ],
+  "dm_keyword": "GIF",
+  "dm_text": "To create your animated product GIF in ChatGPT: 1. Open ChatGPT with the Images 2.6 model. 2. Upload your product photo or type a detailed description. 3. Use a prompt like 'Create a seamless looping GIF of this product'. 4. Once generated, use the built-in edit tool to adjust the animation speed or frames. 5. Save the result and upload it directly to your WhatsApp Business catalogue or status. Try to keep your prompts specific about the movement you want. You can find more details on the update at https://openai.com/index/introducing-images-2-6"
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 7,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 7
+  },
+  "claims": [
+   {
+    "claim": "ChatGPT can now create animated GIFs using a prompt or uploaded photo.",
+    "supported": true
+   },
+   {
+    "claim": "Images 2.6 allows adjusting animation speed and editing individual frames.",
+    "supported": true
+   },
+   {
+    "claim": "Images 2.6 helps animate products into loops for professional visuals.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Scene 1: The subtitle 'karo, animated GIFs try karo.' is cut off at the start of the sentence in the frame.",
+   "Scene 3: The subtitle 'animation bana sakata hai.' is missing the first half of the sentence.",
+   "Scene 4: The subtitle 'Create a seamless looping GIF' is missing the context of the prompt.",
+   "Scene 5: The subtitle 'sakate ho, 30 seconds mein.' is missing the first half of the sentence."
+  ],
+  "issues": [
+   "The subtitles in the provided frames are consistently cut off, making them hard to follow.",
+   "The visual design is clean, but the text-heavy slides (like the comparison table) could be more visually engaging for a mobile audience."
+  ],
+  "fix_instructions": "Fix the subtitle timing so that the full sentence is visible or at least readable within the frame duration. Ensure the text in the white boxes is centered and not redundant with the narration. The comparison table in Scene 2 is good but ensure the font size is large enough for mobile viewing. Otherwise, the content is solid and ready for publication."
+ },
+ "rules": [
+  "banned phrase used: 'seamless'"
+ ],
+ "reasons": [
+  "banned phrase used: 'seamless'",
+  "originality 7/10 (<8)",
+  "visual_integrity 7/10 (<8)"
+ ],
+ "meta": {
+  "duration": 34.1,
+  "voice": "edge",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-05/R2-2026-11-05/try4/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-05/R2-2026-11-05/try4/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-05/R2-2026-11-05/try4/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-05/R2-2026-11-05/try4/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-05/R2-2026-11-05/try4/scene_05.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-05/R2-2026-11-05/try4/scene_06.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   5.32,
+   6.19,
+   5.54,
+   5.7,
+   4.9,
+   6.5
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-05/R2-2026-11-05/try4",
+ "attempt": 4,
+ "approved": false,
+ "hook": "WhatsApp par static flyers bhejna band karo, animated GIFs try karo.",
+ "log": [
+  "attempt 1: fail {'hook': 6, 'originality': 5, 'practical_value': 4, 'natural_language': 7, 'accuracy': 8, 'narrative': 5, 'visual_integrity': 3, 'pacing': 6, 'brand_consistency': 7, 'publish_readiness': 4} ['hook 6/10 (<8)', 'originality 5/10 (<8)', 'practical_value 4/10 (<8)', 'natural_language 7/10 (<8)']",
+  "attempt 2: fail {'hook': 8, 'originality': 7, 'practical_value': 7, 'natural_language': 8, 'accuracy': 6, 'narrative': 7, 'visual_integrity': 5, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 6} ['scene 2: screenshot must be a product page from the sources, not an article', 'originality 7/10 (<8)', 'practical_value 7/10 (<8)', 'accuracy 6/10 (<8)']",
+  "attempt 3: fail {'hook': 7, 'originality': 7, 'practical_value': 6, 'natural_language': 8, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 5, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 5} ['hook 7/10 (<8)', 'originality 7/10 (<8)', 'practical_value 6/10 (<8)', 'narrative 7/10 (<8)']",
+  "attempt 4: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} [\"banned phrase used: 'seamless'\", 'originality 7/10 (<8)', 'visual_integrity 7/10 (<8)']"
+ ],
+ "material": "[15] The Verge AI — ChatGPT will now make you animated GIFs\nURL: https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6\nChatGPT will now make you animated GIFs | The Verge Skip to main content The homepage The Verge The Verge logo. The homepage The Verge The Verge logo. Notifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo. Login / Sign Up\nComments Loading comments Getting the conversation ready... AI\nYou can use ChatGPT to edit a GIF’s animation speed and individual frames.\nYou can use ChatGPT to edit a GIF’s animation speed and individual frames.\nEmma Roth is a news writer who covers the streaming wars, consumer tech, crypto, social media, and much more. Previously, she was a writer and editor at MUO. ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out alongside OpenAI’s new Images 2.6 model, allows you to adjust the GIF’s animation speed, edit individual frames, and share it with others.\nBefore this change, ChatGPT couldn’t natively generate GIFs in a single step. An example shared by the company shows how ChatGPT can generate a GIF in response to the prompt, “can you make a gif of a cat dancing?” while also providing you with the option to change the playback speed and view it frame by frame.\nAlong with support for GIF-making, the Images 2.6 update also enables faster image generation in ChatGPT, OpenAI says. The company says users now generate over 4 billion images per week across ChatGPT and its API, a jump from the 3 billion per week it reported in September .\nOpenAI says ChatGPT is catching up to Google in search\nImages 2.6 is rolling out to all ChatGPT and Codex users across web, desktop, and mobile apps. OpenAI is also launching GPT-Image-2.6 Flare and Sunburst in its API for faster and higher-quality image generation.\nSam Altman addresses RAM comments: people should ‘put as much as they want in their computers’\nAnker’s new window-mounted camera monitors the outside of your home from within it\nThose Jeff Bezos hair transplant photos are very fake\nBambu’s nine-nozzle H3C foretells the future of 3D printing\nThe Legend of Zelda: Ocarina of Time never gets old\nThe Verge The Verge logo. Sign in to see your notifications or create an account to join the conversation.\n\n[43] OpenAI News — Introducing Images 2.6\nURL: https://openai.com/index/introducing-images-2-6\nIntroducing Images 2.6 | OpenAI OpenAI November 4, 2026\nGenerate images faster and with more control over editing rounds.\nShare W e’re introducing Images 2.6 in ChatGPT, Codex, and the API, bringing your ideas to life faster. With this, you can bring motion to your images with GIFs — from animating a brand mascot or character to turning a product shot into an eye-catching loop. You can also create polished visuals faster and refine them with greater precision — keeping characters, products, and brand details consistent as you edit.\nPeople around the world now create 4 billion images per week across ChatGPT, Codex, and the API. On average, that’s more than half a billion images created per day.\nFaster iteration and more professional visuals\nImages 2.6 generates images 50% faster than before. In the API, we offer GPT‑Image‑2.6 Flare and Sunburst for developers to choose from. When quality is set to low, Flare can generate images in as little as six seconds. For work that calls for greater detail and precision, GPT‑Image‑2.6 Sunburst brings higher-quality image generation and even greater image consistency across edits when quality is set to medium or high. Flare also improves layout quality for posters, product imagery, and other professional visuals.\nFor moments that call for motion, GIFs bring another dimension to your ideas. Marketers and creators can animate a brand mascot for a campaign, create reactions and memes for social media, or use animated storyboards to explore character movement before video production.\nPrompt 1 : Create a single animation sprite sheet for a seamless looping GIF. A super-cute chibi adult office worker sits at a desk watching a computer monitor with a clearly plunging stock-market line chart. The sequence: hopeful expression, notices the chart falling, eyes widen, face crumples, large cartoon tears stream down both cheeks, then quietly wipes tears while still staring at the falling chart. Oversized round head, tiny body, big expressive eyes, soft rounded features, messy fluffy hair, white shirt and loosened tie. Exactly 6 sequential frames arranged in a precise 3-column by 2-row grid, read left-to-right then top-to-bottom. Every panel has identical dimensions. Fixed front three-quarter camera, same character, same desk, monitor, outfit, and cozy miniature office background. Clear incremental facial and tear motion; sixth frame transitions smoothly toward the first. Polished kawaii chibi 3D toy-like style, warm pastel lighting, funny and sympathetic mood. No captions, no words, no numbers, no logos, no speech bubbles, no panel labels, no borders, no gutters.\nPrompt 2: Create a single animation sprite sheet for a seamless looping GIF. A super-cute chibi adult office worker sits at a desk watching a computer monitor with a clearly soaring stock-market line chart and a large upward arrow. The sequence: notices the chart rising, eyes widen with delight, jumps up cheering, grabs a handful of generic paper banknotes with no readable currency markings, then happily tosses the banknotes into the air like confetti while laughing. Oversized round head, tiny body, big sparkling expressive eyes, soft rounded features, messy fluffy hair, white shirt and loosened tie. Exactly 6 sequential frames arranged in a precise 3-column by 2-row grid, read left-to-right then top-to-bottom. Every panel has identical dimensions. Fixed front three-quarter camera, same character, desk, monitor, outfit, and cozy miniature office background. Clear incremental body, arm, and flying-paper motion; sixth frame transitions smoothly toward the first. Polished kawaii chibi 3D toy-like style, bright celebratory pastel lighting, funny joyful mood. No captions, no words, no numbers, no logos, no real currency symbols, no speech bubbles, no panel labels, no borders, no gutters.\nAnd you don’t need a polished design to get started — even a simple sketch can become an expressive, animated character for videos, games, and more.\nFrom personal reactions to brand mascots and product visuals, GIFs give people and businesses a playful way to communicate. Town, a startup building an AI work assistant, used Images 2.6 in the API to explore how animated characters could bring more personality to everyday interactions at work.\nWith Images 2.6, developers get more control over how images are created, edited, and carried into the next stage of a project. Image markup, already available in ChatGPT, comes to the API so teams can pinpoint exactly where to make specific changes. SVG exports make designs ready to use across websites, apps, and print.\nA new complexity parameter lets developers adjust how much planning the model does to meet a request, with lower settings suited to quick edits. Image quality controls visual detail and fidelity, while complexity guides how much goes into the scene.\nFor most editing tasks, we recommend low complexity for faster edits, paired with the image quality your workflow requires. For scenes with many elements or constraints, try medium or high complexity effort.\nSee what early access customers generated using Images 2.6:\nImages 2.6 is available globally today in ChatGPT and Codex across all subscription tiers on desktop, mobile, and web.\nGPT‑Image‑2.6 Sunburst and GPT‑Image‑2.6 Flare are available in the API. See pricing details here. ⁠ (opens in a new window)\nLearn more about our safety evaluations and safeguards for Images 2.6 in the system card.",
+ "id": "R2-2026-11-05",
+ "caption_final": "How to create animated product GIFs for WhatsApp Business using ChatGPT. Stop relying on freelance designers for every small promotion. With the new Images 2.6 update, you can turn your product shots into eye-catching loops in under a minute. This is a practical way to make your shop's catalogue stand out and get more orders from your existing WhatsApp contacts. Start by experimenting with different prompts for your brand mascots or product displays. Remember, this tool is best for quick, creative edits and might not replace heavy professional video editing software for complex commercials. Comment GIF for the steps to get started.\n\n#WhatsAppMarketing #SmallBusinessIndia #ChatGPT #AIForBusiness"
+}

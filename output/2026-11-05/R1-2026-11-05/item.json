@@ -1,0 +1,257 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Protecting small business merchant accounts and payment apps from AI-driven voice cloning and phishing scams (I4C warning).",
+  "angle": "MHA Cyber Crime Agency warns of AI voice clone scams targeting shopkeeper net banking and vendor payments.",
+  "audience_problem": "Indian merchants are losing money to AI voice-cloning scams mimicking suppliers or bank officials over phone calls.",
+  "format": "myth_fact",
+  "medium": "reel",
+  "source_ids": [
+   72
+  ],
+  "evergreen": true,
+  "keywords": [
+   "i4c warning",
+   "ai cyberattack",
+   "merchant fraud",
+   "voice cloning scam"
+  ],
+  "scores": {
+   "relevance": 10,
+   "novelty": 9,
+   "hook_potential": 10,
+   "retention": 9,
+   "save_share": 10,
+   "feasibility": 9,
+   "evidence": 9,
+   "viral": 10
+  },
+  "total": 9.61
+ },
+ "piece": {
+  "hooks": [
+   "AI agents ab aapke payment APIs aur bank servers target kar rahe hain.",
+   "Indian cyber agency I4C ne AI agent financial scams par warning di hai.",
+   "Aapke payment Gateway aur APIs par AI attack ho sakta hai.",
+   "Cyberattackers agentic AI se crore rupees ki unauthorized transactions kar rahe hain.",
+   "AI bots aapke payment system ki unpatched software vulnerabilities dhund rahe hain."
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "Directly highlights the core threat from the I4C advisory regarding AI agents attacking payment APIs and bank infrastructure.",
+  "title": "I4C Warning: AI Agent Attacks on Payment APIs",
+  "scenes": [
+   {
+    "purpose": "Hook",
+    "narration": "AI agents ab aapke payment APIs aur bank servers target kar rahe hain.",
+    "on_screen": "AI Agent Cyber Risk",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "I4C Cyber Advisory Warning",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Stakes / Problem",
+    "narration": "I4C ke mutabiq attackers unpatched software se system me enter karte hain.",
+    "on_screen": "Unpatched Software Vulnerabilities",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "Unpatched Software",
+     "System Breach",
+     "API Exploitation"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Mechanism",
+    "narration": "Phir AI bots automated disbursement APIs se IMPS aur NEFT fund transfer karte hain.",
+    "on_screen": "Unauthorized Fund Transfer",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "Manual Frauds",
+    "right_label": "AI Agent Attacks",
+    "rows": [
+     {
+      "left": "Social Engineering",
+      "right": "API Exploitation"
+     },
+     {
+      "left": "Slow Transfers",
+      "right": "Instant IMPS NEFT"
+     }
+    ]
+   },
+   {
+    "purpose": "Actionable Defense",
+    "narration": "Isse bachne ke liye payout APIs test karein aur transaction limits set karein.",
+    "on_screen": "Set Transaction Limits",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Test Payment APIs",
+     "Set Limit Checks",
+     "Strict KYC Approval",
+     "Monitor Volume Spikes"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Reporting & CTA",
+    "narration": "CERT-In ko 6 ghante me report karein. Comment SECURITY for advisory checklist.",
+    "on_screen": "Comment SECURITY",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Mandatory CERT-In Reporting",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "Indian Cyber Crime Coordination Centre I4C warning on AI agent cyberattacks targeting payment APIs and financial systems.\n\nCyberattackers are using malicious agentic AI systems to exploit unpatched software and compromise automated payout APIs. Funds are routed through mule accounts and withdrawn using IMPS and NEFT.\n\nTo safeguard financial workflows:\n- Test payout and payment APIs regularly.\n- Fix unpatched server software.\n- Set transaction limits and strict KYC checks.\n- Report security incidents to CERT-In within 6 hours.\n\nHow frequently does your technical team audit your payment gateway integrations?\n\nComment SECURITY for advisory checklist.",
+  "hashtags": [
+   "#CyberSecurityIndia",
+   "#FintechSecurity",
+   "#PaymentAPI",
+   "#I4CAdvisory",
+   "#BusinessSecurity"
+  ],
+  "keywords": [
+   "I4C warning",
+   "payment API cyberattack",
+   "agentic AI fraud",
+   "CERT-In incident reporting",
+   "IMPS NEFT scam prevention"
+  ],
+  "claims": [
+   {
+    "claim": "I4C issued advisory warning banks, NBFCs, and fintechs against malicious AI agents undertaking unauthorized transactions.",
+    "source_id": 72
+   },
+   {
+    "claim": "Cyberattackers exploit unpatched software and misconfigured internet-facing servers to compromise financial infrastructure.",
+    "source_id": 72
+   },
+   {
+    "claim": "Attackers target automated disbursement systems and APIs to transfer funds via IMPS and NEFT through mule accounts.",
+    "source_id": 72
+   },
+   {
+    "claim": "I4C advises testing payment APIs, setting transaction limits, enforcing KYC, and monitoring volume spikes.",
+    "source_id": 72
+   },
+   {
+    "claim": "Financial institutions are advised to report cyber incidents to CERT-In within six hours.",
+    "source_id": 72
+   }
+  ],
+  "dm_keyword": "SECURITY",
+  "dm_text": "I4C Cyber Advisory Checklist for Payment Systems:\n1. Test payment and disbursement APIs urgently against machine-speed attacks.\n2. Patch software vulnerabilities and secure internet-facing servers.\n3. Set transaction limits and monitor sudden changes in transaction speed and volume.\n4. Complete full KYC and authorization checks before transferring funds.\n5. Report cyber incidents to CERT-In within 6 hours (and RBI for regulated entities)."
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 9,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 7,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 7
+  },
+  "claims": [
+   {
+    "claim": "I4C issued advisory warning banks, NBFCs, and fintechs against malicious AI agents undertaking unauthorized transactions.",
+    "supported": true
+   },
+   {
+    "claim": "Cyberattackers exploit unpatched software and misconfigured internet-facing servers to compromise financial infrastructure.",
+    "supported": true
+   },
+   {
+    "claim": "Attackers target automated disbursement systems and APIs to transfer funds via IMPS and NEFT through mule accounts.",
+    "supported": true
+   },
+   {
+    "claim": "I4C advises testing payment APIs, setting transaction limits, enforcing KYC, and monitoring volume spikes.",
+    "supported": true
+   },
+   {
+    "claim": "Financial institutions are advised to report cyber incidents to CERT-In within six hours.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Scene 2: The diagram is generic; it lacks visual connection to the 'I4C' context.",
+   "Scene 3: The comparison table is slightly cluttered; the font size for the table rows is small compared to the headers.",
+   "Scene 4: The checklist items are a bit repetitive with the narration; ensure the visual hierarchy emphasizes the 'Action' rather than just listing."
+  ],
+  "issues": [
+   "The narration in Scene 4 is slightly redundant with the on-screen text.",
+   "The transition between the 'Problem' (Scene 2) and 'Mechanism' (Scene 3) is a bit abrupt; could use a stronger bridge sentence."
+  ],
+  "fix_instructions": "1. In Scene 2, add a small I4C logo or badge to the diagram to anchor it to the source material. 2. In Scene 3, increase the font size of the table rows to ensure readability on smaller mobile screens. 3. In Scene 4, change the narration to 'Inhe implement karna ab zaruri hai' to avoid repeating the text on screen. 4. Ensure the transition between Scene 2 and 3 includes a quick 'Aur ye kaise hota hai?' to improve flow."
+ },
+ "rules": [],
+ "reasons": [
+  "originality 7/10 (<8)",
+  "visual_integrity 7/10 (<8)"
+ ],
+ "meta": {
+  "duration": 26.9,
+  "voice": "gemini",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-05/R1-2026-11-05/try4/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-05/R1-2026-11-05/try4/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-05/R1-2026-11-05/try4/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-05/R1-2026-11-05/try4/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-05/R1-2026-11-05/try4/scene_05.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   5.27,
+   4.95,
+   6.51,
+   4.79,
+   5.43
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-05/R1-2026-11-05/try4",
+ "attempt": 4,
+ "approved": false,
+ "hook": "AI agents ab aapke payment APIs aur bank servers target kar rahe hain.",
+ "log": [
+  "attempt 1: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'visual_integrity 7/10 (<8)', 'reel is 71.2 s long (max 45 s; aim for 15-35 s)']",
+  "attempt 2: fail {'hook': 7, 'originality': 7, 'practical_value': 6, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['hook 7/10 (<8)', 'originality 7/10 (<8)', 'practical_value 6/10 (<8)', 'reel is 79.7 s long (max 45 s; aim for 15-35 s)']",
+  "attempt 3: fail {'hook': 5, 'originality': 5, 'practical_value': 6, 'natural_language': 7, 'accuracy': 4, 'narrative': 5, 'visual_integrity': 6, 'pacing': 6, 'brand_consistency': 7, 'publish_readiness': 3} ['hook 5/10 (<8)', 'originality 5/10 (<8)', 'practical_value 6/10 (<8)', 'natural_language 7/10 (<8)']",
+  "attempt 4: fail {'hook': 8, 'originality': 7, 'practical_value': 9, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'visual_integrity 7/10 (<8)']"
+ ],
+ "material": "[72] Inc42 — Cybersecurity Agency I4C Warns Banks & Fintechs Against AI-Led Cyberattacks\nURL: https://inc42.com/buzz/cybersecurity-agency-i4c-warns-banks-fintechs-against-ai-led-cyberattacks/\nI4C Warns Banks & Fintechs Against Agentic AI Cyberattacks --> tag --> Skip to content Cybersecurity Agency I4C Warns Banks & Fintechs Against AI-Led Cyberattacks --> SHARE Share on Facebook\nSUMMARY The NCTAU flagged that attackers were exploiting unpatched software and misconfigured internet-facing servers to gain access to financial infrastructure\nWith this, the I4C is looking to clampdown on misuse of agentic AI systems, curb financial loss for the general public and fix compromised financial systems\nThe agency has advised financial institutions to report cyber incidents to CERT-In within six hours, test payment APIs and strengthen customer-facing infrastructure\nAdded to Saved Stories in Login VIEW SAVED STORIES\nThe Indian Cyber Crime Coordination Centre (I4C) has warned banks, non-banking financial companies (NBFCs) and fintech startups against the growing trend of cyberattackers using AI agents for financial frauds.\nIn an advisory issued on November 3, the National Cybercrime Threat Analysis Unit (NCTAU), under the I4C, flagged that attackers were exploiting unpatched software and misconfigured internet-facing servers to gain access to financial infrastructure.\nThe cybersecurity agency also said that it has unearthed multiple “individual” cases, where malicious agentic AI systems were exploiting compromised financial systems to undertake unauthorised transactions running into crores of Rupees.\nDescribing the modus operandi of these AI-led cyberattacks, the agency noted that perpetrators exploit unpatched software to compromise banking systems. Customer-facing complaint interfaces can also serve as potential entry points, added I4C.\nOnce inside, NCTAU noted that attackers potentially target automated fund disbursement systems and APIs used for payments and transfers.\nThe agency added that these cyberattackers then route funds through mule accounts across different banks and quickly move to withdraw the proceeds of the crime via IMPS and NEFT. The perpetrators then delete records and hide their tracks so that investigation becomes difficult, added the NCTAU.\nAs such, the agency has advised financial institutions to take the following measures:\nImplement CERT-In’s critical advisories “urgently” on payment and disbursement APIs as well as AI agents\nReport cyber incidents to CERT-In within six hours, and to RBI as well in the cases of banks or NBFCs\nTest payment APIs and strengthen customer-facing infrastructure\nSet transaction limits, verify beneficiary details and monitor sudden changes in transaction speeds, volumes and patterns\nEnsure KYC and approval checks are completed before funds are transferred\nImprove coordination between security, transaction monitoring and IT teams\nConduct authorised red-team exercises to test how quickly security and payment controls respond to machine-speed attacks\nThe warning highlights how AI is accelerating the threat of cyber fraud for financial services firms. At the Global Fintech Fest (GFF) 2026 in September, both Prime Minister Narendra Modi and RBI Governor Sanjay Malhotra had urged fintechs to bolster cybersecurity and strengthen consumer trust.\nAt the same event, National Payments Council of India (NPCI) MD and CEO Dilip Asbe had also called on banks and payments companies to invest in AI to combat cyber threats .\nIn line with this, CERT-In had also issued a critical advisory last month , raising concerns over cyberattackers using publicly-available agentic AI tools for financially motivated intrusions into Indian entities.\nThe advisory follows disclosures by global AI firms OpenAI and Anthropic about their agents taking unauthorised actions during internal cybersecurity evaluations.\nPartner With Inc42 Inc42 Startup Spotlight\nCut the noise. Get the Brief. Up to 10 stories a day, at 9am. 70,000+ companies. All in the app. Track funding, investors and company financials Download App Now Continue on Web Stories Profiles Not Finding what you are looking for? Advanced filter You have reached your limit of free stories want to read the full story? Unlock This Story & Enjoy All Members-Only Benefits With Inc42 Plus.\nUnlock special offers and join 10,000+ founders, investors & operators staying ahead in India’s startup economy.\nOffer Ends In --> 3 YEAR PLAN ₹29999 ₹7999 ₹222/Month --> UNLOCK 73% OFF Become a member Cancel Anytime 2 YEAR PLAN ₹19999 ₹5999 ₹249/Month --> UNLOCK 70% OFF Become a member Cancel Anytime 1 YEAR PLAN ₹9999 ₹3499 ₹291/Month --> UNLOCK 65% OFF Become a member Cancel Anytime Become a member ₹ 7999 Cancel Anytime Already A Member? Sign In Here Discover Startups & Business Models Unleash your potential by exploring unlimited articles, trackers, and playbooks. Identify the hottest startup deals, supercharge your innovation projects, and stay updated with expert curation.\nEmpower yourself with comprehensive playbooks, expert analysis, and invaluable insights. Learn to validate ideas, acquire customers, secure funding, and navigate the journey to startup success.\nAccess 75+ in-depth reports on frontier industries. Gain exclusive market intelligence, understand market landscapes, and decode emerging trends to make informed decisions.\nStay ahead with startup and funding trackers. Analyse investment strategies, profile successful investors, and keep track of upcoming funds, accelerators, and more.\nJoin a community of 10,000+ leaders & operators – unlock unlimited access to Inc42 stories, videos, deals, member-only perks, and more.\nUnlock unlimited access to 500+ monthly new stories and Inc42’s complete archive of 40,000+ stories.\nUnlock unlimited access to 500+ monthly new stories and Inc42’s complete archive of 40,000+ stories.\nOver $250,000 worth deals on software & tools to help your business scale up.\nNetwork with industry leaders & operators with exclusive invites to Inc42’s member-only virtual events\nEnjoy an ad-free and clutter-free experience as a member, focus on what really matters to you\nYour contribution will go on to support and empower our unbiased & data-driven journalism\nJoin 1000's of entrepreneurs, business leaders & makers and stay ahead with our sharp, incisive & data-driven analysis on India’s tech and startup economy!\nUnlock personalised stories, ad-lite reading, and exclusive newsletters on Inc42.\n-- Already Have An Account? Login here --\nGet The Week’s Most Consequential Developments.\nInc42 In-Depth is your daily 9 PM newsletter with sharp insights from India’s startup economy.\nInc42 Moneyball is your Thursday newsletter on India’s venture capital trends. 4 PM sharp.\nThe Indian Startup Economy Is Going Public. Decode It First.\nInc42 Markets is your weekly newsletter on tech IPOs & startup stocks. Every Sunday\nget access to a list of 200+ family offices betting big on startups\nGet access to a list of Alma Mater Of India's Unicorn & Soonicorn Founders\nExplore 75,000+ startups, 3,500+ investors, 25,000+ funding rounds and more. Build shortlists and export them instantly.\n14-day free trial Exports a",
+ "id": "R1-2026-11-05",
+ "caption_final": "Indian Cyber Crime Coordination Centre I4C warning on AI agent cyberattacks targeting payment APIs and financial systems.\n\nCyberattackers are using malicious agentic AI systems to exploit unpatched software and compromise automated payout APIs. Funds are routed through mule accounts and withdrawn using IMPS and NEFT.\n\nTo safeguard financial workflows:\n- Test payout and payment APIs regularly.\n- Fix unpatched server software.\n- Set transaction limits and strict KYC checks.\n- Report security incidents to CERT-In within 6 hours.\n\nHow frequently does your technical team audit your payment gateway integrations?\n\nComment SECURITY for advisory checklist.\n\n#CyberSecurityIndia #FintechSecurity #PaymentAPI #I4CAdvisory #BusinessSecurity"
+}

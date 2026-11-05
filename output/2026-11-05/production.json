@@ -1,0 +1,344 @@
+{
+ "date": "2026-11-05",
+ "tag": "2026-11-05",
+ "pilot": false,
+ "sources": 98,
+ "ideas": 14,
+ "idea_list": [
+  {
+   "idea": "Protecting small business merchant accounts and payment apps from AI-driven voice cloning and phishing scams (I4C warning).",
+   "format": "myth_fact",
+   "total": 9.61,
+   "scores": {
+    "relevance": 10,
+    "novelty": 9,
+    "hook_potential": 10,
+    "retention": 9,
+    "save_share": 10,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 10
+   }
+  },
+  {
+   "idea": "Use ChatGPT Images 2.6 to create eye-catching animated product GIFs for WhatsApp business catalogs and sales promotions.",
+   "format": "tutorial",
+   "total": 8.78,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 9
+   }
+  },
+  {
+   "idea": "AI smart security event summaries (Gemini for Home / Smart Security) for godown and store surveillance.",
+   "format": "tool_test",
+   "total": 8.72,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 9,
+    "retention": 9,
+    "save_share": 9,
+    "feasibility": 8,
+    "evidence": 8,
+    "viral": 9
+   }
+  },
+  {
+   "idea": "Data lineage guardrails: Preventing autonomous AI agents from leaking confidential wholesale pricing to customers.",
+   "format": "problem_fix",
+   "total": 8.65,
+   "scores": {
+    "relevance": 9,
+    "novelty": 9,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 8,
+    "evidence": 9,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Using OpenAI CAD and physical engineering workflows to turn rough fabrication sketches into technical client quotes.",
+   "format": "demo",
+   "total": 8.63,
+   "scores": {
+    "relevance": 8,
+    "novelty": 9,
+    "hook_potential": 9,
+    "retention": 9,
+    "save_share": 9,
+    "feasibility": 8,
+    "evidence": 9,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Uber fulfilled only 4 rides via AI agents in Q3: Why direct consumer-booking AI agents fail and what SMBs should automate instead.",
+   "format": "myth_fact",
+   "total": 8.55,
+   "scores": {
+    "relevance": 8,
+    "novelty": 9,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 9,
+    "evidence": 10,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Stop counting basic prompts: How multi-step AI agents consume 50x API tokens and how to set hard spend caps.",
+   "format": "checklist",
+   "total": 8.42,
+   "scores": {
+    "relevance": 8,
+    "novelty": 9,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Why open-source AI models like Kimi K3.1 Pro are ideal for offline business privacy and zero recurring SaaS subscriptions.",
+   "format": "manual_vs_auto",
+   "total": 8.36,
+   "scores": {
+    "relevance": 8,
+    "novelty": 9,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 8,
+    "evidence": 9,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Selecting zero-commission WordPress booking plugins for local clinics, salons, and consultants.",
+   "format": "checklist",
+   "total": 8.35,
+   "scores": {
+    "relevance": 9,
+    "novelty": 7,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Automated post-delivery customer feedback loops: Setting up instant survey triggers after WhatsApp order dispatches.",
+   "format": "tutorial",
+   "total": 8.21,
+   "scores": {
+    "relevance": 9,
+    "novelty": 7,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Setting up AI morning briefs using always-on agents like Claude Duet to automatically audit daily shop tasks and appointments.",
+   "format": "problem_fix",
+   "total": 8.14,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 8,
+    "evidence": 8,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Leveraging Grok AI + Zapier integration for real-time market sentiment and competitor price change alerts on X.",
+   "format": "tool_test",
+   "total": 8.0,
+   "scores": {
+    "relevance": 8,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 8,
+    "evidence": 8,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Why custom internal no-code business apps crash after 48 hours and how to structure AI agent databases correctly.",
+   "format": "manual_vs_auto",
+   "total": 7.94,
+   "scores": {
+    "relevance": 8,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 8,
+    "evidence": 9,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "Automated rent roll tracking, maintenance logs, and tenant communication inspired by Heimstaden's AI real estate workflow.",
+   "format": "case_study",
+   "total": 7.72,
+   "scores": {
+    "relevance": 8,
+    "novelty": 7,
+    "hook_potential": 8,
+    "retention": 7,
+    "save_share": 8,
+    "feasibility": 8,
+    "evidence": 9,
+    "viral": 7
+   }
+  }
+ ],
+ "rejected_ideas": [],
+ "items": [
+  {
+   "id": "R1-2026-11-05",
+   "kind": "reel",
+   "format": "myth_fact",
+   "topic": "Protecting small business merchant accounts and payment apps from AI-driven voice cloning and phishing scams (I4C warning).",
+   "hook": "AI agents ab aapke payment APIs aur bank servers target kar rahe hain.",
+   "approved": false,
+   "attempts": 4,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 9,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 7,
+    "pacing": 8,
+    "brand_consistency": 9,
+    "publish_readiness": 7
+   },
+   "reasons": [
+    "originality 7/10 (<8)",
+    "visual_integrity 7/10 (<8)"
+   ],
+   "log": [
+    "attempt 1: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'visual_integrity 7/10 (<8)', 'reel is 71.2 s long (max 45 s; aim for 15-35 s)']",
+    "attempt 2: fail {'hook': 7, 'originality': 7, 'practical_value': 6, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['hook 7/10 (<8)', 'originality 7/10 (<8)', 'practical_value 6/10 (<8)', 'reel is 79.7 s long (max 45 s; aim for 15-35 s)']",
+    "attempt 3: fail {'hook': 5, 'originality': 5, 'practical_value': 6, 'natural_language': 7, 'accuracy': 4, 'narrative': 5, 'visual_integrity': 6, 'pacing': 6, 'brand_consistency': 7, 'publish_readiness': 3} ['hook 5/10 (<8)', 'originality 5/10 (<8)', 'practical_value 6/10 (<8)', 'natural_language 7/10 (<8)']",
+    "attempt 4: fail {'hook': 8, 'originality': 7, 'practical_value': 9, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'visual_integrity 7/10 (<8)']"
+   ],
+   "dir": "output/2026-11-05/R1-2026-11-05/try4",
+   "duration": 26.9,
+   "voice": "gemini"
+  },
+  {
+   "id": "R2-2026-11-05",
+   "kind": "reel",
+   "format": "tutorial",
+   "topic": "Use ChatGPT Images 2.6 to create eye-catching animated product GIFs for WhatsApp business catalogs and sales promotions.",
+   "hook": "WhatsApp par static flyers bhejna band karo, animated GIFs try karo.",
+   "approved": false,
+   "attempts": 4,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 8,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 7,
+    "pacing": 8,
+    "brand_consistency": 9,
+    "publish_readiness": 7
+   },
+   "reasons": [
+    "banned phrase used: 'seamless'",
+    "originality 7/10 (<8)",
+    "visual_integrity 7/10 (<8)"
+   ],
+   "log": [
+    "attempt 1: fail {'hook': 6, 'originality': 5, 'practical_value': 4, 'natural_language': 7, 'accuracy': 8, 'narrative': 5, 'visual_integrity': 3, 'pacing': 6, 'brand_consistency': 7, 'publish_readiness': 4} ['hook 6/10 (<8)', 'originality 5/10 (<8)', 'practical_value 4/10 (<8)', 'natural_language 7/10 (<8)']",
+    "attempt 2: fail {'hook': 8, 'originality': 7, 'practical_value': 7, 'natural_language': 8, 'accuracy': 6, 'narrative': 7, 'visual_integrity': 5, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 6} ['scene 2: screenshot must be a product page from the sources, not an article', 'originality 7/10 (<8)', 'practical_value 7/10 (<8)', 'accuracy 6/10 (<8)']",
+    "attempt 3: fail {'hook': 7, 'originality': 7, 'practical_value': 6, 'natural_language': 8, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 5, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 5} ['hook 7/10 (<8)', 'originality 7/10 (<8)', 'practical_value 6/10 (<8)', 'narrative 7/10 (<8)']",
+    "attempt 4: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} [\"banned phrase used: 'seamless'\", 'originality 7/10 (<8)', 'visual_integrity 7/10 (<8)']"
+   ],
+   "dir": "output/2026-11-05/R2-2026-11-05/try4",
+   "duration": 34.1,
+   "voice": "edge"
+  },
+  {
+   "id": "R3-2026-11-05",
+   "kind": "reel",
+   "format": "tool_test",
+   "topic": "AI smart security event summaries (Gemini for Home / Smart Security) for godown and store surveillance.",
+   "hook": null,
+   "approved": false,
+   "attempts": null,
+   "scores": null,
+   "reasons": [
+    "no usable draft: attempt 2: writer failed (Gemini unavailable (gemini-3.1-flash-lite: ReadTimeout))"
+   ],
+   "log": [
+    "attempt 1: rules failed: ['total narration 99 words (want 40-85, i.e. 15-35 s)', 'scene 4 narration 20 words (want 4-14)']",
+    "attempt 2: writer failed (Gemini unavailable (gemini-3.1-flash-lite: ReadTimeout))"
+   ],
+   "dir": null,
+   "duration": null,
+   "voice": null
+  },
+  {
+   "id": "C1-2026-11-05",
+   "kind": "carousel",
+   "format": "problem_fix",
+   "topic": "Data lineage guardrails: Preventing autonomous AI agents from leaking confidential wholesale pricing to customers.",
+   "hook": "Why your AI agent might accidentally share your supplier margins",
+   "approved": true,
+   "attempts": 1,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 8,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 9,
+    "pacing": 9,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [],
+   "log": [
+    "attempt 1: PASS {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} []"
+   ],
+   "dir": "output/2026-11-05/C1-2026-11-05/try1",
+   "duration": null,
+   "voice": null
+  }
+ ],
+ "llm_calls": {
+  "text": 20,
+  "tts": 26,
+  "failed": 1
+ }
+}

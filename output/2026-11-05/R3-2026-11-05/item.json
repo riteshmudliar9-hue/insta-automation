@@ -1,0 +1,41 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "AI smart security event summaries (Gemini for Home / Smart Security) for godown and store surveillance.",
+  "angle": "Stop scrubbing hours of CCTV footage; get daily AI video recaps highlighting off-hour movements in your warehouse.",
+  "audience_problem": "Warehouse and retail owners waste massive time reviewing CCTV footage to verify inventory deliveries or safety incidents.",
+  "format": "tool_test",
+  "medium": "reel",
+  "source_ids": [
+   12
+  ],
+  "evergreen": true,
+  "keywords": [
+   "gemini home security",
+   "cctv ai summary",
+   "godown safety",
+   "retail surveillance"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 8,
+   "hook_potential": 9,
+   "retention": 9,
+   "save_share": 9,
+   "feasibility": 8,
+   "evidence": 8,
+   "viral": 9
+  },
+  "total": 8.72
+ },
+ "approved": false,
+ "reasons": [
+  "no usable draft: attempt 2: writer failed (Gemini unavailable (gemini-3.1-flash-lite: ReadTimeout))"
+ ],
+ "log": [
+  "attempt 1: rules failed: ['total narration 99 words (want 40-85, i.e. 15-35 s)', 'scene 4 narration 20 words (want 4-14)']",
+  "attempt 2: writer failed (Gemini unavailable (gemini-3.1-flash-lite: ReadTimeout))"
+ ],
+ "id": "R3-2026-11-05",
+ "caption_final": ""
+}

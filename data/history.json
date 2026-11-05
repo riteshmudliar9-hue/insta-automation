@@ -410,5 +410,21 @@
   "status": "published",
   "media_id": "18350354326254097",
   "permalink": "https://www.instagram.com/p/DfTgbe-jnRj/"
+ },
+ {
+  "id": "C1-2026-11-05",
+  "date": "2026-11-05",
+  "kind": "carousel",
+  "format": "problem_fix",
+  "topic": "Data lineage guardrails: Preventing autonomous AI agents from leaking confidential wholesale pricing to customers.",
+  "hook": "Why your AI agent might accidentally share your supplier margins",
+  "keywords": [
+   "AI agent data security",
+   "business data lineage",
+   "prevent AI data leakage",
+   "AI governance for small business",
+   "wholesale pricing protection"
+  ],
+  "status": "queued"
  }
 ]

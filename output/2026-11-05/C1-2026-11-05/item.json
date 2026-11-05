@@ -1,0 +1,249 @@
+{
+ "kind": "carousel",
+ "idea": {
+  "idea": "Data lineage guardrails: Preventing autonomous AI agents from leaking confidential wholesale pricing to customers.",
+  "angle": "Giving AI agents open database access can accidentally expose your supplier discount structure to retail buyers.",
+  "audience_problem": "Traders deploying AI tools risk leaking sensitive margin data and client-specific pricing agreements.",
+  "format": "problem_fix",
+  "medium": "carousel",
+  "source_ids": [
+   51
+  ],
+  "evergreen": true,
+  "keywords": [
+   "ai data security",
+   "pricing privacy",
+   "agentic enterprise",
+   "data leakage"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 9,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 8,
+   "evidence": 9,
+   "viral": 8
+  },
+  "total": 8.65
+ },
+ "piece": {
+  "hooks": [
+   "Prevent your AI agents from leaking confidential wholesale prices",
+   "Why your AI agent might accidentally share your supplier margins",
+   "Stop your AI from exposing secret wholesale rates to customers"
+  ],
+  "chosen_hook": 1,
+  "hook_reason": "This hook directly addresses the specific risk of data leakage (wholesale pricing) which is a high-stakes problem for small business owners, using clear and non-hyped language.",
+  "slides": [
+   {
+    "kind": "cover",
+    "title": "Prevent your AI agents from leaking confidential wholesale prices",
+    "subtitle": "Stop internal pricing data from reaching retail customers through automated workflows.",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "point",
+    "title": "The hidden leak",
+    "subtitle": "How data moves in AI",
+    "body": "When AI agents pull data from multiple sources like pricing systems and internal emails to draft proposals, they often merge restricted and public information. Without tracking, this sensitive data can easily slip into outgoing quotes.",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "compare",
+    "title": "Old security vs AI reality",
+    "subtitle": "Why traditional methods are failing",
+    "body": "Traditional security focuses on static systems. Agentic AI requires tracking moving data.",
+    "items": [],
+    "left_label": "Static Security",
+    "right_label": "Agentic AI Needs",
+    "rows": [
+     {
+      "left": "Endpoint protection",
+      "right": "Data lineage tracking"
+     },
+     {
+      "left": "Application focus",
+      "right": "Visibility of data movement"
+     },
+     {
+      "left": "Static file walls",
+      "right": "Governance of transformed data"
+     }
+    ],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "steps",
+    "title": "Establish data lineage",
+    "subtitle": "Steps to govern your agent workflows",
+    "body": "",
+    "items": [
+     "Map how data flows between agents and internal systems",
+     "Monitor data as it is summarized or transformed",
+     "Implement human oversight for all agent-drafted proposals",
+     "Audit which sources agents access for specific tasks"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "mythfact",
+    "title": "Security reality check",
+    "subtitle": "",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "AI security is a tool problem.",
+    "fact": "AI security is a data visibility problem; you must manage fragmented data that is being continuously ingested, copied, and redistributed by your agents.",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "quote",
+    "title": "The core challenge",
+    "subtitle": "",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "Securing agentic AI at scale requires understanding how data moves.",
+    "attribution": "MIT Tech Review"
+   },
+   {
+    "kind": "summary",
+    "title": "Key takeaways",
+    "subtitle": "Protecting your pricing margins",
+    "body": "",
+    "items": [
+     "Stop trusting automated handoffs without human verification",
+     "Track data lineage to stop unauthorized information spread",
+     "Move beyond static network security for AI agents",
+     "Governance must evolve as fast as your AI"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   }
+  ],
+  "caption": "If your AI agents have direct access to your internal pricing sheets, they might be quoting your wholesale discount structure to retail customers. This happens when agents pull data from multiple sources without humans checking the final output. Traditional IT security won't stop this, because it doesn't watch how data moves between your agents and your files. To prevent leaks, you need to implement data lineage. This means mapping exactly where your agent gets its info before it sends an email or proposal. Start by auditing which systems your AI can reach. If you use AI for customer proposals, have a human verify every single draft before it goes out. How do you currently handle data access for your internal staff?",
+  "hashtags": [
+   "#BusinessAutomation",
+   "#DataSecurity",
+   "#SmallBusinessIndia",
+   "#AIGovernance"
+  ],
+  "keywords": [
+   "AI agent data security",
+   "business data lineage",
+   "prevent AI data leakage",
+   "AI governance for small business",
+   "wholesale pricing protection"
+  ],
+  "claims": [
+   {
+    "claim": "AI agents can pull sensitive data from multiple sources like pricing systems and internal communications without human oversight.",
+    "source_id": 51
+   },
+   {
+    "claim": "AI security is primarily a data visibility problem rather than a tool problem.",
+    "source_id": 51
+   },
+   {
+    "claim": "Traditional security approaches centered on applications or endpoints are insufficient for agentic AI.",
+    "source_id": 51
+   },
+   {
+    "claim": "Data lineage is required to manage governance and trust across agentic workflows.",
+    "source_id": 51
+   }
+  ]
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "AI agents can pull sensitive data from multiple sources like pricing systems and internal communications without human oversight.",
+    "supported": true
+   },
+   {
+    "claim": "AI security is primarily a data visibility problem rather than a tool problem.",
+    "supported": true
+   },
+   {
+    "claim": "Traditional security approaches centered on applications or endpoints are insufficient for agentic AI.",
+    "supported": true
+   },
+   {
+    "claim": "Data lineage is required to manage governance and trust across agentic workflows.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [],
+  "issues": [
+   "The content is highly professional and accurate, but it lacks a specific 'Indian SMB' touch in the copy. While the tone is restrained, it could benefit from a slightly more relatable opening or closing question that acknowledges the local context of small business operations in India."
+  ],
+  "fix_instructions": "The carousel is excellent and ready for publication. To elevate it further, ensure the caption includes a specific call-to-action that invites Indian business owners to share their experience with AI tools. No changes are required to the slides themselves as they are clean, readable, and perfectly aligned with the brand aesthetic."
+ },
+ "rules": [],
+ "reasons": [],
+ "meta": {
+  "ai_visuals": false,
+  "slides": 7
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-05/C1-2026-11-05/try1",
+ "attempt": 1,
+ "approved": true,
+ "hook": "Why your AI agent might accidentally share your supplier margins",
+ "log": [
+  "attempt 1: PASS {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} []"
+ ],
+ "material": "[51] MIT Tech Review AI — Securing the agentic enterprise with data lineage\nURL: https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/\nYou need to enable JavaScript to view this site. Skip to Content Sponsored\nA sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No human checks either handoff. When it’s discovered that the proposal includes unapproved, confidential, and sensitive information, no one can trace where the problematic data entered the workflow or how it spread across systems, files, and agents.\nThis scenario illustrates why AI governance needs to evolve, rapidly and dynamically. As more enterprises begin to use agentic AI in daily workflows, they’re realizing that they must manage more than static files; they must manage moving and fragmented data that is continuously ingested, copied, summarized, transformed, reused, and redistributed in new forms. In short, AI security isn’t a tool problem; it’s a data visibility problem.\nConsequently, traditional security approaches built solely around applications, systems, networks, or endpoints are no longer sufficient. Securing agentic AI at scale requires understanding how data moves. Teams, therefore, need to establish data lineage in order to effectively manage governance, accountability, and trust across human, agentic, and hybrid workflows.\nThis content was produced by Insights, MIT Technology Review’s custom content arm, not its editorial staff. It was researched and written by humans, with any AI tools that may have been used limited to production processes under human oversight.\nTen years after AlphaGo’s match against Go champion Lee Sedol, today’s AI still isn’t tapping into the machinery that made that win possible.\n“We were looking at it wrong”: The explosive claim that’s upended the AI world\nAn exclusive interview with Nick Cammarata, the researcher whose 26,000-word viral blog post has AI safety folks celebrating.\nDon’t be fooled by this summer of AI hype\nBreathless claims about AGI and new capabilities fall apart pretty quickly under scrutiny.\nThe US spent billions on border surveillance. Why can’t it catch people before they die?\nSurveillance towers, increasingly powered by AI, promised faster responses to crossings. Our investigation of deaths near the towers found they are failing to deliver.\nGet the latest updates from MIT Technology Review\nDiscover special offers, top stories, upcoming events, and more.",
+ "id": "C1-2026-11-05",
+ "caption_final": "If your AI agents have direct access to your internal pricing sheets, they might be quoting your wholesale discount structure to retail customers. This happens when agents pull data from multiple sources without humans checking the final output. Traditional IT security won't stop this, because it doesn't watch how data moves between your agents and your files. To prevent leaks, you need to implement data lineage. This means mapping exactly where your agent gets its info before it sends an email or proposal. Start by auditing which systems your AI can reach. If you use AI for customer proposals, have a human verify every single draft before it goes out. How do you currently handle data access for your internal staff?\n\n#BusinessAutomation #DataSecurity #SmallBusinessIndia #AIGovernance"
+}
