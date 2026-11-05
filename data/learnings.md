@@ -1,4 +1,4 @@
-# Learnings (auto-generated 2026-11-04)
+# Learnings (auto-generated 2026-11-05)
 
 ## reels (n=9, median reach 24)
 - format checklist: 8.90x account median (n=1)
@@ -12,8 +12,8 @@
 - weakest hooks: Daily receipt entry Excel me karna band karo. Iski jagah ye karo. | Contract me chhipi penalty clauses 30 second me AI se dhundho.
 - median avg watch time: 3.7s
 
-## carousels (n=13, median reach 3)
-- format problem_fix: 2.00x account median (n=2)
+## carousels (n=14, median reach 2)
+- format problem_fix: 1.83x account median (n=3)
 - format tutorial: 1.17x account median (n=3)
 - format myth_fact: 1.17x account median (n=3)
 - format checklist: 1.12x account median (n=2)
