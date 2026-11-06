@@ -2094,5 +2094,237 @@
   "media_id": "18138422668729549",
   "permalink": "https://www.instagram.com/p/DfWFzI8EaeG/",
   "published_at": "2026-11-05T09:11:17.234227+05:30"
+ },
+ {
+  "id": "R2-2026-11-06",
+  "kind": "reel",
+  "date": "2026-11-06",
+  "slot": "2026-11-06T21:00",
+  "dir": "output/2026-11-06/R2-2026-11-06/try1",
+  "files": [
+   "reel.mp4"
+  ],
+  "caption": "Connecting business bank accounts to AI chatbots like Claude or ChatGPT has specific data access rules you should know. When connecting through Plaid, the AI gets read-only access to account names, balances, credit limits, and up to 2 years of transactions. Anthropic states that Claude cannot move or invest your money, and Personal Finance chats are not used for model training. Before linking any business card or ledger account, review what permissions you grant. Comment BANK for details.\n\n#AIPrivacy #SmallBusinessTech #FintechIndia #ClaudeAI",
+  "topic": "The privacy risks of linking business bank accounts directly to personal finance AI chat tools",
+  "format": "problem_fix",
+  "hook": "ChatGPT ya Claude ko bank account link karne se pehle ye dekho.",
+  "keywords": [
+   "AI bank account connection privacy",
+   "Claude personal finance plaid",
+   "business bank AI access rules",
+   "chatbot read only financial data",
+   "small business expense tracking AI"
+  ],
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 9,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 8,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "status": "queued",
+  "produced_at": 1793925608,
+  "log": [],
+  "dm_keyword": "BANK",
+  "dm_text": "Here is what AI personal finance features access when connected via Plaid: 1. Read-only access to bank name, account type, and last 4 digits. 2. Balances and credit limits. 3. Up to 2 years of transaction history. Note: Anthropic states access is read-only (it cannot move money) and chats in Personal Finance are not used to train models.",
+  "presenter": {
+   "status": "waiting",
+   "takes": [
+    {
+     "n": 1,
+     "kind": "talk",
+     "talk": 1,
+     "line": "ChatGPT ya Claude ko bank account link karne se pehle ye teen cheezein zaroor check kar lena.",
+     "visual_scene": -1,
+     "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: medium close-up with a slow, smooth push-in towards his face. Points to his temple with a thoughtful expression. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"ChatGPT ya Claude ko bank account link karne se pehle ye teen cheezein zaroor check kar lena.\" No subtitles, no on-screen text, no music, no other people.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    },
+    {
+     "n": 2,
+     "kind": "talk",
+     "talk": 2,
+     "line": "Plaid ke through access sirf read-only hota hai, matlab AI bot aapka paisa move nahi kar sakta.",
+     "visual_scene": -1,
+     "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: close-up, camera steady at eye level. Raises one finger to emphasize the point. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Plaid ke through access sirf read-only hota hai, matlab AI bot aapka paisa move nahi kar sakta.\" No subtitles, no on-screen text, no music, no other people.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    },
+    {
+     "n": 3,
+     "kind": "broll",
+     "cover": 2,
+     "desc": "close-up of a shopkeeper's hands typing on a laptop next to a stack of paper invoices on a wooden counter",
+     "prompt": "Create a realistic vertical 9:16 video of about 8 seconds: close-up of a shopkeeper's hands typing on a laptop next to a stack of paper invoices on a wooden counter. Indian small-business setting, warm natural light, handheld smartphone-camera look, slow subtle camera movement, shallow depth of field. No faces, no readable text, no brand names or logos, no subtitles, no speech, no music.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    },
+    {
+     "n": 4,
+     "kind": "talk",
+     "talk": 3,
+     "line": "Personal Finance hub ke chats training mein use nahi hote. Comment BANK, main aapko privacy steps DM kar dunga.",
+     "visual_scene": -1,
+     "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: medium shot from slightly to his left (about 20 degrees), camera steady. Smiles and shrugs lightly while looking directly at the lens. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Personal Finance hub ke chats training mein use nahi hote. Comment BANK, main aapko privacy steps DM kar dunga.\" No subtitles, no on-screen text, no music, no other people.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    },
+    {
+     "n": 5,
+     "kind": "broll",
+     "cover": 3,
+     "desc": "over-the-shoulder shot of a phone on a shop counter lighting up with new message notifications",
+     "prompt": "Create a realistic vertical 9:16 video of about 8 seconds: over-the-shoulder shot of a phone on a shop counter lighting up with new message notifications. Indian small-business setting, warm natural light, handheld smartphone-camera look, slow subtle camera movement, shallow depth of field. No faces, no readable text, no brand names or logos, no subtitles, no speech, no music.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    }
+   ],
+   "material": "[5] TechCrunch AI — Claude can now analyze your spending with its new Personal Finance tool\nURL: https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/\n–:–:–:– Buy One Founder Summit Ticket, Get a Second for Free. Register now.\nFounder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts. REGISTER HERE.\nImage Credits: Anthropic AI Claude can now analyze your spending with its new Personal Finance tool Aisha Malik 10:00 AM PST · November 5, 2026 Anthropic announced Thursday that Claude is getting a new tool called “Personal Finance,” designed to help users keep track of their money. With it, users can connect their bank and credit card accounts through Plaid and ask Claude questions about their finances. Anthropic says access is read-only, meaning Personal Finance can’t move, manage, or invest users’ money.\nBy letting Claude connect directly to bank and credit card accounts, Anthropic is positioning its chatbot as a financial companion that can help people understand their spending and make sense of their money, rather than simply offering them generic advice.\nWith the launch, Claude is playing catch-up to OpenAI’s ChatGPT, which introduced similar personal finance tools in May that also let users connect their financial accounts and ask questions about everything from spending patterns to long-term financial planning.\n“Claude gives you answers in everyday language, from your balances and transactions, and explains any term that’s new to you,” Anthropic wrote in a blog post. “Like the rest of Claude, Personal Finance has no ads or sponsored recommendations, and it doesn’t offer credit cards, loans, or savings accounts of its own, so your money questions get a straight answer.”\nFor instance, at the end of the month, a user could ask Claude, “Where did my money go this month?” The chatbot will then add up spending across the connected accounts and sort it by category, such as rent and utilities, food and drink, and shopping. Users can choose to go deeper by following up with questions like, “Is that more than usual?” or “Anything else I’m missing?”\nAnthropic says the tool goes beyond basic spending summaries by analyzing transactions across connected accounts to flag potential issues, such as duplicate charges, unexpected fees, and steadily increasing bills. Users can also ask broader questions about their finances, such as whether they’re spending more than they earn. The tool can also explain financial concepts like APR (annual percentage rate), while providing calculations that show users how much they’ve paid in interest over the past year.\nOf course, some people will have reservations about connecting their financial accounts to an AI chatbot. Anthropic says Claude’s access is limited to each connected bank’s name, account name and type, the last four digits of the account number, balances, credit limits, and up to two years of transaction history.\nAdditionally, the company notes that when users chat with Claude in the Personal Finance hub, those conversations aren’t used to train its models.\nPersonal Finance starts rolling out in beta this week to users on the Pro, Max, and Ultra plans in the U.S.\nThe launch of the new tool comes as Anthropic has been expanding Claude into new verticals. For instance, Anthropic launched Claude for Legal and Claude for Financial Services earlier this year.\nWhen you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence.\nAisha is a consumer news reporter at TechCrunch. Prior to joining the publication in 2021, she was a telecom reporter at MobileSyrup. Aisha holds an honours bachelor’s degree from University of Toronto and a master’s degree in journalism from Western University.\nYou can contact or verify outreach from Aisha by emailing [email protected] or via encrypted message at aisha_malik.01 on Signal.\nNovember 4 Boston Buy One Pass, Get a Second Free Cover more ground at TechCrunch’s ultimate founder bootcamp of the year by bringing your co-founder or partner for free Book before the BOGO deal expires\nData centers are turning to old jet engines as the wait for power grows\nNew York City’s Mamdani criticizes Madison Square Garden owner over surveillance tech\nAnthropic warns that it’s very close to RSI capability, aka self-building AI\nNew York Times and other outlets sue web browser Brave over alleged content scraping\nNinja’s first-ever microwave just replaced two of my kitchen appliances at once\nAnthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says\nGoogle’s first data center satellite is online and writing poetry\n\n[14] The Verge AI — Claude AI can plug directly into your bank account\nURL: https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance\nClaude AI can plug directly into your bank account | The Verge Skip to main content The homepage The Verge The Verge logo. The homepage The Verge The Verge logo. Notifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo. Login / Sign Up\nComments Loading comments Getting the conversation ready... AI\nWith access to your bank account via Plaid, Anthropic’s chatbot will try to explain where your money is going and what you can afford.﻿\nWith access to your bank account via Plaid, Anthropic’s chatbot will try to explain where your money is going and what you can afford.﻿\nJess Weatherbed Nov 5, 2026, 6:00 PM UTC Link\nJess Weatherbed is a news writer focused on creative industries, computing, and internet culture. Jess started her career at TechRadar, covering news and hardware reviews. Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform. You can ask the chatbot “where did my money go this month,” for example, and it’ll create an overview with a breakdown of spending by category, including rent and utilities, shopping, and food. Claude can also answer broader questions around what bills are left before your next payday, if you can afford big purchases like holiday trips, and how much money you could be saving each month.\nIts access is read-only, and with Plaid facilitating the connection, Claude doesn’t see your banking passwords and your bank doesn’t have to deal with unvetted AI bots crawling around your accounts .\nClaude can’t move, manage, or invest your money, according to Anthropic, and it “isn’t designed to give investment advice.”, but it can see the bank’s name, account names, account type, the last four digits of the number associated with it, your balances and credit limits, and up to two years’ worth of your transaction history.\nIf you choose to give it access to all that, Claude can explain financial terms you don’t understand and answer questions about your balances and transactions.\nPersonal Finance in Claude is rolling out in beta this week to Claude Pro, Max, and Ultra plan subscribers in the US. Anthropic’s announcement follows OpenAI introducing a similar feature for ChatGPT in May, which also plugs into your bank accounts through Plaid. Allowing AI to have oversight into your finances might ring some alarm bells, but according to the sign-off in Anthropic’s press release, it’s just the beginning:\n“Personal Finance is a first step. For life’s bigger money decisions, we think people are best served by Claude working alongside the licensed professionals and regulated firms they trust. We’re exploring how to make that possible in Claude, and we’d like to hear from banks, wealth managers, and financial services companies who want to help shape it.”\nAnker’s new window-mounted camera monitors the outside of your home from within it\nSam Altman addresses RAM comments: People should ‘put as much as they want in their computers’\nDiscord is dit",
+   "scenes": [
+    {
+     "purpose": "Hook",
+     "narration": "ChatGPT ya Claude ko bank account link karne se pehle ye dekho.",
+     "on_screen": "AI Banking Access",
+     "visual_type": "text",
+     "url": "",
+     "query": "",
+     "headline": "AI & Bank Connections",
+     "steps": [],
+     "items": [],
+     "left_label": "",
+     "right_label": "",
+     "rows": []
+    },
+    {
+     "purpose": "Explain shared data points",
+     "narration": "Plaid connect hone par AI bot 2 saal ki transaction history read karta hai.",
+     "on_screen": "2 Years History Shared",
+     "visual_type": "checklist",
+     "url": "",
+     "query": "",
+     "headline": "",
+     "steps": [],
+     "items": [
+      "Balances and credit limits",
+      "Last 4 account digits",
+      "2 years transaction logs"
+     ],
+     "left_label": "",
+     "right_label": "",
+     "rows": []
+    },
+    {
+     "purpose": "Show read-only safety boundary",
+     "narration": "Access sirf read-only hota hai, matlab AI bot aapka money move nahi kar sakta.",
+     "on_screen": "Read Only Access",
+     "visual_type": "compare",
+     "url": "",
+     "query": "",
+     "headline": "",
+     "steps": [],
+     "items": [],
+     "left_label": "AI Can Do",
+     "right_label": "AI Cannot Do",
+     "rows": [
+      {
+       "left": "Read transactions",
+       "right": "Move money"
+      },
+      {
+       "left": "Flag unexpected fees",
+       "right": "Invest money"
+      }
+     ]
+    },
+    {
+     "purpose": "Explain training policy",
+     "narration": "Anthropic kehta hai ki Personal Finance hub ke chats AI model training mein use nahi hote.",
+     "on_screen": "No Model Training",
+     "visual_type": "diagram",
+     "url": "",
+     "query": "",
+     "headline": "",
+     "steps": [
+      "Bank via Plaid",
+      "Claude Analysis",
+      "No Model Training"
+     ],
+     "items": [],
+     "left_label": "",
+     "right_label": "",
+     "rows": []
+    },
+    {
+     "purpose": "Action call and DM hook",
+     "narration": "Business finances ke liye hamesha features aur privacy settings check karke decision lo. Comment BANK for privacy steps.",
+     "on_screen": "Comment BANK",
+     "visual_type": "text",
+     "url": "",
+     "query": "",
+     "headline": "Comment BANK For Details",
+     "steps": [],
+     "items": [],
+     "left_label": "",
+     "right_label": "",
+     "rows": []
+    }
+   ],
+   "composed_from": null,
+   "hook_title": "AI Bank Access Safety",
+   "cta": "Comment BANK for privacy steps"
+  }
+ },
+ {
+  "id": "C1-2026-11-06",
+  "kind": "carousel",
+  "date": "2026-11-06",
+  "slot": "2026-11-06T09:00",
+  "dir": "output/2026-11-06/C1-2026-11-06/try1",
+  "files": [
+   "slide_01.jpg",
+   "slide_02.jpg",
+   "slide_03.jpg",
+   "slide_04.jpg",
+   "slide_05.jpg",
+   "slide_06.jpg"
+  ],
+  "caption": "Most business owners blame their AI for wrong answers, but the real culprit is data fragmentation. If your customer list is in WhatsApp, your stock is in a register, and your invoices are in Excel, the AI cannot see the full picture. Adding more connectors between these systems only creates more points of failure. Start by consolidating your data layer into one source of truth before spending money on automation tools. Pick your most critical, painful process first, clean the data behind it, and test your AI there. Which manual process is currently causing the most data errors in your shop? Let us know below.\n\n#SmallBusinessIndia #BusinessAutomation #DataManagement #AIForBusiness",
+  "topic": "Why AI projects fail in small businesses due to fragmented data scattered across notebooks and WhatsApp",
+  "format": "checklist",
+  "hook": "Fix your messy data before starting an AI project",
+  "keywords": [
+   "business data management",
+   "AI implementation tips",
+   "consolidate business records",
+   "AI for small business",
+   "data fragmentation"
+  ],
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 9,
+   "accuracy": 8,
+   "narrative": 9,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 10,
+   "publish_readiness": 8
+  },
+  "status": "queued",
+  "produced_at": 1793925608,
+  "log": [],
+  "dm_keyword": "",
+  "dm_text": ""
  }
 ]

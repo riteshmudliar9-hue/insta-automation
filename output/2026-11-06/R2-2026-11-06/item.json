@@ -1,0 +1,241 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "The privacy risks of linking business bank accounts directly to personal finance AI chat tools",
+  "angle": "Why connecting your business accounts via open banking bridges like Plaid to conversational AI chat models requires caution.",
+  "audience_problem": "Small business owners seeking quick expense summaries upload raw banking connections to third-party chatbots without reviewing data policies.",
+  "format": "problem_fix",
+  "medium": "reel",
+  "source_ids": [
+   5,
+   14
+  ],
+  "evergreen": true,
+  "keywords": [
+   "bank security",
+   "claude finance",
+   "plaid risks",
+   "financial privacy"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 8,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 9,
+   "evidence": 9,
+   "viral": 9
+  },
+  "total": 8.78
+ },
+ "piece": {
+  "hooks": [
+   "AI chatbot se business expenses analyze karwa rahe ho? Pehle ye suno.",
+   "ChatGPT ya Claude ko bank account link karne se pehle ye dekho.",
+   "Chatbot ko 2 saal ki transaction history dena kitna safe hai?",
+   "Business bank account ko AI tools se direct link mat karo.",
+   "AI chatbot aapki poori banking history padh sakta hai."
+  ],
+  "chosen_hook": 1,
+  "hook_reason": "Directly addresses business owners thinking of connecting bank features to popular chatbots like ChatGPT or Claude, raising a natural privacy question without hype.",
+  "title": "AI Chatbots and Bank Account Connections",
+  "scenes": [
+   {
+    "purpose": "Hook",
+    "narration": "ChatGPT ya Claude ko bank account link karne se pehle ye dekho.",
+    "on_screen": "AI Banking Access",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "AI & Bank Connections",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Explain shared data points",
+    "narration": "Plaid connect hone par AI bot 2 saal ki transaction history read karta hai.",
+    "on_screen": "2 Years History Shared",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Balances and credit limits",
+     "Last 4 account digits",
+     "2 years transaction logs"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Show read-only safety boundary",
+    "narration": "Access sirf read-only hota hai, matlab AI bot aapka money move nahi kar sakta.",
+    "on_screen": "Read Only Access",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "AI Can Do",
+    "right_label": "AI Cannot Do",
+    "rows": [
+     {
+      "left": "Read transactions",
+      "right": "Move money"
+     },
+     {
+      "left": "Flag unexpected fees",
+      "right": "Invest money"
+     }
+    ]
+   },
+   {
+    "purpose": "Explain training policy",
+    "narration": "Anthropic kehta hai ki Personal Finance hub ke chats AI model training mein use nahi hote.",
+    "on_screen": "No Model Training",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "Bank via Plaid",
+     "Claude Analysis",
+     "No Model Training"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Action call and DM hook",
+    "narration": "Business finances ke liye hamesha features aur privacy settings check karke decision lo. Comment BANK for privacy steps.",
+    "on_screen": "Comment BANK",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Comment BANK For Details",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "Connecting business bank accounts to AI chatbots like Claude or ChatGPT has specific data access rules you should know. When connecting through Plaid, the AI gets read-only access to account names, balances, credit limits, and up to 2 years of transactions. Anthropic states that Claude cannot move or invest your money, and Personal Finance chats are not used for model training. Before linking any business card or ledger account, review what permissions you grant. Comment BANK for details.",
+  "hashtags": [
+   "#AIPrivacy",
+   "#SmallBusinessTech",
+   "#FintechIndia",
+   "#ClaudeAI"
+  ],
+  "keywords": [
+   "AI bank account connection privacy",
+   "Claude personal finance plaid",
+   "business bank AI access rules",
+   "chatbot read only financial data",
+   "small business expense tracking AI"
+  ],
+  "claims": [
+   {
+    "claim": "Anthropic announced Personal Finance feature for Claude allowing users to connect bank and credit card accounts via Plaid.",
+    "source_id": 5
+   },
+   {
+    "claim": "Claude's bank access is read-only and cannot move, manage, or invest money.",
+    "source_id": 5
+   },
+   {
+    "claim": "Claude receives access to bank name, account type, last 4 digits, balances, credit limits, and up to 2 years of transaction history.",
+    "source_id": 5
+   },
+   {
+    "claim": "Anthropic states that conversations in the Personal Finance hub are not used to train its AI models.",
+    "source_id": 5
+   }
+  ],
+  "dm_keyword": "BANK",
+  "dm_text": "Here is what AI personal finance features access when connected via Plaid: 1. Read-only access to bank name, account type, and last 4 digits. 2. Balances and credit limits. 3. Up to 2 years of transaction history. Note: Anthropic states access is read-only (it cannot move money) and chats in Personal Finance are not used to train models."
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 9,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 8,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "Anthropic announced Personal Finance feature for Claude allowing users to connect bank and credit card accounts via Plaid.",
+    "supported": true
+   },
+   {
+    "claim": "Claude's bank access is read-only and cannot move, manage, or invest money.",
+    "supported": true
+   },
+   {
+    "claim": "Claude receives access to bank name, account type, last 4 digits, balances, credit limits, and up to 2 years of transaction history.",
+    "supported": true
+   },
+   {
+    "claim": "Anthropic states that conversations in the Personal Finance hub are not used to train its AI models.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Scene 4: The diagram flow is clear, but the subtitle text 'hub ke chats AI model training mein use' is cut off mid-sentence compared to the narration script.",
+   "Scene 5: The subtitle 'karke decision lo.' feels disconnected from the preceding narration 'Business finances ke liye hamesha features aur privacy settings check karke decision lo.'"
+  ],
+  "issues": [
+   "The subtitle timing in Scene 4 and 5 feels slightly rushed, making the text appear fragmented.",
+   "The visual hierarchy in Scene 3 is good, but ensure the 'AI CAN DO' and 'AI CANNOT DO' labels are clearly distinct in color to avoid confusion."
+  ],
+  "fix_instructions": "Adjust the subtitle timing in Scenes 4 and 5 to ensure the full, coherent thought is displayed on screen rather than breaking mid-sentence. In Scene 3, verify that the contrast between the 'AI CAN DO' and 'AI CANNOT DO' boxes is high enough for mobile readability. Otherwise, the content is solid and ready for publication."
+ },
+ "rules": [],
+ "reasons": [],
+ "meta": {
+  "duration": 33.9,
+  "voice": "edge",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-06/R2-2026-11-06/try1/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-06/R2-2026-11-06/try1/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-06/R2-2026-11-06/try1/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-06/R2-2026-11-06/try1/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-06/R2-2026-11-06/try1/scene_05.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   5.25,
+   5.94,
+   6.61,
+   6.84,
+   9.3
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-06/R2-2026-11-06/try1",
+ "attempt": 1,
+ "approved": true,
+ "hook": "ChatGPT ya Claude ko bank account link karne se pehle ye dekho.",
+ "log": [
+  "attempt 1: PASS {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 9, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} []"
+ ],
+ "material": "[5] TechCrunch AI — Claude can now analyze your spending with its new Personal Finance tool\nURL: https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/\n–:–:–:– Buy One Founder Summit Ticket, Get a Second for Free. Register now.\nFounder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts. REGISTER HERE.\nImage Credits: Anthropic AI Claude can now analyze your spending with its new Personal Finance tool Aisha Malik 10:00 AM PST · November 5, 2026 Anthropic announced Thursday that Claude is getting a new tool called “Personal Finance,” designed to help users keep track of their money. With it, users can connect their bank and credit card accounts through Plaid and ask Claude questions about their finances. Anthropic says access is read-only, meaning Personal Finance can’t move, manage, or invest users’ money.\nBy letting Claude connect directly to bank and credit card accounts, Anthropic is positioning its chatbot as a financial companion that can help people understand their spending and make sense of their money, rather than simply offering them generic advice.\nWith the launch, Claude is playing catch-up to OpenAI’s ChatGPT, which introduced similar personal finance tools in May that also let users connect their financial accounts and ask questions about everything from spending patterns to long-term financial planning.\n“Claude gives you answers in everyday language, from your balances and transactions, and explains any term that’s new to you,” Anthropic wrote in a blog post. “Like the rest of Claude, Personal Finance has no ads or sponsored recommendations, and it doesn’t offer credit cards, loans, or savings accounts of its own, so your money questions get a straight answer.”\nFor instance, at the end of the month, a user could ask Claude, “Where did my money go this month?” The chatbot will then add up spending across the connected accounts and sort it by category, such as rent and utilities, food and drink, and shopping. Users can choose to go deeper by following up with questions like, “Is that more than usual?” or “Anything else I’m missing?”\nAnthropic says the tool goes beyond basic spending summaries by analyzing transactions across connected accounts to flag potential issues, such as duplicate charges, unexpected fees, and steadily increasing bills. Users can also ask broader questions about their finances, such as whether they’re spending more than they earn. The tool can also explain financial concepts like APR (annual percentage rate), while providing calculations that show users how much they’ve paid in interest over the past year.\nOf course, some people will have reservations about connecting their financial accounts to an AI chatbot. Anthropic says Claude’s access is limited to each connected bank’s name, account name and type, the last four digits of the account number, balances, credit limits, and up to two years of transaction history.\nAdditionally, the company notes that when users chat with Claude in the Personal Finance hub, those conversations aren’t used to train its models.\nPersonal Finance starts rolling out in beta this week to users on the Pro, Max, and Ultra plans in the U.S.\nThe launch of the new tool comes as Anthropic has been expanding Claude into new verticals. For instance, Anthropic launched Claude for Legal and Claude for Financial Services earlier this year.\nWhen you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence.\nAisha is a consumer news reporter at TechCrunch. Prior to joining the publication in 2021, she was a telecom reporter at MobileSyrup. Aisha holds an honours bachelor’s degree from University of Toronto and a master’s degree in journalism from Western University.\nYou can contact or verify outreach from Aisha by emailing [email protected] or via encrypted message at aisha_malik.01 on Signal.\nNovember 4 Boston Buy One Pass, Get a Second Free Cover more ground at TechCrunch’s ultimate founder bootcamp of the year by bringing your co-founder or partner for free Book before the BOGO deal expires\nData centers are turning to old jet engines as the wait for power grows\nNew York City’s Mamdani criticizes Madison Square Garden owner over surveillance tech\nAnthropic warns that it’s very close to RSI capability, aka self-building AI\nNew York Times and other outlets sue web browser Brave over alleged content scraping\nNinja’s first-ever microwave just replaced two of my kitchen appliances at once\nAnthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says\nGoogle’s first data center satellite is online and writing poetry\n\n[14] The Verge AI — Claude AI can plug directly into your bank account\nURL: https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance\nClaude AI can plug directly into your bank account | The Verge Skip to main content The homepage The Verge The Verge logo. The homepage The Verge The Verge logo. Notifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo. Login / Sign Up\nComments Loading comments Getting the conversation ready... AI\nWith access to your bank account via Plaid, Anthropic’s chatbot will try to explain where your money is going and what you can afford.﻿\nWith access to your bank account via Plaid, Anthropic’s chatbot will try to explain where your money is going and what you can afford.﻿\nJess Weatherbed Nov 5, 2026, 6:00 PM UTC Link\nJess Weatherbed is a news writer focused on creative industries, computing, and internet culture. Jess started her career at TechRadar, covering news and hardware reviews. Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform. You can ask the chatbot “where did my money go this month,” for example, and it’ll create an overview with a breakdown of spending by category, including rent and utilities, shopping, and food. Claude can also answer broader questions around what bills are left before your next payday, if you can afford big purchases like holiday trips, and how much money you could be saving each month.\nIts access is read-only, and with Plaid facilitating the connection, Claude doesn’t see your banking passwords and your bank doesn’t have to deal with unvetted AI bots crawling around your accounts .\nClaude can’t move, manage, or invest your money, according to Anthropic, and it “isn’t designed to give investment advice.”, but it can see the bank’s name, account names, account type, the last four digits of the number associated with it, your balances and credit limits, and up to two years’ worth of your transaction history.\nIf you choose to give it access to all that, Claude can explain financial terms you don’t understand and answer questions about your balances and transactions.\nPersonal Finance in Claude is rolling out in beta this week to Claude Pro, Max, and Ultra plan subscribers in the US. Anthropic’s announcement follows OpenAI introducing a similar feature for ChatGPT in May, which also plugs into your bank accounts through Plaid. Allowing AI to have oversight into your finances might ring some alarm bells, but according to the sign-off in Anthropic’s press release, it’s just the beginning:\n“Personal Finance is a first step. For life’s bigger money decisions, we think people are best served by Claude working alongside the licensed professionals and regulated firms they trust. We’re exploring how to make that possible in Claude, and we’d like to hear from banks, wealth managers, and financial services companies who want to help shape it.”\nAnker’s new window-mounted camera monitors the outside of your home from within it\nSam Altman addresses RAM comments: People should ‘put as much as they want in their computers’\nDiscord is ditching Electron and its new app uses less RAM\nThose Jeff Bezos hair transplant photos are very fake\nThe hidden supply chain costs of the AI boom Muse has a voice mode now Jay Peters Nov 5 ‘Total repudiation’: The blue wave is about to hit AI Hayden Field Nov 5 OpenAI says its new cybersecurity model is better at not hacking other companies Emma Roth Nov 5 Grimes is going to star in an AI movie that’s coming to theaters Andrew Webster Nov 5 You can post AI music straight to SoundCloud from ElevenLabs Terrence O'Brien Nov 5 Play The hidden supply chain costs of the AI boom Nilay Patel Nov 5 Advertiser Content From This is the title for the native ad\nThe Verge The Verge logo. Sign in to see your notifications or create an account to join the conversation.",
+ "id": "R2-2026-11-06",
+ "caption_final": "Connecting business bank accounts to AI chatbots like Claude or ChatGPT has specific data access rules you should know. When connecting through Plaid, the AI gets read-only access to account names, balances, credit limits, and up to 2 years of transactions. Anthropic states that Claude cannot move or invest your money, and Personal Finance chats are not used for model training. Before linking any business card or ledger account, review what permissions you grant. Comment BANK for details.\n\n#AIPrivacy #SmallBusinessTech #FintechIndia #ClaudeAI"
+}

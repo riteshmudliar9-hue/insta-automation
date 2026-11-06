@@ -428,5 +428,37 @@
   "status": "published",
   "media_id": "18138422668729549",
   "permalink": "https://www.instagram.com/p/DfWFzI8EaeG/"
+ },
+ {
+  "id": "R2-2026-11-06",
+  "date": "2026-11-06",
+  "kind": "reel",
+  "format": "problem_fix",
+  "topic": "The privacy risks of linking business bank accounts directly to personal finance AI chat tools",
+  "hook": "ChatGPT ya Claude ko bank account link karne se pehle ye dekho.",
+  "keywords": [
+   "AI bank account connection privacy",
+   "Claude personal finance plaid",
+   "business bank AI access rules",
+   "chatbot read only financial data",
+   "small business expense tracking AI"
+  ],
+  "status": "queued"
+ },
+ {
+  "id": "C1-2026-11-06",
+  "date": "2026-11-06",
+  "kind": "carousel",
+  "format": "checklist",
+  "topic": "Why AI projects fail in small businesses due to fragmented data scattered across notebooks and WhatsApp",
+  "hook": "Fix your messy data before starting an AI project",
+  "keywords": [
+   "business data management",
+   "AI implementation tips",
+   "consolidate business records",
+   "AI for small business",
+   "data fragmentation"
+  ],
+  "status": "queued"
  }
 ]

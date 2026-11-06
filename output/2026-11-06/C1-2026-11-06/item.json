@@ -1,0 +1,229 @@
+{
+ "kind": "carousel",
+ "idea": {
+  "idea": "Why AI projects fail in small businesses due to fragmented data scattered across notebooks and WhatsApp",
+  "angle": "Before buying expensive AI software, consolidate your paper register, Excel sheets, and WhatsApp chats into one clean database.",
+  "audience_problem": "Shop owners buy AI tools expecting instant answers, but the AI gives wrong answers because business records are split across multiple places.",
+  "format": "checklist",
+  "medium": "carousel",
+  "source_ids": [
+   81
+  ],
+  "evergreen": true,
+  "keywords": [
+   "data readiness",
+   "ai implementation",
+   "business registers",
+   "data cleaning"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 7,
+   "hook_potential": 8,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 9,
+   "evidence": 9,
+   "viral": 8
+  },
+  "total": 8.35
+ },
+ "piece": {
+  "hooks": [
+   "Why your business AI fails to give correct answers",
+   "Stop buying AI software until your data is clean",
+   "Fix your messy data before starting an AI project"
+  ],
+  "chosen_hook": 2,
+  "hook_reason": "It acts as a strong, practical warning that addresses the core problem of fragmented business records directly, rather than just blaming the AI technology itself.",
+  "slides": [
+   {
+    "kind": "cover",
+    "title": "Stop buying AI software until your data is clean",
+    "subtitle": "Fragmented business records across WhatsApp, Excel, and registers will break your AI tools.",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "mythfact",
+    "title": "The AI Reality",
+    "subtitle": "Why most AI projects crash",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "Buying expensive AI software will instantly fix your business operations.",
+    "fact": "Industry estimates show 70–80% of AI development projects never reach production because the underlying data is fragmented and messy.",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "compare",
+    "title": "The Data Trap",
+    "subtitle": "Connectivity vs. Consolidation",
+    "body": "",
+    "items": [],
+    "left_label": "Adding Connectors",
+    "right_label": "Consolidating Data",
+    "rows": [
+     {
+      "left": "Adds complexity",
+      "right": "Direct access"
+     },
+     {
+      "left": "More latency",
+      "right": "Faster response"
+     },
+     {
+      "left": "Higher risk",
+      "right": "Better governance"
+     }
+    ],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "checklist",
+    "title": "Data Consolidation Checklist",
+    "subtitle": "Do this before buying AI",
+    "body": "",
+    "items": [
+     "Audit all your customer order sources",
+     "Merge WhatsApp chats with your master ledger",
+     "Centralize all paper stock registers",
+     "Pick one critical use case to start",
+     "Clean up duplicated entries in Excel"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "quote",
+    "title": "The Real Asset",
+    "subtitle": "An important reminder for founders",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "The models are rentable. Today’s best model is yesterday's newspaper. The true asset for the enterprise is the data.",
+    "attribution": "Michael Cronin, Couchbase"
+   },
+   {
+    "kind": "summary",
+    "title": "Final Takeaways",
+    "subtitle": "Getting AI ready",
+    "body": "",
+    "items": [
+     "AI speed requires high-quality, unified data",
+     "Start small with one critical problem",
+     "Don't just add more software layers",
+     "Your business data is the real value"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   }
+  ],
+  "caption": "Most business owners blame their AI for wrong answers, but the real culprit is data fragmentation. If your customer list is in WhatsApp, your stock is in a register, and your invoices are in Excel, the AI cannot see the full picture. Adding more connectors between these systems only creates more points of failure. Start by consolidating your data layer into one source of truth before spending money on automation tools. Pick your most critical, painful process first, clean the data behind it, and test your AI there. Which manual process is currently causing the most data errors in your shop? Let us know below.",
+  "hashtags": [
+   "#SmallBusinessIndia",
+   "#BusinessAutomation",
+   "#DataManagement",
+   "#AIForBusiness"
+  ],
+  "keywords": [
+   "business data management",
+   "AI implementation tips",
+   "consolidate business records",
+   "AI for small business",
+   "data fragmentation"
+  ],
+  "claims": [
+   {
+    "claim": "70–80% of AI development projects never reach production.",
+    "source_id": 81
+   },
+   {
+    "claim": "95% of AI projects fail to become profitable according to an MIT study.",
+    "source_id": 81
+   },
+   {
+    "claim": "Machine-generated traffic has overtaken human traffic on the internet.",
+    "source_id": 81
+   }
+  ]
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 9,
+   "accuracy": 8,
+   "narrative": 9,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 10,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "70–80% of AI development projects never reach production.",
+    "supported": true
+   },
+   {
+    "claim": "95% of AI projects fail to become profitable according to an MIT study.",
+    "supported": true
+   },
+   {
+    "claim": "Machine-generated traffic has overtaken human traffic on the internet.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [],
+  "issues": [
+   "The claim about machine traffic overtaking human traffic is present in the source material but is not utilized in the carousel content, making the source material under-leveraged.",
+   "The carousel is very strong but could benefit from a more direct call to action on the final slide to drive engagement."
+  ],
+  "fix_instructions": "The content is excellent and ready for publication. To elevate it further, consider adding a small 'Save this for later' or 'Follow for more' prompt on the final slide to increase conversion. No other changes are required."
+ },
+ "rules": [],
+ "reasons": [],
+ "meta": {
+  "ai_visuals": false,
+  "slides": 6
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-06/C1-2026-11-06/try1",
+ "attempt": 1,
+ "approved": true,
+ "hook": "Fix your messy data before starting an AI project",
+ "log": [
+  "attempt 1: PASS {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 9, 'accuracy': 8, 'narrative': 9, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 10, 'publish_readiness': 8} []"
+ ],
+ "material": "[81] YourStory — Why AI’s biggest challenge lies beneath the model\nURL: https://yourstory.com/2026/11/why-ai-biggest-challenge-lies-beneath-model\nSidebar is Loading... ADVERTISEMENT Why AI’s biggest challenge lies beneath the model | YourStory AI models are becoming increasingly accessible, but turning them into products that work reliably remains a challenge, particularly when enterprises are dealing with fragmented data infrastructure.\nAt TechSparks 2026, Michael Cronin, Vice President, Sales, Asia-Pacific, Japan & India, Couchbase, joined Shivani Muthanna, Senior Director – Strategic Content & Video, YourStory, for a discussion on moving AI beyond experimentation, production failures, governance challenges, customer experience, and India's growing role in AI innovation.\nOver the decades, large enterprises have adopted different databases and point solutions to address specific problems. While each solved an immediate need, the result has often been a fragmented data layer, with multiple systems that struggle to work together.\nCronin sees this fragmentation as a major barrier to AI adoption. Citing industry estimates, he said 70–80% of AI development projects never reach production, while an MIT study found that 95% fail to become profitable.\nCouchbase’s operational data platform is designed to address this challenge by helping enterprises consolidate their data infrastructure.\nRather than trying to fix everything at once, Cronin advised companies to start small.\n“My advice to founders and enterprises that are struggling with the fragmentation of the data layer is to pick your most critical use cases first,” he said.\nCronin cited the example of Tesco, the UK retailer with a large global Capability Center (GCC) in Bengaluru. Its multiple systems were affecting customer experience, particularly during busy shopping periods such as Black Friday and weekends.\nTesco began consolidating its data layer, starting with a single instance and use case before extending the effort across its technology stack.\nThe consolidation enabled the retailer to handle millions of transactions per second with sub-millisecond latency. According to Cronin, the example shows how companies can begin addressing fragmentation through a single use case before expanding the changes across their operations.\nAI moves at machine speed. Can data keep up?\nThe pressure to develop AI products has led many enterprises to prioritize models and applications. However, pilots often run on small datasets in controlled environments, leaving organizations unprepared for the demands of production.\nCronin pointed to the growing scale of machine-generated traffic.\n“Eighteen months ahead of schedule, machine traffic has overtaken human traffic on the internet. That’s the AI scale. That’s the machine speed scale that enterprises need to operate on,” he said.\nWhen AI applications encounter real-world workloads, fragmented data systems can prevent them from operating reliably at scale.\nThe growing use of AI agents adds to the challenge. As agents become more autonomous and take on decision-making responsibilities, enterprises need to ensure they can access the right data while working within appropriate governance frameworks.\nFragmented systems can make communication and governance more difficult, limiting the ability of agents to operate autonomously.\nCronin also urged enterprises to reconsider how they allocate their AI investments. While models are evolving rapidly, enterprise data remains a critical asset.\n“The models are rentable. Today’s best model is yesterday's newspaper. The true asset for the enterprise is the data,” he said.\nAs enterprises began recognizing that fragmented data was holding back their AI initiatives, many responded by adding APIs and connectors to link existing systems.\nCronin cautioned that this approach could introduce further complexity rather than solve the underlying problem. Each additional connection brings latency, risk, and another potential point of failure.\nInstead, he recommended consolidating the data layer so applications and AI agents can communicate with it more directly, bringing data closer to customers.\nAccording to Cronin, many enterprises, including large GCCs in India, are now reassessing their architecture to address data fragmentation. Without these changes, further investment in AI development could lead to the same problems.\nConsolidating data can also improve customer experience by helping systems manage growing demand, remain available and respond quickly.\nAs customers expect more from AI-powered services, having data available at the edge is becoming increasingly important.\nIndia: From back office to innovation leader\nCronin observed that business cultures vary across the Asia-Pacific region, but fragmented data infrastructure remains a common challenge for AI adoption.\nAt the same time, India is becoming an important centre for AI innovation and decision-making.\nHe noted that 80% of Couchbase's top 50 global accounts have a significant presence in India, with much of their AI innovation and leadership based in the country.\nCouchbase is also expanding its presence in India, with its Asia-Pacific headquarters moving to Bengaluru. Its Indian enterprise customers include Air India, Airtel, BigBasket, and Mahindra Finance.\nAccording to Cronin, India’s role in global business has moved beyond cost savings, with innovation, leadership, and important business decisions increasingly taking place here.\nHe cited Air India's next-generation entertainment platform, which is being built on Couchbase. The platform aims to provide passengers with personalized shopping and entertainment experiences even when an aircraft is offline.\nFor Cronin, the project shows how Indian enterprises are using technology to improve customer experiences under real-world operating conditions.\nADVERTISEMENT Advertise with us ADVERTISEMENT Advertise with us ADVERTISEMENT Advertise with us ADVERTISEMENT Advertise with us AI models are becoming increasingly accessible, but turning them into products that work reliably remains a challenge, particularly when enterprises are dealing with fragmented data infrastructure.\nAt TechSparks 2026, Michael Cronin, Vice President, Sales, Asia-Pacific, Japan & India, Couchbase, joined Shivani Muthanna, Senior Director – Strategic Content & Video, YourStory, for a discussion on moving AI beyond experimentation, production failures, governance challenges, customer experience, and India's growing role in AI innovation.\nOver the decades, large enterprises have adopted different databases and point solutions to address specific problems. While each solved an immediate need, the result has often been a fragmented data layer, with multiple systems that struggle to work together.\nCronin sees this fragmentation as a major barrier to AI adoption. Citing industry estimates, he said 70–80% of AI development projects never reach production, while an MIT study found that 95% fail to become profitable.\nCouchbase’s operational data platform is designed to address this challenge by helping enterprises consolidate their data inf",
+ "id": "C1-2026-11-06",
+ "caption_final": "Most business owners blame their AI for wrong answers, but the real culprit is data fragmentation. If your customer list is in WhatsApp, your stock is in a register, and your invoices are in Excel, the AI cannot see the full picture. Adding more connectors between these systems only creates more points of failure. Start by consolidating your data layer into one source of truth before spending money on automation tools. Pick your most critical, painful process first, clean the data behind it, and test your AI there. Which manual process is currently causing the most data errors in your shop? Let us know below.\n\n#SmallBusinessIndia #BusinessAutomation #DataManagement #AIForBusiness"
+}

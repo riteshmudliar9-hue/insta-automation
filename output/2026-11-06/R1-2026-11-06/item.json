@@ -1,0 +1,238 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Setting strict trust and execution guardrails before letting AI agents handle merchant transactions",
+  "angle": "Never give AI autonomous execution rights on payment triggers without spending caps and double-check verification steps.",
+  "audience_problem": "Merchants want to automate supplier payments and order collection but fear runaway AI scripts causing financial loss.",
+  "format": "checklist",
+  "medium": "both",
+  "source_ids": [
+   83
+  ],
+  "evergreen": true,
+  "keywords": [
+   "pine labs",
+   "payment guardrails",
+   "agent security",
+   "merchant safety"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 8,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 9,
+   "evidence": 9,
+   "viral": 9
+  },
+  "total": 8.78
+ },
+ "piece": {
+  "hooks": [
+   "AI agent ko payment ka control dene se pehle ye dekho.",
+   "90% business owners AI agents ke saath ye badi galti karte hain.",
+   "AI agent ko bank access dena hai? Pehle ye 3 rule set karo.",
+   "Stop letting AI agents make payments without these safety guardrails.",
+   "AI se payment karwana hai? Ye checklist check karo."
+  ],
+  "chosen_hook": 2,
+  "hook_reason": "It addresses a high-stakes fear (bank/money access) directly and specifies a practical solution, which is highly relevant to small business owners who are cautious about automation.",
+  "title": "Setting AI Agent Guardrails for Merchant Payments",
+  "scenes": [
+   {
+    "purpose": "Hook the audience with the risk of AI agents.",
+    "narration": "AI agent ko bank access dena hai? Pehle ye 3 rule set karo.",
+    "on_screen": "AI Payment Guardrails",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Risk of Unchecked AI",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Explain the danger of unlimited access.",
+    "narration": "AI ko bina limit diye payment ka access dena khatarnak ho sakta hai.",
+    "on_screen": "Financial Risk",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Limit AI Permissions",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Compare manual vs automated safety.",
+    "narration": "Manual kaam mein human control hota hai, par AI mein guardrails chahiye.",
+    "on_screen": "Manual vs AI Control",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "Safety Comparison",
+    "steps": [],
+    "items": [],
+    "left_label": "Manual Process",
+    "right_label": "AI Automation",
+    "rows": [
+     {
+      "left": "Human approval",
+      "right": "Defined permissions"
+     },
+     {
+      "left": "Manual checks",
+      "right": "Audit trails"
+     },
+     {
+      "left": "Direct oversight",
+      "right": "Expiry settings"
+     }
+    ]
+   },
+   {
+    "purpose": "Provide specific guardrail checks.",
+    "narration": "Agent ko permission expire karna aur human approval zaroori hai.",
+    "on_screen": "Must-Have Guardrails",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "Setup Checklist",
+    "steps": [],
+    "items": [
+     "Set expiry date",
+     "Define permissions",
+     "Human approval required",
+     "Maintain audit trail"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Call to action.",
+    "narration": "Comment TRUST, main aapko guardrails ki puri list DM kar dunga.",
+    "on_screen": "Comment TRUST",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Get the Checklist",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "AI agents ko payment access dene se pehle sahi safety guardrails set karna zaroori hai. As a business owner, you should never give AI full execution rights without defined expiry, strict permission sets, and human oversight. Pine Labs jaisi companies 'Grantex' jaisa system use karti hain jo agents ko specific permissions aur audit trails ke saath control karta hai. Hamesha ensure karein ki agent ka har action record ho aur kisi bhi suspicious movement par permissions revoke ki ja sakein. Automation tabhi safe hai jab human control maintain rahe. Comment TRUST for the full agent safety checklist.",
+  "hashtags": [
+   "#BusinessAutomation",
+   "#AIGuardrails",
+   "#SmallBusinessIndia",
+   "#FintechSafety"
+  ],
+  "keywords": [
+   "AI agent security",
+   "business automation",
+   "payment guardrails",
+   "Pine Labs",
+   "agent trust"
+  ],
+  "claims": [
+   {
+    "claim": "Pine Labs developed Grantex to assign each AI agent defined permissions, an expiry, and a record of the human who authorized it.",
+    "source_id": 83
+   },
+   {
+    "claim": "Grantex allows for permissions to be revoked and tracks actions via a tamper-proof hash-chain audit trail.",
+    "source_id": 83
+   },
+   {
+    "claim": "Human intervention is necessary for sensitive tasks like payment or form submission.",
+    "source_id": 83
+   }
+  ],
+  "dm_keyword": "TRUST",
+  "dm_text": "AI agent ko secure karne ke liye ye steps follow karein: 1. Har agent ko ek defined set of permissions dein. 2. Har permission ki expiry set karein. 3. Audit trail maintain karein taaki har action record ho. 4. Critical actions ke liye human approval mandatory rakhein. Pine Labs ki technology Grantex isi tarah kaam karti hai, jahan permissions revoke ki ja sakti hain agar agent unauthorized kaam kare. Source: https://yourstory.com/2026/11/how-pine-labs-is-building-for-the-agent-economy-cto-sanjeev-kumar-on-trust-control-and-execution"
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 9,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 8,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "Pine Labs developed Grantex to assign each AI agent defined permissions, an expiry, and a record of the human who authorized it.",
+    "supported": true
+   },
+   {
+    "claim": "Grantex allows for permissions to be revoked and tracks actions via a tamper-proof hash-chain audit trail.",
+    "supported": true
+   },
+   {
+    "claim": "Human intervention is necessary for sensitive tasks like payment or form submission.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Scene 3: The comparison table is slightly cramped; ensure the text alignment is perfectly centered within the boxes for better readability on mobile.",
+   "Scene 4: The checklist items are very close to the bottom edge of the white container; consider adding more padding."
+  ],
+  "issues": [
+   "The transition between scene 3 and 4 is a bit abrupt; ensure the visual style remains consistent (the font weight and box styling look slightly different in the provided frames).",
+   "The caption is a bit dense; consider breaking it into shorter paragraphs for better readability."
+  ],
+  "fix_instructions": "1. Standardize the padding and font sizing across all slides to ensure a cohesive look. 2. Increase the bottom margin in Scene 4 so the last checklist item isn't crowded. 3. In the caption, add line breaks between the main points to make it easier to scan for busy business owners. 4. Ensure the 'Manual vs AI' table in Scene 3 uses consistent alignment for all text elements."
+ },
+ "rules": [],
+ "reasons": [
+  "reel is 71.5 s long (max 45 s; aim for 15-35 s)"
+ ],
+ "meta": {
+  "duration": 71.5,
+  "voice": "gemini",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-06/R1-2026-11-06/try2/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-06/R1-2026-11-06/try2/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-06/R1-2026-11-06/try2/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-06/R1-2026-11-06/try2/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-06/R1-2026-11-06/try2/scene_05.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   14.27,
+   14.5,
+   13.89,
+   14.75,
+   14.07
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-06/R1-2026-11-06/try2",
+ "attempt": 2,
+ "approved": false,
+ "hook": "AI agent ko bank access dena hai? Pehle ye 3 rule set karo.",
+ "log": [
+  "attempt 1: fail {'hook': 7, 'originality': 7, 'practical_value': 6, 'natural_language': 8, 'accuracy': 10, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['scene 4: compare needs rows', 'hook 7/10 (<8)', 'originality 7/10 (<8)', 'practical_value 6/10 (<8)']",
+  "attempt 2: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 9, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 8, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} ['reel is 71.5 s long (max 45 s; aim for 15-35 s)']",
+  "attempt 3: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 9, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['reel is 54.7 s long (max 45 s; aim for 15-35 s)']",
+  "attempt 4: fail {'hook': 7, 'originality': 6, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 6, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 6} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 7/10 (<8)', 'visual_integrity 6/10 (<8)']"
+ ],
+ "material": "[83] YourStory — How Pine Labs is building for the agent economy: CTO Sanjeev Kumar on trust, control and execution\nURL: https://yourstory.com/2026/11/how-pine-labs-is-building-for-the-agent-economy-cto-sanjeev-kumar-on-trust-control-and-execution\nSidebar is Loading... ADVERTISEMENT How Pine Labs is building for the agent economy: CTO Sanjeev Kumar on trust, control and execution | YourStory AI agents are starting to run real parts of a business, from finding customers to processing complaints. For banks, fintech companies, and enterprises, that raises a basic question: how far can an agent be trusted to act on its own?\nPine Labs is addressing this question by building an ecosystem that enables AI agents to take on tasks across commerce while keeping their actions accountable. Speaking at its product showcase at TechSparks 2026, Sanjeev Kumar, CTO, Pine Labs, said, “We have tried to make AI a first-class citizen in our ecosystem.”\nOver the past 18 months, Pine Labs has been building a commerce operating system around AI agents, combining tools to manage their permissions and track their actions with applications for merchants and enterprise teams. Its Agent Store will open the ecosystem to third-party developers building for merchants and banks.\nFor agents to operate in banking and enterprise environments, organizations need to know what they are authorized to do and how their actions can be audited. Pine Labs has developed Grantex, which Kumar described as ‘Open Authorization 2.0 for AI agents’ . It assigns each agent a defined set of permissions, an expiry, and a record of the human who authorized it. If an agent authorized to read and draft emails attempts to send one, the action can be blocked and its permissions revoked, including those of any child agents. A tamper-proof, hash-chain audit trail records its actions.\nKumar outlined the work involved in connecting tools and systems, setting up retrieval-augmented generation (RAG), running continuous evaluations, and deciding where human intervention is necessary. These components need to work together before an agent can reliably handle tasks in an enterprise environment.\nPine Labs first deployed the technology across its compliance, finance, HR, and marketing teams, with processing taking place within its own environment. The company is also implementing it with banks in India and overseas.\nFrom cyber fraud complaints to faster resolution\nCora, Pine Labs’ compliance and resolution agent, takes cyber fraud complaints from intake to closure. It matches complaints to transactions, categorizes them, routes them to relevant teams, and prepares responses for review. Kumar said Pine Labs has been able to close some complaints on the same day, compared with the typical three-to-five-day turnaround.\nThe agent records a 15-step trace of its work, including validation, transaction lookups, settlement checks, and team notifications, along with supporting evidence and confidence levels. When a system connector is unavailable, Cora can use robotic process automation (RPA). In the demonstration, it accessed the government cyber police portal and filled in an action-taken form with transaction details and the disputed amount. A human operator retains control of the password and one-time code and reviews the form before submission.\nHaving deployed agents across its own compliance, finance, HR and marketing teams, Pine Labs has since opened its platform to developers and merchant partners. The company is also working with banks in India and overseas.\nTo show how the technology could be applied beyond its own operations, Kumar pointed to a hackathon organized by Pine Labs and The Ken , which drew more than 380 agent submissions from students, fresh graduates, and engineers across India. The winning entry helped people decide what to cook for dinner.\nDevelopers can create skill files, connect tools, and define tasks in plain English, while AgenticOrg provides visibility into agents, confidence scores, and audit trails via Grantex. The AgenticOrg is intended to help third-party developers build applications for merchants and banks using Pine Labs’ infrastructure.\nFor smaller businesses, Pine Labs has also developed an ads agent accessible through its merchant interface. Merchants connect their Google Ads account, enter details about their business, and provide a brief, budget, and campaign goal. The agent researches local demand and nearby competitors, then generates ad copy for search, display, and YouTube.\nMerchants can request changes and approve the campaign before it goes live. The demonstration showed setup taking about two minutes, with campaign performance and lead routing available through the same interface.\nFrom internal enterprise workflows and cyber fraud resolution to advertising for small businesses, Pine Labs is applying its agent infrastructure to different parts of commerce. Grantex sets guardrails for what agents can do; AgenticOrg helps teams, individuals, and AI enthusiasts build agents, manage work, and execute tasks, and AgenticOrg is intended to let developers build further applications for merchants and banks.\nPine Labs is betting that the future of commerce will be shaped not just by what AI agents can do, but by how reliably they can do it. By combining the infrastructure to govern agents with applications that solve real business problems, the company is looking to make autonomous AI a working part of commerce, for enterprises, banks, and merchants alike.\nADVERTISEMENT Advertise with us ADVERTISEMENT Advertise with us ADVERTISEMENT Advertise with us ADVERTISEMENT Advertise with us AI agents are starting to run real parts of a business, from finding customers to processing complaints. For banks, fintech companies, and enterprises, that raises a basic question: how far can an agent be trusted to act on its own?\nPine Labs is addressing this question by building an ecosystem that enables AI agents to take on tasks across commerce while keeping their actions accountable. Speaking at its product showcase at TechSparks 2026, Sanjeev Kumar, CTO, Pine Labs, said, “We have tried to make AI a first-class citizen in our ecosystem.”\nOver the past 18 months, Pine Labs has been building a commerce operating system around AI agents, combining tools to manage their permissions and track their actions with applications for merchants and enterprise teams. Its Agent Store will open the ecosystem to third-party developers building for merchants and banks.\nFor agents to operate in banking and enterprise environments, organizations need to know what they are authorized to do and how their actions can be audited. Pine Labs has developed Grantex, which Kumar described as ‘Open Authorization 2.0 for AI agents’ . It assigns each agent a defined set of permissions, an expiry, and a record of the human who authorized it. If an agent authorized to read and draft emails attempts to send one, the action can be blocked and its permissions revoked, including those of any child agents. A tamper-proof, hash-chain audit trail records its actions.\nKumar outlined the work involved in connecting tools and systems, setting up retrieval-augmented generation (RAG), running continuous evaluati",
+ "id": "R1-2026-11-06",
+ "caption_final": "AI agents ko payment access dene se pehle sahi safety guardrails set karna zaroori hai. As a business owner, you should never give AI full execution rights without defined expiry, strict permission sets, and human oversight. Pine Labs jaisi companies 'Grantex' jaisa system use karti hain jo agents ko specific permissions aur audit trails ke saath control karta hai. Hamesha ensure karein ki agent ka har action record ho aur kisi bhi suspicious movement par permissions revoke ki ja sakein. Automation tabhi safe hai jab human control maintain rahe. Comment TRUST for the full agent safety checklist.\n\n#BusinessAutomation #AIGuardrails #SmallBusinessIndia #FintechSafety"
+}

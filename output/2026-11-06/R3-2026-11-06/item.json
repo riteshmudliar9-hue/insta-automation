@@ -1,0 +1,277 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Using OpenAI Images 2.6 to generate animated product GIFs directly for WhatsApp Business catalogs",
+  "angle": "Create high-converting 3-second product motion GIFs for your WhatsApp shop without hiring a graphic designer.",
+  "audience_problem": "Retailers lose customer engagement on WhatsApp catalogs due to flat static product photos that do not capture attention.",
+  "format": "demo",
+  "medium": "reel",
+  "source_ids": [
+   47
+  ],
+  "evergreen": true,
+  "keywords": [
+   "images 2.6",
+   "product gif",
+   "whatsapp business",
+   "catalog design"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 8,
+   "hook_potential": 8,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 9,
+   "evidence": 9,
+   "viral": 9
+  },
+  "total": 8.63
+ },
+ "piece": {
+  "hooks": [
+   "WhatsApp catalog ke static photo customer ignore karte hain. Ye dekho.",
+   "Static product photo se sales nahi aa rahi? Iski jagah ye karo.",
+   "Shop owners product photo ke liye graphic designer hire karna band karo.",
+   "WhatsApp catalog ke liye 3 second animated GIF aise banao.",
+   "WhatsApp orders badhane ke liye static photo lagana band karo."
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "Directly identifies the everyday problem shop owners face on WhatsApp Business (ignored still images) and promises an immediate visual demonstration.",
+  "title": "Create Product GIFs for WhatsApp with OpenAI Images 2.6",
+  "scenes": [
+   {
+    "purpose": "Hook",
+    "narration": "WhatsApp catalog ke static photo customer ignore karte hain. Ye dekho.",
+    "on_screen": "Static Photos Get Ignored",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Zero Clicks on Flat Images",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Introduce tool and workflow",
+    "narration": "OpenAI ne Images 2.6 launch kiya hai jo 50% faster images banata hai.",
+    "on_screen": "OpenAI Images 2.6 Workflow",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "Product Prompt",
+     "Sprite Sheet Grid",
+     "Looping GIF Export"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Show generation step",
+    "narration": "ChatGPT mein 6-frame animation sprite sheet generate karo apne product ki.",
+    "on_screen": "6 Frame Grid Prompt",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "6 sequential frames",
+     "3 by 2 column grid",
+     "Identical panel size",
+     "Clean loop transition"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Speed comparison",
+    "narration": "Flare model low quality par sirf 6 seconds mein frames ready kar deta hai.",
+    "on_screen": "Ready in 6 Seconds",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "Flare Model",
+    "right_label": "Sunburst Model",
+    "rows": [
+     {
+      "left": "6 second draft speed",
+      "right": "High detail precision"
+     },
+     {
+      "left": "Quick layout tests",
+      "right": "Consistent edit rounds"
+     }
+    ]
+   },
+   {
+    "purpose": "Honest limitation",
+    "narration": "Dhyan rahe, complex product details ke liye low complexity se blur aa sakta hai.",
+    "on_screen": "Complexity Setting Rule",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Low complexity quick drafts",
+     "Medium setting for sharp detail",
+     "High complexity for fine text"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Payoff and comment hook",
+    "narration": "Is sprite sheet ko GIF mein convert karke WhatsApp par dalo. Comment GIF, main prompt guide DM kar dunga.",
+    "on_screen": "Comment GIF for Prompts",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Prompt Guide Sent to DM",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "How to create animated product GIFs for WhatsApp Business catalogs using OpenAI Images 2.6. Flat product photos often get scrolled past without clicks. OpenAI Images 2.6 in ChatGPT now lets you generate 6-frame animation sprite sheets directly. The Flare model can produce layouts in as little as 6 seconds on low quality, while Sunburst keeps product details consistent across edits. For items with clear packaging or logos, set complexity to medium or high so lines stay crisp. Which product in your catalog gets the lowest response right now? Comment GIF for the exact prompt structure.",
+  "hashtags": [
+   "#WhatsAppBusiness",
+   "#OpenAIImages",
+   "#EcommerceTips",
+   "#RetailAutomation"
+  ],
+  "keywords": [
+   "WhatsApp catalog GIF",
+   "OpenAI Images 2.6",
+   "product photo animation",
+   "ChatGPT product images",
+   "small business catalog"
+  ],
+  "claims": [
+   {
+    "claim": "Images 2.6 is available globally in ChatGPT and Codex across all subscription tiers.",
+    "source_id": 47
+   },
+   {
+    "claim": "Images 2.6 generates images 50% faster than before.",
+    "source_id": 47
+   },
+   {
+    "claim": "When quality is set to low, GPT-Image-2.6 Flare can generate images in as little as six seconds.",
+    "source_id": 47
+   },
+   {
+    "claim": "GPT-Image-2.6 Sunburst brings higher-quality generation and consistency across edits when set to medium or high.",
+    "source_id": 47
+   },
+   {
+    "claim": "Images 2.6 supports creating animated sprite sheets and GIFs for products and characters.",
+    "source_id": 47
+   }
+  ],
+  "dm_keyword": "GIF",
+  "dm_text": "Here is the step-by-step setup to create product motion GIFs using OpenAI Images 2.6:\n\n1. Open ChatGPT (Images 2.6 is available across all subscription tiers).\n2. Sprite sheet prompt: Ask for a single animation sprite sheet for a looping GIF with exactly 6 sequential frames arranged in a 3-column by 2-row grid. Specify identical dimensions, fixed camera angle, and clean loop transition.\n3. Model selection: Use Flare for 6-second iterations, or Sunburst on medium to high quality if your product requires fine packaging detail.\n4. Avoid blur: For complex product packaging or text, avoid low complexity settings and select medium or high complexity effort.\n5. Conversion: Upload your 6-frame image into any basic sprite sheet to GIF splitter tool to get your looping catalog visual."
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 8,
+   "practical_value": 9,
+   "natural_language": 9,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 7,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 7
+  },
+  "claims": [
+   {
+    "claim": "Images 2.6 is available globally in ChatGPT and Codex across all subscription tiers.",
+    "supported": true
+   },
+   {
+    "claim": "Images 2.6 generates images 50% faster than before.",
+    "supported": true
+   },
+   {
+    "claim": "When quality is set to low, GPT-Image-2.6 Flare can generate images in as little as six seconds.",
+    "supported": true
+   },
+   {
+    "claim": "GPT-Image-2.6 Sunburst brings higher-quality generation and consistency across edits when set to medium or high.",
+    "supported": true
+   },
+   {
+    "claim": "Images 2.6 supports creating animated sprite sheets and GIFs for products and characters.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Scene 4: The table layout is slightly cramped; ensure the text in the rows doesn't feel too small on mobile screens.",
+   "Scene 5: The checklist items are slightly repetitive with the narration; consider simplifying the on-screen text to avoid redundancy."
+  ],
+  "issues": [
+   "The transition from 'sprite sheet' to 'GIF' is a technical leap for a non-technical SMB owner; the reel assumes they know how to split a grid into a GIF.",
+   "The DM automation is a good hook, but ensure the DM content explicitly mentions a free tool to split the sprite sheet, otherwise, the user will be stuck."
+  ],
+  "fix_instructions": "1. In Scene 6, add a small text overlay or mention in the caption that they need a 'sprite-to-GIF' tool (like EZGIF) to finish the process, otherwise, the advice is incomplete. 2. In Scene 4, ensure the font size for the table rows is large enough to be legible on a phone screen. 3. Keep the current Hinglish flow as it is very natural for the target audience."
+ },
+ "rules": [
+  "scene 6 narration 19 words (want 4-14)"
+ ],
+ "reasons": [
+  "scene 6 narration 19 words (want 4-14)",
+  "visual_integrity 7/10 (<8)"
+ ],
+ "meta": {
+  "duration": 34.4,
+  "voice": "edge",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-06/R3-2026-11-06/try3/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-06/R3-2026-11-06/try3/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-06/R3-2026-11-06/try3/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-06/R3-2026-11-06/try3/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-06/R3-2026-11-06/try3/scene_05.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-06/R3-2026-11-06/try3/scene_06.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   5.23,
+   5.85,
+   5.13,
+   5.06,
+   5.4,
+   7.69
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-06/R3-2026-11-06/try3",
+ "attempt": 3,
+ "approved": false,
+ "hook": "WhatsApp catalog ke static photo customer ignore karte hain. Ye dekho.",
+ "log": [
+  "attempt 1: fail {'hook': 6, 'originality': 6, 'practical_value': 5, 'natural_language': 6, 'accuracy': 5, 'narrative': 6, 'visual_integrity': 4, 'pacing': 6, 'brand_consistency': 7, 'publish_readiness': 4} ['hook 6/10 (<8)', 'originality 6/10 (<8)', 'practical_value 5/10 (<8)', 'natural_language 6/10 (<8)']",
+  "attempt 2: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 9, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} [\"banned phrase used: 'seamless'\", 'originality 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+  "attempt 3: fail {'hook': 8, 'originality': 8, 'practical_value': 9, 'natural_language': 9, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['scene 6 narration 19 words (want 4-14)', 'visual_integrity 7/10 (<8)']",
+  "attempt 4: fail {'hook': 7, 'originality': 6, 'practical_value': 6, 'natural_language': 8, 'accuracy': 7, 'narrative': 6, 'visual_integrity': 4, 'pacing': 6, 'brand_consistency': 7, 'publish_readiness': 5} [\"banned phrase used: 'seamless'\", 'hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 6/10 (<8)']"
+ ],
+ "material": "[47] OpenAI News — Introducing Images 2.6\nURL: https://openai.com/index/introducing-images-2-6\nIntroducing Images 2.6 | OpenAI OpenAI November 4, 2026\nGenerate images faster and with more control over editing rounds.\nShare We’re introducing Images 2.6 in ChatGPT, Codex, and the API, bringing your ideas to life faster. With this, you can bring motion to your images with GIFs — from animating a brand mascot or character to turning a product shot into an eye-catching loop. You can also create polished visuals faster and refine them with greater precision — keeping characters, products, and brand details consistent as you edit.\nPeople around the world now create 4 billion images per week across ChatGPT, Codex, and the API. On average, that’s more than half a billion images created per day.\nFaster iteration and more professional visuals\nImages 2.6 generates images 50% faster than before. In the API, we offer GPT‑Image‑2.6 Flare and Sunburst for developers to choose from. When quality is set to low, Flare can generate images in as little as six seconds. For work that calls for greater detail and precision, GPT‑Image‑2.6 Sunburst brings higher-quality image generation and even greater image consistency across edits when quality is set to medium or high. Flare also improves layout quality for posters, product imagery, and other professional visuals.\nFor moments that call for motion, GIFs bring another dimension to your ideas. Marketers and creators can animate a brand mascot for a campaign, create reactions and memes for social media, or use animated storyboards to explore character movement before video production.\nPrompt 1 : Create a single animation sprite sheet for a seamless looping GIF. A super-cute chibi adult office worker sits at a desk watching a computer monitor with a clearly plunging stock-market line chart. The sequence: hopeful expression, notices the chart falling, eyes widen, face crumples, large cartoon tears stream down both cheeks, then quietly wipes tears while still staring at the falling chart. Oversized round head, tiny body, big expressive eyes, soft rounded features, messy fluffy hair, white shirt and loosened tie. Exactly 6 sequential frames arranged in a precise 3-column by 2-row grid, read left-to-right then top-to-bottom. Every panel has identical dimensions. Fixed front three-quarter camera, same character, same desk, monitor, outfit, and cozy miniature office background. Clear incremental facial and tear motion; sixth frame transitions smoothly toward the first. Polished kawaii chibi 3D toy-like style, warm pastel lighting, funny and sympathetic mood. No captions, no words, no numbers, no logos, no speech bubbles, no panel labels, no borders, no gutters.\nPrompt 2: Create a single animation sprite sheet for a seamless looping GIF. A super-cute chibi adult office worker sits at a desk watching a computer monitor with a clearly soaring stock-market line chart and a large upward arrow. The sequence: notices the chart rising, eyes widen with delight, jumps up cheering, grabs a handful of generic paper banknotes with no readable currency markings, then happily tosses the banknotes into the air like confetti while laughing. Oversized round head, tiny body, big sparkling expressive eyes, soft rounded features, messy fluffy hair, white shirt and loosened tie. Exactly 6 sequential frames arranged in a precise 3-column by 2-row grid, read left-to-right then top-to-bottom. Every panel has identical dimensions. Fixed front three-quarter camera, same character, desk, monitor, outfit, and cozy miniature office background. Clear incremental body, arm, and flying-paper motion; sixth frame transitions smoothly toward the first. Polished kawaii chibi 3D toy-like style, bright celebratory pastel lighting, funny joyful mood. No captions, no words, no numbers, no logos, no real currency symbols, no speech bubbles, no panel labels, no borders, no gutters.\nAnd you don’t need a polished design to get started — even a simple sketch can become an expressive, animated character for videos, games, and more.\nFrom personal reactions to brand mascots and product visuals, GIFs give people and businesses a playful way to communicate. Town, a startup building an AI work assistant, used Images 2.6 in the API to explore how animated characters could bring more personality to everyday interactions at work.\nWith Images 2.6, developers get more control over how images are created, edited, and carried into the next stage of a project. Image markup, already available in ChatGPT, comes to the API so teams can pinpoint exactly where to make specific changes. SVG exports make designs ready to use across websites, apps, and print.\nA new complexity parameter lets developers adjust how much planning the model does to meet a request, with lower settings suited to quick edits. Image quality controls visual detail and fidelity, while complexity guides how much goes into the scene.\nFor most editing tasks, we recommend low complexity for faster edits, paired with the image quality your workflow requires. For scenes with many elements or constraints, try medium or high complexity effort.\nSee what early access customers generated using Images 2.6:\nImages 2.6 is available globally today in ChatGPT and Codex across all subscription tiers on desktop, mobile, and web.\nGPT‑Image‑2.6 Sunburst and GPT‑Image‑2.6 Flare are available in the API. See pricing details here. ⁠ (opens in a new window)\nLearn more about our safety evaluations and safeguards for Images 2.6 in the system card ⁠ (opens in a new window) .",
+ "id": "R3-2026-11-06",
+ "caption_final": "How to create animated product GIFs for WhatsApp Business catalogs using OpenAI Images 2.6. Flat product photos often get scrolled past without clicks. OpenAI Images 2.6 in ChatGPT now lets you generate 6-frame animation sprite sheets directly. The Flare model can produce layouts in as little as 6 seconds on low quality, while Sunburst keeps product details consistent across edits. For items with clear packaging or logos, set complexity to medium or high so lines stay crisp. Which product in your catalog gets the lowest response right now? Comment GIF for the exact prompt structure.\n\n#WhatsAppBusiness #OpenAIImages #EcommerceTips #RetailAutomation"
+}
