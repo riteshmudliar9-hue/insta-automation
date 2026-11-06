@@ -2321,10 +2321,15 @@
    "brand_consistency": 10,
    "publish_readiness": 8
   },
-  "status": "queued",
+  "status": "published",
   "produced_at": 1793925608,
-  "log": [],
+  "log": [
+   "2026-11-06T09:09:51.198267+05:30 published https://www.instagram.com/p/DfYqa-7jsoD/"
+  ],
   "dm_keyword": "",
-  "dm_text": ""
+  "dm_text": "",
+  "media_id": "18221973046345893",
+  "permalink": "https://www.instagram.com/p/DfYqa-7jsoD/",
+  "published_at": "2026-11-06T09:09:51.198267+05:30"
  }
 ]
