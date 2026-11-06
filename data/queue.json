@@ -2127,9 +2127,11 @@
    "brand_consistency": 9,
    "publish_readiness": 8
   },
-  "status": "queued",
+  "status": "published",
   "produced_at": 1793925608,
-  "log": [],
+  "log": [
+   "2026-11-06T22:08:05.677103+05:30 published https://www.instagram.com/reel/DfaDcvUDJ-R/"
+  ],
   "dm_keyword": "BANK",
   "dm_text": "Here is what AI personal finance features access when connected via Plaid: 1. Read-only access to bank name, account type, and last 4 digits. 2. Balances and credit limits. 3. Up to 2 years of transaction history. Note: Anthropic states access is read-only (it cannot move money) and chats in Personal Finance are not used to train models.",
   "presenter": {
@@ -2284,7 +2286,10 @@
    "cta": "Comment BANK for privacy steps",
    "prompts_sent": true,
    "prompts_sent_at": 1793976170
-  }
+  },
+  "media_id": "18221681746352226",
+  "permalink": "https://www.instagram.com/reel/DfaDcvUDJ-R/",
+  "published_at": "2026-11-06T22:08:05.677103+05:30"
  },
  {
   "id": "C1-2026-11-06",
