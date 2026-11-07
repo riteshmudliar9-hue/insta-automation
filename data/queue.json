@@ -2371,9 +2371,11 @@
    "brand_consistency": 9,
    "publish_readiness": 8
   },
-  "status": "queued",
+  "status": "published",
   "produced_at": 1794011827,
-  "log": [],
+  "log": [
+   "2026-11-07T21:59:05.472852+05:30 published https://www.instagram.com/reel/DfcnPkVHB8g/"
+  ],
   "dm_keyword": "LINEAGE",
   "dm_text": "Here is your 4-step Data Lineage Checklist for securing AI workflows: 1. Map Data Sources: Identify all databases, old quotations, and restricted pricing systems your AI agents can read. 2. Control Handoffs: Set strict permissions between multi-agent tasks to block unverified transfers. 3. Audit Data Movement: Track how data is continuously copied, summarized, and transformed by agents. 4. Enforce Human Gatekeeping: Ensure no automated draft containing sensitive rates reaches a client without human sign-off.",
   "presenter": {
@@ -2543,7 +2545,10 @@
    "cta": "Comment LINEAGE for checklist",
    "prompts_sent": true,
    "prompts_sent_at": 1794058813
-  }
+  },
+  "media_id": "18221385628358334",
+  "permalink": "https://www.instagram.com/reel/DfcnPkVHB8g/",
+  "published_at": "2026-11-07T21:59:05.472852+05:30"
  },
  {
   "id": "C1-2026-11-07",
