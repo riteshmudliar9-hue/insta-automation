@@ -1,0 +1,257 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Why your invoices are likely visible to Google's ad algorithms.",
+  "angle": "Block data scrapers from your business Gmail to keep your financial data private.",
+  "audience_problem": "Concern about corporate data being used to train third-party AI models.",
+  "format": "problem_fix",
+  "medium": "reel",
+  "source_ids": [
+   19,
+   52
+  ],
+  "evergreen": true,
+  "keywords": [
+   "DataPrivacy",
+   "Gmail",
+   "Security"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 8,
+   "hook_potential": 10,
+   "retention": 9,
+   "save_share": 10,
+   "feasibility": 9,
+   "evidence": 8,
+   "viral": 9
+  },
+  "total": 9.08
+ },
+ "piece": {
+  "hooks": [
+   "AI agent ko pricing data dene se pehle ye risk jano.",
+   "Aapka AI tool confidential quotes leak kar sakta hai.",
+   "Agar aap AI agents se quotation banwa rahe ho, ye dekho.",
+   "AI tools aapka confidential pricing data kaise leak karte hain?",
+   "Quotation AI se draft karwa rahe ho? Pehle ye secure karo."
+  ],
+  "chosen_hook": 2,
+  "hook_reason": "Directly targets business owners using AI to generate quotes and creates immediate curiosity about security risks.",
+  "title": "Prevent AI Agent Quotation Data Leaks",
+  "scenes": [
+   {
+    "purpose": "Hook the viewer with a high-stakes AI risk scenario.",
+    "narration": "Agar aap AI agents se quotation banwa rahe ho, ye dekho.",
+    "on_screen": "AI Quotation Risk",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "AI Pricing Data Leak Risk",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Explain how data is ingested automatically across internal systems.",
+    "narration": "Ek AI agent restricted systems aur old quotes se data automatically fetch kar sakta hai.",
+    "on_screen": "Auto Data Ingestion",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "Restricted Pricing System",
+     "AI Agent Ingests Data",
+     "Unchecked Proposal Draft"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Demonstrate the failure point when no human review happens between agents.",
+    "narration": "Jab bina human check dusra agent proposal banata hai, sensitive discount leak ho jata hai.",
+    "on_screen": "Confidential Leak",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "Human Verified",
+    "right_label": "Unchecked Agent",
+    "rows": [
+     {
+      "left": "Approved pricing shared",
+      "right": "Unapproved rate leaked"
+     },
+     {
+      "left": "Traceable data source",
+      "right": "Untraceable data origin"
+     }
+    ]
+   },
+   {
+    "purpose": "Shift mindset from tool configuration to data visibility.",
+    "narration": "AI security sirf tool problem nahi hai, ye data visibility problem hai.",
+    "on_screen": "Data Visibility Issue",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Track Moving Data Lineage",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Provide the concrete step-by-step fix using data lineage principles.",
+    "narration": "Data lineage setup karo taaki aap trace kar sako data kaise copy aur transform ho raha hai.",
+    "on_screen": "Data Lineage Fix",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Map ingested data sources",
+     "Restrict raw file access",
+     "Trace agent data copies",
+     "Require human handoff check"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Deliver payoff and single comment CTA for the security framework.",
+    "narration": "Comment LINEAGE, main aapko agentic data security checklist DM kar dunga.",
+    "on_screen": "Comment LINEAGE",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Get Free Security Guide",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "How to secure business quotation data when using AI agents. When multiple AI agents pull rates from archived quotations or restricted pricing sheets, confidential terms can leak without human oversight. Securing your business data is not just about endpoint security, it requires complete data lineage to track how information is ingested, copied, and summarized across workflows. Have you audited which folders your AI tools can read?",
+  "hashtags": [
+   "#AISecurity",
+   "#DataGovernance",
+   "#BusinessAutomation",
+   "#DataPrivacy"
+  ],
+  "keywords": [
+   "AI agent security",
+   "data lineage enterprise",
+   "quotation data privacy",
+   "prevent AI data leak",
+   "agentic AI governance"
+  ],
+  "claims": [
+   {
+    "claim": "AI agents pull data from multiple sources like restricted pricing systems, internal communications, and archived quotes to draft proposals.",
+    "source_id": 52
+   },
+   {
+    "claim": "Without human checks during agent handoffs, unapproved confidential information can leak.",
+    "source_id": 52
+   },
+   {
+    "claim": "AI security in agentic workflows is primarily a data visibility problem rather than an application or endpoint tool problem.",
+    "source_id": 52
+   },
+   {
+    "claim": "Establishing data lineage tracks how data is ingested, copied, summarized, transformed, and redistributed across workflows.",
+    "source_id": 52
+   }
+  ],
+  "dm_keyword": "LINEAGE",
+  "dm_text": "Here is your 4-step Data Lineage Checklist for securing AI workflows: 1. Map Data Sources: Identify all databases, old quotations, and restricted pricing systems your AI agents can read. 2. Control Handoffs: Set strict permissions between multi-agent tasks to block unverified transfers. 3. Audit Data Movement: Track how data is continuously copied, summarized, and transformed by agents. 4. Enforce Human Gatekeeping: Ensure no automated draft containing sensitive rates reaches a client without human sign-off."
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 8,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "AI agents pull data from multiple sources like restricted pricing systems, internal communications, and archived quotes to draft proposals.",
+    "supported": true,
+    "note": "Supported directly by Source 52."
+   },
+   {
+    "claim": "Without human checks during agent handoffs, unapproved confidential information can leak.",
+    "supported": true,
+    "note": "Supported directly by Source 52."
+   },
+   {
+    "claim": "AI security in agentic workflows is primarily a data visibility problem rather than an application or endpoint tool problem.",
+    "supported": true,
+    "note": "Supported directly by Source 52."
+   },
+   {
+    "claim": "Establishing data lineage tracks how data is ingested, copied, summarized, transformed, and redistributed across workflows.",
+    "supported": true,
+    "note": "Supported directly by Source 52."
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [],
+  "issues": [],
+  "fix_instructions": "No critical edits required. Content is ready to publish as scheduled."
+ },
+ "rules": [],
+ "reasons": [],
+ "meta": {
+  "duration": 34.2,
+  "voice": "edge",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-07/R2-2026-11-07/try3/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-07/R2-2026-11-07/try3/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-07/R2-2026-11-07/try3/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-07/R2-2026-11-07/try3/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-07/R2-2026-11-07/try3/scene_05.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-07/R2-2026-11-07/try3/scene_06.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   4.43,
+   6.53,
+   6.28,
+   5.13,
+   6.48,
+   5.37
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-07/R2-2026-11-07/try3",
+ "attempt": 3,
+ "approved": true,
+ "hook": "Agar aap AI agents se quotation banwa rahe ho, ye dekho.",
+ "log": [
+  "attempt 1: fail {'hook': 6, 'originality': 6, 'practical_value': 5, 'natural_language': 7, 'accuracy': 5, 'narrative': 6, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 5} ['hook 6/10 (<8)', 'originality 6/10 (<8)', 'practical_value 5/10 (<8)', 'natural_language 7/10 (<8)']",
+  "attempt 2: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 9, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+  "attempt 3: PASS {'hook': 8, 'originality': 8, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} []"
+ ],
+ "material": "[19] The Verge AI — OpenAI is stepping back from NDAs for data center projects\nURL: https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda\nOpenAI is stepping back from NDAs for data center projects | The Verge Skip to main content The homepage The Verge The Verge logo. The homepage The Verge The Verge logo. Notifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo. Login / Sign Up\nComments Loading comments Getting the conversation ready... AI\nThe ChatGPT maker won’t use NDAs with public officials as part of its new data center community commitments.\nThe ChatGPT maker won’t use NDAs with public officials as part of its new data center community commitments.\nJay Peters Nov 6, 2026, 12:37 AM UTC Link\nJay Peters is a senior reporter covering technology, gaming, and more. He joined The Verge in 2019 after nearly two years at Techmeme. Following this week’s midterms where voters resoundingly voiced their opposition to data center expansion , OpenAI today announced new commitments to communities where it is working on data center projects, including that it won’t use non-disclosure agreements (NDAs) with public officials.\nMany data center projects have come under scrutiny for relying on NDAs to hide discussions between developers and local officials. However, OpenAI says it is now allowing “only narrow protections covering legitimate security information, trade secrets, or proprietary or competitively sensitive information.” In October, Amazon announced it would no longer use NDAs with government agencies it works with on data center projects.\nOpenAI’s additional commitments include paying “the full cost” of electricity it uses and the “infrastructure needed to serve us.” It will make opportunities for local communities by publishing the jobs it expects to create and by reporting on hiring. And every future “compute campus” (its rebranding phrase for data centers ) the company owns and operates will have a “local compact” that includes the commitments and will reflect “local priorities,” OpenAI says.\nMore in: All the latest updates on AI data centers\nXbox overhauls its PC, web, and cloud apps with a faster design\nAnker’s new window-mounted camera monitors the outside of your home from within it\nI’ve reviewed almost every Android foldable this year — here’s how the iPhone Duo compares\nAfter printing 40,000 whistles, this is the 3D printer I’d buy\nThe Enough Phone is made by and for people fed up with big screens\nThe Verge The Verge logo. Sign in to see your notifications or create an account to join the conversation.\n\n[52] MIT Tech Review AI — Securing the agentic enterprise with data lineage\nURL: https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/\nYou need to enable JavaScript to view this site. Skip to Content Sponsored\nA sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No human checks either handoff. When it’s discovered that the proposal includes unapproved, confidential, and sensitive information, no one can trace where the problematic data entered the workflow or how it spread across systems, files, and agents.\nThis scenario illustrates why AI governance needs to evolve, rapidly and dynamically. As more enterprises begin to use agentic AI in daily workflows, they’re realizing that they must manage more than static files; they must manage moving and fragmented data that is continuously ingested, copied, summarized, transformed, reused, and redistributed in new forms. In short, AI security isn’t a tool problem; it’s a data visibility problem.\nConsequently, traditional security approaches built solely around applications, systems, networks, or endpoints are no longer sufficient. Securing agentic AI at scale requires understanding how data moves. Teams, therefore, need to establish data lineage in order to effectively manage governance, accountability, and trust across human, agentic, and hybrid workflows.\nThis content was produced by Insights, MIT Technology Review’s custom content arm, not its editorial staff. It was researched and written by humans, with any AI tools that may have been used limited to production processes under human oversight.\nTen years after AlphaGo’s match against Go champion Lee Sedol, today’s AI still isn’t tapping into the machinery that made that win possible.\n“We were looking at it wrong”: The explosive claim that’s upended the AI world\nAn exclusive interview with Nick Cammarata, the researcher whose 26,000-word viral blog post has AI safety folks celebrating.\nDon’t be fooled by this summer of AI hype\nBreathless claims about AGI and new capabilities fall apart pretty quickly under scrutiny.\nThe US spent billions on border surveillance. Why can’t it catch people before they die?\nSurveillance towers, increasingly powered by AI, promised faster responses to crossings. Our investigation of deaths near the towers found they are failing to deliver.\nGet the latest updates from MIT Technology Review\nDiscover special offers, top stories, upcoming events, and more.",
+ "id": "R2-2026-11-07",
+ "caption_final": "How to secure business quotation data when using AI agents. When multiple AI agents pull rates from archived quotations or restricted pricing sheets, confidential terms can leak without human oversight. Securing your business data is not just about endpoint security, it requires complete data lineage to track how information is ingested, copied, and summarized across workflows. Have you audited which folders your AI tools can read?\n\n#AISecurity #DataGovernance #BusinessAutomation #DataPrivacy"
+}

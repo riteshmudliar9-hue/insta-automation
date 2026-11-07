@@ -464,5 +464,37 @@
   "status": "published",
   "media_id": "18221973046345893",
   "permalink": "https://www.instagram.com/p/DfYqa-7jsoD/"
+ },
+ {
+  "id": "R2-2026-11-07",
+  "date": "2026-11-07",
+  "kind": "reel",
+  "format": "problem_fix",
+  "topic": "Why your invoices are likely visible to Google's ad algorithms.",
+  "hook": "Agar aap AI agents se quotation banwa rahe ho, ye dekho.",
+  "keywords": [
+   "AI agent security",
+   "data lineage enterprise",
+   "quotation data privacy",
+   "prevent AI data leak",
+   "agentic AI governance"
+  ],
+  "status": "queued"
+ },
+ {
+  "id": "C1-2026-11-07",
+  "date": "2026-11-07",
+  "kind": "carousel",
+  "format": "myth_fact",
+  "topic": "Why 80% of businesses see zero profit from AI.",
+  "hook": "Stop buying AI tools until your daily workflows are clean",
+  "keywords": [
+   "small business automation india",
+   "operations before AI",
+   "clean business workflows",
+   "Tally invoice automation",
+   "controlling AI software costs"
+  ],
+  "status": "queued"
  }
 ]

@@ -1,0 +1,281 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "The 5-minute email-to-sheet automation for traders.",
+  "angle": "Stop manual bookkeeping; move order emails to Excel automatically.",
+  "audience_problem": "Bookkeeping takes hours each day for traders handling order emails.",
+  "format": "manual_vs_auto",
+  "medium": "reel",
+  "source_ids": [
+   62,
+   64
+  ],
+  "evergreen": true,
+  "keywords": [
+   "Automation",
+   "Bookkeeping",
+   "Traders"
+  ],
+  "scores": {
+   "relevance": 10,
+   "novelty": 7,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 10,
+   "feasibility": 9,
+   "evidence": 8,
+   "viral": 10
+  },
+  "total": 9.02
+ },
+ "piece": {
+  "hooks": [
+   "Agar aap order emails manually sheet me copy kar rahe ho, stop.",
+   "Customer data emails se Excel me manually type karna band karo.",
+   "Daily email reports aur data entry manually karna band karo. Ye dekho.",
+   "Order emails se record update karne me ghante waste mat karo.",
+   "Emails se manual client data entry aapka boht time khati hai."
+  ],
+  "chosen_hook": 1,
+  "hook_reason": "Directly targets the core audience pain point using a clean stop-doing pattern that leads straight into the workflow.",
+  "title": "Email to Excel Automation for Indian Small Businesses",
+  "scenes": [
+   {
+    "purpose": "Hook scroll stopper",
+    "narration": "Customer data emails se Excel me manually type karna band karo.",
+    "on_screen": "Stop Manual Data Entry",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "Manual Entry",
+    "right_label": "AI Automation",
+    "rows": [
+     {
+      "left": "Type emails by hand",
+      "right": "Auto extract to sheet"
+     },
+     {
+      "left": "Takes hours daily",
+      "right": "Runs automatically"
+     }
+    ]
+   },
+   {
+    "purpose": "Define customer scaling threshold rule",
+    "narration": "Spreadsheets chote business ke liye thik hain, par 100 customers par database zaroori hai.",
+    "on_screen": "100 Customer Scale Rule",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "Under 100 Clients",
+    "right_label": "Over 100 Clients",
+    "rows": [
+     {
+      "left": "Excel Spreadsheet",
+      "right": "Database Upgrade"
+     }
+    ]
+   },
+   {
+    "purpose": "Explain email extraction stage via Zapier AI agent",
+    "narration": "Zapier Sidekick jaisa AI agent emails se contact details drop karke tables me bhejta hai.",
+    "on_screen": "Auto Email Extraction",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "Incoming Email",
+     "AI Extracts Details",
+     "Zapier Tables"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Detail data validation inside Excel",
+    "narration": "Excel me regular data auto-refresh ke liye Power Query aur Data Validation use karo.",
+    "on_screen": "Excel Cleaning Steps",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Power Query for auto refresh",
+     "Data Validation for errors",
+     "SUMIFS or VLOOKUP formulas"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Clarify tool boundary between Zapier and Excel",
+    "narration": "Nightly rollups Zapier Tables me chalte hain, aur structured visuals Excel dashboard me bante hain.",
+    "on_screen": "Tool Responsibilities",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "Zapier: Nightly Rollups",
+     "Excel: Power Query Import",
+     "Excel: KPI Dashboard"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Payoff and explicit comment hook",
+    "narration": "Is automation flow se weekly manual data entry khatam. Comment SHEET, guide DM kar dunga.",
+    "on_screen": "Comment SHEET",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Comment SHEET for Guide",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "How to automate customer order emails into an Excel KPI dashboard for small business. Copying customer details manually from incoming emails takes up daily admin time. By setting up Zapier AI automations to extract names and details into Zapier Tables, you can automatically compile records. Then use Excel Power Query and Data Validation to bring data into clean KPI dashboards. Keep in mind that spreadsheets work great under 100 customers, but growing past that warrants a proper database for logs and segmentation. How do you currently handle order entry? Comment SHEET for the full setup guide.",
+  "hashtags": [
+   "#ExcelTips",
+   "#Zapier",
+   "#BusinessAutomation",
+   "#SmallBusinessIndia",
+   "#ExcelDashboard"
+  ],
+  "keywords": [
+   "Excel KPI dashboard",
+   "Zapier email automation",
+   "Power Query Excel",
+   "Small business data entry",
+   "Automated bookkeeping"
+  ],
+  "claims": [
+   {
+    "claim": "AI agents like Zapier Sidekick can classify email replies, pull contact details, and write them into connected tables with scheduled rollups.",
+    "source_id": 62
+   },
+   {
+    "claim": "Spreadsheets are fine for small businesses, but reaching about 100 customers makes upgrading to a database necessary for better logs and segmentation.",
+    "source_id": 64
+   },
+   {
+    "claim": "Power Query in Excel is recommended for regularly refreshed data imports, while Data Validation cleans duplicates and errors.",
+    "source_id": 64
+   },
+   {
+    "claim": "Excel formulas like SUMIFS, COUNTIFS, VLOOKUP, or INDEX/MATCH calculate KPI metrics from raw data.",
+    "source_id": 64
+   },
+   {
+    "claim": "Zapier connects to more than 9,000 apps to run automated workflows.",
+    "source_id": 62
+   }
+  ],
+  "dm_keyword": "SHEET",
+  "dm_text": "Here is your email-to-Excel automation setup guide: 1. Scaling rule: Spreadsheets work fine when small, but at ~100 customers, consider upgrading to a database for better change logs and data segmentation. 2. Zapier automation: Use Zapier Next Gen Zaps or Sidekick to scan incoming emails, separate bounces, extract names/contact details, and write to Zapier Tables with scheduled rollups. 3. Excel cleanup: Import data into Excel using Power Query for automatic refreshes. Run Data > Data Validation to prevent duplicate entries and formatting errors. 4. Dashboard metrics: Build aggregations using formulas like SUMIFS, COUNTIFS, or VLOOKUP. Zapier connects with over 9,000 apps to keep this flow running without manual intervention."
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 9,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "AI agents like Zapier Sidekick can classify email replies, pull contact details, and write them into connected tables with scheduled rollups.",
+    "supported": true
+   },
+   {
+    "claim": "Spreadsheets are fine for small businesses, but reaching about 100 customers makes upgrading to a database necessary for better logs and segmentation.",
+    "supported": true
+   },
+   {
+    "claim": "Power Query in Excel is recommended for regularly refreshed data imports, while Data Validation cleans duplicates and errors.",
+    "supported": true
+   },
+   {
+    "claim": "Excel formulas like SUMIFS, COUNTIFS, VLOOKUP, or INDEX/MATCH calculate KPI metrics from raw data.",
+    "supported": true
+   },
+   {
+    "claim": "Zapier connects to more than 9,000 apps to run automated workflows.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Scene 2: The subtitle 'hain, par 100 customers par database' is slightly disconnected from the main narration flow.",
+   "Scene 5: The subtitle 'hain, aur structured visuals Excel' is cut off mid-sentence and feels abrupt."
+  ],
+  "issues": [
+   "The transition between the '100 customer' rule and the 'Zapier' technical explanation is a bit fast; ensure the voiceover pacing allows for the visual to be processed.",
+   "The DM keyword 'SHEET' is clear, but ensure the automated response is ready to handle the volume."
+  ],
+  "fix_instructions": "Review the subtitle timing in scenes 2 and 5 to ensure they align better with the full spoken sentence. The content is strong and ready for publication once the subtitle sync is tightened to avoid mid-sentence cuts."
+ },
+ "rules": [
+  "scene 2: compare needs rows"
+ ],
+ "reasons": [
+  "scene 2: compare needs rows"
+ ],
+ "meta": {
+  "duration": 34.4,
+  "voice": "edge",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-07/R3-2026-11-07/try4/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-07/R3-2026-11-07/try4/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-07/R3-2026-11-07/try4/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-07/R3-2026-11-07/try4/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-07/R3-2026-11-07/try4/scene_05.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-07/R3-2026-11-07/try4/scene_06.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   4.28,
+   5.98,
+   6.29,
+   5.34,
+   6.13,
+   6.34
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-07/R3-2026-11-07/try4",
+ "attempt": 4,
+ "approved": false,
+ "hook": "Customer data emails se Excel me manually type karna band karo.",
+ "log": [
+  "attempt 1: fail {'hook': 7, 'originality': 6, 'practical_value': 6, 'natural_language': 7, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 7} ['opening line too long for a 2-second hook (max 12 words)', 'hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 6/10 (<8)']",
+  "attempt 2: rules failed: ['scene 3 narration 22 words (want 4-14)', 'scene 4 narration 26 words (want 4-14)']",
+  "attempt 3: fail {'hook': 8, 'originality': 6, 'practical_value': 6, 'natural_language': 7, 'accuracy': 7, 'narrative': 6, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 6} ['originality 6/10 (<8)', 'practical_value 6/10 (<8)', 'natural_language 7/10 (<8)', 'accuracy 7/10 (<8)']",
+  "attempt 4: fail {'hook': 8, 'originality': 7, 'practical_value': 9, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} ['scene 2: compare needs rows']"
+ ],
+ "material": "[62] Zapier Blog — AI automation examples: 5 real things Zapier Sidekick has done\nURL: https://zapier.com/blog/ai-automation-examples-sidekick\nA few months into our internal pilot, the Sidekick team noticed that most of what reached them was bug reports. Someone started a channel just for wins, a place where people could post what Sidekick had done for them. It filled up faster than anyone expected.\nWe read through it, along with the pilot feedback threads and our own team channels, and picked five stories that made us stop scrolling. Everything below happened at Zapier or with a Zapier customer, and where people measured something, we kept their numbers.\n1. Every Enterprise deal gets its own breakdown the morning after it closes\nFor most of a year, our product marketing team posted a weekly analysis of why we won or lost a deal, along with a map of how the deal unfolded. A person built each one by hand whenever they remembered to.\nNow a single Next Gen Zap handles it. When an Enterprise deal closes, the Zap pulls all the deal facts, runs an analysis, and saves the report to a Sidekick page. The next morning, the team has an answer to why we won, who was in the room, what put the deal at risk, and where the next expansion could come from.\nThe report costs about 55 cents, and it runs the moment a deal closes without anyone nudging it. By the time the builder shared it, the page held 58 breakdowns that the team could filter by theme, competitor, quarter, or deal size. It started as a weekly chore and became something the whole company can search.\n2. A BDR turned out-of-office replies into a contact database in a week\nAnyone who sends outbound email knows the pile of out-of-office replies that comes back. The only business development rep on one of our teams noticed that those replies are full of useful information, such as a note that someone has left a role and who replaced them, or a colleague to contact instead. The volume was too high to read by hand, so the information went to waste.\nIn about a week, working entirely inside Sidekick, that rep built a pipeline of Next Gen Zaps and Tables. One step catches the reply and separates bounces from human responses. Another uses AI to classify the reply and pull out names, titles, and contact details. The last step writes the results to five connected tables, with scheduled rollups for the week and month and a nightly check on retention.\nThe builder's summary was that the Next Gen Zaps \"worked amazingly\" and that they never had to leave Sidekick. It's an early version, and the next phase needs a review of how the data can be used, but the idea works: a pile of replies nobody had time to read became a record of who to contact next.\n3. Nearly 200 calendar invites for a company-wide listening tour\nWhen our CEO and CTO decided to hold 10-minute conversations with a large part of the Build organization, someone had to schedule them across time zones, vacations, and busy weeks.\nA teammate had already built a Sidekick Slack app that books meetings for whoever you tag in a message. The executive assistant team took it further for the tour. The tool scheduled most of the calls, determined which days suited each zone, and flagged time zones, working hours, and people who were out of the office.\nOne of the people who used it said it made a real difference for two reasons. It removed the grind and mapped out the schedule in a way that would have taken far longer to work out by hand. Scheduling is the kind of work that fills a week and shows nothing for it afterward, so seeing it handled in one tool is a pleasant surprise.\n4. A team went from about 25% to about 75% coverage in two weeks\nOur observability team was building an AI feature of its own and moved the work onto Sidekick. After about two weeks, they went from roughly 25% to roughly 75% coverage on their target use cases, which they described as a huge step toward launching the feature.\nThey named what made the difference. Sidekick's code execution gave their assistant a way to do real work. File handling enabled them to render files for users. And the refinements the Sidekick team had already made to the agent's decision-making came along for free.\nThere were quieter benefits too. They now work within boundaries and evaluation practices they didn't have before, which keeps them from relearning lessons the Sidekick team already learned, and they get better knowledge sharing because they're no longer building alone.\n5. Customers outside Zapier archived 800 Slack channels and sped up spreadsheet work\nSome of the best stories come from outside Zapier. A customer using Sidekick told us they bulk archived more than 800 inactive Slack channels with it. They had spent months trying to work out how to do that through the Slack API.\nAnother user mostly uses Sidekick for spreadsheet work and scripts and told the team, without being asked, that it has been awesome a couple of times now, saving so much time.\nBoth of them are doing real work with Sidekick because it connects to the apps they already use through Zapier.\nLook at the five, and a pattern shows up. Each one began with a chore that someone described in plain words. Some ended up running on their own, on a schedule or a trigger, connected to the tools people already use. And in most of them, the person who built it wasn't an engineer.\nOne salesperson who built six connected automations over three weeks gave advice that applies to all of them. Results become more useful when Sidekick sends them to you on a schedule, in a place you already look, so you don't have to remember to ask.\nPick something you do every week that you'd happily hand off. Describe it to Sidekick the way you'd explain it to a new teammate, and ask it to build the automation. Once it works, ask it to run on a schedule and send the result to Slack. That's the whole recipe behind every story above. If you want more ideas first, see these 12 AI automation examples from other teams.\nGet AI and automation tips, delivered straight to your inbox\nWe’ll email you 1-2 times per week—and never share your information.\nJay Ayinla is a senior full stack engineer on Zapier's engineering team. He builds Sidekick, an AI workspace that connects to more than 9,000 apps. He likes the hard questions that come with AI agents: design, cost, ethics, scalability, and user experience.\nHow much should an AI decide without asking you first?\nHow much should an AI decide without asking...\nGrok automation: How to use the Zapier Grok integration (Grok 4.7, Grok Bot, and more)\nGrok automation: How to use the Zapier Grok...\nWhat is AI transformation in 2027? How to build a strategy for your business\nWhat is AI transformation in 2027? How to...\nThe best AI agent builder software in 2026\nThe best AI agent builder software in 2026\nMuse Wonder and Muse Spark: A guide to Meta's AI models\nMuse Wonder and Muse Spark: A guide to...\nGemini automation: How to use the Zapier Gemini integration (Gemini 3.8 Flash, Gemini Enterprise, and more)\nGemini automation: How to use the Zapier...\nYour agent builds it. Zapier keeps it running. Build automations a\n\n[64] Zapier Blog — How to make a KPI dashboard in Excel in 3 steps (with free templates)\nURL: https://zapier.com/blog/kpi-dashboard-excel\nA car's dashboard displays vital information in an easily understandable format, assists in decision-making, and alerts the driver to potential issues. (Although the check engine light, with the specificity of a horoscope, treats a loose gas cap and a full-system meltdown with the same level of urgency.)\nLike a car's dashboard, an Excel KPI dashboard shows you the vital signs of your business, but without the cryptic hints and not-so-subtle threats—just cold, hard data served up in a way that's easy to digest.\nIn this post, I'll go over what KPI dashboards are and how to build one in Excel. I'm even sharing some templates you can use to jumpstart performance tracking for your business.\nWhat is a KPI dashboard and why build one in Excel?\nCreate a comprehensive KPI dashboard in Excel in 3 easy steps\nAlternative: Use PivotTables to create a flexible dashboard\nTurn your Excel dashboard into a live view\nWhat is a KPI dashboard—and why build one in Excel?\nAn Excel KPI dashboard is a visual representation of your key performance indicators (KPIs) , giving you a bird's-eye view of what's working and what's not. KPIs are metrics an organization has identified as critical to measuring its performance.\nBut why a dashboard? Well, trying to navigate large datasets without visuals is like asking a young person to explicitly describe Fortnite dances using only words. A KPI dashboard presents complex data in an easily digestible format, often using charts, graphs, and tables. This perspective allows you to see the big picture, highlighting the elements that contribute to the overall mission while filtering out the noise.\nWith a good dashboard, you'll be able to:\nRecognize patterns that might otherwise go unnoticed\nDetermine how close you are to meeting your goals and whether they need to be revised\nBenchmark performance against industry standards or competitor data to gauge progress and address weaknesses\nSpot trends to better forecast future performance\nA note on using spreadsheets: Spreadsheets are fine when you're small. But once you hit about 100 customers, it starts getting messy. Even upgrading to a database can make a huge difference: you'll have better logs of what changed and when, and it offers more options for segmentation.\nCreate a comprehensive KPI dashboard in Excel in 3 easy steps\nIf building a KPI dashboard in Excel sounds like something that'll make you weep quietly into your coffee, prepare to be very surprised. I'm about to walk through the whole process in three surprisingly simple steps.\nStep 1: Identify your KPIs and prepare your data\nFirst, select KPIs: A KPI dashboard isn't just a bunch of pretty charts—it's about getting the right info to the right people. So, before you start getting your hands dirty in Excel, think about who will be looking at this thing and what they need to know. For instance, if you're tracking customer acquisitions, maybe leave out the office supply inventory numbers (unless that's your secret weapon).\nTo help determine your KPIs, ask yourself questions like:\nWhat's the purpose of this dashboard? For example, is it to give stakeholders visibility into their most important metrics like revenue, traffic, and conversions?\nWhat insights do I need to gain? For example, do you need historical data to identify trends over time?\nHow can I measure progress? For example, are there specific metrics such as customer satisfaction scores , production efficiency, or sales growth that need to be tracked regularly to evaluate the success of business strategies?\nWhat metrics will help leadership make better decisions? For example, leaders might need detailed reports on cost efficiency, employee productivity, or customer retention rates to make informed strategic decisions.\nChoose KPIs that provide a clear and actionable snapshot of performance based on your business goals and objectives. Here are some Zapier guides on selecting KPIs to get you started:\nNext, collect data . Once you've identified your KPIs, you'll have to gather the raw data needed to calculate them. Pull reports, export databases, beg your analysts for access—whatever it takes to get your hands on the numbers and figures.\nWith your data in hand, import it into Excel:\nSelect your data source (Excel file, CSV, database, or an external service like Google Sheets or an API ), and follow the prompts to import your data.\nNote: Power Query is recommended for any data that needs to be refreshed regularly. It allows you to clean, transform, and automate data imports from multiple sources.\nCleaning and organizing your data Finally, clean and organize your data. Now it's time to wrangle your data into submission. Remove any duplicates or errors.\nBefore using your data, make sure it's in good shape:\nHandle missing values: Remove incomplete rows or fill in gaps with appropriate estimates (imputation).\nStandardize formats: Ensure all dates, numbers, and text entries are consistent. Convert text-based numbers into a numeric format where needed.\nTransform data where necessary: Convert currencies, create calculated fields, or aggregate data as needed.\nValidate data accuracy: Check for duplicate entries, inconsistencies, and errors using Excel's built-in Data Validation feature ( Data > Data Validation ).\nOnce your data is structured, calculate KPI values from the raw data using formulas like:\nSUM() , AVERAGE() , or COUNTIF() for basic aggregation\nSUMIFS() , AVERAGEIFS() , COUNTIFS() for conditional calculations\nVLOOKUP() or INDEX/MATCH() for pulling in related data Array formulas for advanced calculations\nA clean dataset will save you massive headaches later when creating visualizations.\nFirst, select charts and graphs. Look at your data and consider what you want to emphasize. Are you tracking changes over time? Comparing values across categories? Illustrating proportions?\nThe type of chart or graph you select depends on what you want to convey. Think about your audience and what will be most useful for them. Keep experimenting with different charts and layouts until you find one that brings your key metrics to life.\nSelect the data you want to visualize. For example, if you're visualizing sales data, select the range that includes your sales figures and corresponding dates or categories.\nChoose a chart type that best represents your data (column, line, pie, bar, etc.)\nAdd more charts as needed by repeating the above steps for the rest of your KPIs.\nVertical bars showing data changes over a period or comparisons among items\nHorizontal bars; similar to column charts but horizontal\nDisplays information as a series of data points connected by straight lines\nCircular chart divided into sections that illustrate numerical proportion\nSimilar to a line chart but with the area below the line filled in\nShows the relationship between two sets of data\nVariation of a scatter chart with data points replaced by bubbles\nDisplays trends using two dimensions on a continuous curve\nSimilar to a pie chart but with a hole in",
+ "id": "R3-2026-11-07",
+ "caption_final": "How to automate customer order emails into an Excel KPI dashboard for small business. Copying customer details manually from incoming emails takes up daily admin time. By setting up Zapier AI automations to extract names and details into Zapier Tables, you can automatically compile records. Then use Excel Power Query and Data Validation to bring data into clean KPI dashboards. Keep in mind that spreadsheets work great under 100 customers, but growing past that warrants a proper database for logs and segmentation. How do you currently handle order entry? Comment SHEET for the full setup guide.\n\n#ExcelTips #Zapier #BusinessAutomation #SmallBusinessIndia #ExcelDashboard"
+}

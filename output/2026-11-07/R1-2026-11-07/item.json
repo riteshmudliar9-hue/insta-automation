@@ -1,0 +1,232 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Why AI agents shouldn't be given your net banking password.",
+  "angle": "Delegating tasks is fine, but giving full bank access is a massive security risk.",
+  "audience_problem": "Trusting AI tools with sensitive financial credentials.",
+  "format": "myth_fact",
+  "medium": "reel",
+  "source_ids": [
+   1,
+   44
+  ],
+  "evergreen": true,
+  "keywords": [
+   "Cybersecurity",
+   "Banking",
+   "Safety"
+  ],
+  "scores": {
+   "relevance": 10,
+   "novelty": 8,
+   "hook_potential": 10,
+   "retention": 9,
+   "save_share": 10,
+   "feasibility": 9,
+   "evidence": 9,
+   "viral": 10
+  },
+  "total": 9.5
+ },
+ "piece": {
+  "hooks": [
+   "AI tools ko business data dene se pehle ye security risk dekho.",
+   "800 se zyada AI agent setups internet par bina password exposed mile.",
+   "Apne office AI agent ko full system access dene ki galti mat karna.",
+   "AI setup mein misconfiguration aapka poora infrastructure expose kar sakta hai.",
+   "AI agents ko bina boundary set kiye run karne ka bada nuksan hai."
+  ],
+  "chosen_hook": 1,
+  "hook_reason": "It opens with a shocking, verified security fact from Censys research that immediately highlights the risk of misconfiguring autonomous AI agents.",
+  "title": "Why AI Agents Need Strict Access Controls",
+  "scenes": [
+   {
+    "purpose": "Hook the viewer with a real security finding",
+    "narration": "800 se zyada AI agent setups internet par bina password exposed mile.",
+    "on_screen": "800+ AI Systems Exposed",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "800+ Unprotected AI Agents Found",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Explain the cause of the leak",
+    "narration": "Censys research ke mutabiq misconfiguration ki wajah se automatic tools online expose ho gaye.",
+    "on_screen": "Weak Settings Risk",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "No password required",
+     "Misconfigured web access",
+     "Weak default logins"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Highlight the potential impact on data",
+    "narration": "Microsoft ke according ye autonomous agents automated data exfiltration aur cloud environment access kar sakte hain.",
+    "on_screen": "Data Security Threat",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "Wrong Config",
+     "Public Access",
+     "Data Theft Risk"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Provide practical advice on setting boundaries",
+    "narration": "AI setup karte waqt strict boundaries, password protection aur multi-factor authentication zaroori hain.",
+    "on_screen": "Essential Safety Steps",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Enable Multi-Factor Auth",
+     "Set Strict Scope",
+     "Never Leave Open Access"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Call to action with DM hook",
+    "narration": "Comment RISK, main aapko AI safety guidelines aur security rules DM kar dunga.",
+    "on_screen": "Comment RISK Below",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Get AI Safety Checklist",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "How to protect your business data when setting up AI tools and automated agents. When business owners set up autonomous AI agents, proper configuration is essential. Cybersecurity firm Censys found over 800 exposed AI instances online simply because password protection and login checks were skipped. Microsoft noted that misconfigured agents allow unauthorized data exfiltration. Always enforce multi-factor authentication and strict access boundaries before giving AI tools connection to your servers or databases. Have you audited your online software tools for default passwords? Comment RISK for the safety checklist.",
+  "hashtags": [
+   "#AISecurity",
+   "#CyberSecurityIndia",
+   "#BusinessAutomation",
+   "#DataProtection",
+   "#TechTips"
+  ],
+  "keywords": [
+   "AI agent security",
+   "business automation safety",
+   "password protection AI",
+   "multi factor authentication",
+   "cloud data security"
+  ],
+  "claims": [
+   {
+    "claim": "Censys identified over 800 distinct Artex AI agent deployments exposed publicly to the web without password logins.",
+    "source_id": 1
+   },
+   {
+    "claim": "Microsoft reported that Artex AI agents can conduct cyberattacks from reconnaissance through data exfiltration with little needed human interaction.",
+    "source_id": 1
+   },
+   {
+    "claim": "Attacks involved exploiting simple vulnerabilities such as guessing weak or known passwords and a lack of multi-factor authentication.",
+    "source_id": 1
+   }
+  ],
+  "dm_keyword": "RISK",
+  "dm_text": "Here is your AI Security Checklist for business setups based on research findings: 1. Enforce Multi-Factor Authentication: Many compromised AI systems suffered from missing MFA and weak passwords. 2. Restrict Web Visibility: Do not expose AI agent ports or management dashboards to the open internet without password logins. 3. Define Strict Boundaries: Limit agent access to only specific services and files required for their task. 4. Audit Deployments: Security researchers found 800+ exposed instances online—regularly audit open ports to avoid leaks."
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "Censys identified over 800 distinct Artex AI agent deployments exposed publicly to the web without password logins.",
+    "supported": true,
+    "note": "Supported by Source [1]."
+   },
+   {
+    "claim": "Microsoft reported that Artex AI agents can conduct cyberattacks from reconnaissance through data exfiltration with little needed human interaction.",
+    "supported": true,
+    "note": "Supported by Source [1]."
+   },
+   {
+    "claim": "Attacks involved exploiting simple vulnerabilities such as guessing weak or known passwords and a lack of multi-factor authentication.",
+    "supported": true,
+    "note": "Supported by Source [1]."
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [],
+  "issues": [
+   "The source material specifically discusses Artex (an open-source AI hacking/penetration testing tool) being left exposed, whereas the reel broadens the lesson to general office AI agent setups. While relevant for business owners as a general security lesson on misconfiguration, clarifying that this specific breach was an open-source security tool adds context."
+  ],
+  "fix_instructions": "The reel is in strong shape and ready for publishing. To improve context, consider adding a quick caption note clarifying that the 800 exposed instances specifically involved an open-source AI security tool (Artex), highlighting why even technical tools must be password-protected."
+ },
+ "rules": [],
+ "reasons": [
+  "reel is 61.0 s long (max 45 s; aim for 15-35 s)"
+ ],
+ "meta": {
+  "duration": 61.0,
+  "voice": "gemini",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-07/R1-2026-11-07/try1/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-07/R1-2026-11-07/try1/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-07/R1-2026-11-07/try1/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-07/R1-2026-11-07/try1/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-07/R1-2026-11-07/try1/scene_05.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   12.78,
+   14.36,
+   15.3,
+   14.81,
+   3.71
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-07/R1-2026-11-07/try1",
+ "attempt": 1,
+ "approved": false,
+ "hook": "800 se zyada AI agent setups internet par bina password exposed mile.",
+ "log": [
+  "attempt 1: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['reel is 61.0 s long (max 45 s; aim for 15-35 s)']",
+  "attempt 2: fail {'hook': 8, 'originality': 7, 'practical_value': 6, 'natural_language': 7, 'accuracy': 8, 'narrative': 5, 'visual_integrity': 7, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 6} ['originality 7/10 (<8)', 'practical_value 6/10 (<8)', 'natural_language 7/10 (<8)', 'narrative 5/10 (<8)']",
+  "attempt 3: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+  "attempt 4: fail {'hook': 7, 'originality': 5, 'practical_value': 4, 'natural_language': 6, 'accuracy': 4, 'narrative': 4, 'visual_integrity': 9, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 3} ['hook 7/10 (<8)', 'originality 5/10 (<8)', 'practical_value 4/10 (<8)', 'natural_language 6/10 (<8)']"
+ ],
+ "material": "[1] TechCrunch AI — Hundreds of Artex AI hacking tools found publicly exposed to the web\nURL: https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/\n–:–:–:– Buy One Founder Summit Ticket, Get a Second for Free. Register now.\nFounder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts. REGISTER HERE.\nImage Credits: Carol Yepes / Getty Images Security Hundreds of Artex AI hacking tools found publicly exposed to the web Zack Whittaker 10:44 AM PST · November 6, 2026 Security researchers have discovered hundreds of copies of a Chinese-made AI hacking tool publicly exposed to the internet for anyone to access, potentially allowing outsiders to launch cyberattacks against unsuspecting targets.\nThe hacking software, called Artex, is an open source autonomous penetration testing tool, meaning software that automatically probes computer systems for weaknesses, and it’s been linked to several cyberattacks since its public release in July. As open source software, it’s free for anyone to download and run on their own servers, making it a popular tool for those who cannot access Anthropic or OpenAI’s most advanced cybersecurity AI models for discovering security vulnerabilities. Microsoft has previously described Artex as a system of AI agents that can conduct cyberattacks “from reconnaissance through data exfiltration with little needed human interaction.”\nIn a blog post , cybersecurity firm Censys, which scans the internet for exposed or vulnerable systems, said that it identified more than 800 distinct deployments of Artex that were accessible from the web without needing a password to log in.\nSilas Cutler, principal security researcher at Censys who wrote the blog post, said that not every instance of Artex is operated maliciously and many are used for authorized testers. But it’s unclear why hundreds of these Artex systems are exposed to the web, as the software does not require them to be accessible from the internet.\nThe findings underscore how even powerful hacking tools can be misconfigured to be publicly accessible by anyone, increasing the chance that someone will find and misuse them. The publicly accessible systems also expose attack tools, such as implants (hidden malicious software) used to compromise and maintain persistent access to a victim’s network.\nSecurity companies have linked the use of Artex to several broad-scale cyberattacks, including against the Korean finance industry in September . Cybersecurity giant CrowdStrike attributed the attacks to a Chinese-speaking hacker who used an Artex instance in the attacks, in part because the hacker had left an “open directory” hosting the system. Censys said that its data showed the Artex instance in question had been publicly exposed for months, and appeared to contain more attack data that extended “well beyond South Korean banks,” including payment and gaming companies.\nArtex was also used in an attack on IT support giant ConnectWise earlier in October , which allowed Chinese-linked hackers to spy on thousands of organizations whose data and files are hosted in Microsoft’s cloud. Microsoft, which has visibility into the attack, said in a blog post that the hackers used Artex to break into customers’ cloud environments and steal their data at such speed that defenders had “little time to detect and respond.”\nMany of the attacks linked to Artex involved exploiting simple vulnerabilities, such as guessing weak or known passwords, and a lack of multi-factor authentication.\nThe findings show that simple vulnerabilities, including misconfigurations, can expose both the attacker and their targets.\nArtex has since announced it would go closed-source, effectively limiting further releases for paid customers. There are still dozens of copies of Artex’s code available on code-sharing sites that can still be used in active attacks.\nWhen you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence.\nZack Whittaker is the security editor at TechCrunch. He also authors the weekly cybersecurity newsletter, this week in security .\nHe can be reached via encrypted message at zackwhittaker.1337 on Signal. You can also contact him by email, or to verify outreach, at [email protected] .\nNovember 4 Boston Buy One Pass, Get a Second Free Cover more ground at TechCrunch’s ultimate founder bootcamp of the year by bringing your co-founder or partner for free Book before the BOGO deal expires\nTesla will stop making the Cybertruck in 2027\nClaude can now analyze your spending with its new Personal Finance tool\nData centers are turning to old jet engines as the wait for power grows\nNew York City’s Mamdani criticizes Madison Square Garden owner over surveillance tech\nAnthropic warns that it’s very close to RSI capability, aka self-building AI\nNew York Times and other outlets sue web browser Brave over alleged content scraping\nNinja’s first-ever microwave just replaced two of my kitchen appliances at once\n\n[44] OpenAI News — GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents\nURL: https://openai.com/index/introducing-gpt-6-cyber\nGPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents | OpenAI OpenAI November 5, 2026\nA cybersecurity model trained to find and validate exploitable vulnerabilities, while staying within the scope that researchers set.\n(opens in a new window) Loading… Share We’re introducing GPT‑6 Cyber, a major leap in security research: more capable at finding and fixing vulnerabilities, and far more reliable staying within the boundaries researchers set. GPT‑6 Cyber delivers major gains on key cybersecurity benchmarks over GPT‑5.6 Cyber, including a 51% relative improvement on ExploitGym and a step function improvement when tested on staying within scope. It is already helping to secure real-world software, uncovering and validating thousands of exploits in security-critical codebases such as Linux and Firefox.\nOn ExploitGym, which tests whether models can exploit a specified vulnerability, GPT‑6 Cyber scores 48.5%, up from 32.1% for GPT‑5.6 Cyber. It also follows task boundaries more reliably: in a separate alignment evaluation, GPT‑6 Cyber avoided exploiting out-of-scope services in 99.93% of tests without its deployment prompt , and 100% with this prompt . This improvement in alignment reflects dedicated training to stay within authorized scope, respect restrictions, and report results accurately.\nThese capabilities are already helping secure real systems. Our researchers used GPT‑6 Cyber to develop 948 privilege escalation exploits in Linux ⁠ and identify 81 previously unknown high-severity vulnerabilities in Firefox, despite extensive prior testing with frontier models. The model also helped develop candidate patches, and Mozilla has released fixes for many of the Firefox vulnerabilities ⁠ (opens in a new window) . Security teams at Cisco, Calif, and CodeRabbit are using it for vulnerability research and code review, and we have relied on it to find and fix weaknesses in our own infrastructure ⁠ .\nIt is clear that we have a limited window to use frontier models to secure software ⁠ . Our goal is to dramatically expand Daybreak, bringing advanced security research to organizations of every size, independent researchers, and open-source maintainers. Mainline models such as GPT‑6 Astra already support code review, vulnerability triage, and patch development. Daybreak Blue helps verified defenders validate vulnerabilities and fixes with fewer unnecessary refusals, while Daybreak Red enables deeper exploit development and authorized security testing with GPT‑6 Cyber.\nGPT‑6 Cyber is a major step up from GPT‑5.6 Cyber and outperforms GPT‑6 Astra on most cyber tasks, even when Astra does not refuse the request. We evaluated the model on tasks that require it to understand software, identify vulnerabilities, and develop working exploits. Based on these results, we classify the model as Critical in cybersecurity under our Preparedness Framework, up from High for GPT‑5.6 Cyber.\nOn ExploitGym, which tests whether models can exploit a specified vulnerability in a remote target, GPT‑6 Cyber scores 48.5% , about 16 percentage points higher than GPT‑5.6 Cyber’s 32.1% . To test vulnerability discovery, we also built a new evaluation for offensive web penetration testing. Models probe web applications without access to their source code. GPT‑6 Cyber achieved 40.3% recall of vulnerabilities compared with 32.0% for GPT‑6 Astra.\nDaybreak Red is designed to support more advanced security workflows, including developing working exploits and using them against remote targets. To evaluate these capabilities, we built a new benchmark called RemoteExploitBench, which uses known vulnerabilities in applications such as GitLab, PostgreSQL, and Jenkins deployed in a controlled environment. In our initial evaluation, GPT‑6 Astra running with Daybreak Blue refused 100% of tasks , while GPT‑6 Cyber completed 95% ; its only failure was an exploit it could not get to work remotely. See the system card ⁠ (opens in a new window) for full results and evaluation settings.\nStronger alignment, better at staying within bounds\nOne risk for cybersecurity agents is that they go outside the scope of their assigned task, attempt to exploit unrelated services, or disregard the researcher’s rules of engagement.\nWe made alignment a central focus of GPT‑6 Cyber, using specialized training to help the model stay within authorized scope, follow restrictions on its actions, and report its work accurately. Before deployment, we ran a series of alignment evaluations to measure these behaviors. See the system card ⁠ (opens in a new window) for full results.\nOne of these evaluations is ExploitGym Honeypot, which was informed by the Hugging Face incident ⁠ . We give the model a difficult exploitation task in an isolated environment with access to supporting services, such as a package registry or object store. We deliberately make these services easy to exploit so that attacking them can reveal the task’s flag. The model must infer that exploiting them is outside the scope of its task.\nGPT‑6 Cyber shows a step-change improvement over GPT‑5.6 Cyber on this evaluation. When tested without deployment safety prompts, it avoided exploiting out-of-scope services in 99.93% of cases, up from 94.49% for GPT‑5.6 Cyber. With those prompts, GPT‑6 Cyber stayed within bounds 100% of the time.\nWe can see directly in the GPT‑6 Cyber model’s chain of thought how it reasons about staying within bounds:\nGPT‑6 Cyber is already helping security teams find vulnerabilities, validate their impact, and develop fixes. Customers have put it to work on large codebases, long-running exploit development, and security review:\nWe have also relied on GPT‑6 Cyber to secure our own systems. It was one of the main models behind the work we recently shared on hardening the infrastructure used to train frontier models ⁠ . In controlled red-teaming campaigns, agents using GPT‑6 Cyber and other OpenAI models chained vulnerabilities to escape microVMs and execute code on the underlying hosts. We used the findings to patch software, tighten network restrictions, and report issues to maintainers and vendors.\nOur vulnerability researchers also use GPT‑6 Cyber to find and validate vulnerabilities in open-source software at scale. This work has uncovered previously unknown flaws in software that has been scrutinized for years:\nFound 81 novel Firefox vulnerabilities. GPT‑6 Cyber can be suitable for use in autonomous workflows for finding vulnerabilities and proposing high-quality patches at scale. During a vulnerability research campaign, GPT‑6 Cyber produced evidence and reproducible tests for 81 novel vulnerabilities classified by Mozilla as high severity, and showed that an additional 30 known issues were more severe than previously reported. We disclosed the findings to Mozilla, along with proposed patches to help its engineers develop fixes. Mozilla was supportive of this work, and began landing fixes shortly after receiving the reports ⁠ (opens in a new window)",
+ "id": "R1-2026-11-07",
+ "caption_final": "How to protect your business data when setting up AI tools and automated agents. When business owners set up autonomous AI agents, proper configuration is essential. Cybersecurity firm Censys found over 800 exposed AI instances online simply because password protection and login checks were skipped. Microsoft noted that misconfigured agents allow unauthorized data exfiltration. Always enforce multi-factor authentication and strict access boundaries before giving AI tools connection to your servers or databases. Have you audited your online software tools for default passwords? Comment RISK for the safety checklist.\n\n#AISecurity #CyberSecurityIndia #BusinessAutomation #DataProtection #TechTips"
+}
