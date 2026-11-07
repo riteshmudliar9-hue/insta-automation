@@ -2386,7 +2386,7 @@
      "line": "Agar aap AI agents se quotation banwa rahe ho, toh ye danger zaroor check kar lena.",
      "visual_scene": -1,
      "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: close-up, camera steady at eye level. Points directly at the camera lens with a serious expression. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Agar aap AI agents se quotation banwa rahe ho, toh ye danger zaroor check kar lena.\" No subtitles, no on-screen text, no music, no other people.",
-     "msg_id": null,
+     "msg_id": 433,
      "file": null,
      "got_msg": null
     },
@@ -2397,7 +2397,7 @@
      "line": "Agent bina human check ke sensitive discount leak kar sakte hain, kyunki data visibility missing hai.",
      "visual_scene": -1,
      "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: medium close-up with a slow, smooth push-in towards his face. Leans in slightly and lowers his voice for emphasis. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Agent bina human check ke sensitive discount leak kar sakte hain, kyunki data visibility missing hai.\" No subtitles, no on-screen text, no music, no other people.",
-     "msg_id": null,
+     "msg_id": 434,
      "file": null,
      "got_msg": null
     },
@@ -2407,7 +2407,7 @@
      "cover": 2,
      "desc": "close-up of a shopkeeper's hands typing on a laptop next to a stack of paper invoices on a wooden counter",
      "prompt": "Create a realistic vertical 9:16 video of about 8 seconds: close-up of a shopkeeper's hands typing on a laptop next to a stack of paper invoices on a wooden counter. Indian small-business setting, warm natural light, handheld smartphone-camera look, slow subtle camera movement, shallow depth of field. No faces, no readable text, no brand names or logos, no subtitles, no speech, no music.",
-     "msg_id": null,
+     "msg_id": 435,
      "file": null,
      "got_msg": null
     },
@@ -2418,7 +2418,7 @@
      "line": "Data lineage setup karo taaki aap trace kar sako, comment LINEAGE, main checklist DM kar dunga.",
      "visual_scene": -1,
      "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: medium shot from slightly to his left (about 20 degrees), camera steady. Smiles and shrugs lightly while gesturing with both hands. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Data lineage setup karo taaki aap trace kar sako, comment LINEAGE, main checklist DM kar dunga.\" No subtitles, no on-screen text, no music, no other people.",
-     "msg_id": null,
+     "msg_id": 436,
      "file": null,
      "got_msg": null
     },
@@ -2428,7 +2428,7 @@
      "cover": 3,
      "desc": "over-the-shoulder shot of a phone on a shop counter lighting up with new message notifications",
      "prompt": "Create a realistic vertical 9:16 video of about 8 seconds: over-the-shoulder shot of a phone on a shop counter lighting up with new message notifications. Indian small-business setting, warm natural light, handheld smartphone-camera look, slow subtle camera movement, shallow depth of field. No faces, no readable text, no brand names or logos, no subtitles, no speech, no music.",
-     "msg_id": null,
+     "msg_id": 437,
      "file": null,
      "got_msg": null
     }
@@ -2540,7 +2540,9 @@
    ],
    "composed_from": null,
    "hook_title": "AI Agent Data Leak",
-   "cta": "Comment LINEAGE for checklist"
+   "cta": "Comment LINEAGE for checklist",
+   "prompts_sent": true,
+   "prompts_sent_at": 1794058813
   }
  },
  {
