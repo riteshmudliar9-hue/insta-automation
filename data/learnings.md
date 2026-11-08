@@ -1,15 +1,15 @@
-# Learnings (auto-generated 2026-11-07)
+# Learnings (auto-generated 2026-11-08)
 
-## reels (n=11, median reach 14)
+## reels (n=11, median reach 20)
 - format checklist: 9.24x account median (n=1)
-- format problem_fix: 3.38x account median (n=4)
+- format problem_fix: 3.39x account median (n=4)
 - format tool_test: 2.25x account median (n=1)
 - format myth_fact: 2.13x account median (n=2)
 - format manual_vs_auto: 0.71x account median (n=1)
 - format demo: 0.61x account median (n=1)
 - format audience_q: 0.25x account median (n=1)
 - best hooks: Accounting aur GST sheets ke liye ChatGPT mat use karo. | Most AI agents crash when they hit real business data. Here is how to test. | AI bot ki galti par law aapko zimmedar manega, vendor ko nahi.
-- weakest hooks: Agar aap AI agents se quotation banwa rahe ho, ye dekho. | ChatGPT ya Claude ko bank account link karne se pehle ye dekho.
+- weakest hooks: ChatGPT ya Claude ko bank account link karne se pehle ye dekho. | Agar aap AI agents se quotation banwa rahe ho, ye dekho.
 - median avg watch time: 3.7s
 
 ## carousels (n=16, median reach 2)
