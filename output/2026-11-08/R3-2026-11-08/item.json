@@ -1,0 +1,262 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Why AI agents fail in live production and how fixing database formatting prevents customer errors",
+  "angle": "AI bots break in production not because the LLM is weak, but because messy backend spreadsheets confuse the model.",
+  "audience_problem": "Business owners spend money on AI bots that pass basic testing but produce inaccurate stock levels or prices live.",
+  "format": "myth_fact",
+  "medium": "reel",
+  "source_ids": [
+   80
+  ],
+  "evergreen": true,
+  "keywords": [
+   "AI database",
+   "bot failure",
+   "data formatting",
+   "production AI"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 9,
+   "hook_potential": 8,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 9,
+   "evidence": 10,
+   "viral": 8
+  },
+  "total": 8.67
+ },
+ "piece": {
+  "hooks": [
+   "AI agent demo mein sahi, live shop par fail kyu hota hai?",
+   "Gartner ke mutabiq 40% AI projects 2027 tak cancel ho jayenge.",
+   "Nightly stock update ki wajah se AI bot galat rate batata hai.",
+   "Aapka AI bot live customer orders par fail kyu ho jata hai?",
+   "AI bot ko purana data milne par customer order kharab hota hai."
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "Directly addresses why AI tools fail when moving from pilot testing to live business operations in simple Hinglish.",
+  "title": "Why AI Bots Fail Live and How Realtime Data Fixes It",
+  "scenes": [
+   {
+    "purpose": "Hook audience on why AI agents fail in live production vs demo.",
+    "narration": "AI agent demo mein sahi, live shop par fail kyu hota hai?",
+    "on_screen": "AI BOT DEMO VS LIVE",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "Demo Stage",
+    "right_label": "Live Shop",
+    "rows": [
+     {
+      "left": "Controlled data",
+      "right": "Stale live data"
+     },
+     {
+      "left": "1 simple lookup",
+      "right": "100s of lookups"
+     }
+    ]
+   },
+   {
+    "purpose": "Share Gartner cancellation statistic from source.",
+    "narration": "Gartner predicts over 40 percent AI agent projects 2027 tak cancel honge.",
+    "on_screen": "40% PROJECTS CANCELLED",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Gartner 40% AI Cancellation Warning",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Illustrate SMB stale data scenario as an example.",
+    "narration": "Maan lo aap shop ki stock sheet raat ko update karte ho.",
+    "on_screen": "STALE DATA PROBLEM",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "Nightly Excel Update",
+     "AI Bot Reads Stale Data",
+     "Wrong Order Taken"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Contrast human queries with AI agent lookup workload.",
+    "narration": "Insaan ek lookup karta hai, AI agent hundreds of lookups karta hai.",
+    "on_screen": "1 LOOKUP VS 100 LOOKUPS",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "Traditional Report",
+    "right_label": "AI Agent Search",
+    "rows": [
+     {
+      "left": "Single lookup",
+      "right": "Iterative searches"
+     },
+     {
+      "left": "Fixed reports",
+      "right": "Multiple data sources"
+     }
+    ]
+   },
+   {
+    "purpose": "List core requirements for production AI data infrastructure.",
+    "narration": "AI bot ke liye real-time data freshness aur combined data source zaroori hai.",
+    "on_screen": "AI DATA REQUIREMENTS",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Access all data types",
+     "Realtime data updates",
+     "Full interaction logging",
+     "High query scalability"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Deliver payoff and call to action for DM keyword.",
+    "narration": "Comment AGENT, main aapko AI data readiness setup checklist DM kar dunga.",
+    "on_screen": "COMMENT AGENT BELOW",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Get AI Data Checklist",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "Why AI chatbots and agents break down after live production setup.\n\nMany business owners build an AI bot that passes testing, but fails when live customers start asking questions. According to Gartner, over 40% of agentic AI projects will be cancelled by end of 2027 due to costs and inadequate controls. Nitin Waghulde from VeloDB explains that while human reports take one lookup, an AI agent takes hundreds of lookups in iterative loops. If your stock registers or pricing spreadsheets only update once a day, your AI bot operates on stale data and produces wrong customer replies.\n\nAre your business spreadsheets updated in real time or via nightly batch entries?\n\nComment AGENT for the full data checklist.",
+  "hashtags": [
+   "#AIAgents",
+   "#SmallBusinessIndia",
+   "#DataManagement",
+   "#AutomationIQ",
+   "#BusinessTech"
+  ],
+  "keywords": [
+   "AI agent breakdown",
+   "realtime business data",
+   "WhatsApp AI chatbot",
+   "Gartner AI prediction",
+   "VeloDB Apache Doris"
+  ],
+  "claims": [
+   {
+    "claim": "Gartner predicts that over 40% of agentic AI projects will be cancelled by the end of 2027, due to escalating costs, unclear business value, or inadequate risk controls.",
+    "source_id": 80
+   },
+   {
+    "claim": "Nitin Waghulde, Regional Director APAC at VeloDB, noted that traditional reports take one lookup while AI agents take hundreds of lookups across multiple data systems.",
+    "source_id": 80
+   },
+   {
+    "claim": "AI agents require immediate visibility of every data change, update, and deletion in real time without waiting for nightly batch jobs.",
+    "source_id": 80
+   }
+  ],
+  "dm_keyword": "AGENT",
+  "dm_text": "Here is the AI Data Readiness checklist based on VeloDB's insights for production AI agents:\n\n1. Data Freshness: AI agents need real-time data updates immediately. If stock or rates update only in nightly batch jobs, your bot gives stale answers.\n2. Multi-Source Access: Agents need structured database numbers, document text, and vector searches combined.\n3. High Query Load: A single AI agent task takes hundreds of lookups compared to 1 lookup for traditional reports.\n4. Interaction Logging: Log all agent interactions for tracking decision accuracy.\n\nFull analysis: https://yourstory.com/2026/11/velodbs-nitin-waghulde-on-why-ai-agents-break-down-after-the-demo"
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 8,
+   "practical_value": 6,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "Gartner predicts that over 40% of agentic AI projects will be cancelled by the end of 2027, due to escalating costs, unclear business value, or inadequate risk controls.",
+    "supported": true
+   },
+   {
+    "claim": "Nitin Waghulde, Regional Director APAC at VeloDB, noted that traditional reports take one lookup while AI agents take hundreds of lookups across multiple data systems.",
+    "supported": true
+   },
+   {
+    "claim": "AI agents require immediate visibility of every data change, update, and deletion in real time without waiting for nightly batch jobs.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Scene 2: Card container has excessive whitespace around the single text headline line."
+  ],
+  "issues": [
+   "The enterprise infrastructure concepts (vector stores, petabyte scaling) from the source article are translated well, but the practical advice could be grounded more specifically for non-technical Indian SMBs (e.g., explaining how live webhooks compare to daily Excel uploads)."
+  ],
+  "fix_instructions": "1. In Scene 2, add a key metric visual or quote card layout to eliminate empty whitespace in the central card. 2. In the caption and DM output, add one concrete SMB example showing how a business can switch from nightly batch sheets to real-time triggers (like WhatsApp/Shopify webhooks)."
+ },
+ "rules": [],
+ "reasons": [
+  "practical_value 6/10 (<8)"
+ ],
+ "meta": {
+  "duration": 34.0,
+  "voice": "edge",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-08/R3-2026-11-08/try2/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-08/R3-2026-11-08/try2/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-08/R3-2026-11-08/try2/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-08/R3-2026-11-08/try2/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-08/R3-2026-11-08/try2/scene_05.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-08/R3-2026-11-08/try2/scene_06.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   4.98,
+   7.14,
+   4.61,
+   5.59,
+   5.92,
+   5.81
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-08/R3-2026-11-08/try2",
+ "attempt": 2,
+ "approved": false,
+ "hook": "AI agent demo mein sahi, live shop par fail kyu hota hai?",
+ "log": [
+  "attempt 1: fail {'hook': 7, 'originality': 7, 'practical_value': 5, 'natural_language': 8, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 7, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 6} ['opening line too long for a 2-second hook (max 12 words)', 'hook 7/10 (<8)', 'originality 7/10 (<8)', 'practical_value 5/10 (<8)']",
+  "attempt 2: fail {'hook': 8, 'originality': 8, 'practical_value': 6, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['practical_value 6/10 (<8)']",
+  "attempt 3: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+  "attempt 4: rules failed: ['scene 2 narration 21 words (want 4-14)', 'scene 3 narration 19 words (want 4-14)', 'scene 5 narration 20 words (want 4-14)']"
+ ],
+ "material": "[80] YourStory — VeloDB’s Nitin Waghulde on why AI agents break down after the demo\nURL: https://yourstory.com/2026/11/velodbs-nitin-waghulde-on-why-ai-agents-break-down-after-the-demo\nVeloDB’s Nitin Waghulde on why AI agents break down after the demo | YourStory Sidebar is Loading... ADVERTISEMENT VeloDB\nAI agents tend to look good in a pilot. The scope is narrow, the data is controlled, and the questions are predictable. Production is different, and that gap is where many projects stall.\nGartner predicts that over 40% of agentic AI projects will be cancelled by the end of 2027, due to escalating costs, unclear business value, or inadequate risk controls. For Nitin Waghulde, Regional Director, APAC at VeloDB, a large part of the problem sits below the model, in the data layer.\nIn a keynote titled ‘AI agents at scale: Surviving beyond the demo’, Nitin explained how AI agents use data differently from people, what they need to work reliably at scale, and how companies are redesigning their data infrastructure to support them.\nNitin started his session with an example. In a traditional system, a business manager who wanted last year’s sales figure would run a ready-made report and get the number in one lookup.\nAsk an AI agent why sales dropped over the last three quarters, and the work changes. The agent pulls order records from the ERP and CRM systems, scans support tickets and chats to check whether major customers have escalated problems, and reads sales team reports on territory dynamics. If its reasoning is incomplete, it goes back for more.\n“What used to be completed in one simple lookup or one simple query, now you’re taking hundreds of lookups for the same thing,” he said.\nIn the past, people and reports were the main consumers of business data, and systems were built around fixed reports with clear boundaries.\nNow, Nitin said, AI has become a new customer of that data, and it behaves very differently.\nAgents run around the clock, ask many questions at once, and work in an iterative loop: ask, think, search, and retry until they can answer. Their questions are also unscripted. That puts a heavy, unpredictable load on the data layer.\nThe challenge grows because business data lives in several places at once: transactional records, chat memory, documents, dashboards and pre-built reports, and vector stores for meaning-based search. An agent has to search all of them and combine the results before it can answer.\nEach extra trip to the data adds cost. If the data is stale, the answer is wrong. Nitin compared it to driving with an inaccurate traffic map. And when data comes from many sources, it becomes harder to know where an answer came from, which creates a trust problem.\nHe likened it to sending someone to five filing cabinets to collect pieces of paper. By the time the person returns from the fifth cabinet, the information from the first may already be out of date.\nNitin outlined four requirements for agents to move from pilot to production.\nAccess to every data type: Agents need numbers from structured records, text from documents, and meaning from unstructured sources.\nScale: A single query may now need to scan petabytes of data, not the few terabytes that systems were once designed for. Also, the platform should support concurrency at scale to support iterative querying for data-hungry agents\nFreshness: Agents can only act correctly on current information. If an agent processing a refund cannot see the latest transaction record, it has to wait. Every change, including updates and deletions, needs to be visible to the agent immediately, without waiting for a nightly batch job.\nA record of every interaction: Every AI interaction leaves a trail. These logs are growing faster than business data itself, and they feed back into decision-making.\nVeloDB’s answer is a single engine that handles all of these needs. The company was founded in 2023 by the original creators of Apache Doris, an open-source real-time analytics database that became a top-level Apache Software Foundation project in June 2022. According to VeloDB, Apache Doris has more than 14,000 GitHub stars and 700 contributors, and is used by over 5,000 enterprises worldwide.\nTo cut down the back-and-forth trips that slow agents down, VeloDB supports hybrid queries. A single query can combine SQL, vector search, and text search, running deterministic and probabilistic searches in parallel. The result is one unified source of truth instead of scattered data.\nNitin shared two examples of companies running this architecture in production.\nThe first was one of the largest crypto exchanges, with more than 120 million users, which he did not name. The exchange makes transaction data available to AI agents that retail investors can query, for example to see what positions large traders are taking on an asset. He said its agents handle about 33,000 conversations with a tail latency of around 3 milliseconds, running round the clock.\nThe second was MiniMax, a Chinese AI company that listed on the Hong Kong Stock Exchange in January 2026 and says it serves 212 million users in more than 200 countries. MiniMax rebuilt its logging system on Apache Doris after moving away from Grafana Loki, because logs had become a valuable source of intelligence worth keeping and querying.\nNitin said MiniMax ingests data at 10 Gbps and can query about 10 petabytes in under two seconds, at 70% lower cost. VeloDB has separately reported that the Doris-based system now supports logs across all of MiniMax’s business lines at petabyte scale with over 99.9% availability.\nThe same challenges apply to early-stage startups building agents, Nitin added. VeloDB works with fintech startups that face the same scaling problems as MiniMax or the crypto exchange, just at an earlier stage.\nHis closing point was that agents will always ask hundreds of questions, so the infrastructure has to make each one cheap, fast, and current.\nFor Nitin, scaling AI agents is less about finding a better model and more about giving agents real-time, trustworthy data from a single source. Companies that get the data layer right, he argued, can make decisions faster, reduce costs, and move their agents from pilot to production with confidence.\nADVERTISEMENT Advertise with us ADVERTISEMENT Advertise with us ADVERTISEMENT Advertise with us ADVERTISEMENT Advertise with us VeloDB\nAI agents tend to look good in a pilot. The scope is narrow, the data is controlled, and the questions are predictable. Production is different, and that gap is where many projects stall.\nGartner predicts that over 40% of agentic AI projects will be cancelled by the end of 2027, due to escalating costs, unclear business value, or inadequate risk controls. For Nitin Waghulde, Regional Director, APAC at VeloDB, a large part of the problem sits below the model, in the data layer.\nIn a keynote titled ‘AI agents at scale: Surviving beyond the demo’, Nitin explained how AI agents use data differently from people, what they need to work reliably at scale, and how companies are redesigning their data infrastructure to support them.\nNitin started his session with an example. In a tradition",
+ "id": "R3-2026-11-08",
+ "caption_final": "Why AI chatbots and agents break down after live production setup.\n\nMany business owners build an AI bot that passes testing, but fails when live customers start asking questions. According to Gartner, over 40% of agentic AI projects will be cancelled by end of 2027 due to costs and inadequate controls. Nitin Waghulde from VeloDB explains that while human reports take one lookup, an AI agent takes hundreds of lookups in iterative loops. If your stock registers or pricing spreadsheets only update once a day, your AI bot operates on stale data and produces wrong customer replies.\n\nAre your business spreadsheets updated in real time or via nightly batch entries?\n\nComment AGENT for the full data checklist.\n\n#AIAgents #SmallBusinessIndia #DataManagement #AutomationIQ #BusinessTech"
+}

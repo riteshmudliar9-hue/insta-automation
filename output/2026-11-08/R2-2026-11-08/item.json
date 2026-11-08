@@ -1,0 +1,218 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Fixing the dangerous 'Don't Ask Again' setting in AI coding agents that leaks API keys on GitHub",
+  "angle": "Selecting automatic approval toggles in AI automation CLI tools can accidentally commit plain-text passwords to public repositories.",
+  "audience_problem": "Small business owners running custom python or AI automation scripts end up leaking internal passwords and API credentials online.",
+  "format": "problem_fix",
+  "medium": "reel",
+  "source_ids": [
+   20
+  ],
+  "evergreen": true,
+  "keywords": [
+   "AI security",
+   "API key leak",
+   "GitHub safety",
+   "Claude Code"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 9,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 9,
+   "evidence": 10,
+   "viral": 8
+  },
+  "total": 8.83
+ },
+ "piece": {
+  "hooks": [
+   "AI tools se code likhwa rahe ho? Ye galti mat karo.",
+   "AI agent ko Don't Ask Again pe set karna dangerous ho sakta hai.",
+   "1,122 public GitHub files me AI agent ne passwords commit kar diye.",
+   "AI coding script chalane se pehle auto-approval toggle check karo.",
+   "Freelancer ya AI se code banwaya hai? API keys public ho sakti hain."
+  ],
+  "chosen_hook": 2,
+  "hook_reason": "It opens with a striking factual number from the source that immediately grabs the attention of business owners who run custom scripts.",
+  "title": "Fix Dangerous AI Coding Settings",
+  "scenes": [
+   {
+    "purpose": "Hook",
+    "narration": "1,122 public GitHub files me AI agent ne passwords commit kar diye.",
+    "on_screen": "Password Leak Alert",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "AI Password Leak",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Problem",
+    "narration": "Claude Code jaise AI tools me log auto approval toggle Don't Ask Again select karte hain.",
+    "on_screen": "Auto Approve Toggle",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "Prompt script",
+     "Enable auto approve",
+     "Secrets committed"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Business Impact",
+    "narration": "Say aap billing ya stock automation script chalate hain. Plain text credentials public ho sakte hain.",
+    "on_screen": "Plain Text Risk",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "Manual Check",
+    "right_label": "Auto Approve",
+    "rows": [
+     {
+      "left": "Reviews code",
+      "right": "Auto commits"
+     },
+     {
+      "left": "Hides secrets",
+      "right": "Exposes keys"
+     }
+    ]
+   },
+   {
+    "purpose": "Fix",
+    "narration": "Auto approve toggles ko disable rakho. Secrets ko gitignore file me hamesha add karo.",
+    "on_screen": "Fix Password Leak",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Disable Don't Ask Again",
+     "Add keys to gitignore",
+     "Audit freelance code"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Call to Action",
+    "narration": "Safe coding habits se data secure rakho. Comment SECURE, main aapko steps DM kar dunga.",
+    "on_screen": "Comment SECURE",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Get Audit Checklist",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "How to prevent AI coding agents from leaking API keys and passwords on GitHub. When using AI tools like Claude Code to write business automation scripts, selecting options like Don't Ask Again can cause automatic commits of secret credentials to public repositories. Over 1,120 GitHub files were found exposed due to this exact issue. Before letting an AI agent run code for your shop or office, ensure auto-approval is off and confidential keys are excluded from git tracking. Have you checked if your internal automation scripts contain plain-text passwords? Comment SECURE for the safety audit steps.",
+  "hashtags": [
+   "#AICoding",
+   "#DataSecurity",
+   "#GitHubSecurity",
+   "#SmallBusinessIT"
+  ],
+  "keywords": [
+   "Claude Code security leak",
+   "AI agent password leak GitHub",
+   "dont ask again setting risk",
+   "AI automation script passwords",
+   "protect API keys GitHub"
+  ],
+  "claims": [
+   {
+    "claim": "Claude Code's Don't Ask Again setting exposed passwords in 1,122 public GitHub files.",
+    "source_id": 20
+   }
+  ],
+  "dm_keyword": "SECURE",
+  "dm_text": "Here is your 3-step security audit for AI automation scripts: 1. Turn off automatic approval settings like Don't Ask Again in coding agents. 2. Ensure all API keys and passwords are stored in environment variables, not plain text in code. 3. Add sensitive configuration files to .gitignore before committing code to public or shared repositories. Read full report: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again"
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 8,
+   "practical_value": 7,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "Claude Code's Don't Ask Again setting exposed passwords in 1,122 public GitHub files.",
+    "supported": true,
+    "note": "Supported directly by the source article headline and report."
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [],
+  "issues": [
+   "The term 'gitignore' in scene 4 narration and visuals might be slightly technical for non-tech SMB owners without a quick context line in the DM text."
+  ],
+  "fix_instructions": "The draft is strong and ready to publish. In the DM text, briefly explain in plain terms that a .gitignore file is simply a file that tells Git to hide sensitive password files from being uploaded publicly."
+ },
+ "rules": [],
+ "reasons": [
+  "practical_value 7/10 (<8)"
+ ],
+ "meta": {
+  "duration": 34.1,
+  "voice": "edge",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-08/R2-2026-11-08/try3/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-08/R2-2026-11-08/try3/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-08/R2-2026-11-08/try3/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-08/R2-2026-11-08/try3/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-08/R2-2026-11-08/try3/scene_05.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   7.04,
+   6.37,
+   7.13,
+   6.56,
+   7.04
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-08/R2-2026-11-08/try3",
+ "attempt": 3,
+ "approved": false,
+ "hook": "1,122 public GitHub files me AI agent ne passwords commit kar diye.",
+ "log": [
+  "attempt 1: fail {'hook': 7, 'originality': 6, 'practical_value': 5, 'natural_language': 7, 'accuracy': 8, 'narrative': 6, 'visual_integrity': 5, 'pacing': 7, 'brand_consistency': 7, 'publish_readiness': 5} ['scene 4 narration 19 words (want 4-14)', 'hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 5/10 (<8)']",
+  "attempt 2: fail {'hook': 7, 'originality': 7, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 8} ['hook 7/10 (<8)', 'originality 7/10 (<8)', 'practical_value 7/10 (<8)']",
+  "attempt 3: fail {'hook': 8, 'originality': 8, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['practical_value 7/10 (<8)']",
+  "attempt 4: fail {'hook': 7, 'originality': 7, 'practical_value': 7, 'natural_language': 7, 'accuracy': 8, 'narrative': 6, 'visual_integrity': 5, 'pacing': 6, 'brand_consistency': 7, 'publish_readiness': 5} ['hook 7/10 (<8)', 'originality 7/10 (<8)', 'practical_value 7/10 (<8)', 'natural_language 7/10 (<8)']"
+ ],
+ "material": "[20] Hacker News — Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files\nURL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again\nArticle URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again Comments URL: https://news.ycombinator.com/item?id=50407882 Points: 127 # Comments: 95",
+ "id": "R2-2026-11-08",
+ "caption_final": "How to prevent AI coding agents from leaking API keys and passwords on GitHub. When using AI tools like Claude Code to write business automation scripts, selecting options like Don't Ask Again can cause automatic commits of secret credentials to public repositories. Over 1,120 GitHub files were found exposed due to this exact issue. Before letting an AI agent run code for your shop or office, ensure auto-approval is off and confidential keys are excluded from git tracking. Have you checked if your internal automation scripts contain plain-text passwords? Comment SECURE for the safety audit steps.\n\n#AICoding #DataSecurity #GitHubSecurity #SmallBusinessIT"
+}

@@ -1,0 +1,250 @@
+{
+ "kind": "carousel",
+ "idea": {
+  "idea": "4 simple tactics to audit and eliminate waste in your team's monthly AI software subscriptions",
+  "angle": "Recent data shows corporate AI spending is stalling due to cost controls; small businesses should consolidate duplicate tools.",
+  "audience_problem": "Small offices accumulate multiple $20/month AI tool subscriptions that staff rarely use or duplicate features.",
+  "format": "checklist",
+  "medium": "carousel",
+  "source_ids": [
+   8
+  ],
+  "evergreen": true,
+  "keywords": [
+   "AI cost optimization",
+   "SaaS audit",
+   "subscription savings",
+   "business budget"
+  ],
+  "scores": {
+   "relevance": 10,
+   "novelty": 8,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 10,
+   "feasibility": 10,
+   "evidence": 9,
+   "viral": 9
+  },
+  "total": 9.12
+ },
+ "piece": {
+  "hooks": [
+   "4 ways to cut team AI tool bills today",
+   "How to cut AI tool bills without dropping output",
+   "Is your office paying too much for AI seats?"
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "It directly promises actionable cost-cutting steps for small office owners managing monthly AI seat subscriptions.",
+  "slides": [
+   {
+    "kind": "cover",
+    "title": "4 ways to cut team AI tool bills today",
+    "subtitle": "Recent data shows top firms cut software spend while doing more work.",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "point",
+    "title": "Token volume up spend flat",
+    "subtitle": "",
+    "body": "Data from Ramp shows AI usage is growing, but company spend flatlined. Businesses are trimming waste by using default model caps and employee budgets.",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "checklist",
+    "title": "Audit checklist for team AI plans",
+    "subtitle": "",
+    "body": "",
+    "items": [
+     "Set cheap default models for long-running tasks",
+     "Enforce hard monthly spending caps per staff member",
+     "Route simple binary queries to lightweight models",
+     "Check if median spend stays around $15 per employee",
+     "Lock in enterprise discounts during price cuts"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "compare",
+    "title": "Unchecked seats vs thrifty setup",
+    "subtitle": "",
+    "body": "",
+    "items": [],
+    "left_label": "Unchecked Seats",
+    "right_label": "Thrifty Setup",
+    "rows": [
+     {
+      "left": "High cost models by default",
+      "right": "Cheap models as default"
+     },
+     {
+      "left": "No spend limit per user",
+      "right": "Fixed budget cap set"
+     },
+     {
+      "left": "Premium tools for easy tasks",
+      "right": "Lightweight models used"
+     },
+     {
+      "left": "Paying full list prices",
+      "right": "Using buyer market cuts"
+     }
+    ],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "mythfact",
+    "title": "",
+    "subtitle": "",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "Lowering AI tool spend always reduces employee output.",
+    "fact": "Token volumes rose even as company spend flatlined, because price cuts and model routers handle tasks at far lower costs.",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "summary",
+    "title": "How to eliminate AI software waste",
+    "subtitle": "",
+    "body": "",
+    "items": [
+     "Set budget defaults for long background tasks",
+     "Cap monthly spending per staff login seat",
+     "Use model routers for simple outputs",
+     "Leverage active vendor price cuts"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   }
+  ],
+  "caption": "How to audit and reduce team AI software subscription costs. Recent benchmark data from Ramp reveals that corporate AI spending flatlined in late summer, even as token usage increased. Advanced companies are actively stopping software waste. Say you manage a small design team or accounting firm in Bengaluru. Your staff might be running basic tasks on top-tier expensive models without realizing it. Start by setting cheaper model defaults for background tasks and placing hard monthly spend limits on employee accounts. Where does your office AI spend currently get wasted the most?",
+  "hashtags": [
+   "#AISoftware",
+   "#SoftwareBudget",
+   "#TechCosts",
+   "#SmallBusinessIndia",
+   "#SaaSManagement"
+  ],
+  "keywords": [
+   "audit AI subscriptions",
+   "reduce AI tool cost",
+   "team AI spending limit",
+   "software budget control",
+   "AI cost optimization"
+  ],
+  "claims": [
+   {
+    "claim": "Ramp data shows AI spending flatlined over late summer while token spend only grew 1.5%.",
+    "source_id": 8
+   },
+   {
+    "claim": "Median firms spend $12 to $15 per employee per month on AI tools.",
+    "source_id": 8
+   },
+   {
+    "claim": "Companies control AI costs by setting defaults that prevent expensive model use on long-running tasks.",
+    "source_id": 8
+   },
+   {
+    "claim": "AI spend can be reduced by imposing employee budgets and routing simple outputs to cheaper models.",
+    "source_id": 8
+   },
+   {
+    "claim": "OpenAI and Anthropic slashed API prices, creating a buyer's market for AI technology.",
+    "source_id": 8
+   }
+  ]
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 9,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "Ramp data shows AI spending flatlined over late summer while token spend only grew 1.5%.",
+    "supported": true
+   },
+   {
+    "claim": "Median firms spend $12 to $15 per employee per month on AI tools.",
+    "supported": true
+   },
+   {
+    "claim": "Companies control AI costs by setting defaults that prevent expensive model use on long-running tasks.",
+    "supported": true
+   },
+   {
+    "claim": "AI spend can be reduced by imposing employee budgets and routing simple outputs to cheaper models.",
+    "supported": true
+   },
+   {
+    "claim": "OpenAI and Anthropic slashed API prices, creating a buyer's market for AI technology.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [],
+  "issues": [
+   "Slide 3 and Slide 6 are highly redundant; they repeat almost the exact same checklist items.",
+   "The caption mentions Bengaluru, which is a nice touch for local relevance, but the carousel itself feels a bit generic and could benefit from one specific 'Indian SMB' example or context."
+  ],
+  "fix_instructions": "Keep slide 3 as the primary checklist. Replace slide 6 with a 'Pro-tip' or 'Next Step' slide that encourages the reader to check their current monthly invoice for 'unused seats' or 'high-usage outliers' specifically. Ensure the tone remains professional but direct."
+ },
+ "rules": [],
+ "reasons": [],
+ "meta": {
+  "ai_visuals": false,
+  "slides": 6
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-08/C1-2026-11-08/try1",
+ "attempt": 1,
+ "approved": true,
+ "hook": "4 ways to cut team AI tool bills today",
+ "log": [
+  "attempt 1: PASS {'hook': 8, 'originality': 7, 'practical_value': 9, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} []"
+ ],
+ "material": "[8] TechCrunch AI — Ramp data shows AI spending stalling just as Anthropic nears its IPO\nURL: https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/\n–:–:–:– Buy One Founder Summit Ticket, Get a Second for Free. Register now.\nFounder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts. REGISTER HERE.\nImage Credits: Stripe at Stripe Sessions AI Ramp data shows AI spending stalling just as Anthropic nears its IPO Rebecca Bellan 7:54 AM PST · November 6, 2026 Companies are using more AI than ever, but they’re not spending more on it.\nA new report from Ramp shows AI spending flatlined over late summer even as token volumes rose, a sign that price competition and savvier customers may be capping revenue for OpenAI and Anthropic. According to Ramp’s data, token spend only grew 1.5% across August and September. To compare, in July, it grew 42% from the previous month.\nAs Anthropic gears up for its IPO , the data suggests investors might be wrong to assume AI companies will keep growing at breakneck speed.\n“Almost the entire spend on AI is from venture-backed, high-growth tech companies,” Ramp’s lead economist Ara Kharazian told TechCrunch. “That’s fine as long as AI spend continues to rise, but if it starts to slow down because of something in the market or some other factor, they will all start to slow down simultaneously, and that could lead to other cascading effects.”\nKharazian said he’s already seeing evidence that the top 1% of firms — the most “ AI-pilled ” — have stuttered slightly in their spend in August and September, coming up just below the $10,000 per-employee they were hitting at their summer peaks. A slowdown among that cohort is “sufficient to slow down revenue entirely, despite the fact that we’re seeing rising volumes,” he said.\nRamp data shows growth in spending among median and top 10%, but it’s not enough to make up the difference. Median firms spend $12-$15 per employee per month, and the top 10% spend $600-$1,000.\n“If you look at the use cases today, it’s not necessarily clear they will get up to that $10,000 per employee per month mark that the 1% is at,” Kharazian said. While there’s plenty of demand for AI coding agents in industries like software and finance, “it’s not necessarily true that a doctor’s office or a car dealership will need to spend that much on AI.”\n“The era of hypergrowth may be over, and now that we know there may not be as much juice to squeeze out of the top 1%,” he continued.\nOctober data did see a re-acceleration, with token spend up 8.9% from September 23 to October 23, but Kharazian said the headwinds on spend growth are strong.\nKharazian (who has published a series of blogs called “ Cracks in the AI Thesis ”) said the slowdown isn’t due to a demand problem. Again, AI volumes are up. Instead he points to the competitive nature of the marketplace.\n“OpenAI and Anthropic price cuts have…just made it cheaper to use AI,” he said. In September, OpenAI cut API prices in half for GPT-6 Sol and GPT-6 Luna. Answering the price war, Anthropic has also made significant reductions to pricing for Fable 5.1 and Opus 5.5 — a decision that the company said in a recent filing slashed revenue growth by about $600 million. Both companies have also been offering enterprise discounts that are intended to lock-in spend, but in reality are hitting their revenue targets.\nKharazian said this dynamic means it has very much become a buyer’s market.\nSubsidizing use of expensive technology in order to lock in customers has always been a part of the Big Tech playbook. Just recall how cheap it used to be to take an Uber or Lyft ride, and now that there are few other ride-hail players, the cost of going from A to B has risen significantly. Kharazian says those dynamics don’t work in the AI world because there’s just too much competition.\n“Meta and Nvidia are also introducing enterprise offerings with pretty cheap models or open source models,” Kharazian said. He also pointed to the range of other open model companies from China and the United States, as well as a new company called Jev — a lightweight tool for choosing between a few predetermined outputs — that is increasingly among the top performers on Ramp.\n“For a lot of AI use cases, you just need a simple Yes/No,” Kharazian said. “So you take your already cheap models, you shift them over to Jev, and now your already cheap stuff gets even cheaper.”\nThe ability to complete workloads at a much cheaper cost is another factor driving the spending slowdown. That’s partly due to the discounts from AI companies, but also because companies are just getting better at being thrifty.\n“As you get really advanced in using AI, you get better at figuring out how to control it,” Kharazian said. “You’re more likely to use defaults that prevent usage of very expensive models for long-running tasks. You’re more likely to impose some budgets on employees. You’re more likely to offload some of the spend from standard and light models to even cheaper light models via routers.”\nNotion co-founder Akshay Kothari recently posted internal data that matched Ramp’s insights. As he succinctly put it: “tokens go brrr. costs go ahhh.”\ntokens go brrr costs go ahhh pic.twitter.com/1whCWCJCyM\n“A lot of the assumptions that we had about the trajectory of AI spend are starting to break down,” Kharazian said. “You can use more AI, but use it for less. That’s great for the customers…but it’s not necessarily great for the model companies. And it does introduce new questions around their revenue trajectories.”\nBloomberg reported Friday that Anthropic’s potential valuation sank from the $2 trillion estimated in early October to just $1.2 to $1.3 trillion. The company is also reportedly expected to receive a high “junk” rating from credit agencies. OpenAI also lowered its proposed valuation to $1.25 trillion from $1.4 trillion and slashed its latest fundraising goals by about $10 billion.\nKharazian says Ramp’s dataset likely informs many investor concerns. There is, however, one potential brightside for spending trajectories, albeit a speculative one.\nMuch of the thesis for hypergrowth spending is that AI will undoubtedly introduce new use cases that will accelerate things. AI coding emerged just a year and a half ago as the most commercially viable product that has led Anthropic and OpenAI to becoming trillion-dollar companies. The hope among investors is that there will be another revolution that will drive further spend.\nSome think personal agents will be the next coding agents. OpenAI , SpaceXAI , and Meta have all released their own personal agents, alongside startups like Instinct . Kharazian is skeptical, though, that personal agents, which are “not as economically productive as coding,” will provide the boost the industry needs for nonstop growth.\n“The projection is that there will be new products being introduced that will drive further growth,” Kharazian said. “But based on what we can observe today and the products available and what is commercially advanced, AI spend has started to slow down.”\nWhen you purchase through links in our articles, we may ",
+ "id": "C1-2026-11-08",
+ "caption_final": "How to audit and reduce team AI software subscription costs. Recent benchmark data from Ramp reveals that corporate AI spending flatlined in late summer, even as token usage increased. Advanced companies are actively stopping software waste. Say you manage a small design team or accounting firm in Bengaluru. Your staff might be running basic tasks on top-tier expensive models without realizing it. Start by setting cheaper model defaults for background tasks and placing hard monthly spend limits on employee accounts. Where does your office AI spend currently get wasted the most?\n\n#AISoftware #SoftwareBudget #TechCosts #SmallBusinessIndia #SaaSManagement"
+}

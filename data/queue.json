@@ -2597,5 +2597,48 @@
   "media_id": "18029105531701167",
   "permalink": "https://www.instagram.com/p/DfbOqRiFEf1/",
   "published_at": "2026-11-07T09:05:09.733914+05:30"
+ },
+ {
+  "id": "C1-2026-11-08",
+  "kind": "carousel",
+  "date": "2026-11-08",
+  "slot": "2026-11-08T09:00",
+  "dir": "output/2026-11-08/C1-2026-11-08/try1",
+  "files": [
+   "slide_01.jpg",
+   "slide_02.jpg",
+   "slide_03.jpg",
+   "slide_04.jpg",
+   "slide_05.jpg",
+   "slide_06.jpg"
+  ],
+  "caption": "How to audit and reduce team AI software subscription costs. Recent benchmark data from Ramp reveals that corporate AI spending flatlined in late summer, even as token usage increased. Advanced companies are actively stopping software waste. Say you manage a small design team or accounting firm in Bengaluru. Your staff might be running basic tasks on top-tier expensive models without realizing it. Start by setting cheaper model defaults for background tasks and placing hard monthly spend limits on employee accounts. Where does your office AI spend currently get wasted the most?\n\n#AISoftware #SoftwareBudget #TechCosts #SmallBusinessIndia #SaaSManagement",
+  "topic": "4 simple tactics to audit and eliminate waste in your team's monthly AI software subscriptions",
+  "format": "checklist",
+  "hook": "4 ways to cut team AI tool bills today",
+  "keywords": [
+   "audit AI subscriptions",
+   "reduce AI tool cost",
+   "team AI spending limit",
+   "software budget control",
+   "AI cost optimization"
+  ],
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 9,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "status": "queued",
+  "produced_at": 1794098181,
+  "log": [],
+  "dm_keyword": "",
+  "dm_text": ""
  }
 ]

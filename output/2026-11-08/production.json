@@ -1,0 +1,354 @@
+{
+ "date": "2026-11-08",
+ "tag": "2026-11-08",
+ "pilot": false,
+ "sources": 94,
+ "ideas": 14,
+ "idea_list": [
+  {
+   "idea": "Using fast multimodal AI models to convert customer voice notes and site walk-throughs into job cards",
+   "format": "demo",
+   "total": 9.14,
+   "scores": {
+    "relevance": 10,
+    "novelty": 9,
+    "hook_potential": 9,
+    "retention": 9,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 9
+   }
+  },
+  {
+   "idea": "4 simple tactics to audit and eliminate waste in your team's monthly AI software subscriptions",
+   "format": "checklist",
+   "total": 9.12,
+   "scores": {
+    "relevance": 10,
+    "novelty": 8,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 10,
+    "feasibility": 10,
+    "evidence": 9,
+    "viral": 9
+   }
+  },
+  {
+   "idea": "Building a simple 3-step automated KPI dashboard in Excel to track daily sales and stock movement",
+   "format": "tutorial",
+   "total": 8.96,
+   "scores": {
+    "relevance": 10,
+    "novelty": 7,
+    "hook_potential": 9,
+    "retention": 9,
+    "save_share": 10,
+    "feasibility": 10,
+    "evidence": 9,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Fixing the dangerous 'Don't Ask Again' setting in AI coding agents that leaks API keys on GitHub",
+   "format": "problem_fix",
+   "total": 8.83,
+   "scores": {
+    "relevance": 9,
+    "novelty": 9,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 10,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Why AI agents fail in live production and how fixing database formatting prevents customer errors",
+   "format": "myth_fact",
+   "total": 8.67,
+   "scores": {
+    "relevance": 9,
+    "novelty": 9,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 10,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Preventing AI agents from exposing internal wholesale pricing to retail customers during automated chats",
+   "format": "problem_fix",
+   "total": 8.65,
+   "scores": {
+    "relevance": 9,
+    "novelty": 9,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 8,
+    "evidence": 9,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "The zero-cost AI training roadmap for small business staff to master daily task automation",
+   "format": "checklist",
+   "total": 8.65,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 10,
+    "feasibility": 10,
+    "evidence": 9,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Why agentic AI workflows consume 10x-50x more tokens than regular prompts and how to budget API costs",
+   "format": "problem_fix",
+   "total": 8.5,
+   "scores": {
+    "relevance": 9,
+    "novelty": 9,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 10,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "Setting up an automated post-purchase survey tool to catch client complaints before bad Google reviews",
+   "format": "tutorial",
+   "total": 8.45,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Setting up permission thresholds: should your AI assistant ask before acting or act and report?",
+   "format": "checklist",
+   "total": 8.34,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 10,
+    "evidence": 9,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "How Cult.fit used Codex to build internal operational micro-tools without hiring developer agencies",
+   "format": "case_study",
+   "total": 8.11,
+   "scores": {
+    "relevance": 8,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 9,
+    "evidence": 10,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "Testing proactive always-on AI assistants vs basic prompt-driven ChatGPT for daily business planning",
+   "format": "tool_test",
+   "total": 7.93,
+   "scores": {
+    "relevance": 8,
+    "novelty": 9,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 8,
+    "evidence": 8,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "Selecting the right WordPress booking plugin to stop customer drop-offs on service websites",
+   "format": "checklist",
+   "total": 7.92,
+   "scores": {
+    "relevance": 8,
+    "novelty": 7,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 10,
+    "evidence": 9,
+    "viral": 6
+   }
+  },
+  {
+   "idea": "Notion vs OneNote for organizing shop inventory procedures and staff standard operating procedures (SOPs)",
+   "format": "manual_vs_auto",
+   "total": 7.77,
+   "scores": {
+    "relevance": 8,
+    "novelty": 7,
+    "hook_potential": 7,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 10,
+    "evidence": 9,
+    "viral": 6
+   }
+  }
+ ],
+ "rejected_ideas": [],
+ "items": [
+  {
+   "id": "R1-2026-11-08",
+   "kind": "reel",
+   "format": "demo",
+   "topic": "Using fast multimodal AI models to convert customer voice notes and site walk-throughs into job cards",
+   "hook": "WhatsApp catalog ke 15-second video ads AI se kaise banaye?",
+   "approved": false,
+   "attempts": 4,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 8,
+    "natural_language": 8,
+    "accuracy": 10,
+    "narrative": 8,
+    "visual_integrity": 8,
+    "pacing": 8,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [
+    "reel is 53.0 s long (max 45 s; aim for 15-35 s)"
+   ],
+   "log": [
+    "attempt 1: fail {'hook': 7, 'originality': 6, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 6, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 6} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'narrative 7/10 (<8)', 'visual_integrity 6/10 (<8)']",
+    "attempt 2: rules failed: ['scene 2 narration 19 words (want 4-14)', 'scene 5 narration 22 words (want 4-14)']",
+    "attempt 3: fail {'hook': 6, 'originality': 4, 'practical_value': 2, 'natural_language': 6, 'accuracy': 2, 'narrative': 4, 'visual_integrity': 6, 'pacing': 6, 'brand_consistency': 6, 'publish_readiness': 2} ['hook 6/10 (<8)', 'originality 4/10 (<8)', 'practical_value 2/10 (<8)', 'natural_language 6/10 (<8)']",
+    "attempt 4: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 10, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['reel is 53.0 s long (max 45 s; aim for 15-35 s)']"
+   ],
+   "dir": "output/2026-11-08/R1-2026-11-08/try4",
+   "duration": 53.0,
+   "voice": "gemini"
+  },
+  {
+   "id": "R2-2026-11-08",
+   "kind": "reel",
+   "format": "problem_fix",
+   "topic": "Fixing the dangerous 'Don't Ask Again' setting in AI coding agents that leaks API keys on GitHub",
+   "hook": "1,122 public GitHub files me AI agent ne passwords commit kar diye.",
+   "approved": false,
+   "attempts": 3,
+   "scores": {
+    "hook": 8,
+    "originality": 8,
+    "practical_value": 7,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 9,
+    "pacing": 8,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [
+    "practical_value 7/10 (<8)"
+   ],
+   "log": [
+    "attempt 1: fail {'hook': 7, 'originality': 6, 'practical_value': 5, 'natural_language': 7, 'accuracy': 8, 'narrative': 6, 'visual_integrity': 5, 'pacing': 7, 'brand_consistency': 7, 'publish_readiness': 5} ['scene 4 narration 19 words (want 4-14)', 'hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 5/10 (<8)']",
+    "attempt 2: fail {'hook': 7, 'originality': 7, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 8} ['hook 7/10 (<8)', 'originality 7/10 (<8)', 'practical_value 7/10 (<8)']",
+    "attempt 3: fail {'hook': 8, 'originality': 8, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['practical_value 7/10 (<8)']",
+    "attempt 4: fail {'hook': 7, 'originality': 7, 'practical_value': 7, 'natural_language': 7, 'accuracy': 8, 'narrative': 6, 'visual_integrity': 5, 'pacing': 6, 'brand_consistency': 7, 'publish_readiness': 5} ['hook 7/10 (<8)', 'originality 7/10 (<8)', 'practical_value 7/10 (<8)', 'natural_language 7/10 (<8)']"
+   ],
+   "dir": "output/2026-11-08/R2-2026-11-08/try3",
+   "duration": 34.1,
+   "voice": "edge"
+  },
+  {
+   "id": "R3-2026-11-08",
+   "kind": "reel",
+   "format": "myth_fact",
+   "topic": "Why AI agents fail in live production and how fixing database formatting prevents customer errors",
+   "hook": "AI agent demo mein sahi, live shop par fail kyu hota hai?",
+   "approved": false,
+   "attempts": 2,
+   "scores": {
+    "hook": 8,
+    "originality": 8,
+    "practical_value": 6,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 9,
+    "pacing": 8,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [
+    "practical_value 6/10 (<8)"
+   ],
+   "log": [
+    "attempt 1: fail {'hook': 7, 'originality': 7, 'practical_value': 5, 'natural_language': 8, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 7, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 6} ['opening line too long for a 2-second hook (max 12 words)', 'hook 7/10 (<8)', 'originality 7/10 (<8)', 'practical_value 5/10 (<8)']",
+    "attempt 2: fail {'hook': 8, 'originality': 8, 'practical_value': 6, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['practical_value 6/10 (<8)']",
+    "attempt 3: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+    "attempt 4: rules failed: ['scene 2 narration 21 words (want 4-14)', 'scene 3 narration 19 words (want 4-14)', 'scene 5 narration 20 words (want 4-14)']"
+   ],
+   "dir": "output/2026-11-08/R3-2026-11-08/try2",
+   "duration": 34.0,
+   "voice": "edge"
+  },
+  {
+   "id": "C1-2026-11-08",
+   "kind": "carousel",
+   "format": "checklist",
+   "topic": "4 simple tactics to audit and eliminate waste in your team's monthly AI software subscriptions",
+   "hook": "4 ways to cut team AI tool bills today",
+   "approved": true,
+   "attempts": 1,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 9,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 9,
+    "pacing": 9,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [],
+   "log": [
+    "attempt 1: PASS {'hook': 8, 'originality': 7, 'practical_value': 9, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} []"
+   ],
+   "dir": "output/2026-11-08/C1-2026-11-08/try1",
+   "duration": null,
+   "voice": null
+  }
+ ],
+ "llm_calls": {
+  "text": 25,
+  "tts": 25,
+  "failed": 0
+ }
+}

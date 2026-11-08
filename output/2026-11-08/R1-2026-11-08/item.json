@@ -1,0 +1,275 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Using fast multimodal AI models to convert customer voice notes and site walk-throughs into job cards",
+  "angle": "Low-cost models like Gemini Flash digest long audio and video clips in seconds to extract precise materials and specs.",
+  "audience_problem": "Contractors and interior vendors spend hours relistening to lengthy WhatsApp audio messages to note down job details.",
+  "format": "demo",
+  "medium": "reel",
+  "source_ids": [
+   30
+  ],
+  "evergreen": true,
+  "keywords": [
+   "Gemini Flash",
+   "multimodal AI",
+   "voice note extraction",
+   "job card automation"
+  ],
+  "scores": {
+   "relevance": 10,
+   "novelty": 9,
+   "hook_potential": 9,
+   "retention": 9,
+   "save_share": 9,
+   "feasibility": 9,
+   "evidence": 9,
+   "viral": 9
+  },
+  "total": 9.14
+ },
+ "piece": {
+  "hooks": [
+   "Showroom video ads ke liye expensive studio shoot band karo.",
+   "WhatsApp catalog ke 15-second video ads AI se kaise banaye?",
+   "Interior contractors photo se 15-second site video AI se banao.",
+   "Product photos se 360-degree video ads banana ab easy hai.",
+   "Google ke iss naye AI tool se product videos ready karo."
+  ],
+  "chosen_hook": 1,
+  "hook_reason": "It directly targets small business owners sending catalogs on WhatsApp, promising a fast 15-second AI video solution directly backed by Gemini Omni 1.2 Flash capabilities.",
+  "title": "Gemini Omni 1.2 Flash AI Video Ads",
+  "scenes": [
+   {
+    "purpose": "Hook",
+    "narration": "WhatsApp catalog ke 15-second video ads AI se kaise banaye?",
+    "on_screen": "AI Video Ads For Business",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "15-Sec AI Product Videos",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Tool introduce",
+    "narration": "Google ne Gemini Omni 1.2 Flash launch kiya hai video creation ke liye.",
+    "on_screen": "Gemini Omni 1.2 Flash",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "Product Photo",
+     "Gemini Omni 1.2",
+     "15s Video Ad"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Product try-on feature",
+    "narration": "Aap 1 photo aur product shots se 360-degree virtual try-on video bana sakte hain.",
+    "on_screen": "360-Degree Product Video",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "1 Model Photo",
+     "Product Front and Back",
+     "15-Second Video Loop"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Multi-turn editing feature",
+    "narration": "Multi-turn chat se background aur lighting change karo, zero re-shoot standard.",
+    "on_screen": "Multi-Turn Chat Editing",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "Manual Shoot",
+    "right_label": "Gemini Omni 1.2",
+    "rows": [
+     {
+      "left": "Re-shoot needed",
+      "right": "Edit via chat"
+     },
+     {
+      "left": "High budget",
+      "right": "$0.07 per sec"
+     }
+    ]
+   },
+   {
+    "purpose": "FPV flythrough feature",
+    "narration": "Continuous FPV drone movement se smooth interior walkthrough sequence generate hoti hai.",
+    "on_screen": "FPV Architectural Flythrough",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "Architectural Photos",
+     "Continuous FPV Flight",
+     "No Jump Cuts"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Payoff and comment hook",
+    "narration": "720p output ki cost sirf $0.07 per second hai. Comment VIDEO, detail DM karunga.",
+    "on_screen": "Comment VIDEO For Guide",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "720p Cost: $0.07 / Sec",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "How to use Gemini Omni 1.2 Flash AI video generation for small business product videos and 360 virtual try-ons. Generating short promotional videos for WhatsApp catalogs or interior projects usually requires studio setups. Google has released Gemini Omni 1.2 Flash on the Gemini API and Google Cloud, supporting 15-second video creation. You can supply static images of products or room layouts and prompt the model to generate continuous 360-degree turns or unbroken FPV drone flythroughs without jump cuts. Pricing is set at $0.07 per second for 720p video. Have you tested AI video tools for your business catalog yet? Comment VIDEO for the full feature breakdown.",
+  "hashtags": [
+   "#GeminiOmni",
+   "#AIVideo",
+   "#SmallBusinessTech",
+   "#GoogleAI",
+   "#VideoMarketing"
+  ],
+  "keywords": [
+   "Gemini Omni 1.2 Flash",
+   "AI video generation",
+   "360 product video",
+   "Google Cloud Gemini API",
+   "small business video ads"
+  ],
+  "claims": [
+   {
+    "claim": "Gemini Omni 1.2 Flash supports native 15-second video creation.",
+    "source_id": 30
+   },
+   {
+    "claim": "The model costs $0.07 per second for 720p video, which is a 30% price reduction from version 1.1.",
+    "source_id": 30
+   },
+   {
+    "claim": "Multi-turn conversational editing allows clip adjustments like changing backgrounds or lighting without starting over.",
+    "source_id": 30
+   },
+   {
+    "claim": "Combining one model photo with front-and-back product shots generates a 15-second 360-degree virtual try-on sequence with consistent identity and garment cut.",
+    "source_id": 30
+   },
+   {
+    "claim": "Architectural reference photos can guide a continuous FPV drone flight through structures with zero jump cuts.",
+    "source_id": 30
+   }
+  ],
+  "dm_keyword": "VIDEO",
+  "dm_text": "Here is how to use Gemini Omni 1.2 Flash for business video generation: 1. Model & Features: Gemini Omni 1.2 Flash supports native 15-second video creation from text, image, motion, and audio inputs. 2. Product Showcase: Combine 1 model photo with front-and-back product shots to generate 360-degree video loops with consistent details. 3. Continuous Camera: Use architectural reference photos to create continuous FPV drone flythroughs without visual jump cuts. 4. Conversational Editing: Adjust backgrounds, aspect ratios, or lighting turn-by-turn without starting from scratch. 5. Pricing: Generally available via Gemini API and Google Cloud at $0.07 per second for 720p video. Details: https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 10,
+   "narrative": 8,
+   "visual_integrity": 8,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "Gemini Omni 1.2 Flash supports native 15-second video creation.",
+    "supported": true,
+    "note": "Supported directly by the source article."
+   },
+   {
+    "claim": "The model costs $0.07 per second for 720p video, which is a 30% price reduction from version 1.1.",
+    "supported": true,
+    "note": "Supported by the source article."
+   },
+   {
+    "claim": "Multi-turn conversational editing allows clip adjustments like changing backgrounds or lighting without starting over.",
+    "supported": true,
+    "note": "Supported by the source article."
+   },
+   {
+    "claim": "Combining one model photo with front-and-back product shots generates a 15-second 360-degree virtual try-on sequence with consistent identity and garment cut.",
+    "supported": true,
+    "note": "Supported by the source article."
+   },
+   {
+    "claim": "Architectural reference photos can guide a continuous FPV drone flight through structures with zero jump cuts.",
+    "supported": true,
+    "note": "Supported by the source article."
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [],
+  "issues": [
+   "The diagrams rely on abstract boxes rather than demonstrating actual sample footage or UI prompts, which could slightly reduce visual engagement."
+  ],
+  "fix_instructions": "The content is ready to publish. For future iterations, consider replacing abstract flowchart boxes with real visual UI clips or sample video output previews where possible."
+ },
+ "rules": [],
+ "reasons": [
+  "reel is 53.0 s long (max 45 s; aim for 15-35 s)"
+ ],
+ "meta": {
+  "duration": 53.0,
+  "voice": "gemini",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-08/R1-2026-11-08/try4/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-08/R1-2026-11-08/try4/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-08/R1-2026-11-08/try4/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-08/R1-2026-11-08/try4/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-08/R1-2026-11-08/try4/scene_05.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-08/R1-2026-11-08/try4/scene_06.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   21.47,
+   4.03,
+   4.04,
+   14.2,
+   3.7,
+   5.57
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-08/R1-2026-11-08/try4",
+ "attempt": 4,
+ "approved": false,
+ "hook": "WhatsApp catalog ke 15-second video ads AI se kaise banaye?",
+ "log": [
+  "attempt 1: fail {'hook': 7, 'originality': 6, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 6, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 6} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'narrative 7/10 (<8)', 'visual_integrity 6/10 (<8)']",
+  "attempt 2: rules failed: ['scene 2 narration 19 words (want 4-14)', 'scene 5 narration 22 words (want 4-14)']",
+  "attempt 3: fail {'hook': 6, 'originality': 4, 'practical_value': 2, 'natural_language': 6, 'accuracy': 2, 'narrative': 4, 'visual_integrity': 6, 'pacing': 6, 'brand_consistency': 6, 'publish_readiness': 2} ['hook 6/10 (<8)', 'originality 4/10 (<8)', 'practical_value 2/10 (<8)', 'natural_language 6/10 (<8)']",
+  "attempt 4: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 10, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['reel is 53.0 s long (max 45 s; aim for 15-35 s)']"
+ ],
+ "material": "[30] Google AI Blog — Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips\nURL: https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/\nGemini Omni 1.2 Flash: Fast and cost-effective with longer clips Nov 05, 2026\nGemini Omni 1.2 Flash brings 15-second clips, stronger consistency, and faster, more cost-effective generation.\nYour browser does not support the audio element.\nWe’re rolling out Gemini Omni 1.2 Flash, which offers native 15-second video creation, improved reference adherence, and multi-turn conversational editing. This update lowers costs by 30% and provides better consistency for your professional projects. You can start using these capabilities today across the Gemini API, Google Vids, and Gemini for business to produce high-quality video content at scale.\nWe are launching Gemini Omni 1.2 Flash with support for fifteen-second videos and improved reference adherence.\nYou can now edit clips through multi-turn conversations, which allows for faster adjustments without starting over.\nWe reduced the price by 30% to help you produce high-quality video content at a lower cost.\nThis model is generally available on the Gemini API and Google Cloud for your production needs.\nToday, we’re rolling out Gemini Omni 1.2 Flash, and making it generally available across the Gemini API and Gemini for business . Gemini Omni 1.2 Flash introduces native 15-second video creation, multi-turn conversational editing capabilities, and enhanced reference following. We have dropped the price 30% from Gemini Omni 1.1 making it available at $0.07 per second for 720p video.\nBeyond the lower price, the workflow keeps costs down: you can draft fast at 360p or 720p, fix a detail with a follow-up edit instead of re-generating the entire clip, and then upscale your best creations to 1080p or 4K.\nYou can now generate and edit videos natively up to 15 seconds long, up from 10 seconds with Omni 1.1. You can also specify duration in one-second increments from 3 to 15 seconds, giving you room to tell complete stories, create product explainers, or produce full social ad spots in a single generation.\nYou can guide generation combining character, product, or style images, short motion clips (up to three seconds), and audio cues — and Omni 1.2 Flash holds onto those details from start to finish. Faces, garments, packaging typography, and brand colors stay consistent across camera angles, making it easy to turn existing product photography or character sheets into virtual try-on clips, catalog spins, and branded video ads.\nCombining one model photo with front-and-back product shots of three outfits, Gemini Omni 1.2 Flash generates a 15-second virtual try-on sequence across 360-degree turns and match cuts while keeping the model’s identity and each garment’s cut, drape, and back details consistent.\nYou can maintain stronger character, object, and scene consistency from the first to the last frame, with less visual drift or morphing across motion and camera transitions. Whether you’re interpolating between a first and last keyframe, or extending a clip to build a longer sequence, products, characters, props, and environments stay consistent from shot to shot.\nGiven the same static studio lighting exhibition poster and five-layer animation prompt, Gemini Omni 1.1 Flash does not match the reference image as closely as 1.2 does. Gemini Omni 1.2 Flash builds the poster sequentially layer by layer on the dusty-pink cyclorama rising the hexagonal plinth, assembling the ribbed glass, warm filament, faceted crystal, and coiled-cord letterforms for HALO, GLOW, and LUMEN, and locking every material, shadow, and typographic detail consistently through the final frame.\nYou can refine the same clip turn by turn — such as swapping a product or background, changing the lighting or weather, or switching the aspect ratio — instead of starting over from scratch. Multi-turn conversational editing works across full 15-second clips, making it easy to produce ad variants for different audiences and placements without re-briefing or re-generating.\nStarting from one generated clip, multi-turn conversational prompts swap the background turn by turn — from a striped pavilion tent to an oak forest, a stable with a white horse, a market fair, and a stone castle — while keeping both characters’ performances, armor reflections, and camera framing intact.\nYou can generate scenes with more fluid, natural-sounding dialogue, clearer lip-sync, and distinct multi-speaker conditioning. This will show up whether you’re directing multi-character dialogue in Flow , creating video explainers in Gemini for business , or creating polished, pro videos with avatars, music and narration in Google Vids .\nConditioned on one conservatory scene image alongside four character, mouth, and one-second voice references, Gemini Omni 1.2 Flash routes each sampled voice to the right character with expressive lip-sync and natural comedic timing across a 15-second animated scene.\nYou can direct complex, continuous camera movements like sweeping FPV flythroughs to dramatic zoom-outs and orbits with significantly fewer unwanted jump cuts, steadier scale, and a more polished, cinematic look.\nGuided by two architectural reference photos, Gemini Omni 1.2 Flash directs one continuous FPV drone flight across the piazza, through the bronze doors, and up through the Pantheon’s coffered dome to the oculus with zero jump cuts.\nLonger clips with smoother motion and tighter consistency\nGemini Omni 1.2 Flash generates clips up to 15 seconds long that hold references together better than before. You can scroll through to see characters, text, and camera moves stay consistent across longer shots, multiple turns and transitions with no cuts.\n15 second long clips: Turns one style frame into a 4-shot, 15-second macro science explainer with accurately spelled, motion-tracked callouts.\nMulti-turn motion transfer: Generates a rippling octopus in Turn 1, then replaces it in Turn 2 with a dancer whose gown mirrors the exact fluid motion.\nFirst-to-last frame consistency (1.1 vs. 1.2): Connects an exterior start frame and interior end frame in one continuous camera push in 1.2 Flash. You can see subtle differences like the cats on the roof, the soup ladle turning into chopsticks, and some other minor changes.\nUnbroken crash zoom-out: Pulls continuously from a tight shoreline close-up to an aerial island vista in one 10-second shot with natural scale and zero cuts.\nReal-world results, from creatives to global brands\nBusinesses, startups, and creatives are already using Gemini Omni 1.2 Flash in their workflows. And for the first time, Gemini Omni is now generally available, backed by Google Cloud’s enterprise-grade infrastructure and security. Provisioned Throughput is available, and outputs carry an imperceptible SynthID watermark.\nWhile development is ongoing to further improve things like fast sports action, rapid script changes and complex physics, Gemini Omni 1.2 Flash is ideal for businesses, developers, and creators producing videos at scale. You can get started with Gemini Omni 1.2 Flash today as it rolls out acros",
+ "id": "R1-2026-11-08",
+ "caption_final": "How to use Gemini Omni 1.2 Flash AI video generation for small business product videos and 360 virtual try-ons. Generating short promotional videos for WhatsApp catalogs or interior projects usually requires studio setups. Google has released Gemini Omni 1.2 Flash on the Gemini API and Google Cloud, supporting 15-second video creation. You can supply static images of products or room layouts and prompt the model to generate continuous 360-degree turns or unbroken FPV drone flythroughs without jump cuts. Pricing is set at $0.07 per second for 720p video. Have you tested AI video tools for your business catalog yet? Comment VIDEO for the full feature breakdown.\n\n#GeminiOmni #AIVideo #SmallBusinessTech #GoogleAI #VideoMarketing"
+}
