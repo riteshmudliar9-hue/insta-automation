@@ -2875,11 +2875,16 @@
    "brand_consistency": 9,
    "publish_readiness": 8
   },
-  "status": "queued",
+  "status": "published",
   "produced_at": 1794184726,
-  "log": [],
+  "log": [
+   "2026-11-09T13:47:32.439427+05:30 published https://www.instagram.com/reel/Dfg4jnCCbTc/"
+  ],
   "dm_keyword": "KETCHUP",
-  "dm_text": "Here is the details for KetchUp - Free 3D Woodworking & Furniture Design App: Website URL: https://ketchup3d.github.io/app/ How to use it: 1. Open the website in a desktop browser with WebGPU hardware acceleration. No login needed. 2. Draw 2D outlines, then use Push/Pull to create 3D boards, cabinets, or furniture. 3. Enter exact lengths, snap to axes, and organize parts using groups and tags. 4. Go to File -> Import/Export to load SketchUp (.skp) geometry or export OBJ (.obj) files. Note: Textures are not imported. 5. Crucial step: Download your project file via File -> Save (.ketchup) to prevent data loss if browser cache gets cleared."
+  "dm_text": "Here is the details for KetchUp - Free 3D Woodworking & Furniture Design App: Website URL: https://ketchup3d.github.io/app/ How to use it: 1. Open the website in a desktop browser with WebGPU hardware acceleration. No login needed. 2. Draw 2D outlines, then use Push/Pull to create 3D boards, cabinets, or furniture. 3. Enter exact lengths, snap to axes, and organize parts using groups and tags. 4. Go to File -> Import/Export to load SketchUp (.skp) geometry or export OBJ (.obj) files. Note: Textures are not imported. 5. Crucial step: Download your project file via File -> Save (.ketchup) to prevent data loss if browser cache gets cleared.",
+  "media_id": "18118799447042892",
+  "permalink": "https://www.instagram.com/reel/Dfg4jnCCbTc/",
+  "published_at": "2026-11-09T13:47:32.439427+05:30"
  },
  {
   "id": "C1-2026-11-09",
