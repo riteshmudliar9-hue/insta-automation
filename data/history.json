@@ -518,5 +518,53 @@
   "status": "published",
   "media_id": "18153381661513907",
   "permalink": "https://www.instagram.com/p/Dfdz7awDUHO/"
+ },
+ {
+  "id": "R2-2026-11-09",
+  "date": "2026-11-09",
+  "kind": "reel",
+  "format": "demo",
+  "topic": "Using Always-On AI Agents like Claude Duet for Morning Business Intelligence Briefs",
+  "hook": "Subah 30 minute multiple apps check karna band karo. Ye dekho.",
+  "keywords": [
+   "Claude Duet morning brief",
+   "AI agent business intelligence",
+   "Zapier workflow automation",
+   "Anthropic Claude Pro",
+   "Always on AI agent"
+  ],
+  "status": "queued"
+ },
+ {
+  "id": "R3-2026-11-09",
+  "date": "2026-11-09",
+  "kind": "reel",
+  "format": "tool_test",
+  "topic": "Free SketchUp Alternative: 3D CAD Modeling for Interior Designers and Contractors",
+  "hook": "Interior aur furniture design ke liye mehenga software mat khareedo.",
+  "keywords": [
+   "free 3d modeling software",
+   "sketchup alternative free",
+   "3d furniture design browser",
+   "ketchup 3d modeling",
+   "interior contractor 3d design"
+  ],
+  "status": "queued"
+ },
+ {
+  "id": "C1-2026-11-09",
+  "date": "2026-11-09",
+  "kind": "carousel",
+  "format": "checklist",
+  "topic": "How Big Spenders Cut AI Software Costs Without Sacrificing Team Output",
+  "hook": "How smart companies cut AI spend while doing more work",
+  "keywords": [
+   "AI spend optimization",
+   "software cost reduction",
+   "token budget management",
+   "AI model routing",
+   "business tech spend"
+  ],
+  "status": "queued"
  }
 ]

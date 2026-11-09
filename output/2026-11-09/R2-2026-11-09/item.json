@@ -1,0 +1,267 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Using Always-On AI Agents like Claude Duet for Morning Business Intelligence Briefs",
+  "angle": "Stop spending 30 minutes every morning checking multiple apps; let an always-on agent digest sales and calendar updates overnight.",
+  "audience_problem": "Business owners lose early morning hours manually checking WhatsApp, email, and sales sheets for daily status reports.",
+  "format": "demo",
+  "medium": "reel",
+  "source_ids": [
+   68
+  ],
+  "evergreen": false,
+  "keywords": [
+   "Claude Duet",
+   "always-on AI",
+   "morning brief",
+   "productivity"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 8,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 8,
+   "feasibility": 8,
+   "evidence": 8,
+   "viral": 8
+  },
+  "total": 8.3
+ },
+ "piece": {
+  "hooks": [
+   "Subah 30 minute multiple apps check karna band karo. Ye dekho.",
+   "Apna phone off rakho, ye AI agent raat bhar kaam karega.",
+   "Ye naya AI agent aapko bina pooche morning brief bhejta hai.",
+   "Har subah status updates manual compile mat karo. Ye tool try karo.",
+   "Claude Duet aapke apps check karke morning report ready karta hai."
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "Directly addresses the common daily pain point of business owners wasting morning hours checking multiple apps, and follows the proven 'Stop doing X... Ye dekho' viral pattern.",
+  "title": "Claude Duet Morning Brief Automation",
+  "scenes": [
+   {
+    "purpose": "Hook - highlight common morning problem",
+    "narration": "Subah 30 minute multiple apps check karna band karo. Ye dekho.",
+    "on_screen": "Stop Manual Morning Checks",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Morning App Overload",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Introduce Claude Duet background agent",
+    "narration": "Claude Duet ek always-on AI agent hai jo overnight aapke connected apps scan karta hai.",
+    "on_screen": "Always-On AI Agent",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "Connected Apps",
+     "Overnight Scan",
+     "Morning Brief"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Explain execution on virtual machine",
+    "narration": "Ye apne virtual machine aur browser par chalta hai, toh phone ya laptop open rakhna zaroori nahi.",
+    "on_screen": "Runs In Background",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Virtual Machine Browser",
+     "Phone Can Be Off",
+     "Automatic App Checks"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Explain safety guardrails and permissions",
+    "narration": "Payment karne, message bhejne ya delete karne se pehle ye humesha aapki permission maangta hai.",
+    "on_screen": "Asks Before Action",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "Background Work",
+    "right_label": "Needs Permission",
+    "rows": [
+     {
+      "left": "App Scan & Summary",
+      "right": "Payments & Transfers"
+     },
+     {
+      "left": "Drafting Updates",
+      "right": "Delete Files & Send"
+     }
+    ]
+   },
+   {
+    "purpose": "State honest limitations of token usage",
+    "narration": "Lekin dhyan rakho, ye aapke Claude account ki usage limits jaldi khatam kar sakta hai.",
+    "on_screen": "Uses Usage Limits",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Burns Session Token Limits",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Deliver payoff, alternative advice, and comment CTA",
+    "narration": "Repeated tasks ke liye Zapier setup karo. Comment DUET, main setup details DM kar dunga.",
+    "on_screen": "Comment DUET For Details",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Connect Zapier For 9000 Apps",
+     "Save Claude Session Limits",
+     "Get Daily Automated Briefs"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "How Claude Duet automates morning business briefs for small business owners. If you spend the first 30 minutes every morning checking Gmail, Google Drive, and calendar updates manually, Claude Duet offers an alternative. It is an always-on AI agent that runs on its own virtual machine, scanning connected tools overnight to prepare a summary. Before taking sensitive actions like deleting files, sending emails, or making payments, it strictly requires your explicit approval. However, keep in mind that continuous background scans burn through your Claude account session limits fast. For recurring fixed routines, routing tasks through Zapier saves token usage. Comment DUET for setup details.",
+  "hashtags": [
+   "#ClaudeDuet",
+   "#BusinessAutomation",
+   "#AIAgents",
+   "#Zapier"
+  ],
+  "keywords": [
+   "Claude Duet morning brief",
+   "AI agent business intelligence",
+   "Zapier workflow automation",
+   "Anthropic Claude Pro",
+   "Always on AI agent"
+  ],
+  "claims": [
+   {
+    "claim": "Claude Duet is an always-on AI agent from Anthropic that sends morning briefs and checks connected apps.",
+    "source_id": 68
+   },
+   {
+    "claim": "Claude Duet runs on its own virtual machine with a browser, so phone or laptop does not need to stay on.",
+    "source_id": 68
+   },
+   {
+    "claim": "Before sending, paying, signing, or deleting anything, Claude Duet asks for explicit user permission first.",
+    "source_id": 68
+   },
+   {
+    "claim": "Background checks in Duet consume Claude plan usage and session limits quickly.",
+    "source_id": 68
+   },
+   {
+    "claim": "Connecting Zapier allows running deterministic tasks on Zapier instead of burning Claude tokens.",
+    "source_id": 68
+   }
+  ],
+  "dm_keyword": "DUET",
+  "dm_text": "Here is how Claude Duet works for daily business updates: 1. Always-On Background Agent: Runs on Anthropic virtual machine with a browser, so your phone or laptop does not need to stay on. 2. Safety Guardrails: Reads and drafts automatically, but requires manual approval before sending messages, making payments, signing, or deleting files. 3. App Connectors: Connects directly with Gmail, Google Drive, Calendar, and Slack, or 9,000+ apps via Zapier. 4. Token Limitation: Background checks consume your Claude session limits fast. 5. Zapier Alternative: For fixed daily tasks, ask Duet to set them up on Zapier to run on Zapier tasks instead of Claude tokens."
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 8,
+   "practical_value": 8,
+   "natural_language": 9,
+   "accuracy": 10,
+   "narrative": 9,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 9
+  },
+  "claims": [
+   {
+    "claim": "Claude Duet is an always-on AI agent from Anthropic that sends morning briefs and checks connected apps.",
+    "supported": true,
+    "note": "Supported by source material."
+   },
+   {
+    "claim": "Claude Duet runs on its own virtual machine with a browser, so phone or laptop does not need to stay on.",
+    "supported": true,
+    "note": "Supported by source material."
+   },
+   {
+    "claim": "Before sending, paying, signing, or deleting anything, Claude Duet asks for explicit user permission first.",
+    "supported": true,
+    "note": "Supported by source material."
+   },
+   {
+    "claim": "Background checks in Duet consume Claude plan usage and session limits quickly.",
+    "supported": true,
+    "note": "Supported by source material."
+   },
+   {
+    "claim": "Connecting Zapier allows running deterministic tasks on Zapier instead of burning Claude tokens.",
+    "supported": true,
+    "note": "Supported by source material."
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [],
+  "issues": [],
+  "fix_instructions": "The reel is accurate, well-structured, and visually clean. Ready to publish as is."
+ },
+ "rules": [],
+ "reasons": [],
+ "meta": {
+  "duration": 34.4,
+  "voice": "edge",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-09/R2-2026-11-09/try1/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-09/R2-2026-11-09/try1/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-09/R2-2026-11-09/try1/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-09/R2-2026-11-09/try1/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-09/R2-2026-11-09/try1/scene_05.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-09/R2-2026-11-09/try1/scene_06.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   4.8,
+   6.0,
+   5.94,
+   5.63,
+   5.63,
+   6.4
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-09/R2-2026-11-09/try1",
+ "attempt": 1,
+ "approved": true,
+ "hook": "Subah 30 minute multiple apps check karna band karo. Ye dekho.",
+ "log": [
+  "attempt 1: PASS {'hook': 8, 'originality': 8, 'practical_value': 8, 'natural_language': 9, 'accuracy': 10, 'narrative': 9, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 9} []"
+ ],
+ "material": "[68] Zapier Blog — What is Claude Duet?\nURL: https://zapier.com/blog/claude-duet\nClaude Duet is Anthropic's answer to Meta's Muse and OpenAI's dots . It's an always-on AI agent , which means that instead of waiting for you to type a prompt, it sends you a morning brief, checks your connected apps to see where it can be helpful, and works on tasks in the background. Terrifying? A bit. But before it sends, pays, signs, or deletes anything, it asks you first.\nIt's still in research preview, but I got early access and spent some time with it on my phone. Here's what Claude Duet is, how it works, and what I found when I tested it.\nClaude Duet pros and cons (based on testing)\nClaude Duet is a proactive agent from Anthropic, built on Claude's latest models . You can sign in with your existing Claude account, but it's a separate app.\nWhere a regular chatbot waits for your question, Duet looks at what's going on in your connected apps and tells you what needs your attention. You talk to it by text or voice in one continuous thread, and it can do basically anything you let it do. Or at least it'll try.\nChat: This is where you'll ask it questions or tell it to do something (with text or voice). Connected apps will show up as cards in the conversation.\nTasks: This is all the work that Duet runs in the background, without your input (unless it needs your permission).\nMake: This is where you'll build out projects. It comes with templates like a daily to-do list and email triage.\nDuet runs on its own virtual machine with a browser, so your phone or laptop doesn't need to stay on while it works. Here's what that looks like in practice:\nA morning brief. Each morning, Duet can send a short summary of the most important items across your connected apps.\nRegular check-ins. It checks your accounts every few hours and messages you only when something needs your attention. You can set what you want to hear about and how often.\nContext from your Claude account. Your tools, projects, chats, memory, and skills carry over. During setup, Duet shows an \"Already knows your setup\" screen with the connectors you already use in Claude.\nConnectors. Duet connects with all the same apps that Claude does. That's thousands of apps, but most of them aren't verified by Anthropic. To get the most out of Claude connectors , you'll want to install Zapier , which will get you secure access to 9,000+ apps.\nIts own browser. Duet can open sites and fill out forms on its own computer of sorts, so it can get work done on sites that have no connector, too.\nI connected Gmail, Calendar, and Google Drive during onboarding and didn't ask it to do anything else. When I came back the next morning, Duet had already looked through my inbox, found Google's security alerts about the new connections, matched them to the setup I'd just done, and summarized them. It told me there was nothing to do if that was me, and where to check if it wasn't.\nNothing groundbreaking, but it was pretty impressive given that I didn't ask it to do anything.\nClaude Duet pros and cons (based on testing)\nI've only used Duet for a few days, and it's a research preview, so treat all of this as a first impression.\nSetup is quick. Everything already connected to my Claude account carried over, and the first-party connections (Gmail, Slack, Calendar, and Google Drive) take one tap each.\nIt's proactive in a useful way. The overnight security summary was a small thing, but I hadn't asked for it, and it was accurate.\nTasks start with suggestions. The Tasks tab starts empty and offers to scan your tools for work it can take on. Later that morning, I already had two tasks running.\nIt asks before it acts. Duet checked with me before it did anything I wouldn't want it to do without my permission.\nIt used up my usage limits fast. Duet shares your Claude plan's limits, and my first couple of days of testing used up all of my session limits. Not great for an agent that's supposed to run in the background.\nThe native Gmail connector only sees one account. This is solvable using Zapier, but it's worth knowing as you get started.\nIt can mess up. I hope that goes without saying? Any always-on AI agent can easily miss the mark on how urgent something is. It might alert you to low-priority things while missing something nuanced but urgent.\nAccording to Anthropic, Duet will happily read, draft, and prepare work without asking you. But before it sends a message, makes a payment, signs a document, or deletes anything, it shows you exactly what it plans to do and waits for your go. (Some actions, like trading securities or moving money between accounts, are still off-limits even with approval.)\nIt uses OAuth, so Duet never sees your passwords or sign-in tokens, and you can disconnect any app at any time.\nAnthropic also says it screens for prompt injection, uses a classifier to catch sensitive information before it leaks, and has had internal red teams and an outside firm test it. But as with any agent that can act in your accounts, Duet can make mistakes, so check what it's doing, especially early on.\nClaude Duet is included in Pro, Max, and Ultra plans during the research preview. It shares the same usage limits as the rest of Claude, but it uses them differently from ordinary chat. Background checks count toward your limits, for example, and bigger tasks will run through your limits pretty quickly.\nI'd assumed Duet was running on my Pro plan's limits, but the app didn't make that clear to me, so it's worth keeping an eye on your usage while you test it. My experience was that Duet burned through my session limits quickly.\nIf you hit the same issue, it's worth deciding if a deterministic automation might make more sense for your use case. If your task runs the same way every time, ask Duet to set it up for you on Zapier instead—from then on, it'll run using Zapier tasks instead of tokens.\nClaude Duet is a research preview, and access is by waitlist for U.S. Pro, Max, and Ultra subscribers. It's available as a standalone iOS and Android app and on claude.ai. (I got in through a TestFlight invite.)\nOnce you have access, here's how to get started:\nSign in with your Claude account. You can continue with Google or Apple. Your tools, projects, memory, and skills carry over.\nConnect your apps. Onboarding pushes four first-party connections: Gmail, Slack, Calendar, and the Google Drive suite.\nAdd apps through Zapier. If you already use Zapier with Claude, it shows up in Duet with no extra setup. Zapier gives Duet secure access to the thousands of apps it connects to. You decide which apps to connect, your credentials stay out of the model's context, and you can revoke any connection in one place. You can also build automations that run reliably in the background. If you don't already use Zapier with Claude, add Zapier as a connector, so you can securely connect to every app across your tech stack.\nTurn on notifications. Duet will tell you when a task finishes or needs your input.\nGive it something to do. Text or tell it a task, or describe a page in the Make ta",
+ "id": "R2-2026-11-09",
+ "caption_final": "How Claude Duet automates morning business briefs for small business owners. If you spend the first 30 minutes every morning checking Gmail, Google Drive, and calendar updates manually, Claude Duet offers an alternative. It is an always-on AI agent that runs on its own virtual machine, scanning connected tools overnight to prepare a summary. Before taking sensitive actions like deleting files, sending emails, or making payments, it strictly requires your explicit approval. However, keep in mind that continuous background scans burn through your Claude account session limits fast. For recurring fixed routines, routing tasks through Zapier saves token usage. Comment DUET for setup details.\n\n#ClaudeDuet #BusinessAutomation #AIAgents #Zapier"
+}

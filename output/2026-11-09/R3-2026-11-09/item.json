@@ -1,0 +1,283 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Free SketchUp Alternative: 3D CAD Modeling for Interior Designers and Contractors",
+  "angle": "Run lightweight 3D design and client presentations in the browser for free without heavy GPU hardware.",
+  "audience_problem": "Small interior contractors and architects pay heavy monthly license fees for 3D design software that requires expensive laptops.",
+  "format": "tool_test",
+  "medium": "both",
+  "source_ids": [
+   20
+  ],
+  "evergreen": true,
+  "keywords": [
+   "KetchUp",
+   "open source CAD",
+   "3D design",
+   "contractor tools"
+  ],
+  "scores": {
+   "relevance": 8,
+   "novelty": 9,
+   "hook_potential": 8,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 9,
+   "evidence": 8,
+   "viral": 8
+  },
+  "total": 8.3
+ },
+ "piece": {
+  "hooks": [
+   "Interior aur furniture design ke liye mehenga software mat khareedo.",
+   "3D furniture modeling ke liye free browser tool dekho.",
+   "Without paid software furniture aur cabinet 3D me design karo.",
+   "Free 3D design software sketchup file import karne ke liye.",
+   "Interior contractors ke liye bina account free 3D design tool."
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "Directly targets interior contractors and workshops facing high software licensing costs with a bold cost-saving premise.",
+  "title": "Free Browser-Based 3D CAD Tool for Furniture & Interior Design",
+  "scenes": [
+   {
+    "purpose": "Hook",
+    "narration": "Interior aur furniture design ke liye mehenga software mat khareedo.",
+    "on_screen": "Save Software Money",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Free 3D Modeling Tool",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Tool introduction",
+    "narration": "KetchUp ek free open source 3D tool hai jo direct desktop browser me chalta hai.",
+    "on_screen": "No Paid License Needed",
+    "visual_type": "screenshot",
+    "url": "https://ketchup3d.github.io/app/",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Modeling workflow",
+    "narration": "Isme rectangle draw karke Push Pull se 3D thickness do aur exact dimensions set karo.",
+    "on_screen": "Easy 3D Drawing",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "Draw rectangle outline",
+     "Push Pull for 3D form",
+     "Type exact dimensions",
+     "Inspect with Tape Measure"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "File compatibility",
+    "narration": "Aap SketchUp .skp files import kar sakte ho aur OBJ export kar sakte ho.",
+    "on_screen": "Import SketchUp Files",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Import SketchUp .skp files",
+     "Export Wavefront OBJ models",
+     "Group and component tags",
+     "No cloud account required"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Limitations warning",
+    "narration": "Lekin browser data clear hone par autosave udd sakta hai, isliye project file download karke rakho.",
+    "on_screen": "Important Limit",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "What Works",
+    "right_label": "Honest Limit",
+    "rows": [
+     {
+      "left": "Free browser 3D tool",
+      "right": "Cache clear loses save"
+     },
+     {
+      "left": "Import SketchUp geometry",
+      "right": "Textures not imported"
+     },
+     {
+      "left": "Local autosave",
+      "right": "No cloud storage"
+     }
+    ]
+   },
+   {
+    "purpose": "Call to action",
+    "narration": "Comment KETCHUP, main aapko web link aur user guide DM kar dunga.",
+    "on_screen": "Comment KETCHUP",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Get Direct Link",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "Free 3D CAD modeling software for interior contractors and furniture makers. If you plan cabinets, tables, or workshop layout projects, you do not need paid software subscriptions. KetchUp is an open-source 3D modeling web app built with Rust and WebGPU. It runs directly inside your desktop browser without creating an account. You can draw outlines, use Push/Pull to build 3D geometry, inspect with dimensions, import SketchUp (.skp) geometry, and export OBJ files. Remember that browser data clearing deletes autosaved work, so download your .ketchup project files locally. Comment KETCHUP for the direct link and user guide.",
+  "hashtags": [
+   "#FurnitureDesign",
+   "#InteriorContractor",
+   "#3DCAD",
+   "#WoodworkingIndia"
+  ],
+  "keywords": [
+   "free 3d modeling software",
+   "sketchup alternative free",
+   "3d furniture design browser",
+   "ketchup 3d modeling",
+   "interior contractor 3d design"
+  ],
+  "claims": [
+   {
+    "claim": "KetchUp is a free, open-source 3D modeling app for woodworking and furniture design.",
+    "source_id": 20
+   },
+   {
+    "claim": "KetchUp runs in a desktop browser using WebGPU/WebGL2 or as native apps on Windows, macOS, and Linux without needing an account.",
+    "source_id": 20
+   },
+   {
+    "claim": "Users can draw shapes, use Push/Pull to convert faces into 3D forms, set exact lengths, and inspect dimensions.",
+    "source_id": 20
+   },
+   {
+    "claim": "KetchUp supports importing SketchUp (.skp) geometry and exporting Wavefront OBJ (.obj) files.",
+    "source_id": 20
+   },
+   {
+    "claim": "Work is autosaved locally in the browser, but clearing browser data can remove autosaved work since there is no cloud storage.",
+    "source_id": 20
+   },
+   {
+    "claim": "SketchUp textures, scenes, and some model features are not supported on import.",
+    "source_id": 20
+   }
+  ],
+  "dm_keyword": "KETCHUP",
+  "dm_text": "Here is the details for KetchUp - Free 3D Woodworking & Furniture Design App: Website URL: https://ketchup3d.github.io/app/ How to use it: 1. Open the website in a desktop browser with WebGPU hardware acceleration. No login needed. 2. Draw 2D outlines, then use Push/Pull to create 3D boards, cabinets, or furniture. 3. Enter exact lengths, snap to axes, and organize parts using groups and tags. 4. Go to File -> Import/Export to load SketchUp (.skp) geometry or export OBJ (.obj) files. Note: Textures are not imported. 5. Crucial step: Download your project file via File -> Save (.ketchup) to prevent data loss if browser cache gets cleared."
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 9,
+   "practical_value": 8,
+   "natural_language": 9,
+   "accuracy": 10,
+   "narrative": 9,
+   "visual_integrity": 8,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "KetchUp is a free, open-source 3D modeling app for woodworking and furniture design.",
+    "supported": true,
+    "note": "Fully supported by the source."
+   },
+   {
+    "claim": "KetchUp runs in a desktop browser using WebGPU/WebGL2 or as native apps on Windows, macOS, and Linux without needing an account.",
+    "supported": true,
+    "note": "Fully supported by the source."
+   },
+   {
+    "claim": "Users can draw shapes, use Push/Pull to convert faces into 3D forms, set exact lengths, and inspect dimensions.",
+    "supported": true,
+    "note": "Fully supported by the source."
+   },
+   {
+    "claim": "KetchUp supports importing SketchUp (.skp) geometry and exporting Wavefront OBJ (.obj) files.",
+    "supported": true,
+    "note": "Fully supported by the source."
+   },
+   {
+    "claim": "Work is autosaved locally in the browser, but clearing browser data can remove autosaved work since there is no cloud storage.",
+    "supported": true,
+    "note": "Fully supported by the source."
+   },
+   {
+    "claim": "SketchUp textures, scenes, and some model features are not supported on import.",
+    "supported": true,
+    "note": "Fully supported by the source."
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Scene 2: Displays landing page marketing copy formatted as text instead of an actual screenshot of the 3D editor/canvas UI."
+  ],
+  "issues": [
+   "The reel explains the tool's capabilities clearly, but showing the actual 3D workspace canvas in Scene 2 would give viewers immediate context of how close it looks to SketchUp."
+  ],
+  "fix_instructions": "In Scene 2, replace the landing page text card with an actual screenshot or recording of the KetchUp 3D modeling canvas/editor interface to make the tool demo immediately recognizable to interior contractors."
+ },
+ "rules": [],
+ "reasons": [],
+ "meta": {
+  "duration": 34.2,
+  "voice": "edge",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-09/R3-2026-11-09/try2/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-09/R3-2026-11-09/try2/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-09/R3-2026-11-09/try2/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-09/R3-2026-11-09/try2/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-09/R3-2026-11-09/try2/scene_05.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-09/R3-2026-11-09/try2/scene_06.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   4.69,
+   5.91,
+   6.05,
+   6.01,
+   6.66,
+   4.9
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-09/R3-2026-11-09/try2",
+ "attempt": 2,
+ "approved": true,
+ "hook": "Interior aur furniture design ke liye mehenga software mat khareedo.",
+ "log": [
+  "attempt 1: fail {'hook': 8, 'originality': 9, 'practical_value': 8, 'natural_language': 8, 'accuracy': 10, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['scene 5: compare needs rows']",
+  "attempt 2: PASS {'hook': 8, 'originality': 9, 'practical_value': 8, 'natural_language': 9, 'accuracy': 10, 'narrative': 9, 'visual_integrity': 8, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} []"
+ ],
+ "material": "[20] Hacker News — KetchUp – Open-source SketchUp alternative built with Rust and WebGPU\nURL: https://ketchup3d.github.io/app/\nKetchUp — Free 3D Woodworking & Furniture Design App Skip to content 3D design for your next woodworking project. KetchUp is a free, open-source 3D modeling app for woodworking and furniture design. Plan a shelf, table, cabinet, or workbench with exact measurements before you build. Use it on Windows, macOS, Linux, or right in your desktop browser.\nDownload for Windows ↓ Windows x64 · .exe installer Download for macOS ↓ Apple Silicon · .pkg installer Download for Linux ↓ Linux x64 · AppImage Release notes & all downloads ↗\nFree & open source. No account needed. Made for a desktop browser and a mouse.\nFrom the first line to the finer details.\nStart with a simple shape. Keep the tools you need close, and your model at the center.\nSketch lines, rectangles, circles, and freehand outlines. Turn faces into forms with Push/Pull, then move, scale, offset, and paint.\nSnap to geometry and axes, type exact lengths, and add dimensions. Organize the bigger picture with groups, components, and tags.\nAutosave locally and download portable .ketchup projects. Import SketchUp geometry or export an OBJ to take your model further.\nPlan your furniture before the first cut.\nFor woodworkers, furniture makers, and DIY builders who want to explore a project in 3D.\nDraw board outlines with rectangles and lines, then use Push/Pull to give them thickness. Move and copy geometry to explore shelves, tables, cabinets, workbenches, and other furniture.\nEnter exact lengths, snap to geometry and axes, and use Tape Measure and Dimensions to inspect your design. Orbit around the assembly to review proportions before taking it to the workshop.\nUse groups, reusable components, and tags to organize parts. Save a portable .ketchup project locally, import SketchUp geometry, or export OBJ geometry for another 3D workflow.\nStart with the browser editor or download the desktop app . Read the user guide for modeling instructions and supported workflows.\nThe editor opens with a clean slate. Here’s a good place to start.\nClick one corner, then the opposite corner to create your first face.\nChoose Push/Pull, click the face, move your mouse, and click to finish.\nChoose Orbit and drag to look around. Scroll to zoom; press F to fit your model.\nA desktop browser with hardware acceleration and WebGPU or WebGL2 support. Use a mouse and keyboard for modeling. You can also run KetchUp as a native Windows, macOS, or Linux app.\nYour model is autosaved in this browser on this device. Use File → Save to download a .ketchup project you can keep or open again. Clearing browser data can remove autosaved work, so download projects you want to keep. There’s no cloud storage or account to set up.\nUse File → Import/Export to import SketchUp (.skp) geometry or export Wavefront OBJ (.obj). Imports run locally. SketchUp textures, scenes, and some model features aren’t supported; OBJ export includes geometry without materials.\nYes. KetchUp is open source under the MIT license and written in Rust. Explore the code, read the full guide, or contribute on GitHub.",
+ "id": "R3-2026-11-09",
+ "caption_final": "Free 3D CAD modeling software for interior contractors and furniture makers. If you plan cabinets, tables, or workshop layout projects, you do not need paid software subscriptions. KetchUp is an open-source 3D modeling web app built with Rust and WebGPU. It runs directly inside your desktop browser without creating an account. You can draw outlines, use Push/Pull to build 3D geometry, inspect with dimensions, import SketchUp (.skp) geometry, and export OBJ files. Remember that browser data clearing deletes autosaved work, so download your .ketchup project files locally. Comment KETCHUP for the direct link and user guide.\n\n#FurnitureDesign #InteriorContractor #3DCAD #WoodworkingIndia"
+}

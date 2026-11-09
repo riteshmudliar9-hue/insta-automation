@@ -1,0 +1,260 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Fixing Email Deliverability: Why Outlook is Silently Rejecting Your Business Emails and How DMARC Fixes It",
+  "angle": "Your client quotes and invoices might be dropping into spam without your knowledge because of new authentication rules.",
+  "audience_problem": "Small business emails sent to clients with Microsoft 365 or Outlook domains are bouncing or getting silently junked.",
+  "format": "problem_fix",
+  "medium": "both",
+  "source_ids": [
+   24
+  ],
+  "evergreen": true,
+  "keywords": [
+   "DMARC",
+   "email deliverability",
+   "Outlook spam",
+   "business email"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 8,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 9,
+   "evidence": 9,
+   "viral": 8
+  },
+  "total": 8.61
+ },
+ "piece": {
+  "hooks": [
+   "Client ko bheja quotation bounce ho raha hai? Ye setting turant check karo.",
+   "Microsoft Outlook aapke business emails silent tarike se reject kar raha hai.",
+   "Client ko invoice nahi mila? Microsoft Quietly Rejecting your business emails.",
+   "Aapka customer email kyun miss kar raha hai? Outlook rule dekho.",
+   "Without DMARC record aapke quotations spam mein gir rahe hain."
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "Directly targets an immediate pain point for contractors and shop owners whose invoices or quotations bounce silently.",
+  "title": "Fix Silent Outlook Email Bounces with DMARC",
+  "scenes": [
+   {
+    "purpose": "Hook - highlight silent email bouncing problem",
+    "narration": "Client ko bheja quotation bounce ho raha hai? Ye setting turant check karo.",
+    "on_screen": "Emails Bouncing to Outlook?",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Outlook Silent Email Rejections",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Explain Microsoft DMARC rejection rule",
+    "narration": "Microsoft Outlook hotmail ko bheje emails silently reject kar raha hai agar DMARC record nahi hai.",
+    "on_screen": "No DMARC = Rejected Mail",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "Send Quotation",
+     "Missing DMARC",
+     "Silent 550 Bounce"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Show inconsistent delivery nature",
+    "narration": "Kuch mail chale jaate hain aur kuch 550 error ke saath bounce ho jate hain.",
+    "on_screen": "Inconsistent Delivery Errors",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "With DMARC",
+    "right_label": "Without DMARC",
+    "rows": [
+     {
+      "left": "Delivered OK",
+      "right": "550 Bounce Error"
+     }
+    ]
+   },
+   {
+    "purpose": "Show how to check domain status",
+    "narration": "Apne domain ka DMARC check karne ke liye screen par di dig command chalao.",
+    "on_screen": "Check Your Domain Status",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "dig +short TXT _dmarc.domain",
+     "Look for v=DMARC1",
+     "No output means exposed"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Provide simple DNS fix",
+    "narration": "Fix simple hai: DNS mein ek TXT record v=DMARC1 p=none add kar do.",
+    "on_screen": "Add 1 DNS TXT Record",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "v=DMARC1; p=none",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Call to action comment hook",
+    "narration": "Comment DMARC, main aapko exact DNS setup steps DM kar dunga.",
+    "on_screen": "Comment DMARC For Guide",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Get Free Setup Steps",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "Fix Outlook email deliverability 550 error by publishing DMARC DNS record. If your client invoices or quotations sent to Outlook or Hotmail addresses bounce silently, Microsoft is rejecting mail from domains without DMARC records. Even low-volume senders receive 550 5.7.1 rejection errors. The fix is adding a TXT record v=DMARC1; p=none in your DNS settings, while ensuring SPF or DKIM passes. Have your client emails to Hotmail or Outlook bounced recently? Comment DMARC for setup steps.",
+  "hashtags": [
+   "#EmailDeliverability",
+   "#DMARC",
+   "#OutlookFix",
+   "#SmallBusinessIT",
+   "#DNSRecords"
+  ],
+  "keywords": [
+   "Outlook email bounce DMARC fix",
+   "550 5.7.1 message rejected error",
+   "DMARC DNS TXT record setup",
+   "Email deliverability small business",
+   "Outlook quiet rejection SPF DKIM"
+  ],
+  "claims": [
+   {
+    "claim": "Microsoft's consumer mail services like Outlook.com, Hotmail, Live, and MSN reject email from domains lacking a DMARC record.",
+    "source_id": 24
+   },
+   {
+    "claim": "Affected domain senders receive a 550 5.7.1 Message rejected: Message lacks SPF/DKIM/DMARC Auth Records bounce error.",
+    "source_id": 24
+   },
+   {
+    "claim": "Adding a TXT record v=DMARC1; p=none declares DMARC without altering how mail receivers treat mail on failures.",
+    "source_id": 24
+   },
+   {
+    "claim": "Domain owners can verify DMARC using command dig +short TXT _dmarc.example.com.",
+    "source_id": 24
+   }
+  ],
+  "dm_keyword": "DMARC",
+  "dm_text": "Here is how to fix Outlook email bounces for your domain: 1. Check your DMARC record: open terminal and run dig +short TXT _dmarc.yourdomain.com. 2. If no output appears, open your DNS settings (GoDaddy, Cloudflare, etc.). 3. Add a TXT record: Name: _dmarc, Value: v=DMARC1; p=none. 4. Ensure your domain has valid SPF or DKIM alignment so DMARC evaluation passes."
+ },
+ "review": {
+  "scores": {
+   "hook": 9,
+   "originality": 8,
+   "practical_value": 9,
+   "natural_language": 8,
+   "accuracy": 10,
+   "narrative": 9,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "Microsoft's consumer mail services like Outlook.com, Hotmail, Live, and MSN reject email from domains lacking a DMARC record.",
+    "supported": true,
+    "note": "Supported directly by source material."
+   },
+   {
+    "claim": "Affected domain senders receive a 550 5.7.1 Message rejected: Message lacks SPF/DKIM/DMARC Auth Records bounce error.",
+    "supported": true,
+    "note": "Supported by the source bounce log example."
+   },
+   {
+    "claim": "Adding a TXT record v=DMARC1; p=none declares DMARC without altering how mail receivers treat mail on failures.",
+    "supported": true,
+    "note": "Explicitly stated in source material."
+   },
+   {
+    "claim": "Domain owners can verify DMARC using command dig +short TXT _dmarc.example.com.",
+    "supported": true,
+    "note": "Directly matches dig command in source."
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [],
+  "issues": [
+   "Scene 4 on-screen text shows 'dig +short TXT _dmarc.domain' without explicit indication that '.domain' is a placeholder for the user's actual domain name."
+  ],
+  "fix_instructions": "Specify in Scene 4 screen text or narration that users should replace '_dmarc.domain' with their own domain (e.g., '_dmarc.yourbusiness.com') so non-technical SMB owners do not type literal '.domain'."
+ },
+ "rules": [
+  "scene 3: compare needs rows"
+ ],
+ "reasons": [
+  "scene 3: compare needs rows"
+ ],
+ "meta": {
+  "duration": 34.3,
+  "voice": "edge",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-09/R1-2026-11-09/try4/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-09/R1-2026-11-09/try4/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-09/R1-2026-11-09/try4/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-09/R1-2026-11-09/try4/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-09/R1-2026-11-09/try4/scene_05.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-09/R1-2026-11-09/try4/scene_06.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   5.13,
+   6.71,
+   5.55,
+   4.92,
+   6.9,
+   5.11
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-09/R1-2026-11-09/try4",
+ "attempt": 4,
+ "approved": false,
+ "hook": "Client ko bheja quotation bounce ho raha hai? Ye setting turant check karo.",
+ "log": [
+  "attempt 1: fail {'hook': 8, 'originality': 8, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 8} ['reel is 49.5 s long (max 45 s; aim for 15-35 s)']",
+  "attempt 2: fail {'hook': 8, 'originality': 8, 'practical_value': 9, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} [\"spelling: Scene 4 on-screen graphic step 3: 'Ensure Domain Align' should be 'Ensure Domain Alignment'.\", 'reel is 97.0 s long (max 45 s; aim for 15-35 s)']",
+  "attempt 3: fail {'hook': 8, 'originality': 8, 'practical_value': 8, 'natural_language': 7, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['scene 2: compare needs rows', 'natural_language 7/10 (<8)']",
+  "attempt 4: fail {'hook': 9, 'originality': 8, 'practical_value': 9, 'natural_language': 8, 'accuracy': 10, 'narrative': 9, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} ['scene 3: compare needs rows']"
+ ],
+ "material": "[24] Hacker News — Outlook.com Is Quietly Rejecting Email from Domains Without DMARC\nURL: https://mailroute.net/blog/outlook-rejecting-email-without-dmarc\nOutlook.com Is Quietly Rejecting Email From Domains Without DMARC | MailRoute Skip to content MailRoute Start Free Trial Log In Admin and User Control Panel Spam quarantine, users, and settings · All plans\nBy Thomas A. Johnson · Founder & CEO, MailRoute\nSince November 5, 2026, Microsoft's consumer mail service has been turning away some of the email from domains that don't publish a DMARC record. If your company emails customers, vendors or applicants with outlook.com, hotmail.com, live.com or msn.com addresses, some of that mail may be bouncing right now. Nobody announced it. The fix is one DNS record.\nOutlook.com, Hotmail, Live and MSN now refuse part of the mail from domains that have no DMARC record.\nIt hits ordinary, low-volume senders, not only the bulk senders Microsoft's published rules cover.\nOnly some messages bounce, so \"my mail is getting through\" doesn't mean your domain is safe.\nThe fix is a single TXT record, v=DMARC1; p=none , which changes nothing about how other receivers treat your mail.\nThe sender gets a bounce like this one, followed by a bracketed server name and ID that differ per message:\n550 5.7.1 Message rejected: Message lacks SPF/DKIM/DMARC Auth Records (AS9031519) On the first day, the same rejection came back without the (AS9031519) code:\n550 5.7.1 Message rejected: Message lacks SPF/DKIM/DMARC Auth Records The wording suggests something is badly broken. Usually it isn't. The domains we have seen bounced mostly had working SPF, and many had DKIM too. What they were missing was the DMARC record that ties the two to the From address.\nMicrosoft does have published sender rules. Since May 2025, domains that send more than 5,000 messages a day to Outlook.com have had to pass SPF, DKIM and DMARC, or get 550 5.7.515 Access denied . That rule is aimed at marketers and bulk senders, and most small businesses rightly assumed it didn't apply to them.\nThis new rejection is different in the ways that matter:\nIt reaches small senders. A one-line reply from a small office can bounce.\nIt wasn't announced. As of November 6, Microsoft has published nothing about it: no postmaster notice, no blog post, no service-health entry.\nIt doesn't say what failed. A 5.7.515 bounce lists the SPF, DKIM and DMARC results. This one only says records are missing.\nWe first saw these bounces in our own outbound logs on November 5. Public reports from other administrators started appearing the same day.\nMicrosoft refuses only part of the mail from an affected domain. One message to a Hotmail address goes through, the next one bounces, and a resend may succeed. That inconsistency is what makes this one dangerous: the person who sent the message sees a bounce full of acronyms, assumes a glitch, and moves on. The customer on the other end never knows a message was sent.\nIf your business depends on reaching people at personal addresses (patients, homeowners, applicants, parents, members), the cost is quiet. Invoices that don't arrive, appointment confirmations that never land, replies that look like you ignored someone.\nYour domain is exposed if it has no DMARC record. You can check in a few seconds from any terminal. Replace example.com with your domain:\ndig +short TXT _dmarc.example.com A line starting with \"v=DMARC1 means you have a record. No output means you don't. That's the case this rejection targets.\np=none is the safe starting point. It declares that your domain uses DMARC and asks receivers to send you reports, but it tells them to take no action on failures. Nothing about how Gmail, Yahoo or anyone else treats your mail changes.\nThere is one condition. DMARC passes only when SPF or DKIM passes for the domain in your From address . If neither lines up, a DMARC record alone won't help. We covered how alignment works, and why it's where most setups go wrong, in SPF, DKIM, and DMARC Are No Longer Optional .\nStep-by-step instructions, including the checks for all three records, are in our guide to the Outlook.com 5.7.1 error .\nMail you send through the MailRoute outbound relay already passes both checks DMARC needs:\nSPF. Your mail keeps your own domain as its envelope sender and leaves from servers that include:spf.mailroute.net authorizes.\nDKIM. We sign every outbound message as your domain , using the keys your mr01 , mr02 and mr03 CNAME records point to. Publish all three, so we can rotate keys without your signatures ever breaking.\nFor MailRoute senders, the DMARC record is the whole fix. Once it's in place, Outlook.com sees a domain that authenticates, and DMARC passes on either check. Our guide to publishing DMARC for the MailRoute outbound relay takes you from p=none to enforcement when you're ready.\nIf your mail doesn't go through MailRoute\nThe DMARC record is still the fix, but the service that sends your mail has to pass SPF or DKIM for your domain. Microsoft 365, for example, signs with its own onmicrosoft.com domain until you turn on DKIM for your own domain, and that signature doesn't count toward DMARC. Our sister company mxio has a guide to this error for any sender , with a checker that tests your domain from the page.\nThis is the pattern every major mailbox provider is following. Requirements start with the bulk senders, get announced with a deadline, and then quietly become the baseline for everyone. DMARC at p=none is the floor now, not a best practice.\nThat's not a bad thing. Spoofing is how much of today's phishing and business email compromise starts, and a domain that authenticates is a domain that's much harder to impersonate. The p=none record that gets your mail delivered to Outlook.com today is also the first step to p=reject , which tells receivers to refuse mail that forges your domain.\nIf you'd like a relay that signs your outbound mail correctly from day one, our setup documentation walks through SPF, DKIM and DMARC, and you can start a trial whenever you're ready. Add the record today. It takes a few minutes, and it's one less reason for your mail to disappear.\n30-day free trial. No credit card required. Full protection from day one.",
+ "id": "R1-2026-11-09",
+ "caption_final": "Fix Outlook email deliverability 550 error by publishing DMARC DNS record. If your client invoices or quotations sent to Outlook or Hotmail addresses bounce silently, Microsoft is rejecting mail from domains without DMARC records. Even low-volume senders receive 550 5.7.1 rejection errors. The fix is adding a TXT record v=DMARC1; p=none in your DNS settings, while ensuring SPF or DKIM passes. Have your client emails to Hotmail or Outlook bounced recently? Comment DMARC for setup steps.\n\n#EmailDeliverability #DMARC #OutlookFix #SmallBusinessIT #DNSRecords"
+}
