@@ -2693,7 +2693,7 @@
      "line": "Har subah alag alag apps check karne mein apna aadha ghanta waste karna abhi band karo.",
      "visual_scene": -1,
      "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: medium close-up with a slow, smooth push-in towards his face. Leans in slightly towards the camera with a serious expression. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Har subah alag alag apps check karne mein apna aadha ghanta waste karna abhi band karo.\" No subtitles, no on-screen text, no music, no other people.",
-     "msg_id": null,
+     "msg_id": 467,
      "file": null,
      "got_msg": null
     },
@@ -2704,7 +2704,7 @@
      "line": "Claude Duet overnight aapke apps scan karta hai, par message ya payment se pehle permission maangta hai.",
      "visual_scene": -1,
      "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: medium shot from slightly to his right (about 20 degrees), camera steady. Raises one finger while making a key point about user permissions. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Claude Duet overnight aapke apps scan karta hai, par message ya payment se pehle permission maangta hai.\" No subtitles, no on-screen text, no music, no other people.",
-     "msg_id": null,
+     "msg_id": 468,
      "file": null,
      "got_msg": null
     },
@@ -2714,7 +2714,7 @@
      "cover": 2,
      "desc": "close-up of hands typing on a phone screen on a wooden counter next to paper receipts",
      "prompt": "Create a realistic vertical 9:16 video of about 8 seconds: close-up of hands typing on a phone screen on a wooden counter next to paper receipts. Indian small-business setting, warm natural light, handheld smartphone-camera look, slow subtle camera movement, shallow depth of field. No faces, no readable text, no brand names or logos, no subtitles, no speech, no music.",
-     "msg_id": null,
+     "msg_id": 469,
      "file": null,
      "got_msg": null
     },
@@ -2725,7 +2725,7 @@
      "line": "Limit jaldi khatam hoti hai, isliye Zapier setup karo. Comment DUET, main aapko setup details DM kar dunga.",
      "visual_scene": -1,
      "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: close-up, camera steady at eye level. Smiles warmly and points directly down towards the comment area. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Limit jaldi khatam hoti hai, isliye Zapier setup karo. Comment DUET, main aapko setup details DM kar dunga.\" No subtitles, no on-screen text, no music, no other people.",
-     "msg_id": null,
+     "msg_id": 470,
      "file": null,
      "got_msg": null
     }
@@ -2840,7 +2840,9 @@
    ],
    "composed_from": null,
    "hook_title": "Stop Checking Morning Apps",
-   "cta": "Comment DUET for setup guide"
+   "cta": "Comment DUET for setup guide",
+   "prompts_sent": true,
+   "prompts_sent_at": 1794233065
   }
  },
  {
