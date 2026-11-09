@@ -2678,9 +2678,11 @@
    "brand_consistency": 9,
    "publish_readiness": 9
   },
-  "status": "queued",
+  "status": "published",
   "produced_at": 1794184726,
-  "log": [],
+  "log": [
+   "2026-11-09T21:59:19.643833+05:30 published https://www.instagram.com/reel/Dfhw0aLgTlR/"
+  ],
   "dm_keyword": "DUET",
   "dm_text": "Here is how Claude Duet works for daily business updates: 1. Always-On Background Agent: Runs on Anthropic virtual machine with a browser, so your phone or laptop does not need to stay on. 2. Safety Guardrails: Reads and drafts automatically, but requires manual approval before sending messages, making payments, signing, or deleting files. 3. App Connectors: Connects directly with Gmail, Google Drive, Calendar, and Slack, or 9,000+ apps via Zapier. 4. Token Limitation: Background checks consume your Claude session limits fast. 5. Zapier Alternative: For fixed daily tasks, ask Duet to set them up on Zapier to run on Zapier tasks instead of Claude tokens.",
   "presenter": {
@@ -2843,7 +2845,10 @@
    "cta": "Comment DUET for setup guide",
    "prompts_sent": true,
    "prompts_sent_at": 1794233065
-  }
+  },
+  "media_id": "17874093885646285",
+  "permalink": "https://www.instagram.com/reel/Dfhw0aLgTlR/",
+  "published_at": "2026-11-09T21:59:19.643833+05:30"
  },
  {
   "id": "R3-2026-11-09",
