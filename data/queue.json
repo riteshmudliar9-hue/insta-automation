@@ -2988,7 +2988,7 @@
      "line": "Messy sales sheets se pareshan ho? Sirf teen steps mein apna business ka visual dashboard banao.",
      "visual_scene": -1,
      "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: close-up, camera steady at eye level. Points directly at the camera with a friendly, serious expression. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Messy sales sheets se pareshan ho? Sirf teen steps mein apna business ka visual dashboard banao.\" No subtitles, no on-screen text, no music, no other people.",
-     "msg_id": null,
+     "msg_id": 484,
      "file": null,
      "got_msg": null
     },
@@ -2999,7 +2999,7 @@
      "line": "Jab 100 customers ho jaye, toh Excel mein Power Query use karo aur SUMIFS se data clean.",
      "visual_scene": -1,
      "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: medium close-up with a slow, smooth push-in towards his face. Leans in slightly and lowers his voice for emphasis. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Jab 100 customers ho jaye, toh Excel mein Power Query use karo aur SUMIFS se data clean.\" No subtitles, no on-screen text, no music, no other people.",
-     "msg_id": null,
+     "msg_id": 485,
      "file": null,
      "got_msg": null
     },
@@ -3009,7 +3009,7 @@
      "cover": 2,
      "desc": "close-up of a shopkeeper's hands typing on a laptop next to a stack of paper invoices on a wooden counter",
      "prompt": "Create a realistic vertical 9:16 video of about 8 seconds: close-up of a shopkeeper's hands typing on a laptop next to a stack of paper invoices on a wooden counter. Indian small-business setting, warm natural light, handheld smartphone-camera look, slow subtle camera movement, shallow depth of field. No faces, no readable text, no brand names or logos, no subtitles, no speech, no music.",
-     "msg_id": null,
+     "msg_id": 486,
      "file": null,
      "got_msg": null
     },
@@ -3020,7 +3020,7 @@
      "line": "Comment DASHBOARD, main aapko Excel KPI dashboard set up karne ke full steps DM kar dunga.",
      "visual_scene": -1,
      "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: medium shot from slightly to his left (about 20 degrees), camera steady. Smiles and shrugs lightly while gesturing with an open hand. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Comment DASHBOARD, main aapko Excel KPI dashboard set up karne ke full steps DM kar dunga.\" No subtitles, no on-screen text, no music, no other people.",
-     "msg_id": null,
+     "msg_id": 487,
      "file": null,
      "got_msg": null
     },
@@ -3030,7 +3030,7 @@
      "cover": 3,
      "desc": "over-the-shoulder shot of a phone on a shop counter lighting up with new message notifications",
      "prompt": "Create a realistic vertical 9:16 video of about 8 seconds: over-the-shoulder shot of a phone on a shop counter lighting up with new message notifications. Indian small-business setting, warm natural light, handheld smartphone-camera look, slow subtle camera movement, shallow depth of field. No faces, no readable text, no brand names or logos, no subtitles, no speech, no music.",
-     "msg_id": null,
+     "msg_id": 488,
      "file": null,
      "got_msg": null
     }
@@ -3146,7 +3146,9 @@
    ],
    "composed_from": null,
    "hook_title": "Stop Messy Sales Sheets",
-   "cta": "Comment DASHBOARD for the steps"
+   "cta": "Comment DASHBOARD for the steps",
+   "prompts_sent": true,
+   "prompts_sent_at": 1794319089
   }
  }
 ]
