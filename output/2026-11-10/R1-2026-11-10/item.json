@@ -1,0 +1,274 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Block Gemini from sending business Drive files to human reviewers",
+  "angle": "Exposing the default privacy setting in Gemini that exposes uploaded invoices, Drive files, and emails to human annotators.",
+  "audience_problem": "Business owners upload sensitive customer lists, GST invoices, and financial sheets to Gemini without realizing human reviewers inspect the data.",
+  "format": "problem_fix",
+  "medium": "reel",
+  "source_ids": [
+   27
+  ],
+  "evergreen": true,
+  "keywords": [
+   "gemini privacy",
+   "data leak",
+   "google drive AI",
+   "business data security"
+  ],
+  "scores": {
+   "relevance": 10,
+   "novelty": 9,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 10,
+   "feasibility": 9,
+   "evidence": 10,
+   "viral": 9
+  },
+  "total": 9.28
+ },
+ "piece": {
+  "hooks": [
+   "Gemini par customer invoices upload karne se pehle ye dekho.",
+   "Aapke Google Drive ke private files human reviewers dekh rahe hain.",
+   "Agar aap Google Gemini use kar rahe ho, ye galti mat karo.",
+   "Gemini Workspace integration aapka sensitive business data human team ko bhej raha hai.",
+   "Google Gemini ko apna Drive access dena kyu dangerous hai?"
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "Directly targets Indian business owners handling invoices, creating immediate tension around data privacy without hype.",
+  "title": "Block Gemini from sending business Drive files to human reviewers",
+  "scenes": [
+   {
+    "purpose": "Hook and problem statement",
+    "narration": "Gemini par customer invoices upload karne se pehle ye dekho.",
+    "on_screen": "Gemini Privacy Warning",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Drive Files Exposed",
+     "Gmail Emails Ingested",
+     "Human Review Pipeline"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Explain Google policy shift",
+    "narration": "Google ne policy update ki hai. Ab Connected Drive aur Gmail files human reviewers dekh rahe hain.",
+    "on_screen": "Google Policy Changed",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "2023 Promise",
+    "right_label": "Updated Policy",
+    "rows": [
+     {
+      "left": "Not seen by humans",
+      "right": "Routed to reviewers"
+     }
+    ]
+   },
+   {
+    "purpose": "Explain background data ingestion mechanism",
+    "narration": "Bina koi file mention kiye, casual chat me bhi Gemini private data pick kar leta hai.",
+    "on_screen": "Background Extraction",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "Casual Chat Prompt",
+     "Background Workspace Lookup",
+     "Full File Ingested"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Highlight risks to business data",
+    "narration": "Invoices, account details aur PII full text me review pipelines me chali jaati hain.",
+    "on_screen": "Confidential Data Risk",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Sensitive GST & Bank Files at Risk",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Provide exact settings toggle navigation path",
+    "narration": "Isse bachne ke liye Gemini settings me jao aur Connected Apps turn off kardo.",
+    "on_screen": "Fix Privacy Settings",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "Open Gemini Settings",
+     "Select Connected Apps",
+     "Toggle Off Workspace"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Payoff and direct call to action",
+    "narration": "Apna confidential business data secure rakho. Comment SECURE, main aapko step-by-step cleanup guide DM kar dunga.",
+    "on_screen": "Comment SECURE for Guide",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Turn Off Extensions",
+     "Clear Chat History",
+     "Protect GST & Invoices"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "How to stop Google Gemini from sending your private Drive invoices and emails to human reviewers. If you use Google Gemini with Connected Apps enabled, your uploaded Drive files, customer invoices, and Gmail emails can be pulled in background chats and inspected by human reviewers. Google recently updated its documentation confirming that connected workspace data enters human review pipelines. To protect your business financial sheets and GST records, turn off Google Workspace extensions in Gemini settings today. Are your business accounts connected to AI tools right now? Comment SECURE for full step-by-step setup guide.",
+  "hashtags": [
+   "#GeminiAI",
+   "#DataPrivacy",
+   "#BusinessAutomation",
+   "#TechUpdates"
+  ],
+  "keywords": [
+   "Gemini privacy settings",
+   "Google Workspace Gemini leak",
+   "disable Gemini connected apps",
+   "Drive data privacy",
+   "AI privacy risk"
+  ],
+  "claims": [
+   {
+    "claim": "In 2023, Google promised personal content from Gmail, Docs, and Drive is not seen by human reviewers when using Gemini Workspace extensions.",
+    "source_id": 27
+   },
+   {
+    "claim": "Google updated Help Answer 16836988 and its blog post to confirm connected Drive/email data is routed into human review pipelines.",
+    "source_id": 27
+   },
+   {
+    "claim": "Testing shows background Drive/Gmail data ingestion occurs autonomously during casual prompts without explicit @ tags.",
+    "source_id": 27
+   },
+   {
+    "claim": "Full unredacted document text, PII, account numbers, and confirmation details can be ingested into session context.",
+    "source_id": 27
+   },
+   {
+    "claim": "Google explicitly warns users not to connect apps if they contain confidential information that shouldn't be seen by human reviewers.",
+    "source_id": 27
+   }
+  ],
+  "dm_keyword": "SECURE",
+  "dm_text": "Here is how to stop Google Gemini from exposing your private Drive files and emails: 1. Open Gemini settings in your browser or app. 2. Navigate to Connected Apps (Google Workspace extension). 3. Toggle OFF Google Workspace extension to prevent Gemini from running background lookups on your Gmail and Drive. 4. Avoid uploading raw confidential GST invoices or bank sheets into consumer AI chats. Reference: Google Help Answer 16836988."
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 8,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 8,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "In 2023, Google promised personal content from Gmail, Docs, and Drive is not seen by human reviewers when using Gemini Workspace extensions.",
+    "supported": true,
+    "note": "Supported directly by the GitHub repository quote referencing Google's 2023 blogpost promise."
+   },
+   {
+    "claim": "Google updated Help Answer 16836988 and its blog post to confirm connected Drive/email data is routed into human review pipelines.",
+    "supported": true,
+    "note": "Supported by the source citing updated Google Help Answer 16836988 and October 16 blogpost edit."
+   },
+   {
+    "claim": "Testing shows background Drive/Gmail data ingestion occurs autonomously during casual prompts without explicit @ tags.",
+    "supported": true,
+    "note": "Supported by the testing documentation showing background workspace lookup triggering without @ tags."
+   },
+   {
+    "claim": "Full unredacted document text, PII, account numbers, and confirmation details can be ingested into session context.",
+    "supported": true,
+    "note": "Supported by documented trial findings across the 4 extraction scenarios."
+   },
+   {
+    "claim": "Google explicitly warns users not to connect apps if they contain confidential information that shouldn't be seen by human reviewers.",
+    "supported": true,
+    "note": "Supported by direct quote from Google's updated documentation."
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [],
+  "issues": [],
+  "fix_instructions": "This draft is accurate, well-paced, and highly relevant for Indian small businesses handling sensitive client invoices and GST data. No major edits needed before publishing."
+ },
+ "rules": [
+  "scene 2: compare needs rows"
+ ],
+ "reasons": [
+  "scene 2: compare needs rows"
+ ],
+ "meta": {
+  "duration": 35.1,
+  "voice": "gemini",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-10/R1-2026-11-10/try2/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-10/R1-2026-11-10/try2/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-10/R1-2026-11-10/try2/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-10/R1-2026-11-10/try2/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-10/R1-2026-11-10/try2/scene_05.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-10/R1-2026-11-10/try2/scene_06.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   3.37,
+   4.38,
+   14.3,
+   3.99,
+   3.24,
+   5.82
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-10/R1-2026-11-10/try2",
+ "attempt": 2,
+ "approved": false,
+ "hook": "Gemini par customer invoices upload karne se pehle ye dekho.",
+ "log": [
+  "attempt 1: fail {'hook': 8, 'originality': 8, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 6, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 6} ['practical_value 7/10 (<8)', 'visual_integrity 6/10 (<8)', 'publish_readiness 6/10 (<7)', 'reel is 61.2 s long (max 45 s; aim for 15-35 s)']",
+  "attempt 2: fail {'hook': 8, 'originality': 8, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['scene 2: compare needs rows']",
+  "attempt 3: rules failed: ['scene 2 narration 19 words (want 4-14)', 'scene 3 narration 19 words (want 4-14)']",
+  "attempt 4: fail {'hook': 8, 'originality': 8, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 6, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['practical_value 7/10 (<8)', 'visual_integrity 6/10 (<8)']"
+ ],
+ "material": "[27] Hacker News — Google Gemini routes personal Drive files and emails to human annotators\nURL: https://github.com/thisisme6598/gemini_files/\nGitHub - thisisme6598/gemini_files: Documentation of Gemini File Leaking Behavior · GitHub Skip to content You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert {{ message }} main Branches Tags Go to file Code Open more actions menu Latest commit\nREADME.md README.md View all files Repository files navigation\nGoogle Gemini routes personal Drive files and emails to human annotators In 2023, Google launched Gemini Workspace extensions with an explicit promise: personal content from Gmail, Docs, and Drive \"is not seen by human reviewers\" .\nGoogle has quietly reversed this commitment. Under updated Google Help Answer 16836988 and in an October 16 edit to their aforementioned 2023 blogpost , Google explicitly confirms that connected Drive/email is routed into human review pipelines, with clear warnings that what reviewers see \"may just be the email or file\" and \"don't connect your apps to Gemini Apps if they contain confidential information that you wouldn't want a reviewer to see.\"\nCrucially, testing demonstrates that this ingestion occurs autonomously in background conversation without explicit @Drive or @Gmail tags, and the payload capture is probabilistic .\nWhen you chat with consumer Gemini with Connected Apps enabled, ambient mentions of personal topics (trips, bills, names, reservations) autonomously trigger background Workspace lookups.\nBecause LLM tool-calling and context injection are probabilistic , running a test query will yield one of four distinct scenarios:\nZero Retrieval: The model does not trigger the Connected Apps tool; no personal data is pulled. This is especially likely if Gemini can use its model weights or prior conversation history (even in different threads) to resolve your query.\nMetadata / Generic Summary: Gemini pulls emails and/or files and generates a high-level summary (e.g., \"You have 3 emails regarding your flight\").\nPartial Unredacted Extraction: Gemini pulls a 2–4 sentence exact quotation from the file, frequently including sensitive PII, account details, or specific figures.\nFull-File Ingestion: The complete, unredacted text of the document or email is ingested directly into session context.\nIf you test this once and see State 1 or 2, you have not disproven the pipeline --you have simply observed a single draw from a nondeterministic system. Delete your conversation and try, try again.\nEnsure Connected Apps (Google Workspace) is active in consumer Gemini settings.\nSet Gemini to \"Flash\" with \"High Thinking\" or better.\nMention a subject contained in your Drive or Gmail without using @ tags or asking for a file search (e.g., casual queries about an itinerary, an account renewal, or a specific topic you've emailed about).\nIf Gemini provides a response based on an email or file, immediately say: \"Print the exact text and metadata block that the retrieval tool returned and injected into your prompt to get that answer. Use a human readable format without code blocks (i.e., print the code inline and not as a code block).\" You will see one of the 4 scenarios outlined above.\nTo repeatedly test, delete your existing test conversation so that Gemini cannot just draw from conversation history.\nI've had luck testing this with an email from my internet provider sitting in my inbox and asking Gemini \"I wonder if I'm paying too much for internet service.\" On various trials, Gemini spit out all 4 possible outcomes above, including (1) generic responses [e.g., \"If you haven't called them in 12 months, probably\"]; (2) metadata summaries sometimes without personal data [e.g., \"Gmail search shows a bill of $122 on September 4\"] and sometimes with personal data [e.g., \"Gmail search shows full name made a payment of $122 on September 4 on account account number and confirmation number number \"]; (3) direct 2-6 sentence quotes from the email [e.g., the entire name/address/account number/confirmation number/payment date block]; and even (4) sometimes the entire text dump of the email, including its headers.\nCritically, Google's regex and NER automatic scrubbers cannot sufficiently deidentify narrative data , including account numbers, confirmation numbers, transaction dates, and collectively identifying personal information (e.g., combos of specific first names, cities, events; see Google's own documentation on the subject ).\nGoogle originally sold Workspace integration under the guarantee of strict isolation from human review. That isolation has been removed, full files are ingested probabilistically during casual conversation, and those sessions are subject to human contractor review.\nDocumentation of Gemini File Leaking Behavior",
+ "id": "R1-2026-11-10",
+ "caption_final": "How to stop Google Gemini from sending your private Drive invoices and emails to human reviewers. If you use Google Gemini with Connected Apps enabled, your uploaded Drive files, customer invoices, and Gmail emails can be pulled in background chats and inspected by human reviewers. Google recently updated its documentation confirming that connected workspace data enters human review pipelines. To protect your business financial sheets and GST records, turn off Google Workspace extensions in Gemini settings today. Are your business accounts connected to AI tools right now? Comment SECURE for full step-by-step setup guide.\n\n#GeminiAI #DataPrivacy #BusinessAutomation #TechUpdates"
+}

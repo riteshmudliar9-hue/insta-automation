@@ -1,0 +1,236 @@
+{
+ "kind": "carousel",
+ "idea": {
+  "idea": "5 low-lift administrative micro-automations that save 5 hours every week",
+  "angle": "A saveable checklist of simple cross-app micro-triggers that automate routine customer record updating, lead logging, and payment notices.",
+  "audience_problem": "Small business owners spend over an hour every day doing repetitive copy-paste administrative work between tools.",
+  "format": "checklist",
+  "medium": "carousel",
+  "source_ids": [
+   63
+  ],
+  "evergreen": true,
+  "keywords": [
+   "zapier wins",
+   "micro automations",
+   "admin time saver",
+   "office hacks"
+  ],
+  "scores": {
+   "relevance": 10,
+   "novelty": 8,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 10,
+   "feasibility": 10,
+   "evidence": 9,
+   "viral": 9
+  },
+  "total": 9.12
+ },
+ "piece": {
+  "hooks": [
+   "5 simple automations to save 5 hours every week",
+   "Stop wasting 5 hours a week on manual admin work",
+   "5 repetitive tasks you should stop doing manually today"
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "It promises a specific, quantifiable benefit (5 hours saved) which is highly attractive to busy Indian small business owners who feel overwhelmed by admin.",
+  "slides": [
+   {
+    "kind": "cover",
+    "title": "5 simple automations to save 5 hours every week",
+    "subtitle": "Stop copy-pasting lead data and chasing supplier payments manually.",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "checklist",
+    "title": "Automate these 5 weekly chores",
+    "subtitle": "Stop doing these by hand and use a simple trigger-action flow.",
+    "body": "Your admin work should run in the background. If you do it weekly, automate it.",
+    "items": [
+     "Log new WhatsApp leads into your master sales sheet",
+     "Save email attachments to Google Drive folders automatically",
+     "Send payment reminders for invoices due in 3 days",
+     "Sync new customer contact details to your CRM",
+     "Generate a weekly report of all closed orders"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "steps",
+    "title": "How to set up your first automation",
+    "subtitle": "Don't overcomplicate it. Use this simple 4-step recipe.",
+    "body": "Describe the chore to your AI tool exactly as you would to a new staff member.",
+    "items": [
+     "Pick a task you repeat every single week",
+     "Describe the goal to the AI agent clearly",
+     "Set the automation to run on a schedule",
+     "Send the final result to Slack or email"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "mythfact",
+    "title": "Common automation misconceptions",
+    "subtitle": "Automation is not just for software engineers.",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "Only software engineers can build these automated workflows.",
+    "fact": "Most people building these automations today are not engineers. Anyone can do it by describing the task in plain words.",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "quote",
+    "title": "The golden rule",
+    "subtitle": "A tip from a salesperson who built 6 automations.",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "Results become more useful when Sidekick sends them to you on a schedule, in a place you already look, so you don't have to remember to ask.",
+    "attribution": "Zapier Blog"
+   },
+   {
+    "kind": "summary",
+    "title": "Your weekly plan",
+    "subtitle": "Start small to save time.",
+    "body": "Focus on the tasks that fill your week but show nothing for it afterward.",
+    "items": [
+     "Identify your biggest time-wasting weekly chore",
+     "Describe it to an AI agent as a request",
+     "Schedule the output to your preferred inbox",
+     "Test it once before running it live"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   }
+  ],
+  "caption": "Stop wasting 5 hours every week on copy-pasting customer details and chasing invoices. Most small business owners spend over an hour every day on repetitive manual admin. You can automate lead logging, file organization, and payment reminders without writing a single line of code. Just describe the task to an AI agent like you would to a new staff member, set a schedule, and let it send the result to your email or Slack. Which of your weekly admin tasks would you love to hand off first? Comment AUTOMATE below to get my list of 5 simple workflows to start with. #smallbusinessindia #businessautomation #productivitytips #smbowner #digitizeyourbusiness",
+  "hashtags": [
+   "#smallbusinessindia",
+   "#businessautomation",
+   "#productivitytips",
+   "#smbowner",
+   "#digitizeyourbusiness"
+  ],
+  "keywords": [
+   "small business automation",
+   "business task automation",
+   "ai for small business",
+   "automate invoice reminders",
+   "save time in business"
+  ],
+  "claims": [
+   {
+    "claim": "Small business owners spend over an hour every day doing repetitive copy-paste administrative work.",
+    "source_id": 63
+   },
+   {
+    "claim": "The person who built automations in the Zapier study was not an engineer.",
+    "source_id": 63
+   },
+   {
+    "claim": "Results are more useful when sent on a schedule to a place the user already checks.",
+    "source_id": 63
+   }
+  ]
+ },
+ "review": {
+  "scores": {
+   "hook": 7,
+   "originality": 6,
+   "practical_value": 6,
+   "natural_language": 7,
+   "accuracy": 7,
+   "narrative": 7,
+   "visual_integrity": 9,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 6
+  },
+  "claims": [
+   {
+    "claim": "Small business owners spend over an hour every day doing repetitive copy-paste administrative work.",
+    "supported": false,
+    "note": "The source material discusses time wasted on weekly admin chores, but does not state that SMB owners spend over an hour every day doing this."
+   },
+   {
+    "claim": "In most of the Zapier examples, the person who built the automation was not an engineer.",
+    "supported": true,
+    "note": "Supported by the source text: 'and in most of them, the person who built it wasn't an engineer.'"
+   },
+   {
+    "claim": "Results become more useful when sent on a schedule to a place you already look.",
+    "supported": true,
+    "note": "Directly quoted from the salesperson's advice in the Zapier source text."
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [],
+  "issues": [
+   "The claim in the caption ('Most small business owners spend over an hour every day...') is unverified and not supported by the source document.",
+   "The prompt recipe on Slide 3 is somewhat abstract ('Describe the goal to the AI agent clearly'); providing a concrete example prompt or tool name (like Zapier AI / Sidekick) would make it far more actionable."
+  ],
+  "fix_instructions": "Remove or reframe the unsourced statistic in the caption about small business owners spending over an hour daily on admin. On Slide 3, include a concrete prompt format or tool example to give viewers clearer actionable value."
+ },
+ "rules": [],
+ "reasons": [
+  "hook 7/10 (<8)",
+  "originality 6/10 (<8)",
+  "practical_value 6/10 (<8)",
+  "natural_language 7/10 (<8)",
+  "accuracy 7/10 (<8)",
+  "narrative 7/10 (<8)",
+  "publish_readiness 6/10 (<7)",
+  "unsupported claims: Small business owners spend over an hour every day doing repetitive copy-paste administrative work."
+ ],
+ "meta": {
+  "ai_visuals": false,
+  "slides": 6
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-10/C1-2026-11-10/try2",
+ "attempt": 2,
+ "approved": false,
+ "hook": "5 simple automations to save 5 hours every week",
+ "log": [
+  "attempt 1: fail {'hook': 6, 'originality': 6, 'practical_value': 6, 'natural_language': 6, 'accuracy': 8, 'narrative': 7, 'visual_integrity': 8, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 6} ['hook 6/10 (<8)', 'originality 6/10 (<8)', 'practical_value 6/10 (<8)', 'natural_language 6/10 (<8)']",
+  "attempt 2: fail {'hook': 7, 'originality': 6, 'practical_value': 6, 'natural_language': 7, 'accuracy': 7, 'narrative': 7, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 6} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 6/10 (<8)', 'natural_language 7/10 (<8)']",
+  "attempt 3: fail {'hook': 5, 'originality': 5, 'practical_value': 5, 'natural_language': 6, 'accuracy': 9, 'narrative': 4, 'visual_integrity': 6, 'pacing': 5, 'brand_consistency': 5, 'publish_readiness': 4} ['hook 5/10 (<8)', 'originality 5/10 (<8)', 'practical_value 5/10 (<8)', 'natural_language 6/10 (<8)']"
+ ],
+ "material": "[63] Zapier Blog — AI automation examples: 5 real things Zapier Sidekick has done\nURL: https://zapier.com/blog/ai-automation-examples-sidekick\nA few months into our internal pilot, the Sidekick team noticed that most of what reached them was bug reports. Someone started a channel just for wins, a place where people could post what Sidekick had done for them. It filled up faster than anyone expected.\nWe read through it, along with the pilot feedback threads and our own team channels, and picked five stories that made us stop scrolling. Everything below happened at Zapier or with a Zapier customer, and where people measured something, we kept their numbers.\n1. Every Enterprise deal gets its own breakdown the morning after it closes\nFor most of a year, our product marketing team posted a weekly analysis of why we won or lost a deal, along with a map of how the deal unfolded. A person built each one by hand whenever they remembered to.\nNow a single Next Gen Zap handles it. When an Enterprise deal closes, the Zap pulls all the deal facts, runs an analysis, and saves the report to a Sidekick page. The next morning, the team has an answer to why we won, who was in the room, what put the deal at risk, and where the next expansion could come from.\nThe report costs about 55 cents, and it runs the moment a deal closes without anyone nudging it. By the time the builder shared it, the page held 58 breakdowns that the team could filter by theme, competitor, quarter, or deal size. It started as a weekly chore and became something the whole company can search.\n2. A BDR turned out-of-office replies into a contact database in a week\nAnyone who sends outbound email knows the pile of out-of-office replies that comes back. The only business development rep on one of our teams noticed that those replies are full of useful information, such as a note that someone has left a role and who replaced them, or a colleague to contact instead. The volume was too high to read by hand, so the information went to waste.\nIn about a week, working entirely inside Sidekick, that rep built a pipeline of Next Gen Zaps and Tables. One step catches the reply and separates bounces from human responses. Another uses AI to classify the reply and pull out names, titles, and contact details. The last step writes the results to five connected tables, with scheduled rollups for the week and month and a nightly check on retention.\nThe builder's summary was that the Next Gen Zaps \"worked amazingly\" and that they never had to leave Sidekick. It's an early version, and the next phase needs a review of how the data can be used, but the idea works: a pile of replies nobody had time to read became a record of who to contact next.\n3. Nearly 200 calendar invites for a company-wide listening tour\nWhen our CEO and CTO decided to hold 10-minute conversations with a large part of the Build organization, someone had to schedule them across time zones, vacations, and busy weeks.\nA teammate had already built a Sidekick Slack app that books meetings for whoever you tag in a message. The executive assistant team took it further for the tour. The tool scheduled most of the calls, determined which days suited each zone, and flagged time zones, working hours, and people who were out of the office.\nOne of the people who used it said it made a real difference for two reasons. It removed the grind and mapped out the schedule in a way that would have taken far longer to work out by hand. Scheduling is the kind of work that fills a week and shows nothing for it afterward, so seeing it handled in one tool is a pleasant surprise.\n4. A team went from about 25% to about 75% coverage in two weeks\nOur observability team was building an AI feature of its own and moved the work onto Sidekick. After about two weeks, they went from roughly 25% to roughly 75% coverage on their target use cases, which they described as a huge step toward launching the feature.\nThey named what made the difference. Sidekick's code execution gave their assistant a way to do real work. File handling enabled them to render files for users. And the refinements the Sidekick team had already made to the agent's decision-making came along for free.\nThere were quieter benefits too. They now work within boundaries and evaluation practices they didn't have before, which keeps them from relearning lessons the Sidekick team already learned, and they get better knowledge sharing because they're no longer building alone.\n5. Customers outside Zapier archived 800 Slack channels and sped up spreadsheet work\nSome of the best stories come from outside Zapier. A customer using Sidekick told us they bulk archived more than 800 inactive Slack channels with it. They had spent months trying to work out how to do that through the Slack API.\nAnother user mostly uses Sidekick for spreadsheet work and scripts and told the team, without being asked, that it has been awesome a couple of times now, saving so much time.\nBoth of them are doing real work with Sidekick because it connects to the apps they already use through Zapier.\nLook at the five, and a pattern shows up. Each one began with a chore that someone described in plain words. Some ended up running on their own, on a schedule or a trigger, connected to the tools people already use. And in most of them, the person who built it wasn't an engineer.\nOne salesperson who built six connected automations over three weeks gave advice that applies to all of them. Results become more useful when Sidekick sends them to you on a schedule, in a place you already look, so you don't have to remember to ask.\nPick something you do every week that you'd happily hand off. Describe it to Sidekick the way you'd explain it to a new teammate, and ask it to build the automation. Once it works, ask it to run on a schedule and send the result to Slack. That's the whole recipe behind every story above. If you want more ideas first, see these 12 AI automation examples from other teams.\nGet AI and automation tips, delivered straight to your inbox\nWe’ll email you 1-2 times per week—and never share your information.\nJay Ayinla is a senior full stack engineer on Zapier's engineering team. He builds Sidekick, an AI workspace that connects to more than 9,000 apps. He likes the hard questions that come with AI agents: design, cost, ethics, scalability, and user experience.\n88% of enterprises now use or test AI agents, but most still need a human in the loop\nHow much should an AI decide without asking you first?\nHow much should an AI decide without asking...\nGrok automation: How to use the Zapier Grok integration (Grok 4.7, Grok Bot, and more)\nGrok automation: How to use the Zapier Grok...\nWhat is AI transformation in 2027? How to build a strategy for your business\nWhat is AI transformation in 2027? How to...\nThe best AI agent builder software in 2026\nThe best AI agent builder software in 2026\nMuse Wonder and Muse Spark: A guide to Meta's AI models\nMuse Wonder and Muse Spark: A guide to...\nYour agent builds it. Zapier keeps it running. Build automations across 10,000+ apps.",
+ "id": "C1-2026-11-10",
+ "caption_final": "Stop wasting 5 hours every week on copy-pasting customer details and chasing invoices. Most small business owners spend over an hour every day on repetitive manual admin. You can automate lead logging, file organization, and payment reminders without writing a single line of code. Just describe the task to an AI agent like you would to a new staff member, set a schedule, and let it send the result to your email or Slack. Which of your weekly admin tasks would you love to hand off first? Comment AUTOMATE below to get my list of 5 simple workflows to start with.\n\n#smallbusinessindia #businessautomation #productivitytips #smbowner #digitizeyourbusiness"
+}

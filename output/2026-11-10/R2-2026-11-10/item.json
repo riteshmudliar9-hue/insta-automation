@@ -1,0 +1,278 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Extract handwritten bill data into clean tables using upgraded vision reasoning AI",
+  "angle": "Demonstrating how advanced multi-modal vision models accurately read messy handwritten Indian receipts and spec sheets that traditional OCR fails on.",
+  "audience_problem": "Standard invoice scanners fail completely when reading handwritten supplier notes, regional text, or crumpled bill receipts.",
+  "format": "demo",
+  "medium": "reel",
+  "source_ids": [
+   4,
+   15,
+   21,
+   24
+  ],
+  "evergreen": true,
+  "keywords": [
+   "claude fable",
+   "vision AI",
+   "handwritten receipt",
+   "invoice OCR"
+  ],
+  "scores": {
+   "relevance": 10,
+   "novelty": 8,
+   "hook_potential": 9,
+   "retention": 9,
+   "save_share": 9,
+   "feasibility": 9,
+   "evidence": 10,
+   "viral": 9
+  },
+  "total": 9.15
+ },
+ "piece": {
+  "hooks": [
+   "Handwritten bill data read karne mein normal OCR fail ho toh ye dekho.",
+   "Messy receipts aur vision data ke liye Claude Fable 5.2 update aaya hai.",
+   "Basic bill scanners fail hote hain toh heavy vision AI kab use karein?",
+   "Invoices aur chart reading ke liye AI vision upgrade ka sach dekho.",
+   "Handwritten bill reading ke liye ye heavy AI mehenga pad sakta hai."
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "Directly identifies a daily friction point for trade business owners (handwritten supplier bills failing standard OCR) and promises a concrete fix.",
+  "title": "Extract Handwritten Bill Data Using Upgraded Vision AI",
+  "scenes": [
+   {
+    "purpose": "Hook the viewer with a common operational frustration.",
+    "narration": "Handwritten bill data read karne mein normal OCR fail ho toh ye dekho.",
+    "on_screen": "Messy Bill OCR Fix",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Handwritten Bills vs AI",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Introduce the tool capable of complex vision reasoning.",
+    "narration": "Messy receipts aur charts ke liye Anthropic ne Claude Fable 5.2 launch kiya hai.",
+    "on_screen": "Fable 5.2 Vision AI",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "Handwritten Bill",
+     "Vision Reasoning",
+     "Clean Table"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Provide verified benchmark evidence of vision performance.",
+    "narration": "Chartography visual benchmark par isne Medium effort par 66 point 4 percent score kiya hai.",
+    "on_screen": "Chartography 66.4% Score",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "Fable 5.2 Medium",
+    "right_label": "Opus 5.5 Max",
+    "rows": [
+     {
+      "left": "66.4% score",
+      "right": "64.4% score"
+     }
+    ]
+   },
+   {
+    "purpose": "Present clear pricing and limits to prevent overspending.",
+    "narration": "Par ye sasta nahi hai: input $8 aur output $40 per million tokens cost karta hai.",
+    "on_screen": "$8 In / $40 Out",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Input: $8 per 1M tokens",
+     "Output: $40 per 1M tokens",
+     "Fast mode: $16 in / $80 out"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Give a practical decision rule and technical reality check.",
+    "narration": "Daily billing ke liye Opus 5.5 rakhein. Complex setups ke liye developer se Fable API connect karein.",
+    "on_screen": "Use Developer API",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Daily work: Opus 5.5",
+     "Complex setup: Fable 5.2",
+     "Needs developer integration"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Deliver payoff and trigger the single comment hook.",
+    "narration": "Comment FABLE, main aapko model benchmark sheet aur developer setup details DM kar dunga.",
+    "on_screen": "Comment FABLE",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Get Fable Setup Details",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "How to extract handwritten bill data using Claude Fable 5.2 vision AI. Standard invoice scanners often fail on sloppy handwriting or custom vendor receipts. Anthropic Fable 5.2 improves vision and chart reasoning, scoring 66.4 percent on Chartography. However, it costs $8 per million input tokens and $40 per million output tokens, so it is relatively expensive for simple daily scanning. Non-technical business owners will need a developer or API integration builder to connect Fable 5.2 to their billing software. For routine work, Anthropic suggests starting with Opus 5.5. Comment FABLE for the detailed breakdown.",
+  "hashtags": [
+   "#ClaudeAI",
+   "#VisionAI",
+   "#SmallBusinessAutomation",
+   "#DataExtraction",
+   "#BusinessTech"
+  ],
+  "keywords": [
+   "Claude Fable 5.2",
+   "handwritten bill OCR",
+   "vision AI",
+   "invoice automation",
+   "Anthropic models"
+  ],
+  "claims": [
+   {
+    "claim": "Anthropic released Claude Fable 5.2 with improvements in coding, reasoning, and vision.",
+    "source_id": 4
+   },
+   {
+    "claim": "Claude Fable 5.2 costs $8 per million input tokens and $40 per million output tokens.",
+    "source_id": 24
+   },
+   {
+    "claim": "Claude Fable 5.2 optional fast mode speeds up generation by up to 2.5x for $16 per million input tokens and $80 per million output tokens.",
+    "source_id": 24
+   },
+   {
+    "claim": "At Medium effort, Claude Fable 5.2 scored 66.4% on Chartography visual chart recognition benchmark, ahead of Opus 5.5 at Max effort.",
+    "source_id": 24
+   },
+   {
+    "claim": "Anthropic recommends starting daily tasks with Opus 5.5 before switching to Fable 5.2 for complex technical work.",
+    "source_id": 24
+   }
+  ],
+  "dm_keyword": "FABLE",
+  "dm_text": "Claude Fable 5.2 details for your bill processing workflow:\n1. Pricing: $8 per 1M input tokens and $40 per 1M output tokens ($16/$80 for fast mode).\n2. Performance: Scored 66.4% on Chartography visual chart recognition benchmark.\n3. Speed: Generates responses up to 30% faster than Fable 5.1.\n4. Implementation: Connect Fable 5.2 via API through a developer or no-code tool. For standard daily invoice tasks, start with Opus 5.5 as recommended by Anthropic.\nOfficial release source: https://www.anthropic.com/claude-fable-and-mythos-5-2"
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 6,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "Anthropic released Claude Fable 5.2 with improvements in coding, reasoning, and vision.",
+    "supported": true,
+    "note": "Supported by Source 4, 15, and 24."
+   },
+   {
+    "claim": "Claude Fable 5.2 costs $8 per million input tokens and $40 per million output tokens.",
+    "supported": true,
+    "note": "Supported by Source 4 and 24."
+   },
+   {
+    "claim": "Claude Fable 5.2 optional fast mode speeds up generation by up to 2.5x for $16 per million input tokens and $80 per million output tokens.",
+    "supported": true,
+    "note": "Supported by Source 24."
+   },
+   {
+    "claim": "At Medium effort, Claude Fable 5.2 scored 66.4% on Chartography visual chart recognition benchmark, ahead of Opus 5.5 at Max effort.",
+    "supported": true,
+    "note": "Supported by Source 24."
+   },
+   {
+    "claim": "Anthropic recommends starting daily tasks with Opus 5.5 before switching to Fable 5.2 for complex technical work.",
+    "supported": true,
+    "note": "Supported by Source 24."
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [],
+  "issues": [
+   "While handwritten bill OCR is a relatable hook for Indian trade businesses, Fable 5.2 is primarily an API-level model for developers rather than an out-of-the-box scanner app. The reel correctly mitigates this in Scene 5 by advising viewers to stick to Opus 5.5 for daily work and call a developer for Fable."
+  ],
+  "fix_instructions": "The content is ready for publication. Ensure the DM automation for keyword FABLE accurately sends the developer API documentation links and no-code connection options."
+ },
+ "rules": [
+  "scene 3: compare needs rows"
+ ],
+ "reasons": [
+  "scene 3: compare needs rows",
+  "originality 7/10 (<8)",
+  "practical_value 6/10 (<8)"
+ ],
+ "meta": {
+  "duration": 34.4,
+  "voice": "edge",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-10/R2-2026-11-10/try4/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-10/R2-2026-11-10/try4/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-10/R2-2026-11-10/try4/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-10/R2-2026-11-10/try4/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-10/R2-2026-11-10/try4/scene_05.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-10/R2-2026-11-10/try4/scene_06.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   4.43,
+   5.24,
+   6.03,
+   6.05,
+   7.11,
+   5.58
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-10/R2-2026-11-10/try4",
+ "attempt": 4,
+ "approved": false,
+ "hook": "Handwritten bill data read karne mein normal OCR fail ho toh ye dekho.",
+ "log": [
+  "attempt 1: fail {'hook': 7, 'originality': 6, 'practical_value': 5, 'natural_language': 7, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 8, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 6} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 5/10 (<8)', 'natural_language 7/10 (<8)']",
+  "attempt 2: fail {'hook': 6, 'originality': 6, 'practical_value': 6, 'natural_language': 7, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 8, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 6} ['scene 4 narration 21 words (want 4-14)', 'hook 6/10 (<8)', 'originality 6/10 (<8)', 'practical_value 6/10 (<8)']",
+  "attempt 3: fail {'hook': 7, 'originality': 6, 'practical_value': 5, 'natural_language': 7, 'accuracy': 7, 'narrative': 7, 'visual_integrity': 7, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 6} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 5/10 (<8)', 'natural_language 7/10 (<8)']",
+  "attempt 4: fail {'hook': 8, 'originality': 7, 'practical_value': 6, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['scene 3: compare needs rows', 'originality 7/10 (<8)', 'practical_value 6/10 (<8)']"
+ ],
+ "material": "[4] TechCrunch AI — Anthropic releases new Mythos and Fable models amid RSI concerns\nURL: https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/\nImage Credits: bIllustration y Nikolas Kokovlis / NurPhoto / Getty Images AI Anthropic releases new Mythos and Fable models amid RSI concerns Russell Brandom 11:24 AM PST · November 9, 2026 Anthropic released new versions of its most advanced models on Monday, with the launch of Mythos 5.2 and Fable 5.2. The company says the new models “show improvements in areas like coding, reasoning, and vision” and communicate more clearly with users.\nNotably, Anthropic is lowering the cost of Fable from $10 to $8 per million input tokens. As a result, Fable 5.2 is now cheaper than its primary competitor GPT-6 Astra. Anthropic says that the new version of Fable will return responses 30% faster across effort levels. Faster inference serving is available for double the price.\nFable 5.2 is also compatible with zero data retention (ZDR) policies through the Enterprise Frontier Safeguards system , long a sticking point for many enterprise clients.\nIt’s Anthropic’s first model release since the arrival of a third-party report from the assessment group METR , which suggested the lab might be approaching recursive self-improvement (RSI) — or the ability for AI models to carry on model training independently. The METR report found internal models were speeding up Anthropic’s AI progress by roughly 2x, although many uncertainties remain.\nStill, Anthropic’s release notes significant ongoing challenges in accurately testing model capabilities. “Claude Mythos 5.2 and Fable 5.2 each voice suspicion that they are being evaluated more often than any of our recent models, which challenges our ability to assess how they will act in real-world settings. As these settings expand and capabilities increase with future models, we expect this challenge to grow.”\nAnthropic maintains that the new version of Mythos does not have the ability to act covertly against its user, a verdict that’s detailed further in Mythos 5.2’s system card .\n“Claude Mythos 5.2 shows stronger covert capabilities than prior Claude models on several of our evaluations, particularly when its reasoning is hidden from the monitor,” the system card reads. “That said, we believe that low levels of absolute performance on our new covert evaluations support claims that rely on detection of harmful actions in high-stakes situations.”\nFable 5.2 has been available to select parties in pre-release for some time, and Anthropic says the model has already “solved two open problems in theoretical physics, formalized Fermat’s Last Theorem, and supported numerous other research projects.”\nAlso on Monday, AI startup Physical Superintelligence announced a new proof of the Aaronson‑Ambainis conjecture, a pivotal step in setting theoretical limits for quantum computing. Notably, the lab said the result was achieved by running “a non-public Anthropic model” within PSI’s own system. Anthropic did not confirm or deny whether Fable 5.2 was the model in question.\nWhen you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence.\n2027 San Francisco Get an Early Peek at the Next TechCrunch Disrupt Disrupt, Startup Battlefield, and more will return next year, and you can be at the front of the line. Sign up for our waitlist\nMusk says Tesla will refund some Cybertruck deposits, defends decision to end production\nTesla will stop making the Cybertruck in 2027\nClaude can now analyze your spending with its new Personal Finance tool\nHarbinger raises $240M after expanding into defense\nAlmost no one uses AI agents to book their Uber, company says\nMeta acquires AI coding startup Conductor\nData centers are turning to old jet engines as the wait for power grows\n\n[15] The Verge AI — Anthropic launches new Claude Fable and Mythos 5.2 models\nURL: https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2\nAnthropic launches new Claude Fable and Mythos 5.2 models | The Verge Skip to main content The homepage The Verge The Verge logo. The homepage The Verge The Verge logo. Notifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo. Login / Sign Up\nComments Loading comments Getting the conversation ready... AI\nClaude Fable 5.2 is designed to take on big technical challenges, and it’s available today.\nClaude Fable 5.2 is designed to take on big technical challenges, and it’s available today.\nJay Peters is a senior reporter covering technology, gaming, and more. He joined The Verge in 2019 after nearly two years at Techmeme. Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on “daunting” technical challenges. The company claims the new models show improvements in coding, reasoning, and vision, and can generate outputs faster than the 5.1 versions of the Fable and Mythos models.\nClaude Fable 5.2 is good at challenging software engineering problems, Anthropic says, and can orchestrate agent teams and tackle long-running projects. The new model has also solved some complex scientific problems, including two open theoretical physics problems.\nDuring prerelease testing, the two models have “helped our engineers complete otherwise-infeasible software migrations, designed three working electronic devices from scratch, solved two open problems in the physics of black holes, made substantial progress on robotics evaluations, and formalized the proof of Fermat’s Last Theorem in 30 hours,” Anthropic says.\nClaude Fable 5.2 is launching today. As for Claude Mythos 5.2, only vetted organizations will have access to start. The new 5.2 models follow the release of Claude Fable 5.1 and Claude Mythos 5.1 in September .\nHere’s the full text of Jensen Huang’s memo to Nvidia\nThe future of AI hinges on… Jensen Huang’s sex life?\nSony’s new PlayStation Portal handheld includes ‘additional’ internal storage\nThere’s no slowing down media’s pivot-to-video 2.0\nHold up — I had a great time talking to the RIAA guy Apple’s $50 Intelligence Usage Packs extend access to some AI features Andrew Liszewski Nov 9 Instagram’s Effect Builder makes new filters from AI prompts Stevie Bonifield Nov 9 The future of AI hinges on… Jensen Huang’s sex life? Elizabeth Lopatto Nov 9 Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec Stevie Bonifield Nov 9 Disney and Adobe are building generative AI tools together Jess Weatherbed Nov 9 Play Hold up — I had a great time talking to the RIAA guy Nilay Patel Nov 9 Advertiser Content From This is the title for the native ad\nNotifications Drawer The Verge The Verge logo. Sign in to see your notifications or create an account to join the conversation.\n\n[21] Hacker News — Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far\nURL: https://artificialanalysis.ai/models/claude-fable-5-2\nClaude Fable 5.2 (max) - Intelligence, Performance & Price Analysis | Artificial Analysis Artificial Analysis K Anthropic • Claude Fable 5.2 max • Proprietary model\nCompare Try it out API Provider Benchmarks Model summary\n65 Artificial Analysis Intelligence Index 4 out of 4 units for Intelligence. Performance # 72 / 73 Time to first answer token 231.55s Output speed 103 tok/s 44.1 Time per Intelligence Index task (minutes) 4 out of 4 units for Performance. Cost # 73 / 73 In $8.00 Out $40.00 Cache discount 98% $26.54 Cost per Intelligence Index task 4 out of 4 units for Cost. Verbosity # 72 / 73 Input tokens 28.3B Output/input 0.97% 275M Output tokens from Intelligence Index 4 out of 4 units for Verbosity. Comparison Summary\nClaude Fable 5.2 (Max, Default Fallback) is amongst the leading models in intelligence, but particularly expensive when comparing to other models of similar price. It's also notably slow per task and very verbose. The model supports text and image input, outputs text, and has a 1M tokens context window.\nClaude Fable 5.2 (Max, Default Fallback) scores 65 on the Artificial Analysis Intelligence Index, placing it well above average among comparable models (median: 40). When evaluating the Intelligence Index, it generated 275M tokens, which is very verbose in comparison to the median of 72.8M.\nPricing for Claude Fable 5.2 (Max, Default Fallback) is $8.00 per 1M input tokens (expensive, median: $2.00) and $40.00 per 1M output tokens (expensive, median: $10.00). On average, it costs $26.54 per task to evaluate Claude Fable 5.2 (Max, Default Fallback) on the Intelligence Index.\nAt 44.1 minutes per Intelligence Index task, Claude Fable 5.2 (Max, Default Fallback) is notably slow compared with the median of 12.9 minutes for comparable models (lower is better).\nReasoning Yes This page shows the reasoning version of this model.\nContext window 1M ~1500 A4 pages of size 12 Arial font 237 models in this class\nMetrics are compared against models of the same class:\nNon-reasoning models → compared only with other non-reasoning models\nReasoning models → compared across both reasoning and non-reasoning\nOpen weights models → compared only with other open weights models of the same size class:\nProprietary models → compared across proprietary and open weights models of the same price range, using a blended 3:1 input/output price ratio:\n27 of 734 models Add model from specific provider No publicly available API Artificial Analysis Intelligence Index\nArtificial Analysis Intelligence Index v5.0.1 includes: AA-Briefcase v1.1, AutomationBench-AA, Terminal-Bench 4.0, FrontierCode 2.0, AA-Omniscience v1.1, GDP.pdf, HLE-Diamond, CritPt v2 (Hard Subset), Terminal-Bench-Science 0.1 . See Intelligence Index methodology for further details, including a breakdown of each evaluation and how we run them.\nArtificial Analysis Intelligence Index by Open Weights / Proprietary\n27 of 734 models Add model from specific provider No publicly available API Proprietary Open Weights (Commercial Use Restricted) Open Weights Artificial Analysis Intelligence Index\nArtificial Analysis Intelligence Index v5.0.1 includes: AA-Briefcase v1.1, AutomationBench-AA, Terminal-Bench 4.0, FrontierCode 2.0, AA-Omniscience v1.1, GDP.pdf, HLE-Diamond, CritPt v2 (Hard Subset), Terminal-Bench-Science 0.1 . See Intelligence Index methodology for further details, including a breakdown of each evaluation and how we run them.\nIndicates whether the model weights are available. Models are labelled as 'Commercial Use Restricted' if commercial use is limited by conditions, and as 'Non-commercial' if the license prohibits commercial use.\n27 of 734 models Most attractive quadrant Pareto line Xiaomi OpenAI Anthropic InclusionAI SpaceXAI Kimi Reflection Google Alibaba Z AI Tencent Meta NVIDIA Thinking Machines Mistral DeepSeek Cost per Intelligence Index Task\nWeighted average cost per Intelligence Index task. Each evaluation’s cost is calculated from input, cache hit, cache write, reasoning, and answer token prices, divided by task count, and weighted by its Intelligence Index weight.\nArtificial Analysis Intelligence Index v5.0.1 includes: AA-Briefcase v1.1, AutomationBench-AA, Terminal-Bench 4.0, FrontierCode 2.0, AA-Omniscience v1.1, GDP.pdf, HLE-Diamond, CritPt v2 (Hard Subset), Terminal-Bench-Science 0.1 . See Intelligence Index methodology for further details, including a breakdown of each evaluation and how we run them.\nMeasures the performance of models on specific capabilities and industries\nArtificial Analysis Finance & Accounting Index\n27 of 129 models Add model from specific provider No publicly available API Benchmarks\n23 of 44 evaluations 27 of 734 models Add model from specific provider No publicly available API AA-Briefcase v1.1 Agentic knowledge work, Elo\nAA-Omniscience v1.1 Accuracy Updated Knowledge\nAA-Omniscience v1.1 Non-Hallucination Rate Updated 1 - hallucination rate\nAutomationBench-AA Agentic SaaS workflows\nTerminal-Bench-Science 0.1 New Agentic scientific research workflows in a terminal\nFrontierCode 2.0 New Agentic software engineering in open-source repositories\nGDP.pdf Professional document reasoning, All-pass\nTerminal-Bench 4.0 Agentic coding & terminal use\nCritPt v2 (Hard Subset) Physics reasoning\nAA-AnalystAgent Quantitative analysis on spreadsheets & documents\nHarvey LAB-AA v1.1 Updated Legal agentic work, Hallucination-Gated All-Pass Rate\nEnterpriseOps-Gym-AA Agentic business operations\nGDPval-AA v2.1 Agentic real-world work tasks, Elo\nAA-3D New Agentic interactive 3D experiences, Elo\nCode2Video-AA New Product and brand videos designed in code, Elo\nITBench-AA Kubernetes incident root-cause analysis\nMLCR-AA Updated Medical long context reasoning\nAA-PersonalityBench: Expressiveness Score New Rich, varied, well-crafted language\nAA-PersonalityBench: Organization Score New Well-structured, scannable, answer-first\nAA-PersonalityBench: Transparency Score New Truthful, acknowledges uncertainty, non-sycophantic\nAA-PersonalityBench: Slop Score New Use of filler and generic language\nWhile model intelligence generally translates across use cases, specific evaluations may be more relevant for certain use cases.\nArtificial Analysis Intelligence Index v5.0.1 includes: AA-Briefcase v1.1, AutomationBench-AA, Terminal-Bench 4.0, FrontierCode 2.0, AA-Omniscience v1.1, GDP.pdf, HLE-Diamond, CritPt v2 (Hard Subset), Terminal-Bench-Science 0.1 . See Intelligence Index methodology for further details, including a breakdown of each evaluation and how we run them.\n27 of 263 models Add model from specific provider No publicly available API AA-Briefcase Elo\nAA-Briefcase Elo is a combined metric that aggregates analytical quality Elo, presentation Elo, and rubric pass rate, with rubric performance converted into Elo via synthetic head-to-head matches. Elo and 95% confidence interval bounds are clamped at 0.\n27 of 133 models Add model from specific provider No publicly available API AA-Omniscience Net Score\nAA-Omniscience v\n\n[24] Hacker News — Claude Fable 5.2 and Mythos 5.2\nURL: https://www.anthropic.com/claude-fable-and-mythos-5-2\nIntroducing Claude Fable 5.2 and Claude Mythos 5.2 \\ Anthropic Skip to main content November 9, 2026\nWe’ve upgraded Claude Fable and Claude Mythos—models that are designed to tackle the most daunting technical challenges.\nClaude Fable 5.2 and Claude Mythos 5.2 show improvements in areas like coding, reasoning, and vision. During prerelease testing they’ve helped our engineers complete otherwise-infeasible software migrations, designed three working electronic devices from scratch, solved two open problems in the physics of black holes, made substantial progress on robotics evaluations, and formalized the proof of Fermat’s Last Theorem in 30 hours—among many other applications we’ll discuss below.\nClaude Fable and Claude Mythos are the same underlying model. Fable has strong cybersecurity and biology safeguards to guard against misuse, which allows us to make it available to all users. Organizations pursuing beneficial applications in cybersecurity or biomedical research can apply for access to Mythos through our recently expanded Life Sciences and Cyber Verification Programs.\nTesters have found that Fable 5.2 and Mythos 5.2 communicate more clearly than past Fable and Mythos models. They generate outputs up to 30% faster than Claude Fable 5.1 and Claude Mythos 5.1, and they’re available at a lower price: $8 per million input tokens and $40 per million output tokens.\nFable 5.2 and Mythos 5.2 also come with an optional fast mode, which speeds up token generation by up to 2.5 times. Fast mode is available for $16 per million input tokens and $80 per million output tokens.\nSafety and alignment. To help ensure safety and alignment keep step with growing model capabilities, we ran extensive prerelease safety testing on the model that underlies Fable 5.2 and Mythos 5.2. This included developing novel evaluations that give deeper insight into specific concerning behaviors like sandbox escapes. We believe high-stakes risks from misalignment remain low, and the model performed as well as, or better than, our recent models on most alignment measures. Fable 5.2’s cyber and biology safeguards are as robust as those of Fable 5.1 but produce fewer unnecessary blocks, and we have implemented our strongest-ever protections against distillation attacks.\nWe describe more about our safety testing below, and full details can be found in the Claude Fable 5.2 and Mythos 5.2 System Card .\nWhen to use Claude Fable 5.2 and Mythos 5.2. Fable and Mythos are best for the most ambitious, open-ended technical work. For most coding and knowledge tasks, we recommend that users start with Claude Opus 5.5, our strongest daily driver, and then switch to a different model as required, depending on the scope and complexity of their work—upward to Fable or Mythos, or downward to Claude Sonnet 5.5 or Claude Haiku 5.5. Fable 5.2 can also play the role of Advisor (where Haiku, Sonnet, or Opus models consult it to help solve harder problems) or Orchestrator (where it delegates simpler tasks to smaller models).\nEvaluating Claude Fable 5.2 and Mythos 5.2\nBenchmark performance. The benchmarks table below shows that Claude Fable 5.2 and Mythos 5.2 are a step above Opus 5.5 in almost all the capabilities we evaluated:\nFor details on evaluation methodology, see the Claude Fable 5.2 and Claude Mythos 5.2 System Card . Scores for Fable 5.2, Fable 5.1, and Opus 5.5 show results with safeguards on unless otherwise noted. All scores show each model’s highest-available effort unless otherwise noted. † On CyScenarioBench, each lab’s scores are based on unique tasks. ‡ RoboDojo Sim shows the highest-available effort and was run internally.\nEffort and efficiency. On Medium effort (the default in Claude apps and Claude Code), Fable 5.2 can accomplish challenging tasks with fewer tokens than Fable 5.1. In early testing on the FrontierCode 2.0 evaluation, Fable 5.2 at High effort scored about level with Opus 5.5 at Max effort, for roughly half the cost per task. At Xhigh effort, it also scored the highest of any released model tested.\nAgentic coding: FrontierCode 2.0 Agentic search: WANDR Hardware engineering: BenchCAD 2.1 Multidisciplinary reasoning: Humanity’s Last Exam Visual chart recognition: Chartography FrontierCode 2.0 Accuracy vs. cost Fable 5.2\n10 20 30 40 50 0 Score (%) 1 2 5 10 20 50 Cost per task (USD, log scale) Low Med High Xhigh Max FrontierCode measures whether a model’s code changes would be merged by the maintainers of open-source repositories. At High effort, Fable 5.2 scores about the same as Opus 5.5’s best score (45.3% vs. 45.5%) for roughly half the cost per task, and ahead of GPT-6 Astra’s best score (42.8%) at about the same cost. At Xhigh effort, Fable 5.2 reaches 49.1%, the highest score of any released model we’ve tested.\n30 40 50 60 70 80 90 0 Score (%) 1 2 5 10 20 50 Cost per attempt (USD, log scale) Low Med High Xhigh Max Perplexity’s WANDR benchmark measures agents on large data-collection tasks. At Medium effort, Fable 5.2 matches Opus 5.5’s top score for about 40% of the cost per task.\n0 20 40 60 80 Score (0–100) 0.03 0.10 0.30 1 3 10 30 Cost per attempt (USD, log scale) Low Med High Xhigh Max BenchCAD 2.1 measures hardware engineering, specifically how closely a model’s designs match reference geometry and circuits, and is scored 0–100 with partial credit. At Max effort, Fable 5.2 scores 83.5, ahead of Opus 5.5 (65.3) and Fable 5.1 (44.4).\n50 60 70 80 0 Score (%) 0.10 0.20 0.50 1 2 5 Cost per attempt (USD, log scale) GPT-6 Astra (Max): 57.2% Low Med High Xhigh Max Humanity’s Last Exam (HLE) is a test of expert-level academic knowledge and reasoning. At Low effort, Fable 5.2 matches Opus 5.5’s top score for less than one-tenth of the cost per task.\n30 40 50 60 70 80 0 Score (%) 0.02 0.05 0.10 0.20 0.50 1 Cost per attempt (USD, log scale) GPT-6 Astra (Max): 71.0% Gemini 4 Carbon: 72.5% Low Med High Xhigh Max Chartography tests how accurately a model can read charts and figures. At Medium effort, Fable 5.2 scores 66.4%, ahead of Opus 5.5 at Max effort (64.4%) for less than one-tenth of the cost per task.\nOver 90% of the changes merged into Anthropic’s core codebase are now written by Claude (with human guidance). We’ve used Fable 5.2 to fix stubborn bugs in minutes, optimize performance across all of our services, and complete high-value software projects that would otherwise have been too slow or too costly to attempt. A team of agents running an earlier version of Fable 5.2 migrated a critical production service from Python to Rust—the service is now more efficient, more reliable, and starts about 26 times faster. We’ve found that Fable 5.2 exercises strong engineering judgment and can produce high-quality results from even ambiguous requests.\nAs an experiment, one Anthropic engineer gave Fable 5.2 the task of designing a prototype operating system. Starting from an empty folder, the model coordinated over 1,000 subagents, working around the clock for eight days writing, testing, and reviewing",
+ "id": "R2-2026-11-10",
+ "caption_final": "How to extract handwritten bill data using Claude Fable 5.2 vision AI. Standard invoice scanners often fail on sloppy handwriting or custom vendor receipts. Anthropic Fable 5.2 improves vision and chart reasoning, scoring 66.4 percent on Chartography. However, it costs $8 per million input tokens and $40 per million output tokens, so it is relatively expensive for simple daily scanning. Non-technical business owners will need a developer or API integration builder to connect Fable 5.2 to their billing software. For routine work, Anthropic suggests starting with Opus 5.5. Comment FABLE for the detailed breakdown.\n\n#ClaudeAI #VisionAI #SmallBusinessAutomation #DataExtraction #BusinessTech"
+}

@@ -572,5 +572,21 @@
   "status": "published",
   "media_id": "18120509542770400",
   "permalink": "https://www.instagram.com/p/DfgZFBMDmk8/"
+ },
+ {
+  "id": "R3-2026-11-10",
+  "date": "2026-11-10",
+  "kind": "reel",
+  "format": "tutorial",
+  "topic": "Build a live executive KPI dashboard in Excel in 3 simple steps",
+  "hook": "Messy sales sheets se pareshan ho? 3 steps me visual dashboard banao.",
+  "keywords": [
+   "Excel KPI dashboard tutorial",
+   "How to create executive dashboard in Excel",
+   "Excel Power Query business data",
+   "Excel dashboard for shopkeepers",
+   "Automate Excel sales reporting"
+  ],
+  "status": "queued"
  }
 ]

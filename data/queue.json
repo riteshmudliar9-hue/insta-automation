@@ -2940,5 +2940,213 @@
   "media_id": "18120509542770400",
   "permalink": "https://www.instagram.com/p/DfgZFBMDmk8/",
   "published_at": "2026-11-09T09:12:10.618331+05:30"
+ },
+ {
+  "id": "R3-2026-11-10",
+  "kind": "reel",
+  "date": "2026-11-10",
+  "slot": "2026-11-10T21:00",
+  "dir": "output/2026-11-10/R3-2026-11-10/try3",
+  "files": [
+   "reel.mp4"
+  ],
+  "caption": "How to build a live executive KPI dashboard in Excel to track sales and cash flow. Managing daily transaction logs across multiple sheets makes it difficult to spot inventory health and cash trends. Converting raw data into a clean visual dashboard helps you track metrics clearly without buying expensive software. Keep in mind that spreadsheets work well when you are small, but once you reach around 100 customers, upgrading to a database offers better logging and segmentation. Have you tried using Power Query to clean your Excel sheets? Comment DASHBOARD for the full step-by-step setup guide.\n\n#ExcelDashboard #SmallBusinessIndia #ExcelTips #BusinessAutomation",
+  "topic": "Build a live executive KPI dashboard in Excel in 3 simple steps",
+  "format": "tutorial",
+  "hook": "Messy sales sheets se pareshan ho? 3 steps me visual dashboard banao.",
+  "keywords": [
+   "Excel KPI dashboard tutorial",
+   "How to create executive dashboard in Excel",
+   "Excel Power Query business data",
+   "Excel dashboard for shopkeepers",
+   "Automate Excel sales reporting"
+  ],
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 9,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 8,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "status": "queued",
+  "produced_at": 1794270962,
+  "log": [],
+  "dm_keyword": "DASHBOARD",
+  "dm_text": "Here is your 3-step guide to build an Excel KPI Dashboard:\n\n1. Prepare & Import Data: Use Power Query to import data from your files. Clean missing values, standardize date and currency formats, and aggregate raw data using formulas like SUMIFS(), COUNTIFS(), or VLOOKUP().\n2. Choose Your Charts: Highlight key sales trends and performance metrics using Column, Line, or Bar charts depending on what you want to emphasize.\n3. Build the Visual Layout: Arrange your charts into a clean single-page visual view for tracking performance.\n\nNote: Spreadsheets work well initially, but once you reach around 100 customers, upgrading to a database provides better change logs and data segmentation.",
+  "presenter": {
+   "status": "waiting",
+   "takes": [
+    {
+     "n": 1,
+     "kind": "talk",
+     "talk": 1,
+     "line": "Messy sales sheets se pareshan ho? Sirf teen steps mein apna business ka visual dashboard banao.",
+     "visual_scene": -1,
+     "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: close-up, camera steady at eye level. Points directly at the camera with a friendly, serious expression. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Messy sales sheets se pareshan ho? Sirf teen steps mein apna business ka visual dashboard banao.\" No subtitles, no on-screen text, no music, no other people.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    },
+    {
+     "n": 2,
+     "kind": "talk",
+     "talk": 2,
+     "line": "Jab 100 customers ho jaye, toh Excel mein Power Query use karo aur SUMIFS se data clean.",
+     "visual_scene": -1,
+     "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: medium close-up with a slow, smooth push-in towards his face. Leans in slightly and lowers his voice for emphasis. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Jab 100 customers ho jaye, toh Excel mein Power Query use karo aur SUMIFS se data clean.\" No subtitles, no on-screen text, no music, no other people.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    },
+    {
+     "n": 3,
+     "kind": "broll",
+     "cover": 2,
+     "desc": "close-up of a shopkeeper's hands typing on a laptop next to a stack of paper invoices on a wooden counter",
+     "prompt": "Create a realistic vertical 9:16 video of about 8 seconds: close-up of a shopkeeper's hands typing on a laptop next to a stack of paper invoices on a wooden counter. Indian small-business setting, warm natural light, handheld smartphone-camera look, slow subtle camera movement, shallow depth of field. No faces, no readable text, no brand names or logos, no subtitles, no speech, no music.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    },
+    {
+     "n": 4,
+     "kind": "talk",
+     "talk": 3,
+     "line": "Comment DASHBOARD, main aapko Excel KPI dashboard set up karne ke full steps DM kar dunga.",
+     "visual_scene": -1,
+     "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: medium shot from slightly to his left (about 20 degrees), camera steady. Smiles and shrugs lightly while gesturing with an open hand. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Comment DASHBOARD, main aapko Excel KPI dashboard set up karne ke full steps DM kar dunga.\" No subtitles, no on-screen text, no music, no other people.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    },
+    {
+     "n": 5,
+     "kind": "broll",
+     "cover": 3,
+     "desc": "over-the-shoulder shot of a phone on a shop counter lighting up with new message notifications",
+     "prompt": "Create a realistic vertical 9:16 video of about 8 seconds: over-the-shoulder shot of a phone on a shop counter lighting up with new message notifications. Indian small-business setting, warm natural light, handheld smartphone-camera look, slow subtle camera movement, shallow depth of field. No faces, no readable text, no brand names or logos, no subtitles, no speech, no music.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    }
+   ],
+   "material": "[61] Zapier Blog — How to make a KPI dashboard in Excel in 3 steps (with free templates)\nURL: https://zapier.com/blog/kpi-dashboard-excel\nA car's dashboard displays vital information in an easily understandable format, assists in decision-making, and alerts the driver to potential issues. (Although the check engine light, with the specificity of a horoscope, treats a loose gas cap and a full-system meltdown with the same level of urgency.)\nLike a car's dashboard, an Excel KPI dashboard shows you the vital signs of your business, but without the cryptic hints and not-so-subtle threats—just cold, hard data served up in a way that's easy to digest.\nIn this post, I'll go over what KPI dashboards are and how to build one in Excel. I'm even sharing some templates you can use to jumpstart performance tracking for your business.\nWhat is a KPI dashboard and why build one in Excel?\nCreate a comprehensive KPI dashboard in Excel in 3 easy steps\nAlternative: Use PivotTables to create a flexible dashboard\nTurn your Excel dashboard into a live view\nWhat is a KPI dashboard—and why build one in Excel?\nAn Excel KPI dashboard is a visual representation of your key performance indicators (KPIs) , giving you a bird's-eye view of what's working and what's not. KPIs are metrics an organization has identified as critical to measuring its performance.\nBut why a dashboard? Well, trying to navigate large datasets without visuals is like asking a young person to explicitly describe Fortnite dances using only words. A KPI dashboard presents complex data in an easily digestible format, often using charts, graphs, and tables. This perspective allows you to see the big picture, highlighting the elements that contribute to the overall mission while filtering out the noise.\nWith a good dashboard, you'll be able to:\nRecognize patterns that might otherwise go unnoticed\nDetermine how close you are to meeting your goals and whether they need to be revised\nBenchmark performance against industry standards or competitor data to gauge progress and address weaknesses\nSpot trends to better forecast future performance\nA note on using spreadsheets: Spreadsheets are fine when you're small. But once you hit about 100 customers, it starts getting messy. Even upgrading to a database can make a huge difference: you'll have better logs of what changed and when, and it offers more options for segmentation.\nCreate a comprehensive KPI dashboard in Excel in 3 easy steps\nIf building a KPI dashboard in Excel sounds like something that'll make you weep quietly into your coffee, prepare to be very surprised. I'm about to walk through the whole process in three surprisingly simple steps.\nStep 1: Identify your KPIs and prepare your data\nFirst, select KPIs: A KPI dashboard isn't just a bunch of pretty charts—it's about getting the right info to the right people. So, before you start getting your hands dirty in Excel, think about who will be looking at this thing and what they need to know. For instance, if you're tracking customer acquisitions, maybe leave out the office supply inventory numbers (unless that's your secret weapon).\nTo help determine your KPIs, ask yourself questions like:\nWhat's the purpose of this dashboard? For example, is it to give stakeholders visibility into their most important metrics like revenue, traffic, and conversions?\nWhat insights do I need to gain? For example, do you need historical data to identify trends over time?\nHow can I measure progress? For example, are there specific metrics such as customer satisfaction scores , production efficiency, or sales growth that need to be tracked regularly to evaluate the success of business strategies?\nWhat metrics will help leadership make better decisions? For example, leaders might need detailed reports on cost efficiency, employee productivity, or customer retention rates to make informed strategic decisions.\nChoose KPIs that provide a clear and actionable snapshot of performance based on your business goals and objectives. Here are some Zapier guides on selecting KPIs to get you started:\nNext, collect data . Once you've identified your KPIs, you'll have to gather the raw data needed to calculate them. Pull reports, export databases, beg your analysts for access—whatever it takes to get your hands on the numbers and figures.\nWith your data in hand, import it into Excel:\nSelect your data source (Excel file, CSV, database, or an external service like Google Sheets or an API ), and follow the prompts to import your data.\nNote: Power Query is recommended for any data that needs to be refreshed regularly. It allows you to clean, transform, and automate data imports from multiple sources.\nCleaning and organizing your data Finally, clean and organize your data. Now it's time to wrangle your data into submission. Remove any duplicates or errors.\nBefore using your data, make sure it's in good shape:\nHandle missing values: Remove incomplete rows or fill in gaps with appropriate estimates (imputation).\nStandardize formats: Ensure all dates, numbers, and text entries are consistent. Convert text-based numbers into a numeric format where needed.\nTransform data where necessary: Convert currencies, create calculated fields, or aggregate data as needed.\nValidate data accuracy: Check for duplicate entries, inconsistencies, and errors using Excel's built-in Data Validation feature ( Data > Data Validation ).\nOnce your data is structured, calculate KPI values from the raw data using formulas like:\nSUM() , AVERAGE() , or COUNTIF() for basic aggregation\nSUMIFS() , AVERAGEIFS() , COUNTIFS() for conditional calculations\nVLOOKUP() or INDEX/MATCH() for pulling in related data Array formulas for advanced calculations\nA clean dataset will save you massive headaches later when creating visualizations.\nFirst, select charts and graphs. Look at your data and consider what you want to emphasize. Are you tracking changes over time? Comparing values across categories? Illustrating proportions?\nThe type of chart or graph you select depends on what you want to convey. Think about your audience and what will be most useful for them. Keep experimenting with different charts and layouts until you find one that brings your key metrics to life.\nSelect the data you want to visualize. For example, if you're visualizing sales data, select the range that includes your sales figures and corresponding dates or categories.\nChoose a chart type that best represents your data (column, line, pie, bar, etc.)\nAdd more charts as needed by repeating the above steps for the rest of your KPIs.\nVertical bars showing data changes over a period or comparisons among items\nHorizontal bars; similar to column charts but horizontal\nDisplays information as a series of data points connected by straight lines\nCircular chart divided into sections that illustrate numerical proportion\nSimilar to a line chart but with the area below the line filled in\nShows the relationship between two sets of data\nVariation of a scatter chart with data points replaced by bubbles\nDisplays trends using two dimensions on a continuous curve\nSimilar to a pie chart but with a hole in",
+   "scenes": [
+    {
+     "purpose": "Hook to grab attention with clear problem and simple outcome",
+     "narration": "Messy sales sheets se pareshan ho? 3 steps me visual dashboard banao.",
+     "on_screen": "Fix Messy Sheets",
+     "visual_type": "text",
+     "url": "",
+     "query": "",
+     "headline": "3-Step Excel KPI Dashboard",
+     "steps": [],
+     "items": [],
+     "left_label": "",
+     "right_label": "",
+     "rows": []
+    },
+    {
+     "purpose": "State the problem and spreadsheet limitations from source",
+     "narration": "100 customers ke baad basic spreadsheet handling messy ho jati hai.",
+     "on_screen": "100+ Customers Limit",
+     "visual_type": "compare",
+     "url": "",
+     "query": "",
+     "headline": "",
+     "steps": [],
+     "items": [],
+     "left_label": "Raw Sheets",
+     "right_label": "KPI Dashboard",
+     "rows": [
+      {
+       "left": "Messy transaction log",
+       "right": "Visual KPI charts"
+      },
+      {
+       "left": "Hard to spot trends",
+       "right": "Clear sales patterns"
+      }
+     ]
+    },
+    {
+     "purpose": "Step 1 - Data import and formulas",
+     "narration": "Step 1: Data import karne ke liye Power Query use karo aur SUMIFS se clean structure banao.",
+     "on_screen": "Step 1: Clean Data",
+     "visual_type": "checklist",
+     "url": "",
+     "query": "",
+     "headline": "",
+     "steps": [],
+     "items": [
+      "Power Query for import",
+      "Clean missing values",
+      "Standardize formats",
+      "Calculate with SUMIFS"
+     ],
+     "left_label": "",
+     "right_label": "",
+     "rows": []
+    },
+    {
+     "purpose": "Step 2 - Chart selection",
+     "narration": "Step 2: Key metrics emphasize karne ke liye Column ya Line charts select karo.",
+     "on_screen": "Step 2: Choose Charts",
+     "visual_type": "diagram",
+     "url": "",
+     "query": "",
+     "headline": "",
+     "steps": [
+      "Raw Data",
+      "Clean & Aggregate",
+      "Select Column/Line Chart"
+     ],
+     "items": [],
+     "left_label": "",
+     "right_label": "",
+     "rows": []
+    },
+    {
+     "purpose": "Step 3 - Final layout and honest limit",
+     "narration": "Step 3: Layout align karo. Par yaad rakho, extreme scaling par database ki zaroorat padegi.",
+     "on_screen": "Step 3: Live View",
+     "visual_type": "text",
+     "url": "",
+     "query": "",
+     "headline": "Database Needed at Scale",
+     "steps": [],
+     "items": [],
+     "left_label": "",
+     "right_label": "",
+     "rows": []
+    },
+    {
+     "purpose": "Payoff and direct call to comment",
+     "narration": "Comment DASHBOARD, main aapko Excel KPI dashboard set up karne ke full steps DM kar dunga.",
+     "on_screen": "Comment DASHBOARD",
+     "visual_type": "checklist",
+     "url": "",
+     "query": "",
+     "headline": "",
+     "steps": [],
+     "items": [
+      "Comment DASHBOARD",
+      "Get step-by-step guide",
+      "Build live Excel view"
+     ],
+     "left_label": "",
+     "right_label": "",
+     "rows": []
+    }
+   ],
+   "composed_from": null,
+   "hook_title": "Stop Messy Sales Sheets",
+   "cta": "Comment DASHBOARD for the steps"
+  }
  }
 ]
