@@ -2973,9 +2973,11 @@
    "brand_consistency": 9,
    "publish_readiness": 8
   },
-  "status": "queued",
+  "status": "published",
   "produced_at": 1794270962,
-  "log": [],
+  "log": [
+   "2026-11-10T22:07:22.441438+05:30 published https://www.instagram.com/reel/DfkWiY1jBTW/"
+  ],
   "dm_keyword": "DASHBOARD",
   "dm_text": "Here is your 3-step guide to build an Excel KPI Dashboard:\n\n1. Prepare & Import Data: Use Power Query to import data from your files. Clean missing values, standardize date and currency formats, and aggregate raw data using formulas like SUMIFS(), COUNTIFS(), or VLOOKUP().\n2. Choose Your Charts: Highlight key sales trends and performance metrics using Column, Line, or Bar charts depending on what you want to emphasize.\n3. Build the Visual Layout: Arrange your charts into a clean single-page visual view for tracking performance.\n\nNote: Spreadsheets work well initially, but once you reach around 100 customers, upgrading to a database provides better change logs and data segmentation.",
   "presenter": {
@@ -3149,6 +3151,9 @@
    "cta": "Comment DASHBOARD for the steps",
    "prompts_sent": true,
    "prompts_sent_at": 1794319089
-  }
+  },
+  "media_id": "18091584512275932",
+  "permalink": "https://www.instagram.com/reel/DfkWiY1jBTW/",
+  "published_at": "2026-11-10T22:07:22.441438+05:30"
  }
 ]
