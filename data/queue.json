@@ -3188,9 +3188,11 @@
    "brand_consistency": 9,
    "publish_readiness": 8
   },
-  "status": "queued",
+  "status": "published",
   "produced_at": 1794357481,
-  "log": [],
+  "log": [
+   "2026-11-11T22:17:49.490245+05:30 published https://www.instagram.com/reel/Dfm8htijcS3/"
+  ],
   "dm_keyword": "LOCAL",
   "dm_text": "Here is your breakdown for running local AI on business hardware:\n\n1. Why move local: Cloud-based AI tools export your data outside your private network and incur recurring token costs as usage scales.\n\n2. Workload split: Run 60 to 70 percent of everyday tasks (finance sheets, internal search, document analysis) locally. Use cloud AI only for the remaining 30 percent complex tasks.\n\n3. Core benefits: Complete data privacy, offline operation without internet dependence, and zero recurring token charges for local runs.",
   "presenter": {
@@ -3349,6 +3351,9 @@
    "cta": "Comment LOCAL for setup guide",
    "prompts_sent": true,
    "prompts_sent_at": 1794404363
-  }
+  },
+  "media_id": "18118981814058592",
+  "permalink": "https://www.instagram.com/reel/Dfm8htijcS3/",
+  "published_at": "2026-11-11T22:17:49.490245+05:30"
  }
 ]
