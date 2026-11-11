@@ -1,0 +1,370 @@
+{
+ "date": "2026-11-11",
+ "tag": "2026-11-11",
+ "pilot": false,
+ "sources": 101,
+ "ideas": 14,
+ "idea_list": [
+  {
+   "idea": "The danger of linking bank accounts to AI",
+   "format": "problem_fix",
+   "total": 9.39,
+   "scores": {
+    "relevance": 10,
+    "novelty": 8,
+    "hook_potential": 10,
+    "retention": 9,
+    "save_share": 10,
+    "feasibility": 9,
+    "evidence": 8,
+    "viral": 10
+   }
+  },
+  {
+   "idea": "Why 80% of businesses fail to get AI ROI",
+   "format": "myth_fact",
+   "total": 8.7,
+   "scores": {
+    "relevance": 10,
+    "novelty": 8,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 7,
+    "viral": 9
+   }
+  },
+  {
+   "idea": "Why ChatGPT isn't the best tool for GST and accounting sheets",
+   "format": "problem_fix",
+   "total": 8.63,
+   "scores": {
+    "relevance": 10,
+    "novelty": 6,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 10,
+    "feasibility": 9,
+    "evidence": 7,
+    "viral": 9
+   }
+  },
+  {
+   "idea": "Manual vs Auto: Invoice data entry",
+   "format": "manual_vs_auto",
+   "total": 8.61,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 8,
+    "evidence": 8,
+    "viral": 9
+   }
+  },
+  {
+   "idea": "Fixing fragmented data issues in your business",
+   "format": "problem_fix",
+   "total": 8.53,
+   "scores": {
+    "relevance": 10,
+    "novelty": 7,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 8,
+    "evidence": 7,
+    "viral": 9
+   }
+  },
+  {
+   "idea": "Why your AI agents might leak supplier prices",
+   "format": "problem_fix",
+   "total": 8.43,
+   "scores": {
+    "relevance": 9,
+    "novelty": 9,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 8,
+    "evidence": 7,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Checklist: 5 risks when buying AI tools for your shop",
+   "format": "checklist",
+   "total": 8.4,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 9,
+    "save_share": 9,
+    "feasibility": 10,
+    "evidence": 7,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Using local AI for sensitive business data",
+   "format": "myth_fact",
+   "total": 8.17,
+   "scores": {
+    "relevance": 9,
+    "novelty": 7,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 8,
+    "evidence": 8,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Designing retail banners without a designer",
+   "format": "tutorial",
+   "total": 8.12,
+   "scores": {
+    "relevance": 9,
+    "novelty": 7,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 7,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Audit your team's AI subscriptions",
+   "format": "checklist",
+   "total": 8.12,
+   "scores": {
+    "relevance": 9,
+    "novelty": 7,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 7,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Using Google AI tools for PDF invoices",
+   "format": "demo",
+   "total": 7.81,
+   "scores": {
+    "relevance": 9,
+    "novelty": 7,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 9,
+    "evidence": 7,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "AI agent safety: Setting a kill switch",
+   "format": "myth_fact",
+   "total": 7.57,
+   "scores": {
+    "relevance": 7,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 7,
+    "save_share": 8,
+    "feasibility": 8,
+    "evidence": 8,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "What is the best AI model for your business?",
+   "format": "checklist",
+   "total": 7.34,
+   "scores": {
+    "relevance": 8,
+    "novelty": 7,
+    "hook_potential": 7,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 9,
+    "evidence": 7,
+    "viral": 6
+   }
+  },
+  {
+   "idea": "Automating meeting summaries for contractors and consultants",
+   "format": "demo",
+   "total": 7.1,
+   "scores": {
+    "relevance": 8,
+    "novelty": 7,
+    "hook_potential": 7,
+    "retention": 7,
+    "save_share": 8,
+    "feasibility": 7,
+    "evidence": 7,
+    "viral": 6
+   }
+  }
+ ],
+ "rejected_ideas": [
+  [
+   "Why ChatGPT isn't the best tool for GST and accounting sheets",
+   "low relevance or novelty"
+  ]
+ ],
+ "items": [
+  {
+   "id": "R1-2026-11-11",
+   "kind": "reel",
+   "format": "problem_fix",
+   "topic": "The danger of linking bank accounts to AI",
+   "hook": "AI agents bina human check aapki confidential pricing share kar dete hain.",
+   "approved": false,
+   "attempts": 1,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 8,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 7,
+    "pacing": 8,
+    "brand_consistency": 9,
+    "publish_readiness": 7
+   },
+   "reasons": [
+    "need 3-5 hashtags, got 1",
+    "originality 7/10 (<8)",
+    "visual_integrity 7/10 (<8)",
+    "reel is 75.5 s long (max 45 s; aim for 15-35 s)"
+   ],
+   "log": [
+    "attempt 1: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['need 3-5 hashtags, got 1', 'originality 7/10 (<8)', 'visual_integrity 7/10 (<8)', 'reel is 75.5 s long (max 45 s; aim for 15-35 s)']",
+    "attempt 2: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'visual_integrity 7/10 (<8)', 'reel is 57.5 s long (max 45 s; aim for 15-35 s)']",
+    "attempt 3: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+    "attempt 4: fail {'hook': 7, 'originality': 6, 'practical_value': 5, 'natural_language': 7, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 6, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 6} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 5/10 (<8)', 'natural_language 7/10 (<8)']"
+   ],
+   "dir": "output/2026-11-11/R1-2026-11-11/try1",
+   "duration": 75.5,
+   "voice": "gemini"
+  },
+  {
+   "id": "R2-2026-11-11",
+   "kind": "reel",
+   "format": "manual_vs_auto",
+   "topic": "Manual vs Auto: Invoice data entry",
+   "hook": "Agar aap abhi bhi parts list manually type kar rahe ho, ye dekho.",
+   "approved": false,
+   "attempts": 3,
+   "scores": {
+    "hook": 6,
+    "originality": 6,
+    "practical_value": 5,
+    "natural_language": 6,
+    "accuracy": 6,
+    "narrative": 7,
+    "visual_integrity": 7,
+    "pacing": 7,
+    "brand_consistency": 8,
+    "publish_readiness": 6
+   },
+   "reasons": [
+    "hook 6/10 (<8)",
+    "originality 6/10 (<8)",
+    "practical_value 5/10 (<8)",
+    "natural_language 6/10 (<8)",
+    "accuracy 6/10 (<8)",
+    "narrative 7/10 (<8)",
+    "visual_integrity 7/10 (<8)",
+    "publish_readiness 6/10 (<7)"
+   ],
+   "log": [
+    "attempt 1: rules failed: ['scene 1: compare needs rows', 'scene 5 narration 20 words (want 4-14)']",
+    "attempt 2: rules failed: ['scene 1: compare needs rows', 'scene 3: compare needs rows']",
+    "attempt 3: fail {'hook': 6, 'originality': 6, 'practical_value': 5, 'natural_language': 6, 'accuracy': 6, 'narrative': 7, 'visual_integrity': 7, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 6} ['hook 6/10 (<8)', 'originality 6/10 (<8)', 'practical_value 5/10 (<8)', 'natural_language 6/10 (<8)']",
+    "attempt 4: fail {'hook': 6, 'originality': 6, 'practical_value': 5, 'natural_language': 7, 'accuracy': 9, 'narrative': 6, 'visual_integrity': 6, 'pacing': 6, 'brand_consistency': 7, 'publish_readiness': 5} ['hook 6/10 (<8)', 'originality 6/10 (<8)', 'practical_value 5/10 (<8)', 'natural_language 7/10 (<8)']"
+   ],
+   "dir": "output/2026-11-11/R2-2026-11-11/try3",
+   "duration": 33.9,
+   "voice": "edge"
+  },
+  {
+   "id": "R3-2026-11-11",
+   "kind": "reel",
+   "format": "myth_fact",
+   "topic": "Using local AI for sensitive business data",
+   "hook": "Apne GST ledgers aur bank details ChatGPT pe daalna band karo.",
+   "approved": true,
+   "attempts": 3,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 8,
+    "natural_language": 9,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 8,
+    "pacing": 9,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [],
+   "log": [
+    "attempt 1: fail {'hook': 8, 'originality': 7, 'practical_value': 6, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'practical_value 6/10 (<8)', 'visual_integrity 7/10 (<8)']",
+    "attempt 2: fail {'hook': 7, 'originality': 8, 'practical_value': 6, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['hook 7/10 (<8)', 'practical_value 6/10 (<8)']",
+    "attempt 3: PASS {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 9, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 8, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} []"
+   ],
+   "dir": "output/2026-11-11/R3-2026-11-11/try3",
+   "duration": 33.9,
+   "voice": "edge"
+  },
+  {
+   "id": "C1-2026-11-11",
+   "kind": "carousel",
+   "format": "myth_fact",
+   "topic": "Why 80% of businesses fail to get AI ROI",
+   "hook": "Why simple AI tasks fail to generate real ROI",
+   "approved": false,
+   "attempts": 1,
+   "scores": {
+    "hook": 8,
+    "originality": 8,
+    "practical_value": 7,
+    "natural_language": 9,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 9,
+    "pacing": 9,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [
+    "practical_value 7/10 (<8)"
+   ],
+   "log": [
+    "attempt 1: fail {'hook': 8, 'originality': 8, 'practical_value': 7, 'natural_language': 9, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} ['practical_value 7/10 (<8)']",
+    "attempt 2: fail {'hook': 8, 'originality': 7, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} ['originality 7/10 (<8)', 'practical_value 7/10 (<8)']",
+    "attempt 3: fail {'hook': 5, 'originality': 5, 'practical_value': 4, 'natural_language': 6, 'accuracy': 4, 'narrative': 5, 'visual_integrity': 6, 'pacing': 6, 'brand_consistency': 6, 'publish_readiness': 4} ['hook 5/10 (<8)', 'originality 5/10 (<8)', 'practical_value 4/10 (<8)', 'natural_language 6/10 (<8)']"
+   ],
+   "dir": "output/2026-11-11/C1-2026-11-11/try1",
+   "duration": null,
+   "voice": null
+  }
+ ],
+ "llm_calls": {
+  "text": 27,
+  "tts": 18,
+  "failed": 0
+ }
+}

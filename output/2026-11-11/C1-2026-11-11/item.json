@@ -1,0 +1,226 @@
+{
+ "kind": "carousel",
+ "idea": {
+  "idea": "Why 80% of businesses fail to get AI ROI",
+  "angle": "The difference between owners who make money with AI and those who just pay subscriptions.",
+  "audience_problem": "Owners seeing no financial benefit from their current AI tools.",
+  "format": "myth_fact",
+  "medium": "carousel",
+  "source_ids": [
+   43
+  ],
+  "evergreen": true,
+  "keywords": [
+   "AI ROI",
+   "business profit",
+   "cost cutting",
+   "efficiency"
+  ],
+  "scores": {
+   "relevance": 10,
+   "novelty": 8,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 9,
+   "evidence": 7,
+   "viral": 9
+  },
+  "total": 8.7
+ },
+ "piece": {
+  "hooks": [
+   "Why simple AI tasks fail to generate real ROI",
+   "Why single AI tools miss true financial return",
+   "How combining AI tasks yields real business ROI"
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "It directly addresses the audience's core problem of lack of ROI while staying concise and under the 10-word limit.",
+  "slides": [
+   {
+    "kind": "cover",
+    "title": "Why simple AI tasks fail to generate real ROI",
+    "subtitle": "OpenAI and Upwork research shows where AI value actually comes from.",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "mythfact",
+    "title": "Single task vs Combined workflow",
+    "subtitle": "",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "Using AI just for basic writing brings strong financial return.",
+    "fact": "OpenAI and Upwork data shows basic writing lost market share. Real project value came from combining multiple capabilities.",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "mythfact",
+    "title": "Task expansion",
+    "subtitle": "",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "AI value comes from replacing isolated daily chores one by one.",
+    "fact": "AI projects with higher budgets were 45 percent more task-diverse, combining previously separate tasks into a single broader workflow.",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "point",
+    "title": "The capability overhang gap",
+    "subtitle": "",
+    "body": "Say you run a hardware shop in Pune. Using AI only to draft messages ignores broader automated workflows like supplier tracking and stock updates.",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "quote",
+    "title": "Research finding on AI projects",
+    "subtitle": "",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "AI-related projects had larger fixed-price budgets and involved more hours of work.",
+    "attribution": "OpenAI & Upwork Study (2026)"
+   },
+   {
+    "kind": "summary",
+    "title": "How to shift your AI setup",
+    "subtitle": "",
+    "body": "",
+    "items": [
+     "Stop using AI for isolated basic writing tasks alone",
+     "Combine related jobs into multi-step automated workflows",
+     "Focus on broader scope like marketing plus lead integration",
+     "Bridge the capability overhang in your daily operations"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   }
+  ],
+  "caption": "Measuring AI tool ROI for small business workflows requires looking beyond single basic tasks. Say you run a spare parts shop in Jaipur. Paying for AI just to draft customer reply messages rarely increases overall margin. Recent research from OpenAI and Upwork shows that simple standalone tasks lose value quickly. Real financial ROI comes when you combine multiple tasks into one workflow—like connecting lead intake, stock check, and automated quotation. What single workflow in your business currently takes the most handoffs between staff?",
+  "hashtags": [
+   "#BusinessAutomation",
+   "#SmallBusinessIndia",
+   "#WorkflowAutomation",
+   "#OperationalEfficiency"
+  ],
+  "keywords": [
+   "AI ROI small business",
+   "business automation workflow",
+   "OpenAI research AI jobs",
+   "freelance AI market trends",
+   "combining AI workflows"
+  ],
+  "claims": [
+   {
+    "claim": "OpenAI and Upwork conducted research on AI impact on freelance work and task demand.",
+    "source_id": 43
+   },
+   {
+    "claim": "Writing accounted for a larger share of ChatGPT use, but simple writing tasks lost market share on Upwork as AI usage grew.",
+    "source_id": 43
+   },
+   {
+    "claim": "The gap between how people currently use ChatGPT and the full range of tasks AI can support is called capability overhang by OpenAI.",
+    "source_id": 43
+   },
+   {
+    "claim": "Between early 2023 and late 2025, task mix in AI-related job postings became 45% more diverse, increasing from about 15 to 21 common tasks.",
+    "source_id": 43
+   },
+   {
+    "claim": "AI-related projects carry larger fixed-price budgets and involve more hours of work due to a broader scope of combined tasks.",
+    "source_id": 43
+   }
+  ]
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 8,
+   "practical_value": 7,
+   "natural_language": 9,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "OpenAI and Upwork research shows where AI value actually comes from.",
+    "supported": true
+   },
+   {
+    "claim": "Basic writing lost market share on Upwork.",
+    "supported": true
+   },
+   {
+    "claim": "AI projects with higher budgets were 45 percent more task-diverse.",
+    "supported": true
+   },
+   {
+    "claim": "AI-related projects had larger fixed-price budgets and involved more hours of work.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [],
+  "issues": [
+   "The term 'capability overhang' is introduced in slide 4 but not clearly defined for a small business owner, making it feel like jargon.",
+   "The transition from the research findings to the 'hardware shop in Pune' example is slightly abrupt."
+  ],
+  "fix_instructions": "Keep the content as is, but on slide 4, add a small parenthetical or sub-text defining 'capability overhang' as 'the gap between what AI can do and how we actually use it'. Ensure the transition to the Pune example feels more conversational, perhaps by adding 'Think about it this way:' before the example."
+ },
+ "rules": [],
+ "reasons": [
+  "practical_value 7/10 (<8)"
+ ],
+ "meta": {
+  "ai_visuals": false,
+  "slides": 6
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-11/C1-2026-11-11/try1",
+ "attempt": 1,
+ "approved": false,
+ "hook": "Why simple AI tasks fail to generate real ROI",
+ "log": [
+  "attempt 1: fail {'hook': 8, 'originality': 8, 'practical_value': 7, 'natural_language': 9, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} ['practical_value 7/10 (<8)']",
+  "attempt 2: fail {'hook': 8, 'originality': 7, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} ['originality 7/10 (<8)', 'practical_value 7/10 (<8)']",
+  "attempt 3: fail {'hook': 5, 'originality': 5, 'practical_value': 4, 'natural_language': 6, 'accuracy': 4, 'narrative': 5, 'visual_integrity': 6, 'pacing': 6, 'brand_consistency': 6, 'publish_readiness': 4} ['hook 5/10 (<8)', 'originality 5/10 (<8)', 'practical_value 4/10 (<8)', 'natural_language 6/10 (<8)']"
+ ],
+ "material": "[43] OpenAI News — Work at the Frontier: AI’s effect on freelance work\nURL: https://openai.com/index/ai-effect-on-freelance-work\nWork at the Frontier: AI’s effect on freelance work | OpenAI OpenAI November 10, 2026\nNew research from OpenAI and Upwork finds shifting demand for freelance services, new combinations of skills, and larger budgets for AI-related projects.\n(opens in a new window) Loading… Share Why we study freelance work\nFor freelancers, changes in the market arrive one assignment at a time: a client needs a different service, requests a new skill or expands a project’s scope. Our new research with Upwork offers an early view of these changes in the AI era. Some familiar services are losing market share, while AI-related projects bring together different capabilities—and involve larger budgets and more hours of work.\nThe stakes are substantial. Upwork’s 2026 Future Workforce Index ⁠ (opens in a new window) found that 38% of skilled U.S. knowledge workers freelance. Its previous annual study ⁠ (opens in a new window) estimated that freelance knowledge work generated $1.5 trillion in U.S. earnings in 2024. Those estimates extend well beyond Upwork’s own marketplace.\nFreelance work can also reveal changes sooner than economy-wide employment statistics. Contracts are often short, and clients can adjust their requirements with each posting. To get to the root of these changes, we partnered with Upwork, an online marketplace connecting clients and freelancers, to study those requests alongside the activities people undertake directly with ChatGPT.\nWhat people use ChatGPT for vs. freelancers\nThe mix of work differed across the two platforms. Writing accounted for a much larger share of ChatGPT use, while video and animation accounted for larger shares of requests for freelancers in Upwork postings.\nBelow are the ranges of tasks between the two platforms.\nThese activities represent only the largest changes in Upwork shares over the studied period. ChatGPT shares cover Jan 2025–Jun 2026; Upwork shares are H1 2026. Changes in Upwork share are H1 2025 to H1 2026, in percentage points.\nFreelance demand is shifting as AI use grows\nMany activities that were relatively common in ChatGPT lost share on Upwork, while less common activities gained share. Of the 63 work categories analyzed, 43 followed this pattern.\nThe remaining 20 work categories showed the reverse. ChatGPT use alone does not explain changes in freelance demand.\nThe comparison also captures how people currently use ChatGPT, not the full range of tasks AI can support—a gap OpenAI calls the capability overhang.\nEach point represents one of 63 matched work subcategories in the Upwork taxonomy. The horizontal axis is the natural log of the category’s share of ChatGPT use in H2 2025 divided by its share of Upwork job posts in H1 2023. The vertical axis shows the percentage change in the category’s share of Upwork postings from H1 2023 to H2 2025, on a logarithmic scale; 0% indicates unchanged marketplace share. The vertical divider at AI intensity 0 marks equal category shares in ChatGPT and baseline Upwork postings.\nClients are asking for AI in more kinds of work and combining tasks in new ways\nBy late 2025, clients were requesting the use of AI in many more, different kinds of work. Clients were seeking freelancers to apply AI in tasks including chatbot development, video production, marketing automation, and application integration.\nWithin individual projects, AI capabilities were often requested alongside other work. AI-related postings listed about as many tasks as other postings but more often combined tasks that had rarely appeared together in earlier jobs.\nSome clients asked for AI-generated video, editing, and motion graphics in a single posting. The freelancer would bring those skills together to deliver a finished video.\nThe mix of work broadened across AI-related postings\nBetween early 2023 and late 2025, the mix of tasks in AI-related postings became 45% more diverse —the equivalent of an increase from about 15 equally common tasks to about 21.\nUpwork Marketplace postings through 2025. Shares are approximate and may not sum to 100% because of rounding. Upwork Marketplace postings through 2025. AI-related projects have larger budgets and involve more work\nAlthough posted hourly rates were similar for AI-related and other work, AI-related projects had larger fixed-price budgets and involved more hours of work. This pattern suggests that higher budgets may partly reflect a broader scope of work.\nUpwork through April 2026. Adjusted estimates compare the two groups within the same type of work and the same posting month. Conclusion\nAI may be changing both what clients hire freelancers to do and the scope of the projects they post\nAI’s effects on work can be difficult to detect in employment statistics. As we have noted in previous Work at the Frontier papers, the effects may appear first in the work people do.\nBecause freelance projects turn over quickly, postings are continually refreshed as clients’ needs change. Work within firms can evolve without appearing in a new job posting. Combined with ChatGPT data, these postings offer an early view of which activities people undertake directly with AI, which they hire freelancers to perform, and how AI-related projects differ from other work.\nThe findings do not point to a simple substitution story. Some activities common in ChatGPT use lost share on Upwork, but this pattern was not uniform. AI-related work also spanned a wider mix of activities, combined tasks in less familiar ways, and carried larger fixed-price budgets and more hours. Together, these patterns suggest that AI may be shifting both what clients seek from freelancers and how they assemble projects.\nThe OpenAI Economic Research Team explores how AI is changing work in real time with the Work at the Frontier series.\nHow AI is expanding what people do at work\nHow workers are unlocking new ways of working\nMore research · Explore OpenAI Economic Research\n1 @techreport{chin2026rebundling, 2 author = {Chin, Caroline and Kala, Shagun and Kunievsky, Nadav and 3 Liu, Teng and Richmond, Alex Martin and Shan, Carl}, 4 title = {The Rebundling of Freelance Work in the {AI} Age}, 5 institution = {OpenAI and Upwork}, 6 type = {Research report}, 7 year = {2026}, 8 month = nov, 9 url = {https://cdn.openai.com/pdf/openai-upwork-full-report.pdf} 10 } Economic Research",
+ "id": "C1-2026-11-11",
+ "caption_final": "Measuring AI tool ROI for small business workflows requires looking beyond single basic tasks. Say you run a spare parts shop in Jaipur. Paying for AI just to draft customer reply messages rarely increases overall margin. Recent research from OpenAI and Upwork shows that simple standalone tasks lose value quickly. Real financial ROI comes when you combine multiple tasks into one workflow—like connecting lead intake, stock check, and automated quotation. What single workflow in your business currently takes the most handoffs between staff?\n\n#BusinessAutomation #SmallBusinessIndia #WorkflowAutomation #OperationalEfficiency"
+}

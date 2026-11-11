@@ -1,0 +1,269 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "The danger of linking bank accounts to AI",
+  "angle": "Privacy risks: why you should never link your business bank to personal finance AI chat apps.",
+  "audience_problem": "Users exposing financial credentials to third-party AI assistants.",
+  "format": "problem_fix",
+  "medium": "reel",
+  "source_ids": [
+   14,
+   55
+  ],
+  "evergreen": true,
+  "keywords": [
+   "security",
+   "banking",
+   "AI privacy",
+   "risk warning"
+  ],
+  "scores": {
+   "relevance": 10,
+   "novelty": 8,
+   "hook_potential": 10,
+   "retention": 9,
+   "save_share": 10,
+   "feasibility": 9,
+   "evidence": 8,
+   "viral": 10
+  },
+  "total": 9.39
+ },
+ "piece": {
+  "hooks": [
+   "AI agents bina bina review aapka data share karte hain.",
+   "Bina human check AI agents run karna risky ho sakta hai.",
+   "eBay aur Amazon AI agents ko block kyun kar rahe hain?",
+   "AI agents bina human check aapki confidential pricing share kar dete hain.",
+   "Agar aap AI se customer proposals banwa rahe ho, pehle ye dekho."
+  ],
+  "chosen_hook": 3,
+  "hook_reason": "It highlights an immediate data exposure risk when using AI agents for customer quotes, which directly impacts small-business confidentiality.",
+  "title": "AI Agent Data Privacy Risk",
+  "scenes": [
+   {
+    "purpose": "Hook viewer with data leak risk of automated AI agents.",
+    "narration": "AI agents bina human check aapki confidential pricing share kar dete hain.",
+    "on_screen": "AI Data Leak Risk",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Data Exposure via AI",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Explain how AI agents pull internal business data.",
+    "narration": "AI agents aapke restricted pricing systems, archived quotes aur internal messages se data lete hain.",
+    "on_screen": "Pulls Internal Data",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "Restricted Systems",
+     "Archived Quotes",
+     "Internal Chat",
+     "AI Proposal"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Show the failure point when no human checks handoffs.",
+    "narration": "Ek agent data nikalta hai aur doosra agent bina human review draft bana deta hai.",
+    "on_screen": "No Human Checking",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "Manual Flow",
+    "right_label": "AI Agent Flow",
+    "rows": [
+     {
+      "left": "Human review",
+      "right": "Zero review"
+     },
+     {
+      "left": "Safe data",
+      "right": "Confidential leak"
+     }
+    ]
+   },
+   {
+    "purpose": "Highlight how online platforms block unauthorized agents.",
+    "narration": "Isi risk aur bot scraping ki wajah se eBay aur Amazon third party agents block kar rahe hain.",
+    "on_screen": "Platforms Blocking Bots",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "eBay restricts agents",
+     "Amazon blocks agents",
+     "Scraping concerns"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Provide practical rule to secure AI workflows.",
+    "narration": "AI tools ko sensitive customer ya financial data ka direct access mat do.",
+    "on_screen": "Rule: Direct Access",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Restrict raw databases",
+     "Block auto-sending",
+     "Keep human check"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Deliver payoff and comment hook.",
+    "narration": "Humesha human approval step rakho. Comment SECURE, main aapko AI safety checklist DM kar dunga.",
+    "on_screen": "Comment SECURE",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Comment SECURE for Guide",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "How to protect confidential business pricing and quotes when using AI agents. When deploying AI tools in daily sales workflows, agents pull data from restricted pricing systems, internal messages, and past quotes. If one agent creates a draft and another sends it without human review, sensitive pricing leaks across files. That is why platforms like eBay and Amazon restrict third-party AI agents. Before automating quotations, ensure every AI handoff has a mandatory human approval step. Do you review AI-generated customer proposals before sending them? Comment SECURE for the complete safety checklist.",
+  "hashtags": [
+   "#AIBusinessDataPrivacyBusinessAutomationAIGovernance"
+  ],
+  "keywords": [
+   "AI agent privacy",
+   "confidential pricing AI",
+   "business AI safety",
+   "AI data leak",
+   "automate quotation risks"
+  ],
+  "claims": [
+   {
+    "claim": "AI agents pull data across restricted pricing systems, internal communications, and archived quotes.",
+    "source_id": 55
+   },
+   {
+    "claim": "When multiple agents hand off data without human review, unapproved confidential information can spread across files and systems.",
+    "source_id": 55
+   },
+   {
+    "claim": "eBay has restricted third-party AI agent access to prevent unauthorized scraping and data training.",
+    "source_id": 14
+   },
+   {
+    "claim": "Amazon blocks external AI agents entirely from browsing or shopping on its platform.",
+    "source_id": 14
+   }
+  ],
+  "dm_keyword": "SECURE",
+  "dm_text": "Here is your AI Data Safety Checklist for business workflows: 1. Audit Data Sources: Identify if AI tools access restricted pricing systems, archived quotes, or internal chat files. 2. Mandatory Human Review: Never allow AI agents to send customer proposals or quotations without a human checking the final draft. 3. Monitor Agent Handoffs: Track how data flows when one agent passes summaries to another agent. 4. Control Access: Limit third-party bot access to confidential customer databases. Major sites like eBay and Amazon restrict or block third-party AI agents to prevent unauthorized data scraping and protect systems."
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 7,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 7
+  },
+  "claims": [
+   {
+    "claim": "AI agents pull data across restricted pricing systems, internal communications, and archived quotes.",
+    "supported": true
+   },
+   {
+    "claim": "When multiple agents hand off data without human review, unapproved confidential information can spread across files and systems.",
+    "supported": true
+   },
+   {
+    "claim": "eBay has restricted third-party AI agent access to prevent unauthorized scraping and data training.",
+    "supported": true
+   },
+   {
+    "claim": "Amazon blocks external AI agents entirely from browsing or shopping on its platform.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Scene 2: The diagram is slightly generic; ensure the arrows clearly indicate a 'workflow' rather than just a list.",
+   "Scene 3: The comparison table is a bit cramped; ensure the text 'Manual Flow' and 'AI Agent Flow' are clearly distinguished from the rows below."
+  ],
+  "issues": [
+   "The connection between the eBay/Amazon news and the internal business advice is slightly abrupt. The transition needs to emphasize that if big platforms are blocking agents for security/scraping, small businesses should be even more careful with their own internal data.",
+   "The caption is a bit dense; break it into shorter paragraphs for better readability on Instagram."
+  ],
+  "fix_instructions": "1. In Scene 4, add a brief transition sentence: 'Just like these giants, you need to protect your own internal data.' 2. In Scene 3, increase the padding between the table columns to improve visual hierarchy. 3. In the caption, use bullet points for the 'mandatory human approval' section to make it more scannable. 4. Ensure the font size in the diagram (Scene 2) is large enough for mobile viewing."
+ },
+ "rules": [
+  "need 3-5 hashtags, got 1"
+ ],
+ "reasons": [
+  "need 3-5 hashtags, got 1",
+  "originality 7/10 (<8)",
+  "visual_integrity 7/10 (<8)",
+  "reel is 75.5 s long (max 45 s; aim for 15-35 s)"
+ ],
+ "meta": {
+  "duration": 75.5,
+  "voice": "gemini",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-11/R1-2026-11-11/try1/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-11/R1-2026-11-11/try1/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-11/R1-2026-11-11/try1/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-11/R1-2026-11-11/try1/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-11/R1-2026-11-11/try1/scene_05.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-11/R1-2026-11-11/try1/scene_06.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   14.7,
+   16.33,
+   14.05,
+   14.62,
+   11.98,
+   3.8
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-11/R1-2026-11-11/try1",
+ "attempt": 1,
+ "approved": false,
+ "hook": "AI agents bina human check aapki confidential pricing share kar dete hain.",
+ "log": [
+  "attempt 1: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['need 3-5 hashtags, got 1', 'originality 7/10 (<8)', 'visual_integrity 7/10 (<8)', 'reel is 75.5 s long (max 45 s; aim for 15-35 s)']",
+  "attempt 2: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'visual_integrity 7/10 (<8)', 'reel is 57.5 s long (max 45 s; aim for 15-35 s)']",
+  "attempt 3: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+  "attempt 4: fail {'hook': 7, 'originality': 6, 'practical_value': 5, 'natural_language': 7, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 6, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 6} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 5/10 (<8)', 'natural_language 7/10 (<8)']"
+ ],
+ "material": "[14] The Verge AI — eBay appears to have shut the door on third-party AI agents\nURL: https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping\neBay appears to have shut the door on third-party AI agents | The Verge Skip to main content The homepage The Verge The Verge logo. The homepage The Verge The Verge logo. Notifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo. Login / Sign Up\nComments Loading comments Getting the conversation ready... Tech\nSilicon Valley is promising an AI agent revolution, but retailers and service providers keep blocking them.﻿\nSilicon Valley is promising an AI agent revolution, but retailers and service providers keep blocking them.﻿\nMia Sato is features writer with five years of experience covering the companies that shape technology and the people who use their tools. eBay appears to have blocked AI agents, including Meta’s Muse, from browsing on the platform — the latest speed bump in the AI agent race.\nA reader tells The Verge that for several weeks he’s had his Muse agent browse and curate a daily digest of watches for sale on platforms like eBay, including a link to listings, price, shipping details, and relevant notes about condition or style. This weekend, though, Muse was unable to pull any links or details from eBay, with Muse saying it was blocked from the site. The Verge was able to re-create the experience using other search requests, and in some cases we found that Muse instead directed users to outside sites that mirrored eBay listings.\nShopping is frequently invoked as one area where AI agents can augment or improve the human-driven experience. Technology companies tout the use of agents to book travel, find deals, and even purchase goods and services on behalf of humans. But AI agents are regularly getting blocked from accessing retailers’ sites , calling into question how useful they can really be.\neBay previously updated its user agreement to ban the use of tools like “buy-for-me agents” and “LLM-driven bots” that place orders without human review. Until recently, though, agents like Muse were able to browse the site and pull listings for users.\nAI is becoming embedded throughout the platform for the discovery, personalization, and selling process, eBay spokesperson Sybille St. Arromand told The Verge in an email. St. Arromand declined to directly answer whether eBay recently imposed new limits on AI agents.\n“As it pertains to third-parties, we take a selective approach to how they access and interact with our marketplace. We have restricted agent access in certain cases, including unauthorized scraping and training on our data,” St. Arromand said. “We have ongoing discussions with potential partners and are evaluating ways third-party agents could help new customers discover eBay’s unmatched inventory, and our focus is on preserving the trusted end-to-end experience that buyers and sellers expect from eBay.”\nRetailers and service providers who’ve enthusiastically added AI features to their platforms have shown varying levels of comfort with third-party agents accessing their sites. On one end of the spectrum is Amazon, which is blocking external agents entirely from browsing or shopping. Some retailers like Target have restrictions in place that allow agents to successfully browse in some instances but get blocked in others. Shopify, meanwhile, has opened its catalog of a billion listings so that shoppers can set up their agents to purchase items on their behalf .\nWebsites are closing their doors to AI agents\nAI agents are ready to shop. Some retailers are wary\nThrowing agents into the e-commerce mix has the potential to upend how people shop online, partly because retail sites are largely assuming they’re selling to humans, with human limitations, and not swarms of bots. For example, The Verge discovered in October that someone could use Muse to effectively hold product listings hostage on The RealReal, a secondhand designer consignment site, by having an agent continually add the product to the user’s cart. The RealReal updated its bot system after The Verge ’s reporting.\nBut as retailers tweak their sites in real time to handle bots, it remains unclear how widespread agentic commerce is. In fact, there are signs that most people are not using AI this way. Uber said it fulfilled only four rides via third-party agents in Q3 and only around 500 Uber Eats orders during the week of Halloween. DoorDash similarly said it fulfilled only “several hundred” orders placed via third-party agents. It reported 993 million total orders last quarter.\nHands-on with Ring’s new AI drone camera for your home\nSony’s new PlayStation Portal handheld includes ‘additional’ internal storage\nThe future of AI hinges on… Jensen Huang’s sex life?\nGTA VI will be available on Xbox Cloud Gaming for Xbox One consoles\nThe Verge The Verge logo. Sign in to see your notifications or create an account to join the conversation.\n\n[55] MIT Tech Review AI — Securing the agentic enterprise with data lineage\nURL: https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/\nYou need to enable JavaScript to view this site. Skip to Content Sponsored\nA sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No human checks either handoff. When it’s discovered that the proposal includes unapproved, confidential, and sensitive information, no one can trace where the problematic data entered the workflow or how it spread across systems, files, and agents.\nThis scenario illustrates why AI governance needs to evolve, rapidly and dynamically. As more enterprises begin to use agentic AI in daily workflows, they’re realizing that they must manage more than static files; they must manage moving and fragmented data that is continuously ingested, copied, summarized, transformed, reused, and redistributed in new forms. In short, AI security isn’t a tool problem; it’s a data visibility problem.\nConsequently, traditional security approaches built solely around applications, systems, networks, or endpoints are no longer sufficient. Securing agentic AI at scale requires understanding how data moves. Teams, therefore, need to establish data lineage in order to effectively manage governance, accountability, and trust across human, agentic, and hybrid workflows.\nThis content was produced by Insights, MIT Technology Review’s custom content arm, not its editorial staff. It was researched and written by humans, with any AI tools that may have been used limited to production processes under human oversight.\nTen years after AlphaGo’s match against Go champion Lee Sedol, today’s AI still isn’t tapping into the machinery that made that win possible.\n“We were looking at it wrong”: The explosive claim that’s upended the AI world\nAn exclusive interview with Nick Cammarata, the researcher whose 26,000-word viral blog post has AI safety folks celebrating.\nDon’t be fooled by this summer of AI hype\nBreathless claims about AGI and new capabilities fall apart pretty quickly under scrutiny.\nWith the rise of personal AI assistants, the internet isn't just for humans anymore.\nGet the latest updates from MIT Technology Review\nDiscover special offers, top stories, upcoming events, and more.",
+ "id": "R1-2026-11-11",
+ "caption_final": "How to protect confidential business pricing and quotes when using AI agents. When deploying AI tools in daily sales workflows, agents pull data from restricted pricing systems, internal messages, and past quotes. If one agent creates a draft and another sends it without human review, sensitive pricing leaks across files. That is why platforms like eBay and Amazon restrict third-party AI agents. Before automating quotations, ensure every AI handoff has a mandatory human approval step. Do you review AI-generated customer proposals before sending them? Comment SECURE for the complete safety checklist.\n\n#AIBusinessDataPrivacyBusinessAutomationAIGovernance"
+}

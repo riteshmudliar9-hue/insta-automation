@@ -590,5 +590,21 @@
   "status": "published",
   "media_id": "18091584512275932",
   "permalink": "https://www.instagram.com/reel/DfkWiY1jBTW/"
+ },
+ {
+  "id": "R3-2026-11-11",
+  "date": "2026-11-11",
+  "kind": "reel",
+  "format": "myth_fact",
+  "topic": "Using local AI for sensitive business data",
+  "hook": "Apne GST ledgers aur bank details ChatGPT pe daalna band karo.",
+  "keywords": [
+   "local ai for business",
+   "on device ai privacy",
+   "cloud ai data security",
+   "gst invoice privacy",
+   "local ai models"
+  ],
+  "status": "queued"
  }
 ]

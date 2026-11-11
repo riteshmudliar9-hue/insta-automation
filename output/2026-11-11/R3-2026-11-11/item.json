@@ -1,0 +1,238 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Using local AI for sensitive business data",
+  "angle": "Why you should run AI models locally instead of using cloud-based chatbots for your financial data.",
+  "audience_problem": "Owners are worried about their private business data being stored on public cloud AI servers.",
+  "format": "myth_fact",
+  "medium": "reel",
+  "source_ids": [
+   82
+  ],
+  "evergreen": true,
+  "keywords": [
+   "data privacy",
+   "local AI",
+   "business security",
+   "offline AI"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 7,
+   "hook_potential": 8,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 8,
+   "evidence": 8,
+   "viral": 8
+  },
+  "total": 8.17
+ },
+ "piece": {
+  "hooks": [
+   "Apne GST ledgers aur bank details ChatGPT pe daalna band karo.",
+   "Business finance data ChatGPT par upload karne se leak ho sakta hai.",
+   "Apna sensitive business data public cloud AI par submit mat karo.",
+   "Finance and GST spreadsheets ke liye ChatGPT mat use karo.",
+   "Apne company secret files cloud AI pe daalna band karo."
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "Directly targets small business owners doing daily accounting and GST work, creating immediate concern about data security while offering a quick fix.",
+  "title": "Why Run AI Locally for Sensitive Business Data",
+  "scenes": [
+   {
+    "purpose": "Hook the viewer with a common security mistake made when pasting financial data into cloud tools.",
+    "narration": "Apne GST ledgers aur bank details ChatGPT pe daalna band karo.",
+    "on_screen": "Stop Cloud AI Leaks",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Stop cloud AI leaks",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Explain the risk of sensitive financial data leaving company servers.",
+    "narration": "Cloud tools par upload kiya data company ke bahar chala jata hai.",
+    "on_screen": "Cloud AI Risks",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Data leaves office network",
+     "Privacy compliance risk",
+     "Sensitive files stored remotely"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Introduce local AI running on laptops or Mac devices as the private solution, naming sample runners like Ollama.",
+    "narration": "Iska solution hai local AI. Laptop par Ollama jaise free runner se AI chalao.",
+    "on_screen": "Run Local AI",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "Local Laptop or Mac",
+     "Run Local AI Runner",
+     "100% Private Offline Data"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Show the recommended workload split between local models and cloud models.",
+    "narration": "60 to 70 percent routine workload bina internet local AI par ho jata hai.",
+    "on_screen": "70% Workload Local",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "Local AI (70%)",
+    "right_label": "Cloud AI (30%)",
+    "rows": [
+     {
+      "left": "Finance & Ledgers",
+      "right": "Complex models"
+     },
+     {
+      "left": "Zero token fee",
+      "right": "Cloud token cost"
+     },
+     {
+      "left": "Offline & Private",
+      "right": "Needs Internet"
+     }
+    ]
+   },
+   {
+    "purpose": "Summarize benefits and deliver the comment hook.",
+    "narration": "Sensitive data safe rahega aur token cost bhi bachegi. Comment LOCAL, main details DM kar dunga.",
+    "on_screen": "Comment LOCAL",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Comment LOCAL for guide",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "How to keep sensitive financial data safe using local AI on your business laptops.\n\nPasting company spreadsheets, tax ledgers, or customer files into web-based AI tools means your private data leaves your network. Moving routine tasks to on-device AI keeps files internal while cutting monthly token bills. Around 60 to 70 percent of everyday workloads can run locally on an office Mac or laptop without needing an active internet connection. Save complex front-end tasks for cloud models.\n\nHave you checked where your staff pastes sensitive customer data? Comment LOCAL for the implementation guide.",
+  "hashtags": [
+   "#DataPrivacy",
+   "#BusinessAutomation",
+   "#OnDeviceAI",
+   "#GSTData"
+  ],
+  "keywords": [
+   "local ai for business",
+   "on device ai privacy",
+   "cloud ai data security",
+   "gst invoice privacy",
+   "local ai models"
+  ],
+  "claims": [
+   {
+    "claim": "When employees use cloud-based AI tools, sensitive business information may leave the organization's own environment.",
+    "source_id": 82
+   },
+   {
+    "claim": "60 to 70 percent of routine business AI workloads can be moved on-device.",
+    "source_id": 82
+   },
+   {
+    "claim": "On-device AI operates without an internet connection and does not incur recurring token charges for local inference.",
+    "source_id": 82
+   }
+  ],
+  "dm_keyword": "LOCAL",
+  "dm_text": "Here is your breakdown for running local AI on business hardware:\n\n1. Why move local: Cloud-based AI tools export your data outside your private network and incur recurring token costs as usage scales.\n\n2. Workload split: Run 60 to 70 percent of everyday tasks (finance sheets, internal search, document analysis) locally. Use cloud AI only for the remaining 30 percent complex tasks.\n\n3. Core benefits: Complete data privacy, offline operation without internet dependence, and zero recurring token charges for local runs."
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 9,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 8,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "When employees use cloud-based AI tools, sensitive business information may leave the organization’s own environment.",
+    "supported": true
+   },
+   {
+    "claim": "60 to 70 percent of routine business AI workloads can be moved on-device.",
+    "supported": true
+   },
+   {
+    "claim": "On-device AI operates without an internet connection and does not incur recurring token charges for local inference.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Scene 2: The subtitle 'ke bahar chala jata hai' is grammatically disconnected from the previous scene's narration, making the sentence flow awkward.",
+   "Scene 4: The text 'internet local AI par ho jata hai' is a fragment that doesn't fully capture the preceding narration's context."
+  ],
+  "issues": [
+   "The transition between the hook and the first point is slightly abrupt.",
+   "The call to action in the final scene is clear but could be more punchy to drive higher engagement."
+  ],
+  "fix_instructions": "1. Fix the subtitle flow: Ensure the subtitle in Scene 2 reads as a complete thought or matches the audio perfectly. 2. In Scene 4, adjust the subtitle to '60-70% workload local par ho sakta hai' to better match the visual and audio. 3. Ensure the final CTA slide has a slightly more urgent tone, perhaps 'Comment LOCAL for the setup guide' instead of just 'for guide'."
+ },
+ "rules": [],
+ "reasons": [],
+ "meta": {
+  "duration": 33.9,
+  "voice": "edge",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-11/R3-2026-11-11/try3/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-11/R3-2026-11-11/try3/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-11/R3-2026-11-11/try3/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-11/R3-2026-11-11/try3/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-11/R3-2026-11-11/try3/scene_05.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   5.85,
+   5.43,
+   7.43,
+   6.58,
+   8.65
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-11/R3-2026-11-11/try3",
+ "attempt": 3,
+ "approved": true,
+ "hook": "Apne GST ledgers aur bank details ChatGPT pe daalna band karo.",
+ "log": [
+  "attempt 1: fail {'hook': 8, 'originality': 7, 'practical_value': 6, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'practical_value 6/10 (<8)', 'visual_integrity 7/10 (<8)']",
+  "attempt 2: fail {'hook': 7, 'originality': 8, 'practical_value': 6, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['hook 7/10 (<8)', 'practical_value 6/10 (<8)']",
+  "attempt 3: PASS {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 9, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 8, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} []"
+ ],
+ "material": "[82] YourStory — Beyond the cloud: Why businesses are turning to on-device AI\nURL: https://yourstory.com/2026/11/beyond-the-cloud-why-businesses-are-turning-to-on-device-ai\nSidebar is Loading... ADVERTISEMENT Beyond the cloud: Why businesses are turning to on-device AI | YourStory AI tools have made it easier for businesses to analyze documents, generate content, and automate tasks. But how much do companies know about where the data they enter into these tools goes?\nAt TechSparks 2026, Akash Saxenaa, CEO of Brilyant, discussed why businesses should consider moving routine AI workloads from the cloud to local devices. He argued that on-device AI can help organizations manage costs, protect data, and reduce their dependence on internet connectivity.\nThe economics of AI are changing. While the cost of individual tokens may be falling, Saxenaa pointed out that inference costs could rise as businesses deploy more AI agents and consume more tokens. Citing Gartner, he referred to predictions that inference costs could increase more than fivefold .\nCost is only one concern. When employees use cloud-based AI tools, sensitive business information may leave the organization’s own environment. This raises questions about data privacy, intellectual property protection, and compliance with data protection requirements.\nSaxenaa cited India's Digital Personal Data Protection (DPDP) Act as another reason for businesses to review their AI infrastructure.\n“If you look at 83% of Indian enterprises, they have not yet begun comprehensive DPDP implementations, or they are not even aware. What is the cost? Rs 250 crore. Now, if you are a large company, 5,000 employees, that’s a budget line. But if you are an SMB, that's a company,” he said.\nFor smaller businesses, in particular, the financial consequences of non-compliance could be significant.\nSaxenaa’s recommendation is to bring the model to the data rather than take the data to the model.\nSaxenaa compared cloud-based AI tools such as ChatGPT, Gemini, and Claude with on-device AI, where models run locally.\nCloud-based tools can involve recurring input and output token costs, latency, and less direct control over where data is processed. On-device AI, by contrast, can operate without an internet connection and does not incur recurring token charges for local inference.\n“Almost 60-70% of your workload can move on to on-device. But the balance 30%, you will have to use large, complex, latest front-end AI models,\" Saxenaa said.\nHe stressed that the two approaches are not mutually exclusive. Businesses can use larger cloud-based models for complex tasks while moving suitable everyday workloads to local devices.\nOn-device AI: From the office to the factory floor\nSaxenaa outlined several areas where businesses could use on-device AI, including endpoint security, support operations, internal search, and finance.\n“There are these beautiful use cases out there for on-device: you look at endpoint security or support operations. All those things can be done on-device. You look at finance, local rack, internal search, finance, operations. Everything can be done on-device,” he said.\nFor software development teams, keeping code on local devices can reduce the risk of intellectual property being exposed through cloud-based tools.\nIn contact centers, on-device AI can support real-time call translation, note-taking, and product recommendations. These functions can operate locally, reducing dependence on network connectivity.\nSaxenaa also highlighted devices equipped with neural processing units (NPUs), which allow AI models to run locally. This can help reduce recurring cloud costs while supporting data governance and operational resilience.\nDuring his keynote, Saxenaa presented a case study involving Tech Paramount Solutions to show how on-device AI could be used in an industrial setting.\nThe company’s TP Smart Sol platform combines visitor and vehicle management, asset management, energy monitoring, surveillance, and workforce management.\nWith Brilyant's support, Tech Paramount Solutions explored using Apple's Mac mini as an edge-computing device to process video analytics locally, while keeping its platform connected to the cloud for alerts, dashboards, and remote access.\nThe setup can process live AI video analytics from around 100 on-premise cameras.\nTech Paramount Solutions' co-founder shared that deployment reduced annual security overhead by more than Rs 12 lakh, cut lifetime compute costs by over Rs 11 lakh per Mac mini compared with comparable GPU-based options, and increased factory machine uptime by more than 240 hours a month.\nMoving AI workloads to local devices involves more than installing a model. Businesses also need to consider device management, security, governance, and the infrastructure required to support large-scale deployments.\nSaxenaa explained how Brilyant works with partners including Apple and Jamf to provide device provisioning, AI setup, and lifecycle management. Leasing and financing options can help businesses spread the upfront cost of devices over time.\nFor organizations managing hundreds of laptops, Brilyant also offers containerized runtimes and governance measures designed to keep data within controlled environments.\nThe larger challenge is deciding which AI workloads should run locally, which require cloud-based models, and how to manage data and devices across an organization.\nOn-device AI will not eliminate the need for the cloud. However, as more capable models become available for local hardware, businesses have more options to balance cost, privacy, and performance.\nFor Saxenaa, the shift is not about using AI everywhere in the same way, but deciding where workloads should run and where business data should remain.\nADVERTISEMENT Advertise with us ADVERTISEMENT Advertise with us ADVERTISEMENT Advertise with us ADVERTISEMENT Advertise with us AI tools have made it easier for businesses to analyze documents, generate content, and automate tasks. But how much do companies know about where the data they enter into these tools goes?\nAt TechSparks 2026, Akash Saxenaa, CEO of Brilyant, discussed why businesses should consider moving routine AI workloads from the cloud to local devices. He argued that on-device AI can help organizations manage costs, protect data, and reduce their dependence on internet connectivity.\nThe economics of AI are changing. While the cost of individual tokens may be falling, Saxenaa pointed out that inference costs could rise as businesses deploy more AI agents and consume more tokens. Citing Gartner, he referred to predictions that inference costs could increase more than fivefold .\nCost is only one concern. When employees use cloud-based AI tools, sensitive business information may leave the organization’s own environment. This raises questions about data privacy, intellectual property protection, and compliance with data protection requirements.\nSaxenaa cited India's Digital Personal Data Protection (DPDP) Act as another reason for businesses to review their AI infrastructure.\n“If you look at 83% of Indian enterprises, they have not yet begun comprehensive DPDP",
+ "id": "R3-2026-11-11",
+ "caption_final": "How to keep sensitive financial data safe using local AI on your business laptops.\n\nPasting company spreadsheets, tax ledgers, or customer files into web-based AI tools means your private data leaves your network. Moving routine tasks to on-device AI keeps files internal while cutting monthly token bills. Around 60 to 70 percent of everyday workloads can run locally on an office Mac or laptop without needing an active internet connection. Save complex front-end tasks for cloud models.\n\nHave you checked where your staff pastes sensitive customer data? Comment LOCAL for the implementation guide.\n\n#DataPrivacy #BusinessAutomation #OnDeviceAI #GSTData"
+}

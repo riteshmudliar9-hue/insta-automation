@@ -1,0 +1,257 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Manual vs Auto: Invoice data entry",
+  "angle": "Stop manual entry: how AI API tools search and extract document data in minutes.",
+  "audience_problem": "Manual data entry from historical invoices takes too much time.",
+  "format": "manual_vs_auto",
+  "medium": "reel",
+  "source_ids": [
+   47
+  ],
+  "evergreen": true,
+  "keywords": [
+   "data entry",
+   "automation",
+   "invoice",
+   "time-saving"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 8,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 8,
+   "evidence": 8,
+   "viral": 9
+  },
+  "total": 8.61
+ },
+ "piece": {
+  "hooks": [
+   "Agar aap abhi bhi parts list manually type kar rahe ho, ye dekho.",
+   "Purane records aur documents search karne me ghante barbaad mat karo.",
+   "Ye AI search system document lookup time 90 percent kam karta hai.",
+   "Paper records aur PDFs se data manually enter karna band karo.",
+   "AI API se documents aur screenshots search kaise karein, ye dekho."
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "Addresses a direct manual friction point (typing part/document numbers manually) that traders and contractors face daily, making it immediately scroll-stopping.",
+  "title": "Manual vs Auto Document Search",
+  "scenes": [
+   {
+    "purpose": "Hook / Problem statement",
+    "narration": "Agar aap abhi bhi parts list manually type kar rahe ho, ye dekho.",
+    "on_screen": "Stop Manual Entry",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "Manual Way",
+    "right_label": "AI API Way",
+    "rows": [
+     {
+      "left": "Type every code",
+      "right": "Upload screenshot"
+     },
+     {
+      "left": "Takes 1 hour",
+      "right": "Takes 4.5 mins"
+     }
+    ]
+   },
+   {
+    "purpose": "Proof / Time saved",
+    "narration": "OpenAI API use karke real business documents me search time 1 ghante se 4.5 minute ho gaya.",
+    "on_screen": "90% Time Saved",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Search Time: 1h to 4.5m",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "How it works workflow",
+    "narration": "Aap seedhe document number type karo ya parts list ka screenshot upload karo.",
+    "on_screen": "Upload Image or PDF",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "Upload Screenshot/PDF",
+     "AI Extracts Numbers",
+     "Match Found Instantly"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Accuracy & testing proof",
+    "narration": "Prototype testing me AI ne 90 percent genuine discrepancies and errors pakde.",
+    "on_screen": "90% Accuracy Rate",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Auto-reads handwritten/PDF codes",
+     "Flags spec mismatches",
+     "90% true errors caught"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Payoff & comment CTA",
+    "narration": "Manual data entry se bacho. Comment SEARCH, main poore steps DM kar dunga.",
+    "on_screen": "Comment SEARCH",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Comment SEARCH for details",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "How to automate document search and extract invoice numbers using AI API.\n\nWhen searching through years of drawings, invoices, or part registers, manual lookup takes nearly an hour per file. OpenAI API tools allow you to search by part code or simply upload a screenshot of a parts list. The AI reads the image, extracts numbers, and finds matches in 4.5 minutes while cutting search hours by 90%. In prototype tests, AI checking tools also caught genuine record discrepancies with 90% accuracy.\n\nHow many hours does your team spend searching old registers each week? Comment SEARCH for full details.",
+  "hashtags": [
+   "#DocumentAutomation",
+   "#OpenAIAPI",
+   "#DataExtraction",
+   "#InvoiceAutomation"
+  ],
+  "keywords": [
+   "invoice data entry",
+   "document search AI",
+   "OpenAI API extract text",
+   "automate PDF data entry",
+   "parts list screenshot search"
+  ],
+  "claims": [
+   {
+    "claim": "Kuken reduced document search time from nearly an hour to 4.5 minutes using OpenAI API.",
+    "source_id": 47
+   },
+   {
+    "claim": "Uploading a screenshot of a parts list allows AI to extract numbers without manual typing.",
+    "source_id": 47
+   },
+   {
+    "claim": "In prototype testing, about 90 percent of issues flagged by the AI were genuine discrepancies.",
+    "source_id": 47
+   },
+   {
+    "claim": "Kuken expects the tool to cut drawing search hours by about 90 percent over a year.",
+    "source_id": 47
+   }
+  ],
+  "dm_keyword": "SEARCH",
+  "dm_text": "Here is how AI API document search works based on Kuken's setup:\n\n1. Convert paper archives or PDFs into searchable digital format.\n2. Connect OpenAI API to read image/PDF screenshots directly without typing numbers.\n3. Search by model number, part code, or visual screenshot.\n4. AI extracts details and flags discrepancies between specs and records with 90% accuracy in prototype testing.\n\nSource: https://openai.com/index/kuken"
+ },
+ "review": {
+  "scores": {
+   "hook": 6,
+   "originality": 6,
+   "practical_value": 5,
+   "natural_language": 6,
+   "accuracy": 6,
+   "narrative": 7,
+   "visual_integrity": 7,
+   "pacing": 7,
+   "brand_consistency": 8,
+   "publish_readiness": 6
+  },
+  "claims": [
+   {
+    "claim": "Kuken reduced document search time from nearly an hour to 4.5 minutes using OpenAI API.",
+    "supported": true,
+    "note": "Supported directly by the source material."
+   },
+   {
+    "claim": "Uploading a screenshot of a parts list allows AI to extract numbers without manual typing.",
+    "supported": true,
+    "note": "Supported by the source material."
+   },
+   {
+    "claim": "In prototype testing, about 90 percent of issues flagged by the AI were genuine discrepancies.",
+    "supported": true,
+    "note": "Supported by the source material."
+   },
+   {
+    "claim": "Kuken expects the tool to cut drawing search hours by about 90 percent over a year.",
+    "supported": true,
+    "note": "Supported by the source material."
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Scene 2: Card container has excessive empty whitespace around a single text line.",
+   "Scene 4: Visual item mentions 'handwritten' codes, which is not stated in the source text.",
+   "Scene 5: Redundant text repetition between main header and card body."
+  ],
+  "issues": [
+   "Source material does not mention reading 'handwritten' text; it only specifies images, PDFs, drawings, and parts lists.",
+   "Practical value for an SMB is limited because this solution relies on a custom API integration built by a developer rather than an off-the-shelf workflow."
+  ],
+  "fix_instructions": "1. In Scene 4 on-screen checklist, change 'Auto-reads handwritten/PDF codes' to 'Auto-reads image/PDF codes' to strictly reflect the source.\n2. In Scene 2, add a supporting visual metric or secondary row inside the card to eliminate blank vertical space.\n3. In caption and DM script, clarify how an SMB owner can implement vision/document search using available tools (e.g., ChatGPT Vision / custom GPTs) so it provides immediate practical value."
+ },
+ "rules": [],
+ "reasons": [
+  "hook 6/10 (<8)",
+  "originality 6/10 (<8)",
+  "practical_value 5/10 (<8)",
+  "natural_language 6/10 (<8)",
+  "accuracy 6/10 (<8)",
+  "narrative 7/10 (<8)",
+  "visual_integrity 7/10 (<8)",
+  "publish_readiness 6/10 (<7)"
+ ],
+ "meta": {
+  "duration": 33.9,
+  "voice": "edge",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-11/R2-2026-11-11/try3/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-11/R2-2026-11-11/try3/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-11/R2-2026-11-11/try3/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-11/R2-2026-11-11/try3/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-11/R2-2026-11-11/try3/scene_05.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   5.49,
+   8.34,
+   6.4,
+   6.71,
+   6.95
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-11/R2-2026-11-11/try3",
+ "attempt": 3,
+ "approved": false,
+ "hook": "Agar aap abhi bhi parts list manually type kar rahe ho, ye dekho.",
+ "log": [
+  "attempt 1: rules failed: ['scene 1: compare needs rows', 'scene 5 narration 20 words (want 4-14)']",
+  "attempt 2: rules failed: ['scene 1: compare needs rows', 'scene 3: compare needs rows']",
+  "attempt 3: fail {'hook': 6, 'originality': 6, 'practical_value': 5, 'natural_language': 6, 'accuracy': 6, 'narrative': 7, 'visual_integrity': 7, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 6} ['hook 6/10 (<8)', 'originality 6/10 (<8)', 'practical_value 5/10 (<8)', 'natural_language 6/10 (<8)']",
+  "attempt 4: fail {'hook': 6, 'originality': 6, 'practical_value': 5, 'natural_language': 7, 'accuracy': 9, 'narrative': 6, 'visual_integrity': 6, 'pacing': 6, 'brand_consistency': 7, 'publish_readiness': 5} ['hook 6/10 (<8)', 'originality 6/10 (<8)', 'practical_value 5/10 (<8)', 'natural_language 7/10 (<8)']"
+ ],
+ "material": "[47] OpenAI News — Kuken Industries searches 70 years of drawings in minutes\nURL: https://openai.com/index/kuken\nKuken Industries searches 70 years of drawings in minutes | OpenAI OpenAI November 9, 2026\nKuken’s engineers use a tool built on the OpenAI API to find the drawing for a replacement part in 4.5 minutes, down from nearly an hour.\nProjected reduction in hours spent searching for drawings each year\nTime to find a drawing, down from nearly an hour\nShare Kuken Industries makes air conditioning and ventilation equipment for large buildings, shopping centers, and factories. It holds one of the largest shares of Japan’s cooling tower market. These towers release heat from circulating water into the air, helping cool everything from large buildings and malls to equipment in data centers.\nWhen a cooling tower needs a replacement part, Kuken’s engineers turn to an archive of drawings that spans 70 years of installations. For a newer engineer, finding the right drawing often meant asking an experienced colleague where to look and how to read it. Kuken wanted newer engineers to be able to find those records themselves, learn from the decisions they contain, and spend more time figuring out how to make the repair.\nMatching a replacement part to the original installation\nParts made today don’t always fit older cooling towers. Without the original drawing to show what was installed, engineers may have to design and manufacture a replacement from scratch.\nA search by model or part name can turn up several drawings. Over more than 70 years, Kuken has adapted its equipment to individual customers, so specifications vary by customer and installation date. When the archive was on paper, a search could take half a day. Kuken later digitized the archive, but engineers still had to know which name or number to look up and where to find the file. Newer engineers in particular spent time piecing those details together.\nChoosing models that could read Kuken’s drawings\nKuken wanted engineers at every experience level to be able to search the archive on their own. As it explored how AI might help, Kuken connected with Recursive, a Japanese AI startup and an official OpenAI partner.\nThe two companies built the search system and its field app together, drawing on Kuken’s archive and input from its engineers. They tested several AI models on a range of drawings to see how accurately each could extract details and at what cost. OpenAI’s models performed well on both measures, and the OpenAI API gave the team the flexibility to build search directly into the app.\nSearching with a part number or a screenshot\nConversations with field engineers shaped how the search works. Engineers can enter a drawing or part number, or upload an image or PDF of a drawing or parts list.\nPasting in a screenshot of the list saves engineers from entering each number by hand. The app reads the part numbers and returns possible matches, including drawings for similar designs. To find the right drawing, engineers check the tower’s specifications and records of past replacements.\nKuken reports the following results from using and testing the search tool.\nKuken expects the tool to cut the hours spent searching for drawings by about 90% over a year.\nExperienced engineers use some of the time they save to mentor newer colleagues.\nEngineers can review drawings in the app, reducing printing costs.\nNewer engineers take on more work independently\nEngineers now spend less time looking for a drawing and more time studying it. Both newer engineers and veterans say that gives them room to consider design improvements and explore ideas they previously had little time to pursue.\nNewer engineers can now handle a wider range of jobs on their own. Experienced colleagues who used to guide them through each search have more time to teach and to take on engineering work of their own.\nKuken is also developing a tool to check drawings prepared by its partners. Today, engineers compare each drawing with the specifications by eye, looking for details or quantities that don’t match. Kuken wants the tool to flag those differences so engineers can review drawings faster and catch mistakes they might otherwise miss.\nAccording to Kuken, in prototype testing, about 90% of the issues the AI flagged were genuine discrepancies. If the tool moves into production, Kuken expects it to substantially reduce the time engineers spend checking drawings.\nEach drawing records decisions an engineer made for a particular installation. By making those decisions easier to find and understand, Kuken aims to pass that experience on to the next generation of engineers.",
+ "id": "R2-2026-11-11",
+ "caption_final": "How to automate document search and extract invoice numbers using AI API.\n\nWhen searching through years of drawings, invoices, or part registers, manual lookup takes nearly an hour per file. OpenAI API tools allow you to search by part code or simply upload a screenshot of a parts list. The AI reads the image, extracts numbers, and finds matches in 4.5 minutes while cutting search hours by 90%. In prototype tests, AI checking tools also caught genuine record discrepancies with 90% accuracy.\n\nHow many hours does your team spend searching old registers each week? Comment SEARCH for full details.\n\n#DocumentAutomation #OpenAIAPI #DataExtraction #InvoiceAutomation"
+}
