@@ -608,5 +608,21 @@
   "status": "published",
   "media_id": "18118981814058592",
   "permalink": "https://www.instagram.com/reel/Dfm8htijcS3/"
+ },
+ {
+  "id": "R1-2026-11-12",
+  "date": "2026-11-12",
+  "kind": "reel",
+  "format": "problem_fix",
+  "topic": "Why you should never link your banking or personal finance accounts to AI agents",
+  "hook": "Major banks aur airlines AI agents ko block kyon kar rahe hain?",
+  "keywords": [
+   "AI agents banking security",
+   "United Airlines AI ban",
+   "Meta Muse AI privacy",
+   "AI payment risks",
+   "business data safety AI"
+  ],
+  "status": "queued"
  }
 ]

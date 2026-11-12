@@ -1,0 +1,263 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Why 80% of businesses see zero profit from AI (and what the 20% do)",
+  "angle": "Stop buying AI subscriptions until you calculate ROI on specific daily tasks",
+  "audience_problem": "Business owners are wasting money on AI tools that don't directly improve their bottom line.",
+  "format": "myth_fact",
+  "medium": "reel",
+  "source_ids": [
+   84
+  ],
+  "evergreen": true,
+  "keywords": [
+   "AI ROI",
+   "small business profit",
+   "business strategy",
+   "AI tools"
+  ],
+  "scores": {
+   "relevance": 10,
+   "novelty": 8,
+   "hook_potential": 9,
+   "retention": 9,
+   "save_share": 10,
+   "feasibility": 10,
+   "evidence": 9,
+   "viral": 9
+  },
+  "total": 9.23
+ },
+ "piece": {
+  "hooks": [
+   "AI automation khareedne se pehle ye reality check zaroor dekho.",
+   "Ready-made AI tools lagane se pehle ye galti mat karna.",
+   "Sirf simple AI workflows se business mein edge nahi milta.",
+   "Fast AI tools copy karna aasan hai, real value nahi milti.",
+   "AI tool setup karne se retention kyun nahi milta?"
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "It addresses Indian business owners looking to adopt AI tools with an honest reality check about tool selection and longevity.",
+  "title": "Why basic AI tools fail to give a lasting advantage",
+  "scenes": [
+   {
+    "purpose": "Hook the viewer with a caution about simple AI tool adoption.",
+    "narration": "AI automation khareedne se pehle ye reality check zaroor dekho.",
+    "on_screen": "AI Reality Check",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "AI Tool Reality Check",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Explain how AI makes basic app creation easy for everyone.",
+    "narration": "AI se aaj simple workflows aur software banana bohot aasan ho gaya hai.",
+    "on_screen": "Easy AI Setup",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "Basic AI Tool",
+     "Easy MVP Demo",
+     "Fast Workflow"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Highlight why easily copied tools fail to retain customers.",
+    "narration": "Par jo software do din mein ban jaye, use koi bhi copy kar sakta hai.",
+    "on_screen": "Easy To Copy",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "Basic Workflow",
+    "right_label": "Deep Integration",
+    "rows": [
+     {
+      "left": "Replicated in days",
+      "right": "Hard to replace"
+     },
+     {
+      "left": "Low retention",
+      "right": "High enterprise value"
+     }
+    ]
+   },
+   {
+    "purpose": "Show where real competitive edge comes from in business processes.",
+    "narration": "Real profit aur edge tab milega jab AI aapke daily operations se jud jaye.",
+    "on_screen": "Operations Edge",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Deep Domain Expertise",
+     "Proprietary Workflow",
+     "Embedded System of Record"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Mention data governance requirements for sensitive business data.",
+    "narration": "Customer data safe rakhna aur governance pehle din se plan karna seekho.",
+    "on_screen": "Data Governance",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Protect Customer Data First",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Drive DM engagement with a clear practical takeaway.",
+    "narration": "Comment CHECKLIST, main aapko AI evaluation framework DM kar dunga.",
+    "on_screen": "Comment CHECKLIST",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Get AI Evaluation Guide",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "Why basic AI automation won't give your Indian business a competitive advantage. Building a basic AI prototype or simple workflow automation is easier than ever. However, if a tool can be copied in days by anyone, it will not create long-term business value. Investors and tech experts emphasize that lasting value comes from domain expertise, proprietary distribution networks, and embedding AI deep into your operational systems of record. Before spending money on standalone AI tools, evaluate if they integrate with your core workflows and protect sensitive customer data. Comment CHECKLIST for our 4-step AI evaluation framework.",
+  "hashtags": [
+   "#AIBusiness",
+   "#SmallBusinessIndia",
+   "#BusinessTech",
+   "#AutomationStrategy"
+  ],
+  "keywords": [
+   "AI automation reality check",
+   "business AI adoption India",
+   "vertical AI domain expertise",
+   "enterprise AI integration",
+   "data governance small business"
+  ],
+  "claims": [
+   {
+    "claim": "AI has reduced the manpower needed to build a minimum viable product or demo, making software development more accessible.",
+    "source_id": 84
+   },
+   {
+    "claim": "Products that can be easily replicated within days struggle to retain customers and fail to create lasting value.",
+    "source_id": 84
+   },
+   {
+    "claim": "Long-term value in enterprise AI comes from deep integration into business operations and specialized domain expertise.",
+    "source_id": 84
+   },
+   {
+    "claim": "Data governance and security must be prioritized early when handling sensitive enterprise or customer data.",
+    "source_id": 84
+   }
+  ],
+  "dm_keyword": "CHECKLIST",
+  "dm_text": "Here is the 4-step framework to evaluate AI tools before buying: 1. Uniqueness check: Can a competitor replicate this tool setup in a few days? 2. Operational depth: Does the tool embed directly into your system of record, or is it a standalone workflow? 3. Domain edge: Does it leverage specific industry expertise that gives you a moat? 4. Data governance: Are security and data handling configured from day one for sensitive data?"
+ },
+ "review": {
+  "scores": {
+   "hook": 7,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 9,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 8,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "AI has reduced the manpower needed to build a minimum viable product or demo, making software development more accessible.",
+    "supported": true
+   },
+   {
+    "claim": "Products that can be easily replicated within days struggle to retain customers and fail to create lasting value.",
+    "supported": true
+   },
+   {
+    "claim": "Long-term value in enterprise AI comes from deep integration into business operations and specialized domain expertise.",
+    "supported": true
+   },
+   {
+    "claim": "Data governance and security must be prioritized early when handling sensitive enterprise or customer data.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Scene 2: The diagram is a bit generic; consider adding icons to represent the flow to make it more visually engaging for small business owners.",
+   "Scene 3: The comparison table is clean, but the font size for the table content is slightly small for mobile viewing."
+  ],
+  "issues": [
+   "The hook is solid but could be punchier by directly referencing the 'trap' of cheap AI tools.",
+   "The transition between the 'easy to copy' concept and 'data governance' feels slightly abrupt."
+  ],
+  "fix_instructions": "1. In Scene 2, replace the text-only boxes with simple icons (e.g., a gear for workflow, a rocket for MVP) to improve visual hierarchy. 2. Increase the font size in the Scene 3 comparison table by 10-15% to ensure readability on smaller screens. 3. Add a 1-second transition slide or a brief bridge sentence between Scene 4 and 5 to better connect the 'competitive edge' topic to 'data governance' (e.g., 'But even with a great edge, you need to be safe'). 4. Otherwise, the content is strong and ready for publication."
+ },
+ "rules": [],
+ "reasons": [
+  "hook 7/10 (<8)",
+  "originality 7/10 (<8)",
+  "reel is 86.2 s long (max 45 s; aim for 15-35 s)"
+ ],
+ "meta": {
+  "duration": 86.2,
+  "voice": "gemini",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-12/R2-2026-11-12/try3/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-12/R2-2026-11-12/try3/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-12/R2-2026-11-12/try3/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-12/R2-2026-11-12/try3/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-12/R2-2026-11-12/try3/scene_05.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-12/R2-2026-11-12/try3/scene_06.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   57.72,
+   3.59,
+   3.29,
+   3.92,
+   14.17,
+   3.47
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-12/R2-2026-11-12/try3",
+ "attempt": 3,
+ "approved": false,
+ "hook": "AI automation khareedne se pehle ye reality check zaroor dekho.",
+ "log": [
+  "attempt 1: fail {'hook': 6, 'originality': 5, 'practical_value': 4, 'natural_language': 7, 'accuracy': 8, 'narrative': 6, 'visual_integrity': 8, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 5} ['hook 6/10 (<8)', 'originality 5/10 (<8)', 'practical_value 4/10 (<8)', 'natural_language 7/10 (<8)']",
+  "attempt 2: rules failed: ['scene 2 narration 21 words (want 4-14)', 'scene 5 narration 20 words (want 4-14)']",
+  "attempt 3: fail {'hook': 7, 'originality': 7, 'practical_value': 8, 'natural_language': 9, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['hook 7/10 (<8)', 'originality 7/10 (<8)', 'reel is 86.2 s long (max 45 s; aim for 15-35 s)']",
+  "attempt 4: fail {'hook': 8, 'originality': 6, 'practical_value': 5, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 6/10 (<8)', 'practical_value 5/10 (<8)']"
+ ],
+ "material": "[84] YourStory — Seed funding’s new reality check in the age of AI\nURL: https://yourstory.com/2026/11/seed-fundings-new-reality-check-in-the-age-of-ai\nSidebar is Loading... ADVERTISEMENT Seed funding’s new reality check in the age of AI | YourStory AI has made it easier for founders to build products, test ideas, reach customers and, in some cases, generate revenue earlier. But as the barriers to starting a company fall, are investors raising the bar for their first institutional cheque?\nThis was the central question at ‘First Cheque, Harder Questions: The New Seed Playbook’, a panel discussion at TechSparks 2026.\nThe session featured Yoonmin Cho, APJ Lead, Snowflake for Startups; Shashank Randev, Founder and General Partner, 247VC; and Anvesh Ramineni, Venture Partner, Endiya. Moderated by Shubhangi Mishra, Senior Creative Lead, YourStory, the discussion examined what investors now expect at the seed stage and whether traditional startup metrics still hold the same weight.\nCho said AI has changed the venture capital ecosystem, particularly after a period of slower funding. At Snowflake, there is considerable interest in enterprise AI, especially vertical AI, along with emerging opportunities in frontier AI.\nWhile AI has made product development more accessible, Cho said founders still need to focus on business fundamentals. A clear competitive advantage, whether through domain expertise, distribution or other strengths, is increasingly important.\nRandev said AI is also changing how investors evaluate enterprise technology companies.\nAdvances in AI are helping deeptech startups develop prototypes and move towards product-market fit faster, but enterprise technology faces a different challenge. AI is replacing several standalone enterprise products, making it harder to identify which solutions will remain relevant over time.\n“I think it’s becoming a little more tricky to understand which product in an enterprise tech ecosystem will survive a five-year journey,” he said.\nRandev added that AI has disrupted enterprise technology models that have existed for 10–15 years, complicating how investors assess individual products and their place in the value chain.\nRamineni agreed that AI has reduced the manpower needed to build a minimum viable product (MVP) or demo. However, because similar technology is available to everyone, a working product is no longer enough to stand out.\n“What founders really need to work on is beyond the product itself. What do they bring to the table that can set them apart from everyone building in the same industry?” he said.\nRamineni also sees an opportunity for Indian startups in vertical AI.\nWhile India may not have foundational AI capabilities comparable to companies such as OpenAI and Anthropic, it has considerable domain expertise.\nHe cited semiconductor design, noting that 30% of the global semiconductor design workforce is based in India. Access to specialized talent and industry knowledge could help Indian startups build competitive vertical AI applications.\nWith MVPs becoming easier to develop, investors are looking more closely at the founders, the problems they are solving, and their competitive advantages.\nFor Cho, the starting point is understanding customers and identifying problems they are willing to pay to solve.\nShe said startups must approach their work as businesses rather than simply product-development exercises. Founders need to understand customer pain points and workflows, build strong teams, and develop expertise that competitors cannot easily replicate.\nThey must also provide tangible evidence of why their businesses can succeed.\nRandev outlined five parameters he considers when evaluating startups: the founders’ backgrounds and complementary skills; their understanding of the total addressable market (TAM) and go-to-market strategy; the business model; intellectual property or other competitive advantages; and the value investors can add after investing.\nIn deeptech, he said, teams need both technical expertise and the ability to build a business.\nHowever, founder vision remains particularly important.\n“At least one founder needs to have a vision. Without that, it’s very difficult for VCs to inculcate that vision. We are backing the founder,” Randev said.\nHe referred to investments in the battery ecosystem, plastic segregation robotics, and 3D metal printing. Despite operating in specialized sectors, the founders shared a clear vision of what they wanted to build and how they intended to grow their companies.\nRamineni said MVPs and demos have become basic expectations rather than reasons to invest.\nFounders must demonstrate an advantage that competitors cannot easily copy. This could come from proprietary distribution networks, deep domain expertise, or an established reputation in their industry.\nA product that another company can replicate within days is unlikely to provide a lasting advantage, although deeptech and biotech businesses differ because of their underlying technology.\nIn enterprise AI, Ramineni said investors are also looking beyond basic workflow automation.\nProducts that can be easily replicated or replaced may struggle to retain customers. Instead, solutions that become embedded in an enterprise's operations are more likely to create long-term value.\nHe pointed to systems of record that build a context layer around an organization’s business processes. As these systems become more closely integrated with operations, they become harder to replace.\nData governance: A priority from day one?\nAs startups adopt AI, data governance, security, and infrastructure are becoming important considerations. But should founders prioritize these before achieving product-market fit?\nCho said the answer depends on the product and its customers.\n“If you’re building a product that deals with sensitive data, or you’re working with enterprise customers, you definitely need to think about the governance and safety, security from the beginning,” she said.\nAddressing these requirements later can be considerably more expensive, particularly for companies handling sensitive information or serving enterprise customers.\nCho cited a company that invested in a stable data platform after its CTO recognized the time and resources involved in repeatedly hiring, training, and replacing engineers to manage its data infrastructure.\nThe decision was based on the company’s business priorities rather than the technology itself.\nShe said founders should make infrastructure and platform decisions based on business needs, particularly when those investments help them operate more efficiently, move faster, and reach customers sooner.\nThe discussion also examined the indicators investors now consider when evaluating seed-stage startups.\nFor Cho, repeat users are an important sign of sustained customer demand.\nRandev looks for customer retention and recurring engagement in enterprise and consumer technology businesses. However, he said deeptech and advanced manufacturing startups can still attract investment at the prototype stage.\nRamineni said the broader question is whether the founder is the r",
+ "id": "R2-2026-11-12",
+ "caption_final": "Why basic AI automation won't give your Indian business a competitive advantage. Building a basic AI prototype or simple workflow automation is easier than ever. However, if a tool can be copied in days by anyone, it will not create long-term business value. Investors and tech experts emphasize that lasting value comes from domain expertise, proprietary distribution networks, and embedding AI deep into your operational systems of record. Before spending money on standalone AI tools, evaluate if they integrate with your core workflows and protect sensitive customer data. Comment CHECKLIST for our 4-step AI evaluation framework.\n\n#AIBusiness #SmallBusinessIndia #BusinessTech #AutomationStrategy"
+}

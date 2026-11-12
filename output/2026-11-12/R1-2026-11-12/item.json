@@ -1,0 +1,240 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Why you should never link your banking or personal finance accounts to AI agents",
+  "angle": "The privacy gap between free AI chats and secure financial data",
+  "audience_problem": "Owners are risking bank account compromise by feeding raw financial data into public AI models.",
+  "format": "problem_fix",
+  "medium": "reel",
+  "source_ids": [
+   11,
+   23
+  ],
+  "evergreen": true,
+  "keywords": [
+   "data privacy",
+   "banking security",
+   "AI risks",
+   "business finance"
+  ],
+  "scores": {
+   "relevance": 10,
+   "novelty": 7,
+   "hook_potential": 10,
+   "retention": 9,
+   "save_share": 10,
+   "feasibility": 10,
+   "evidence": 9,
+   "viral": 10
+  },
+  "total": 9.46
+ },
+ "piece": {
+  "hooks": [
+   "Major banks aur airlines AI agents ko block kyon kar rahe hain?",
+   "AI agents ko apne payment credentials dena kyon risky hai?",
+   "Kya aapka AI agent aapke bank account se wrong purchase kar sakta hai?",
+   "Large companies AI tools ki banking access kyon rok rahi hain?",
+   "AI agents ko apne payment login details dena turant band karo."
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "It sparks strong curiosity among business owners who are adopting AI, highlighting actions taken by major institutions without triggering clickbait filters.",
+  "title": "Why Banks and Airlines Block AI Agents",
+  "scenes": [
+   {
+    "purpose": "Hook",
+    "narration": "Major banks aur airlines AI agents ko block kyon kar rahe hain?",
+    "on_screen": "AI Agents Blocked",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Banks and Airlines Block AI Agents",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Stakes and evidence",
+    "narration": "United aur major banks ne third party AI agents ki access rok di hai.",
+    "on_screen": "Access Restricted",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "United Airlines blocked agents",
+     "Major banks placed restrictions",
+     "eBay blocked browsing agents"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "How AI agents operate",
+    "narration": "Meta Muse aur OpenAI Dots jaise agents payment credentials maangte hain.",
+    "on_screen": "Credential Risk",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "User gives credentials",
+     "AI agent logs in",
+     "Auto booking attempted"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Risks of credential sharing",
+    "narration": "Isse sensitive financial data leak aur unintended purchases ka risk badhta hai.",
+    "on_screen": "Financial Risks",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "Direct Access",
+    "right_label": "AI Agent Access",
+    "rows": [
+     {
+      "left": "User verifies details",
+      "right": "Exposes sensitive credentials"
+     },
+     {
+      "left": "Controlled spending",
+      "right": "Unintended purchases risk"
+     }
+    ]
+   },
+   {
+    "purpose": "Payoff and comment hook",
+    "narration": "AI ko payment logins dene se bacho. Comment AGENT, main safety guide DM kar dunga.",
+    "on_screen": "Comment AGENT",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Comment AGENT for Safety Checklist",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "Why major banks and airlines are blocking third party AI agents from accessing user accounts.\n\nIf you are planning to let AI agents make bookings or manage payments for your business, be careful. Major companies like United Airlines, eBay, and several big banks have started blocking third-party AI agents like Meta Muse and OpenAI Dots. Sharing account credentials with AI assistants can expose sensitive financial information and lead to unintended purchases or account modifications. Always keep payment access separate from public AI tools.\n\nComment AGENT for the full AI security checklist.",
+  "hashtags": [
+   "#AIAgents",
+   "#CyberSecurityIndia",
+   "#BusinessAutomation",
+   "#DataPrivacy",
+   "#FintechIndia"
+  ],
+  "keywords": [
+   "AI agents banking security",
+   "United Airlines AI ban",
+   "Meta Muse AI privacy",
+   "AI payment risks",
+   "business data safety AI"
+  ],
+  "claims": [
+   {
+    "claim": "United Airlines and several major banks have restricted third-party AI agents from transacting or making flight reservations.",
+    "source_id": 11
+   },
+   {
+    "claim": "AI agents like Meta's Muse and OpenAI's Dots require access to customer credentials and payment information to complete purchases.",
+    "source_id": 23
+   },
+   {
+    "claim": "Sharing credentials with AI assistants can expose sensitive data and cause unintended purchases or account changes.",
+    "source_id": 23
+   },
+   {
+    "claim": "eBay appears to have blocked third-party AI agents from browsing or transacting on its site.",
+    "source_id": 11
+   }
+  ],
+  "dm_keyword": "AGENT",
+  "dm_text": "AI Agent Security Checklist for Business Owners:\n1. Never share net banking credentials, UPI PINs, or account passwords with third-party AI assistants.\n2. AI tools like Meta Muse and OpenAI Dots require saved credentials to make purchases, which creates severe privacy risks.\n3. Major platforms like United Airlines, eBay, and top banks have blocked AI agents to prevent data leaks and unauthorized transactions.\n4. Keep payment execution manual or use official bank APIs instead of public AI chat agents."
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 9,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "United Airlines and several major banks have restricted third-party AI agents from transacting or making flight reservations.",
+    "supported": true
+   },
+   {
+    "claim": "AI agents like Meta's Muse and OpenAI's Dots require access to customer credentials and payment information to complete purchases.",
+    "supported": true
+   },
+   {
+    "claim": "Sharing credentials with AI assistants can expose sensitive data and cause unintended purchases or account changes.",
+    "supported": true
+   },
+   {
+    "claim": "eBay appears to have blocked third-party AI agents from browsing or transacting on its site.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [],
+  "issues": [
+   "The term 'AI agents' is used broadly; ensure the audience understands these are specific third-party tools, not just any AI integration.",
+   "The distinction between 'browsing' and 'transacting' could be clearer in the visual diagrams to avoid over-generalizing the ban."
+  ],
+  "fix_instructions": "The content is strong and ready for publication. Ensure the caption includes a clear disclaimer that this advice is for general security awareness and not specific financial or legal advice. The visual hierarchy is excellent; maintain this clean, minimalist aesthetic for future reels."
+ },
+ "rules": [],
+ "reasons": [],
+ "meta": {
+  "duration": 42.4,
+  "voice": "gemini",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-12/R1-2026-11-12/try2/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-12/R1-2026-11-12/try2/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-12/R1-2026-11-12/try2/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-12/R1-2026-11-12/try2/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-12/R1-2026-11-12/try2/scene_05.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   11.79,
+   14.56,
+   8.11,
+   3.51,
+   4.39
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-12/R1-2026-11-12/try2",
+ "attempt": 2,
+ "approved": true,
+ "hook": "Major banks aur airlines AI agents ko block kyon kar rahe hain?",
+ "log": [
+  "attempt 1: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 9, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['reel is 75.1 s long (max 45 s; aim for 15-35 s)']",
+  "attempt 2: PASS {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 9, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} []"
+ ],
+ "material": "[11] The Verge AI — United won’t let your AI agent book your flight\nURL: https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents\nUnited won’t let your AI agent book your flight | The Verge Skip to main content The homepage The Verge The Verge logo. The homepage The Verge The Verge logo. Notifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo. Login / Sign Up\nComments Loading comments Getting the conversation ready... AI\nAI agents can’t attest that you don’t have explosives in your bags.﻿\nAI agents can’t attest that you don’t have explosives in your bags.﻿\nLauren Feiner Nov 11, 2026, 9:54 PM UTC Link\nIf you buy something from a link, The Verge may earn a commission. See our ethics statement.\nLauren Feiner is a senior policy reporter at The Verge, covering the intersection of Silicon Valley and Capitol Hill. She spent 5 years covering tech policy at CNBC, writing about antitrust, privacy, and content moderation reform. United says it won’t let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns.\nThe company says it hasn’t yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports , in line with observations from other businesses like Doordash . But United is concerned that agents could expose customers’ information or make purchases they didn’t intend, and potentially skirt federal rules about the kind of information airlines need to share with customers — like having them attest that their bags don’t have explosives.\nAI agents are causing massive headaches for banks.\neBay appears to have shut the door on third-party AI agents\nWhile agents can still show users United flights, they won’t be able to actually complete the transaction on their behalf. The decision, and others like it, could limit the potential usefulness of newer personal AI assistants like Meta’s Muse and OpenAI’s Dots . “To be honest, I don’t want to create another middleman,” United CEO Scott Kirby said at an event on Tuesday, according to the Journal .\nAcross sectors, businesses are grappling with whether to let AI agents transact on their sites, and United is not alone in blocking access for unauthorized agents. eBay appeared to block agents from browsing the site, and several major banks have also placed restrictions on them. United suggests it could reconsider its decision based on future advancements. “As third-party AI agents advance, we see the opportunities they present. However, at the same time, allowing them to interact directly with a United account or booking could involve sensitive actions, and we want to make sure we have established protections for travelers first.”\nNvidia is reportedly preparing to fire Jensen Huang\nNot everyone is loving their new iPhone Duo\nI asked every TV manufacturer 17 questions about how they spy on you\nAnthropic has its own AI-powered office suite now\nMicrosoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode\nThe Verge The Verge logo. Sign in to see your notifications or create an account to join the conversation.\n\n[23] Hacker News — United Airlines bans AI agents from booking flights on behalf of travelers\nURL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/\nUnited Airlines said on Wednesday that it is banning artificial intelligence agents from making flight reservations on behalf of travelers, citing security risks and the possibility that such actions could violate federal rules.\nMany consumers are turning to AI agents such as Meta's Muse and OpenAI's dots to complete tasks ranging from researching products and tracking down deals to making purchases.\nTo make an airline booking, an AI agent requires access to a customer's personal information, including credentials like payment information. United has a problem with that, saying that \"sharing account credentials with personal, third-party, AI assistants can expose sensitive information, and actions taken by these tools may result in unintended purchases, account changes, or use of MileagePlus miles.\"\nThe carrier also said that using an AI agent to, for example, check in for a flight could violate federal regulations, including rules requiring travelers to verify in person that their luggage does not contain banned substances.\n\"As a result, United is taking steps to restrict access — directly within our digital platforms and indirectly via travel agencies and aggregators — to prohibit use by unauthorized, third-party personal AI agents or assistants,\" said the airline, which is updating its booking and ticketing policies to reflect the new rule.\nUnited's new policy suggests the company wants to retain control over the customer booking process, said Henry Harteveldt, an aviation analyst at Atmosphere Research Group.\n\"United is saying they don't want to add yet another, and potentially even more powerful, intermediary than they already face in terms of Google search, price-comparison metasearch sites and online travel agencies,\" he told CBS News. \"Flight searches cost airlines money, and undoubtedly United wants to avoid the expense associated with the surge of AI bot flight searches.\"\nOther airlines are taking a different tack to the emergence of AI agents. For example, Southwest has made its flight inventory viewable to ChatGPT users, who can access the airline's website through the AI app.\nUnited fares will continue to be bookable through flight aggregators such as Kayak, Hopper and Google Flights, Harteveldt said, adding that \"consumers shouldn't find it any more difficult to find good fares on the airline.\"\n\"But by blocking the AI bots, United won't make it any easier to find its fares, either,\" he said.\nKris Van Cleave contributed to this report.\nGoogle faces mounting backlash for controversial AI school policy\nDoes travel insurance cover flight delays and cancellations caused by bad weather?\nMicrosoft data center brings \"a kind of boom\" amid AI pushback\nOur AI Leaders Want to Play God. First, They Should Believe in One.",
+ "id": "R1-2026-11-12",
+ "caption_final": "Why major banks and airlines are blocking third party AI agents from accessing user accounts.\n\nIf you are planning to let AI agents make bookings or manage payments for your business, be careful. Major companies like United Airlines, eBay, and several big banks have started blocking third-party AI agents like Meta Muse and OpenAI Dots. Sharing account credentials with AI assistants can expose sensitive financial information and lead to unintended purchases or account modifications. Always keep payment access separate from public AI tools.\n\nComment AGENT for the full AI security checklist.\n\n#AIAgents #CyberSecurityIndia #BusinessAutomation #DataPrivacy #FintechIndia"
+}

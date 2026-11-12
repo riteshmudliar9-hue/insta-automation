@@ -1,0 +1,272 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Using Gemini API for fast, automated business decisions on receipts",
+  "angle": "Stop manually reading invoices; use Gemini's new API for instant, accurate data extraction",
+  "audience_problem": "Owners spend hours typing invoice data into Excel, leading to entry errors.",
+  "format": "demo",
+  "medium": "reel",
+  "source_ids": [
+   26,
+   30
+  ],
+  "evergreen": true,
+  "keywords": [
+   "Gemini API",
+   "invoices",
+   "automation",
+   "data entry"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 8,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 8,
+   "evidence": 9,
+   "viral": 9
+  },
+  "total": 8.72
+ },
+ "piece": {
+  "hooks": [
+   "Har invoice ko manually read karna band karo. Ye dekho.",
+   "Stop doing manual invoice entry. Iski jagah ye karo.",
+   "90% shop owners invoice data entry mein ye galti karte hain.",
+   "Ye naya Google AI tool aapke invoice ka kaam 5 minute mein karta hai.",
+   "Accounting aur GST sheets ke liye purana AI mat use karo."
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "It addresses a specific daily pain point (manual data entry) for the audience with a direct command to stop, which is highly relatable for shop and small business owners.",
+  "title": "Automating Invoice Data Extraction with Gemini Decisions API",
+  "scenes": [
+   {
+    "purpose": "Hook the viewer with the problem.",
+    "narration": "Har invoice ko manually read karna band karo. Ye dekho.",
+    "on_screen": "Stop Manual Data Entry",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Manual entry is wasting hours",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Contrast standard LLMs with the new API.",
+    "narration": "Purane tools har word read karte hain. Ye tool sirf decision leta hai.",
+    "on_screen": "Speed Up Your Workflow",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "Standard AI vs Gemini Decisions",
+    "steps": [],
+    "items": [],
+    "left_label": "Standard LLM",
+    "right_label": "Decisions API",
+    "rows": [
+     {
+      "left": "Slow token decoding",
+      "right": "Fast single pass"
+     },
+     {
+      "left": "High output cost",
+      "right": "Zero output cost"
+     },
+     {
+      "left": "Variable latency",
+      "right": "150-250ms speed"
+     }
+    ]
+   },
+   {
+    "purpose": "Explain the speed benefit.",
+    "narration": "Result milta hai 200 millisecond mein. Matlab bilkul fast.",
+    "on_screen": "Instant Data Processing",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Faster than reading yourself",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Show the simplicity of the logic.",
+    "narration": "Aap isse yes-no ya rubric score pooch sakte ho. Bilkul seedha.",
+    "on_screen": "Simple Decision Logic",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "Define your rules simply",
+    "steps": [
+     "Upload receipt file",
+     "Define your yes-no check",
+     "Get instant confidence score"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Mention accessibility for owners.",
+    "narration": "Apne developer se bolo Google AI Studio mein setup kare.",
+    "on_screen": "Build with your dev",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "How to start today",
+    "steps": [],
+    "items": [
+     "Get API key in Studio",
+     "Use Gemini Decision 1",
+     "Automate your daily receipts"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Call to action.",
+    "narration": "Comment FAST, main aapko setup guide DM kar dunga.",
+    "on_screen": "Comment FAST below",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Start saving time today",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "Stop wasting time on manual invoice data entry for your shop or business. The new Gemini Decisions API allows for instant, low-latency extraction and classification of receipts, PDFs, and images, helping you move from manual typing to automated verification in milliseconds. Unlike standard LLMs that generate long text, this tool focuses on specific decision-making like policy checks and grading, costing only $0.10 per 1M input tokens with zero output token fees. You can start prototyping today in Google AI Studio. Talk to your technical partner or developer about integrating this into your current accounting flow. Comment FAST for the link to the Google AI Studio setup documentation and guides.",
+  "hashtags": [
+   "#BusinessAutomation",
+   "#SmallBusinessIndia",
+   "#GeminiAI",
+   "#Efficiency"
+  ],
+  "keywords": [
+   "invoice automation",
+   "business efficiency",
+   "Gemini Decisions API",
+   "data entry",
+   "small business tech"
+  ],
+  "claims": [
+   {
+    "claim": "Gemini Decision 1 processes inputs in 150-250 ms end-to-end latency.",
+    "source_id": 26
+   },
+   {
+    "claim": "The cost is $0.10 per 1M input tokens with zero output tokens billed.",
+    "source_id": 26
+   },
+   {
+    "claim": "The API supports text, images, audio, video, and PDFs in a single pass.",
+    "source_id": 30
+   },
+   {
+    "claim": "Users can define up to 1,000 independent questions per request.",
+    "source_id": 30
+   }
+  ],
+  "dm_keyword": "FAST",
+  "dm_text": "Thanks for asking! You can start building your invoice automation using the Gemini Decisions API by following these steps: 1. Sign in to Google AI Studio to get your API key. 2. Review the documentation for the 'Gemini Decision 1' model. 3. Use the Python, JavaScript, or REST guides to set up your workflow. You can read the full documentation here: https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/ This tool helps you process receipts and documents in a single pass without the high cost of standard LLMs. Let me know if you need help with the technical steps!"
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 7,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 7,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 7
+  },
+  "claims": [
+   {
+    "claim": "Gemini Decision 1 processes inputs in 150-250 ms end-to-end latency.",
+    "supported": true
+   },
+   {
+    "claim": "The cost is $0.10 per 1M input tokens with zero output tokens billed.",
+    "supported": true
+   },
+   {
+    "claim": "The API supports text, images, audio, video, and PDFs in a single pass.",
+    "supported": true
+   },
+   {
+    "claim": "Users can define up to 1,000 independent questions per request.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Scene 1: The subtitle 'karo.' is orphaned at the bottom; it should be integrated into the main text block or appear with the full sentence.",
+   "Scene 4: The diagram flow is clear, but the subtitle 'sakte ho.' is cut off from the main narration, creating a disjointed reading experience.",
+   "Scene 5: The subtitle 'mein setup kare.' is grammatically incomplete and feels like a fragment of the previous scene's narration."
+  ],
+  "issues": [
+   "The technical barrier is high: telling a small business owner to 'talk to their developer' is a significant friction point that might reduce the practical value for non-technical users.",
+   "The distinction between 'Standard LLM' and 'Decisions API' in Scene 2 is good, but the visual could be more impactful if it showed a side-by-side comparison of a JSON output vs a simple decision result."
+  ],
+  "fix_instructions": "1. Fix the subtitle timing: Ensure the full sentence appears in the subtitle box rather than breaking it into fragments that look like errors. 2. Add a 'No-Code' alternative: Mention that tools like Pydantic AI or LangChain (which support this API) can be used by non-developers to lower the barrier to entry. 3. Refine Scene 5: Change the subtitle to 'Ask your dev to set this up' to sound more natural. 4. Ensure the visual hierarchy in Scene 2 is consistent with the brand's navy/cream/saffron palette."
+ },
+ "rules": [
+  "more than one exclamation mark"
+ ],
+ "reasons": [
+  "more than one exclamation mark",
+  "originality 7/10 (<8)",
+  "practical_value 7/10 (<8)",
+  "visual_integrity 7/10 (<8)"
+ ],
+ "meta": {
+  "duration": 33.9,
+  "voice": "edge",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-12/R3-2026-11-12/try4/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-12/R3-2026-11-12/try4/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-12/R3-2026-11-12/try4/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-12/R3-2026-11-12/try4/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-12/R3-2026-11-12/try4/scene_05.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-12/R3-2026-11-12/try4/scene_06.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   5.54,
+   6.54,
+   6.11,
+   6.04,
+   4.92,
+   4.71
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-12/R3-2026-11-12/try4",
+ "attempt": 4,
+ "approved": false,
+ "hook": "Har invoice ko manually read karna band karo. Ye dekho.",
+ "log": [
+  "attempt 1: rules failed: ['more than one exclamation mark', 'dm_text link not from the sources: https://aistudio.google.com/']",
+  "attempt 2: rules failed: ['more than one exclamation mark', 'dm_text link not from the sources: https://aistudio.google.com/.']",
+  "attempt 3: fail {'hook': 6, 'originality': 7, 'practical_value': 6, 'natural_language': 7, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 6, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 6} ['hook 6/10 (<8)', 'originality 7/10 (<8)', 'practical_value 6/10 (<8)', 'natural_language 7/10 (<8)']",
+  "attempt 4: fail {'hook': 8, 'originality': 7, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['more than one exclamation mark', 'originality 7/10 (<8)', 'practical_value 7/10 (<8)', 'visual_integrity 7/10 (<8)']"
+ ],
+ "material": "[26] Hacker News — Gemini Decisions API\nURL: https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/\nGemini Decisions API: Fast, calibrated multimodal decisions Nov 11, 2026\nIntroducing the Gemini Decisions API, powered by our new Gemini Decision 1 model. Evaluate up to 1,000 yes/no, choice, and rubric-scoring questions in a fast, single pass across text, images, audio, video, and PDFs.\nYour browser does not support the audio element.\nWe are introducing the Gemini Decisions API to help you make fast, probabilistic choices across text, images, audio, video, and PDFs. This tool computes confidence scores for multiple questions in a single pass, providing a cost-effective way to route queries, grade content, or check policy rules. You can start building today by accessing your API key in Google AI Studio and reviewing our documentation for Python, JavaScript, and REST guides.\nToday, we’re introducing the Gemini Decisions API, a new endpoint for fast, closed-set decisions powered by our new Gemini Decision 1 model (gemini-decision-1), available through the Gemini API in Google AI Studio .\nThe Decisions API gives you purpose-built primitives for bounded choices like tool selection, policy checks, model routing, and context grading. You can pass one multimodal input across text, images, audio, video, and PDFs (up to 256K tokens) along with up to 1,000 independent questions. Rather than generating answer text token by token, Gemini Decision 1 scores your candidate options in a single forward pass, returning probabilities and confidence scores in 150-250 ms end-to-end latency at $0.10 per 1M input tokens with zero output tokens billed.\nOn benchmarks spanning agent routing, reasoning, ranking, and multimodal understanding, Gemini Decision 1 leads across the suite, with the lowest calibration error.\nGemini Decision 1 scores options without token-by-token decoding, keeping median latency 50-100 ms of model compute (150-250 ms end-to-end), across multimodal inputs and contexts up to 16K tokens, remaining nearly flat from 1 to 100 questions per request. With zero output tokens billed, Gemini Decision 1 with the Decisions API is nearly 5x cheaper across the shared benchmark suite than Gemini 3.5 Flash-Lite with the Interactions API.\nNative multimodal evaluation across three decision types in one pass\nBuilt on Gemini’s native multimodal architecture, Gemini Decision 1 can process text, images, audio, video, and PDFs directly in a single forward pass. You can combine modalities in one shared input, such as pairing a call recording with account metadata or a scanned PDF claim with damage photos, and tune resolution on image and video inputs to control visual detail and token cost.\nYou can evaluate multiple questions against that shared input in a single request, mixing yes/no checks, multiple choice, and rubric scores. Every answer includes a confidence score (from 0 to 1) so your code can route ambiguous cases to a fallback or human reviewer:\nnoul (Yes/No): Estimates the probability that a yes/no condition holds, with optional true and false description criteria.\nchoice (Multiple Choice): Selects from 2 to 255 choices, returning the winner and normalized probabilities for every candidate.\nscore (Ordered Rubric): Grades inputs across an ordered rubric (starting at 0), returning a continuous weighted score and per-level probabilities.\nThe input field uses the same Content block format as the Interactions API . Here is how to check a photo of a breakroom counter, together with a text note, against all three question types in one request:\nfrom google import genai client = genai.Client(http_options={\"api_version\": \"v1beta\"}) result = client.decisions.create( model=\"gemini-decision-1\", input=[{ \"type\": \"image\", \"uri\": \"https://storage.googleapis.com/generativeai-downloads/images/spill.jpg\", \"mime_type\": \"image/jpeg\", }, { \"type\": \"text\", \"text\": \"Breakroom counter check before the 9 AM client meeting.\", }, ], questions={ \"has_spill\": { \"type\": \"noul\", \"instructions\": \"Is there an uncleaned liquid spill on the counter?\", }, \"next_action\": { \"type\": \"choice\", \"instructions\": \"Which cleanup action fits the scene?\", \"criteria\": { \"wipe_with_cloth\": \"Small counter spill with a cloth or towel already nearby.\", \"dispatch_janitorial\": \"Large floor hazard, broken glass, or active leak.\", \"ready_for_meeting\": \"Counter is clean and ready.\", }, }, \"severity\": { \"type\": \"score\", \"instructions\": \"Rate the severity of the counter mess.\", \"criteria\": [ \"Clean and ready.\", \"Minor localized spill.\", \"Major spill or safety hazard.\", ], }, }, ) How teams are building with the Decisions API\nTeams across Google are already using the Decisions API as a low-latency control plane, shipping features simply by defining options rather than training custom classifiers or waiting on generative calls:\nDynamic model routing in Gemini Notebook: Gemini Notebook uses the Decisions API as a real-time router to instantly direct incoming queries to the optimal model tier and thinking level for each request. The Decisions API classifies intent in milliseconds to serve everyday queries with up to 40% lower latency while reserving deep reasoning models for complex tasks.\nRapid design iteration in Stitch: The new rapid canvas experiment in Stitch uses the Decisions API to generate playable wireframes of a product flow in seconds and to apply edits made by voice or tap almost instantly. When the flow feels right, one click hands the screens off to the full Stitch experience for deeper design polish.\nEmoji selection in CC: CC from Google Labs uses the Decisions API to pick the right emoji reaction from a palette of more than 200 options in a fraction of a second, so reactions appear instantly without adding latency.\nSafety layer for MCP tools in Search : Google Search uses the Decision API to detect adversarial behavior and content against adversarial evals with high efficacy within the latency envelope.\nStitch Rapid uses the Decisions API to design an entire product flow in seconds (1x speed).\nGemini Decision 1 is priced at $0.10 per 1M input tokens and $0 for output tokens, with an API no-cost tier you can use in Google AI Studio for prototyping. Your shared input is billed once per request no matter how many questions you evaluate (each question adds only its own instruction and criteria tokens). There are no output-token charges, variable thinking-token bills, or separate audio transcription and OCR costs.\nYou can start building today by grabbing an API key in Google AI Studio , trying our Doorstep Parcels , Speed Sketch , and Find the Zoo Keeper demo apps, and following the Python, JavaScript, and REST guides in the Decisions API documentation .\nEcosystem integrations are rolling out across OpenRouter , LangChain , Vercel , LiteLLM , Pydantic AI , Pipecat , LiveKit , and OpenCode alongside the google-genai SDKs, with support coming soon to Gemini in Google Cloud.\nGet the latest news from Google in your inbox\nSign up for our newsletters with product updates, event information, special offers, and more.\nCheck your inbox to confi\n\n[30] Google AI Blog — Gemini Decisions API: Fast, calibrated multimodal decisions\nURL: https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/\nGemini Decisions API: Fast, calibrated multimodal decisions Nov 11, 2026\nIntroducing the Gemini Decisions API, powered by our new Gemini Decision 1 model. Evaluate up to 1,000 yes/no, choice, and rubric-scoring questions in a fast, single pass across text, images, audio, video, and PDFs.\nYour browser does not support the audio element.\nWe are introducing the Gemini Decisions API to help you make fast, probabilistic choices across text, images, audio, video, and PDFs. This tool computes confidence scores for multiple questions in a single pass, providing a cost-effective way to route queries, grade content, or check policy rules. You can start building today by accessing your API key in Google AI Studio and reviewing our documentation for Python, JavaScript, and REST guides.\nToday, we’re introducing the Gemini Decisions API, a new endpoint for fast, closed-set decisions powered by our new Gemini Decision 1 model (gemini-decision-1), available through the Gemini API in Google AI Studio .\nThe Decisions API gives you purpose-built primitives for bounded choices like tool selection, policy checks, model routing, and context grading. You can pass one multimodal input across text, images, audio, video, and PDFs (up to 256K tokens) along with up to 1,000 independent questions. Rather than generating answer text token by token, Gemini Decision 1 scores your candidate options in a single forward pass, returning probabilities and confidence scores in 150-250 ms end-to-end latency at $0.10 per 1M input tokens with zero output tokens billed.\nOn benchmarks spanning agent routing, reasoning, ranking, and multimodal understanding, Gemini Decision 1 leads across the suite, with the lowest calibration error.\nGemini Decision 1 scores options without token-by-token decoding, keeping median latency 50-100 ms of model compute (150-250 ms end-to-end), across multimodal inputs and contexts up to 16K tokens, remaining nearly flat from 1 to 100 questions per request. With zero output tokens billed, Gemini Decision 1 with the Decisions API is nearly 5x cheaper across the shared benchmark suite than Gemini 3.5 Flash-Lite with the Interactions API.\nNative multimodal evaluation across three decision types in one pass\nBuilt on Gemini’s native multimodal architecture, Gemini Decision 1 can process text, images, audio, video, and PDFs directly in a single forward pass. You can combine modalities in one shared input, such as pairing a call recording with account metadata or a scanned PDF claim with damage photos, and tune resolution on image and video inputs to control visual detail and token cost.\nYou can evaluate multiple questions against that shared input in a single request, mixing yes/no checks, multiple choice, and rubric scores. Every answer includes a confidence score (from 0 to 1) so your code can route ambiguous cases to a fallback or human reviewer:\nnoul (Yes/No): Estimates the probability that a yes/no condition holds, with optional true and false description criteria.\nchoice (Multiple Choice): Selects from 2 to 255 choices, returning the winner and normalized probabilities for every candidate.\nscore (Ordered Rubric): Grades inputs across an ordered rubric (starting at 0), returning a continuous weighted score and per-level probabilities.\nThe input field uses the same Content block format as the Interactions API . Here is how to check a photo of a breakroom counter, together with a text note, against all three question types in one request:\nfrom google import genai client = genai.Client(http_options={\"api_version\": \"v1beta\"}) result = client.decisions.create( model=\"gemini-decision-1\", input=[{ \"type\": \"image\", \"uri\": \"https://storage.googleapis.com/generativeai-downloads/images/spill.jpg\", \"mime_type\": \"image/jpeg\", }, { \"type\": \"text\", \"text\": \"Breakroom counter check before the 9 AM client meeting.\", }, ], questions={ \"has_spill\": { \"type\": \"noul\", \"instructions\": \"Is there an uncleaned liquid spill on the counter?\", }, \"next_action\": { \"type\": \"choice\", \"instructions\": \"Which cleanup action fits the scene?\", \"criteria\": { \"wipe_with_cloth\": \"Small counter spill with a cloth or towel already nearby.\", \"dispatch_janitorial\": \"Large floor hazard, broken glass, or active leak.\", \"ready_for_meeting\": \"Counter is clean and ready.\", }, }, \"severity\": { \"type\": \"score\", \"instructions\": \"Rate the severity of the counter mess.\", \"criteria\": [ \"Clean and ready.\", \"Minor localized spill.\", \"Major spill or safety hazard.\", ], }, }, ) How teams are building with the Decisions API\nTeams across Google are already using the Decisions API as a low-latency control plane, shipping features simply by defining options rather than training custom classifiers or waiting on generative calls:\nDynamic model routing in Gemini Notebook: Gemini Notebook uses the Decisions API as a real-time router to instantly direct incoming queries to the optimal model tier and thinking level for each request. The Decisions API classifies intent in milliseconds to serve everyday queries with up to 40% lower latency while reserving deep reasoning models for complex tasks.\nRapid design iteration in Stitch: The new rapid canvas experiment in Stitch uses the Decisions API to generate playable wireframes of a product flow in seconds and to apply edits made by voice or tap almost instantly. When the flow feels right, one click hands the screens off to the full Stitch experience for deeper design polish.\nEmoji selection in CC: CC from Google Labs uses the Decisions API to pick the right emoji reaction from a palette of more than 200 options in a fraction of a second, so reactions appear instantly without adding latency.\nSafety layer for MCP tools in Search : Google Search uses the Decision API to detect adversarial behavior and content against adversarial evals with high efficacy within the latency envelope.\nStitch Rapid uses the Decisions API to design an entire product flow in seconds (1x speed).\nGemini Decision 1 is priced at $0.10 per 1M input tokens and $0 for output tokens, with an API no-cost tier you can use in Google AI Studio for prototyping. Your shared input is billed once per request no matter how many questions you evaluate (each question adds only its own instruction and criteria tokens). There are no output-token charges, variable thinking-token bills, or separate audio transcription and OCR costs.\nYou can start building today by grabbing an API key in Google AI Studio , trying our Doorstep Parcels , Speed Sketch , and Find the Zoo Keeper demo apps, and following the Python, JavaScript, and REST guides in the Decisions API documentation .\nEcosystem integrations are rolling out across OpenRouter , LangChain , Vercel , LiteLLM , Pydantic AI , Pipecat , LiveKit , and OpenCode alongside the google-genai SDKs, with support coming soon to Gemini in Google Cloud.\nGet the latest news from Google in your inbox\nSign up for our newsletters with product updates, event information, special offers, and more.\nCheck your inbox to confi",
+ "id": "R3-2026-11-12",
+ "caption_final": "Stop wasting time on manual invoice data entry for your shop or business. The new Gemini Decisions API allows for instant, low-latency extraction and classification of receipts, PDFs, and images, helping you move from manual typing to automated verification in milliseconds. Unlike standard LLMs that generate long text, this tool focuses on specific decision-making like policy checks and grading, costing only $0.10 per 1M input tokens with zero output token fees. You can start prototyping today in Google AI Studio. Talk to your technical partner or developer about integrating this into your current accounting flow. Comment FAST for the link to the Google AI Studio setup documentation and guides.\n\n#BusinessAutomation #SmallBusinessIndia #GeminiAI #Efficiency"
+}

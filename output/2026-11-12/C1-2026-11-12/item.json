@@ -1,0 +1,256 @@
+{
+ "kind": "carousel",
+ "idea": {
+  "idea": "Checklist: Why your AI projects fail due to fragmented data",
+  "angle": "Fix your scattered data across WhatsApp and notebooks before spending money on 'AI'",
+  "audience_problem": "Owners buy AI tools but fail to get results because their source data is unorganized.",
+  "format": "checklist",
+  "medium": "carousel",
+  "source_ids": [
+   87
+  ],
+  "evergreen": true,
+  "keywords": [
+   "data organization",
+   "AI implementation",
+   "business process",
+   "productivity"
+  ],
+  "scores": {
+   "relevance": 10,
+   "novelty": 7,
+   "hook_potential": 8,
+   "retention": 8,
+   "save_share": 10,
+   "feasibility": 10,
+   "evidence": 9,
+   "viral": 8
+  },
+  "total": 8.69
+ },
+ "piece": {
+  "hooks": [
+   "Why your AI tools fail on scattered business data",
+   "Stop buying AI subscriptions before fixing messy shop ledgers",
+   "Why AI models crash without clean customer history"
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "It directly targets Indian SMB owners who buy AI software expecting miracles, pointing right to the root cause: fragmented internal business data across WhatsApp and paper ledgers.",
+  "slides": [
+   {
+    "kind": "cover",
+    "title": "Why your AI tools fail on scattered business data",
+    "subtitle": "Clean up your notebooks, WhatsApp chats, and item rates before buying subscriptions.",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "mythfact",
+    "title": "",
+    "subtitle": "",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "Buying a smarter AI model fixes messy business reporting.",
+    "fact": "AI models are like electricity. Value comes from clean customer history, item rates, and logged decisions you feed them.",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "checklist",
+    "title": "Check these 4 items before buying AI",
+    "subtitle": "",
+    "body": "",
+    "items": [
+     "Standardized item names across stock ledgers and bill books",
+     "Clear history of customer discounts and credit terms",
+     "Written rules on who can approve custom rates",
+     "Organized digital folder of past invoices and receipts"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "compare",
+    "title": "Scattered data vs organized context",
+    "subtitle": "",
+    "body": "",
+    "items": [],
+    "left_label": "Scattered Setup",
+    "right_label": "Organized Context",
+    "rows": [
+     {
+      "left": "Rates split across chats",
+      "right": "Single master rate ledger"
+     },
+     {
+      "left": "Unwritten discount history",
+      "right": "Logged approval reasons"
+     },
+     {
+      "left": "Full access given to bot",
+      "right": "Strict staff permission limits"
+     },
+     {
+      "left": "Raw guesswork prompts",
+      "right": "Audited workflow rules"
+     }
+    ],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "steps",
+    "title": "4 steps to ready your data for AI",
+    "subtitle": "",
+    "body": "",
+    "items": [
+     "Audit where customer chats and quote history live",
+     "Unify stock names across paper registers and sheets",
+     "Write explicit guardrails for custom rates or credit",
+     "Test prototype setups on edge cases before launch"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "summary",
+    "title": "4 rules for AI that actually works",
+    "subtitle": "",
+    "body": "",
+    "items": [
+     "Treat AI like a new junior staff member",
+     "Set guardrails and audit decisions before delegating",
+     "Keep historical data secure with strict access permissions",
+     "Fix workflow bottlenecks before paying for software"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   }
+  ],
+  "caption": "Fixing fragmented business data across WhatsApp chats and paper registers before implementing AI automation. Say you run an electrical supply shop in Pune with three billing counters. If your item rates, customer credit terms, and GST numbers are scattered across WhatsApp chats and paper notebooks, no AI tool can generate accurate quotes or payment reminders. AI models act like electricity; what matters is the business context you plug into them. Start by standardizing your inventory unit names and margin rules across your team. Build quick prototypes to test edge cases before paying annual software fees. Pine Labs cut support tickets by nearly 40% with their assistant Guide by treating AI like a new employee—training it, setting strict permissions, and auditing decisions. Where is your shop customer data currently stored?",
+  "hashtags": [
+   "#SmallBusinessIndia"
+  ],
+  "keywords": [
+   "small business AI",
+   "business data strategy",
+   "WhatsApp invoice management",
+   "GST ledger cleanup",
+   "AI implementation tips"
+  ],
+  "claims": [
+   {
+    "claim": "AI models are like electricity, and business value comes from what companies plug into them like internal metric definitions and past decision history.",
+    "source_id": 87
+   },
+   {
+    "claim": "Building a demo is easy, but production systems need a secure data foundation, observability, and permission controls.",
+    "source_id": 87
+   },
+   {
+    "claim": "Pine Labs treats AI agents like human employees: training them, setting guardrails, auditing judgment, and delegating as confidence grows.",
+    "source_id": 87
+   },
+   {
+    "claim": "Pine Labs merchant assistant Guide cut customer support tickets by almost 40 percent.",
+    "source_id": 87
+   },
+   {
+    "claim": "Pine Labs product managers build prototypes instead of writing PRDs to surface edge cases earlier.",
+    "source_id": 87
+   }
+  ]
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 9,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "AI models are like electricity, and business value comes from what companies plug into them.",
+    "supported": true
+   },
+   {
+    "claim": "Building a demo is easy, but production systems need a secure data foundation.",
+    "supported": true
+   },
+   {
+    "claim": "Pine Labs treats AI agents like human employees: training them, setting guardrails, and auditing judgment.",
+    "supported": true
+   },
+   {
+    "claim": "Pine Labs merchant assistant Guide cut customer support tickets by almost 40 percent.",
+    "supported": true
+   },
+   {
+    "claim": "Pine Labs product managers build prototypes instead of writing PRDs to surface edge cases earlier.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [],
+  "issues": [
+   "The transition from slide 3 to 4 is slightly jarring; slide 3 is a checklist, and slide 4 is a comparison table, but the content feels like it could be merged or reordered for better flow.",
+   "The caption is excellent but quite long; ensure the first two lines are punchy enough to encourage clicking 'more'."
+  ],
+  "fix_instructions": "The content is strong and highly relevant to the target audience. No major changes needed. Just ensure the caption's first two lines are optimized for the 'more' click-through rate. The visual hierarchy is clean and consistent with the brand guidelines."
+ },
+ "rules": [
+  "need 3-5 hashtags, got 1"
+ ],
+ "reasons": [
+  "need 3-5 hashtags, got 1"
+ ],
+ "meta": {
+  "ai_visuals": false,
+  "slides": 6
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-12/C1-2026-11-12/try2",
+ "attempt": 2,
+ "approved": false,
+ "hook": "Why your AI tools fail on scattered business data",
+ "log": [
+  "attempt 1: fail {'hook': 7, 'originality': 7, 'practical_value': 6, 'natural_language': 7, 'accuracy': 9, 'narrative': 6, 'visual_integrity': 8, 'pacing': 6, 'brand_consistency': 9, 'publish_readiness': 6} ['hook 7/10 (<8)', 'originality 7/10 (<8)', 'practical_value 6/10 (<8)', 'natural_language 7/10 (<8)']",
+  "attempt 2: fail {'hook': 8, 'originality': 7, 'practical_value': 9, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} ['need 3-5 hashtags, got 1']",
+  "attempt 3: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} [\"banned phrase used: 'seamless'\"]"
+ ],
+ "material": "[87] YourStory — Beyond the model: Why context, not intelligence, is the moat for durable AI\nURL: https://yourstory.com/2026/11/beyond-model-why-context-not-intelligence-moat-for-durable-ai\nBeyond the model: Why context, not intelligence, is the moat for durable AI | YourStory Sidebar is Loading... ADVERTISEMENT\nAccess to powerful AI is no longer the hard part. As frontier and open-source models get cheaper and more interchangeable, the real question for businesses is what they own that others cannot copy.\nThat question anchored the TechSparks 2026 session ‘ Beyond the model: The moat for durable AI .’ Divakaran Ullampuzha Mana, Director of Solutions Architecture, India, MongoDB; Vijeth Pandit, CPO, Pine Labs Payments; and Karan Kumar, VP, Product, Spinny, spoke with Shivani Muthanna, Senior Director, Strategic Content & Video, YourStory, about what companies must own to build AI that lasts.\nModels are electricity, context is the moat\nMana began by noting that open-source models are catching up with frontier models in capability and performance, and access costs keep falling. What separates one business from another, he said, is how seamlessly it can access its own enterprise data, which sits across systems in structured and unstructured formats, and turn it into insight or action.\nPandit pointed to distribution and accumulated experience. Pine Labs works with almost three million merchants and hundreds of banks in India and globally. He noted that “models in isolation will only help in inferring”, and that the interactions, data, and history a company builds are what make a product relevant.\nKumar offered an analogy. “I look at models as electricity,” he said, adding that the winner is decided by what a company plugs in and what the layers on top are built to solve. At Spinny, those layers rest on verified definitions of internal metrics, the reasoning behind past decisions, and how the team runs and evaluates experiments. Connected through their internal operating system AIR, this becomes context that competitors cannot easily replicate.\nBuilding a demo is easy, Mana said, because “you can actually build a beautiful agentic system that looks like magic”. The trouble starts when thousands of concurrent users and vast stores of documents need to be accessed and used by AI applications/agents, under strict security and compliance rules. Companies that succeed begin with a governed, secure data foundation, then add evaluation frameworks, observability, memory systems, and runtime engines. Those that do, he said, convert pilots to production at a high rate and ship the next use case faster.\nPandit said Pine Labs treats agents much like human employees: train them, set guardrails, audit their judgment, and delegate more as confidence grows. The company built the Grantex protocol to define what an agent can and cannot do, and P3P, a protocol that lets buyer and seller agents transact. In one example, a shopper sets a mandate for a festive flash sale, and the agent buys only when the price falls below the threshold.\nMana said security has to be built from the ground up. That means encryption at rest, in transit, and during queries, least-privilege access, and agents that inherit the permissions of the person running them rather than using service accounts. Every step an agent takes should also be traceable and replayable.\nKumar said Spinny starts from consumer problems rather than solutions, with car discovery as the big one. Its conversational navigation lets buyers describe what they want in their own words, and AI also supports inspection and pricing. Voice AI has proven its return first, with vision AI still on the path. “How we look at it is what is the cost of not doing it, rather than the cost of doing it,” he said.\nPandit said Pine Labs product managers now build prototypes instead of writing PRDs, which surfaces edge cases earlier. The company manages more products with the same headcount, and its merchant assistant, Guide, has cut support tickets by almost 40%.\nClosing the session, Mana listed three priorities: a sound data strategy, workflows redesigned to learn from their outcomes rather than mimic old ones, and security and governance in place from the start so AI behavior stays predictable.\nIf the model is something every company can access, then durability has to come from what sits around it. As the conversation made clear, that means proprietary data and context, memory that agents can rely on, workflows that improve with use, and the trust and control that let businesses put AI to work on real decisions.\nADVERTISEMENT Advertise with us ADVERTISEMENT Advertise with us ADVERTISEMENT Advertise with us ADVERTISEMENT Advertise with us\nAccess to powerful AI is no longer the hard part. As frontier and open-source models get cheaper and more interchangeable, the real question for businesses is what they own that others cannot copy.\nThat question anchored the TechSparks 2026 session ‘ Beyond the model: The moat for durable AI .’ Divakaran Ullampuzha Mana, Director of Solutions Architecture, India, MongoDB; Vijeth Pandit, CPO, Pine Labs Payments; and Karan Kumar, VP, Product, Spinny, spoke with Shivani Muthanna, Senior Director, Strategic Content & Video, YourStory, about what companies must own to build AI that lasts.\nModels are electricity, context is the moat\nMana began by noting that open-source models are catching up with frontier models in capability and performance, and access costs keep falling. What separates one business from another, he said, is how seamlessly it can access its own enterprise data, which sits across systems in structured and unstructured formats, and turn it into insight or action.\nPandit pointed to distribution and accumulated experience. Pine Labs works with almost three million merchants and hundreds of banks in India and globally. He noted that “models in isolation will only help in inferring”, and that the interactions, data, and history a company builds are what make a product relevant.\nKumar offered an analogy. “I look at models as electricity,” he said, adding that the winner is decided by what a company plugs in and what the layers on top are built to solve. At Spinny, those layers rest on verified definitions of internal metrics, the reasoning behind past decisions, and how the team runs and evaluates experiments. Connected through their internal operating system AIR, this becomes context that competitors cannot easily replicate.\nBuilding a demo is easy, Mana said, because “you can actually build a beautiful agentic system that looks like magic”. The trouble starts when thousands of concurrent users and vast stores of documents need to be accessed and used by AI applications/agents, under strict security and compliance rules. Companies that succeed begin with a governed, secure data foundation, then add evaluation frameworks, observability, memory systems, and runtime engines. Those that do, he said, convert pilots to production at a high rate and ship the next use case faster.\nPandit said Pine Labs treats agents much like human employees: train them, set guardrails, audit their judgment, and delegate more as confi",
+ "id": "C1-2026-11-12",
+ "caption_final": "Fixing fragmented business data across WhatsApp chats and paper registers before implementing AI automation. Say you run an electrical supply shop in Pune with three billing counters. If your item rates, customer credit terms, and GST numbers are scattered across WhatsApp chats and paper notebooks, no AI tool can generate accurate quotes or payment reminders. AI models act like electricity; what matters is the business context you plug into them. Start by standardizing your inventory unit names and margin rules across your team. Build quick prototypes to test edge cases before paying annual software fees. Pine Labs cut support tickets by nearly 40% with their assistant Guide by treating AI like a new employee—training it, setting strict permissions, and auditing decisions. Where is your shop customer data currently stored?\n\n#SmallBusinessIndia"
+}

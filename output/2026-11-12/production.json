@@ -1,0 +1,359 @@
+{
+ "date": "2026-11-12",
+ "tag": "2026-11-12",
+ "pilot": false,
+ "sources": 101,
+ "ideas": 14,
+ "idea_list": [
+  {
+   "idea": "Why you should never link your banking or personal finance accounts to AI agents",
+   "format": "problem_fix",
+   "total": 9.46,
+   "scores": {
+    "relevance": 10,
+    "novelty": 7,
+    "hook_potential": 10,
+    "retention": 9,
+    "save_share": 10,
+    "feasibility": 10,
+    "evidence": 9,
+    "viral": 10
+   }
+  },
+  {
+   "idea": "Why 80% of businesses see zero profit from AI (and what the 20% do)",
+   "format": "myth_fact",
+   "total": 9.23,
+   "scores": {
+    "relevance": 10,
+    "novelty": 8,
+    "hook_potential": 9,
+    "retention": 9,
+    "save_share": 10,
+    "feasibility": 10,
+    "evidence": 9,
+    "viral": 9
+   }
+  },
+  {
+   "idea": "Using Gemini API for fast, automated business decisions on receipts",
+   "format": "demo",
+   "total": 8.72,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 8,
+    "evidence": 9,
+    "viral": 9
+   }
+  },
+  {
+   "idea": "The hidden cost of 'Agentic' AI: Why token consumption is killing your budget",
+   "format": "myth_fact",
+   "total": 8.71,
+   "scores": {
+    "relevance": 9,
+    "novelty": 9,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Checklist: Why your AI projects fail due to fragmented data",
+   "format": "checklist",
+   "total": 8.69,
+   "scores": {
+    "relevance": 10,
+    "novelty": 7,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 10,
+    "feasibility": 10,
+    "evidence": 9,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Why your AI agents shouldn't manage your customer data without a 'human-in-the-loop'",
+   "format": "problem_fix",
+   "total": 8.53,
+   "scores": {
+    "relevance": 10,
+    "novelty": 7,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 8,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Don't use generic AI for your business law: Why context matters",
+   "format": "problem_fix",
+   "total": 8.43,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 8,
+    "evidence": 8,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Comparing Workato, n8n, and Zapier for SMB workflow automation",
+   "format": "myth_fact",
+   "total": 8.17,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 7,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "Integrating Adobe tools in Google Drive for faster design workflow",
+   "format": "demo",
+   "total": 8.0,
+   "scores": {
+    "relevance": 8,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "Building collaborative hubs for team projects using Google Tabletop",
+   "format": "tutorial",
+   "total": 7.99,
+   "scores": {
+    "relevance": 8,
+    "novelty": 9,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 9,
+    "evidence": 8,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "The reality of AI agents in travel and logistics",
+   "format": "myth_fact",
+   "total": 7.9,
+   "scores": {
+    "relevance": 8,
+    "novelty": 9,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 7,
+    "feasibility": 8,
+    "evidence": 9,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "Using AI for secure vulnerability remediation in your business network",
+   "format": "tutorial",
+   "total": 7.52,
+   "scores": {
+    "relevance": 8,
+    "novelty": 8,
+    "hook_potential": 7,
+    "retention": 7,
+    "save_share": 9,
+    "feasibility": 8,
+    "evidence": 8,
+    "viral": 6
+   }
+  },
+  {
+   "idea": "How AI is changing freelance work: New skills for your team",
+   "format": "case_study",
+   "total": 7.5,
+   "scores": {
+    "relevance": 8,
+    "novelty": 8,
+    "hook_potential": 7,
+    "retention": 7,
+    "save_share": 8,
+    "feasibility": 8,
+    "evidence": 9,
+    "viral": 6
+   }
+  },
+  {
+   "idea": "AI in healthcare: Automating workflows for Indian clinics",
+   "format": "demo",
+   "total": 7.38,
+   "scores": {
+    "relevance": 8,
+    "novelty": 8,
+    "hook_potential": 7,
+    "retention": 7,
+    "save_share": 8,
+    "feasibility": 8,
+    "evidence": 8,
+    "viral": 6
+   }
+  }
+ ],
+ "rejected_ideas": [],
+ "items": [
+  {
+   "id": "R1-2026-11-12",
+   "kind": "reel",
+   "format": "problem_fix",
+   "topic": "Why you should never link your banking or personal finance accounts to AI agents",
+   "hook": "Major banks aur airlines AI agents ko block kyon kar rahe hain?",
+   "approved": true,
+   "attempts": 2,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 8,
+    "natural_language": 9,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 9,
+    "pacing": 8,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [],
+   "log": [
+    "attempt 1: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 9, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['reel is 75.1 s long (max 45 s; aim for 15-35 s)']",
+    "attempt 2: PASS {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 9, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} []"
+   ],
+   "dir": "output/2026-11-12/R1-2026-11-12/try2",
+   "duration": 42.4,
+   "voice": "gemini"
+  },
+  {
+   "id": "R2-2026-11-12",
+   "kind": "reel",
+   "format": "myth_fact",
+   "topic": "Why 80% of businesses see zero profit from AI (and what the 20% do)",
+   "hook": "AI automation khareedne se pehle ye reality check zaroor dekho.",
+   "approved": false,
+   "attempts": 3,
+   "scores": {
+    "hook": 7,
+    "originality": 7,
+    "practical_value": 8,
+    "natural_language": 9,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 8,
+    "pacing": 8,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [
+    "hook 7/10 (<8)",
+    "originality 7/10 (<8)",
+    "reel is 86.2 s long (max 45 s; aim for 15-35 s)"
+   ],
+   "log": [
+    "attempt 1: fail {'hook': 6, 'originality': 5, 'practical_value': 4, 'natural_language': 7, 'accuracy': 8, 'narrative': 6, 'visual_integrity': 8, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 5} ['hook 6/10 (<8)', 'originality 5/10 (<8)', 'practical_value 4/10 (<8)', 'natural_language 7/10 (<8)']",
+    "attempt 2: rules failed: ['scene 2 narration 21 words (want 4-14)', 'scene 5 narration 20 words (want 4-14)']",
+    "attempt 3: fail {'hook': 7, 'originality': 7, 'practical_value': 8, 'natural_language': 9, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['hook 7/10 (<8)', 'originality 7/10 (<8)', 'reel is 86.2 s long (max 45 s; aim for 15-35 s)']",
+    "attempt 4: fail {'hook': 8, 'originality': 6, 'practical_value': 5, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 6/10 (<8)', 'practical_value 5/10 (<8)']"
+   ],
+   "dir": "output/2026-11-12/R2-2026-11-12/try3",
+   "duration": 86.2,
+   "voice": "gemini"
+  },
+  {
+   "id": "R3-2026-11-12",
+   "kind": "reel",
+   "format": "demo",
+   "topic": "Using Gemini API for fast, automated business decisions on receipts",
+   "hook": "Har invoice ko manually read karna band karo. Ye dekho.",
+   "approved": false,
+   "attempts": 4,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 7,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 7,
+    "pacing": 8,
+    "brand_consistency": 9,
+    "publish_readiness": 7
+   },
+   "reasons": [
+    "more than one exclamation mark",
+    "originality 7/10 (<8)",
+    "practical_value 7/10 (<8)",
+    "visual_integrity 7/10 (<8)"
+   ],
+   "log": [
+    "attempt 1: rules failed: ['more than one exclamation mark', 'dm_text link not from the sources: https://aistudio.google.com/']",
+    "attempt 2: rules failed: ['more than one exclamation mark', 'dm_text link not from the sources: https://aistudio.google.com/.']",
+    "attempt 3: fail {'hook': 6, 'originality': 7, 'practical_value': 6, 'natural_language': 7, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 6, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 6} ['hook 6/10 (<8)', 'originality 7/10 (<8)', 'practical_value 6/10 (<8)', 'natural_language 7/10 (<8)']",
+    "attempt 4: fail {'hook': 8, 'originality': 7, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['more than one exclamation mark', 'originality 7/10 (<8)', 'practical_value 7/10 (<8)', 'visual_integrity 7/10 (<8)']"
+   ],
+   "dir": "output/2026-11-12/R3-2026-11-12/try4",
+   "duration": 33.9,
+   "voice": "edge"
+  },
+  {
+   "id": "C1-2026-11-12",
+   "kind": "carousel",
+   "format": "checklist",
+   "topic": "Checklist: Why your AI projects fail due to fragmented data",
+   "hook": "Why your AI tools fail on scattered business data",
+   "approved": false,
+   "attempts": 2,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 9,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 9,
+    "pacing": 9,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [
+    "need 3-5 hashtags, got 1"
+   ],
+   "log": [
+    "attempt 1: fail {'hook': 7, 'originality': 7, 'practical_value': 6, 'natural_language': 7, 'accuracy': 9, 'narrative': 6, 'visual_integrity': 8, 'pacing': 6, 'brand_consistency': 9, 'publish_readiness': 6} ['hook 7/10 (<8)', 'originality 7/10 (<8)', 'practical_value 6/10 (<8)', 'natural_language 7/10 (<8)']",
+    "attempt 2: fail {'hook': 8, 'originality': 7, 'practical_value': 9, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} ['need 3-5 hashtags, got 1']",
+    "attempt 3: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} [\"banned phrase used: 'seamless'\"]"
+   ],
+   "dir": "output/2026-11-12/C1-2026-11-12/try2",
+   "duration": null,
+   "voice": null
+  }
+ ],
+ "llm_calls": {
+  "text": 24,
+  "tts": 25,
+  "failed": 0
+ }
+}
