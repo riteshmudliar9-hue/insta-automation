@@ -3403,7 +3403,7 @@
      "line": "Major banks aur airlines AI agents ko block kyon kar rahe hain? Kya aapne socha hai?",
      "visual_scene": -1,
      "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: close-up, camera steady at eye level. Arjun raises his eyebrows and looks directly into the camera lens with a curious expression. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Major banks aur airlines AI agents ko block kyon kar rahe hain? Kya aapne socha hai?\" No subtitles, no on-screen text, no music, no other people.",
-     "msg_id": null,
+     "msg_id": 522,
      "file": null,
      "got_msg": null
     },
@@ -3414,7 +3414,7 @@
      "line": "Ye agents aapke payment details mangte hain, jisse sensitive data leak aur unintended purchases ka risk badhta hai.",
      "visual_scene": -1,
      "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: medium close-up with a slow, smooth push-in towards his face. Arjun leans in slightly and makes a pinching motion with his fingers to emphasize the risk. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Ye agents aapke payment details mangte hain, jisse sensitive data leak aur unintended purchases ka risk badhta hai.\" No subtitles, no on-screen text, no music, no other people.",
-     "msg_id": null,
+     "msg_id": 523,
      "file": null,
      "got_msg": null
     },
@@ -3424,7 +3424,7 @@
      "cover": 2,
      "desc": "Close-up of a shopkeeper's hands typing on a laptop next to a stack of paper invoices on a wooden counter.",
      "prompt": "Create a realistic vertical 9:16 video of about 8 seconds: Close-up of a shopkeeper's hands typing on a laptop next to a stack of paper invoices on a wooden counter. Indian small-business setting, warm natural light, handheld smartphone-camera look, slow subtle camera movement, shallow depth of field. No faces, no readable text, no brand names or logos, no subtitles, no speech, no music.",
-     "msg_id": null,
+     "msg_id": 524,
      "file": null,
      "got_msg": null
     },
@@ -3435,7 +3435,7 @@
      "line": "AI ko payment logins dene se bacho. Comment AGENT, main aapko safety guide DM kar dunga.",
      "visual_scene": -1,
      "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: medium shot from slightly to his left (about 20 degrees), camera steady. Arjun smiles and points towards the camera lens with his index finger while nodding firmly. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"AI ko payment logins dene se bacho. Comment AGENT, main aapko safety guide DM kar dunga.\" No subtitles, no on-screen text, no music, no other people.",
-     "msg_id": null,
+     "msg_id": 525,
      "file": null,
      "got_msg": null
     },
@@ -3445,7 +3445,7 @@
      "cover": 3,
      "desc": "Over-the-shoulder shot of a phone on a shop counter lighting up with new message notifications.",
      "prompt": "Create a realistic vertical 9:16 video of about 8 seconds: Over-the-shoulder shot of a phone on a shop counter lighting up with new message notifications. Indian small-business setting, warm natural light, handheld smartphone-camera look, slow subtle camera movement, shallow depth of field. No faces, no readable text, no brand names or logos, no subtitles, no speech, no music.",
-     "msg_id": null,
+     "msg_id": 526,
      "file": null,
      "got_msg": null
     }
@@ -3542,7 +3542,9 @@
    ],
    "composed_from": null,
    "hook_title": "AI Agents Ka Khatra",
-   "cta": "Comment AGENT for guide"
+   "cta": "Comment AGENT for guide",
+   "prompts_sent": true,
+   "prompts_sent_at": 1794490901
   }
  }
 ]
