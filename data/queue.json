@@ -3388,9 +3388,11 @@
    "brand_consistency": 9,
    "publish_readiness": 8
   },
-  "status": "queued",
+  "status": "published",
   "produced_at": 1794444696,
-  "log": [],
+  "log": [
+   "2026-11-12T22:17:31.807940+05:30 published https://www.instagram.com/reel/DfphSlAGk-B/"
+  ],
   "dm_keyword": "AGENT",
   "dm_text": "AI Agent Security Checklist for Business Owners:\n1. Never share net banking credentials, UPI PINs, or account passwords with third-party AI assistants.\n2. AI tools like Meta Muse and OpenAI Dots require saved credentials to make purchases, which creates severe privacy risks.\n3. Major platforms like United Airlines, eBay, and top banks have blocked AI agents to prevent data leaks and unauthorized transactions.\n4. Keep payment execution manual or use official bank APIs instead of public AI chat agents.",
   "presenter": {
@@ -3545,6 +3547,9 @@
    "cta": "Comment AGENT for guide",
    "prompts_sent": true,
    "prompts_sent_at": 1794490901
-  }
+  },
+  "media_id": "18116772473134051",
+  "permalink": "https://www.instagram.com/reel/DfphSlAGk-B/",
+  "published_at": "2026-11-12T22:17:31.807940+05:30"
  }
 ]
