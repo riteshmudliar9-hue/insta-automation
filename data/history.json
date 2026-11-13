@@ -626,5 +626,37 @@
   "status": "published",
   "media_id": "18116772473134051",
   "permalink": "https://www.instagram.com/reel/DfphSlAGk-B/"
+ },
+ {
+  "id": "R2-2026-11-13",
+  "date": "2026-11-13",
+  "kind": "reel",
+  "format": "problem_fix",
+  "topic": "Why buying wholesale stock via AI chatbot suggestions can lead to scam websites",
+  "hook": "AI chatbots se wholesale stock order karne se pehle ye dekho.",
+  "keywords": [
+   "AI chatbot risks",
+   "wholesale sourcing india",
+   "retail fraud prevention",
+   "business security tips",
+   "online shopping scams"
+  ],
+  "status": "queued"
+ },
+ {
+  "id": "C1-2026-11-13",
+  "date": "2026-11-13",
+  "kind": "carousel",
+  "format": "tutorial",
+  "topic": "Claim and optimize your business profile on ChatGPT to capture AI local search leads",
+  "hook": "Stop losing local leads to AI search results",
+  "keywords": [
+   "ChatGPT business profile",
+   "local business lead generation",
+   "OpenAI Business Hub",
+   "business listing optimization",
+   "AI local search"
+  ],
+  "status": "queued"
  }
 ]

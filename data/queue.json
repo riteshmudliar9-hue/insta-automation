@@ -3551,5 +3551,236 @@
   "media_id": "18116772473134051",
   "permalink": "https://www.instagram.com/reel/DfphSlAGk-B/",
   "published_at": "2026-11-12T22:17:31.807940+05:30"
+ },
+ {
+  "id": "R2-2026-11-13",
+  "kind": "reel",
+  "date": "2026-11-13",
+  "slot": "2026-11-13T21:00",
+  "dir": "output/2026-11-13/R2-2026-11-13/try2",
+  "files": [
+   "reel.mp4"
+  ],
+  "caption": "Are you using AI chatbots to find wholesale suppliers for your shop? Be careful. A recent study found that chatbots like ChatGPT, Gemini, and Perplexity frequently suggest risky or fake retail websites. These sites can look like official stores but might be selling knockoffs or trying to steal your payment information. Never input your credit card details or business data based on an AI's first recommendation. Always independently verify the URL and contact details of the supplier before placing a wholesale order. Your business security is more important than saving a few minutes of research time. Stay alert when sourcing new vendors this season. Comment SAFETY for a quick verification checklist to protect your shop from online fraud.\n\n#SmallBusinessIndia #RetailTips #OnlineSafety #WholesaleTips",
+  "topic": "Why buying wholesale stock via AI chatbot suggestions can lead to scam websites",
+  "format": "problem_fix",
+  "hook": "AI chatbots se wholesale stock order karne se pehle ye dekho.",
+  "keywords": [
+   "AI chatbot risks",
+   "wholesale sourcing india",
+   "retail fraud prevention",
+   "business security tips",
+   "online shopping scams"
+  ],
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "status": "queued",
+  "produced_at": 1794530637,
+  "log": [],
+  "dm_keyword": "SAFETY",
+  "dm_text": "AI chatbots se wholesale vendor dhundhte waqt in 3 baaton ka dhyan rakhein: 1. Always verify the source URL by manually searching for the company on Google. 2. Never enter personal or business credit card info on a site suggested by a chatbot without checking its reputation independently. 3. Be extra careful with 'regional' websites, as AI often hallucinates fake regional domains for brands. Source: The Verge study on AI shopping risks. Stay safe and always cross-verify your suppliers.",
+  "presenter": {
+   "status": "waiting",
+   "takes": [
+    {
+     "n": 1,
+     "kind": "talk",
+     "talk": 1,
+     "line": "AI chatbots se wholesale stock order karne se pehle ye warning zaroor sunlo mere bhai.",
+     "visual_scene": -1,
+     "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: close-up, camera steady at eye level. Points directly at the camera with a serious expression. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"AI chatbots se wholesale stock order karne se pehle ye warning zaroor sunlo mere bhai.\" No subtitles, no on-screen text, no music, no other people.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    },
+    {
+     "n": 2,
+     "kind": "talk",
+     "talk": 2,
+     "line": "Research ke mutabik chatbot ki 15 percent recommendations fake ya risky websites ho sakti hain.",
+     "visual_scene": -1,
+     "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: medium close-up with a slow, smooth push-in towards his face. Leans in slightly and lowers his voice to sound confidential. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Research ke mutabik chatbot ki 15 percent recommendations fake ya risky websites ho sakti hain.\" No subtitles, no on-screen text, no music, no other people.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    },
+    {
+     "n": 3,
+     "kind": "broll",
+     "cover": 2,
+     "desc": "close-up of a shopkeeper's hands typing on a laptop next to a stack of paper invoices on a wooden counter",
+     "prompt": "Create a realistic vertical 9:16 video of about 8 seconds: close-up of a shopkeeper's hands typing on a laptop next to a stack of paper invoices on a wooden counter. Indian small-business setting, warm natural light, handheld smartphone-camera look, slow subtle camera movement, shallow depth of field. No faces, no readable text, no brand names or logos, no subtitles, no speech, no music.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    },
+    {
+     "n": 4,
+     "kind": "talk",
+     "talk": 3,
+     "line": "AI sirf suggestion hai, confirm khud karo. Comment SAFETY, main aapko verification checklist DM kar dunga.",
+     "visual_scene": -1,
+     "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: medium shot from slightly to his left (about 20 degrees), camera steady. Smiles and shrugs lightly while gesturing with his hands. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"AI sirf suggestion hai, confirm khud karo. Comment SAFETY, main aapko verification checklist DM kar dunga.\" No subtitles, no on-screen text, no music, no other people.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    },
+    {
+     "n": 5,
+     "kind": "broll",
+     "cover": 3,
+     "desc": "over-the-shoulder shot of a phone on a shop counter lighting up with new message notifications",
+     "prompt": "Create a realistic vertical 9:16 video of about 8 seconds: over-the-shoulder shot of a phone on a shop counter lighting up with new message notifications. Indian small-business setting, warm natural light, handheld smartphone-camera look, slow subtle camera movement, shallow depth of field. No faces, no readable text, no brand names or logos, no subtitles, no speech, no music.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    }
+   ],
+   "material": "[14] The Verge AI — AI chatbots are recommending fake retail websites, study finds\nURL: https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations\nAI chatbots are recommending fake retail websites, study finds | The Verge Skip to main content The homepage The Verge The Verge logo. The homepage The Verge The Verge logo. Notifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo. Login / Sign Up\nComments Loading comments Getting the conversation ready... AI\nA study testing Gemini, Perplexity, and ChatGPT found that in as many as 15 percent of conversations, chatbots displayed ‘risky’ URLs.﻿\nA study testing Gemini, Perplexity, and ChatGPT found that in as many as 15 percent of conversations, chatbots displayed ‘risky’ URLs.﻿\nMia Sato is features writer with five years of experience covering the companies that shape technology and the people who use their tools. Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found.\nThe study conducted by IP protection firm Podqi and shared exclusively with The Verge prompted ChatGPT, Gemini, and Perplexity with a handful of shopping-related questions involving a selection of 151 brands. Questions included “What are the top websites for buying [brand]?”; “Where can I find [brand] online?”; and “Does [brand] ship internationally? What are their regional websites?” The test ran over the course of two testing periods in September and asked about 151 small and large companies like fashion brands Lululemon, Birkenstock, Stüssy, and Madhappy (a client of Podqi) and homeware brand Le Creuset. Podqi crafted its own prompts (as opposed to using real user conversations) and tested its prompts using a tool that tracks AI answers across chatbots.\nPerplexity performed the worst, showing risky sites in 15 percent of answers\nOver the course of 6,795 answers, Podqi found that all three AI engines cited and showed shoppers risky sites, defined as fake websites impersonating real retailers or selling knockoffs, old brand domains that have been reregistered by someone else, or dead sites that aren’t active at all but that someone else could purchase and reuse. Google’s Gemini showed risky sites least often of the three, linking to or mentioning a risky site in 4 percent of answers. (Mentions include instances of recommending a risky site, displaying it without comment, and warning a user about it.) Perplexity performed the worst, showing risky sites in 15 percent of answers. ChatGPT fell somewhere in the middle at 8 percent. ChatGPT performed the best when it came to offering warnings about each risky site that it surfaced, doing so 24 percent of the time. Smaller brands appear especially at risk: Podqi found that queries related to larger companies had risky sites in answers about half as often.\nAI companies market chatbots as being helpful for shopping tasks like researching, comparing, and discovering products or retailers. AI citing fake sites is a headache for brands and retailers, of course, but it could also quickly become a risk for consumers. The issue could be especially relevant going into the upcoming holiday shopping season, when consumers are hunting around for in-stock items and the best prices. It’s likely that more consumers will be using AI to shop this year, including buying products from brands or sites they’re not already familiar with.\n“Part of this piece, too, is making sure that the consumers know, even though you are being fed a result in a particular chatbot, it is always best to verify the source of that before entering personal information or credit card information,” says Podqi CEO and cofounder Trevor West.\n“We take information quality seriously, and are happy to see that Gemini performed best among the products tested,” Google spokesperson Jessica Levis Boord said in an email. “We continually work to test and improve our models, and are upfront that Gemini is AI and can make mistakes, so we display links to sources alongside responses to help people verify information.”\n“Our goal is for ChatGPT to connect people with reliable places to shop,” OpenAI spokesperson Taya Christianson said in an email. “We’re continuing to improve our safeguards to make potentially deceptive sites less likely to appear in shopping-related results. We appreciate researchers sharing examples that show us where we can improve the experience.”\nIn Podqi’s test, certain prompts seemed to trigger risky sites more often than others. For example, AI displayed risky sites more often when asked about regional brand websites compared to other prompt categories. The tested AI engines also at times listed fake regional sites for brands that do not have any. In one conversation, Perplexity named the wrong page as Stüssy’s official website and called it “the best starting point for guaranteed authentic items.”\n“Perplexity is consistently the most accurate AI on credible research benchmarks, and has been for four years. We never claim to be 100% accurate, but we do claim to be the only company relentlessly focused on it,” spokesperson Jesse Dwyer said in an email.\nNvidia is reportedly preparing to fire Jensen Huang\nHands on with Home Assistant’s new ‘smart home multi-tool’\nHere’s Jensen Huang signing a woman’s chest\nApple’s HomeView is my new favorite smart display — but not my daughter’s\nJensen Huang is out. What did China want from him? Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup No, AI agents did not discover a previously unknown Maya site Robert Hart Nov 12 Oh, Palantir is ‘progressive’ now, is it? Elizabeth Lopatto Nov 12 The Jensen Huang scandal is hardly over Elizabeth Lopatto Nov 12 More game developers are starting to use generative AI Jay Peters Nov 12 Play Jensen Huang is out. What did China want from him? Nilay Patel Nov 12 Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup Terrence O'Brien Nov 12 Advertiser Content From This is the title for the native ad\nThe Verge The Verge logo. Sign in to see your notifications or create an account to join the conversation.",
+   "scenes": [
+    {
+     "purpose": "Hook the viewer with the danger of AI shopping advice.",
+     "narration": "AI chatbots se wholesale stock order karne se pehle ye dekho.",
+     "on_screen": "AI Shopping Risk",
+     "visual_type": "text",
+     "url": "",
+     "query": "",
+     "headline": "AI Can Be Dangerous",
+     "steps": [],
+     "items": [],
+     "left_label": "",
+     "right_label": "",
+     "rows": []
+    },
+    {
+     "purpose": "Explain the scale of the risk.",
+     "narration": "Research ke mutabik 15 percent chatbot answers risky websites suggest karte hain.",
+     "on_screen": "15% Risky Results",
+     "visual_type": "text",
+     "url": "",
+     "query": "",
+     "headline": "Check Before You Trust",
+     "steps": [],
+     "items": [],
+     "left_label": "",
+     "right_label": "",
+     "rows": []
+    },
+    {
+     "purpose": "Show the manual vs automated risk comparison.",
+     "narration": "AI fake sites ya dead domains dikha sakta hai.",
+     "on_screen": "AI vs Reality",
+     "visual_type": "compare",
+     "url": "",
+     "query": "",
+     "headline": "Don't Trust Blindly",
+     "steps": [],
+     "items": [],
+     "left_label": "Official Site",
+     "right_label": "AI Suggestion",
+     "rows": [
+      {
+       "left": "Verified Vendor",
+       "right": "Fake Imposter"
+      },
+      {
+       "left": "Secure Payment",
+       "right": "Data Theft Risk"
+      },
+      {
+       "left": "Real Stock",
+       "right": "Knockoff Products"
+      }
+     ]
+    },
+    {
+     "purpose": "Provide a simple safety checklist.",
+     "narration": "Koi bhi link open karne se pehle ye teen cheezein check karo.",
+     "on_screen": "Safety Checklist",
+     "visual_type": "checklist",
+     "url": "",
+     "query": "",
+     "headline": "3 Steps To Stay Safe",
+     "steps": [],
+     "items": [
+      "Verify official website",
+      "Check payment security",
+      "Don't share card data"
+     ],
+     "left_label": "",
+     "right_label": "",
+     "rows": []
+    },
+    {
+     "purpose": "Final advice and CTA.",
+     "narration": "AI sirf suggestion hai, confirm aapko khud karna hoga. Comment SAFETY, main aapko verification checklist DM kar dunga.",
+     "on_screen": "Verify Always",
+     "visual_type": "text",
+     "url": "",
+     "query": "",
+     "headline": "Verify Every Link",
+     "steps": [],
+     "items": [],
+     "left_label": "",
+     "right_label": "",
+     "rows": []
+    }
+   ],
+   "composed_from": null,
+   "hook_title": "AI shopping scams alert",
+   "cta": "Comment SAFETY for checklist"
+  }
+ },
+ {
+  "id": "C1-2026-11-13",
+  "kind": "carousel",
+  "date": "2026-11-13",
+  "slot": "2026-11-13T09:00",
+  "dir": "output/2026-11-13/C1-2026-11-13/try1",
+  "files": [
+   "slide_01.jpg",
+   "slide_02.jpg",
+   "slide_03.jpg",
+   "slide_04.jpg",
+   "slide_05.jpg"
+  ],
+  "caption": "Customers are turning to ChatGPT to find local suppliers and compare prices. If your business isn't claimed in the Business Hub, you are leaving the door open for competitors to take your leads. Once verified, you can directly update your pricing and product details so AI provides accurate information about your shop or service. Note that Business Agents—which allow direct customer conversations—are currently limited to eligible ecommerce and service businesses in the U.S. Start by claiming your business to ensure your information is accurate. Have you checked if your business appears in AI search results yet?\n\n#SmallBusinessIndia #BusinessGrowth #ChatGPT #LocalBusiness",
+  "topic": "Claim and optimize your business profile on ChatGPT to capture AI local search leads",
+  "format": "tutorial",
+  "hook": "Stop losing local leads to AI search results",
+  "keywords": [
+   "ChatGPT business profile",
+   "local business lead generation",
+   "OpenAI Business Hub",
+   "business listing optimization",
+   "AI local search"
+  ],
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "status": "queued",
+  "produced_at": 1794530637,
+  "log": [],
+  "dm_keyword": "",
+  "dm_text": ""
  }
 ]

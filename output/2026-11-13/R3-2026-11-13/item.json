@@ -1,0 +1,253 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Automating real-time market price alerts on WhatsApp using Grok and Zapier",
+  "angle": "Use Grok's live social search integrated with Zapier to send instant WhatsApp alerts whenever commodity or material prices surge.",
+  "audience_problem": "Contractors and traders losing margin by missing sudden price hikes in steel, cement, or raw materials.",
+  "format": "tutorial",
+  "medium": "reel",
+  "source_ids": [
+   61
+  ],
+  "evergreen": true,
+  "keywords": [
+   "grok zapier",
+   "whatsapp alerts",
+   "price tracking",
+   "commodity automation"
+  ],
+  "scores": {
+   "relevance": 8,
+   "novelty": 8,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 8,
+   "evidence": 9,
+   "viral": 8
+  },
+  "total": 8.41
+ },
+ "piece": {
+  "hooks": [
+   "Agar aap roz market prices ke liye 1 ghanta waste kar rahe ho, ye dekho.",
+   "Steel aur cement ke price hikes miss karna band karo. Ye trick dekho.",
+   "90% contractors market price update miss kar dete hain. Ye automation try karo.",
+   "Stop manually tracking raw material prices. Ye Grok automation dekho.",
+   "Market price update ke liye har roz supplier ko call mat karo."
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "It directly addresses a common pain point (time waste) for traders and contractors, making it highly relatable for the target audience.",
+  "title": "Automate Market Price Alerts with Grok",
+  "scenes": [
+   {
+    "purpose": "Hook",
+    "narration": "Agar aap roz market prices ke liye 1 ghanta waste kar rahe ho, ye dekho.",
+    "on_screen": "Price Tracking Automation",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Stop Wasting Time",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Problem",
+    "narration": "Daily steel aur material price fluctuate hote hain, aur manual tracking se margin girta hai.",
+    "on_screen": "Margin Loss Risk",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Protect Your Profits",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Solution",
+    "narration": "Grok ka live X access aur Zapier use karke real-time alerts set karo.",
+    "on_screen": "Grok + Zapier Setup",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "Smart Workflow Setup",
+    "steps": [
+     "Connect Zapier in Grok",
+     "Run /zapier-setup in chat",
+     "Set price alert trigger"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "How-to",
+    "narration": "Bas Grok chat mein /zapier-setup run karo. Ye aapke apps ko connect kar dega.",
+    "on_screen": "/zapier-setup Command",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "No Coding Required",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Comparison",
+    "narration": "Manual entry mein time jata hai, automation se WhatsApp pe seedha update milta hai.",
+    "on_screen": "Manual vs Automated",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "Work Smarter Daily",
+    "steps": [],
+    "items": [],
+    "left_label": "Manual Tracking",
+    "right_label": "Grok Automation",
+    "rows": [
+     {
+      "left": "Daily manual calls",
+      "right": "Real-time alerts"
+     },
+     {
+      "left": "High error risk",
+      "right": "Accurate AI data"
+     },
+     {
+      "left": "1 hour daily",
+      "right": "5 minutes setup"
+     }
+    ]
+   },
+   {
+    "purpose": "Payoff",
+    "narration": "Comment PRICE, main aapko automation setup ki details DM kar dunga.",
+    "on_screen": "Comment PRICE",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Get Setup Guide",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "Stop wasting hours tracking raw material market prices manually every single day. Using Grok's live X access integrated with Zapier, you can automate real-time price alerts directly to your WhatsApp or email. This helps you keep a pulse on commodity prices like steel and cement without the manual grind of calling suppliers or browsing news sites constantly. Zapier manages the connections securely so Grok never handles your API keys or passwords. Start by connecting Zapier within the Grok chat interface and running the setup command. Focus your energy on your site work or shop operations, not data entry. Comment PRICE for the step-by-step automation guide.",
+  "hashtags": [
+   "#SmallBusinessIndia",
+   "#AutomationTools",
+   "#ConstructionBusiness",
+   "#TradingTips",
+   "#GrokAI"
+  ],
+  "keywords": [
+   "Market price tracking",
+   "Automation for contractors",
+   "Grok Zapier integration",
+   "Business efficiency",
+   "Material price alerts"
+  ],
+  "claims": [
+   {
+    "claim": "Grok has live access to X to keep pulse on real-time data.",
+    "source_id": 61
+   },
+   {
+    "claim": "Zapier manages logins so Grok never handles API keys.",
+    "source_id": 61
+   },
+   {
+    "claim": "You can connect Zapier by prompting Grok to connect or running /zapier-setup.",
+    "source_id": 61
+   }
+  ],
+  "dm_keyword": "PRICE",
+  "dm_text": "Here is how to set up your price alerts: 1. Open Grok chat. 2. Click 'Connect apps' or search for Zapier. 3. Sign in to your Zapier account. 4. Inside the chat, run the command /zapier-setup to configure your actions. 5. Use Grok to research trending topics or commodity news. 6. Set up a Zap to push these summaries to Slack, WhatsApp, or Google Sheets. Zapier manages your credentials, so you don't need to share passwords. Get started here: https://zapier.com/blog/automate-grok"
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "Grok has live access to X to keep pulse on real-time data.",
+    "supported": true
+   },
+   {
+    "claim": "Zapier manages logins so Grok never handles API keys.",
+    "supported": true
+   },
+   {
+    "claim": "You can connect Zapier by prompting Grok to connect or running /zapier-setup.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [],
+  "issues": [
+   "The DM keyword 'PRICE' is generic; consider something more specific to the niche like 'GROKPRICE' to avoid confusion if you run other automation campaigns.",
+   "The transition from 'manual tracking' to 'Grok' could be slightly more explicit about the fact that Grok is doing the 'research' part, while Zapier handles the 'delivery' part."
+  ],
+  "fix_instructions": "The content is strong and ready for publication. Ensure the DM automation is live and tested before posting. No major visual or narrative changes required. Keep the tone consistent with the current Hinglish flow."
+ },
+ "rules": [
+  "opening line too long for a 2-second hook (max 12 words)"
+ ],
+ "reasons": [
+  "opening line too long for a 2-second hook (max 12 words)"
+ ],
+ "meta": {
+  "duration": 34.2,
+  "voice": "edge",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-13/R3-2026-11-13/try3/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-13/R3-2026-11-13/try3/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-13/R3-2026-11-13/try3/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-13/R3-2026-11-13/try3/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-13/R3-2026-11-13/try3/scene_05.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-13/R3-2026-11-13/try3/scene_06.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   5.27,
+   6.27,
+   5.47,
+   6.15,
+   5.98,
+   5.06
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-13/R3-2026-11-13/try3",
+ "attempt": 3,
+ "approved": false,
+ "hook": "Agar aap roz market prices ke liye 1 ghanta waste kar rahe ho, ye dekho.",
+ "log": [
+  "attempt 1: fail {'hook': 7, 'originality': 7, 'practical_value': 7, 'natural_language': 7, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 6, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 6} ['hook 7/10 (<8)', 'originality 7/10 (<8)', 'practical_value 7/10 (<8)', 'natural_language 7/10 (<8)']",
+  "attempt 2: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['scene 3: screenshot must be a product page from the sources, not an article', 'originality 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+  "attempt 3: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} ['opening line too long for a 2-second hook (max 12 words)']",
+  "attempt 4: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 7, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'accuracy 7/10 (<8)', 'visual_integrity 7/10 (<8)']"
+ ],
+ "material": "[61] Zapier Blog — Grok automation: How to use the Zapier Grok integration (Grok 4.7, Grok Bot, and more)\nURL: https://zapier.com/blog/automate-grok\nGrok has a very specific edge over other AI models: live access to X, so your agents can keep their finger on the pulse a little more easily. But outside of that, Grok models and agents are still solid alternatives to what OpenAI, Anthropic, and Google have on offer. And if you're using Grok for work, you'll want to connect it to the rest of your tech stack. The most secure and easiest way to do that is with Zapier.\nThere are two main ways to automate Grok with Zapier. First, you can add Zapier to Grok Chat, Grok Bot, or Grok Build and ask your AI assistant to act across 9,000+ apps without leaving the chat—or build automations that keep running after the chat is closed. Second, you can add Grok to the workflows you already run in Zapier, so it does research, analyzes inputs, or makes images whenever something happens in your other apps.\nBuild automations from wherever you work. Describe the outcome you want, and Zapier connects your tools, runs the steps, and stays on the job after you close the chat. Combine AI with reliable, deterministic automation across 9,000+ apps. Get started for free.\nBuild and automate workflows from Grok (Zapier MCP)\nAdd Grok to your existing workflows (Grok integration)\nBuild and automate workflows from Grok with Zapier MCP\nAdd Zapier to Grok Chat, Grok Bot , or Grok Build, and Grok can reach 9,000+ apps. Connect it once, pick the apps and actions you want it to use, and it works across your stack straight from the chat. Zapier manages the logins, so Grok never handles your API keys.\nSetup happens inside Grok. You don't need to create anything on Zapier's side first. You can prompt Grok to \"connect Zapier,\" or take the following steps:\nClick the Connect apps button at the bottom left. (It might say Plugins depending on which app you're in.)\nClick to add the connector, log in to Zapier, and authorize Grok (it might say Cursor).\nGo into a chat and run /zapier-setup to discover and connect available actions.\nOnce connected, you can use all the actions Zapier has available for a given app, along with the Zaps you already have configured. You can ask Grok to do things like:\n\"Find my last five HubSpot deals, calculate weighted pipeline, and post a summary to Slack.\"\n\"Check what's trending on X about our product launch and add the top three themes to my Notion content calendar.\"\n\"Every Monday morning, send my open Asana tasks to the team Slack channel.\"\nThe X example is a good one to try first, since Grok's real-time access to X is its most standout feature. And Zapier gives you an easy way to send that social listening somewhere useful.\nEach successful action draws from your existing Zapier task allowance, the same one your Zaps already use, so your Zapier bill stays simple and straightforward. And because Zapier manages the credentials, Grok never has to ask you for an API key or password. It holds a single authorization token, so it gets access to your apps, not your keys.\nOne-off requests are only the start. When you catch yourself asking Grok for the same thing again and again, ask it to build a Zap instead: \"When a new lead lands in Salesforce, research the company and post a three-sentence summary in #sales.\" Grok drafts the Zap and deploys it to Zapier, where it starts on real events rather than waiting for you to ask.\nA few things keep it dependable over time:\nThe same result every run. Routine steps stay as plain automation, and Grok is brought in only where a step needs judgment, so you aren't paying for tokens on simple jobs.\nProblems get a fix. Zapier logs every run. If one fails, it finds the problem and proposes a fix; you can approve it or talk it through with Grok.\nLeaner over time. If a Grok step turns out to do the same thing on every run, Zapier can offer to swap it for a regular step: same output, fewer tokens.\nAdd Grok to your existing workflows (Grok integration)\nZapier is built for workflows that need to run the same way every time, but some of them benefit from reasoning somewhere along the line. Zapier's Grok integration lets you drop a Grok step into any Zap, right where it's useful.\nYou don't want an AI model running every step—that's a recipe for token burn . Moving a form submission into your CRM, for example, doesn't need reasoning, so it's a job for deterministic automation. Researching the company behind that submission, drafting an outline from a one-line brief, or spotting what's trending on social media, on the other hand, are the kinds of tasks where Grok shines.\nHere's an example. Say a new lead lands in Salesforce. A Zap picks it up, sends the company name to Grok with a prompt like \"Find recent news and industry challenges for this company and summarize them in three sentences,\" then writes the summary back to the lead record so your rep sees it before the first call. Grok only runs when there's a new lead to research, and everything around it behaves the same way each time. Because the Zap starts when the lead arrives, it keeps working with your laptop closed.\nBeyond asking Grok, you can also do things like categorizing text, extracting data, and generating images.\nYou connect your own SpaceXSI account with an API key, so Grok usage is billed by SpaceXSI on top of the Zapier tasks your Zap uses. If you'd rather use a model that's built into Zapier, with no separate account or token billing, check out which models are available through AI by Zapier .\nHere are a few ways you might bring Grok into your Zapier workflows:\nEnrich new leads. When a lead is added to your CRM or submitted through a form, have Grok research the company and log recent announcements and industry challenges. Try the Salesforce version .\nTurn briefs into outlines or first drafts. When a new record lands in Airtable, Asana, or Notion, send the brief to Grok and have the outline land in a Google Doc, a Notion page, or your team's Slack channel for review.\nTrack trending topics. Schedule a Zap to ask Grok what's trending on a topic you care about every hour, day, or week, then send the results to Slack, Gmail, or a spreadsheet you can mine for content ideas. Try the daily Slack version .\nGenerate images from a spreadsheet. Write prompts in Trello cards, Airtable records, or Google Sheets rows, and have Grok create the image and attach it right back to where the prompt came from. This can be handy for webinar slides and social posts when a stock photo won't cut it.\nPull data out of images. When a receipt, report screenshot, or chart is uploaded to Google Drive or QuickBooks, have Grok read it and send the key details to Slack or a Google Sheet.\nKeep Grok. Zapier gives it more to work with. Zapier reaches your whole stack and your Zaps keep running after the chat ends. If one breaks, Zapier finds the problem and proposes a fix.\nP rompt Grok to \"connect Zapier.\" Or click Connect apps or Plugins and search for Zapier. Sign in to your Zapier account (or create a free one), and authorize Grok or Cursor. Then go into a chat and run /zapier-setup ",
+ "id": "R3-2026-11-13",
+ "caption_final": "Stop wasting hours tracking raw material market prices manually every single day. Using Grok's live X access integrated with Zapier, you can automate real-time price alerts directly to your WhatsApp or email. This helps you keep a pulse on commodity prices like steel and cement without the manual grind of calling suppliers or browsing news sites constantly. Zapier manages the connections securely so Grok never handles your API keys or passwords. Start by connecting Zapier within the Grok chat interface and running the setup command. Focus your energy on your site work or shop operations, not data entry. Comment PRICE for the step-by-step automation guide.\n\n#SmallBusinessIndia #AutomationTools #ConstructionBusiness #TradingTips #GrokAI"
+}

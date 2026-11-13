@@ -1,0 +1,355 @@
+{
+ "date": "2026-11-13",
+ "tag": "2026-11-13",
+ "pilot": false,
+ "sources": 98,
+ "ideas": 14,
+ "idea_list": [
+  {
+   "idea": "Deploying voice AI agents to handle phone orders in Hindi over weak connectivity",
+   "format": "demo",
+   "total": 8.94,
+   "scores": {
+    "relevance": 9,
+    "novelty": 9,
+    "hook_potential": 9,
+    "retention": 9,
+    "save_share": 9,
+    "feasibility": 8,
+    "evidence": 9,
+    "viral": 9
+   }
+  },
+  {
+   "idea": "Claim and optimize your business profile on ChatGPT to capture AI local search leads",
+   "format": "tutorial",
+   "total": 8.83,
+   "scores": {
+    "relevance": 9,
+    "novelty": 9,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 10,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Why buying wholesale stock via AI chatbot suggestions can lead to scam websites",
+   "format": "problem_fix",
+   "total": 8.64,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 9
+   }
+  },
+  {
+   "idea": "Bypassing vendor subscription lock-in on hardware machines with open-source software",
+   "format": "case_study",
+   "total": 8.49,
+   "scores": {
+    "relevance": 7,
+    "novelty": 9,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 8,
+    "evidence": 10,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Using Gemini's video understanding API to inspect site work and stock conditions automatically",
+   "format": "demo",
+   "total": 8.49,
+   "scores": {
+    "relevance": 8,
+    "novelty": 9,
+    "hook_potential": 9,
+    "retention": 9,
+    "save_share": 8,
+    "feasibility": 8,
+    "evidence": 9,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Automating real-time market price alerts on WhatsApp using Grok and Zapier",
+   "format": "tutorial",
+   "total": 8.41,
+   "scores": {
+    "relevance": 8,
+    "novelty": 8,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 8,
+    "evidence": 9,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Automating UPI payment tracking and reconciliation under NPCI's small merchant scheme",
+   "format": "problem_fix",
+   "total": 8.35,
+   "scores": {
+    "relevance": 9,
+    "novelty": 7,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Switching from fixed monthly AI SaaS subscriptions to performance-based AI contracts",
+   "format": "checklist",
+   "total": 8.28,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "Using Adobe AI inside Google Drive to extract and edit customer PDF invoices",
+   "format": "tutorial",
+   "total": 8.17,
+   "scores": {
+    "relevance": 9,
+    "novelty": 7,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "Building no-code visual web scraping workflows with Gumloop for market research",
+   "format": "tool_test",
+   "total": 8.11,
+   "scores": {
+    "relevance": 8,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 8,
+    "evidence": 9,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Preventing autonomous AI agents from leaking confidential wholesale margins to customers",
+   "format": "problem_fix",
+   "total": 8.11,
+   "scores": {
+    "relevance": 8,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 8,
+    "evidence": 9,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Cutting automation bills by switching heavy batch workflows from Zapier to self-hosted n8n",
+   "format": "manual_vs_auto",
+   "total": 8.08,
+   "scores": {
+    "relevance": 8,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 8,
+    "evidence": 9,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "How to set up OpenAI API local data residency for sensitive customer records in India",
+   "format": "problem_fix",
+   "total": 7.92,
+   "scores": {
+    "relevance": 8,
+    "novelty": 8,
+    "hook_potential": 7,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 10,
+    "viral": 6
+   }
+  },
+  {
+   "idea": "Superhuman Docs (Coda) vs Notion: Which is better for automating shop operations?",
+   "format": "tool_test",
+   "total": 7.57,
+   "scores": {
+    "relevance": 8,
+    "novelty": 7,
+    "hook_potential": 7,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 6
+   }
+  }
+ ],
+ "rejected_ideas": [],
+ "items": [
+  {
+   "id": "R1-2026-11-13",
+   "kind": "reel",
+   "format": "demo",
+   "topic": "Deploying voice AI agents to handle phone orders in Hindi over weak connectivity",
+   "hook": "Counter rush mein customer call miss ho rahe hain? Ye dekho.",
+   "approved": false,
+   "attempts": 3,
+   "scores": {
+    "hook": 7,
+    "originality": 7,
+    "practical_value": 6,
+    "natural_language": 7,
+    "accuracy": 9,
+    "narrative": 7,
+    "visual_integrity": 8,
+    "pacing": 7,
+    "brand_consistency": 8,
+    "publish_readiness": 7
+   },
+   "reasons": [
+    "hook 7/10 (<8)",
+    "originality 7/10 (<8)",
+    "practical_value 6/10 (<8)",
+    "natural_language 7/10 (<8)",
+    "narrative 7/10 (<8)",
+    "reel is 61.1 s long (max 45 s; aim for 15-35 s)"
+   ],
+   "log": [
+    "attempt 1: fail {'hook': 7, 'originality': 6, 'practical_value': 5, 'natural_language': 7, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 7, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 6} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 5/10 (<8)', 'natural_language 7/10 (<8)']",
+    "attempt 2: rules failed: ['total narration 104 words (want 40-85, i.e. 15-35 s)', 'scene 3 narration 21 words (want 4-14)', 'scene 6 narration 24 words (want 4-14)']",
+    "attempt 3: fail {'hook': 7, 'originality': 7, 'practical_value': 6, 'natural_language': 7, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 8, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 7} ['hook 7/10 (<8)', 'originality 7/10 (<8)', 'practical_value 6/10 (<8)', 'natural_language 7/10 (<8)']",
+    "attempt 4: fail {'hook': 7, 'originality': 6, 'practical_value': 6, 'natural_language': 8, 'accuracy': 7, 'narrative': 7, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 6} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 6/10 (<8)', 'accuracy 7/10 (<8)']"
+   ],
+   "dir": "output/2026-11-13/R1-2026-11-13/try3",
+   "duration": 61.1,
+   "voice": "gemini"
+  },
+  {
+   "id": "R2-2026-11-13",
+   "kind": "reel",
+   "format": "problem_fix",
+   "topic": "Why buying wholesale stock via AI chatbot suggestions can lead to scam websites",
+   "hook": "AI chatbots se wholesale stock order karne se pehle ye dekho.",
+   "approved": true,
+   "attempts": 2,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 8,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 9,
+    "pacing": 8,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [],
+   "log": [
+    "attempt 1: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'visual_integrity 7/10 (<8)', 'reel is 47.7 s long (max 45 s; aim for 15-35 s)']",
+    "attempt 2: PASS {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} []"
+   ],
+   "dir": "output/2026-11-13/R2-2026-11-13/try2",
+   "duration": 34.1,
+   "voice": "gemini"
+  },
+  {
+   "id": "R3-2026-11-13",
+   "kind": "reel",
+   "format": "tutorial",
+   "topic": "Automating real-time market price alerts on WhatsApp using Grok and Zapier",
+   "hook": "Agar aap roz market prices ke liye 1 ghanta waste kar rahe ho, ye dekho.",
+   "approved": false,
+   "attempts": 3,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 8,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 9,
+    "pacing": 9,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [
+    "opening line too long for a 2-second hook (max 12 words)"
+   ],
+   "log": [
+    "attempt 1: fail {'hook': 7, 'originality': 7, 'practical_value': 7, 'natural_language': 7, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 6, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 6} ['hook 7/10 (<8)', 'originality 7/10 (<8)', 'practical_value 7/10 (<8)', 'natural_language 7/10 (<8)']",
+    "attempt 2: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['scene 3: screenshot must be a product page from the sources, not an article', 'originality 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+    "attempt 3: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} ['opening line too long for a 2-second hook (max 12 words)']",
+    "attempt 4: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 7, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'accuracy 7/10 (<8)', 'visual_integrity 7/10 (<8)']"
+   ],
+   "dir": "output/2026-11-13/R3-2026-11-13/try3",
+   "duration": 34.2,
+   "voice": "edge"
+  },
+  {
+   "id": "C1-2026-11-13",
+   "kind": "carousel",
+   "format": "tutorial",
+   "topic": "Claim and optimize your business profile on ChatGPT to capture AI local search leads",
+   "hook": "Stop losing local leads to AI search results",
+   "approved": true,
+   "attempts": 1,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 8,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 9,
+    "pacing": 9,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [],
+   "log": [
+    "attempt 1: PASS {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} []"
+   ],
+   "dir": "output/2026-11-13/C1-2026-11-13/try1",
+   "duration": null,
+   "voice": null
+  }
+ ],
+ "llm_calls": {
+  "text": 22,
+  "tts": 30,
+  "failed": 0
+ }
+}

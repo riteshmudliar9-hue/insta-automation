@@ -1,0 +1,271 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Deploying voice AI agents to handle phone orders in Hindi over weak connectivity",
+  "angle": "Multilingual AI sales agents can now take custom orders and negotiate pricing in Hindi over basic phone connections during peak hours.",
+  "audience_problem": "Indian shopkeepers and distributors missing customer sales calls while managing physical counter rush.",
+  "format": "demo",
+  "medium": "reel",
+  "source_ids": [
+   80,
+   84
+  ],
+  "evergreen": true,
+  "keywords": [
+   "voice ai hindi",
+   "ai sales agent",
+   "order phone bot",
+   "gemini live"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 9,
+   "hook_potential": 9,
+   "retention": 9,
+   "save_share": 9,
+   "feasibility": 8,
+   "evidence": 9,
+   "viral": 9
+  },
+  "total": 8.94
+ },
+ "piece": {
+  "hooks": [
+   "Counter rush mein customer call miss ho rahe hain? Ye dekho.",
+   "Counter rush ke waqt customer calls attend nahi ho pa rahe?",
+   "Shop counter sambhalte hue phone calls miss karna band karo.",
+   "Hindi me negotiation karne wala voice AI phone call sambhal sakta hai.",
+   "Counter bhara ho tab customer follow-up automated target call kar sakta hai."
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "Directly targets the daily pain point of Indian retail shopkeepers and distributors missing phone calls during peak counter hours.",
+  "title": "Voice AI Sales Agents for MSMEs",
+  "scenes": [
+   {
+    "purpose": "Hook the viewer with a relatable physical store problem.",
+    "narration": "Counter rush mein customer call miss ho rahe hain? Ye dekho.",
+    "on_screen": "Calls Miss Ho Rahe Hain?",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Missed Calls Cost Sales",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Introduce the voice AI negotiation capability shown by Google Cloud.",
+    "narration": "Google ne dikhaya ki AI voice agent phone par Hindi me deal negotiate kar sakta hai.",
+    "on_screen": "Hindi Voice AI Agent",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Voice AI Negotiates Deals",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Show step 1 of setting business conditions and price limits.",
+    "narration": "Bikri ke liye rate limit set karo, jaise per piece 400 se upar.",
+    "on_screen": "Set Minimum Price Guardrail",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "Set Stock Leads",
+     "Define Min Price",
+     "Trigger AI Agent"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Show step 2 of outbound automated call and Hindi negotiation.",
+    "narration": "Agent client ko call karke Hindi me rates negotiate karta hai.",
+    "on_screen": "Calls & Negotiates in Hindi",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Outbound phone call",
+     "Hindi language conversation",
+     "Negotiates within price limit"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Explain model limitations and cost differences.",
+    "narration": "Extended Thinking model complex multi-step reasoning ke liye heavy token use karta hai.",
+    "on_screen": "Complex Tasks Need Tokens",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "Live 3.8",
+    "right_label": "Extended",
+    "rows": [
+     {
+      "left": "Basic voice chat",
+      "right": "Multi-step logic"
+     },
+     {
+      "left": "Lower token cost",
+      "right": "Higher token cost"
+     }
+    ]
+   },
+   {
+    "purpose": "Summarize payoff and deliver call to action.",
+    "narration": "Comment VOICE, main AI voice tools ki poori details DM kar dunga.",
+    "on_screen": "Comment VOICE For Details",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Automate Sales Calls",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "How to handle customer order calls while managing your shop counter. Google Cloud recently demonstrated a voice AI agent built for small businesses that can place outbound phone calls and negotiate pricing directly in Hindi. You can give the agent explicit guardrails, like keeping the sale price above Rs 400 per item, and let it handle closing deals over mobile network connections. While basic voice calls run on Gemini 3.8 Live, complex multi-step negotiations require Extended Thinking models, which carry a higher cost per token. Have you faced issues losing leads because you couldn't pick up sales calls during peak counter hours? Comment VOICE for the full tool breakdown.",
+  "hashtags": [
+   "#VoiceAI",
+   "#IndianMSME",
+   "#SalesAutomation",
+   "#BusinessGrowth"
+  ],
+  "keywords": [
+   "Voice AI agents Hindi",
+   "MSME order call automation",
+   "Google Gemini Live phone call",
+   "Small business call handler",
+   "Hindi AI negotiation agent"
+  ],
+  "claims": [
+   {
+    "claim": "Google Cloud demonstrated a voice AI agent negotiating a sale over an outbound phone call in Hindi.",
+    "source_id": 80
+   },
+   {
+    "claim": "In the demo, an MSME owner set a minimum price of Rs 400 per helmet for the voice AI to negotiate.",
+    "source_id": 80
+   },
+   {
+    "claim": "Gemini 3.8 Extended Thinking handles multi-step context and reasoning but has a higher cost per token.",
+    "source_id": 80
+   },
+   {
+    "claim": "Equal AI uses voice assistants to handle incoming calls before the owner answers.",
+    "source_id": 80
+   },
+   {
+    "claim": "Gemini Live supports more than 25 Indian languages and dialects.",
+    "source_id": 80
+   }
+  ],
+  "dm_keyword": "VOICE",
+  "dm_text": "Here is how voice AI agents work for MSME order calls:\n1. Model Selection: Gemini 3.8 Live handles simple voice calls at lower cost per turn. Gemini 3.8 Extended Thinking handles complex multi-step reasoning and price negotiations, though it costs more per token.\n2. Guardrail Control: Set exact rules before triggering calls (e.g., in Google's demo, setting a price floor of Rs 400 per item).\n3. Call Answering: Startups like Equal AI deploy voice assistants to handle incoming calls before you pick up.\n4. Language: Gemini Live supports over 25 Indian languages and dialects."
+ },
+ "review": {
+  "scores": {
+   "hook": 7,
+   "originality": 7,
+   "practical_value": 6,
+   "natural_language": 7,
+   "accuracy": 9,
+   "narrative": 7,
+   "visual_integrity": 8,
+   "pacing": 7,
+   "brand_consistency": 8,
+   "publish_readiness": 7
+  },
+  "claims": [
+   {
+    "claim": "Google Cloud demonstrated a voice AI agent negotiating a sale over an outbound phone call in Hindi.",
+    "supported": true
+   },
+   {
+    "claim": "In the demo, an MSME owner set a minimum price of Rs 400 per helmet for the voice AI to negotiate.",
+    "supported": true
+   },
+   {
+    "claim": "Gemini 3.8 Extended Thinking handles multi-step context and reasoning but has a higher cost per token.",
+    "supported": true
+   },
+   {
+    "claim": "Equal AI uses voice assistants to handle incoming calls before the owner answers.",
+    "supported": true
+   },
+   {
+    "claim": "Gemini Live supports more than 25 Indian languages and dialects.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [],
+  "issues": [
+   "The reel presents complex voice negotiation as a standard off-the-shelf product feature, whereas the source material frames it as an API capability demonstrated by Google Cloud."
+  ],
+  "fix_instructions": "Clarify in the caption that advanced voice negotiation flows are currently custom-built using Gemini Live APIs, while simple call handling is available through turnkey platforms like Equal AI."
+ },
+ "rules": [],
+ "reasons": [
+  "hook 7/10 (<8)",
+  "originality 7/10 (<8)",
+  "practical_value 6/10 (<8)",
+  "natural_language 7/10 (<8)",
+  "narrative 7/10 (<8)",
+  "reel is 61.1 s long (max 45 s; aim for 15-35 s)"
+ ],
+ "meta": {
+  "duration": 61.1,
+  "voice": "gemini",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-13/R1-2026-11-13/try3/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-13/R1-2026-11-13/try3/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-13/R1-2026-11-13/try3/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-13/R1-2026-11-13/try3/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-13/R1-2026-11-13/try3/scene_05.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-13/R1-2026-11-13/try3/scene_06.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   2.52,
+   13.59,
+   2.72,
+   14.27,
+   13.01,
+   14.95
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-13/R1-2026-11-13/try3",
+ "attempt": 3,
+ "approved": false,
+ "hook": "Counter rush mein customer call miss ho rahe hain? Ye dekho.",
+ "log": [
+  "attempt 1: fail {'hook': 7, 'originality': 6, 'practical_value': 5, 'natural_language': 7, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 7, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 6} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 5/10 (<8)', 'natural_language 7/10 (<8)']",
+  "attempt 2: rules failed: ['total narration 104 words (want 40-85, i.e. 15-35 s)', 'scene 3 narration 21 words (want 4-14)', 'scene 6 narration 24 words (want 4-14)']",
+  "attempt 3: fail {'hook': 7, 'originality': 7, 'practical_value': 6, 'natural_language': 7, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 8, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 7} ['hook 7/10 (<8)', 'originality 7/10 (<8)', 'practical_value 6/10 (<8)', 'natural_language 7/10 (<8)']",
+  "attempt 4: fail {'hook': 7, 'originality': 6, 'practical_value': 6, 'natural_language': 8, 'accuracy': 7, 'narrative': 7, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 6} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 6/10 (<8)', 'accuracy 7/10 (<8)']"
+ ],
+ "material": "[80] YourStory — From multi-lingual AI agents to the future of voice: Google Cloud’s Naren Kachroo at TechSparks 2026\nURL: https://yourstory.com/2026/11/from-multi-lingual-ai-agents-to-the-future-of-voice-google-clouds-naren-kachroo-at-techsparks-2026\nFrom multi-lingual AI agents to the future of voice: Google Cloud’s Naren Kachroo at TechSparks 2026 | YourStory Sidebar is Loading... ADVERTISEMENT For Naren Kachroo, the most useful AI is the kind that finishes the job. “There is no value created without the task actually getting completed with AI,” said Kachroo, Head of Sales & GTM AI at Google Cloud. At TechSparks 2026, during a product showcase titled ‘Voice AI in action’, Kachroo walked through Google’s latest voice models, customer use cases, and a live demo built for small businesses. His argument was: voice is becoming the main way people will interact with AI, and in India, that shift will happen in local languages and accents.\nKachroo said the industry has moved past treating generative AI as a question-and-answer tool. “We have moved from thinking about generative AI as chatbots, as something that we ask questions of and we get answers from,” he said.\nThe focus now is AI that has access to tools, data, and capabilities, and can take actions on a person’s behalf.\n“We are not building AI for the sake of AI,” he added. The goal, he said, is AI that improves how people live and work everyday.\nGoogle recently announced Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking . Gemini 3.8 Live can detect and switch between 97 supported languages within the same conversation. Kachroo explained how businesses should choose between the two models.\nGemini 3.8 Live suits simpler conversational and agentic tasks, such as a live voice chat with basic tool calling. Extended Thinking suits conversations that need deeper reasoning, context switching, and multiple steps. Cost also matters, he noted: Extended Thinking costs more per token.\nBoth are voice-to-voice models, which handle speech as input and output in a single model. For developers who need only one part of that pipeline, Google also offers separate models for text-to-speech, speech-to-text, and live translation.\nKachroo said the latest Gemini text-to-speech model performed strongly in Google’s internal testing with Indian languages, accents, and tonality.\nKachroo played a series of short demos to show the range of use cases.\nIn the first, Shopify’s assistant, Sidekick, guided a merchant step by step through connecting a domain in the Shopify admin. In the second, a voice agent booked a restaurant table for eight people. Midway, the caller asked whether a cake was allowed, shared a photo from Google reviews to ask whether a dish was vegetarian, and asked about other vegetarian options before confirming.\nThe second demo required the agent to track context across multiple turns, remember preferences, and make several tool calls. That kind of task, Kachroo said, is where Extended Thinking fits.\nHe also showed Live Avatar, which pairs Gemini’s live voice with real-time video generation and lip-syncing, so users see an animated face as well as hear a voice. Google made Live Avatar available to businesses through Gemini Enterprise recently, and marks the audio and video it generates with an invisible SynthID watermark. Citi was a pilot customer: its Citi Sky assistant, built with Google DeepMind’s real-time avatar technology and the Gemini Live API, walks US wealth clients through options, such as what to do with a maturing certificate of deposit.\nKachroo said Gemini 3.8 Live has the lowest cost per turn of any comparable model, and that Extended Thinking tops industry benchmarks for speech-to-speech quality.\nGoogle has said Extended Thinking scored 82.6 on Artificial Analysis’ speech-to-speech quality index, the highest overall score.\nThe low price is not a land grab, he said. Google runs the full stack itself, from its TPU chips and infrastructure to the models and applications, and passes the efficiency gains on to customers. That lets Google offer both a top-quality model and a lower-cost workhorse model.\nHe pointed to two customers as examples of voice AI in use: Autotrader, which uses the technology for buying and selling used cars, and Equal AI, an Indian startup whose assistant answers and handles phone calls before the user picks up.\nThe centerpiece of the session was a live demo of an assistant for micro, small, and medium enterprises (MSMEs), which Kachroo said his team built in about a day. It is a large potential market: more than 7.8 crore enterprises were registered on the government’s Udyam portal as of February 2026, according to the MSME ministry. Kachroo flagged one risk upfront: he was running it on a mobile hotspot after failing to connect to the hotel network.\nThe demo featured a fictional safety gear company and its owner, Rajesh, who had just received about 500 helmets. Speaking to the assistant, Rajesh asked how many leads he had for helmets. The assistant found two: a construction firm in Mumbai that needed 500 helmets, and a hardware store in Agra that needed 50.\nRajesh told the assistant to drop the smaller lead, send a quotation to the Mumbai buyer, and call them to close the deal. He set one condition: the price had to stay above Rs 400 per helmet, and the assistant could book the order without coming back for approval.\nThe assistant then called the buyer and negotiated in Hindi. Kachroo said it carried context from the internal conversation with Rajesh into the external call, negotiated on the company’s behalf, and closed the deal.\nThat end-to-end flow is where Google wants voice AI to go, he said. With the 3.8 Live models, he believes businesses can now build voice agents into their processes that complete tasks on their own.\nKachroo said the assistant could have held the same conversation in Tamil, Telugu, Malayalam, Kannada, Marathi, and other languages. That matters, he argued, because the Indian consumer is moving voice-first. Gemini Live itself now supports more than 25 Indian languages and dialects . According to the IAMAI-Kantar Internet in India 2024 report, 98% of India’s 886 million active internet users accessed content in Indic languages, and one in five used voice commands to go online.\n“I believe that voice is the future,” he said. Voice AI in India, he added, will need to be native to the languages people speak, the accents they use, and what they are most comfortable with.\nKachroo said Google DeepMind has a team in Bengaluru researching voice, focused on Indian accents and cultural nuances. Google also funds Project Vaani, run by the Indian Institute of Science and ARTPARK, which has open-sourced more than 31,000 hours of speech in 105 languages from 165 districts.\nKachroo closed with an invitation for founders and developers to try the models, use the experiences, and share feedback, including what does not work, so that Google’s research and product teams can improve them. His larger point was that voice AI is ready to move beyond conversation into execution, and that India, with its range of languages and its voice-first users, is one of the markets where that shift will be tested first.\nADVERTISEMENT Advertise with us A\n\n[84] YourStory — Gemini in action: How voice, agents, and coding tools are changing the way businesses use AI\nURL: https://yourstory.com/2026/11/gemini-in-action-how-voice-agents-and-coding-tools-are-changing-the-way-businesses-use-ai\nSidebar is Loading... ADVERTISEMENT Gemini in action: How voice, agents, and coding tools are changing the way businesses use AI | YourStory Generative AI, in the form most people know it, is only about three years old. In that short time, Rajesh Shewani believes it has already moved through three distinct eras.\nFirst came retrieval: chatbots that answer a question and wait for the next one. Then came agents that take action on a user’s behalf. Now, he said, the industry is entering what he calls the harness era, where orchestration, memory, and guardrails around a model let it carry out work from start to finish.\n“An agent is nothing now but a model plus a harness,” said Shewani, Head of AI Customer Engineering for Digital Natives, Startups and ITeS at Google Cloud, at TechSparks 2026 .\nIn a masterclass titled ‘Gemini in action’ , Shewani promised a look at what is happening rather than a sales pitch. He covered where businesses are putting AI to work, how voice is becoming an interface, the tools Google uses to build its own software, and the questions organisations need to answer as agents become everyday users of their systems.\nShewani said organizations are no longer just discussing AI but executing in five broad areas.\nAgents, which are changing how companies work and how startups build for other businesses.\nCreative work, from image and video generation to marketing and branding, was one of the earliest areas to take off.\nMultimodal AI, which lets models work with images, video, and voice, not just text.\nPhysical AI, including robotics and self-driving cars, which he expects to grow fast as the “brain” of large language models gains a body.\nAI fluency, a priority for traditional organizations in banking, insurance, retail, and telecom.\nFor those traditional businesses, the worry is less about building models and more about whether employees can use AI in their daily jobs. They don’t need to be experts or developers, he said, but they do need to be fluent.\nThe three eras are cumulative, Shewani explained. Agents build on retrieval, and harnesses build on agents. AI is no longer an assistant that appears and disappears, but something closer to an autonomous colleague.\n“It’s no longer just about the model,” he said. “It’s the model plus everything that you build around it”, from memory and context management to sandboxing.\nHe described four things every agent needs:\nA goal: booking a ticket, making an entry in an SAP system, or negotiating a price by voice.\nInstructions: guidance that goes beyond a single prompt and can be stored for reuse, much as new employees learn how an organization works.\nKnowledge: a company’s own data, since models are trained on public information, not internal records.\nTools: the means to act, such as updating a CRM or placing an outbound call.\nKnowledge is where much of the effort is going. Many teams had begun building their own “LLM wikis” for agents, and Google is now trying to standardize the approach with the Open Knowledge Format (OKF). OKF v0.1 represents knowledge as a directory of markdown files with YAML frontmatter, which agents can read directly. Shewani compared its role to what Model Context Protocol (MCP) did for backend integration.\nA shared knowledge layer, combining a knowledge graph with plain text, also keeps costs down, he said. Rather than querying everything for every prompt, agents are pointed to structured context, which uses fewer tokens.\n“Voice is becoming the new user interface,” Shewani said, whether for customers, employees, or users who prefer to speak in local languages. He noted that Google DeepMind’s team in Bengaluru is doing extensive work on Indic languages. Gemini Live now supports more than 90 Indian languages and dialects , including Sanskrit, Bhojpuri, and Maithili.\nHe showed a live translation demo built for Grab, the Southeast Asian ride-hailing platform, in which a passenger and driver who do not share a language coordinate a pickup.\nGrab says travellers and driver-partners make more than 10 million voice calls a month, and it has been testing Gemini 3.5 Live Translate, which offers two-way translation in more than 70 languages.\nShewani said Gemini 3.8 Live, launched in September, improves further on noise cancellation and conversations between multiple speakers.\nAnother demo, built in India, dubbed a news video into Marathi and Malayalam from a single prompt while matching lip movements and facial expressions. Dubbing once required complex pipelines with many steps, he said, but live models have cut those down significantly, making it easier to create training videos and marketing content across languages.\nHe also showed Citi Sky, Citi’s AI-powered wealth assistant, which uses a virtual avatar to walk clients through options for a maturing certificate of deposit and complete the renewal. For such experiences, latency is critical. “If a flow breaks even for a second or a millisecond, it doesn’t work,” he said.\nShewani then walked through the tools that sit beneath these experiences.\nGemini agent is a single agent that can carry out tasks end to end. Google Cloud introduced it on October 8, 2026, and it can keep working in the cloud for hours or days, even when a user’s device is offline.\nShewani gave the example of a procurement team asking it to research options, write a request for proposal, send it to vendors, evaluate responses, and produce a shortlist. According to Google, the agent routes each task to the most suitable model, currently choosing between Gemini and Anthropic’s Claude models.\nGemini Enterprise adds guardrails and quotas for businesses, which Shewani said helps keep costs from running away, a key concern in tokenomics. Google Cloud CEO Thomas Kurian has said nearly 90% of Fortune 100 companies use Gemini Enterprise.\nAntigravity is Google’s harness for building software, available as a command-line tool and as extensions for code editors. Shewani said most of Google’s own code is now written using the same harness, known internally as Jetski. Google CEO Sundar Pichai has said 75% of new code at Google is now generated by AI and reviewed by engineers, up from 25% in October 2024.\nCodeMender scans code for vulnerabilities, creates patches, tests them in a sandbox, and can integrate with a GitHub repository. When Google DeepMind first announced it in October 2025, it had already contributed 72 security fixes to open-source projects.\nGoogle is also giving every agent its own identity, which Shewani likened to an LDAP directory for agents, so organisations can track which agent took which action.\nNo model can be cheapest, fastest, and most capable at once, Shewani said, so businesses need a range of models and should match each task to the right one. Google’s Flash models are its workhorses for everyday tasks that do not need complex reasoning.\n“If I need to get to office every day, I don’t need to have a Ferrari,” he said. For the hardest work, there is Gemini 4 Argon.\nGoogle mad",
+ "id": "R1-2026-11-13",
+ "caption_final": "How to handle customer order calls while managing your shop counter. Google Cloud recently demonstrated a voice AI agent built for small businesses that can place outbound phone calls and negotiate pricing directly in Hindi. You can give the agent explicit guardrails, like keeping the sale price above Rs 400 per item, and let it handle closing deals over mobile network connections. While basic voice calls run on Gemini 3.8 Live, complex multi-step negotiations require Extended Thinking models, which carry a higher cost per token. Have you faced issues losing leads because you couldn't pick up sales calls during peak counter hours? Comment VOICE for the full tool breakdown.\n\n#VoiceAI #IndianMSME #SalesAutomation #BusinessGrowth"
+}
