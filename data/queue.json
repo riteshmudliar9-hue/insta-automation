@@ -3777,10 +3777,15 @@
    "brand_consistency": 9,
    "publish_readiness": 8
   },
-  "status": "queued",
+  "status": "published",
   "produced_at": 1794530637,
-  "log": [],
+  "log": [
+   "2026-11-13T09:09:15.337347+05:30 published https://www.instagram.com/p/Dfqr7CQAPpX/"
+  ],
   "dm_keyword": "",
-  "dm_text": ""
+  "dm_text": "",
+  "media_id": "18044248028838487",
+  "permalink": "https://www.instagram.com/p/Dfqr7CQAPpX/",
+  "published_at": "2026-11-13T09:09:15.337347+05:30"
  }
 ]
