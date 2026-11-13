@@ -3584,9 +3584,11 @@
    "brand_consistency": 9,
    "publish_readiness": 8
   },
-  "status": "queued",
+  "status": "published",
   "produced_at": 1794530637,
-  "log": [],
+  "log": [
+   "2026-11-13T22:10:23.437770+05:30 published https://www.instagram.com/reel/DfsFSFoj39D/"
+  ],
   "dm_keyword": "SAFETY",
   "dm_text": "AI chatbots se wholesale vendor dhundhte waqt in 3 baaton ka dhyan rakhein: 1. Always verify the source URL by manually searching for the company on Google. 2. Never enter personal or business credit card info on a site suggested by a chatbot without checking its reputation independently. 3. Be extra careful with 'regional' websites, as AI often hallucinates fake regional domains for brands. Source: The Verge study on AI shopping risks. Stay safe and always cross-verify your suppliers.",
   "presenter": {
@@ -3741,7 +3743,10 @@
    "cta": "Comment SAFETY for checklist",
    "prompts_sent": true,
    "prompts_sent_at": 1794577092
-  }
+  },
+  "media_id": "18644745763020277",
+  "permalink": "https://www.instagram.com/reel/DfsFSFoj39D/",
+  "published_at": "2026-11-13T22:10:23.437770+05:30"
  },
  {
   "id": "C1-2026-11-13",
