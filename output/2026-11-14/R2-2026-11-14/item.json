@@ -1,0 +1,287 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Turning long product demo videos into short promotional clips automatically in 30 seconds",
+  "angle": "Use AI video clipping engines like Frammer to extract promotional social media reels from existing product recording archives.",
+  "audience_problem": "Retailers and service providers spend thousands of rupees on video editors just to repurpose long video content.",
+  "format": "demo",
+  "medium": "reel",
+  "source_ids": [
+   88
+  ],
+  "evergreen": true,
+  "keywords": [
+   "Frammer AI",
+   "video editing",
+   "reel creation",
+   "content automation",
+   "social media clips"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 8,
+   "hook_potential": 9,
+   "retention": 9,
+   "save_share": 9,
+   "feasibility": 8,
+   "evidence": 8,
+   "viral": 9
+  },
+  "total": 8.72
+ },
+ "piece": {
+  "hooks": [
+   "Long videos se manually clips kaatna band karo. Ye dekho.",
+   "TV channels long live video se 30 second mein reels kaise banate hain?",
+   "Video editor ke bina long videos se short reels kaise banaye?",
+   "Product demo videos ko 30 second mein short reels mein badlo.",
+   "Agar aap abhi bhi full video se reels manually kaat rahe ho, ye dekho."
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "Directly targets the hassle and editor cost of extracting short clips from long recordings using a sharp problem-driven hook.",
+  "title": "Automate Reels From Product Videos",
+  "scenes": [
+   {
+    "purpose": "Hook",
+    "narration": "Long videos se manually clips kaatna band karo. Ye dekho.",
+    "on_screen": "Manual Clipping Shut Down",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Automate Short Video Clips",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Show AI capability",
+    "narration": "Frammer AI jaise tools live video se 30 second mein reels banate hain.",
+    "on_screen": "Reels In 30 Seconds",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "Full Length Feed",
+     "Frammer AI Engine",
+     "Vertical Short Reel"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Provide social proof",
+    "narration": "India Today aur Network18 jaise major media groups isey use karte hain.",
+    "on_screen": "Big Media Workflow",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Network18",
+     "India Today Group",
+     "Astro Malaysia"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Manual vs automated comparison",
+    "narration": "Ye tool automatic vertical videos aur event highlights instantly generate karta hai.",
+    "on_screen": "Auto Highlights Created",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "Manual Editing",
+    "right_label": "AI Automation",
+    "rows": [
+     {
+      "left": "Hours of cutting",
+      "right": "30 sec output"
+     },
+     {
+      "left": "Large editor team",
+      "right": "Automated workflow"
+     }
+    ]
+   },
+   {
+    "purpose": "SMB application",
+    "narration": "Shops aur local brands bhi long product demos se auto clips bana sakte hain.",
+    "on_screen": "Smart SMB Takeaway",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "Record Product Demo",
+     "Auto Clip Highlights",
+     "Post Social Reels"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "State tool limitation",
+    "narration": "Limit ye hai ki custom brand styling ke liye manual check lagta hai.",
+    "on_screen": "Know The Limit",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Check auto cuts",
+     "Verify brand styling",
+     "Review before post"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Call to action",
+    "narration": "Comment FRAMMER, main aapko AI video workflow details DM kar dunga.",
+    "on_screen": "Comment FRAMMER",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Get AI Video Workflow",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "How to convert long product recordings into short Instagram reels using AI video tools. Major media houses like Network18 and India Today Group use Indian AI platform Frammer AI to convert full video feeds into vertical short clips in under 30 seconds. Small business owners recording long product demos or shop tours can apply the exact same strategy: record one long video, use AI to extract highlight reels, and post daily without hiring extra editors. Keep in mind that automated AI cuts still require a quick human review to verify brand overlay and speech cuts before publishing. Have you tried automated video clipping tools for your product catalog? Comment FRAMMER for the complete video workflow breakdown.",
+  "hashtags": [
+   "#VideoAutomation",
+   "#ContentCreation",
+   "#AIWorkflow",
+   "#ProductMarketing"
+  ],
+  "keywords": [
+   "video editing automation",
+   "frammer ai reels",
+   "product demo clips",
+   "ai video processing",
+   "short video generator"
+  ],
+  "claims": [
+   {
+    "claim": "Frammer AI can turn live video footage into social media content in under 30 seconds.",
+    "source_id": 88
+   },
+   {
+    "claim": "Broadcasters can create vertical videos and match highlights without relying on large editing teams.",
+    "source_id": 88
+   },
+   {
+    "claim": "Frammer AI clients include Network18 and The India Today Group in India.",
+    "source_id": 88
+   },
+   {
+    "claim": "Astro Malaysia became Frammer's first live sports customer.",
+    "source_id": 88
+   }
+  ],
+  "dm_keyword": "FRAMMER",
+  "dm_text": "Here is how AI video clipping tools like Frammer automate social content: 1. Input: Feed full video recordings or live streams into the AI engine. 2. Processing: Frammer AI identifies key moments and generates vertical short videos in under 30 seconds. 3. Output: Get vertical reels and event highlights automatically without needing large teams of editors. 4. Enterprise Adoption: Network18, India Today Group, and Astro Malaysia currently use this technology. 5. Best Practice for Local Businesses: Record long product demos, extract short reels using automated tools, and review branding overlays before publishing."
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 7,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "Frammer AI can turn live video footage into social media content in under 30 seconds.",
+    "supported": true,
+    "note": "Supported directly by the article text."
+   },
+   {
+    "claim": "Broadcasters can create vertical videos and match highlights without relying on large editing teams.",
+    "supported": true,
+    "note": "Supported by the source material."
+   },
+   {
+    "claim": "Frammer AI clients include Network18 and The India Today Group in India.",
+    "supported": true,
+    "note": "Supported by source material."
+   },
+   {
+    "claim": "Astro Malaysia became Frammer's first live sports customer.",
+    "supported": true,
+    "note": "Supported by source material."
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [],
+  "issues": [
+   "Frammer AI is primarily an enterprise broadcaster technology rather than a self-serve self-signup tool for small retail shops. While framing the concept for SMBs works as an illustrative strategy, mentioning general SMB AI clipping tools (like OpusClip or Vidyo) in the caption would add immediate utility."
+  ],
+  "fix_instructions": "The content is solid and publishable. In the caption, clarify that Frammer AI works with enterprise broadcasters, but small businesses can use accessible consumer AI clipping platforms to execute this exact same workflow today."
+ },
+ "rules": [],
+ "reasons": [
+  "originality 7/10 (<8)",
+  "practical_value 7/10 (<8)"
+ ],
+ "meta": {
+  "duration": 34.4,
+  "voice": "edge",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-14/R2-2026-11-14/try3/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-14/R2-2026-11-14/try3/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-14/R2-2026-11-14/try3/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-14/R2-2026-11-14/try3/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-14/R2-2026-11-14/try3/scene_05.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-14/R2-2026-11-14/try3/scene_06.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-14/R2-2026-11-14/try3/scene_07.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   4.66,
+   4.83,
+   5.22,
+   5.5,
+   5.1,
+   4.3,
+   4.8
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-14/R2-2026-11-14/try3",
+ "attempt": 3,
+ "approved": false,
+ "hook": "Long videos se manually clips kaatna band karo. Ye dekho.",
+ "log": [
+  "attempt 1: fail {'hook': 7, 'originality': 5, 'practical_value': 5, 'natural_language': 7, 'accuracy': 6, 'narrative': 6, 'visual_integrity': 6, 'pacing': 6, 'brand_consistency': 8, 'publish_readiness': 5} ['hook 7/10 (<8)', 'originality 5/10 (<8)', 'practical_value 5/10 (<8)', 'natural_language 7/10 (<8)']",
+  "attempt 2: fail {'hook': 7, 'originality': 6, 'practical_value': 4, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 6} ['scene 6 narration 20 words (want 4-14)', 'hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 4/10 (<8)']",
+  "attempt 3: fail {'hook': 8, 'originality': 7, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['originality 7/10 (<8)', 'practical_value 7/10 (<8)']",
+  "attempt 4: fail {'hook': 7, 'originality': 6, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['hook 7/10 (<8)', 'originality 6/10 (<8)']"
+ ],
+ "material": "[88] YourStory — Frammer AI launches live sports platform with Astro Malaysia as first customer\nURL: https://yourstory.com/2026/11/frammer-ai-launches-live-sports-platform-with-astro-malaysia-as-first-customer\nSidebar is Loading... ADVERTISEMENT Frammer AI launches live sports platform with Astro Malaysia as first customer | YourStory The Indian AI video technology company can turn live sports footage into social media highlights in under 30 seconds, helping broadcasters reach fans while matches are still underway.\nA goal, a last-minute winner or a match-defining moment can quickly become yesterday’s news on social media. Sports broadcasters need to get these moments in front of fans while the action is still fresh.\nFrammer AI is looking to make that process faster with the launch of its live sports platform, bringing Astro Malaysia on board as its first customer. The partnership marks Frammer’s entry into sports, expanding its AI-powered video technology beyond news and entertainment.\nUsing its proprietary technology, Frammer can turn live sports footage into social media content in under 30 seconds. The platform is designed to help broadcasters publish highlights while matches are still unfolding, rather than wait for the event to end.\nThe platform converts live feeds into match highlights, vertical videos, player- and event-based clips, branded videos and other social media content. It lets rights holders create and distribute more content around every match without relying on large teams of editors and producers.\nAstro, Malaysia’s leading content and entertainment company, is Frammer’s first sports customer. The broadcaster holds major sports rights, including the Premier League through the 2027/28 season and AFC competitions through 2028/29.\nThe collaboration will help Astro deliver match highlights and key moments to audiences across digital platforms, giving fans more ways to follow their favourite teams and players.\nNivendran Veerappan, Vice President and Head of Broadcast and Platform Engineering at Astro, said the partnership supports the company's commitment to bringing fans closer to live sports, wherever they choose to watch.\nThe launch comes as sports streaming continues to grow. The global segment is valued at around $40 billion this year, with demand supported by new leagues, teams and events, expanding competitions, new formats and growing interest in niche sports.\nFrammer believes this creates an opportunity for sports rights holders to get more value from the content they already produce and the rights they invest in. Faster content creation and distribution can help them reach audiences across more platforms and create additional opportunities for engagement and commercial returns.\n\"Astro as our first sports customer is a huge milestone as we enter the sports space,\" said Suparna Singh, CEO and Co-Founder of Frammer AI. She added that the company's goal is to help clients generate more content and audience value from every hour of sport they invest in.\nFounded in 2023 by the former management team of New Delhi Television (NDTV), Frammer provides an AI-powered video studio for sports, entertainment and news.\nIts clients include Medialive in Portugal, ABS-CBN in the Philippines, Media Prima in Malaysia, and The India Today Group and Network18 in India.\nThe company's technology also supports live streaming, key-moment creation, vertical short videos, automated FAST channels, and distribution across multiple platforms.\nWith Astro as its first sports customer, Frammer is taking its video infrastructure into a market where speed matters as much as the moment itself.\nADVERTISEMENT Advertise with us ADVERTISEMENT Advertise with us ADVERTISEMENT Advertise with us ADVERTISEMENT Advertise with us The Indian AI video technology company can turn live sports footage into social media highlights in under 30 seconds, helping broadcasters reach fans while matches are still underway.\nA goal, a last-minute winner or a match-defining moment can quickly become yesterday’s news on social media. Sports broadcasters need to get these moments in front of fans while the action is still fresh.\nFrammer AI is looking to make that process faster with the launch of its live sports platform, bringing Astro Malaysia on board as its first customer. The partnership marks Frammer’s entry into sports, expanding its AI-powered video technology beyond news and entertainment.\nUsing its proprietary technology, Frammer can turn live sports footage into social media content in under 30 seconds. The platform is designed to help broadcasters publish highlights while matches are still unfolding, rather than wait for the event to end.\nThe platform converts live feeds into match highlights, vertical videos, player- and event-based clips, branded videos and other social media content. It lets rights holders create and distribute more content around every match without relying on large teams of editors and producers.\nAstro, Malaysia’s leading content and entertainment company, is Frammer’s first sports customer. The broadcaster holds major sports rights, including the Premier League through the 2027/28 season and AFC competitions through 2028/29.\nThe collaboration will help Astro deliver match highlights and key moments to audiences across digital platforms, giving fans more ways to follow their favourite teams and players.\nNivendran Veerappan, Vice President and Head of Broadcast and Platform Engineering at Astro, said the partnership supports the company's commitment to bringing fans closer to live sports, wherever they choose to watch.\nThe launch comes as sports streaming continues to grow. The global segment is valued at around $40 billion this year, with demand supported by new leagues, teams and events, expanding competitions, new formats and growing interest in niche sports.\nFrammer believes this creates an opportunity for sports rights holders to get more value from the content they already produce and the rights they invest in. Faster content creation and distribution can help them reach audiences across more platforms and create additional opportunities for engagement and commercial returns.\n\"Astro as our first sports customer is a huge milestone as we enter the sports space,\" said Suparna Singh, CEO and Co-Founder of Frammer AI. She added that the company's goal is to help clients generate more content and audience value from every hour of sport they invest in.\nFounded in 2023 by the former management team of New Delhi Television (NDTV), Frammer provides an AI-powered video studio for sports, entertainment and news.\nIts clients include Medialive in Portugal, ABS-CBN in the Philippines, Media Prima in Malaysia, and The India Today Group and Network18 in India.\nThe company's technology also supports live streaming, key-moment creation, vertical short videos, automated FAST channels, and distribution across multiple platforms.\nWith Astro as its first sports customer, Frammer is taking its video infrastructure into a market where speed matters as much as the moment itself.",
+ "id": "R2-2026-11-14",
+ "caption_final": "How to convert long product recordings into short Instagram reels using AI video tools. Major media houses like Network18 and India Today Group use Indian AI platform Frammer AI to convert full video feeds into vertical short clips in under 30 seconds. Small business owners recording long product demos or shop tours can apply the exact same strategy: record one long video, use AI to extract highlight reels, and post daily without hiring extra editors. Keep in mind that automated AI cuts still require a quick human review to verify brand overlay and speech cuts before publishing. Have you tried automated video clipping tools for your product catalog? Comment FRAMMER for the complete video workflow breakdown.\n\n#VideoAutomation #ContentCreation #AIWorkflow #ProductMarketing"
+}

@@ -662,5 +662,53 @@
   "status": "published",
   "media_id": "18044248028838487",
   "permalink": "https://www.instagram.com/p/Dfqr7CQAPpX/"
+ },
+ {
+  "id": "R3-2026-11-14",
+  "date": "2026-11-14",
+  "kind": "reel",
+  "format": "tutorial",
+  "topic": "Extracting messy specs from handwritten client images using Gemini 4 Hydrogen's multi-part reasoning",
+  "hook": "Client ke messy WhatsApp orders manually enter karna band karo.",
+  "keywords": [
+   "WhatsApp order extraction",
+   "Gemini 4 Hydrogen typos",
+   "clean order sheet AI",
+   "AI table extraction",
+   "distributor workflow automation"
+  ],
+  "status": "queued"
+ },
+ {
+  "id": "R1-2026-11-14",
+  "date": "2026-11-14",
+  "kind": "reel",
+  "format": "problem_fix",
+  "topic": "How to verify wholesale vendor sites recommended by AI chatbots before sending advance payments",
+  "hook": "AI se wholesale supplier search kar rahe ho? Fake website ka risk hai.",
+  "keywords": [
+   "wholesale supplier search",
+   "AI chatbot fake links",
+   "vendor verification",
+   "Perplexity shopping test",
+   "business payment scam"
+  ],
+  "status": "queued"
+ },
+ {
+  "id": "C1-2026-11-14",
+  "date": "2026-11-14",
+  "kind": "carousel",
+  "format": "checklist",
+  "topic": "Setting spending caps and approval rules before turning on ChatGPT Wallet for purchase agents",
+  "hook": "Your future customers are AI agents, not just humans.",
+  "keywords": [
+   "AI shopping agents",
+   "ChatGPT Wallet",
+   "ecommerce automation",
+   "online store optimization",
+   "agentic commerce"
+  ],
+  "status": "queued"
  }
 ]

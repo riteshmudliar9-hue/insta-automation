@@ -3794,5 +3794,307 @@
   "media_id": "18044248028838487",
   "permalink": "https://www.instagram.com/p/Dfqr7CQAPpX/",
   "published_at": "2026-11-13T09:09:15.337347+05:30"
+ },
+ {
+  "id": "R3-2026-11-14",
+  "kind": "reel",
+  "date": "2026-11-14",
+  "slot": "2026-11-14T21:00",
+  "dir": "output/2026-11-14/R3-2026-11-14/try2",
+  "files": [
+   "reel.mp4"
+  ],
+  "caption": "How to extract clean order sheets from messy WhatsApp messages using Gemini 4 Hydrogen. When distributors receive WhatsApp orders full of spelling mistakes and vague item names, retyping them into ERP software wastes hours. Google's new Gemini 4 Hydrogen model is designed to handle multi-part questions, hard typos, and structured table creation. You can paste raw client messages into the Gemini app or AI Studio to generate formatted tables instantly. Always verify item quantities before creating final GST invoices. Comment ORDER for the complete guide.\n\n#Gemini4 #SmallBusinessIndia #DistributorWorkflow #OrderManagement",
+  "topic": "Extracting messy specs from handwritten client images using Gemini 4 Hydrogen's multi-part reasoning",
+  "format": "tutorial",
+  "hook": "Client ke messy WhatsApp orders manually enter karna band karo.",
+  "keywords": [
+   "WhatsApp order extraction",
+   "Gemini 4 Hydrogen typos",
+   "clean order sheet AI",
+   "AI table extraction",
+   "distributor workflow automation"
+  ],
+  "scores": {
+   "hook": 9,
+   "originality": 8,
+   "practical_value": 9,
+   "natural_language": 9,
+   "accuracy": 9,
+   "narrative": 9,
+   "visual_integrity": 8,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "status": "queued",
+  "produced_at": 1794616649,
+  "log": [],
+  "dm_keyword": "ORDER",
+  "dm_text": "Here is how to extract messy WhatsApp orders using Gemini 4 Hydrogen: 1. Open the Google Gemini app or Google AI Studio. 2. Copy the client's messy WhatsApp text containing typos. 3. Prompt Gemini: 'Extract these items into a structured table with Columns: Item Name, Specifications, Quantity'. 4. Gemini 4 Hydrogen uses multi-part reasoning to handle typos and format the table. 5. Double check item quantities against original notes before generating final GST invoices.",
+  "presenter": {
+   "status": "waiting",
+   "takes": [
+    {
+     "n": 1,
+     "kind": "talk",
+     "talk": 1,
+     "line": "Client ke messy WhatsApp orders manually enter karna band karo, ye kaam ab AI karega.",
+     "visual_scene": -1,
+     "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: close-up, camera steady at eye level. Points directly at the camera with a serious expression. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Client ke messy WhatsApp orders manually enter karna band karo, ye kaam ab AI karega.\" No subtitles, no on-screen text, no music, no other people.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    },
+    {
+     "n": 2,
+     "kind": "talk",
+     "talk": 2,
+     "line": "Bas message copy karke Gemini 4 Hydrogen mein paste karo, ye automatic clean table bana dega.",
+     "visual_scene": -1,
+     "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: medium close-up with a slow, smooth push-in towards his face. Leans in slightly and lowers his voice. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Bas message copy karke Gemini 4 Hydrogen mein paste karo, ye automatic clean table bana dega.\" No subtitles, no on-screen text, no music, no other people.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    },
+    {
+     "n": 3,
+     "kind": "broll",
+     "cover": 2,
+     "desc": "close-up of a shopkeeper's hands typing on a laptop next to a stack of paper invoices on a wooden counter",
+     "prompt": "Create a realistic vertical 9:16 video of about 8 seconds: close-up of a shopkeeper's hands typing on a laptop next to a stack of paper invoices on a wooden counter. Indian small-business setting, warm natural light, handheld smartphone-camera look, slow subtle camera movement, shallow depth of field. No faces, no readable text, no brand names or logos, no subtitles, no speech, no music.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    },
+    {
+     "n": 4,
+     "kind": "talk",
+     "talk": 3,
+     "line": "Comment ORDER, main aapko setup steps aur sahi prompt DM kar dunga, try zaroor karna.",
+     "visual_scene": -1,
+     "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: medium shot from slightly to his left (about 20 degrees), camera steady. Smiles and shrugs lightly. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Comment ORDER, main aapko setup steps aur sahi prompt DM kar dunga, try zaroor karna.\" No subtitles, no on-screen text, no music, no other people.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    },
+    {
+     "n": 5,
+     "kind": "broll",
+     "cover": 3,
+     "desc": "over-the-shoulder shot of a phone on a shop counter lighting up with new message notifications",
+     "prompt": "Create a realistic vertical 9:16 video of about 8 seconds: over-the-shoulder shot of a phone on a shop counter lighting up with new message notifications. Indian small-business setting, warm natural light, handheld smartphone-camera look, slow subtle camera movement, shallow depth of field. No faces, no readable text, no brand names or logos, no subtitles, no speech, no music.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    }
+   ],
+   "material": "[15] The Verge AI — Google’s new Gemini model is better at understanding complicated questions\nURL: https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen\nGoogle’s new Gemini model is better at understanding complicated questions | The Verge Skip to main content The homepage The Verge The Verge logo. The homepage The Verge The Verge logo. Notifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo. Login / Sign Up\nComments Loading comments Getting the conversation ready... AI\nGoogle’s Robby Stein says Gemini 4 Hydrogen is ‘the biggest model upgrade to Search yet.’﻿\nGoogle’s Robby Stein says Gemini 4 Hydrogen is ‘the biggest model upgrade to Search yet.’﻿\nStevie Bonifield Nov 12, 2026, 9:55 PM UTC Link\nStevie Bonifield is a news writer covering all things consumer tech. Stevie started out at Laptop Mag writing news and reviews on hardware, gaming, and AI. Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including “questions with multiple parts, hard-to-understand typos, or highly specific requests.” The new model can break down your questions and address each part in its responses. It’s available starting today in search, the Gemini app, all tiers of Google AI Studio, the Gemini API, Gemini for business, and in Google Antigravity for Google AI Pro and Ultra subscribers. Robby Stein, VP of product at Google Search, says it’s “now the new default model in AI Mode & being used for your hardest questions in AI Overviews.”\nGoogle says Gemini 4 Hydrogen also gives users a wider range of links in its responses by “conducting simultaneous queries across all the relevant subtopics.” Its responses have more visuals, too, like images, comparison tables, graphs, and maps. One of Stein’s examples shows the AI generating an interactive animated driving simulation in response to a user’s question about how phones locate which lane of a highway a car is on in areas without cell service. Google says the new model also has improved language understanding “across all supported AI Mode languages.”\nUsers have more thinking level options with Gemini 4 Hydrogen, as well, including low, medium, high, and a new “xhigh” mode. According to Google, the new model “delivers significant leaps in both speed and intelligence” compared to Gemini Flash 3.8 , and it “matches or outperforms some of the competing models in its class,” like Claude Sonnet 5.5 and GPT-6.1 Terra.\nLet’s talk about Jensen Huang’s many affairs!\nMicrosoft’s massive Outlook outage might be over\nThe Verge The Verge logo. Sign in to see your notifications or create an account to join the conversation.\n\n[30] Google AI Blog — Google Search gets a major upgrade with Gemini 4 Hydrogen\nURL: https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/\nGoogle Search gets a major upgrade with Gemini 4 Hydrogen Nov 12, 2026\nYour browser does not support the audio element.\nWe are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more intuitive, visual, and precise answers. This update helps you navigate complex questions by understanding your intent, conducting simultaneous queries, and displaying structured information like tables and images. You can try these improved capabilities by visiting Google Search today to ask your most nuanced questions.\nWe are introducing Gemini 4 Hydrogen to provide more helpful and intuitive responses in Google Search.\nYou can now ask complex, multi-part questions because our model understands your intent with greater precision.\nOur improved reasoning capabilities connect you to a wider range of relevant websites and helpful links.\nYou will see more visual content, including structured responses, comparison tables, and custom tools for you.\nThese updates provide nuanced and accurate answers in all languages supported by our AI models today.\nWe are bringing Gemini 4 Hydrogen to Google Search to help you find exactly what you need. This update understands complex, multi-part questions and provides clear answers with helpful images, tables, and links. You can now ask about specific requirements for travel, shopping, or hobbies in your own natural language. It connects you to more relevant websites and tools to save you time during your daily searches.\nToday, Google Search is bringing cutting-edge intelligence to everyone with Gemini 4 Hydrogen . This is the biggest model upgrade to Search yet.\nHydrogen is now available globally in Google Search for all users, delivering more helpful, visual, and intuitive responses with improved model capabilities:\nBetter understanding of intent: Search can now handle even more nuanced and complicated questions, quickly understanding what you need. Just ask in your natural flow of thought — including questions with multiple parts, hard-to-understand typos, or highly specific requests. With deeper instruction following and tool calling, Search more precisely follows what you want and gives you relevant responses that address each part of your question.\nImproved query fan-out and linking: Hydrogen’s advanced reasoning supercharges our query fan-out technique in Search, connecting you to a broader range of helpful links than before. By more thoroughly understanding your question and conducting simultaneous queries across all the relevant subtopics, Search helps you find sites you previously might not have discovered.\nMore visual responses: You get highly adaptive, visual, and easy-to-scan responses that are uniquely relevant to your needs — at the speed of Search. You’ll see more images, structured responses, comparison tables, and custom tools built for you.\nRicher language understanding: No matter what language you ask in, you’ll now get more highly nuanced and helpful responses across all supported AI Mode languages.\nTry out Gemini 4 Hydrogen in Search today.\nGet the latest news from Google in your inbox\nSign up for our newsletters with product updates, event information, special offers, and more.\nCheck your inbox to confirm your subscription.\nYou can also subscribe with a different email address .\nYour information will be used in accordance with Google's privacy policy. You may opt out at any time.\nRobby Stein is Vice President of Product, Google Search, working on the development of generative AI products and experiences that help people search and access information effortlessly.\nGemini 4 Hydrogen: everyday coding and agentic workflows for developers\nGemini Decisions API: Fast, calibrated multimodal decisions\nMeet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.\nTry Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.\nExperience the art and legacy of Dr. Esther Mahlangu\nGemini Intelligence: New features, on more devices",
+   "scenes": [
+    {
+     "purpose": "Hook the viewer with a common daily friction point",
+     "narration": "Client ke messy WhatsApp orders manually enter karna band karo.",
+     "on_screen": "Stop Manual WhatsApp Entries",
+     "visual_type": "text",
+     "url": "",
+     "query": "",
+     "headline": "Messy Orders To Clean Tables",
+     "steps": [],
+     "items": [],
+     "left_label": "",
+     "right_label": "",
+     "rows": []
+    },
+    {
+     "purpose": "State the problem clearly",
+     "narration": "WhatsApp par aane wale orders mein spelling mistakes aur adhoori details hoti hain.",
+     "on_screen": "Typo Filled Client Messages",
+     "visual_type": "checklist",
+     "url": "",
+     "query": "",
+     "headline": "",
+     "steps": [],
+     "items": [
+      "Spelling mistakes in items",
+      "Incomplete dimensions or specs",
+      "Confusing quantity text"
+     ],
+     "left_label": "",
+     "right_label": "",
+     "rows": []
+    },
+    {
+     "purpose": "Introduce the capability from Gemini 4 Hydrogen",
+     "narration": "Gemini 4 Hydrogen hard typos aur multi-part orders ko aasani se samajhta hai.",
+     "on_screen": "Gemini 4 Hydrogen Model",
+     "visual_type": "text",
+     "url": "",
+     "query": "",
+     "headline": "Understands Complex Typos",
+     "steps": [],
+     "items": [],
+     "left_label": "",
+     "right_label": "",
+     "rows": []
+    },
+    {
+     "purpose": "Explain the step-by-step workflow",
+     "narration": "Bas message copy karke Gemini app ya AI Studio mein paste karo.",
+     "on_screen": "Copy Paste To Gemini",
+     "visual_type": "diagram",
+     "url": "",
+     "query": "",
+     "headline": "",
+     "steps": [
+      "Copy WhatsApp order text",
+      "Paste in Gemini app",
+      "Ask for structured table"
+     ],
+     "items": [],
+     "left_label": "",
+     "right_label": "",
+     "rows": []
+    },
+    {
+     "purpose": "Show visual comparison of messy input vs clean table output",
+     "narration": "Ye AI automatically items, quantity aur specs ki clean table bana deta hai.",
+     "on_screen": "Clean Table Output",
+     "visual_type": "compare",
+     "url": "",
+     "query": "",
+     "headline": "",
+     "steps": [],
+     "items": [],
+     "left_label": "Messy Input",
+     "right_label": "Clean Table",
+     "rows": [
+      {
+       "left": "pvc piip 2 inch 10ps",
+       "right": "PVC Pipe 2 inch - 10 pcs"
+      },
+      {
+       "left": "elbo 2in 5p",
+       "right": "PVC Elbow 2 inch - 5 pcs"
+      }
+     ]
+    },
+    {
+     "purpose": "State the limit and practical check before invoicing",
+     "narration": "Lekin dhyan rakhein, bill banane se pehle quantities ek baar double check zaroor karein.",
+     "on_screen": "Verify Quantities First",
+     "visual_type": "checklist",
+     "url": "",
+     "query": "",
+     "headline": "",
+     "steps": [],
+     "items": [
+      "Check ambiguous item codes",
+      "Verify final quantity counts",
+      "Confirm unclear client terms"
+     ],
+     "left_label": "",
+     "right_label": "",
+     "rows": []
+    },
+    {
+     "purpose": "Provide payoff and comment hook for lead generation",
+     "narration": "Comment ORDER, main aapko setup steps aur Gemini prompt DM kar dunga.",
+     "on_screen": "Comment ORDER For Steps",
+     "visual_type": "text",
+     "url": "",
+     "query": "",
+     "headline": "Comment ORDER For Guide",
+     "steps": [],
+     "items": [],
+     "left_label": "",
+     "right_label": "",
+     "rows": []
+    }
+   ],
+   "composed_from": null,
+   "hook_title": "WhatsApp orders manage karo AI se",
+   "cta": "Comment ORDER for setup steps"
+  }
+ },
+ {
+  "id": "R1-2026-11-14",
+  "kind": "reel",
+  "date": "2026-11-14",
+  "slot": "2026-11-14T13:00",
+  "dir": "output/2026-11-14/R1-2026-11-14/try4",
+  "files": [
+   "reel.mp4"
+  ],
+  "caption": "How to verify wholesale vendor websites found using AI search before sending advance payments. If you use ChatGPT, Perplexity, or Gemini to research new wholesale suppliers or distributors for your shop, be careful with the website links they output. A study by IP protection firm Podqi tested 6,795 chatbot answers across 151 brands. Up to 15 percent of chatbot responses contained risky URLs, including fake retail sites, expired domains, and knockoff stores. Perplexity showed risky links 15 percent of the time, ChatGPT 8 percent, and Gemini 4 percent. Queries for smaller brands and regional sites triggered fake links twice as often. Never send advance payment without verifying domain age and GST details. How do you verify new wholesale vendors before placing an order?\n\nComment VERIFY for the full supplier verification checklist.\n\n#WholesaleBusiness #SupplierRisk #SmallBusinessIndia #ChatbotWarning",
+  "topic": "How to verify wholesale vendor sites recommended by AI chatbots before sending advance payments",
+  "format": "problem_fix",
+  "hook": "AI se wholesale supplier search kar rahe ho? Fake website ka risk hai.",
+  "keywords": [
+   "wholesale supplier search",
+   "AI chatbot fake links",
+   "vendor verification",
+   "Perplexity shopping test",
+   "business payment scam"
+  ],
+  "scores": {
+   "hook": 8,
+   "originality": 8,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "status": "queued",
+  "produced_at": 1794616649,
+  "log": [],
+  "dm_keyword": "VERIFY",
+  "dm_text": "Here is your AI vendor verification checklist:\n1. Podqi study found chatbots show risky websites in up to 15% of responses (Perplexity 15%, ChatGPT 8%, Gemini 4%).\n2. Smaller brands and regional website prompts trigger fake or expired domains twice as often.\n3. Check domain age on WHOIS/ICANN lookup before making payments.\n4. Verify the supplier's GSTIN on the official GST portal to confirm their legal registered name.\n5. Call the verified brand head office directly to confirm regional distributor credentials."
+ },
+ {
+  "id": "C1-2026-11-14",
+  "kind": "carousel",
+  "date": "2026-11-14",
+  "slot": "2026-11-14T09:00",
+  "dir": "output/2026-11-14/C1-2026-11-14/try3",
+  "files": [
+   "slide_01.jpg",
+   "slide_02.jpg",
+   "slide_03.jpg",
+   "slide_04.jpg",
+   "slide_05.jpg",
+   "slide_06.jpg"
+  ],
+  "caption": "AI agents are starting to shop: is your Indian store ready for the future of commerce? While features like ChatGPT Wallet are currently US-only, they represent a global shift in how B2B and B2C transactions will happen. If you run a business with an online presence, your current site settings might be accidentally blocking these future customers. Start by checking if your firewall or CDN policies are overly restrictive toward automated bots. Preparing your product feeds and payment infrastructure now ensures you won't be left behind when this tech arrives in India. What technical hurdles have you faced when trying to automate your online shop's checkout process?\n\n#EcommerceTips #BusinessAutomation #DigitalTransformation #SmallBusinessIndia",
+  "topic": "Setting spending caps and approval rules before turning on ChatGPT Wallet for purchase agents",
+  "format": "checklist",
+  "hook": "Your future customers are AI agents, not just humans.",
+  "keywords": [
+   "AI shopping agents",
+   "ChatGPT Wallet",
+   "ecommerce automation",
+   "online store optimization",
+   "agentic commerce"
+  ],
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "status": "queued",
+  "produced_at": 1794616649,
+  "log": [],
+  "dm_keyword": "",
+  "dm_text": ""
  }
 ]

@@ -1,0 +1,244 @@
+{
+ "kind": "carousel",
+ "idea": {
+  "idea": "Setting spending caps and approval rules before turning on ChatGPT Wallet for purchase agents",
+  "angle": "Autonomous AI shopping agents can checkout on your behalf, requiring strict transactional limits to prevent unwanted purchases.",
+  "audience_problem": "Shop owners want AI to manage supply reordering but fear unvetted automatic credit card debits.",
+  "format": "checklist",
+  "medium": "carousel",
+  "source_ids": [
+   3,
+   11,
+   40
+  ],
+  "evergreen": true,
+  "keywords": [
+   "ChatGPT Wallet",
+   "Dots agents",
+   "AI purchasing",
+   "card security",
+   "financial guardrails"
+  ],
+  "scores": {
+   "relevance": 8,
+   "novelty": 9,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 8,
+   "evidence": 9,
+   "viral": 8
+  },
+  "total": 8.51
+ },
+ "piece": {
+  "hooks": [
+   "AI agents are starting to shop: is your store ready?",
+   "Your future customers are AI agents, not just humans.",
+   "Will AI agents be allowed to buy from your shop?"
+  ],
+  "chosen_hook": 1,
+  "hook_reason": "It highlights the inevitability of the shift in commerce while framing it as a preparation challenge for the business owner, making it relevant even if the tech is currently US-only.",
+  "slides": [
+   {
+    "kind": "cover",
+    "title": "AI agents are starting to shop: is your store ready?",
+    "subtitle": "Prepare your digital store for the coming wave of autonomous AI buyers.",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "point",
+    "title": "What is agentic commerce?",
+    "subtitle": "",
+    "body": "AI agents like OpenAI's Dots can now research products, compare prices, and complete transactions using a secure digital wallet, bypassing the need for human input at checkout.",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "checklist",
+    "title": "Checklist: Is your store ready?",
+    "subtitle": "Steps to ensure your site supports AI buyers.",
+    "body": "",
+    "items": [
+     "Ensure your site does not block automated agents",
+     "Verify your CDN or firewall permits agent traffic",
+     "Keep product feeds with current pricing updated",
+     "Work with payment providers to recognize agent tokens"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "mythfact",
+    "title": "A common misconception",
+    "subtitle": "",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "AI agents need my full credit card details to pay.",
+    "fact": "Agents use secure payment tokens, keeping your actual card details hidden from both the agent and the merchant.",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "quote",
+    "title": "The path forward",
+    "subtitle": "",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "Over time, we expect users to be able to delegate purchases entirely to their agent by setting clear parameters.",
+    "attribution": "OpenAI News"
+   },
+   {
+    "kind": "summary",
+    "title": "Key takeaways",
+    "subtitle": "",
+    "body": "",
+    "items": [
+     "Agentic shopping is currently limited to the US",
+     "Agents use biometric checks for every single purchase",
+     "Retailers can proactively update systems to accept AI",
+     "Future updates will allow setting custom spending caps"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   }
+  ],
+  "caption": "AI agents are starting to shop: is your Indian store ready for the future of commerce? While features like ChatGPT Wallet are currently US-only, they represent a global shift in how B2B and B2C transactions will happen. If you run a business with an online presence, your current site settings might be accidentally blocking these future customers. Start by checking if your firewall or CDN policies are overly restrictive toward automated bots. Preparing your product feeds and payment infrastructure now ensures you won't be left behind when this tech arrives in India. What technical hurdles have you faced when trying to automate your online shop's checkout process?",
+  "hashtags": [
+   "#EcommerceTips",
+   "#BusinessAutomation",
+   "#DigitalTransformation",
+   "#SmallBusinessIndia"
+  ],
+  "keywords": [
+   "AI shopping agents",
+   "ChatGPT Wallet",
+   "ecommerce automation",
+   "online store optimization",
+   "agentic commerce"
+  ],
+  "claims": [
+   {
+    "claim": "OpenAI launched a wallet feature for AI agents to complete purchases on behalf of users.",
+    "source_id": 3
+   },
+   {
+    "claim": "The feature is currently available to a limited number of US ChatGPT Pro subscribers.",
+    "source_id": 3
+   },
+   {
+    "claim": "Purchases require biometric verification like Face ID or fingerprint.",
+    "source_id": 3
+   },
+   {
+    "claim": "The wallet uses payment tokens to keep actual card details hidden from merchants.",
+    "source_id": 40
+   },
+   {
+    "claim": "Some major retailers, like Amazon, have blocked AI agents from their sites.",
+    "source_id": 3
+   },
+   {
+    "claim": "OpenAI plans to allow users to set spending limits and purchase parameters in the future.",
+    "source_id": 11
+   }
+  ]
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "OpenAI launched a wallet feature for AI agents to complete purchases on behalf of users.",
+    "supported": true
+   },
+   {
+    "claim": "The feature is currently available to a limited number of US ChatGPT Pro subscribers.",
+    "supported": true
+   },
+   {
+    "claim": "Purchases require biometric verification like Face ID or fingerprint.",
+    "supported": true
+   },
+   {
+    "claim": "The wallet uses payment tokens to keep actual card details hidden from merchants.",
+    "supported": true
+   },
+   {
+    "claim": "Some major retailers, like Amazon, have blocked AI agents from their sites.",
+    "supported": true
+   },
+   {
+    "claim": "OpenAI plans to allow users to set spending limits and purchase parameters in the future.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [],
+  "issues": [
+   "The caption is slightly generic; it could benefit from a more direct call-to-action regarding the 'Commerce Partner Playbook' mentioned in the source material for those who want to be truly proactive.",
+   "The content is very US-centric, which is fine, but the transition to why an Indian SMB owner should care could be slightly more punchy."
+  ],
+  "fix_instructions": "The carousel is high quality and ready for publication. For the caption, add a specific mention of the 'Commerce Partner Playbook' as a resource for business owners who want to get ahead of the curve, even if they aren't in the US market yet. This adds extra practical value and authority."
+ },
+ "rules": [],
+ "reasons": [],
+ "meta": {
+  "ai_visuals": false,
+  "slides": 6
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-14/C1-2026-11-14/try3",
+ "attempt": 3,
+ "approved": true,
+ "hook": "Your future customers are AI agents, not just humans.",
+ "log": [
+  "attempt 1: fail {'hook': 6, 'originality': 6, 'practical_value': 4, 'natural_language': 7, 'accuracy': 7, 'narrative': 5, 'visual_integrity': 8, 'pacing': 5, 'brand_consistency': 6, 'publish_readiness': 5} ['hook 6/10 (<8)', 'originality 6/10 (<8)', 'practical_value 4/10 (<8)', 'natural_language 7/10 (<8)']",
+  "attempt 2: fail {'hook': 7, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 7} ['hook 7/10 (<8)', 'originality 7/10 (<8)']",
+  "attempt 3: PASS {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} []"
+ ],
+ "material": "[3] TechCrunch AI — ChatGPT’s new Wallet lets AI agents shop and check out for you\nURL: https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/\nImage Credits: OpenAI AI ChatGPT’s new Wallet lets AI agents shop and check out for you Sarah Perez 8:00 AM PST · November 13, 2026 ChatGPT can now shop for you. On Friday, OpenAI launched a new wallet feature that lets its agents, called dots , help you decide what to buy and then complete the purchase on your behalf. The option will initially be available to a limited number of U.S. ChatGPT Pro subscribers, ages 18 and up, with a U.S.-issued Visa, Mastercard, or American Express.\nOpenAI says that users are fully in control of the purchases, as they’re able to review the items, the total, and the payment card that will be used to complete the transaction before the checkout occurs. In addition, users will approve the purchases directly with a security check like Face ID or a fingerprint, which creates a record of their transaction.\nThe addition comes as consumer-facing AI tools are working to find the right product-market fit, in terms of how they can help people be more efficient as they complete various tasks. While companies like DoorDash and Uber have so far reported low numbers of orders placed by AI agents, Meta’s Muse, which now has over 10 million users, has seen AI-assisted shopping become a top activity on its app.\nOther personal AI agents, like Instinct, also support making purchases on users’ behalf.\nIt’s no surprise, then, that OpenAI would want to enter this space more with an agentic shopping feature of its own.\nTo get started, ChatGPT subscribers add their eligible payment cards to the new ChatGPT Wallet, then ask their dot to help with a purchase. (This setup is a one-time thing; users don’t have to re-enter their payment information every time they buy.) When it’s time to transact, ChatGPT’s Wallet charges the selected card using a payment token, which is a substitute for the user’s actual card details, so that information isn’t shared with either the dot or the merchant.\nThe merchant will automatically receive what it needs to fulfill the order from the dot, like the shipping address and contact information, OpenAI says. The company notes that customers who shop via their dots will still be able to earn their credit card rewards and be able to take advantage of protections that typically come with cards, like being able to dispute transactions.\nThe limited availability at launch will allow OpenAI to test and improve the feature and its capabilities before rolling it out more broadly. In the future, the company plans to offer users more control over the feature by allowing them to set spending limits or configure other parameters around purchase categories or time periods, so they can pre-approve purchases that their agent can then handle more autonomously.\nIt also aims to make the agentic shopping feature an option at a broader number of supported retailers. This could be a challenge in some areas, where retailers are blocking AI agents from using their site ; on the shopping front, the largest retailer to ban AI agents is Amazon, as it aims to steer users to its own AI agent, Alexa, instead.\nTo help retailers adapt to agentic commerce, OpenAI also published a Commerce Partner Playbook that offers tools and guidance to sites that want to support customers using agents.\nWhen you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence.\n2027 San Francisco Get an Early Peek at the Next TechCrunch Disrupt Disrupt, Startup Battlefield, and more will return next year, and you can be at the front of the line. Sign up for our waitlist\nThe unfolding Jensen Huang scandal: a timeline\nMicrosoft’s latest email outage turned into a full-blown global cloud crisis\nJensen Huang was having a third affair, Reuters reports\nJensen Huang accused of having another affair — with an Nvidia exec\nAnthropic launches Claude Meetings to turn workplace discussions into plans and tasks\nJensen Huang’s alleged honeypot scandal has inspired some top-notch memes\nMusk says Tesla will refund some Cybertruck deposits, defends decision to end production\n\n[11] The Verge AI — ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you\nURL: https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet\nChatGPT Wallet lets OpenAI’s Dots agents make purchases for you | The Verge Skip to main content The homepage The Verge The Verge logo. The homepage The Verge The Verge logo. Notifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo. Login / Sign Up\nComments Loading comments Getting the conversation ready... AI\nOpenAI says ChatGPT Wallet won’t share your actual credit card info with its AI agents.﻿\nOpenAI says ChatGPT Wallet won’t share your actual credit card info with its AI agents.﻿\nStevie Bonifield Nov 13, 2026, 8:45 PM UTC Link\nStevie Bonifield is a news writer covering all things consumer tech. Stevie started out at Laptop Mag writing news and reviews on hardware, gaming, and AI. After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and “eligible US-issued American Express, Chase, Mastercard and Visa cards.”\nAfter adding a card to the wallet, your Dots agents can use it to buy things in response to your prompts, but they’ll check in with you each time before checking out. OpenAI’s support page says every purchase with ChatGPT Wallet requires a security check with biometric verification like Face ID or a fingerprint scan.\nAfter you review the AI agent’s purchase and sign off on it, OpenAI says that, similar to using tap to pay , Apple Pay , or Google Wallet , it substitutes your credit card details with a payment token, so your actual card info isn’t shared with your Dots agent or the business you’re buying from. Eventually, OpenAI says it expects “users to be able to delegate purchases entirely to their agent by setting clear parameters—such as spending limits, purchase categories, or time periods—and pre-approve those purchases.”\nChatGPT Wallet might not work everywhere. Some retailers have restrictions on AI agents or block them altogether. Earlier this year, Amazon blocked Meta’s Muse agents. OpenAI says that in order for agents to use ChatGPT Wallet, “websites need to ensure agents are not inadvertently blocked, and payment and risk systems need to recognize legitimate purchases made by agents.”\nLet’s talk about Jensen Huang’s many affairs!\nMicrosoft’s massive Outlook outage might be over\nThe Verge The Verge logo. Sign in to see your notifications or create an account to join the conversation.\n\n[40] OpenAI News — Introducing ChatGPT Wallet\nURL: https://openai.com/index/introducing-chatgpt-wallet\nIntroducing ChatGPT Wallet | OpenAI OpenAI November 13, 2026\nBuilding trusted agentic payments with networks, banks, and businesses.\nShare We’re introducing ChatGPT Wallet, setting a new bar for secure payments by agents. It’s the first wallet that lets agents pay without access to users’ actual card details and that requires a security check for every purchase, while also preserving existing card rewards and protections for eligible disputes. Built in partnership with American Express, Mastercard, and Visa, ChatGPT Wallet will initially be available through dots ⁠ for ChatGPT Pro subscribers in the US. Alongside ChatGPT Wallet, we’re releasing tools and guidance to help businesses support customers using agents.\n1.2B people use ChatGPT each week, and many of them turn to it to research products, compare options, and decide what to buy. With ChatGPT Wallet, we’re now helping people complete purchases, and giving their agents a way to pay that businesses can accept with their existing systems.\nTo accept payment from ChatGPT Wallet, websites need to ensure agents are not inadvertently blocked, and payment and risk systems need to recognize legitimate purchases made by agents. We’re starting with limited availability to ChatGPT Pro users, so we can learn from real-world use and work with businesses, banks, and payment networks to improve compatibility and reliability.\nChatGPT Wallet gives agents a secure way to pay on a user’s behalf. Users add a card once, then approve each purchase without re-entering their payment details.\nBefore each purchase, the user reviews the items, total, and selected card, then approves it with a security check such as Face ID or a fingerprint scan. Each approval creates a clear record of the purchase the user authorized the agent to make.\nAfter the user approves, the payment network provides a payment token—a substitute for the user’s actual card details—with a card number, security code, and expiration date. The payment is charged to their selected card without ChatGPT Wallet sharing their actual card details with the business or agent.\nWe’re building agent-led commerce to fit reliably into existing systems. Users keep their card’s existing rewards and protections for eligible disputes with businesses, for example when an item is defective. Banks and networks bring their expertise to evaluating transactions. Users transact directly with businesses, which keep their customer relationships and control over pricing, fulfillment, returns, and customer service.\nOver time, we expect users to be able to delegate purchases entirely to their agent by setting clear parameters—such as spending limits, purchase categories, or time periods—and pre-approve those purchases with enhanced safeguards that build on today’s protections, including biometric checks and clear records of authorization.\nEquipping businesses for agentic commerce\nAgentic commerce is still in its early days. As agents begin to take on more shopping and purchasing tasks, many websites and payment systems are still adapting to this modality. Some sites may unintentionally block purchases through ChatGPT Wallet or other agentic payment products, and we are focused on helping businesses make that transition.\nAlongside ChatGPT Wallet, we’re publishing a Commerce Partner Playbook ⁠ (opens in a new window) with tools and practical guidance to help businesses support customers using agents through their existing websites and systems. It covers making product information available, ensuring agent access, and working with payment and risk providers to reduce unnecessary declines. Businesses can start with the areas most relevant to their customers:\nHelp customers find accurate product information. Claim your business in ChatGPT and, once verified, update your business details and upload a product feed with current pricing and availability.\nEnsure ChatGPT agents can access your website. Configure your CDN or firewall to recognize signed requests using Web Bot Auth and confirm your general site security measures are not inadvertently blocking ChatGPT agents. Browser access does not require a plugin or product feed.\nWork with your payments and risk providers to support agent purchases. Wallet’s payment tokens work with existing checkout flows, but risk systems may still flag legitimate purchases made by agents, leading to declines or cancellations. You can work with your providers to understand how they recognize these transactions. We’re also working with fraud prevention partners including Forter, Riskified, Sardine and Signifyd and payment service providers including Adyen, Checkout.com, and Stripe to help their systems recognize legitimate purchases made by agents.\nGive agents more ways to work with your business. Build a plugin to let agents check availability, manage carts, or take other actions through your existing systems. Websites can also add WebMCP tools.\nChatGPT Wallet begins rolling out today in dots, enabling users to have their dot complete purchases on their behalf. It will initially be available to ChatGPT Pro subscribers aged 18 and older in the US with eligible US-issued cards. We’ll work with businesses, banks, and payment networks to learn from early use and expand availability, helping more customers and businesses benefit from agentic commerce.",
+ "id": "C1-2026-11-14",
+ "caption_final": "AI agents are starting to shop: is your Indian store ready for the future of commerce? While features like ChatGPT Wallet are currently US-only, they represent a global shift in how B2B and B2C transactions will happen. If you run a business with an online presence, your current site settings might be accidentally blocking these future customers. Start by checking if your firewall or CDN policies are overly restrictive toward automated bots. Preparing your product feeds and payment infrastructure now ensures you won't be left behind when this tech arrives in India. What technical hurdles have you faced when trying to automate your online shop's checkout process?\n\n#EcommerceTips #BusinessAutomation #DigitalTransformation #SmallBusinessIndia"
+}

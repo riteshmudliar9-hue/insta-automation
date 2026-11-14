@@ -1,0 +1,351 @@
+{
+ "date": "2026-11-14",
+ "tag": "2026-11-14",
+ "pilot": false,
+ "sources": 98,
+ "ideas": 14,
+ "idea_list": [
+  {
+   "idea": "How to verify wholesale vendor sites recommended by AI chatbots before sending advance payments",
+   "format": "problem_fix",
+   "total": 8.78,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 9
+   }
+  },
+  {
+   "idea": "Turning long product demo videos into short promotional clips automatically in 30 seconds",
+   "format": "demo",
+   "total": 8.72,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 9,
+    "retention": 9,
+    "save_share": 9,
+    "feasibility": 8,
+    "evidence": 8,
+    "viral": 9
+   }
+  },
+  {
+   "idea": "Setting spending caps and approval rules before turning on ChatGPT Wallet for purchase agents",
+   "format": "checklist",
+   "total": 8.51,
+   "scores": {
+    "relevance": 8,
+    "novelty": 9,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 8,
+    "evidence": 9,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Navigating legacy government portals without APIs using AI web navigation agents",
+   "format": "demo",
+   "total": 8.51,
+   "scores": {
+    "relevance": 8,
+    "novelty": 9,
+    "hook_potential": 9,
+    "retention": 9,
+    "save_share": 9,
+    "feasibility": 8,
+    "evidence": 8,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "How small 3-person Indian exporter teams win global client contracts using lean AI workflows",
+   "format": "case_study",
+   "total": 8.45,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 9,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 8,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Extracting messy specs from handwritten client images using Gemini 4 Hydrogen's multi-part reasoning",
+   "format": "tutorial",
+   "total": 8.35,
+   "scores": {
+    "relevance": 9,
+    "novelty": 7,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Why multi-agent AI tools leak internal wholesale margins to retail customers",
+   "format": "myth_fact",
+   "total": 8.18,
+   "scores": {
+    "relevance": 8,
+    "novelty": 9,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 8,
+    "evidence": 9,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "Avoiding hidden license tier traps in Microsoft Power Automate for small businesses",
+   "format": "problem_fix",
+   "total": 8.14,
+   "scores": {
+    "relevance": 8,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "Automating client meeting summaries and voice dictation for site managers using ElevenAI",
+   "format": "tool_test",
+   "total": 8.06,
+   "scores": {
+    "relevance": 8,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 9,
+    "evidence": 8,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Editing invoices and customer contracts directly in Google Drive with Adobe AI tools",
+   "format": "tutorial",
+   "total": 8.03,
+   "scores": {
+    "relevance": 9,
+    "novelty": 7,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "Tracking live market trends and competitor X posts using Grok Zapier automations",
+   "format": "tutorial",
+   "total": 7.83,
+   "scores": {
+    "relevance": 8,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 8,
+    "evidence": 8,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "Switching from Zapier task limits to self-hosted n8n to reduce automation bills",
+   "format": "manual_vs_auto",
+   "total": 7.7,
+   "scores": {
+    "relevance": 8,
+    "novelty": 7,
+    "hook_potential": 7,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 6
+   }
+  },
+  {
+   "idea": "Superhuman Docs (Coda) vs Notion: Which works better for automated inventory SOPs in 2026",
+   "format": "manual_vs_auto",
+   "total": 7.57,
+   "scores": {
+    "relevance": 8,
+    "novelty": 7,
+    "hook_potential": 7,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 6
+   }
+  },
+  {
+   "idea": "Calculating real ROI before subscribing to autonomous executive assistant tools like Lindy AI",
+   "format": "tool_test",
+   "total": 7.45,
+   "scores": {
+    "relevance": 8,
+    "novelty": 7,
+    "hook_potential": 7,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 9,
+    "evidence": 8,
+    "viral": 6
+   }
+  }
+ ],
+ "rejected_ideas": [],
+ "items": [
+  {
+   "id": "R1-2026-11-14",
+   "kind": "reel",
+   "format": "problem_fix",
+   "topic": "How to verify wholesale vendor sites recommended by AI chatbots before sending advance payments",
+   "hook": "AI se wholesale supplier search kar rahe ho? Fake website ka risk hai.",
+   "approved": true,
+   "attempts": 4,
+   "scores": {
+    "hook": 8,
+    "originality": 8,
+    "practical_value": 8,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 9,
+    "pacing": 8,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [],
+   "log": [
+    "attempt 1: fail {'hook': 7, 'originality': 8, 'practical_value': 7, 'natural_language': 7, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['hook 7/10 (<8)', 'practical_value 7/10 (<8)', 'natural_language 7/10 (<8)', 'reel is 71.5 s long (max 45 s; aim for 15-35 s)']",
+    "attempt 2: fail {'hook': 8, 'originality': 7, 'practical_value': 6, 'natural_language': 8, 'accuracy': 8, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'practical_value 6/10 (<8)', 'reel is 55.1 s long (max 45 s; aim for 15-35 s)']",
+    "attempt 3: fail {'hook': 6, 'originality': 8, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 5, 'pacing': 7, 'brand_consistency': 7, 'publish_readiness': 6} ['hook 6/10 (<8)', 'narrative 7/10 (<8)', 'visual_integrity 5/10 (<8)', 'publish_readiness 6/10 (<7)']",
+    "attempt 4: PASS {'hook': 8, 'originality': 8, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} []"
+   ],
+   "dir": "output/2026-11-14/R1-2026-11-14/try4",
+   "duration": 42.0,
+   "voice": "gemini"
+  },
+  {
+   "id": "R2-2026-11-14",
+   "kind": "reel",
+   "format": "demo",
+   "topic": "Turning long product demo videos into short promotional clips automatically in 30 seconds",
+   "hook": "Long videos se manually clips kaatna band karo. Ye dekho.",
+   "approved": false,
+   "attempts": 3,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 7,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 9,
+    "pacing": 8,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [
+    "originality 7/10 (<8)",
+    "practical_value 7/10 (<8)"
+   ],
+   "log": [
+    "attempt 1: fail {'hook': 7, 'originality': 5, 'practical_value': 5, 'natural_language': 7, 'accuracy': 6, 'narrative': 6, 'visual_integrity': 6, 'pacing': 6, 'brand_consistency': 8, 'publish_readiness': 5} ['hook 7/10 (<8)', 'originality 5/10 (<8)', 'practical_value 5/10 (<8)', 'natural_language 7/10 (<8)']",
+    "attempt 2: fail {'hook': 7, 'originality': 6, 'practical_value': 4, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 6} ['scene 6 narration 20 words (want 4-14)', 'hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 4/10 (<8)']",
+    "attempt 3: fail {'hook': 8, 'originality': 7, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['originality 7/10 (<8)', 'practical_value 7/10 (<8)']",
+    "attempt 4: fail {'hook': 7, 'originality': 6, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['hook 7/10 (<8)', 'originality 6/10 (<8)']"
+   ],
+   "dir": "output/2026-11-14/R2-2026-11-14/try3",
+   "duration": 34.4,
+   "voice": "edge"
+  },
+  {
+   "id": "R3-2026-11-14",
+   "kind": "reel",
+   "format": "tutorial",
+   "topic": "Extracting messy specs from handwritten client images using Gemini 4 Hydrogen's multi-part reasoning",
+   "hook": "Client ke messy WhatsApp orders manually enter karna band karo.",
+   "approved": true,
+   "attempts": 2,
+   "scores": {
+    "hook": 9,
+    "originality": 8,
+    "practical_value": 9,
+    "natural_language": 9,
+    "accuracy": 9,
+    "narrative": 9,
+    "visual_integrity": 8,
+    "pacing": 9,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [],
+   "log": [
+    "attempt 1: fail {'hook': 7, 'originality': 7, 'practical_value': 6, 'natural_language': 8, 'accuracy': 8, 'narrative': 7, 'visual_integrity': 5, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 5} ['hook 7/10 (<8)', 'originality 7/10 (<8)', 'practical_value 6/10 (<8)', 'narrative 7/10 (<8)']",
+    "attempt 2: PASS {'hook': 9, 'originality': 8, 'practical_value': 9, 'natural_language': 9, 'accuracy': 9, 'narrative': 9, 'visual_integrity': 8, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} []"
+   ],
+   "dir": "output/2026-11-14/R3-2026-11-14/try2",
+   "duration": 34.5,
+   "voice": "edge"
+  },
+  {
+   "id": "C1-2026-11-14",
+   "kind": "carousel",
+   "format": "checklist",
+   "topic": "Setting spending caps and approval rules before turning on ChatGPT Wallet for purchase agents",
+   "hook": "Your future customers are AI agents, not just humans.",
+   "approved": true,
+   "attempts": 3,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 8,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 9,
+    "pacing": 9,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [],
+   "log": [
+    "attempt 1: fail {'hook': 6, 'originality': 6, 'practical_value': 4, 'natural_language': 7, 'accuracy': 7, 'narrative': 5, 'visual_integrity': 8, 'pacing': 5, 'brand_consistency': 6, 'publish_readiness': 5} ['hook 6/10 (<8)', 'originality 6/10 (<8)', 'practical_value 4/10 (<8)', 'natural_language 7/10 (<8)']",
+    "attempt 2: fail {'hook': 7, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 7} ['hook 7/10 (<8)', 'originality 7/10 (<8)']",
+    "attempt 3: PASS {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} []"
+   ],
+   "dir": "output/2026-11-14/C1-2026-11-14/try3",
+   "duration": null,
+   "voice": null
+  }
+ ],
+ "llm_calls": {
+  "text": 27,
+  "tts": 27,
+  "failed": 0
+ }
+}

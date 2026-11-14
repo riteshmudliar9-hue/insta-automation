@@ -1,0 +1,270 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Extracting messy specs from handwritten client images using Gemini 4 Hydrogen's multi-part reasoning",
+  "angle": "Feed messy, typo-ridden client stock lists or handwritten item notes directly into Gemini 4 to extract clean tabular order sheets.",
+  "audience_problem": "Distributors waste hours converting vague WhatsApp order messages with spelling mistakes into clean ERP entries.",
+  "format": "tutorial",
+  "medium": "reel",
+  "source_ids": [
+   15,
+   30
+  ],
+  "evergreen": true,
+  "keywords": [
+   "Gemini 4 Hydrogen",
+   "OCR data entry",
+   "order processing",
+   "unstructured data",
+   "inventory clean-up"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 7,
+   "hook_potential": 8,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 9,
+   "evidence": 9,
+   "viral": 8
+  },
+  "total": 8.35
+ },
+ "piece": {
+  "hooks": [
+   "Client ke messy WhatsApp orders manually enter karna band karo.",
+   "WhatsApp pe typos wale orders se pareshan ho? Ye dekho.",
+   "Messy WhatsApp orders ko clean Excel table mein kaise badlein.",
+   "Typos wale customer orders ki 10 second mein table banao.",
+   "Client ki spelling mistakes wallah order sheet manually mat banao."
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "Directly addresses a widespread daily friction point (converting messy WhatsApp messages with typos into order sheets) for Indian traders and distributors.",
+  "title": "Convert Messy WhatsApp Orders to Clean Tables",
+  "scenes": [
+   {
+    "purpose": "Hook the viewer with a common daily friction point",
+    "narration": "Client ke messy WhatsApp orders manually enter karna band karo.",
+    "on_screen": "Stop Manual WhatsApp Entries",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Messy Orders To Clean Tables",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "State the problem clearly",
+    "narration": "WhatsApp par aane wale orders mein spelling mistakes aur adhoori details hoti hain.",
+    "on_screen": "Typo Filled Client Messages",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Spelling mistakes in items",
+     "Incomplete dimensions or specs",
+     "Confusing quantity text"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Introduce the capability from Gemini 4 Hydrogen",
+    "narration": "Gemini 4 Hydrogen hard typos aur multi-part orders ko aasani se samajhta hai.",
+    "on_screen": "Gemini 4 Hydrogen Model",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Understands Complex Typos",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Explain the step-by-step workflow",
+    "narration": "Bas message copy karke Gemini app ya AI Studio mein paste karo.",
+    "on_screen": "Copy Paste To Gemini",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "Copy WhatsApp order text",
+     "Paste in Gemini app",
+     "Ask for structured table"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Show visual comparison of messy input vs clean table output",
+    "narration": "Ye AI automatically items, quantity aur specs ki clean table bana deta hai.",
+    "on_screen": "Clean Table Output",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "Messy Input",
+    "right_label": "Clean Table",
+    "rows": [
+     {
+      "left": "pvc piip 2 inch 10ps",
+      "right": "PVC Pipe 2 inch - 10 pcs"
+     },
+     {
+      "left": "elbo 2in 5p",
+      "right": "PVC Elbow 2 inch - 5 pcs"
+     }
+    ]
+   },
+   {
+    "purpose": "State the limit and practical check before invoicing",
+    "narration": "Lekin dhyan rakhein, bill banane se pehle quantities ek baar double check zaroor karein.",
+    "on_screen": "Verify Quantities First",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Check ambiguous item codes",
+     "Verify final quantity counts",
+     "Confirm unclear client terms"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Provide payoff and comment hook for lead generation",
+    "narration": "Comment ORDER, main aapko setup steps aur Gemini prompt DM kar dunga.",
+    "on_screen": "Comment ORDER For Steps",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Comment ORDER For Guide",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "How to extract clean order sheets from messy WhatsApp messages using Gemini 4 Hydrogen. When distributors receive WhatsApp orders full of spelling mistakes and vague item names, retyping them into ERP software wastes hours. Google's new Gemini 4 Hydrogen model is designed to handle multi-part questions, hard typos, and structured table creation. You can paste raw client messages into the Gemini app or AI Studio to generate formatted tables instantly. Always verify item quantities before creating final GST invoices. Comment ORDER for the complete guide.",
+  "hashtags": [
+   "#Gemini4",
+   "#SmallBusinessIndia",
+   "#DistributorWorkflow",
+   "#OrderManagement"
+  ],
+  "keywords": [
+   "WhatsApp order extraction",
+   "Gemini 4 Hydrogen typos",
+   "clean order sheet AI",
+   "AI table extraction",
+   "distributor workflow automation"
+  ],
+  "claims": [
+   {
+    "claim": "Gemini 4 Hydrogen can understand complex questions with hard-to-understand typos and multiple parts.",
+    "source_id": 15
+   },
+   {
+    "claim": "Gemini 4 Hydrogen generates structured visual responses including comparison tables.",
+    "source_id": 30
+   },
+   {
+    "claim": "Gemini 4 Hydrogen is available in the Gemini app, Google Search, Gemini API, and Google AI Studio.",
+    "source_id": 15
+   }
+  ],
+  "dm_keyword": "ORDER",
+  "dm_text": "Here is how to extract messy WhatsApp orders using Gemini 4 Hydrogen: 1. Open the Google Gemini app or Google AI Studio. 2. Copy the client's messy WhatsApp text containing typos. 3. Prompt Gemini: 'Extract these items into a structured table with Columns: Item Name, Specifications, Quantity'. 4. Gemini 4 Hydrogen uses multi-part reasoning to handle typos and format the table. 5. Double check item quantities against original notes before generating final GST invoices."
+ },
+ "review": {
+  "scores": {
+   "hook": 9,
+   "originality": 8,
+   "practical_value": 9,
+   "natural_language": 9,
+   "accuracy": 9,
+   "narrative": 9,
+   "visual_integrity": 8,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "Gemini 4 Hydrogen can understand complex questions with hard-to-understand typos and multiple parts.",
+    "supported": true
+   },
+   {
+    "claim": "Gemini 4 Hydrogen generates structured visual responses including comparison tables.",
+    "supported": true
+   },
+   {
+    "claim": "Gemini 4 Hydrogen is available in the Gemini app, Google Search, Gemini API, and Google AI Studio.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Scene 1: The subtitle 'enter karna band karo.' is slightly redundant as it repeats the last part of the narration, but acceptable for emphasis.",
+   "Scene 4: The diagram flow is clear, but the text 'Studio mein paste karo.' in the subtitle box is slightly cut off from the full narration context, though readable."
+  ],
+  "issues": [
+   "The transition between the 'Messy Input' and 'Clean Table' in Scene 5 is excellent, but ensure the font size for the table rows remains legible on smaller mobile screens."
+  ],
+  "fix_instructions": "The content is strong and highly relevant. For the final render, ensure the table rows in Scene 5 have enough padding so the text doesn't feel cramped. The subtitle timing is generally good, but double-check that the subtitle in Scene 4 doesn't feel like a jarring cut from the narration. Otherwise, this is ready to publish."
+ },
+ "rules": [],
+ "reasons": [],
+ "meta": {
+  "duration": 34.5,
+  "voice": "edge",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-14/R3-2026-11-14/try2/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-14/R3-2026-11-14/try2/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-14/R3-2026-11-14/try2/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-14/R3-2026-11-14/try2/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-14/R3-2026-11-14/try2/scene_05.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-14/R3-2026-11-14/try2/scene_06.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-14/R3-2026-11-14/try2/scene_07.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   4.14,
+   5.16,
+   5.78,
+   4.23,
+   5.32,
+   5.08,
+   4.76
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-14/R3-2026-11-14/try2",
+ "attempt": 2,
+ "approved": true,
+ "hook": "Client ke messy WhatsApp orders manually enter karna band karo.",
+ "log": [
+  "attempt 1: fail {'hook': 7, 'originality': 7, 'practical_value': 6, 'natural_language': 8, 'accuracy': 8, 'narrative': 7, 'visual_integrity': 5, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 5} ['hook 7/10 (<8)', 'originality 7/10 (<8)', 'practical_value 6/10 (<8)', 'narrative 7/10 (<8)']",
+  "attempt 2: PASS {'hook': 9, 'originality': 8, 'practical_value': 9, 'natural_language': 9, 'accuracy': 9, 'narrative': 9, 'visual_integrity': 8, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} []"
+ ],
+ "material": "[15] The Verge AI — Google’s new Gemini model is better at understanding complicated questions\nURL: https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen\nGoogle’s new Gemini model is better at understanding complicated questions | The Verge Skip to main content The homepage The Verge The Verge logo. The homepage The Verge The Verge logo. Notifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo. Login / Sign Up\nComments Loading comments Getting the conversation ready... AI\nGoogle’s Robby Stein says Gemini 4 Hydrogen is ‘the biggest model upgrade to Search yet.’﻿\nGoogle’s Robby Stein says Gemini 4 Hydrogen is ‘the biggest model upgrade to Search yet.’﻿\nStevie Bonifield Nov 12, 2026, 9:55 PM UTC Link\nStevie Bonifield is a news writer covering all things consumer tech. Stevie started out at Laptop Mag writing news and reviews on hardware, gaming, and AI. Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including “questions with multiple parts, hard-to-understand typos, or highly specific requests.” The new model can break down your questions and address each part in its responses. It’s available starting today in search, the Gemini app, all tiers of Google AI Studio, the Gemini API, Gemini for business, and in Google Antigravity for Google AI Pro and Ultra subscribers. Robby Stein, VP of product at Google Search, says it’s “now the new default model in AI Mode & being used for your hardest questions in AI Overviews.”\nGoogle says Gemini 4 Hydrogen also gives users a wider range of links in its responses by “conducting simultaneous queries across all the relevant subtopics.” Its responses have more visuals, too, like images, comparison tables, graphs, and maps. One of Stein’s examples shows the AI generating an interactive animated driving simulation in response to a user’s question about how phones locate which lane of a highway a car is on in areas without cell service. Google says the new model also has improved language understanding “across all supported AI Mode languages.”\nUsers have more thinking level options with Gemini 4 Hydrogen, as well, including low, medium, high, and a new “xhigh” mode. According to Google, the new model “delivers significant leaps in both speed and intelligence” compared to Gemini Flash 3.8 , and it “matches or outperforms some of the competing models in its class,” like Claude Sonnet 5.5 and GPT-6.1 Terra.\nLet’s talk about Jensen Huang’s many affairs!\nMicrosoft’s massive Outlook outage might be over\nThe Verge The Verge logo. Sign in to see your notifications or create an account to join the conversation.\n\n[30] Google AI Blog — Google Search gets a major upgrade with Gemini 4 Hydrogen\nURL: https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/\nGoogle Search gets a major upgrade with Gemini 4 Hydrogen Nov 12, 2026\nYour browser does not support the audio element.\nWe are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more intuitive, visual, and precise answers. This update helps you navigate complex questions by understanding your intent, conducting simultaneous queries, and displaying structured information like tables and images. You can try these improved capabilities by visiting Google Search today to ask your most nuanced questions.\nWe are introducing Gemini 4 Hydrogen to provide more helpful and intuitive responses in Google Search.\nYou can now ask complex, multi-part questions because our model understands your intent with greater precision.\nOur improved reasoning capabilities connect you to a wider range of relevant websites and helpful links.\nYou will see more visual content, including structured responses, comparison tables, and custom tools for you.\nThese updates provide nuanced and accurate answers in all languages supported by our AI models today.\nWe are bringing Gemini 4 Hydrogen to Google Search to help you find exactly what you need. This update understands complex, multi-part questions and provides clear answers with helpful images, tables, and links. You can now ask about specific requirements for travel, shopping, or hobbies in your own natural language. It connects you to more relevant websites and tools to save you time during your daily searches.\nToday, Google Search is bringing cutting-edge intelligence to everyone with Gemini 4 Hydrogen . This is the biggest model upgrade to Search yet.\nHydrogen is now available globally in Google Search for all users, delivering more helpful, visual, and intuitive responses with improved model capabilities:\nBetter understanding of intent: Search can now handle even more nuanced and complicated questions, quickly understanding what you need. Just ask in your natural flow of thought — including questions with multiple parts, hard-to-understand typos, or highly specific requests. With deeper instruction following and tool calling, Search more precisely follows what you want and gives you relevant responses that address each part of your question.\nImproved query fan-out and linking: Hydrogen’s advanced reasoning supercharges our query fan-out technique in Search, connecting you to a broader range of helpful links than before. By more thoroughly understanding your question and conducting simultaneous queries across all the relevant subtopics, Search helps you find sites you previously might not have discovered.\nMore visual responses: You get highly adaptive, visual, and easy-to-scan responses that are uniquely relevant to your needs — at the speed of Search. You’ll see more images, structured responses, comparison tables, and custom tools built for you.\nRicher language understanding: No matter what language you ask in, you’ll now get more highly nuanced and helpful responses across all supported AI Mode languages.\nTry out Gemini 4 Hydrogen in Search today.\nGet the latest news from Google in your inbox\nSign up for our newsletters with product updates, event information, special offers, and more.\nCheck your inbox to confirm your subscription.\nYou can also subscribe with a different email address .\nYour information will be used in accordance with Google's privacy policy. You may opt out at any time.\nRobby Stein is Vice President of Product, Google Search, working on the development of generative AI products and experiences that help people search and access information effortlessly.\nGemini 4 Hydrogen: everyday coding and agentic workflows for developers\nGemini Decisions API: Fast, calibrated multimodal decisions\nMeet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.\nTry Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.\nExperience the art and legacy of Dr. Esther Mahlangu\nGemini Intelligence: New features, on more devices",
+ "id": "R3-2026-11-14",
+ "caption_final": "How to extract clean order sheets from messy WhatsApp messages using Gemini 4 Hydrogen. When distributors receive WhatsApp orders full of spelling mistakes and vague item names, retyping them into ERP software wastes hours. Google's new Gemini 4 Hydrogen model is designed to handle multi-part questions, hard typos, and structured table creation. You can paste raw client messages into the Gemini app or AI Studio to generate formatted tables instantly. Always verify item quantities before creating final GST invoices. Comment ORDER for the complete guide.\n\n#Gemini4 #SmallBusinessIndia #DistributorWorkflow #OrderManagement"
+}

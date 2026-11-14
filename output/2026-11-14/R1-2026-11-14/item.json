@@ -1,0 +1,256 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "How to verify wholesale vendor sites recommended by AI chatbots before sending advance payments",
+  "angle": "AI chatbots frequently hallucinate and suggest fake retail or wholesale imposter websites when doing supplier research.",
+  "audience_problem": "Traders and shop owners using AI search to find new wholesale suppliers risk sending funds to imposter websites.",
+  "format": "problem_fix",
+  "medium": "reel",
+  "source_ids": [
+   19
+  ],
+  "evergreen": true,
+  "keywords": [
+   "AI chatbots",
+   "fake websites",
+   "vendor research",
+   "scam prevention",
+   "wholesale supplier"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 8,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 9,
+   "evidence": 9,
+   "viral": 9
+  },
+  "total": 8.78
+ },
+ "piece": {
+  "hooks": [
+   "AI se wholesale supplier search kar rahe ho? Fake website ka risk hai.",
+   "Chatbot se naye vendor ki website mili? Advance payment mat dena.",
+   "AI chatbots 15 percent search me fake retail links dikhate hain.",
+   "Naye supplier dhoondhne ke liye AI mat use karo bina verification ke.",
+   "Chatbot ki di hui vendor link pe payment karne se pehle ye dekho."
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "Directly targets Indian business owners researching wholesale vendors and highlights the direct financial risk of imposter domains.",
+  "title": "Verify AI Supplier Links Before Paying",
+  "scenes": [
+   {
+    "purpose": "Hook and problem statement",
+    "narration": "AI se wholesale supplier search kar rahe ho? Fake website ka risk hai.",
+    "on_screen": "Fake Supplier Link Risk",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "AI supplier search",
+     "Fake domain link risk",
+     "Advance payment loss"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Evidence and stats from source",
+    "narration": "Podqi ki study ke according AI chatbots 15 percent answers me risky websites dikhate hain.",
+    "on_screen": "15% AI Answers Risky",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "AI Chatbot Engine",
+    "right_label": "Risky Link Rate",
+    "rows": [
+     {
+      "left": "Perplexity",
+      "right": "15 percent risky"
+     },
+     {
+      "left": "ChatGPT",
+      "right": "8 percent risky"
+     },
+     {
+      "left": "Gemini",
+      "right": "4 percent risky"
+     }
+    ]
+   },
+   {
+    "purpose": "Explain vulnerability pattern",
+    "narration": "Chhote brands aur regional sites me AI fake domains zyada suggest karta hai.",
+    "on_screen": "Small Brands Target",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "Search Regional Supplier",
+     "AI Fetches Re-registered URL",
+     "Returns Imposter Site"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Actionable verification protocol",
+    "narration": "Kisi bhi vendor link pe payment bhejne se pehle domain aur official contact verify karo.",
+    "on_screen": "Verify Supplier First",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Check domain age on ICANN",
+     "Verify GSTIN on official portal",
+     "Confirm legal entity bank account"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Payoff and comment trigger",
+    "narration": "Vendor safety checklist ke liye comment karo VERIFY, main details aapko DM kar dunga.",
+    "on_screen": "Comment VERIFY For DM",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "DM Safety Checklist Now",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "How to verify wholesale vendor websites found using AI search before sending advance payments. If you use ChatGPT, Perplexity, or Gemini to research new wholesale suppliers or distributors for your shop, be careful with the website links they output. A study by IP protection firm Podqi tested 6,795 chatbot answers across 151 brands. Up to 15 percent of chatbot responses contained risky URLs, including fake retail sites, expired domains, and knockoff stores. Perplexity showed risky links 15 percent of the time, ChatGPT 8 percent, and Gemini 4 percent. Queries for smaller brands and regional sites triggered fake links twice as often. Never send advance payment without verifying domain age and GST details. How do you verify new wholesale vendors before placing an order?\n\nComment VERIFY for the full supplier verification checklist.",
+  "hashtags": [
+   "#WholesaleBusiness",
+   "#SupplierRisk",
+   "#SmallBusinessIndia",
+   "#ChatbotWarning"
+  ],
+  "keywords": [
+   "wholesale supplier search",
+   "AI chatbot fake links",
+   "vendor verification",
+   "Perplexity shopping test",
+   "business payment scam"
+  ],
+  "claims": [
+   {
+    "claim": "Podqi study tested ChatGPT, Gemini, and Perplexity across 6,795 answers for 151 brands and found chatbots displayed risky URLs in up to 15 percent of conversations.",
+    "source_id": 19
+   },
+   {
+    "claim": "Perplexity performed worst, showing risky sites in 15 percent of answers, ChatGPT showed risky sites in 8 percent, and Gemini showed risky sites in 4 percent.",
+    "source_id": 19
+   },
+   {
+    "claim": "ChatGPT offered warnings about risky sites 24 percent of the time.",
+    "source_id": 19
+   },
+   {
+    "claim": "Queries related to smaller brands had risky sites in answers twice as often as larger companies.",
+    "source_id": 19
+   },
+   {
+    "claim": "AI engines displayed risky or fake regional sites more often when prompted about regional brand websites.",
+    "source_id": 19
+   }
+  ],
+  "dm_keyword": "VERIFY",
+  "dm_text": "Here is your AI vendor verification checklist:\n1. Podqi study found chatbots show risky websites in up to 15% of responses (Perplexity 15%, ChatGPT 8%, Gemini 4%).\n2. Smaller brands and regional website prompts trigger fake or expired domains twice as often.\n3. Check domain age on WHOIS/ICANN lookup before making payments.\n4. Verify the supplier's GSTIN on the official GST portal to confirm their legal registered name.\n5. Call the verified brand head office directly to confirm regional distributor credentials."
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 8,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "Podqi study tested ChatGPT, Gemini, and Perplexity across 6,795 answers for 151 brands and found chatbots displayed risky URLs in up to 15 percent of conversations.",
+    "supported": true
+   },
+   {
+    "claim": "Perplexity performed worst, showing risky sites in 15 percent of answers, ChatGPT showed risky sites in 8 percent, and Gemini showed risky sites in 4 percent.",
+    "supported": true
+   },
+   {
+    "claim": "ChatGPT offered warnings about risky sites 24 percent of the time.",
+    "supported": true
+   },
+   {
+    "claim": "Queries related to smaller brands had risky sites in answers twice as often as larger companies.",
+    "supported": true
+   },
+   {
+    "claim": "AI engines displayed risky or fake regional sites more often when prompted about regional brand websites.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [],
+  "issues": [
+   "The source study specifically tested retail consumer brands (like fashion and homeware), whereas the reel contextualizes it around wholesale B2B suppliers. While the framing is relevant for SMBs, ensure the voice clarify that general chatbot web searches exhibit this risk."
+  ],
+  "fix_instructions": "The content is well-crafted, accurate to the source stats, and visually consistent with brand guidelines. It is ready to publish as is."
+ },
+ "rules": [],
+ "reasons": [],
+ "meta": {
+  "duration": 42.0,
+  "voice": "gemini",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-14/R1-2026-11-14/try4/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-14/R1-2026-11-14/try4/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-14/R1-2026-11-14/try4/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-14/R1-2026-11-14/try4/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-14/R1-2026-11-14/try4/scene_05.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   3.43,
+   4.72,
+   14.3,
+   15.7,
+   3.82
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-14/R1-2026-11-14/try4",
+ "attempt": 4,
+ "approved": true,
+ "hook": "AI se wholesale supplier search kar rahe ho? Fake website ka risk hai.",
+ "log": [
+  "attempt 1: fail {'hook': 7, 'originality': 8, 'practical_value': 7, 'natural_language': 7, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['hook 7/10 (<8)', 'practical_value 7/10 (<8)', 'natural_language 7/10 (<8)', 'reel is 71.5 s long (max 45 s; aim for 15-35 s)']",
+  "attempt 2: fail {'hook': 8, 'originality': 7, 'practical_value': 6, 'natural_language': 8, 'accuracy': 8, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'practical_value 6/10 (<8)', 'reel is 55.1 s long (max 45 s; aim for 15-35 s)']",
+  "attempt 3: fail {'hook': 6, 'originality': 8, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 5, 'pacing': 7, 'brand_consistency': 7, 'publish_readiness': 6} ['hook 6/10 (<8)', 'narrative 7/10 (<8)', 'visual_integrity 5/10 (<8)', 'publish_readiness 6/10 (<7)']",
+  "attempt 4: PASS {'hook': 8, 'originality': 8, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} []"
+ ],
+ "material": "[19] The Verge AI — AI chatbots are recommending fake retail websites, study finds\nURL: https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations\nAI chatbots are recommending fake retail websites, study finds | The Verge Skip to main content The homepage The Verge The Verge logo. The homepage The Verge The Verge logo. Notifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo. Login / Sign Up\nComments Loading comments Getting the conversation ready... AI\nA study testing Gemini, Perplexity, and ChatGPT found that in as many as 15 percent of conversations, chatbots displayed ‘risky’ URLs.﻿\nA study testing Gemini, Perplexity, and ChatGPT found that in as many as 15 percent of conversations, chatbots displayed ‘risky’ URLs.﻿\nMia Sato is features writer with five years of experience covering the companies that shape technology and the people who use their tools. Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found.\nThe study conducted by IP protection firm Podqi and shared exclusively with The Verge prompted ChatGPT, Gemini, and Perplexity with a handful of shopping-related questions involving a selection of 151 brands. Questions included “What are the top websites for buying [brand]?”; “Where can I find [brand] online?”; and “Does [brand] ship internationally? What are their regional websites?” The test ran over the course of two testing periods in September and asked about 151 small and large companies like fashion brands Lululemon, Birkenstock, Stüssy, and Madhappy (a client of Podqi) and homeware brand Le Creuset. Podqi crafted its own prompts (as opposed to using real user conversations) and tested its prompts using a tool that tracks AI answers across chatbots.\nPerplexity performed the worst, showing risky sites in 15 percent of answers\nOver the course of 6,795 answers, Podqi found that all three AI engines cited and showed shoppers risky sites, defined as fake websites impersonating real retailers or selling knockoffs, old brand domains that have been reregistered by someone else, or dead sites that aren’t active at all but that someone else could purchase and reuse. Google’s Gemini showed risky sites least often of the three, linking to or mentioning a risky site in 4 percent of answers. (Mentions include instances of recommending a risky site, displaying it without comment, and warning a user about it.) Perplexity performed the worst, showing risky sites in 15 percent of answers. ChatGPT fell somewhere in the middle at 8 percent. ChatGPT performed the best when it came to offering warnings about each risky site that it surfaced, doing so 24 percent of the time. Smaller brands appear especially at risk: Podqi found that queries related to larger companies had risky sites in answers about half as often.\nAI companies market chatbots as being helpful for shopping tasks like researching, comparing, and discovering products or retailers. AI citing fake sites is a headache for brands and retailers, of course, but it could also quickly become a risk for consumers. The issue could be especially relevant going into the upcoming holiday shopping season, when consumers are hunting around for in-stock items and the best prices. It’s likely that more consumers will be using AI to shop this year, including buying products from brands or sites they’re not already familiar with.\n“Part of this piece, too, is making sure that the consumers know, even though you are being fed a result in a particular chatbot, it is always best to verify the source of that before entering personal information or credit card information,” says Podqi CEO and cofounder Trevor West.\n“We take information quality seriously, and are happy to see that Gemini performed best among the products tested,” Google spokesperson Jessica Levis Boord said in an email. “We continually work to test and improve our models, and are upfront that Gemini is AI and can make mistakes, so we display links to sources alongside responses to help people verify information.”\n“Our goal is for ChatGPT to connect people with reliable places to shop,” OpenAI spokesperson Taya Christianson said in an email. “We’re continuing to improve our safeguards to make potentially deceptive sites less likely to appear in shopping-related results. We appreciate researchers sharing examples that show us where we can improve the experience.”\nIn Podqi’s test, certain prompts seemed to trigger risky sites more often than others. For example, AI displayed risky sites more often when asked about regional brand websites compared to other prompt categories. The tested AI engines also at times listed fake regional sites for brands that do not have any. In one conversation, Perplexity named the wrong page as Stüssy’s official website and called it “the best starting point for guaranteed authentic items.”\n“Perplexity is consistently the most accurate AI on credible research benchmarks, and has been for four years. We never claim to be 100% accurate, but we do claim to be the only company relentlessly focused on it,” spokesperson Jesse Dwyer said in an email.\nLet’s talk about Jensen Huang’s many affairs!\nMicrosoft’s massive Outlook outage might be over\nThe Verge The Verge logo. Sign in to see your notifications or create an account to join the conversation.",
+ "id": "R1-2026-11-14",
+ "caption_final": "How to verify wholesale vendor websites found using AI search before sending advance payments. If you use ChatGPT, Perplexity, or Gemini to research new wholesale suppliers or distributors for your shop, be careful with the website links they output. A study by IP protection firm Podqi tested 6,795 chatbot answers across 151 brands. Up to 15 percent of chatbot responses contained risky URLs, including fake retail sites, expired domains, and knockoff stores. Perplexity showed risky links 15 percent of the time, ChatGPT 8 percent, and Gemini 4 percent. Queries for smaller brands and regional sites triggered fake links twice as often. Never send advance payment without verifying domain age and GST details. How do you verify new wholesale vendors before placing an order?\n\nComment VERIFY for the full supplier verification checklist.\n\n#WholesaleBusiness #SupplierRisk #SmallBusinessIndia #ChatbotWarning"
+}
