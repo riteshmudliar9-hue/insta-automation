@@ -4048,11 +4048,16 @@
    "brand_consistency": 9,
    "publish_readiness": 8
   },
-  "status": "queued",
+  "status": "published",
   "produced_at": 1794616649,
-  "log": [],
+  "log": [
+   "2026-11-14T13:19:15.463161+05:30 published https://www.instagram.com/reel/DfttRxVjTg0/"
+  ],
   "dm_keyword": "VERIFY",
-  "dm_text": "Here is your AI vendor verification checklist:\n1. Podqi study found chatbots show risky websites in up to 15% of responses (Perplexity 15%, ChatGPT 8%, Gemini 4%).\n2. Smaller brands and regional website prompts trigger fake or expired domains twice as often.\n3. Check domain age on WHOIS/ICANN lookup before making payments.\n4. Verify the supplier's GSTIN on the official GST portal to confirm their legal registered name.\n5. Call the verified brand head office directly to confirm regional distributor credentials."
+  "dm_text": "Here is your AI vendor verification checklist:\n1. Podqi study found chatbots show risky websites in up to 15% of responses (Perplexity 15%, ChatGPT 8%, Gemini 4%).\n2. Smaller brands and regional website prompts trigger fake or expired domains twice as often.\n3. Check domain age on WHOIS/ICANN lookup before making payments.\n4. Verify the supplier's GSTIN on the official GST portal to confirm their legal registered name.\n5. Call the verified brand head office directly to confirm regional distributor credentials.",
+  "media_id": "17997396765013224",
+  "permalink": "https://www.instagram.com/reel/DfttRxVjTg0/",
+  "published_at": "2026-11-14T13:19:15.463161+05:30"
  },
  {
   "id": "C1-2026-11-14",
