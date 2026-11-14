@@ -3827,9 +3827,11 @@
    "brand_consistency": 9,
    "publish_readiness": 8
   },
-  "status": "queued",
+  "status": "published",
   "produced_at": 1794616649,
-  "log": [],
+  "log": [
+   "2026-11-14T21:33:03.067939+05:30 published https://www.instagram.com/reel/DfulyXBiV0z/"
+  ],
   "dm_keyword": "ORDER",
   "dm_text": "Here is how to extract messy WhatsApp orders using Gemini 4 Hydrogen: 1. Open the Google Gemini app or Google AI Studio. 2. Copy the client's messy WhatsApp text containing typos. 3. Prompt Gemini: 'Extract these items into a structured table with Columns: Item Name, Specifications, Quantity'. 4. Gemini 4 Hydrogen uses multi-part reasoning to handle typos and format the table. 5. Double check item quantities against original notes before generating final GST invoices.",
   "presenter": {
@@ -4016,7 +4018,10 @@
    "cta": "Comment ORDER for setup steps",
    "prompts_sent": true,
    "prompts_sent_at": 1794663650
-  }
+  },
+  "media_id": "18417790153082031",
+  "permalink": "https://www.instagram.com/reel/DfulyXBiV0z/",
+  "published_at": "2026-11-14T21:33:03.067939+05:30"
  },
  {
   "id": "R1-2026-11-14",
