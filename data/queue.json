@@ -4161,7 +4161,7 @@
      "line": "Aapka AI chatbot customers ko galat price ya discount de raha hai? Yeh problem badi hai.",
      "visual_scene": -1,
      "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: medium close-up with a slow, smooth push-in towards his face. Arjun leans in slightly and lowers his voice for emphasis. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Aapka AI chatbot customers ko galat price ya discount de raha hai? Yeh problem badi hai.\" No subtitles, no on-screen text, no music, no other people.",
-     "msg_id": null,
+     "msg_id": 583,
      "file": null,
      "got_msg": null
     },
@@ -4172,7 +4172,7 @@
      "line": "JioStar jaisi company ne pehle yeh decide kiya ki unka bot kya answer bilkul nahi karega.",
      "visual_scene": -1,
      "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: medium shot from slightly to his left (about 20 degrees), camera steady. Arjun raises one finger to indicate a clear rule. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"JioStar jaisi company ne pehle yeh decide kiya ki unka bot kya answer bilkul nahi karega.\" No subtitles, no on-screen text, no music, no other people.",
-     "msg_id": null,
+     "msg_id": 584,
      "file": null,
      "got_msg": null
     },
@@ -4182,7 +4182,7 @@
      "cover": 2,
      "desc": "Close-up of a shopkeeper's hands typing on a laptop next to a stack of paper invoices on a wooden counter.",
      "prompt": "Create a realistic vertical 9:16 video of about 8 seconds: Close-up of a shopkeeper's hands typing on a laptop next to a stack of paper invoices on a wooden counter. Indian small-business setting, warm natural light, handheld smartphone-camera look, slow subtle camera movement, shallow depth of field. No faces, no readable text, no brand names or logos, no subtitles, no speech, no music.",
-     "msg_id": null,
+     "msg_id": 585,
      "file": null,
      "got_msg": null
     },
@@ -4193,7 +4193,7 @@
      "line": "Maker-checker pattern use karo aur production monitoring lagao. Comment RULES, main safety checklist DM kar dunga.",
      "visual_scene": -1,
      "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: medium shot from slightly to his right (about 20 degrees), camera steady. Arjun smiles and shrugs lightly while pointing towards the camera. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Maker-checker pattern use karo aur production monitoring lagao. Comment RULES, main safety checklist DM kar dunga.\" No subtitles, no on-screen text, no music, no other people.",
-     "msg_id": null,
+     "msg_id": 586,
      "file": null,
      "got_msg": null
     },
@@ -4203,7 +4203,7 @@
      "cover": 3,
      "desc": "Over-the-shoulder shot of a phone on a shop counter lighting up with new message notifications.",
      "prompt": "Create a realistic vertical 9:16 video of about 8 seconds: Over-the-shoulder shot of a phone on a shop counter lighting up with new message notifications. Indian small-business setting, warm natural light, handheld smartphone-camera look, slow subtle camera movement, shallow depth of field. No faces, no readable text, no brand names or logos, no subtitles, no speech, no music.",
-     "msg_id": null,
+     "msg_id": 587,
      "file": null,
      "got_msg": null
     }
@@ -4319,7 +4319,9 @@
    ],
    "composed_from": null,
    "hook_title": "AI Bot Galat Price Bol Raha Hai?",
-   "cta": "Comment RULES for safety checklist"
+   "cta": "Comment RULES for safety checklist",
+   "prompts_sent": true,
+   "prompts_sent_at": 1794751995
   }
  },
  {
@@ -4397,11 +4399,16 @@
    "brand_consistency": 8,
    "publish_readiness": 8
   },
-  "status": "queued",
+  "status": "published",
   "produced_at": 1794703084,
-  "log": [],
+  "log": [
+   "2026-11-15T19:43:08.157918+05:30 published https://www.instagram.com/reel/Dfw-BIHgMLp/"
+  ],
   "dm_keyword": "AUDIT",
-  "dm_text": "Here is your 5-step security checklist for apps built on Lovable or Supabase:\n\n1. Enable Row Level Security (RLS) on all database tables before going live.\n2. Restrict default API read permissions so anonymous visitors cannot download data tables.\n3. Test user account separation so logged-in customers can only access their own invoices or messages.\n4. Conduct a manual review of access controls after every major feature prompt.\n5. Remember that AI builders assign 100% of data compliance responsibility to the user in their T&Cs."
+  "dm_text": "Here is your 5-step security checklist for apps built on Lovable or Supabase:\n\n1. Enable Row Level Security (RLS) on all database tables before going live.\n2. Restrict default API read permissions so anonymous visitors cannot download data tables.\n3. Test user account separation so logged-in customers can only access their own invoices or messages.\n4. Conduct a manual review of access controls after every major feature prompt.\n5. Remember that AI builders assign 100% of data compliance responsibility to the user in their T&Cs.",
+  "media_id": "17972608041193102",
+  "permalink": "https://www.instagram.com/reel/Dfw-BIHgMLp/",
+  "published_at": "2026-11-15T19:43:08.157918+05:30"
  },
  {
   "id": "C1-2026-11-15",
