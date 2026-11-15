@@ -716,5 +716,69 @@
   "status": "published",
   "media_id": "18141251272715720",
   "permalink": "https://www.instagram.com/p/DftQUo9kYxq/"
+ },
+ {
+  "id": "R1-2026-11-15",
+  "date": "2026-11-15",
+  "kind": "reel",
+  "format": "checklist",
+  "topic": "3 safety guardrails for customer-facing AI bots to prevent hallucinated discounts and wrong quotes",
+  "hook": "Aapka AI chatbot customer ko galat price ya discount bol raha hai?",
+  "keywords": [
+   "AI chatbot pricing guardrails",
+   "customer support bot safety",
+   "prevent AI hallucination quotes",
+   "JioStar AI architecture lessons",
+   "maker checker AI validation"
+  ],
+  "status": "queued"
+ },
+ {
+  "id": "R3-2026-11-15",
+  "date": "2026-11-15",
+  "kind": "reel",
+  "format": "tool_test",
+  "topic": "Turning noisy site visit voice notes into structured client requirements with ElevenLabs dictation",
+  "hook": "Site visit voice notes manually type karna band karo. Iski jagah ye dekho.",
+  "keywords": [
+   "site visit voice notes",
+   "ElevenLabs ElevenAI",
+   "voice dictation for business",
+   "construction site notes",
+   "meeting transcription AI"
+  ],
+  "status": "queued"
+ },
+ {
+  "id": "R2-2026-11-15",
+  "date": "2026-11-15",
+  "kind": "reel",
+  "format": "problem_fix",
+  "topic": "Security audit: Preventing data leaks in custom no-code AI apps built for your shop",
+  "hook": "Agar AI se app bana rahe ho, ye leak risk dekho.",
+  "keywords": [
+   "Lovable app data leak",
+   "Supabase database security",
+   "No code AI privacy",
+   "Custom app data leak prevention",
+   "Shop owner software security"
+  ],
+  "status": "queued"
+ },
+ {
+  "id": "C1-2026-11-15",
+  "date": "2026-11-15",
+  "kind": "carousel",
+  "format": "checklist",
+  "topic": "Setting up DPDP Act digital consent mechanisms for customer data in Indian small businesses",
+  "hook": "DPDP customer data rules are active: what to check",
+  "keywords": [
+   "DPDP Act 2023",
+   "Data Fiduciary",
+   "MeitY consent portal",
+   "customer data consent",
+   "DPBI compliance"
+  ],
+  "status": "queued"
  }
 ]

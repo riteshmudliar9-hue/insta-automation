@@ -4113,5 +4113,332 @@
   "media_id": "18141251272715720",
   "permalink": "https://www.instagram.com/p/DftQUo9kYxq/",
   "published_at": "2026-11-14T09:05:56.364716+05:30"
+ },
+ {
+  "id": "R1-2026-11-15",
+  "kind": "reel",
+  "date": "2026-11-15",
+  "slot": "2026-11-15T21:00",
+  "dir": "output/2026-11-15/R1-2026-11-15/try3",
+  "files": [
+   "reel.mp4"
+  ],
+  "caption": "How to stop customer AI chatbots from making wrong price promises and hallucinating discounts. When building customer-facing bots, prompts alone are not enough. High-scale engineering teams define strict negative scope first, set up validator models to double-check responses, and continuously log failure cases back into evaluation datasets. Have you ever caught an AI tool giving incorrect information to a client?\n\n#AIChatbot #BusinessAutomation #CustomerServiceAI #TechForBusiness",
+  "topic": "3 safety guardrails for customer-facing AI bots to prevent hallucinated discounts and wrong quotes",
+  "format": "checklist",
+  "hook": "Aapka AI chatbot customer ko galat price ya discount bol raha hai?",
+  "keywords": [
+   "AI chatbot pricing guardrails",
+   "customer support bot safety",
+   "prevent AI hallucination quotes",
+   "JioStar AI architecture lessons",
+   "maker checker AI validation"
+  ],
+  "scores": {
+   "hook": 8,
+   "originality": 8,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "status": "queued",
+  "produced_at": 1794703084,
+  "log": [],
+  "dm_keyword": "RULES",
+  "dm_text": "Here are the 3 safety guardrails to stop your AI customer bot from hallucinating prices or wrong commitments: 1. Define Negative Scope First: Specify exactly what queries the bot is prohibited from answering (unapproved discounts, custom terms). 2. Implement Maker-Checker Validation: Set up a secondary validator model (LLM as judge) to verify answers before they reach customers. 3. Monitor Production Efficacy: Track answer accuracy and turn every customer query failure into a new evaluation case for continuous updating.",
+  "presenter": {
+   "status": "waiting",
+   "takes": [
+    {
+     "n": 1,
+     "kind": "talk",
+     "talk": 1,
+     "line": "Aapka AI chatbot customers ko galat price ya discount de raha hai? Yeh problem badi hai.",
+     "visual_scene": -1,
+     "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: medium close-up with a slow, smooth push-in towards his face. Arjun leans in slightly and lowers his voice for emphasis. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Aapka AI chatbot customers ko galat price ya discount de raha hai? Yeh problem badi hai.\" No subtitles, no on-screen text, no music, no other people.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    },
+    {
+     "n": 2,
+     "kind": "talk",
+     "talk": 2,
+     "line": "JioStar jaisi company ne pehle yeh decide kiya ki unka bot kya answer bilkul nahi karega.",
+     "visual_scene": -1,
+     "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: medium shot from slightly to his left (about 20 degrees), camera steady. Arjun raises one finger to indicate a clear rule. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"JioStar jaisi company ne pehle yeh decide kiya ki unka bot kya answer bilkul nahi karega.\" No subtitles, no on-screen text, no music, no other people.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    },
+    {
+     "n": 3,
+     "kind": "broll",
+     "cover": 2,
+     "desc": "Close-up of a shopkeeper's hands typing on a laptop next to a stack of paper invoices on a wooden counter.",
+     "prompt": "Create a realistic vertical 9:16 video of about 8 seconds: Close-up of a shopkeeper's hands typing on a laptop next to a stack of paper invoices on a wooden counter. Indian small-business setting, warm natural light, handheld smartphone-camera look, slow subtle camera movement, shallow depth of field. No faces, no readable text, no brand names or logos, no subtitles, no speech, no music.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    },
+    {
+     "n": 4,
+     "kind": "talk",
+     "talk": 3,
+     "line": "Maker-checker pattern use karo aur production monitoring lagao. Comment RULES, main safety checklist DM kar dunga.",
+     "visual_scene": -1,
+     "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: medium shot from slightly to his right (about 20 degrees), camera steady. Arjun smiles and shrugs lightly while pointing towards the camera. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Maker-checker pattern use karo aur production monitoring lagao. Comment RULES, main safety checklist DM kar dunga.\" No subtitles, no on-screen text, no music, no other people.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    },
+    {
+     "n": 5,
+     "kind": "broll",
+     "cover": 3,
+     "desc": "Over-the-shoulder shot of a phone on a shop counter lighting up with new message notifications.",
+     "prompt": "Create a realistic vertical 9:16 video of about 8 seconds: Over-the-shoulder shot of a phone on a shop counter lighting up with new message notifications. Indian small-business setting, warm natural light, handheld smartphone-camera look, slow subtle camera movement, shallow depth of field. No faces, no readable text, no brand names or logos, no subtitles, no speech, no music.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    }
+   ],
+   "material": "[48] OpenAI News — JioStar’s chief architect on AI discovery at 500M-user scale\nURL: https://openai.com/index/jiostar-vijay-seshadri\nJioStar’s chief architect on AI discovery at 500M-user scale | OpenAI OpenAI November 11, 2026\nA conversation with Vijay Seshadri, Chief Architect at JioStar.\nShare Our Executive Function series features perspectives from leaders driving transformation through AI.\nJioStar operates entertainment and live-sports platforms used by more than 500 million consumers and has supported as many as 72.5 million concurrent live-sports viewers. At that scale, AI has to be fast, reliable, and ready for production.\nUsing the OpenAI API, JioStar built a conversational video and cricket-stat discovery assistant into JioHotstar. Viewers can speak naturally to find movies and shows, historical highlights, live-match moments, or cricket statistics, with results returned through a visual, conversational experience.\nAt OpenAI’s Executive Summit in Singapore, Sidharth Sharma, OpenAI’s Head of Go-to-Market for ASEAN, spoke with Vijay Seshadri—Chief Architect, JioStar, about building the experience for more than 15 languages in about eight weeks, and the lessons for leaders taking AI from demo to production.\nWhat convinced you that AI would fundamentally change how people discover content?\nContent discovery has evolved very little in the past 25 years. Recommendations were the last major shift. Much of what followed has been an iteration of the same idea.\nBut choosing what to watch is deeply personal. A person might say, “I’m feeling sad. Show me something that will cheer me up.” Even that simple request contains a lot of nuance. What kind of sad? What usually cheers that person up? Do they want comedy, comfort viewing or something completely distracting?\nA traditional recommendation system may struggle to understand that moment. Conversation gives the viewer a way to explain it. We call this a voice-visual interface.\nHow did you turn that idea into a product in time for a major cricket tournament?\nWe began working through the concept in October and November, with a major cricket tournament coming in February. We had roughly two months and two very different audiences: entertainment viewers and cricket fans.\nAn entertainment viewer might say, “It’s Friday evening—surprise me,” or describe a movie without knowing its title. Sports viewers may want a more specific update, like fall of wickets, a series of sixes, or the match in which a player scored a certain number of runs. Cricket experts may want statistics about every ball.\nThese are very different discovery problems. We worked on bringing entertainment, sports moments and detailed cricket statistics into one experience, across multiple languages, in a very short period.\nAt JioStar’s scale, what tradeoffs shaped the technical design?\nVery early, we framed the problem as a three-way tradeoff among accuracy, latency, and cost. Every engineering decision had to balance all three at once.\nVoice made that especially important. More than 60% of our users use voice rather than text: people prefer to say what they want to watch. The response still has to be relevant, fast, and economically viable at scale.\nWhat does an effective evaluation system look like in production?\nI think about it in two parts: an evaluation framework and a validation layer. Before production, the evaluation framework should prompt changes. In production, a feedback loop should turn customer behavior and failures into new eval cases.\nThat flywheel can become self-amplified, but it is extremely difficult to get right.\nDomain experts are essential. For sports-statistics evals, we worked with people such as sports-magazine editors who understood what serious fans might ask. You cannot begin with a prompt alone; you need to seed the system with deep human expertise.\nHow did a small team build and launch the experience in about eight weeks?\nOne thing we got right was the team. We started with a small team of data scientists and engineers around a clear problem statement. OpenAI’s forward-deployed engineers worked alongside us to further identify the few things we absolutely had to get right.\nThe first was scope. A voice or text interface lets users ask almost anything, so we began by deciding what the system should not answer. Guardrails came first.\nFor evals, we began with a seed dataset and used models to expand it with more variation. We created what you might now call a maker-checker pattern: one model helped determine how to answer a question, while another acted as a validator—an LLM as judge—with a competing objective.\nThat raised another question: who tests the judge? Designing the validator was itself an evaluation problem. Codex helped the team accelerate work such as generating eval cases and updating the system, but faster building did not remove the need for judgment and validation.\nLooking back, what would you do differently?\nI would invest earlier in production monitoring for model efficacy.\nTraditional infrastructure measures such as P99 latency remain important, but they are not enough. You also need to monitor model efficacy in production.\nWhat should executives keep in mind as they move from AI experiments to production systems?\nFirst, there is a large gap between what technology can do and the reality inside an enterprise. If your company has not matched every frontier-model announcement, you are not alone.\nSecond, keep focusing on outcomes rather than activity. It is easy to mistake visible motion for meaningful progress, particularly when companies emphasize input metrics. Lines of code generated, for example, do not tell you whether you created meaningful value.\nFinally, most enterprises underestimate the human skill and agency required. This cannot be only a generic skilling program. Leaders need people who can apply these tools with judgment. Give a strong engineer a tool like Codex and the impact can multiply; without the judgment to validate production systems, the risk multiplies too.\nYou have a rocket in your hands. Especially in production systems, you need validation and guardrails, and you need to give the keys to the right people.",
+   "scenes": [
+    {
+     "purpose": "Hook the viewer with a common pricing hallucination problem.",
+     "narration": "Aapka AI chatbot customer ko galat price ya discount bol raha hai?",
+     "on_screen": "Wrong AI Quotes Fix",
+     "visual_type": "text",
+     "url": "",
+     "query": "",
+     "headline": "AI Chatbot Hallucinating Prices",
+     "steps": [],
+     "items": [],
+     "left_label": "",
+     "right_label": "",
+     "rows": []
+    },
+    {
+     "purpose": "Establish high-scale credibility from source facts.",
+     "narration": "500 million users wale JioStar platform ne AI bot se pehle rules set kiye.",
+     "on_screen": "JioStar AI Guardrails",
+     "visual_type": "compare",
+     "url": "",
+     "query": "",
+     "headline": "",
+     "steps": [],
+     "items": [],
+     "left_label": "Without Guardrail",
+     "right_label": "With Guardrail",
+     "rows": [
+      {
+       "left": "Gives fake discount",
+       "right": "Refuses out of scope"
+      },
+      {
+       "left": "Wrong stock quote",
+       "right": "Checks fixed rules"
+      }
+     ]
+    },
+    {
+     "purpose": "Deliver Guardrail 1 - Define what NOT to answer.",
+     "narration": "Rule 1: Bot launch se pehle decide karo ki bot kya answer NAHI karega.",
+     "on_screen": "Rule 1: Out-Of-Scope",
+     "visual_type": "checklist",
+     "url": "",
+     "query": "",
+     "headline": "",
+     "steps": [],
+     "items": [
+      "Define negative scope",
+      "Block discount overrides",
+      "Set strict price boundary"
+     ],
+     "left_label": "",
+     "right_label": "",
+     "rows": []
+    },
+    {
+     "purpose": "Deliver Guardrail 2 - Maker Checker pattern.",
+     "narration": "Rule 2: Maker-Checker set karo. Ek secondary LLM judge response ko validate kare.",
+     "on_screen": "Rule 2: Maker-Checker",
+     "visual_type": "diagram",
+     "url": "",
+     "query": "",
+     "headline": "",
+     "steps": [
+      "Customer Query",
+      "Main AI Bot",
+      "LLM Validator Judge",
+      "Verified Answer"
+     ],
+     "items": [],
+     "left_label": "",
+     "right_label": "",
+     "rows": []
+    },
+    {
+     "purpose": "Deliver Guardrail 3 - Efficacy monitoring.",
+     "narration": "Rule 3: Sirf speed mat dekho. Production mein model efficacy aur failure loops monitor karo.",
+     "on_screen": "Rule 3: Monitor Efficacy",
+     "visual_type": "checklist",
+     "url": "",
+     "query": "",
+     "headline": "",
+     "steps": [],
+     "items": [
+      "Track accuracy rate",
+      "Log customer failures",
+      "Update eval datasets"
+     ],
+     "left_label": "",
+     "right_label": "",
+     "rows": []
+    },
+    {
+     "purpose": "Payoff and call to action.",
+     "narration": "In 3 guardrails se wrong quotes ruko. Comment RULES, main safety checklist DM kar dunga.",
+     "on_screen": "Comment RULES for List",
+     "visual_type": "text",
+     "url": "",
+     "query": "",
+     "headline": "Get AI Safety Checklist",
+     "steps": [],
+     "items": [],
+     "left_label": "",
+     "right_label": "",
+     "rows": []
+    }
+   ],
+   "composed_from": null,
+   "hook_title": "AI Bot Galat Price Bol Raha Hai?",
+   "cta": "Comment RULES for safety checklist"
+  }
+ },
+ {
+  "id": "R3-2026-11-15",
+  "kind": "reel",
+  "date": "2026-11-15",
+  "slot": "2026-11-15T13:00",
+  "dir": "output/2026-11-15/R3-2026-11-15/try3",
+  "files": [
+   "reel.mp4"
+  ],
+  "caption": "How to convert verbal site visit discussions into structured scope sheets automatically. Contractors and designers frequently lose track of verbal changes made on job sites. ElevenLabs has previewed ElevenAI, an app designed for teams to record speech, clean up audio into text across 90 languages, and recognize industry-specific terminology. It also connects with AI agents to draft follow-up emails directly from recorded notes. Note that it is currently in early-access preview rather than a direct download. Comment SCOPE for early access details and workflow notes.\n\n#ContractorLife #ConstructionManagement #VoiceAI #SmallBusinessIndia",
+  "topic": "Turning noisy site visit voice notes into structured client requirements with ElevenLabs dictation",
+  "format": "tool_test",
+  "hook": "Site visit voice notes manually type karna band karo. Iski jagah ye dekho.",
+  "keywords": [
+   "site visit voice notes",
+   "ElevenLabs ElevenAI",
+   "voice dictation for business",
+   "construction site notes",
+   "meeting transcription AI"
+  ],
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 9,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 8,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "status": "queued",
+  "produced_at": 1794703084,
+  "log": [],
+  "dm_keyword": "SCOPE",
+  "dm_text": "Here are the key details on ElevenLabs ElevenAI tool: 1. Core Feature: Converts speech into cleaned-up text across apps with support for over 90 languages. 2. Jargon Friendly: Designed to capture industry-specific technical terms accurately. 3. Automated Actions: Connects to ElevenAgent to prepare follow-up drafts and emails based on audio records. 4. Team Focus: Search and query older meeting data during discussions. 5. Current Availability: Currently available only via preview waitlist sign-up, not a direct public download."
+ },
+ {
+  "id": "R2-2026-11-15",
+  "kind": "reel",
+  "date": "2026-11-15",
+  "slot": "2026-11-15T19:00",
+  "dir": "output/2026-11-15/R2-2026-11-15/try3",
+  "files": [
+   "reel.mp4"
+  ],
+  "caption": "How to prevent data leaks when building custom apps for your shop using AI builders like Lovable.\n\nIf you use no-code platforms to build custom portals for customer orders or invoicing, default database settings can expose client emails, contracts, and chat logs. Research shows thousands of published apps had unprotected database records because permissions were left open.\n\nLovable terms specify that security setup is your responsibility. Before putting real customer or business documents into an app, audit access permissions and row-level rules.\n\nComment AUDIT for the step-by-step security checklist.\n\n#NoCodeSecurity #AppDevelopment #DataPrivacy #LovableAI #SmallBusinessTech",
+  "topic": "Security audit: Preventing data leaks in custom no-code AI apps built for your shop",
+  "format": "problem_fix",
+  "hook": "Agar AI se app bana rahe ho, ye leak risk dekho.",
+  "keywords": [
+   "Lovable app data leak",
+   "Supabase database security",
+   "No code AI privacy",
+   "Custom app data leak prevention",
+   "Shop owner software security"
+  ],
+  "scores": {
+   "hook": 8,
+   "originality": 8,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 8,
+   "pacing": 8,
+   "brand_consistency": 8,
+   "publish_readiness": 8
+  },
+  "status": "queued",
+  "produced_at": 1794703084,
+  "log": [],
+  "dm_keyword": "AUDIT",
+  "dm_text": "Here is your 5-step security checklist for apps built on Lovable or Supabase:\n\n1. Enable Row Level Security (RLS) on all database tables before going live.\n2. Restrict default API read permissions so anonymous visitors cannot download data tables.\n3. Test user account separation so logged-in customers can only access their own invoices or messages.\n4. Conduct a manual review of access controls after every major feature prompt.\n5. Remember that AI builders assign 100% of data compliance responsibility to the user in their T&Cs."
+ },
+ {
+  "id": "C1-2026-11-15",
+  "kind": "carousel",
+  "date": "2026-11-15",
+  "slot": "2026-11-15T09:00",
+  "dir": "output/2026-11-15/C1-2026-11-15/try3",
+  "files": [
+   "slide_01.jpg",
+   "slide_02.jpg",
+   "slide_03.jpg",
+   "slide_04.jpg",
+   "slide_05.jpg",
+   "slide_06.jpg"
+  ],
+  "caption": "DPDP Act customer data compliance guide for Indian small businesses and suppliers. If your business collects phone numbers, billing details, or employee files, you are classified as a data fiduciary under the DPDP Act 2023. While Consent Managers requiring ₹2 Cr net worth can register now on dpbi.gov.in, main fiduciary obligations and DPBI penalties start on May 13, 2027. Now is the time to review if your customer consent is specific and clear, and ensure you obtain verifiable parental consent for minors under 18. How do you currently collect and store customer phone numbers at your billing desk?\n\n#DPDPAct #DataPrivacyIndia #IndianBusiness #ComplianceIndia #MSMEIndia",
+  "topic": "Setting up DPDP Act digital consent mechanisms for customer data in Indian small businesses",
+  "format": "checklist",
+  "hook": "DPDP customer data rules are active: what to check",
+  "keywords": [
+   "DPDP Act 2023",
+   "Data Fiduciary",
+   "MeitY consent portal",
+   "customer data consent",
+   "DPBI compliance"
+  ],
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 9,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "status": "queued",
+  "produced_at": 1794703084,
+  "log": [],
+  "dm_keyword": "",
+  "dm_text": ""
  }
 ]

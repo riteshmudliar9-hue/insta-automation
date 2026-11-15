@@ -1,0 +1,274 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Turning noisy site visit voice notes into structured client requirements with ElevenLabs dictation",
+  "angle": "How contractors and interior designers can record voice notes on site and turn them into clean scope-of-work sheets instantly.",
+  "audience_problem": "Contractors lose money when verbal client requests on job sites get forgotten or miscommunicated.",
+  "format": "tool_test",
+  "medium": "reel",
+  "source_ids": [
+   9
+  ],
+  "evergreen": true,
+  "keywords": [
+   "ElevenLabs",
+   "voice to text",
+   "contractor tools",
+   "dictation app",
+   "site notes"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 8,
+   "hook_potential": 8,
+   "retention": 8,
+   "save_share": 8,
+   "feasibility": 9,
+   "evidence": 9,
+   "viral": 8
+  },
+  "total": 8.31
+ },
+ "piece": {
+  "hooks": [
+   "Site visit voice notes manually type karna band karo. Iski jagah ye dekho.",
+   "Agar aap client ke verbal requests site par bhoolte ho, ye dekho.",
+   "Voice notes se clean scope sheet manually banana band karo. Ye dekho.",
+   "Site visit ke messy voice notes summarize karne ka naya tool dekho.",
+   "Verbal site scope bhoolne ki galti aapka bohot paisa khati hai."
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "Directly calls out a tedious manual habit contractors and interior designers deal with daily, offering an immediate alternative.",
+  "title": "Site Voice Notes To Clean Scope",
+  "scenes": [
+   {
+    "purpose": "Call out manual site voice note transcription",
+    "narration": "Site visit voice notes manually type karna band karo. Iski jagah ye dekho.",
+    "on_screen": "Site Voice Notes To Text",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "Site Voice Note",
+     "Speech Clean-up",
+     "Scope Sheet"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Introduce the new ElevenAI app capabilities",
+    "narration": "ElevenLabs ne ElevenAI preview launch kiya hai, jo speech ko clean text banata hai.",
+    "on_screen": "Speech To Clean Text",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "90+ Languages Support",
+     "Industry Terms Recognition",
+     "Agent Email Drafting"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Highlight industry term accuracy vs standard dictation",
+    "narration": "Ye tool over 90 languages aur industry-specific terms accurately samajh leta hai.",
+    "on_screen": "Industry Terms Support",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "Normal Dictation",
+    "right_label": "ElevenAI Tool",
+    "rows": [
+     {
+      "left": "Misses technical terms",
+      "right": "Understands industry terms"
+     },
+     {
+      "left": "Raw transcription dump",
+      "right": "Clean text summaries"
+     }
+    ]
+   },
+   {
+    "purpose": "Explain the agent automation follow-up feature",
+    "narration": "Isme ElevenAgent follow-up actions jaise draft email automatically taiyar kar sakta hai.",
+    "on_screen": "Automated Draft Email",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "Audio Recording",
+     "Extract Scope Items",
+     "Draft Client Email"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Highlight current limitation honestly",
+    "narration": "Lekin abhi ye direct download nahi hai, early access waitlist pe signup karna hoga.",
+    "on_screen": "Waitlist Only Preview",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Needs Early Access Signup First",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Deliver call to action for early access details",
+    "narration": "Comment SCOPE, main aapko early access details aur features DM kar dunga.",
+    "on_screen": "Comment SCOPE Below",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Waitlist Access Step",
+     "90+ Language Details",
+     "Scribe Model Notes"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "How to convert verbal site visit discussions into structured scope sheets automatically. Contractors and designers frequently lose track of verbal changes made on job sites. ElevenLabs has previewed ElevenAI, an app designed for teams to record speech, clean up audio into text across 90 languages, and recognize industry-specific terminology. It also connects with AI agents to draft follow-up emails directly from recorded notes. Note that it is currently in early-access preview rather than a direct download. Comment SCOPE for early access details and workflow notes.",
+  "hashtags": [
+   "#ContractorLife",
+   "#ConstructionManagement",
+   "#VoiceAI",
+   "#SmallBusinessIndia"
+  ],
+  "keywords": [
+   "site visit voice notes",
+   "ElevenLabs ElevenAI",
+   "voice dictation for business",
+   "construction site notes",
+   "meeting transcription AI"
+  ],
+  "claims": [
+   {
+    "claim": "ElevenLabs released an experimental preview app called ElevenAI combining meeting note-taking and dictation",
+    "source_id": 9
+   },
+   {
+    "claim": "ElevenAI dictation converts speech to cleaned-up text with support for over 90 languages",
+    "source_id": 9
+   },
+   {
+    "claim": "The tool understands industry-specific terms across dictation and transcription",
+    "source_id": 9
+   },
+   {
+    "claim": "ElevenLabs allows integration with ElevenAgent to draft follow-up emails based on notes",
+    "source_id": 9
+   },
+   {
+    "claim": "ElevenAI is currently in preview requiring users to sign up for early access rather than direct download",
+    "source_id": 9
+   }
+  ],
+  "dm_keyword": "SCOPE",
+  "dm_text": "Here are the key details on ElevenLabs ElevenAI tool: 1. Core Feature: Converts speech into cleaned-up text across apps with support for over 90 languages. 2. Jargon Friendly: Designed to capture industry-specific technical terms accurately. 3. Automated Actions: Connects to ElevenAgent to prepare follow-up drafts and emails based on audio records. 4. Team Focus: Search and query older meeting data during discussions. 5. Current Availability: Currently available only via preview waitlist sign-up, not a direct public download."
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 9,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 8,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "ElevenLabs released an experimental preview app called ElevenAI combining meeting note-taking and dictation",
+    "supported": true
+   },
+   {
+    "claim": "ElevenAI dictation converts speech to cleaned-up text with support for over 90 languages",
+    "supported": true
+   },
+   {
+    "claim": "The tool understands industry-specific terms across dictation and transcription",
+    "supported": true
+   },
+   {
+    "claim": "ElevenLabs allows integration with ElevenAgent to draft follow-up emails based on notes",
+    "supported": true
+   },
+   {
+    "claim": "ElevenAI is currently in preview requiring users to sign up for early access rather than direct download",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Scene 6: The checklist items 'Waitlist Access Step', '90+ Language Details', and 'Scribe Model Notes' are vague and don't clearly explain what the user gets in the DM compared to the actual value proposition."
+  ],
+  "issues": [
+   "The CTA in Scene 6 is slightly disconnected from the actual content provided in the DM; ensure the DM content is as high-value as the reel promises.",
+   "The term 'Scribe' in the final checklist is mentioned without context in the reel, which might confuse viewers."
+  ],
+  "fix_instructions": "Keep the reel as is, it is strong. For Scene 6, replace the checklist items with more benefit-driven text: '1. Early Access Link', '2. Setup Guide', '3. Pro Workflow Tips'. This makes the DM offer feel more tangible and valuable to an SMB owner."
+ },
+ "rules": [],
+ "reasons": [],
+ "meta": {
+  "duration": 34.3,
+  "voice": "edge",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-15/R3-2026-11-15/try3/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-15/R3-2026-11-15/try3/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-15/R3-2026-11-15/try3/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-15/R3-2026-11-15/try3/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-15/R3-2026-11-15/try3/scene_05.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-15/R3-2026-11-15/try3/scene_06.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   5.73,
+   5.76,
+   5.68,
+   5.87,
+   5.87,
+   5.36
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-15/R3-2026-11-15/try3",
+ "attempt": 3,
+ "approved": true,
+ "hook": "Site visit voice notes manually type karna band karo. Iski jagah ye dekho.",
+ "log": [
+  "attempt 1: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['scene 5: compare needs rows', 'originality 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+  "attempt 2: fail {'hook': 6, 'originality': 5, 'practical_value': 5, 'natural_language': 6, 'accuracy': 7, 'narrative': 6, 'visual_integrity': 6, 'pacing': 6, 'brand_consistency': 7, 'publish_readiness': 6} ['hook 6/10 (<8)', 'originality 5/10 (<8)', 'practical_value 5/10 (<8)', 'natural_language 6/10 (<8)']",
+  "attempt 3: PASS {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 9, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} []"
+ ],
+ "material": "[9] TechCrunch AI — ElevenLabs’ new app combines meeting note-taking and dictation for teams\nURL: https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/\nImage Credits: ElevenLabs Apps ElevenLabs’ new app combines meeting note-taking and dictation for teams Ivan Mehta 6:44 AM PST · November 13, 2026 In the last few months, Fireflies , Wispr Flow , and Granola have all released competing capabilities in the dictation and meeting note-taking space. The newest entrant in that category is voice AI giant ElevenLabs , which this week released an experimental app called ElevenAI that combines meeting note-taking, dictation, and agent integration.\nLaunched during its 11/11 Summit in New York, ElevenAI is still in preview, and you have to sign up for early access instead of just downloading an app. ElevenLabs, valued at $22 billion , is very much positioning this as a product that lives within a team as compared to a productivity tool for an individual.\nElevenAI packs all the features typically found in other apps in the category. It can take meeting notes across your meetings and notify other participants that the conversation is being recorded. Users can query data across meetings and get live assistance during a chat, helping them recall a key detail from older conversations. ElevenLabs also allows companies to integrate ElevenAgent and take follow-up actions such as writing a draft email based on meeting notes.\nPlus, there’s a dictation feature, which lets users convert speech to cleaned-up text in any app with support for over 90 languages. The company said that the app is capable of understanding industry-specific terms across dictation and meeting transcription.\nElevenAI allows the company to use its own model as a showcase and also utilize its agent platforms for better context funneling. The startup’s positioning might not be to directly compete in the productivity market, but rather to give enterprise teams an option to not buy licenses to a notetaker and use its solution instead. All meeting-related tools are rushing to become central knowledge hubs for companies while aiming to automate knowledge extraction and follow-up actions\nIn the last week, the company also launched its v3 series of Scribe speech-to-text models with live transcription capabilities and the ability for companies to fine-tune models using their own data, a tool to pick the right language model based on use case , and a routine creator that automates tasks based on the transcript.\nWhen you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence.\nIvan Mehta Ivan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\nYou can contact or verify outreach from Ivan by emailing [email protected] or via encrypted message at ivan.42 on Signal.\n2027 San Francisco Get an Early Peek at the Next TechCrunch Disrupt Disrupt, Startup Battlefield, and more will return next year, and you can be at the front of the line. Sign up for our waitlist\nThe unfolding Jensen Huang scandal: a timeline\nMicrosoft’s latest email outage turned into a full-blown global cloud crisis\nJensen Huang didn’t show confidence in his successor, report says\nJensen Huang was having a third affair, Reuters reports\nAnthropic launches Claude Meetings to turn workplace discussions into plans and tasks\nJensen Huang’s alleged honeypot scandal has inspired some top-notch memes\nMusk says Tesla will refund some Cybertruck deposits, defends decision to end production",
+ "id": "R3-2026-11-15",
+ "caption_final": "How to convert verbal site visit discussions into structured scope sheets automatically. Contractors and designers frequently lose track of verbal changes made on job sites. ElevenLabs has previewed ElevenAI, an app designed for teams to record speech, clean up audio into text across 90 languages, and recognize industry-specific terminology. It also connects with AI agents to draft follow-up emails directly from recorded notes. Note that it is currently in early-access preview rather than a direct download. Comment SCOPE for early access details and workflow notes.\n\n#ContractorLife #ConstructionManagement #VoiceAI #SmallBusinessIndia"
+}
