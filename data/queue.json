@@ -4354,11 +4354,16 @@
    "brand_consistency": 9,
    "publish_readiness": 8
   },
-  "status": "queued",
+  "status": "published",
   "produced_at": 1794703084,
-  "log": [],
+  "log": [
+   "2026-11-15T13:23:43.882617+05:30 published https://www.instagram.com/reel/DfwSlWoE6Pd/"
+  ],
   "dm_keyword": "SCOPE",
-  "dm_text": "Here are the key details on ElevenLabs ElevenAI tool: 1. Core Feature: Converts speech into cleaned-up text across apps with support for over 90 languages. 2. Jargon Friendly: Designed to capture industry-specific technical terms accurately. 3. Automated Actions: Connects to ElevenAgent to prepare follow-up drafts and emails based on audio records. 4. Team Focus: Search and query older meeting data during discussions. 5. Current Availability: Currently available only via preview waitlist sign-up, not a direct public download."
+  "dm_text": "Here are the key details on ElevenLabs ElevenAI tool: 1. Core Feature: Converts speech into cleaned-up text across apps with support for over 90 languages. 2. Jargon Friendly: Designed to capture industry-specific technical terms accurately. 3. Automated Actions: Connects to ElevenAgent to prepare follow-up drafts and emails based on audio records. 4. Team Focus: Search and query older meeting data during discussions. 5. Current Availability: Currently available only via preview waitlist sign-up, not a direct public download.",
+  "media_id": "18343965286272798",
+  "permalink": "https://www.instagram.com/reel/DfwSlWoE6Pd/",
+  "published_at": "2026-11-15T13:23:43.882617+05:30"
  },
  {
   "id": "R2-2026-11-15",
