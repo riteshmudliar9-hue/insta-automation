@@ -4146,9 +4146,11 @@
    "brand_consistency": 9,
    "publish_readiness": 8
   },
-  "status": "queued",
+  "status": "published",
   "produced_at": 1794703084,
-  "log": [],
+  "log": [
+   "2026-11-15T21:32:51.485075+05:30 published https://www.instagram.com/reel/DfxKkoOjbR1/"
+  ],
   "dm_keyword": "RULES",
   "dm_text": "Here are the 3 safety guardrails to stop your AI customer bot from hallucinating prices or wrong commitments: 1. Define Negative Scope First: Specify exactly what queries the bot is prohibited from answering (unapproved discounts, custom terms). 2. Implement Maker-Checker Validation: Set up a secondary validator model (LLM as judge) to verify answers before they reach customers. 3. Monitor Production Efficacy: Track answer accuracy and turn every customer query failure into a new evaluation case for continuous updating.",
   "presenter": {
@@ -4322,7 +4324,10 @@
    "cta": "Comment RULES for safety checklist",
    "prompts_sent": true,
    "prompts_sent_at": 1794751995
-  }
+  },
+  "media_id": "17939595105404370",
+  "permalink": "https://www.instagram.com/reel/DfxKkoOjbR1/",
+  "published_at": "2026-11-15T21:32:51.485075+05:30"
  },
  {
   "id": "R3-2026-11-15",
