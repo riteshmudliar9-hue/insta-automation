@@ -1,0 +1,277 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Auditing old short links in WhatsApp auto-responders and SMS campaigns to prevent link hijacking",
+  "angle": "Dead short links in your past marketing messages can be bought and hijacked to scam your customers.",
+  "audience_problem": "Small business owners use short links in bulk WhatsApp/SMS campaigns that later expire and get hijacked by malicious actors.",
+  "format": "problem_fix",
+  "medium": "reel",
+  "source_ids": [
+   20
+  ],
+  "evergreen": true,
+  "keywords": [
+   "bitly link hijack",
+   "whatsapp security",
+   "sms marketing risk",
+   "brand reputation"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 9,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 9,
+   "evidence": 8,
+   "viral": 9
+  },
+  "total": 8.77
+ },
+ "piece": {
+  "hooks": [
+   "Purane Bitly links se aapke customers scam ho sakte hain.",
+   "Aapke purane WhatsApp SMS link hijack ho sakte hain.",
+   "Agar aap Bitly short links use karte ho, ye dekho.",
+   "Purane marketing links badal kar customer fraud ka risk hai.",
+   "Bitly short links par ye galti aapke business ko mehangi padegi."
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "Directly warns about customer scam risks linked to short URLs, stopping scrolling business owners who use Bitly in campaigns.",
+  "title": "Auditing Old Short Links to Prevent Hijacking",
+  "scenes": [
+   {
+    "purpose": "Hook the viewer with the risk of hijacked short links",
+    "narration": "Purane Bitly links se aapke customers scam ho sakte hain.",
+    "on_screen": "Link Hijack Warning",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Bitly Link Scam Risk",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Explain how link hijacking happens",
+    "narration": "Bitly par purane inactive links bad actor fir se register kar ke badal dete hain.",
+    "on_screen": "How Hijacking Works",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "Old Bitly Link",
+     "Link Inactive",
+     "Hijacker Re-registers",
+     "Scam Redirect"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Provide verified evidence from source",
+    "narration": "Burger King aur McDonald's ke purane links badal kar galat pages par redirect hue.",
+    "on_screen": "Burger King Example",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Big Brands Affected",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Show simple audit trick using plus sign",
+    "narration": "Link check karne ke liye URL ke aage bas plus sign lagao.",
+    "on_screen": "Simple Link Audit",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Add plus sign to link",
+     "Check creation date",
+     "Verify target address",
+     "Delete inactive links"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Compare safe vs unsafe link practices",
+    "narration": "Apne WhatsApp auto responder aur SMS links abhi check karo.",
+    "on_screen": "Clean Your Links",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "Ignore Links",
+    "right_label": "Audit Links",
+    "rows": [
+     {
+      "left": "Old links hijacked",
+      "right": "Add plus to inspect"
+     },
+     {
+      "left": "Customer scam risk",
+      "right": "Safe customer flow"
+     }
+    ]
+   },
+   {
+    "purpose": "Call to action with comment hook",
+    "narration": "Comment AUDIT, main aapko exact link audit steps DM kar dunga.",
+    "on_screen": "Get Audit Steps",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Comment AUDIT Below",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "How to check if old Bitly links in WhatsApp auto responders and SMS campaigns are safe from link hijacking. Old inactive short links can be re registered by bad actors to redirect your customers to malicious pages. Burger King and McDonald's experienced this with their 2011 Bitly links. Add a plus sign to the end of any Bitly link to inspect its creation date and destination. Comment AUDIT for the step-by-step checklist.",
+  "hashtags": [
+   "#WhatsAppMarketing",
+   "#BusinessSecurity",
+   "#BitlyLinks",
+   "#SMSSpam",
+   "#DigitalSafety"
+  ],
+  "keywords": [
+   "Bitly link hijack",
+   "WhatsApp auto responder security",
+   "SMS marketing link check",
+   "old short links risk",
+   "business link audit"
+  ],
+  "claims": [
+   {
+    "claim": "Bitly confirmed an issue that allowed bad actors to repurpose old inactive links to send people to unrelated content.",
+    "source_id": 20
+   },
+   {
+    "claim": "A Bitly short link in a Burger King tweet from 24 July 2011 was registered again on 15 November 2026 and redirected to Wikipedia list of concentration camps.",
+    "source_id": 20
+   },
+   {
+    "claim": "A Bitly link in a McDonald's tweet from 7 June 2011 was re-registered and pointed to Wikipedia article on the September 11 attacks.",
+    "source_id": 20
+   },
+   {
+    "claim": "Adding a plus sign to the end of a Bitly link address opens its public info page showing destination and creation time.",
+    "source_id": 20
+   },
+   {
+    "claim": "Bitly suspended accounts involved and disabled affected links.",
+    "source_id": 20
+   }
+  ],
+  "dm_keyword": "AUDIT",
+  "dm_text": "Here is how to audit your old Bitly links used in WhatsApp auto responders or SMS marketing: 1. Find all old short links sent in past customer campaigns or automated replies. 2. Copy the Bitly URL and add a plus sign '+' at the very end (for example bit.ly/example+). 3. Open it in a browser to see Bitly's public info page. 4. Check the creation date and the real destination address. If the creation date is recent or destination is wrong, the link was hijacked. 5. Remove or update hijacked and inactive short links immediately from your templates."
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 8,
+   "practical_value": 9,
+   "natural_language": 8,
+   "accuracy": 10,
+   "narrative": 8,
+   "visual_integrity": 7,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 7
+  },
+  "claims": [
+   {
+    "claim": "Bitly confirmed an issue that allowed bad actors to repurpose old inactive links to send people to unrelated content.",
+    "supported": true,
+    "note": "Supported directly by Bitly's statement in the source material."
+   },
+   {
+    "claim": "A Bitly short link in a Burger King tweet from 24 July 2011 was registered again on 15 November 2026 and redirected to Wikipedia list of concentration camps.",
+    "supported": true,
+    "note": "Supported by the source article."
+   },
+   {
+    "claim": "A Bitly link in a McDonald's tweet from 7 June 2011 was re-registered and pointed to Wikipedia article on the September 11 attacks.",
+    "supported": true,
+    "note": "Supported by the source article."
+   },
+   {
+    "claim": "Adding a plus sign to the end of a Bitly link address opens its public info page showing destination and creation time.",
+    "supported": true,
+    "note": "Supported by the source article explaining Bitly's public info page feature."
+   },
+   {
+    "claim": "Bitly suspended accounts involved and disabled affected links.",
+    "supported": true,
+    "note": "Supported by Bitly's statement updated in the source material."
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Scene 1 & 3: The center white cards are visually bare with large empty space around small center text.",
+   "Scene 4: The key practical advice ('add a plus sign') lacks a visual example showing a URL (e.g., bit.ly/example+)."
+  ],
+  "issues": [
+   "The reel relies heavily on plain text cards for high-impact scenes (Scenes 1 and 3) where visual mockups or brand logos would significantly increase engagement."
+  ],
+  "fix_instructions": "1. In Scene 4, add a clear visual example of a shortened URL with the plus sign attached (e.g., 'bit.ly/xyz' -> 'bit.ly/xyz+'). 2. Enhance Scene 1 and Scene 3 visuals by adding small brand logos or simple URL link icons inside the center card to fill empty white space and improve visual hierarchy."
+ },
+ "rules": [],
+ "reasons": [
+  "visual_integrity 7/10 (<8)",
+  "reel is 69.3 s long (max 45 s; aim for 15-35 s)"
+ ],
+ "meta": {
+  "duration": 69.3,
+  "voice": "gemini",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-16/R1-2026-11-16/try2/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-16/R1-2026-11-16/try2/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-16/R1-2026-11-16/try2/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-16/R1-2026-11-16/try2/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-16/R1-2026-11-16/try2/scene_05.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-16/R1-2026-11-16/try2/scene_06.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   13.19,
+   14.03,
+   13.37,
+   13.59,
+   3.21,
+   11.87
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-16/R1-2026-11-16/try2",
+ "attempt": 2,
+ "approved": false,
+ "hook": "Purane Bitly links se aapke customers scam ho sakte hain.",
+ "log": [
+  "attempt 1: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['scene 3: compare needs rows', 'reel is 59.8 s long (max 45 s; aim for 15-35 s)']",
+  "attempt 2: fail {'hook': 8, 'originality': 8, 'practical_value': 9, 'natural_language': 8, 'accuracy': 10, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['visual_integrity 7/10 (<8)', 'reel is 69.3 s long (max 45 s; aim for 15-35 s)']",
+  "attempt 3: fail {'hook': 7, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 7} ['hook 7/10 (<8)', 'originality 7/10 (<8)', \"spelling: Scene 2 visual table: 'McDonalds 2011' missing apostrophe ('McDonald's 2011').\"]",
+  "attempt 4: fail {'hook': 7, 'originality': 7, 'practical_value': 8, 'natural_language': 7, 'accuracy': 7, 'narrative': 7, 'visual_integrity': 6, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 6} ['hook 7/10 (<8)', 'originality 7/10 (<8)', 'natural_language 7/10 (<8)', 'accuracy 7/10 (<8)']"
+ ],
+ "material": "[20] Hacker News — Old Bitly Links Are Being Hijacked\nURL: https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/\nOld Bitly links hijacked in Burger King, McDonald’s and Trump tweets | Ransomnews Close Menu Home\nUpdate, 15 November, 23:40 UTC: CNN reports redirected Bitly links in old posts from Bill Gates, Justin Trudeau, Mike Pence, the FBI and the US Department of Defense as well. Our third check of the Trump links, at 23:35 UTC, found nothing new: 49 links re-created years after their tweets still work.\nUpdate, 15 November, 22:30 UTC: Bitly has confirmed the problem. In a post on X at 19:13 UTC it said it had identified an issue that “allowed bad actors to repurpose certain old, inactive links” and send people to unrelated content. Bitly said it has suspended the accounts involved and is disabling the affected links. It added that its Trust and Safety team is working on protections against similar misuse.\nEarlier today, we identified an issue that allowed bad actors to repurpose certain old, inactive links to redirect people to content unrelated to the original posts. We have suspended the accounts involved and are disabling the affected links. Our Trust and Safety team is working…\nUpdate, 15 November, 19:30 UTC: The Burger King and McDonald’s links no longer redirect. Both were still working at 15:05 UTC and returned Bitly’s “Link Deactivated” page by 19:22 UTC. The same has happened to the two extra Trump links we verified and to six of the seven links in our sample that pointed somewhere new. The seventh now shows a Bitly warning that the account that created it has been suspended. The 49 re-created links that look like the originals still work.\nBurger King’s X account was not hacked. A Bitly short link in a tweet the chain posted on 24 July 2011 was registered again by someone else on 15 November 2026 and pointed at Wikipedia’s list of Nazi concentration camps. The tweet was advertising a restaurant locator. A post quoting it passed 2 million views within hours, and Burger King’s original has since become unavailable.\nIt was not the only one. Eighteen minutes earlier a Bitly link in a McDonald’s tweet from 7 June 2011 was registered the same way and pointed at Wikipedia’s article on the September 11 attacks. Ransomnews also checked 97 Bitly links in Donald Trump’s tweets from 2009 to 2013, taken from a public archive. Bitly’s own link pages show that 56 were created after the tweets they sit in, and a 57th is blocked by Bitly as malicious or spam. Four were registered on 15 November. Two more, created in January 2024 and January 2025, point at domains that copy the names of crypto services.\nBurger King posted the tweet on 24 July 2011 with the short link bit[.]ly/19BFiM. Bitly’s information page for that link gives a creation time of 05:32 UTC on 15 November 2026 and a destination on Wikipedia.\nA link in a McDonald’s tweet from 7 June 2011, bit[.]ly/mLWJO0, was created again at 05:14 UTC the same morning, 18 minutes before Burger King’s. It opens Wikipedia’s article on the September 11 attacks. Both tweets have since become unavailable.\nNobody posted from either company’s account. The links changed hands on Bitly’s side, so the old tweets send readers wherever the new owners choose.\nOf 97 Bitly links in Donald Trump’s tweets from 2009 to 2013, 40 are still the original. Another 49 were created again later but lead where the tweets suggest, 48 of them in a 17-minute run on 26 May 2023. Seven lead somewhere else and one is blocked by Bitly.\nFour of those seven were registered on 15 November 2026 between 07:49 and 09:57 UTC. They open a Roblox profile, a YouTube video (twice) and a Wikipedia article about Trump and Jeffrey Epstein.\nOne Trump tweet from April 2011 carries three links to videos of his children. All three have been replaced.\nBitly’s help pages say the ending of a bit.ly link cannot be reused, even after the account behind it is deleted. In February 2025 it was reported to have fixed a bug that allowed this.\nWe found no public statement from Bitly, Burger King or McDonald’s by 14:30 UTC on 15 November.\nBy 19:22 UTC both links returned Bitly’s “Link Deactivated” page. None of the seven Trump links that pointed somewhere new redirects any more.\nBitly confirmed the issue on X at 19:13 UTC. It said it has suspended the accounts involved and is disabling the affected links.\nCNN reported the same evening that old posts from Bill Gates, Justin Trudeau, Mike Pence, the FBI and the US Department of Defense were affected too. We have not checked those links ourselves.\nNo. Nothing was posted from Burger King’s account and nothing suggests anyone got into it. The tweet is 15 years old and reads as it always did, pointing followers to “our handy restaurant locator” through a Bitly link. What changed is where that link goes. As with the Microsoft 365 outage three days earlier, the first question people asked was whether it was an attack on the company, and the answer is the same.\nBitly keeps a public information page for every short link. Add a plus sign to the end of the address and it shows where the link points and when it was created. For bit[.]ly/19BFiM that page gives the destination as Wikipedia’s “List of Nazi concentration camps” and the creation time as 15 November 2026, 05:32 UTC. A link printed in a tweet from 2011 can only carry a 2026 creation date if the same ending was issued a second time.\nWe tested the method on links nobody disputes. A link whose creator says he made it in 2009 shows a 2009 creation date. A custom link tweeted by a YouTube channel on 21 June 2017 shows 20 June 2017. Among the Trump links that are still original, 32 of 40 were created on the day of the tweet or the day before.\nThe post that spread it came from an X user at 06:51 UTC, 79 minutes after the link was created, and had 2.2 million views by early afternoon.\nOH LORD https://t.co/QlferLVmNL pic.twitter.com/sk6ceitzXd\nBy 13:45 UTC the Burger King post inside it was showing as unavailable. We do not know whether Burger King removed it or X did. The short link was still redirecting to Wikipedia at 13:47 UTC.\nNo. Its link was changed 18 minutes before Burger King’s. On 7 June 2011 McDonald’s tweeted a Bitly link to something its team in Sweden had done. Bitly’s information page for bit[.]ly/mLWJO0 shows the link was created at 05:14 UTC on 15 November 2026, and it redirects to Wikipedia’s article on the September 11 attacks. The tweet was returning a not-found error when we checked at 14:20 UTC.\nThe two changes are close in time and alike in style. The X user Alex Greenland, who spotted both timestamps, thinks one person or group is probably behind them. Nothing we have seen proves that.\nThis Burger King Bitly link was changed at 05:32 UK time today (15 Nov 2026), which is very close to the change of McDonald's tweet Bitly link at 05:14 today. This means it is likely the same actor or group of actors is making these changes. https://t.co/2gqoms5veu pic.twitter.com/u4OxXaPkn2\nSomeone registers its ending again. The part of a Bitly link after the slash is called the back-half. Bitly genera",
+ "id": "R1-2026-11-16",
+ "caption_final": "How to check if old Bitly links in WhatsApp auto responders and SMS campaigns are safe from link hijacking. Old inactive short links can be re registered by bad actors to redirect your customers to malicious pages. Burger King and McDonald's experienced this with their 2011 Bitly links. Add a plus sign to the end of any Bitly link to inspect its creation date and destination. Comment AUDIT for the step-by-step checklist.\n\n#WhatsAppMarketing #BusinessSecurity #BitlyLinks #SMSSpam #DigitalSafety"
+}

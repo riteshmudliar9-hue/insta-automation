@@ -1,0 +1,357 @@
+{
+ "date": "2026-11-16",
+ "tag": "2026-11-16",
+ "pilot": false,
+ "sources": 106,
+ "ideas": 14,
+ "idea_list": [
+  {
+   "idea": "Auditing old short links in WhatsApp auto-responders and SMS campaigns to prevent link hijacking",
+   "format": "problem_fix",
+   "total": 8.77,
+   "scores": {
+    "relevance": 9,
+    "novelty": 9,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 8,
+    "viral": 9
+   }
+  },
+  {
+   "idea": "Preventing customers from prompt-injecting WhatsApp sales bots into giving unauthorized discounts",
+   "format": "problem_fix",
+   "total": 8.71,
+   "scores": {
+    "relevance": 9,
+    "novelty": 9,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 8,
+    "evidence": 8,
+    "viral": 9
+   }
+  },
+  {
+   "idea": "Preventing automated payment gateway flags when sending first-time high-value invoice links",
+   "format": "problem_fix",
+   "total": 8.67,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 8,
+    "viral": 9
+   }
+  },
+  {
+   "idea": "Self-hosted n8n vs Zapier for high-volume WhatsApp and AI workflows",
+   "format": "manual_vs_auto",
+   "total": 8.55,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 8,
+    "evidence": 9,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Editing vendor PDFs and compress proposal files inside Google Drive using Adobe AI",
+   "format": "tutorial",
+   "total": 8.21,
+   "scores": {
+    "relevance": 9,
+    "novelty": 7,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Automating repetitive logins and invoice downloads on clunky legacy supplier web portals",
+   "format": "demo",
+   "total": 8.08,
+   "scores": {
+    "relevance": 8,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 7,
+    "evidence": 8,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Tracing customer-facing AI agent logs to catch pricing errors before customers do",
+   "format": "checklist",
+   "total": 8.08,
+   "scores": {
+    "relevance": 8,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 8,
+    "evidence": 9,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "Connecting autonomous AI personal assistants (Dots/Duet) to Zapier for instant CRM updating",
+   "format": "tutorial",
+   "total": 7.94,
+   "scores": {
+    "relevance": 8,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 8,
+    "evidence": 9,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "Setting up DPDP-compliant customer consent logging on business web forms and WhatsApp",
+   "format": "checklist",
+   "total": 7.89,
+   "scores": {
+    "relevance": 8,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 7,
+    "save_share": 8,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "Hidden licensing and data privacy risks when using AI coding agents for internal shop apps",
+   "format": "myth_fact",
+   "total": 7.89,
+   "scores": {
+    "relevance": 8,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 9,
+    "evidence": 8,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "Replacing expensive Google Maps API costs with Protomaps for delivery apps",
+   "format": "manual_vs_auto",
+   "total": 7.73,
+   "scores": {
+    "relevance": 7,
+    "novelty": 9,
+    "hook_potential": 8,
+    "retention": 7,
+    "save_share": 8,
+    "feasibility": 7,
+    "evidence": 9,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "Superhuman Docs (formerly Coda) vs Notion for team AI operating systems in 2026",
+   "format": "tool_test",
+   "total": 7.45,
+   "scores": {
+    "relevance": 8,
+    "novelty": 7,
+    "hook_potential": 7,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 9,
+    "evidence": 8,
+    "viral": 6
+   }
+  },
+  {
+   "idea": "Automating visual packaging and damage inspection for dispatches using Gemini Decisions API",
+   "format": "tool_test",
+   "total": 7.4,
+   "scores": {
+    "relevance": 7,
+    "novelty": 9,
+    "hook_potential": 7,
+    "retention": 7,
+    "save_share": 8,
+    "feasibility": 7,
+    "evidence": 9,
+    "viral": 6
+   }
+  },
+  {
+   "idea": "Automating real-time competitor social tracking using Grok AI agents on Zapier",
+   "format": "demo",
+   "total": 7.1,
+   "scores": {
+    "relevance": 7,
+    "novelty": 8,
+    "hook_potential": 7,
+    "retention": 7,
+    "save_share": 7,
+    "feasibility": 8,
+    "evidence": 8,
+    "viral": 6
+   }
+  }
+ ],
+ "rejected_ideas": [],
+ "items": [
+  {
+   "id": "R1-2026-11-16",
+   "kind": "reel",
+   "format": "problem_fix",
+   "topic": "Auditing old short links in WhatsApp auto-responders and SMS campaigns to prevent link hijacking",
+   "hook": "Purane Bitly links se aapke customers scam ho sakte hain.",
+   "approved": false,
+   "attempts": 2,
+   "scores": {
+    "hook": 8,
+    "originality": 8,
+    "practical_value": 9,
+    "natural_language": 8,
+    "accuracy": 10,
+    "narrative": 8,
+    "visual_integrity": 7,
+    "pacing": 8,
+    "brand_consistency": 9,
+    "publish_readiness": 7
+   },
+   "reasons": [
+    "visual_integrity 7/10 (<8)",
+    "reel is 69.3 s long (max 45 s; aim for 15-35 s)"
+   ],
+   "log": [
+    "attempt 1: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['scene 3: compare needs rows', 'reel is 59.8 s long (max 45 s; aim for 15-35 s)']",
+    "attempt 2: fail {'hook': 8, 'originality': 8, 'practical_value': 9, 'natural_language': 8, 'accuracy': 10, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['visual_integrity 7/10 (<8)', 'reel is 69.3 s long (max 45 s; aim for 15-35 s)']",
+    "attempt 3: fail {'hook': 7, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 7} ['hook 7/10 (<8)', 'originality 7/10 (<8)', \"spelling: Scene 2 visual table: 'McDonalds 2011' missing apostrophe ('McDonald's 2011').\"]",
+    "attempt 4: fail {'hook': 7, 'originality': 7, 'practical_value': 8, 'natural_language': 7, 'accuracy': 7, 'narrative': 7, 'visual_integrity': 6, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 6} ['hook 7/10 (<8)', 'originality 7/10 (<8)', 'natural_language 7/10 (<8)', 'accuracy 7/10 (<8)']"
+   ],
+   "dir": "output/2026-11-16/R1-2026-11-16/try2",
+   "duration": 69.3,
+   "voice": "gemini"
+  },
+  {
+   "id": "R2-2026-11-16",
+   "kind": "reel",
+   "format": "manual_vs_auto",
+   "topic": "Self-hosted n8n vs Zapier for high-volume WhatsApp and AI workflows",
+   "hook": "High volume AI workflows ke mehenge bills se pareshan ho? Ye dekho.",
+   "approved": false,
+   "attempts": 3,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 8,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 7,
+    "pacing": 8,
+    "brand_consistency": 9,
+    "publish_readiness": 7
+   },
+   "reasons": [
+    "originality 7/10 (<8)",
+    "visual_integrity 7/10 (<8)"
+   ],
+   "log": [
+    "attempt 1: fail {'hook': 7, 'originality': 6, 'practical_value': 7, 'natural_language': 7, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 6, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 6} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 7/10 (<8)', 'natural_language 7/10 (<8)']",
+    "attempt 2: render failed (No audio was received. Please verify that your parameters are correct.)",
+    "attempt 3: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+    "attempt 4: fail {'hook': 7, 'originality': 7, 'practical_value': 7, 'natural_language': 8, 'accuracy': 10, 'narrative': 7, 'visual_integrity': 6, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 7} ['hook 7/10 (<8)', 'originality 7/10 (<8)', 'practical_value 7/10 (<8)', 'narrative 7/10 (<8)']"
+   ],
+   "dir": "output/2026-11-16/R2-2026-11-16/try3",
+   "duration": 34.5,
+   "voice": "edge"
+  },
+  {
+   "id": "R3-2026-11-16",
+   "kind": "reel",
+   "format": "tutorial",
+   "topic": "Editing vendor PDFs and compress proposal files inside Google Drive using Adobe AI",
+   "hook": "Google Drive me PDF edit karne ke liye tabs switch karna band karo.",
+   "approved": false,
+   "attempts": 4,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 8,
+    "natural_language": 9,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 7,
+    "pacing": 8,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [
+    "originality 7/10 (<8)",
+    "visual_integrity 7/10 (<8)"
+   ],
+   "log": [
+    "attempt 1: render failed (No audio was received. Please verify that your parameters are correct.)",
+    "attempt 2: fail {'hook': 8, 'originality': 6, 'practical_value': 7, 'natural_language': 8, 'accuracy': 8, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['originality 6/10 (<8)', 'practical_value 7/10 (<8)']",
+    "attempt 3: fail {'hook': 6, 'originality': 5, 'practical_value': 6, 'natural_language': 7, 'accuracy': 5, 'narrative': 6, 'visual_integrity': 6, 'pacing': 6, 'brand_consistency': 8, 'publish_readiness': 5} ['hook 6/10 (<8)', 'originality 5/10 (<8)', 'practical_value 6/10 (<8)', 'natural_language 7/10 (<8)']",
+    "attempt 4: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 9, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['originality 7/10 (<8)', 'visual_integrity 7/10 (<8)']"
+   ],
+   "dir": "output/2026-11-16/R3-2026-11-16/try4",
+   "duration": 29.0,
+   "voice": "edge"
+  },
+  {
+   "id": "C1-2026-11-16",
+   "kind": "carousel",
+   "format": "problem_fix",
+   "topic": "Preventing customers from prompt-injecting WhatsApp sales bots into giving unauthorized discounts",
+   "hook": "How to stop buyers from tricking your WhatsApp pricing bot",
+   "approved": true,
+   "attempts": 1,
+   "scores": {
+    "hook": 8,
+    "originality": 9,
+    "practical_value": 8,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 9,
+    "pacing": 9,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [],
+   "log": [
+    "attempt 1: PASS {'hook': 8, 'originality': 9, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} []"
+   ],
+   "dir": "output/2026-11-16/C1-2026-11-16/try1",
+   "duration": null,
+   "voice": null
+  }
+ ],
+ "llm_calls": {
+  "text": 25,
+  "tts": 28,
+  "failed": 0
+ }
+}

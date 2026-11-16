@@ -788,5 +788,21 @@
   "status": "published",
   "media_id": "18123030887060118",
   "permalink": "https://www.instagram.com/p/Dfv1fU4FIOi/"
+ },
+ {
+  "id": "C1-2026-11-16",
+  "date": "2026-11-16",
+  "kind": "carousel",
+  "format": "problem_fix",
+  "topic": "Preventing customers from prompt-injecting WhatsApp sales bots into giving unauthorized discounts",
+  "hook": "How to stop buyers from tricking your WhatsApp pricing bot",
+  "keywords": [
+   "whatsapp sales bot",
+   "prompt injection",
+   "reverse game theory",
+   "ai pricing bot",
+   "customer service automation"
+  ],
+  "status": "queued"
  }
 ]

@@ -4462,5 +4462,48 @@
   "media_id": "18123030887060118",
   "permalink": "https://www.instagram.com/p/Dfv1fU4FIOi/",
   "published_at": "2026-11-15T09:09:15.848690+05:30"
+ },
+ {
+  "id": "C1-2026-11-16",
+  "kind": "carousel",
+  "date": "2026-11-16",
+  "slot": "2026-11-16T09:00",
+  "dir": "output/2026-11-16/C1-2026-11-16/try1",
+  "files": [
+   "slide_01.jpg",
+   "slide_02.jpg",
+   "slide_03.jpg",
+   "slide_04.jpg",
+   "slide_05.jpg",
+   "slide_06.jpg"
+  ],
+  "caption": "How to protect your WhatsApp business pricing bot from prompt injection hacks. If you use an AI sales bot to handle customer inquiries, buyers can sometimes manipulate the system prompt to demand unapproved bulk discounts. Relying on a single prompt to keep the bot honest does not work consistently. AI models can bypass internal rules or misinterpret constraints when users push them with clever phrasing. Instead, adopt mechanism design principles from MIT research. Build a two-agent setup where one AI generates the quote and a second AI auditor cross-checks it against your strict margin limits before any message goes out to the client. Have you faced customers trying to trick your auto-reply pricing bots?\n\n#WhatsAppAutomation #BusinessAI #PromptEngineering #SmallBusinessIndia #AIGuardrails",
+  "topic": "Preventing customers from prompt-injecting WhatsApp sales bots into giving unauthorized discounts",
+  "format": "problem_fix",
+  "hook": "How to stop buyers from tricking your WhatsApp pricing bot",
+  "keywords": [
+   "whatsapp sales bot",
+   "prompt injection",
+   "reverse game theory",
+   "ai pricing bot",
+   "customer service automation"
+  ],
+  "scores": {
+   "hook": 8,
+   "originality": 9,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "status": "queued",
+  "produced_at": 1794790313,
+  "log": [],
+  "dm_keyword": "",
+  "dm_text": ""
  }
 ]
