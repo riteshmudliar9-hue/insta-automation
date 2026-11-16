@@ -4500,10 +4500,15 @@
    "brand_consistency": 9,
    "publish_readiness": 8
   },
-  "status": "queued",
+  "status": "published",
   "produced_at": 1794790313,
-  "log": [],
+  "log": [
+   "2026-11-16T09:23:27.126425+05:30 published https://www.instagram.com/p/Dfyb6bpG2eG/"
+  ],
   "dm_keyword": "",
-  "dm_text": ""
+  "dm_text": "",
+  "media_id": "18435986434148993",
+  "permalink": "https://www.instagram.com/p/Dfyb6bpG2eG/",
+  "published_at": "2026-11-16T09:23:27.126425+05:30"
  }
 ]
