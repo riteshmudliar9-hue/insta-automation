@@ -1,0 +1,282 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Instant 60-Second WhatsApp/SMS Lead Follow-Up System for Contractors",
+  "angle": "How small service contractors lose half their leads by taking hours to reply, and how to set up an automated instant SMS/WhatsApp response trigger.",
+  "audience_problem": "Local contractors and trade businesses lose prospective clients because they reply to web form inquiries hours late while working on client sites.",
+  "format": "problem_fix",
+  "medium": "reel",
+  "source_ids": [
+   63,
+   69
+  ],
+  "evergreen": true,
+  "keywords": [
+   "lead automation",
+   "SMS automation",
+   "contractor leads",
+   "Zapier",
+   "form follow-up"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 7,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 9,
+   "evidence": 9,
+   "viral": 8
+  },
+  "total": 8.5
+ },
+ "piece": {
+  "hooks": [
+   "Site pe busy rehne se client leads miss ho rahi hain? Ye dekho.",
+   "Website form fill hote hi instant SMS bhejne ka trigger set karo.",
+   "Client inquiries par manually follow-up kar rahe ho? Iska automatic fix dekho.",
+   "New lead aate hi 60 second mein instant text reply kaise bhejein?",
+   "Form submit hote hi client ko automatic SMS bhejne ka tarika dekho."
+  ],
+  "chosen_hook": 2,
+  "hook_reason": "Directly targets local contractors struggling with manual lead follow-ups and offers a clear problem-fix transition.",
+  "title": "Instant 60-Second SMS Lead Follow-Up System",
+  "scenes": [
+   {
+    "purpose": "Highlight the problem of lost leads due to delayed manual replies.",
+    "narration": "Client inquiries par manually follow-up kar rahe ho? Iska automatic fix dekho.",
+    "on_screen": "Delayed replies equal lost leads",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "Manual Follow-up",
+    "right_label": "Instant Auto SMS",
+    "rows": [
+     {
+      "left": "Hours late reply",
+      "right": "Instant response"
+     },
+     {
+      "left": "Client lost",
+      "right": "Lead captured"
+     }
+    ]
+   },
+   {
+    "purpose": "Explain how Zapier connects form triggers to SMS messaging tools.",
+    "narration": "Zapier aapke web form ko Twilio ya SMS service se connect kar deta hai.",
+    "on_screen": "Connect form with SMS tool",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "Form Submitted",
+     "Zapier Triggers",
+     "SMS Sent"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Show how to set up the automation using AI assistants like ChatGPT or Claude.",
+    "narration": "Claude ya ChatGPT mein Zapier add karke sirf plain English prompt likho.",
+    "on_screen": "Use AI Prompt in ChatGPT",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Add Zapier MCP to ChatGPT",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Provide a copy-paste prompt string for immediate user execution.",
+    "narration": "Prompt do: When someone fills my contact form, send them SMS via Zapier.",
+    "on_screen": "Copy-paste exact Zapier prompt",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "When form submits text lead",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "State the technical reliability and 24/7 background execution of Zapier.",
+    "narration": "Zapier background mein chalega, laptop band hone par bhi text chala jayega.",
+    "on_screen": "Runs 24/7 in background",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "No laptop required",
+     "9000 plus app support",
+     "Self fixing error logs"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Deliver the payoff and single comment call to action.",
+    "narration": "Comment LEAD, main aapko setup steps aur prompt text DM kar dunga.",
+    "on_screen": "Comment LEAD for steps",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Instant SMS setup",
+     "Exact prompt template",
+     "Zapier workflow steps"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "How to automate SMS lead follow up for small businesses in India. When prospective clients submit inquiries on your contact form while you are busy on site, replying hours late loses the lead. Connect Zapier to your AI assistant like ChatGPT or Claude. Write a simple prompt: 'When someone fills out my website contact form, text them a confirmation via SMS by Zapier'. Zapier builds the Zap, connects your form to Twilio or SMS by Zapier, and sends texts instantly 24/7 even when your laptop is off. Which form tool do you currently use for leads? Comment LEAD for the full setup guide.",
+  "hashtags": [
+   "#Zapier",
+   "#SMSAutomation",
+   "#LeadGeneration",
+   "#SmallBusinessIndia",
+   "#WorkflowAutomation"
+  ],
+  "keywords": [
+   "SMS automation",
+   "lead follow up",
+   "Zapier contact form",
+   "contractor lead response",
+   "automated SMS trigger"
+  ],
+  "claims": [
+   {
+    "claim": "SMS messaging provides an immediate, reliable way to engage leads and follow up on form submissions.",
+    "source_id": 63
+   },
+   {
+    "claim": "You can add Zapier to Claude, ChatGPT, or Cursor as a connector or MCP server to build automations using plain prompts.",
+    "source_id": 63
+   },
+   {
+    "claim": "Zapier automations run on triggers like form submissions and keep working after the chat is closed or when your laptop is off.",
+    "source_id": 63
+   },
+   {
+    "claim": "Zapier connects across 9,000+ apps including form tools, CRMs, Twilio, and SMS by Zapier.",
+    "source_id": 63
+   },
+   {
+    "claim": "Contact form automations send instant responses so submitters hear back while they are still paying attention.",
+    "source_id": 69
+   }
+  ],
+  "dm_keyword": "LEAD",
+  "dm_text": "Here is your 3-step Instant Lead Follow-Up Setup: 1. Add Zapier to your AI tool (Claude, ChatGPT, or Cursor) as a connector. 2. Give this exact prompt: 'When someone fills out my website contact form, text them a confirmation using SMS by Zapier or Twilio.' 3. Review the Zap created by your AI agent and deploy it. It will run automatically 24/7 even when your laptop is off. Read the full guide here: https://zapier.com/blog/sms-messaging-automation"
+ },
+ "review": {
+  "scores": {
+   "hook": 7,
+   "originality": 6,
+   "practical_value": 7,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 8,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 7
+  },
+  "claims": [
+   {
+    "claim": "SMS messaging provides an immediate, reliable way to engage leads and follow up on form submissions.",
+    "supported": true,
+    "note": "Supported by Source 63."
+   },
+   {
+    "claim": "You can add Zapier to Claude, ChatGPT, or Cursor as a connector or MCP server to build automations using plain prompts.",
+    "supported": true,
+    "note": "Supported by Sources 63 and 69."
+   },
+   {
+    "claim": "Zapier automations run on triggers like form submissions and keep working after the chat is closed or when your laptop is off.",
+    "supported": true,
+    "note": "Supported by Sources 63 and 69."
+   },
+   {
+    "claim": "Zapier connects across 9,000+ apps including form tools, CRMs, Twilio, and SMS by Zapier.",
+    "supported": true,
+    "note": "Supported by Source 63."
+   },
+   {
+    "claim": "Contact form automations send instant responses so submitters hear back while they are still paying attention.",
+    "supported": true,
+    "note": "Supported by Source 69."
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Scene 3 and Scene 4 visual cards contain very little text and large empty white space inside the card frame compared to the rich cards in Scenes 1, 2, 5, and 6.",
+   "Scene 4 on-screen headline 'When form submits text lead' is missing punctuation and reads awkwardly on the card."
+  ],
+  "issues": [
+   "The prompt shown in Scene 4 on-screen headline is truncated ('When form submits text lead') compared to the full prompt spoken in narration ('When someone fills my contact form, send them SMS via Zapier')."
+  ],
+  "fix_instructions": "1. In Scene 4 card headline, format the exact copy-paste prompt in full with quote box styling: 'When someone fills out my form, text them an SMS via Zapier'. 2. Update '9000 plus app support' in Scene 5 card to '9,000+ app support' to match standard brand formatting."
+ },
+ "rules": [],
+ "reasons": [
+  "hook 7/10 (<8)",
+  "originality 6/10 (<8)",
+  "practical_value 7/10 (<8)"
+ ],
+ "meta": {
+  "duration": 34.1,
+  "voice": "edge",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-17/R1-2026-11-17/try4/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-17/R1-2026-11-17/try4/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-17/R1-2026-11-17/try4/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-17/R1-2026-11-17/try4/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-17/R1-2026-11-17/try4/scene_05.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-17/R1-2026-11-17/try4/scene_06.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   5.99,
+   5.65,
+   5.41,
+   6.26,
+   5.6,
+   5.2
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-17/R1-2026-11-17/try4",
+ "attempt": 4,
+ "approved": false,
+ "hook": "Client inquiries par manually follow-up kar rahe ho? Iska automatic fix dekho.",
+ "log": [
+  "attempt 1: fail {'hook': 7, 'originality': 6, 'practical_value': 7, 'natural_language': 7, 'accuracy': 8, 'narrative': 7, 'visual_integrity': 8, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 7} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 7/10 (<8)', 'natural_language 7/10 (<8)']",
+  "attempt 2: fail {'hook': 8, 'originality': 7, 'practical_value': 7, 'natural_language': 8, 'accuracy': 8, 'narrative': 8, 'visual_integrity': 6, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['scene 5: screenshot must be a product page from the sources, not an article', 'originality 7/10 (<8)', 'practical_value 7/10 (<8)', 'visual_integrity 6/10 (<8)']",
+  "attempt 3: fail {'hook': 7, 'originality': 6, 'practical_value': 6, 'natural_language': 8, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 6, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 6} ['scene 6 narration 19 words (want 4-14)', 'hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 6/10 (<8)']",
+  "attempt 4: fail {'hook': 7, 'originality': 6, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 7/10 (<8)']"
+ ],
+ "material": "[63] Zapier Blog — Guide to SMS automation\nURL: https://zapier.com/blog/sms-messaging-automation\nHow to automate your text messages with Zapier\nWhether you're engaging leads, following up on form submissions, or sending critical reminders, text messages cut through the noise of crowded email inboxes and provide an immediate, reliable way to reach your audience. But manually managing these messages isn't a smart plan if you want to scale your business. That's where automation comes in.\nBy pairing SMS tools with Zapier, you can seamlessly integrate texting into your workflows so the right messages reach the right people at the right time. From sending automated reminders for calendar events to instantly following up with leads, automating SMS allows you to deliver critical updates while saving time and reducing manual work.\nYou can set all of this up from the AI tool you already use. Add Zapier to Claude, ChatGPT, or Cursor, tell your agent which text should go out and when, and it builds the automation. Zapier then keeps sending those texts after the chat is closed. And if you'd rather build in Zapier itself, you can do that too.\nWhether you're managing customer relationships, team coordination, or personal productivity, Zaps will help you stay organized, responsive, and on top of what matters most. Let's dive into how SMS automation can transform your communication strategy and keep you one step ahead.\nBuild automations from wherever you work. Describe the outcome you want, and Zapier connects your tools, runs the steps, and stays on the job after you close the chat. Combine AI with reliable, deterministic automation across 9,000+ apps. Get started for free.\nBuild SMS automations from your AI assistant\nSMS automations to ask your agent to build\nSMS automation is the use of software to send text messages automatically. It can mean sending messages based on a trigger, like a form submission, a calendar event, or a new row in a spreadsheet sets it off, or it can fire on a schedule you choose. You set the rule once, and the right text goes to the right person without anyone typing it out.\nCustomers and leads get confirmations, reminders, and follow-ups, while your own team gets alerts about urgent emails, new orders, or system updates, so nothing waits on someone remembering to hit send.\nBuild SMS automations from your AI assistant\nHere's how it works when you start from your AI tool:\nConnect Zapier with your AI tool. Add Zapier to your AI assistant as a connector or a custom MCP server, and connect the apps you use, like Twilio, Google Sheets, Gmail, and Google Calendar. You connect once, and the same connections work from Claude, ChatGPT, Cursor, or any AI tool you like.\nDescribe the text you want sent. Tell your agent what should trigger it, who gets it, and what it says: \"When someone books a call on Calendly, text them a confirmation with the time and the join link.\"\nYour agent turns it into a Zap. A Zap is an automated workflow that runs on its own. Your agent drafts it, deploys it to Zapier, and shows you what it built before anything goes live.\nZapier sends the texts. The Zap starts the moment the booking, form submission, or new row shows up, and it keeps going whether or not your laptop is open.\nBecause Zapier connects to 9,000+ apps, your texts can be triggered by almost anything in your stack, from a CRM to a custom app.\nYou could ask your AI tool to text people on its own. Building the automation on Zapier gets you a few things chat alone can't:\nIt starts when something happens. A scheduled task inside an AI tool runs at a set time, whether or not anything came up. A Zap can start on a schedule, or it can start when a registration comes in, a lead is created, or an appointment is booked, so the confirmation lands while the person is still paying attention.\nIt reaches your whole stack. Zapier connects to 9,000+ apps, so a text can be triggered by your calendar, your CRM, your spreadsheets, your help desk, or a webhook from a tool Zapier doesn't have a built-in connection to. Chat connectors tend to stop at the most popular apps.\nIt runs the same way every time. A reminder Zap sends the same text at the same point before every appointment, on a quiet Tuesday or a packed Friday. Zaps use AI only for steps that need judgment, like deciding whether an inbound reply is a complaint or a question, and run everything else as plain steps. Zapier calls this fluid determinism: AI where the work needs judgment, regular steps everywhere else.\nIt fixes itself. If your Twilio connection expires or a column in your Google Sheet gets renamed, your reminders shouldn't quietly stop and leave people uninformed. Zapier logs every run, finds the problem when something breaks, and proposes a fix you can approve, or lets Zapier apply fixes on its own. Over time it can also turn repeated AI steps into regular ones, so your Zaps get cheaper and steadier the longer they run.\nYour agent gets access, not your keys. Zapier manages the connections to Twilio, WhatsApp, Gmail, and the rest, so you never paste API keys or auth tokens into a chat. Switch from Claude to ChatGPT, or try a new AI tool, and your connections stay put. Everything you build, from any AI tool, shows up in one place in Zapier.\nSMS automations to ask your agent to build\nNot sure where to start? Try one of these prompts in Claude, ChatGPT, or Cursor with Zapier connected.\nSend shipping updates. \"When an order ships in Shopify, text the customer their tracking link.\"\nAlert the on-call person. \"When a Zendesk ticket is marked high priority, text whoever is on call the subject line and a link to the ticket.\"\nNudge failed payments. \"When a payment fails in Stripe, text the customer a friendly note with a link to update their card.\"\nSort replies by what they say. \"When a customer replies to my Twilio number, have AI decide whether it's a question, a complaint, or a thank-you, and post it in the matching Slack channel.\" This is a Zap that uses AI only where judgment is needed: reading the reply is the AI step, and the Slack post is a regular step.\nStart the week with your due dates. \"Every Friday at 4 p.m., text me the tasks in Asana that are due next week.\"\nWould you rather start from a template? The Zaps below are pre-made for common text message automations. Click \"Try it\" on any of them to open it in Zapier and set it up there. If you'd rather have your agent build the automation for you, use one of the prompts above instead.\nAutomating texts from form submissions is a great way to engage with your respondents and provide follow-up information. Imagine you're running an event and using Typeform, Jotform, or Google Forms for registrations. As soon as someone submits their details, you can automatically trigger an SMS confirmation to their phone using tools like SMS by Zapier , WhatsApp , or Twilio . This text can include important event details like the date, time, and location so registrants have everything they need.\nSimilarly, if you're collecting customer inquiries via a form, you could send an automated text lettin\n\n[69] Zapier Blog — How to follow up on contact forms faster with automation\nURL: https://zapier.com/blog/automate-contact-form\nContact forms provide an accessible, user-friendly way to get info from potential clients and customers. They're useful, but if their responses remain stuck in your form submission tool, powerful information can quickly go to waste.\nIf you connect forms to your other apps, you can turn these entries into business growth drivers.\nYou can set that up from the AI assistant you already use: add Zapier to it, tell your agent where each submission should go, and it builds the automation. Zapier keeps it running after the chat is closed, getting the details from your form tool into the places where you connect with customers and plan your work. And if you'd rather build in Zapier itself, you can do that too.\nBuild automations from wherever you work. Describe the outcome you want, and Zapier connects your tools, runs the steps, and stays on the job after you close the chat. Combine AI with reliable, deterministic automation across 9,000+ apps. Get started for free.\nBuild contact form automations from your AI assistant\nContact form automations to ask your agent to build\nContact form automation with Zap templates\nContact form automation is using software to handle what happens after someone hits submit: replying to them, logging them in your CRM, alerting your team, and filing their message where it belongs, without anyone copying details by hand.\nInstead of checking your form tool's inbox, each submission kicks off a chain of steps, like an instant reply, a new contact in your CRM, a Slack alert, or a row in a spreadsheet. The same form can bring in a sales lead, a support request, and product feedback, and each one ends up in the right tool.\nBuild contact form automations from your AI assistant\nHere's how a new contact form submission goes wherever you need it, automatically:\nConnect Zapier with your AI tool. Add Zapier to your AI assistant as a connector or a custom MCP server, and connect the apps you use, like Typeform, Google Forms, Gmail, and HubSpot. You connect once, and the same connections work from Claude, ChatGPT, Cursor, or any AI tool you like.\nDescribe the job. Tell your agent what should happen in plain language: \"When someone fills out my contact form, email them a thank-you, add them to HubSpot, and post their message in #leads in Slack.\"\nYour agent turns it into a Zap. A Zap is an automated workflow that runs on its own. Your agent drafts it, deploys it to Zapier, and shows you what it built.\nZapier runs it. The Zap starts the moment a submission comes in, so the reply goes out while the lead is still thinking about you, and it keeps running whether or not your laptop is open.\nBecause Zapier connects to 9,000+ apps, the same submission can reach whichever form tool, CRM, and chat app your team uses.\nYour AI assistant can read a form submission and draft a reply, but only while you're chatting with it. Building on Zapier adds a few things chat alone can't:\nIt starts when something happens. Scheduled tasks inside an AI tool run at set times, whether or not anyone filled out your form. A Zap starts the moment a submission lands, so a new lead hears back in seconds instead of whenever the next check happens.\nIt reaches your whole stack. Zapier connects to 9,000+ apps. That means it can turn a Typeform response into a lead in Salesforce or a Gravity Forms entry into a Trello card—whatever apps you use.\nIt runs the same way every time. Every submission gets the same thank-you, the same CRM record, and the same Slack alert, at 2 a.m. or 2 p.m. Zaps use AI only for steps that need judgment, like telling a sales inquiry from a support request, and run everything else as regular steps, which are faster and cheaper.\nIt fixes itself. If your Typeform connection expires or a HubSpot field gets renamed, submissions could pile up unanswered. Zapier finds the problem and proposes a fix you can approve, or applies fixes on its own if you let it. Repeated AI steps, like sorting inquiries by type, can also become regular steps over time.\nYour agent gets access, not your keys. Zapier manages the logins to your form tool, inbox, and CRM, so you never paste passwords or API keys into a chat. Switch AI tools and your connections stay put, and every Zap you build, from any AI tool, shows up in one place in Zapier.\nYou could instead have your agent write a script that checks your form for new entries, and the first version will likely work. But the script needs somewhere to run, a way to learn about new submissions, and someone to keep it alive. And it stops quietly when a login expires or the form tool changes its API. With Zapier, your agent builds the Zap, and Zapier hosts it, runs it from real triggers (a form submission, a webhook, or a schedule), and keeps your connections working.\nContact form automations to ask your agent to build\nTry any of these with Zapier connected to Claude, ChatGPT, or Cursor.\nReply right away and loop in the team. \"When someone submits my website contact form, email them a thank-you that mentions what they asked about, and post the details in #leads in Slack.\"\nRoute each message by what it needs. \"When a contact form comes in, decide whether it's a sales inquiry, a support request, or feedback. Add sales inquiries to HubSpot, create a Zendesk ticket for support requests, and save feedback to a Google Sheet.\" This is a good example of using AI only where judgment is needed: sorting the message is the AI step, and the CRM record, ticket, and spreadsheet row are regular steps.\nBook the meeting. \"When a Typeform response marks the lead as high priority, draft a Gmail message with my scheduling link and add a reminder to Google Calendar to follow up in two days.\"\nKeep your CRM clean. \"When a form entry arrives with an email that's already in Salesforce, update that contact instead of creating a duplicate.\"\nGet a weekly read on what people are saying. \"Every Friday at 4 p.m., summarize this week's contact form submissions by topic and email me the summary.\"\nContact form automation with Zap templates\nPrefer to start from a template? The Zap templates below are pre-made Zaps for the most common contact form workflows. Click \"Try it\" on any of them to open it in Zapier and set it up there. If you'd rather have your agent build the automation for you, use one of the prompts above instead.\nSome of your biggest sales won't say yes—at least not at first.\nTo keep those leads warm , you can use Zaps to instantly follow up, easily update your team, or automatically set up a call.\nOnce you connect your apps on Zapier, you can automate your form response process, so submitters get a response to their forms as soon as they contact you.\nSend email via Gmail for new Google Forms submissions\nSend Microsoft Outlook emails for new responses in Google Forms spreadsheets\nGet email notifications or send follow-ups to new Typeform respondents\nSend emails from Gmail for new Gravity Forms submissions\nLearn more: How to automatically send personalized emails to new leads that fill ",
+ "id": "R1-2026-11-17",
+ "caption_final": "How to automate SMS lead follow up for small businesses in India. When prospective clients submit inquiries on your contact form while you are busy on site, replying hours late loses the lead. Connect Zapier to your AI assistant like ChatGPT or Claude. Write a simple prompt: 'When someone fills out my website contact form, text them a confirmation via SMS by Zapier'. Zapier builds the Zap, connects your form to Twilio or SMS by Zapier, and sends texts instantly 24/7 even when your laptop is off. Which form tool do you currently use for leads? Comment LEAD for the full setup guide.\n\n#Zapier #SMSAutomation #LeadGeneration #SmallBusinessIndia #WorkflowAutomation"
+}

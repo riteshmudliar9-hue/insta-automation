@@ -1,0 +1,233 @@
+{
+ "kind": "carousel",
+ "idea": {
+  "idea": "Free Computer Science & Automation Courses from Carnegie Mellon on YouTube",
+  "angle": "Skip expensive tech bootcamps: access Carnegie Mellon's university-grade Python and computer science courses completely free on YouTube.",
+  "audience_problem": "Small business owners and non-tech founders pay heavy course fees for basic programming and automation skills that elite universities provide for free.",
+  "format": "checklist",
+  "medium": "carousel",
+  "source_ids": [
+   23
+  ],
+  "evergreen": true,
+  "keywords": [
+   "CMU YouTube",
+   "free coding course",
+   "learn Python free",
+   "automation training",
+   "up-skilling"
+  ],
+  "scores": {
+   "relevance": 8,
+   "novelty": 8,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 10,
+   "feasibility": 10,
+   "evidence": 10,
+   "viral": 8
+  },
+  "total": 8.78
+ },
+ "piece": {
+  "hooks": [
+   "Learn coding for free from Carnegie Mellon University",
+   "Stop paying for basic programming and automation courses",
+   "Get university-grade automation training for zero rupees"
+  ],
+  "chosen_hook": 2,
+  "hook_reason": "It addresses the pain point of wasted business expenses on 'tech bootcamps' while offering a high-authority, free alternative directly to the owner.",
+  "slides": [
+   {
+    "kind": "cover",
+    "title": "Stop paying for basic programming and automation courses",
+    "subtitle": "Use Carnegie Mellon’s free university-grade computer science resources instead.",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "point",
+    "title": "Why skip the bootcamps?",
+    "subtitle": "Avoid unnecessary costs",
+    "body": "Many expensive private courses cover fundamentals that elite universities like Carnegie Mellon now provide for free on YouTube. Access the same faculty-led curriculum without the high price tag.",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "checklist",
+    "title": "What you can learn",
+    "subtitle": "Practical skills for your business",
+    "body": "Focus on these areas to help digitize your shop or office operations.",
+    "items": [
+     "Python basics for automating Excel reports",
+     "Systems logic to organize digital stock registers",
+     "AI foundations to understand modern automation tools",
+     "Robotics principles for warehouse efficiency",
+     "Data management for better customer records"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "steps",
+    "title": "How to start learning",
+    "subtitle": "Follow these steps to access materials",
+    "body": "",
+    "items": [
+     "Visit the official Carnegie Mellon CS Learn website",
+     "Browse the available course list from seven departments",
+     "Subscribe to their YouTube channel for lecture videos",
+     "Complete lessons built from actual university coursework"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "mythfact",
+    "title": "Important limitations",
+    "subtitle": "Know what to expect",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "AI tutoring is ready to use today.",
+    "fact": "AI tutoring is an upcoming feature intended to help you work through questions, not a live tool available at this exact moment.",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "summary",
+    "title": "Your path forward",
+    "subtitle": "Actionable next steps",
+    "body": "",
+    "items": [
+     "Use YouTube for free academic-level foundation training",
+     "Go to CMU Online for graded, official credentials",
+     "Check CMU Executive Education for your professional team",
+     "Focus on specific skills that fix your current bottlenecks"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   }
+  ],
+  "caption": "Stop wasting money on generic online bootcamps for basic tech skills. Carnegie Mellon University has opened its computer science classrooms to the public on YouTube. You get access to lectures on AI, robotics, and systems taught by the same faculty that leads the field. Whether you want to learn Python to automate your daily GST invoice reporting or need to understand how database systems work for your inventory, this is the gold standard for learning. Note that while the lectures are free, official credentials and graded work require using the CMU Online portal. Start by identifying one specific repetitive task in your shop, then find the corresponding course. Which business process are you trying to automate first? #SmallBusinessIndia #AutomationTips #LearnCoding #BusinessGrowth #TechSkills",
+  "hashtags": [
+   "#SmallBusinessIndia",
+   "#AutomationTips",
+   "#LearnCoding",
+   "#BusinessGrowth",
+   "#TechSkills"
+  ],
+  "keywords": [
+   "Carnegie Mellon free courses",
+   "learn Python for business",
+   "automation for small business",
+   "free computer science training",
+   "CMU YouTube courses"
+  ],
+  "claims": [
+   {
+    "claim": "Carnegie Mellon offers full classroom lectures from faculty on YouTube for free.",
+    "source_id": 23
+   },
+   {
+    "claim": "The courses cover fields including AI, robotics, systems, and biology.",
+    "source_id": 23
+   },
+   {
+    "claim": "AI tutoring is an upcoming feature designed to help students work through questions.",
+    "source_id": 23
+   },
+   {
+    "claim": "Graded work and official credentials are provided through CMU Online.",
+    "source_id": 23
+   }
+  ]
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 8,
+   "practical_value": 9,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 9,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "Carnegie Mellon offers full classroom lectures from faculty on YouTube for free.",
+    "supported": true
+   },
+   {
+    "claim": "The courses cover fields including AI, robotics, systems, and biology.",
+    "supported": true
+   },
+   {
+    "claim": "AI tutoring is an upcoming feature designed to help students work through questions.",
+    "supported": true
+   },
+   {
+    "claim": "Graded work and official credentials are provided through CMU Online.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Slide 1: The screenshot at the bottom is slightly generic and doesn't clearly show the 'YouTube' or 'free' aspect, which is the core value proposition."
+  ],
+  "issues": [
+   "The carousel is very strong, but the call to action in the caption could be more specific to encourage engagement (e.g., 'Comment 'CMU' and I'll DM you the link')."
+  ],
+  "fix_instructions": "The content is excellent and ready for publication. For future iterations, ensure the screenshot on the cover slide is more descriptive of the actual resource (e.g., a shot of the YouTube channel interface). In the caption, add a clear 'Comment' CTA to boost algorithm performance for the Indian SMB audience."
+ },
+ "rules": [],
+ "reasons": [],
+ "meta": {
+  "ai_visuals": false,
+  "slides": 6
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-17/C1-2026-11-17/try2",
+ "attempt": 2,
+ "approved": true,
+ "hook": "Get university-grade automation training for zero rupees",
+ "log": [
+  "attempt 1: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+  "attempt 2: PASS {'hook': 8, 'originality': 8, 'practical_value': 9, 'natural_language': 8, 'accuracy': 9, 'narrative': 9, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} []"
+ ],
+ "material": "[23] Hacker News — Carnegie Mellon is putting computer science courses on YouTube for free\nURL: https://www.cs.cmu.edu/learn/\nHome / CS Learn Carnegie Mellon's CS classroom, doors open to all.\nWatch our faculty teach across AI, robotics, systems, biology, and more, from seven departments that lead their fields.\nJeffrey Gennari and Christopher Timperley\nMor Harchol-Balter, Weina Wang and Feras Saad\nSubscribe on YouTube to catch every new course.\nFull classroom lectures from Carnegie Mellon faculty, free to watch.\nLessons built from real CMU courses. Get instant feedback and earn a badge.\nAI tutoring is coming to the courseware experience to help you work through questions and get unstuck.\nOur faculty lead labs in AI, robotics, systems, and more.\nGo deeper with graded work and an official credential through CMU Online.\nBring Carnegie Mellon computer science to your team with SCS Executive Education.\nJoin the Kenneth C. Griffin School of Computer Science as a full-time student at Carnegie Mellon University in Pittsburgh.",
+ "id": "C1-2026-11-17",
+ "caption_final": "Stop wasting money on generic online bootcamps for basic tech skills. Carnegie Mellon University has opened its computer science classrooms to the public on YouTube. You get access to lectures on AI, robotics, and systems taught by the same faculty that leads the field. Whether you want to learn Python to automate your daily GST invoice reporting or need to understand how database systems work for your inventory, this is the gold standard for learning. Note that while the lectures are free, official credentials and graded work require using the CMU Online portal. Start by identifying one specific repetitive task in your shop, then find the corresponding course. Which business process are you trying to automate first?\n\n#SmallBusinessIndia #AutomationTips #LearnCoding #BusinessGrowth #TechSkills"
+}

@@ -1,0 +1,291 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Testing Tone AI vs Human Cold Calling for B2B Lead Conversion",
+  "angle": "Jordan Belfort's Tone AI claims near-human sales closing rates: realistic test of where AI voice sales agents succeed and where Indian clients drop off.",
+  "audience_problem": "Small businesses spend heavily on tele-calling teams and want to test automated phone agents without turning off high-value prospective buyers.",
+  "format": "tool_test",
+  "medium": "reel",
+  "source_ids": [
+   6
+  ],
+  "evergreen": false,
+  "keywords": [
+   "Tone AI",
+   "AI sales voice",
+   "automated calling",
+   "telecalling AI",
+   "B2B sales bot"
+  ],
+  "scores": {
+   "relevance": 8,
+   "novelty": 9,
+   "hook_potential": 9,
+   "retention": 9,
+   "save_share": 8,
+   "feasibility": 7,
+   "evidence": 8,
+   "viral": 8
+  },
+  "total": 8.31
+ },
+ "piece": {
+  "hooks": [
+   "Kya AI phone agents lead calling handle kar sakte hain?",
+   "Kya AI sales calls se customer follow-up automatic ho sakta hai?",
+   "Sales leads ke liye AI calling bot test kiya. Ye results dekho.",
+   "Kya AI phone calls aapke tele-calling spend ko kam kar sakti hain?",
+   "Agar aap sales lead follow-up manually kar rahe ho, ye dekho."
+  ],
+  "chosen_hook": 4,
+  "hook_reason": "It opens with a direct practical problem Indian business owners face daily (manual sales lead follow-ups) using a strong scroll-stopping formula.",
+  "title": "Testing Tone AI Sales Calling Platform",
+  "scenes": [
+   {
+    "purpose": "Hook",
+    "narration": "Agar aap sales lead follow-up manually kar rahe ho, ye dekho.",
+    "on_screen": "AI Sales Voice Calls",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Tone AI Phone Testing",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Context",
+    "narration": "Jordan Belfort ka naya Tone AI tool sales calls automatic karta hai.",
+    "on_screen": "Tone AI Sales Bot",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "Lead Entry",
+     "AI Voice Call",
+     "Qualify Customer",
+     "Close Sale"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Performance Specs",
+    "narration": "Iska latency 600 milliseconds hai aur ye strategic tonality use karta hai.",
+    "on_screen": "600ms Fast Latency",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "600ms response speed",
+     "Tonality control",
+     "Phrases questions",
+     "Script staying power"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Sales Handling",
+    "narration": "Ye qualifying budget poochhta hai aur customer ki payment doubts solve karta hai.",
+    "on_screen": "Qualifies Leads & Budget",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "Manual Call",
+    "right_label": "Tone AI",
+    "rows": [
+     {
+      "left": "Slow follow-up",
+      "right": "600ms response"
+     },
+     {
+      "left": "Fixed script",
+      "right": "Handles doubts"
+     },
+     {
+      "left": "High staff cost",
+      "right": "Scalable calls"
+     }
+    ]
+   },
+   {
+    "purpose": "Limitations",
+    "narration": "Par AI engineer na hone se tool operational risks and history lata hai.",
+    "on_screen": "Tool Risks & Limits",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Non-engineer team",
+     "Past fraud history",
+     "Unverified claims",
+     "Data corruption risk"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Payoff and CTA",
+    "narration": "Comment TONE, main aapko Tone AI ke complete features DM kar dunga.",
+    "on_screen": "Comment TONE For Details",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Send TONE in Comments",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "AI voice sales calling test for small business leads: Tone AI overview.\n\nJordan Belfort's startup Tone AI promises automated phone calls with strategic tonality and 600ms latency to handle sales leads. It asks qualifying questions, manages objections, and adjusts offer parameters. However, both founders lack engineering backgrounds and Belfort has a past fraud conviction. Test carefully on low-priority leads before automating core client outreach.\n\nComment TONE for the full breakdown.",
+  "hashtags": [
+   "#ToneAI",
+   "#VoiceAI",
+   "#SalesAutomation",
+   "#Telecalling",
+   "#BusinessTools"
+  ],
+  "keywords": [
+   "Tone AI",
+   "AI voice sales",
+   "telecalling automation",
+   "lead follow up AI",
+   "Jordan Belfort AI"
+  ],
+  "claims": [
+   {
+    "claim": "Jordan Belfort and Shervin Pishevar co-founded Tone, an AI voice platform for sales calls.",
+    "source_id": 6
+   },
+   {
+    "claim": "Tone AI operates with a 600-millisecond latency during sales calls.",
+    "source_id": 6
+   },
+   {
+    "claim": "The platform qualifies buyers by asking about budget and age, and adjusts sales options if payments are too high.",
+    "source_id": 6
+   },
+   {
+    "claim": "Tone AI uses strategic tonalities such as phrasing statements as questions to build engagement.",
+    "source_id": 6
+   },
+   {
+    "claim": "The company has raised about $10 million in seed and friends-and-family funding, generating between $700,000 and $1 million in revenue.",
+    "source_id": 6
+   },
+   {
+    "claim": "Tone's co-founders are not software engineers, and Belfort pleaded guilty to securities fraud and money laundering in 1999.",
+    "source_id": 6
+   }
+  ],
+  "dm_keyword": "TONE",
+  "dm_text": "Tone AI Sales Calling Breakdown:\n1. Tech Features: 600ms latency, strategic tonality (phrasing statements as questions, whispering for scarcity).\n2. Workflow: Asks budget/qualification questions, adjusts payment options (e.g. raising deductible).\n3. Financials: ~$10M seed/friends funding raised, ~$700k-$1M revenue reported.\n4. Risks: Founders are non-engineers, Belfort has 1999 fraud conviction, technology claims are not independently verified.\nSource: https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/"
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 7,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 8,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "Jordan Belfort and Shervin Pishevar co-founded Tone, an AI voice platform for sales calls.",
+    "supported": true
+   },
+   {
+    "claim": "Tone AI operates with a 600-millisecond latency during sales calls.",
+    "supported": true
+   },
+   {
+    "claim": "The platform qualifies buyers by asking about budget and age, and adjusts sales options if payments are too high.",
+    "supported": true
+   },
+   {
+    "claim": "Tone AI uses strategic tonalities such as phrasing statements as questions to build engagement.",
+    "supported": true
+   },
+   {
+    "claim": "The company has raised about $10 million in seed and friends-and-family funding, generating between $700,000 and $1 million in revenue.",
+    "supported": true
+   },
+   {
+    "claim": "Tone's co-founders are not software engineers, and Belfort pleaded guilty to securities fraud and money laundering in 1999.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Scene 2: The diagram flow is a bit generic; ensure the arrows are clearly visible against the cream background.",
+   "Scene 4: The table layout is clean, but ensure the text size remains legible on smaller mobile screens."
+  ],
+  "issues": [
+   "The tone is slightly cautious, which is good, but ensure the 'test on low-priority leads' advice is emphasized in the caption to avoid liability for SMB owners.",
+   "The transition between the 'benefits' and 'risks' slides is abrupt; consider a brief verbal bridge."
+  ],
+  "fix_instructions": "1. Keep the current structure but add a 0.5-second pause between Scene 4 and Scene 5 to let the 'risks' sink in. 2. In the caption, bold the warning about testing on low-priority leads to ensure it is not missed. 3. Ensure the contrast ratio for the orange accent lines meets accessibility standards for the navy text."
+ },
+ "rules": [],
+ "reasons": [
+  "originality 7/10 (<8)",
+  "practical_value 7/10 (<8)"
+ ],
+ "meta": {
+  "duration": 34.1,
+  "voice": "edge",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-17/R3-2026-11-17/try4/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-17/R3-2026-11-17/try4/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-17/R3-2026-11-17/try4/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-17/R3-2026-11-17/try4/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-17/R3-2026-11-17/try4/scene_05.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-17/R3-2026-11-17/try4/scene_06.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   4.68,
+   5.52,
+   6.43,
+   5.85,
+   6.11,
+   5.48
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-17/R3-2026-11-17/try4",
+ "attempt": 4,
+ "approved": false,
+ "hook": "Agar aap sales lead follow-up manually kar rahe ho, ye dekho.",
+ "log": [
+  "attempt 1: fail {'hook': 6, 'originality': 6, 'practical_value': 5, 'natural_language': 6, 'accuracy': 8, 'narrative': 7, 'visual_integrity': 6, 'pacing': 7, 'brand_consistency': 7, 'publish_readiness': 5} ['scene 6 narration 20 words (want 4-14)', 'hook 6/10 (<8)', 'originality 6/10 (<8)', 'practical_value 5/10 (<8)']",
+  "attempt 2: fail {'hook': 7, 'originality': 6, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 6, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 6} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 7/10 (<8)', 'narrative 7/10 (<8)']",
+  "attempt 3: rules failed: ['opening line too long for a 2-second hook (max 12 words)', 'scene 5 narration 19 words (want 4-14)']",
+  "attempt 4: fail {'hook': 8, 'originality': 7, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['originality 7/10 (<8)', 'practical_value 7/10 (<8)']"
+ ],
+ "material": "[6] TechCrunch AI — Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’\nURL: https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/\nImage Credits: Osiris Media, Inc AI Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’ Connie Loizos 9:10 AM PST · November 16, 2026 Years ago, as questions mounted about WeWork’s soaring valuation, I sat down with co-founder Adam Neumann. We were negotiating a stage interview, and he asked to meet me twice in the weeks leading up to it, once at a WeWork in San Francisco and again at his office in New York.\nI knew full well that the numbers that SoftBank in particular had assigned to WeWork made little sense , but I came away understanding why investors wanted to throw in their lot with him.\nIt’s similarly easy to understand why people are enchanted by Jordan Belfort, the self-proclaimed “Wolf of Wall Street.” Belfort famously pleaded guilty in 1999 to securities fraud and money laundering tied to Stratton Oakmont, the Long Island brokerage where salespeople pushed penny stocks in pump-and-dump schemes while Belfort acquired a Southampton mansion, a 167-foot yacht, and at least one helicopter. (He destroyed the latter two while high on quaaludes and cocaine, as depicted in Martin Scorsese’s famous adaptation of Belfort’s autobiography, “The Wolf of Wall Street.”)\nYou might think someone who spent 22 months in prison and was ordered to pay $110.4 million in restitution to 1,513 victims wouldn’t get another shake. The victims ultimately received “far less” than they were owed, TMZ reported in July , noting that Belfort completed his court-ordered restitution obligations in late April of this year.\nBut Belfort, whose energy has a galvanizing quality, keeps resurfacing, including in recent years as a Miami-based sales consultant and one-time host of crypto workshops at his Miami Beach home. (A New York Times reporter attended a weekend workshop several years ago where the price of admission was one bitcoin or its equivalent value at the time of $40,000.)\nNow he is moving into the intersection of what he knows best — sales — and the hottest trend on the planet, AI, building out a voice-based AI platform. The secret sauce is that it imbues its voices with the kind of tonality that wins deals, he says, for example, by phrasing declarative statements as questions (which “builds engagement”) and even whispering at times (which “implies scarcity of information”).\nBelfort says the platform, called Tone , is already being used by companies that have more sales leads than their human teams can handle. Now, in a move that could also help expand its training data, Tone is launching a self-service platform for content creators and authors who want to turn their books into “expressive AI-generated narration.” Users can select from Tone’s AI voices or, as a voice-cloning feature rolls out, create a clone of their own voice.\nIt’s easy to argue the market is already saturated with AI voice startups and technologies, and Tone comes with added risk: Belfort’s co-founder in the business is longtime investor Shervin Pishevar, who has a controversial past of his own. We also can’t independently verify that the technology works as described (neither co-founder is an engineer).\nBut if my time with Neumann taught me anything, it’s that doubts about the numbers rarely get in the way of a good pitch. When Belfort looks for investors to back him in this new venture, finding believers won’t be too hard.\nHere is part of our conversation, edited for length and clarity. What have you built?\nIt’s a very unique way of going about building a voice, and it stems from a system of influence and persuasion I’ve been teaching since the late 1980s. It’s not just what you say, but how you say it. When you’re not in person, body language collapses into tonality. There are about 15 very powerful tonalities that people use all the time. The phrase I invented for this was “goal-oriented communication.” If I’m trying to be perceived as an expert, I apply tonality strategically.\nIt started that way. As a non-engineer, I went to first principles: How would I teach a human to do this? One tonality at a time. I have 30 years of super high-quality data , and I started teaching the model. It was a breakthrough moment, because it not only sounded exactly like me, it had nailed the tonality. Then I taught it a second one, and then how to link them. The key to all of this is data. Even the littlest bit of corrupt data dramatically negates the progress you’ve made.\nHow did you and Shervin Pishevar come together?\nShervin and I have been personal friends for a long time, and we were out for dinner one night. I had been pitched by an AI company that said it had an AI that could do selling. I listened to it. It was awful. But it put the idea in my head. I thought I was just going to teach models how to sell, but I couldn’t find a voice that was good enough. Necessity is the mother of invention, so we built our own.\nWho are your customers, and how do they use it?\nWe have law firms and health insurance companies. We do a lot in polling and automobiles. It will take you through an entire health insurance sale. It asks qualifying questions, like what type of insurance you want, your budget, your ages. Then it chooses a plan and explains the features and benefits. Our latency is like 600 milliseconds. If the payment is too high, it’ll say it can bring the payment down and explain how to raise your deductible. If you don’t like the plan, it swaps you to a different one. It does literally the whole entire sale.\nHow does the AI handle a sales call that goes off script?\nIt never says, “That’s a great question,” unless it really is. I hate that. It’s so ingratiating. In any sale there’s a happy path, how we’d want the perfect conversation to go, and every last word can be mapped out. But people have questions and concerns, and they take you off the straight line. So the trick is a model that can carry that perfect conversation, handle anything thrown at it, answer elegantly and return to the straight line, without breaking rapport and without hallucinating — or, as a salesperson, lying. We’ve trained the model to do that.\nHave you generated any revenue from Tone yet? Have you raised funding for it?\nRevenue, probably about a million bucks — $700,000, maybe. We’ve raised friends and family and seed, about $10 million.\nI want to address the elephant in the room. You have a fraud conviction. Pishevar has faced misconduct allegations that he denies . Why should a bank or a hospital or a consumer brand trust this product coming from the two of you?\nAll I can say for myself is that I did make mistakes. It was a very, very long time ago, and I’ve spent the last 20-plus years teaching people all over the world. I’ve been hired by companies all over the world to teach sales and persuasion. If some companies don’t want to work with us, that’s their decision. But I think there would be more than enough that would see the value of what we created.\nWhat close rate does Tone have versus a typical sales force?\nI still",
+ "id": "R3-2026-11-17",
+ "caption_final": "AI voice sales calling test for small business leads: Tone AI overview.\n\nJordan Belfort's startup Tone AI promises automated phone calls with strategic tonality and 600ms latency to handle sales leads. It asks qualifying questions, manages objections, and adjusts offer parameters. However, both founders lack engineering backgrounds and Belfort has a past fraud conviction. Test carefully on low-priority leads before automating core client outreach.\n\nComment TONE for the full breakdown.\n\n#ToneAI #VoiceAI #SalesAutomation #Telecalling #BusinessTools"
+}

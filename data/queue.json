@@ -4510,5 +4510,48 @@
   "media_id": "18435986434148993",
   "permalink": "https://www.instagram.com/p/Dfyb6bpG2eG/",
   "published_at": "2026-11-16T09:23:27.126425+05:30"
+ },
+ {
+  "id": "C1-2026-11-17",
+  "kind": "carousel",
+  "date": "2026-11-17",
+  "slot": "2026-11-17T09:00",
+  "dir": "output/2026-11-17/C1-2026-11-17/try2",
+  "files": [
+   "slide_01.jpg",
+   "slide_02.jpg",
+   "slide_03.jpg",
+   "slide_04.jpg",
+   "slide_05.jpg",
+   "slide_06.jpg"
+  ],
+  "caption": "Stop wasting money on generic online bootcamps for basic tech skills. Carnegie Mellon University has opened its computer science classrooms to the public on YouTube. You get access to lectures on AI, robotics, and systems taught by the same faculty that leads the field. Whether you want to learn Python to automate your daily GST invoice reporting or need to understand how database systems work for your inventory, this is the gold standard for learning. Note that while the lectures are free, official credentials and graded work require using the CMU Online portal. Start by identifying one specific repetitive task in your shop, then find the corresponding course. Which business process are you trying to automate first?\n\n#SmallBusinessIndia #AutomationTips #LearnCoding #BusinessGrowth #TechSkills",
+  "topic": "Free Computer Science & Automation Courses from Carnegie Mellon on YouTube",
+  "format": "checklist",
+  "hook": "Get university-grade automation training for zero rupees",
+  "keywords": [
+   "Carnegie Mellon free courses",
+   "learn Python for business",
+   "automation for small business",
+   "free computer science training",
+   "CMU YouTube courses"
+  ],
+  "scores": {
+   "hook": 8,
+   "originality": 8,
+   "practical_value": 9,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 9,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "status": "queued",
+  "produced_at": 1794876179,
+  "log": [],
+  "dm_keyword": "",
+  "dm_text": ""
  }
 ]

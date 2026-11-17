@@ -806,5 +806,21 @@
   "status": "published",
   "media_id": "18435986434148993",
   "permalink": "https://www.instagram.com/p/Dfyb6bpG2eG/"
+ },
+ {
+  "id": "C1-2026-11-17",
+  "date": "2026-11-17",
+  "kind": "carousel",
+  "format": "checklist",
+  "topic": "Free Computer Science & Automation Courses from Carnegie Mellon on YouTube",
+  "hook": "Get university-grade automation training for zero rupees",
+  "keywords": [
+   "Carnegie Mellon free courses",
+   "learn Python for business",
+   "automation for small business",
+   "free computer science training",
+   "CMU YouTube courses"
+  ],
+  "status": "queued"
  }
 ]
