@@ -1,0 +1,357 @@
+{
+ "date": "2026-11-18",
+ "tag": "2026-11-18",
+ "pilot": false,
+ "sources": 90,
+ "ideas": 14,
+ "idea_list": [
+  {
+   "idea": "The hidden danger of linking bank accounts to AI agents",
+   "format": "problem_fix",
+   "total": 9.45,
+   "scores": {
+    "relevance": 10,
+    "novelty": 8,
+    "hook_potential": 10,
+    "retention": 9,
+    "save_share": 10,
+    "feasibility": 10,
+    "evidence": 8,
+    "viral": 10
+   }
+  },
+  {
+   "idea": "The reality of using AI for wholesale vendor research",
+   "format": "myth_fact",
+   "total": 9.1,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 9,
+    "retention": 9,
+    "save_share": 10,
+    "feasibility": 10,
+    "evidence": 9,
+    "viral": 9
+   }
+  },
+  {
+   "idea": "Why you should stop buying expensive AI hardware",
+   "format": "myth_fact",
+   "total": 8.87,
+   "scores": {
+    "relevance": 10,
+    "novelty": 8,
+    "hook_potential": 9,
+    "retention": 9,
+    "save_share": 9,
+    "feasibility": 10,
+    "evidence": 7,
+    "viral": 9
+   }
+  },
+  {
+   "idea": "Why you should avoid using public AI for sensitive financial data",
+   "format": "myth_fact",
+   "total": 8.77,
+   "scores": {
+    "relevance": 10,
+    "novelty": 7,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 10,
+    "evidence": 8,
+    "viral": 9
+   }
+  },
+  {
+   "idea": "Checklist: Preventing AI agents from leaking customer data",
+   "format": "checklist",
+   "total": 8.54,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 10,
+    "feasibility": 10,
+    "evidence": 8,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Using Gemini Tasks to automate recurring customer communications",
+   "format": "tutorial",
+   "total": 8.23,
+   "scores": {
+    "relevance": 9,
+    "novelty": 7,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 8,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "How to automate CRM updates using Zapier and AI agents",
+   "format": "problem_fix",
+   "total": 8.12,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 7,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "How AI can help manage your calendar more effectively",
+   "format": "demo",
+   "total": 8.03,
+   "scores": {
+    "relevance": 9,
+    "novelty": 7,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "Automating financial bookkeeping for small theaters and service businesses",
+   "format": "case_study",
+   "total": 7.88,
+   "scores": {
+    "relevance": 9,
+    "novelty": 7,
+    "hook_potential": 7,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "Automating your Google Drive file management with AI",
+   "format": "tutorial",
+   "total": 7.77,
+   "scores": {
+    "relevance": 8,
+    "novelty": 7,
+    "hook_potential": 7,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 10,
+    "evidence": 9,
+    "viral": 6
+   }
+  },
+  {
+   "idea": "How to automate Facebook page content to LinkedIn",
+   "format": "tutorial",
+   "total": 7.41,
+   "scores": {
+    "relevance": 8,
+    "novelty": 6,
+    "hook_potential": 7,
+    "retention": 7,
+    "save_share": 8,
+    "feasibility": 10,
+    "evidence": 9,
+    "viral": 6
+   }
+  },
+  {
+   "idea": "Comparing Claude and ChatGPT for business tasks in India",
+   "format": "manual_vs_auto",
+   "total": 7.35,
+   "scores": {
+    "relevance": 8,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 7,
+    "save_share": 7,
+    "feasibility": 9,
+    "evidence": 7,
+    "viral": 6
+   }
+  },
+  {
+   "idea": "Automating investment research and financial modeling",
+   "format": "demo",
+   "total": 7.28,
+   "scores": {
+    "relevance": 8,
+    "novelty": 7,
+    "hook_potential": 7,
+    "retention": 7,
+    "save_share": 8,
+    "feasibility": 8,
+    "evidence": 8,
+    "viral": 6
+   }
+  },
+  {
+   "idea": "Lessons from high-growth startups using AI for coding and security",
+   "format": "case_study",
+   "total": 7.12,
+   "scores": {
+    "relevance": 7,
+    "novelty": 8,
+    "hook_potential": 7,
+    "retention": 7,
+    "save_share": 8,
+    "feasibility": 7,
+    "evidence": 9,
+    "viral": 5
+   }
+  }
+ ],
+ "rejected_ideas": [
+  [
+   "How to automate Facebook page content to LinkedIn",
+   "low relevance or novelty"
+  ]
+ ],
+ "items": [
+  {
+   "id": "R1-2026-11-18",
+   "kind": "reel",
+   "format": "problem_fix",
+   "topic": "The hidden danger of linking bank accounts to AI agents",
+   "hook": "AI agents ko bank account se link mat karo. Ye dekho.",
+   "approved": true,
+   "attempts": 3,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 8,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 9,
+    "pacing": 8,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [],
+   "log": [
+    "attempt 1: fail {'hook': 8, 'originality': 7, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'practical_value 7/10 (<8)', 'narrative 7/10 (<8)']",
+    "attempt 2: fail {'hook': 9, 'originality': 8, 'practical_value': 9, 'natural_language': 9, 'accuracy': 9, 'narrative': 9, 'visual_integrity': 8, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} ['reel is 59.2 s long (max 45 s; aim for 15-35 s)']",
+    "attempt 3: PASS {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} []"
+   ],
+   "dir": "output/2026-11-18/R1-2026-11-18/try3",
+   "duration": 41.3,
+   "voice": "gemini"
+  },
+  {
+   "id": "R2-2026-11-18",
+   "kind": "reel",
+   "format": "myth_fact",
+   "topic": "The reality of using AI for wholesale vendor research",
+   "hook": "AI se wholesale supplier search kar rahe ho? Fake website ka risk hai.",
+   "approved": false,
+   "attempts": 2,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 8,
+    "natural_language": 9,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 8,
+    "pacing": 8,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [
+    "more than one exclamation mark"
+   ],
+   "log": [
+    "attempt 1: fail {'hook': 7, 'originality': 6, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['more than one exclamation mark', 'hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 7/10 (<8)']",
+    "attempt 2: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 9, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['more than one exclamation mark']",
+    "attempt 3: fail {'hook': 8, 'originality': 7, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['more than one exclamation mark', 'originality 7/10 (<8)', 'practical_value 7/10 (<8)']",
+    "attempt 4: fail {'hook': 6, 'originality': 7, 'practical_value': 6, 'natural_language': 7, 'accuracy': 8, 'narrative': 7, 'visual_integrity': 6, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 6} ['hook 6/10 (<8)', 'originality 7/10 (<8)', 'practical_value 6/10 (<8)', 'natural_language 7/10 (<8)']"
+   ],
+   "dir": "output/2026-11-18/R2-2026-11-18/try2",
+   "duration": 33.5,
+   "voice": "edge"
+  },
+  {
+   "id": "R3-2026-11-18",
+   "kind": "reel",
+   "format": "tutorial",
+   "topic": "Using Gemini Tasks to automate recurring customer communications",
+   "hook": "Bar-bar ek hi customer email ya reminder type karna band karo.",
+   "approved": false,
+   "attempts": 1,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 8,
+    "natural_language": 9,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 7,
+    "pacing": 8,
+    "brand_consistency": 9,
+    "publish_readiness": 7
+   },
+   "reasons": [
+    "originality 7/10 (<8)",
+    "visual_integrity 7/10 (<8)"
+   ],
+   "log": [
+    "attempt 1: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 9, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+    "attempt 2: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+    "attempt 3: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['scene 4 narration 19 words (want 4-14)', 'originality 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+    "attempt 4: fail {'hook': 8, 'originality': 6, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 6, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 6} [\"banned phrase used: 'game-changer'\", 'originality 6/10 (<8)', 'narrative 7/10 (<8)', 'visual_integrity 6/10 (<8)']"
+   ],
+   "dir": "output/2026-11-18/R3-2026-11-18/try1",
+   "duration": 33.9,
+   "voice": "edge"
+  },
+  {
+   "id": "C1-2026-11-18",
+   "kind": "carousel",
+   "format": "checklist",
+   "topic": "Checklist: Preventing AI agents from leaking customer data",
+   "hook": "5 safety guardrails for your customer-facing AI bots",
+   "approved": true,
+   "attempts": 1,
+   "scores": {
+    "hook": 8,
+    "originality": 8,
+    "practical_value": 9,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 9,
+    "visual_integrity": 9,
+    "pacing": 9,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [],
+   "log": [
+    "attempt 1: PASS {'hook': 8, 'originality': 8, 'practical_value': 9, 'natural_language': 8, 'accuracy': 9, 'narrative': 9, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} []"
+   ],
+   "dir": "output/2026-11-18/C1-2026-11-18/try1",
+   "duration": null,
+   "voice": null
+  }
+ ],
+ "llm_calls": {
+  "text": 25,
+  "tts": 24,
+  "failed": 0
+ }
+}

@@ -1,0 +1,274 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Using Gemini Tasks to automate recurring customer communications",
+  "angle": "Stop manually drafting recurring customer emails or service reminders; use the new free Gemini Tasks to do it.",
+  "audience_problem": "Owners spend too much time on repetitive manual customer communication.",
+  "format": "tutorial",
+  "medium": "reel",
+  "source_ids": [
+   8,
+   13,
+   70
+  ],
+  "evergreen": true,
+  "keywords": [
+   "Gemini",
+   "automation",
+   "customer service",
+   "AI agents"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 7,
+   "hook_potential": 8,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 9,
+   "evidence": 8,
+   "viral": 8
+  },
+  "total": 8.23
+ },
+ "piece": {
+  "hooks": [
+   "Bar-bar ek hi customer email ya reminder type karna band karo.",
+   "Ye naya AI feature aapke daily customer follow-ups ka kaam karega.",
+   "90% dukandar customer se call aur appointment book karne mein phas jate hain.",
+   "Customer follow-ups aur appointment booking ke liye Gemini Tasks use karo.",
+   "Stop doing manual customer communication. Gemini ka naya feature dekho."
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "It addresses a high-friction, daily pain point for small business owners—repetitive communication—using a very direct, practical instruction.",
+  "title": "Automating Customer Communication with Gemini Tasks",
+  "scenes": [
+   {
+    "purpose": "Opening hook",
+    "narration": "Bar-bar ek hi customer email ya reminder type karna band karo.",
+    "on_screen": "Stop Manual Typing",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Stop Manual Communication",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Explain the manual vs auto problem",
+    "narration": "Manual kaam mein samay jata hai. Gemini Tasks ab ye sab automate karega.",
+    "on_screen": "Gemini Tasks Automation",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "Saves Time",
+    "steps": [],
+    "items": [],
+    "left_label": "Manual",
+    "right_label": "Gemini Tasks",
+    "rows": [
+     {
+      "left": "Type emails",
+      "right": "AI generates"
+     },
+     {
+      "left": "Call manually",
+      "right": "AI calls business"
+     },
+     {
+      "left": "Check calendar",
+      "right": "Auto-book slot"
+     }
+    ]
+   },
+   {
+    "purpose": "How to set it up",
+    "narration": "Gemini app kholo aur Chat ko Tasks toggle par switch karo.",
+    "on_screen": "Enable Tasks Toggle",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "Easy Setup",
+    "steps": [],
+    "items": [
+     "Open Gemini app",
+     "Find Chat toggle",
+     "Switch to Tasks"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "What it can do",
+    "narration": "Ye aapke liye business ko call kar sakta hai aur appointments fix karega.",
+    "on_screen": "AI Agentic Actions",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "Agentic Tasks",
+    "steps": [
+     "Call businesses",
+     "Check availability",
+     "Book appointments"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Caveat/Safety warning",
+    "narration": "Sensitive kaam jaise payment se pehle, ye hamesha aapse permission mangega.",
+    "on_screen": "Safety First",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "You Control Payments",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Call to action",
+    "narration": "Comment TASKS, main aapko Gemini setup ke steps DM kar dunga.",
+    "on_screen": "Comment TASKS",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "DM for Steps",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "Automate recurring customer communication and appointment booking using Google Gemini Tasks. Stop wasting time on repetitive manual work. Gemini Tasks now allows you to assign specific administrative duties to AI, including calling businesses to check inventory or book service appointments. This feature is now available for free in India within the Gemini app by simply toggling the mode from Chat to Tasks. Remember that for sensitive actions like payments, the AI will always pause and ask for your permission before proceeding. Comment TASKS for the step-by-step setup guide. #GeminiTasks #BusinessAutomation #SmartBusiness #SmallBusinessIndia #AISupport",
+  "hashtags": [
+   "#GeminiTasks",
+   "#BusinessAutomation",
+   "#SmartBusiness",
+   "#SmallBusinessIndia",
+   "#AISupport"
+  ],
+  "keywords": [
+   "Gemini Tasks",
+   "Customer communication",
+   "AI automation",
+   "Google Gemini India",
+   "Business productivity"
+  ],
+  "claims": [
+   {
+    "claim": "Gemini Tasks is available for free to users in India.",
+    "source_id": 70
+   },
+   {
+    "claim": "Tasks can call businesses and book appointments.",
+    "source_id": 8
+   },
+   {
+    "claim": "The feature is enabled by toggling the app from Chat to Tasks.",
+    "source_id": 13
+   },
+   {
+    "claim": "For sensitive tasks like payments, Gemini asks for permission before finishing.",
+    "source_id": 13
+   }
+  ],
+  "dm_keyword": "TASKS",
+  "dm_text": "Here is how you start using Gemini Tasks: 1. Ensure you are using the latest Gemini app. 2. On the home screen, locate the toggle switch. 3. Change it from 'Chat' to 'Tasks'. 4. Once in Task mode, you can type or speak your request (e.g., 'Call this hardware store and ask for stock'). Note: The AI will ask for permission before sensitive actions like payments. Source info: https://inc42.com/buzz/google-begins-rolling-out-personal-ai-assistant-tasks-in-india/"
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 9,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 7,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 7
+  },
+  "claims": [
+   {
+    "claim": "Gemini Tasks is available for free to users in India.",
+    "supported": true,
+    "note": "Source 70 confirms rollout in India for free with Gemini 4 Hydrogen."
+   },
+   {
+    "claim": "Tasks can call businesses and book appointments.",
+    "supported": true,
+    "note": "Source 8 and 70 confirm this capability."
+   },
+   {
+    "claim": "The feature is enabled by toggling the app from Chat to Tasks.",
+    "supported": true,
+    "note": "Source 13 confirms the toggle mechanism."
+   },
+   {
+    "claim": "For sensitive tasks like payments, Gemini asks for permission before finishing.",
+    "supported": true,
+    "note": "Source 13 confirms the AI stops and asks for permission."
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Scene 1: The text 'Stop Manual Communication' is redundant with the narration 'Stop Manual Typing'.",
+   "Scene 3: The checklist items are generic; they should ideally show a screenshot of the actual toggle interface to be truly 'practical'.",
+   "Scene 4: The diagram is a bit basic; ensure the arrows don't look like low-quality clip art."
+  ],
+  "issues": [
+   "The hook is strong, but the visual in Scene 1 is slightly repetitive.",
+   "The DM text is helpful but could be more specific about the 'Gemini 4 Hydrogen' requirement so users don't get frustrated if they don't see the toggle immediately."
+  ],
+  "fix_instructions": "1. In Scene 1, change the on-screen text to match the narration exactly ('Stop Manual Typing') to avoid cognitive dissonance. 2. For Scene 3, if possible, replace the checklist with a clean, high-contrast screen recording or mockup of the actual Gemini app toggle to increase trust. 3. In the DM text, add a small note: 'Make sure your Gemini app is updated to the latest version to see the Hydrogen model toggle.' 4. Otherwise, the flow is solid and ready for production."
+ },
+ "rules": [],
+ "reasons": [
+  "originality 7/10 (<8)",
+  "visual_integrity 7/10 (<8)"
+ ],
+ "meta": {
+  "duration": 33.9,
+  "voice": "edge",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-18/R3-2026-11-18/try1/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-18/R3-2026-11-18/try1/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-18/R3-2026-11-18/try1/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-18/R3-2026-11-18/try1/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-18/R3-2026-11-18/try1/scene_05.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-18/R3-2026-11-18/try1/scene_06.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   5.28,
+   6.49,
+   5.05,
+   5.77,
+   5.93,
+   5.42
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-18/R3-2026-11-18/try1",
+ "attempt": 1,
+ "approved": false,
+ "hook": "Bar-bar ek hi customer email ya reminder type karna band karo.",
+ "log": [
+  "attempt 1: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 9, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+  "attempt 2: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+  "attempt 3: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['scene 4 narration 19 words (want 4-14)', 'originality 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+  "attempt 4: fail {'hook': 8, 'originality': 6, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 6, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 6} [\"banned phrase used: 'game-changer'\", 'originality 6/10 (<8)', 'narrative 7/10 (<8)', 'visual_integrity 6/10 (<8)']"
+ ],
+ "material": "[8] TechCrunch AI — Google expands access to Gemini Tasks, which can help with calls, purchases\nURL: https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/\nGoogle is expanding the rollout of Tasks, a toggle in Gemini that converts the chatbot into a more active helper.\nUnlike Gemini’s Chat, which merely allows users to talk to Google’s AI assistant for informational purposes, Tasks empowers the app to complete basic secretarial functions, deputizing it as a kind of personal assistant.\nHow, specifically, can you use it? Google says that the app can call businesses and book appointments on users’ behalf; it can also complete purchases for them via Google Pay, and even sign into websites securely if prompted to do so.\nIn a blog post , Josh Woodword, VP of Gemini, claims to have recently used the feature to call local car dealerships to schedule a service appointment for his family’s minivan. He says he also used it to analyze his electrical bill.\nTasks was initially launched to select testers back in May as Gemini Spark, a 24/7 agentic helper, and was expanded to U.S. subscribers of its Google AI Ultra tier. Gemini Spark eventually became “Task Mode.” Google is now making the feature available for free to hundreds of millions of people who are using the company’s new Gemini 4 Hydrogen model.\nGetting the function up and running is easy. Users merely flip a toggle within the app from Chat to Tasks, which enables the feature. Users can also send texts to Gemini or call the app to give it commands.\nGet an Early Peek at the Next TechCrunch Disrupt Disrupt, Startup Battlefield, and more will return next year, and you can be at the front of the line. Sign up for our waitlist\nSubscribe for the industry’s biggest tech news\nSecurity Google joins the tech outage trend by announcing it’s not having one\nAI Google to keep Gemini chats for 2 months, up from 72 hours, even with history off\nAI Google Maps can now build trip itineraries with real-time details about each stop\nAI Nvidia promises that revenue will keep soaring — for now\nAI Nvidia is abandoning China after Jensen Huang’s ouster\nAI Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit\n\n[13] The Verge AI — Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free\nURL: https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free\nGoogle’s Spark AI agent becomes ‘Tasks’ — and now it’s free | The Verge Skip to main content The homepage The Verge The Verge logo. The homepage The Verge The Verge logo. Notifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo. Login / Sign Up\nComments Loading comments Getting the conversation ready... Tech\nTasks in Gemini allows the AI agent to call businesses on your behalf, purchase items with Google Pay, and more.\nTasks in Gemini allows the AI agent to call businesses on your behalf, purchase items with Google Pay, and more.\nEmma Roth is a news writer who covers the streaming wars, consumer tech, crypto, social media, and much more. Previously, she was a writer and editor at MUO. Google is rebranding its Spark AI agent as “Tasks” and making it free to use. The feature, which is powered by Google’s new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar, and dig through your emails to find recurring expenses you might not need.\nUsers in the US will get access to a few other features, including the ability for the AI agent to call businesses to compare product pricing and check inventory, purchase items with Google Pay, and sign into accounts that support Google Password Manager. US users can also assign Gemini tasks by emailing gemini@google.com or texting it.\nGoogle first introduced its Spark AI agent in May , but it was only available to Google AI Pro and Ultra subscribers. The launch of tasks in Gemini brings Spark’s capabilities to all users in the US, Canada, Japan, Korea, Australia, and India. You can find tasks by opening Gemini and changing the toggle on the homepage from “Chat” to “Tasks.”\nTasks in Gemini is just one of the many agentic AI features that have emerged over the past year, including Claude Duet, OpenAI’s Dots , and Meta’s Muse . Google says Gemini will perform tasks in a “hardware-isolated virtual machine that’s dedicated to your account and never shared with other users.” You can also provide instructions for Gemini while it completes tasks. When performing more sensitive tasks, like purchasing an item, it will stop working and ask for your permission before following through.\nTech leaders are convinced that Jensen Huang’s exit was a plot against him\nNvidia says it does not intend to reinstate Jensen Huang as CEO\nSam Altman says he wants everyone ‘to have a lot of RAM’\nThe Verge The Verge logo. Sign in to see your notifications or create an account to join the conversation.\n\n[70] Inc42 — Google Begins Rolling Out Personal AI Assistant, Tasks, In India\nURL: https://inc42.com/buzz/google-begins-rolling-out-personal-ai-assistant-tasks-in-india/\nGoogle Begins Rolling Out Personal AI Assistant, Tasks, In India --> tag --> Skip to content Google Begins Rolling Out Personal AI Assistant, Tasks, In India --> SHARE Share on Facebook\nSUMMARY The new feature will enable users to assign tasks to the AI assistant, including making calls, booking appointments, comparing products, making payments and completing purchases\nFrom Meta’s Muse to OpenAI’s Dots, a growing wave of big tech giants are rolling out personal AI assistants to capture the masses and automate daily chores\nIndia’s inclusion in the initial rollout gives Google a large market to test consumer adoption of the personal AI assistant. The service comes bundled for free with the new Gemini 4 Hydrogen model\nAdded to Saved Stories in Login VIEW SAVED STORIES\nBig tech giant Google has begun rolling out its new agentic AI assistant Tasks, formerly Gemini Sparks, to users in India.\nIn a blogpost , Josh Woodward, the vice-president of Google Labs and the Gemini app, said that the new feature will enable users to assign tasks to the AI assistant, including making calls, booking appointments, comparing products and completing purchases.\nThe service comes bundled for free with Google’s new Gemini 4 Hydrogen model.\n“Starting now, this update is rolling out free of charge for hundreds of millions of people across the US, Japan, Korea, Canada, Australia, and India, using our new Gemini 4 Hydrogen model,” said Woodward.\nIt is pertinent to note that Tasks was reportedly initially launched to select testers back in May as Gemini Spark, an agentic AI helper. It was subsequently expanded to the US-based subscribers of the Google AI Ultra tier. Google is now rolling out this feature for free in six markets.\nUnlike Gemini’s Chat that only generates responses to a user’s queries, Tasks goes one step further and enables the chatbot to perform basic functions. With the rollout, Google could be looking to expand the role of AI assistants beyond answering questions to embedding them in daily life.\nIn his blog post, Woodward noted that Gemini can draw on information already available within Google services, including Gmail, Calendar, Maps, Photos, files and payment cards, to carry out tasks on a user’s behalf. With Tasks, he also said that Gemini can call businesses, wait through hold periods, identify available appointment slots and add bookings to a user’s calendar.\nUnder the hood, Gemini uses the agent payments protocol (AP2) to enable Tasks to make purchases online. Going forward, the big tech giant said that it plans to integrate the universal commerce protocol (UCP) into Gemini to further streamline the checkout experience.\nGoogle also said that it is working with American Express, Mastercard and Visa to enable tokenised card transactions via Tasks. However, the big tech juggernaut did not specify whether partnerships extend to India too.\nThat said, India’s inclusion in the initial rollout gives Google a large market to test consumer adoption of the personal AI assistant feature. To further scale the rollout, Google has also invited app developers to join its Connected Apps Platform, which could pave the way for Indian consumer, fintech, travel tech and foodtech brands to build task-based third-party integrations with the assistant.\nThese features could make Gemini Tasks a channel for online shopping, bill payments and routine purchases. However, adoption will depend on the availability of supported merchants, payment methods and third-party apps in the country. There appears to be no clarity on this front.\nThe launch is part of a broader wave of big tech giants rolling out personal AI assistants to capture the masses. In September, Meta CEO Mark Zuckerberg showcased the company’s new offering called Muse, which allows an AI agent to send emails, fill forms, make plans and even make purchases autonomously.\nPrior to this, OpenAI also introduced Dots that can draft board meeting decks, conduct background research, and handle multi-step project management. xAI has also been developing Grok Bot, which sees cleaning up sales records and processing invoices as potential uses for agents.\nMicrosoft is also pursuing agents, built on OpenClaw, which can function as digital teammates. Back home, Emergent, better known for its vibe-coding platform, launched Wingman, an autonomous agent that handles routine actions and seeks approval before taking bigger steps.\nPartner With Inc42 Inc42 Startup Spotlight\nCut the noise. Get the Brief. Up to 10 stories a day, at 9am. 70,000+ companies. All in the app. Track funding, investors and company financials Download App Now Continue on Web Stories Profiles Not Finding what you are looking for? Advanced filter You have reached your limit of free stories want to read the full story? Unlock This Story & Enjoy All Members-Only Benefits With Inc42 Plus.\nUnlock special offers and join 10,000+ founders, investors & operators staying ahead in India’s startup economy.\nOffer Ends In --> 3 YEAR PLAN ₹29999 ₹7999 ₹222/Month --> UNLOCK 73% OFF Become a member Cancel Anytime 2 YEAR PLAN ₹19999 ₹5999 ₹249/Month --> UNLOCK 70% OFF Become a member Cancel Anytime 1 YEAR PLAN ₹9999 ₹3499 ₹291/Month --> UNLOCK 65% OFF Become a member Cancel Anytime Become a member ₹ 7999 Cancel Anytime Already A Member? Sign In Here Discover Startups & Business Models Unleash your potential by exploring unlimited articles, trackers, and playbooks. Identify the hottest startup deals, supercharge your innovation projects, and stay updated with expert curation.\nEmpower yourself with comprehensive playbooks, expert analysis, and invaluable insights. Learn to validate ideas, acquire customers, secure funding, and navigate the journey to startup success.\nAccess 75+ in-depth reports on frontier industries. Gain exclusive market intelligence, understand market landscapes, and decode emerging trends to make informed decisions.\nStay ahead with startup and funding trackers. Analyse investment strategies, profile successful investors, and keep track of upcoming funds, accelerators, and more.\nJoin a community of 10,000+ leaders & operators – unlock unlimited access to Inc42 stories, videos, deals, member-only perks, and more.\nUnlock unlimited access to 500+ monthly new stories and Inc42’s complete archive of 40,000+ stories.\nUnlock unlimited access to 500+ monthly new stories and Inc42’s complete archive of 40,000+ stories.\nOver $250,000 worth deals on software & tools to help your business scale up.\nNetwork with industry leaders & operators with exclusive invites to Inc42’s member-only virtual events\nEnjoy an ad-free and clutter-free experience as a member, focus on what really matters to you\nYour contribution will go on to support and empower our unbiased & data-driven journalism\nJoin 1000's of entrepreneurs, business leaders & makers and stay ahead with our sharp, incisive & data-driven analysis on India’s tech and startup economy!\nUnlock personalised stories, ad-lite reading, and exclusive newslet",
+ "id": "R3-2026-11-18",
+ "caption_final": "Automate recurring customer communication and appointment booking using Google Gemini Tasks. Stop wasting time on repetitive manual work. Gemini Tasks now allows you to assign specific administrative duties to AI, including calling businesses to check inventory or book service appointments. This feature is now available for free in India within the Gemini app by simply toggling the mode from Chat to Tasks. Remember that for sensitive actions like payments, the AI will always pause and ask for your permission before proceeding. Comment TASKS for the step-by-step setup guide.\n\n#GeminiTasks #BusinessAutomation #SmartBusiness #SmallBusinessIndia #AISupport"
+}

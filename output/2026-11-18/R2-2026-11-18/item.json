@@ -1,0 +1,236 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "The reality of using AI for wholesale vendor research",
+  "angle": "AI tools can suggest suppliers, but verify them manually to avoid fake website scams.",
+  "audience_problem": "Risk of being scammed by AI-generated or unverified wholesale vendor recommendations.",
+  "format": "myth_fact",
+  "medium": "reel",
+  "source_ids": [
+   89
+  ],
+  "evergreen": true,
+  "keywords": [
+   "wholesale",
+   "vendor research",
+   "scam protection",
+   "AI"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 8,
+   "hook_potential": 9,
+   "retention": 9,
+   "save_share": 10,
+   "feasibility": 10,
+   "evidence": 9,
+   "viral": 9
+  },
+  "total": 9.1
+ },
+ "piece": {
+  "hooks": [
+   "AI se wholesale supplier search kar rahe ho? Fake website ka risk hai.",
+   "Bade brands ki website bhi hack ho sakti hai. Ye mat bhulo.",
+   "Online supplier dhundhte waqt ye 3 security checks zaroor karo.",
+   "Sabse trusted website bhi aapka data chori kar sakti hai.",
+   "Wholesale research ke liye AI tool use karne se pehle ye dekho."
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "It directly addresses the specific business activity (wholesale research) and the fear/risk, which is highly relevant to our audience of traders and small business owners.",
+  "title": "Stay safe during wholesale vendor research",
+  "scenes": [
+   {
+    "purpose": "Hook the viewer with the specific risk",
+    "narration": "AI se wholesale supplier search kar rahe ho? Fake website ka risk hai.",
+    "on_screen": "Beware of fake websites",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "AI Vendor Search Risks",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Explain the mechanism of risk from source",
+    "narration": "Cyber criminals third-party tools ka use karke malicious code inject kar dete hain.",
+    "on_screen": "Hidden malicious code",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "How the attack works",
+    "steps": [
+     "Trusted website",
+     "Compromised third-party tool",
+     "Malicious code injection"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Show the practical danger (clipboard hijacking)",
+    "narration": "Ye malware aapka clipboard ya payment details scan kar sakta hai bina pata chale.",
+    "on_screen": "Data theft risk",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "What they steal",
+    "steps": [],
+    "items": [
+     "Cryptocurrency wallet addresses",
+     "Payment card details",
+     "Clipboard copy-paste data"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Provide actionable advice for the user",
+    "narration": "Kisi bhi bade brand ki website ho, payment se pehle detail verify zaroor karo.",
+    "on_screen": "Always verify details",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "Safety checklist",
+    "steps": [],
+    "items": [
+     "Keep browser updated",
+     "Verify all wallet addresses",
+     "Monitor bank transactions",
+     "Avoid suspicious payment pages"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Payoff and CTA",
+    "narration": "Safe wholesale research ke steps ke liye, Comment VENDOR, main aapko guide DM kar dunga.",
+    "on_screen": "Comment VENDOR for guide",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Stay alert",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "How to stay safe while searching for wholesale suppliers online using AI tools. Often, we trust big brand names but ignore the risks of the third-party scripts running on their pages. Researchers found that attackers can exploit these tools to steal card details or swap payment addresses. Always double-check where you are sending money and keep your browser updated. A familiar logo does not mean every part of the website is secure. Follow these safety tips to keep your business finances protected from hidden malware. Comment VENDOR for the safety checklist guide. #BusinessSafety #CyberSecurity #WholesaleTips #SmallBusinessIndia #VendorResearch",
+  "hashtags": [
+   "#BusinessSafety",
+   "#CyberSecurity",
+   "#WholesaleTips",
+   "#SmallBusinessIndia",
+   "#VendorResearch"
+  ],
+  "keywords": [
+   "wholesale supplier",
+   "AI tool",
+   "cyber security",
+   "business safety",
+   "malware"
+  ],
+  "claims": [
+   {
+    "claim": "A malware campaign exploited Optimizely Web to inject malicious code into websites of 178 organizations.",
+    "source_id": 89
+   },
+   {
+    "claim": "The malware could capture card details entered directly into forms on affected websites.",
+    "source_id": 89
+   },
+   {
+    "claim": "The malware could replace cryptocurrency wallet addresses with ones controlled by attackers.",
+    "source_id": 89
+   }
+  ],
+  "dm_keyword": "VENDOR",
+  "dm_text": "Thanks for asking! Here is how to keep your business safe during research: 1. Keep your web browser updated at all times. 2. If you are making any financial transfers, always verify wallet addresses or bank details before clicking send. 3. Avoid entering payment card details on pages that look suspicious, even on well-known brand websites. 4. Regularly monitor your bank statements for any unusual transactions. Remember, a familiar brand name does not guarantee that every code element running on their website is safe. Stay alert!"
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 9,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 8,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "A malware campaign exploited Optimizely Web to inject malicious code into websites of 178 organizations.",
+    "supported": true
+   },
+   {
+    "claim": "The malware could capture card details entered directly into forms on affected websites.",
+    "supported": true
+   },
+   {
+    "claim": "The malware could replace cryptocurrency wallet addresses with ones controlled by attackers.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Scene 2: The diagram is a bit generic; it would be better to visually represent the 'third-party' aspect more clearly to help SMB owners understand the supply chain risk.",
+   "Scene 3: The checklist items are good, but ensure the contrast between the text and the background is high enough for mobile readability."
+  ],
+  "issues": [
+   "The hook is strong, but the transition to the technical explanation of 'Optimizely' might be too jargon-heavy for a general SMB audience. Keep the focus on the 'third-party tool' concept rather than the specific platform name.",
+   "The DM response is helpful but could be slightly more concise to ensure high engagement."
+  ],
+  "fix_instructions": "Keep the current structure as it is solid. For Scene 2, simplify the diagram labels to 'Trusted Site' -> 'Infected Tool' -> 'Data Theft' to make it more intuitive. Ensure the font size on the checklist items in Scenes 3 and 4 is large enough for quick reading on smaller screens. The Hinglish is natural and appropriate for the target audience. Proceed with publishing after verifying the visual contrast."
+ },
+ "rules": [
+  "more than one exclamation mark"
+ ],
+ "reasons": [
+  "more than one exclamation mark"
+ ],
+ "meta": {
+  "duration": 33.5,
+  "voice": "edge",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-18/R2-2026-11-18/try2/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-18/R2-2026-11-18/try2/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-18/R2-2026-11-18/try2/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-18/R2-2026-11-18/try2/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-18/R2-2026-11-18/try2/scene_05.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   6.42,
+   6.45,
+   6.71,
+   6.57,
+   7.36
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-18/R2-2026-11-18/try2",
+ "attempt": 2,
+ "approved": false,
+ "hook": "AI se wholesale supplier search kar rahe ho? Fake website ka risk hai.",
+ "log": [
+  "attempt 1: fail {'hook': 7, 'originality': 6, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['more than one exclamation mark', 'hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 7/10 (<8)']",
+  "attempt 2: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 9, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['more than one exclamation mark']",
+  "attempt 3: fail {'hook': 8, 'originality': 7, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['more than one exclamation mark', 'originality 7/10 (<8)', 'practical_value 7/10 (<8)']",
+  "attempt 4: fail {'hook': 6, 'originality': 7, 'practical_value': 6, 'natural_language': 7, 'accuracy': 8, 'narrative': 7, 'visual_integrity': 6, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 6} ['hook 6/10 (<8)', 'originality 7/10 (<8)', 'practical_value 6/10 (<8)', 'natural_language 7/10 (<8)']"
+ ],
+ "material": "[89] YourStory — Malware attack hits Zoom, Salesforce and IKEA-linked websites\nURL: https://yourstory.com/2026/11/malware-attack-zoom-salesforce-ikea-websites\nSidebar is Loading... ADVERTISEMENT Malware attack hits Zoom, Salesforce and IKEA-linked websites | YourStory You may trust the website you are visiting. But what about the tools running behind it?\nCybersecurity researchers have uncovered a malware campaign involving websites linked to 178 organisations worldwide, including Zoom, Salesforce, IKEA, HSBC and Crocs. The attack shows how a compromised third-party tool can turn familiar websites into potential entry points for cybercriminals.\nAccording to findings, the malicious code was injected through Optimizely Web, a platform companies use to run website experiments and A/B testing. This technique allows brands to show different versions of a webpage and measure how users respond.\nThe attack exploited that routine website function to deliver code capable of interfering with what users entered or copied on affected pages.\nHow a trusted website tool became a malware route\nThe attacker reportedly exploited a feature in Optimizely that allows customers to add JavaScript to projects. JavaScript is commonly used to make websites interactive and run features within a browser.\nMalicious JavaScript was added to customer projects and delivered through Optimizely's trusted domain. This made the activity harder to identify as suspicious because the code came from a service already used by the affected websites.\nResearchers at Report URI examined 1,611 Optimizely snippets and found 188 infected snippets linked to 178 organisations. The malware scanned webpages, form fields, links, images and clipboards for cryptocurrency wallet addresses.\nWhen it detected a valid address, it could replace it with one controlled by the attacker.\nA user copying a wallet address while an affected browser tab was open could therefore paste the wrong address without noticing. The malware could also capture card details entered directly into forms on affected websites.\nZoom, HSBC, IKEA and BBC among the names listed\nThe affected organisations spanned technology, finance, retail, travel, media and non-profit sectors.\nZoom, Salesforce and Bitly were among the technology companies named. The financial services list included HSBC US, HSBC Hong Kong and Equifax.\nRetail and consumer brands such as IKEA, ASOS, Mattel, American Eagle, Crocs India and Levi's websites in several countries were also listed. Airlines including Air France-KLM and Alaska Airlines appeared in the findings, alongside media organisations such as BBC, CNN and Fox News.\nOptimizely said an unauthorised party exploited a vulnerability in its Experimentation account signup flow to inject malicious JavaScript into some customer projects.\nThe company said it blocked the vulnerable path, deployed a fix, removed the injected code, ended active sessions, revoked tokens and reset access for affected accounts.\nThe incident also exposes a security challenge for businesses that rely on third-party website tools. A website may be operated by a well-known brand, but its security also depends on the services and code it loads.\nUsers should keep their browsers updated, verify cryptocurrency wallet addresses before transferring funds, avoid entering payment details on suspicious pages and monitor cards for unusual transactions. A familiar brand name alone does not guarantee that every element running on its website is safe.\nADVERTISEMENT Advertise with us ADVERTISEMENT Advertise with us ADVERTISEMENT Advertise with us ADVERTISEMENT Advertise with us You may trust the website you are visiting. But what about the tools running behind it?\nCybersecurity researchers have uncovered a malware campaign involving websites linked to 178 organisations worldwide, including Zoom, Salesforce, IKEA, HSBC and Crocs. The attack shows how a compromised third-party tool can turn familiar websites into potential entry points for cybercriminals.\nAccording to findings, the malicious code was injected through Optimizely Web, a platform companies use to run website experiments and A/B testing. This technique allows brands to show different versions of a webpage and measure how users respond.\nThe attack exploited that routine website function to deliver code capable of interfering with what users entered or copied on affected pages.\nHow a trusted website tool became a malware route\nThe attacker reportedly exploited a feature in Optimizely that allows customers to add JavaScript to projects. JavaScript is commonly used to make websites interactive and run features within a browser.\nMalicious JavaScript was added to customer projects and delivered through Optimizely's trusted domain. This made the activity harder to identify as suspicious because the code came from a service already used by the affected websites.\nResearchers at Report URI examined 1,611 Optimizely snippets and found 188 infected snippets linked to 178 organisations. The malware scanned webpages, form fields, links, images and clipboards for cryptocurrency wallet addresses.\nWhen it detected a valid address, it could replace it with one controlled by the attacker.\nA user copying a wallet address while an affected browser tab was open could therefore paste the wrong address without noticing. The malware could also capture card details entered directly into forms on affected websites.\nZoom, HSBC, IKEA and BBC among the names listed\nThe affected organisations spanned technology, finance, retail, travel, media and non-profit sectors.\nZoom, Salesforce and Bitly were among the technology companies named. The financial services list included HSBC US, HSBC Hong Kong and Equifax.\nRetail and consumer brands such as IKEA, ASOS, Mattel, American Eagle, Crocs India and Levi's websites in several countries were also listed. Airlines including Air France-KLM and Alaska Airlines appeared in the findings, alongside media organisations such as BBC, CNN and Fox News.\nOptimizely said an unauthorised party exploited a vulnerability in its Experimentation account signup flow to inject malicious JavaScript into some customer projects.\nThe company said it blocked the vulnerable path, deployed a fix, removed the injected code, ended active sessions, revoked tokens and reset access for affected accounts.\nThe incident also exposes a security challenge for businesses that rely on third-party website tools. A website may be operated by a well-known brand, but its security also depends on the services and code it loads.\nUsers should keep their browsers updated, verify cryptocurrency wallet addresses before transferring funds, avoid entering payment details on suspicious pages and monitor cards for unusual transactions. A familiar brand name alone does not guarantee that every element running on its website is safe.",
+ "id": "R2-2026-11-18",
+ "caption_final": "How to stay safe while searching for wholesale suppliers online using AI tools. Often, we trust big brand names but ignore the risks of the third-party scripts running on their pages. Researchers found that attackers can exploit these tools to steal card details or swap payment addresses. Always double-check where you are sending money and keep your browser updated. A familiar logo does not mean every part of the website is secure. Follow these safety tips to keep your business finances protected from hidden malware. Comment VENDOR for the safety checklist guide.\n\n#BusinessSafety #CyberSecurity #WholesaleTips #SmallBusinessIndia #VendorResearch"
+}

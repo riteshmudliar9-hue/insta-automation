@@ -824,5 +824,37 @@
   "status": "published",
   "media_id": "17958015750317919",
   "permalink": "https://www.instagram.com/p/Df0_T24DGeS/"
+ },
+ {
+  "id": "R1-2026-11-18",
+  "date": "2026-11-18",
+  "kind": "reel",
+  "format": "problem_fix",
+  "topic": "The hidden danger of linking bank accounts to AI agents",
+  "hook": "AI agents ko bank account se link mat karo. Ye dekho.",
+  "keywords": [
+   "AI security risk",
+   "business bank security",
+   "third party tool hacking",
+   "cyber security for small business",
+   "AI agent control"
+  ],
+  "status": "queued"
+ },
+ {
+  "id": "C1-2026-11-18",
+  "date": "2026-11-18",
+  "kind": "carousel",
+  "format": "checklist",
+  "topic": "Checklist: Preventing AI agents from leaking customer data",
+  "hook": "5 safety guardrails for your customer-facing AI bots",
+  "keywords": [
+   "AI agent security",
+   "business data protection",
+   "AI safety guardrails",
+   "customer data privacy",
+   "automation risks"
+  ],
+  "status": "queued"
  }
 ]
