@@ -4591,9 +4591,11 @@
    "brand_consistency": 9,
    "publish_readiness": 8
   },
-  "status": "queued",
+  "status": "published",
   "produced_at": 1794963036,
-  "log": [],
+  "log": [
+   "2026-11-18T22:21:42.376180+05:30 published https://www.instagram.com/reel/Df4-i_gkZAQ/"
+  ],
   "dm_keyword": "SAFETY",
   "dm_text": "Business security checklist: 1. Never give AI agents direct access to net banking. 2. Use dedicated payment gateways instead of direct account linking. 3. Always manually verify payment amounts before confirming transactions. 4. Keep browser software updated to defend against injected malicious scripts. 5. Monitor your bank statements regularly for unusual transactions. For more details on these risks, check the official reports here: https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit and https://yourstory.com/2026/11/malware-attack-zoom-salesforce-ikea-websites",
   "presenter": {
@@ -4758,7 +4760,10 @@
    "cta": "Comment SAFETY for checklist",
    "prompts_sent": true,
    "prompts_sent_at": 1795009339
-  }
+  },
+  "media_id": "17981751968924349",
+  "permalink": "https://www.instagram.com/reel/Df4-i_gkZAQ/",
+  "published_at": "2026-11-18T22:21:42.376180+05:30"
  },
  {
   "id": "C1-2026-11-18",
