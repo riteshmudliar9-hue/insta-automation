@@ -4812,5 +4812,48 @@
   "media_id": "18132856063744185",
   "permalink": "https://www.instagram.com/p/Df3kXT3DWqY/",
   "published_at": "2026-11-18T09:13:23.194758+05:30"
+ },
+ {
+  "id": "C1-2026-11-19",
+  "kind": "carousel",
+  "date": "2026-11-19",
+  "slot": "2026-11-19T09:00",
+  "dir": "output/2026-11-19/C1-2026-11-19/try1",
+  "files": [
+   "slide_01.jpg",
+   "slide_02.jpg",
+   "slide_03.jpg",
+   "slide_04.jpg",
+   "slide_05.jpg",
+   "slide_06.jpg"
+  ],
+  "caption": "AI supplier search karte waqt savdhan rahein. Aaj kal AI search results mein scam aur fake wholesale websites bhi dikh sakti hain. AI ka kaam sirf information summarize karna hai, business verification aapki zimmedari hai. Kisi bhi naye supplier ko advance payment dene se pehle unka GST number aur physical location zaroor check karein. Digital tools ka istemal karein, lekin unhe aankh band karke trust na karein. Aapne kabhi AI search se supplier dhundne ki koshish ki hai? Comment karke batayein aapne verification ke liye kya steps liye.\n\n#BusinessSafety #SMBIndia #WholesaleTips #FraudPrevention",
+  "topic": "Why your AI chatbot might recommend fake wholesale websites",
+  "format": "problem_fix",
+  "hook": "Fake wholesale websites: AI search ke khatre se bacho.",
+  "keywords": [
+   "supplier verification",
+   "wholesale scam protection",
+   "business safety tips",
+   "AI search risks",
+   "small business procurement"
+  ],
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 9,
+   "natural_language": 9,
+   "accuracy": 8,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "status": "queued",
+  "produced_at": 1795049506,
+  "log": [],
+  "dm_keyword": "",
+  "dm_text": ""
  }
 ]

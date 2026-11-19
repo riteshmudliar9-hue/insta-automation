@@ -1,0 +1,273 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Extract messy specs from WhatsApp images automatically",
+  "angle": "Using vision models to digitize handwritten client orders in seconds",
+  "audience_problem": "Manual data entry errors for orders coming via WhatsApp",
+  "format": "demo",
+  "medium": "reel",
+  "source_ids": [
+   34,
+   38
+  ],
+  "evergreen": true,
+  "keywords": [
+   "OCR",
+   "automation",
+   "order management",
+   "AI vision"
+  ],
+  "scores": {
+   "relevance": 10,
+   "novelty": 9,
+   "hook_potential": 9,
+   "retention": 9,
+   "save_share": 10,
+   "feasibility": 8,
+   "evidence": 8,
+   "viral": 10
+  },
+  "total": 9.28
+ },
+ "piece": {
+  "hooks": [
+   "WhatsApp payment screenshots manually verify karna band karo. Ye dekho.",
+   "WhatsApp order photos verify karne ke liye ChatGPT mat use karo.",
+   "Photos verify karne ke liye ChatGPT expensive hai. Ye developer API dekho.",
+   "Client order photos seconds mein check karne ka system dekho.",
+   "WhatsApp order proof checks automated karne ke liye ye naya AI endpoint dekho."
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "Directly targets Indian business workflows where payment screenshots or order proof photos arrive on WhatsApp, offering a developer-focused solution for fast verification.",
+  "title": "Automate Proof Verification with Gemini Decisions API",
+  "scenes": [
+   {
+    "purpose": "Hook - stop scroll with concrete problem",
+    "narration": "WhatsApp payment screenshots manually verify karna band karo. Ye dekho.",
+    "on_screen": "Automate Payment Proof Checks",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Gemini Decisions API Setup",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Problem vs Solution comparison",
+    "narration": "Standard ChatGPT style text generation models slow aur costly hote hain. Output tokens bill hote hain.",
+    "on_screen": "Text LLMs vs Decisions API",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "Text LLMs",
+    "right_label": "Decisions API",
+    "rows": [
+     {
+      "left": "Slow token output",
+      "right": "150-250 ms latency"
+     },
+     {
+      "left": "Output tokens billed",
+      "right": "$0 output tokens billed"
+     },
+     {
+      "left": "Generates text",
+      "right": "Returns probabilities"
+     }
+    ]
+   },
+   {
+    "purpose": "How developer workflow functions",
+    "narration": "Developer setup mein Gemini Decision 1 model image aur text note ek saath evaluate karta hai.",
+    "on_screen": "Multimodal Flow",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "Customer sends image",
+     "Single API pass",
+     "Confidence score output",
+     "Auto approve or escalate"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Feature details and cost",
+    "narration": "Aap ek saath 1,000 yes-no, choice, ya rubric scoring questions check kar sakte ho.",
+    "on_screen": "3 Decision Types",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "noul: Yes/No probability",
+     "choice: 2 to 255 options",
+     "score: Ordered rubric grade",
+     "$0.10 per 1M input tokens"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Payoff and comment call to action",
+    "narration": "Python aur JavaScript guides Google AI Studio par live hain. Comment DECISION, main detail DM kar dunga.",
+    "on_screen": "Comment DECISION for Details",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Google AI Studio Developer Guides",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "Automate screenshot validation and receipt verification using Google Gemini Decisions API. If your custom app or backend processes client WhatsApp receipt images or stock verification photos, standard LLMs can be slow and expensive because of output token generation. Google's new Gemini Decisions API powered by gemini-decision-1 evaluates up to 1,000 yes/no, choice, or rubric questions in a single pass. It returns probability scores in 150-250 ms at $0.10 per 1M input tokens with zero output tokens billed. Developer SDKs for Python and JavaScript are available in Google AI Studio. Note that this requires developer coding rather than a ready no-code mobile app. Comment DECISION for developer setup details.",
+  "hashtags": [
+   "#GeminiAPI",
+   "#DeveloperTools",
+   "#PythonAutomation",
+   "#GoogleAI"
+  ],
+  "keywords": [
+   "Gemini Decisions API",
+   "Google AI Studio",
+   "gemini decision 1",
+   "image verification API",
+   "Python developer tools"
+  ],
+  "claims": [
+   {
+    "claim": "Gemini Decision 1 operates via the Gemini Decisions API in Google AI Studio.",
+    "source_id": 34
+   },
+   {
+    "claim": "Gemini Decision 1 scores candidate options in a single forward pass without token-by-token decoding.",
+    "source_id": 34
+   },
+   {
+    "claim": "End-to-end latency is 150-250 ms across multimodal inputs including text, images, audio, video, and PDFs.",
+    "source_id": 34
+   },
+   {
+    "claim": "Pricing is $0.10 per 1M input tokens with zero output tokens billed.",
+    "source_id": 34
+   },
+   {
+    "claim": "It evaluates up to 1,000 questions in a single pass using yes/no, multiple choice, or ordered rubric scores.",
+    "source_id": 34
+   },
+   {
+    "claim": "Python, JavaScript, and REST SDK guides are available in Google AI Studio.",
+    "source_id": 34
+   }
+  ],
+  "dm_keyword": "DECISION",
+  "dm_text": "Here is how the Gemini Decisions API works for verification workflows: 1. Model: gemini-decision-1 endpoint in Google AI Studio. 2. Pass Type: Evaluates up to 1,000 questions in one single pass using yes/no (noul), choice, or score primitives. 3. Speed: 150-250 ms end-to-end latency across text, images, video, audio, and PDFs up to 256K tokens. 4. Pricing: $0.10 per 1M input tokens and $0 for output tokens. 5. Integration: SDK guides available for Python, JavaScript, and REST. Check documentation at https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 8,
+   "practical_value": 7,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 7,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 7
+  },
+  "claims": [
+   {
+    "claim": "Gemini Decision 1 operates via the Gemini Decisions API in Google AI Studio.",
+    "supported": true,
+    "note": "Supported by Source [34]."
+   },
+   {
+    "claim": "Gemini Decision 1 scores candidate options in a single forward pass without token-by-token decoding.",
+    "supported": true,
+    "note": "Supported by Source [34]."
+   },
+   {
+    "claim": "End-to-end latency is 150-250 ms across multimodal inputs including text, images, audio, video, and PDFs.",
+    "supported": true,
+    "note": "Supported by Source [34]."
+   },
+   {
+    "claim": "Pricing is $0.10 per 1M input tokens with zero output tokens billed.",
+    "supported": true,
+    "note": "Supported by Source [34]."
+   },
+   {
+    "claim": "It evaluates up to 1,000 questions in a single pass using yes/no, multiple choice, or ordered rubric scores.",
+    "supported": true,
+    "note": "Supported by Source [34]."
+   },
+   {
+    "claim": "Python, JavaScript, and REST SDK guides are available in Google AI Studio.",
+    "supported": true,
+    "note": "Supported by Source [34]."
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Scene 4 (Image 4): The screen headline reads '3 Decision Types', but the list inside the card contains 4 items (the 3 types plus pricing '$0.10 per 1M input tokens')."
+  ],
+  "issues": [
+   "The target audience is non-technical Indian SMB owners, but the solution requires backend API development (Python/JS SDK). The caption mentions this distinction, but the reel narration could state more explicitly that this is built by their tech team/developer."
+  ],
+  "fix_instructions": "1. In Scene 4, change the visual list so that pricing is either separated into a subtitle/footer note or update the headline so it doesn't contradict the 4 checklist items. 2. Ensure clear framing in narration that this is an API workflow for their backend developer."
+ },
+ "rules": [],
+ "reasons": [
+  "practical_value 7/10 (<8)",
+  "visual_integrity 7/10 (<8)"
+ ],
+ "meta": {
+  "duration": 27.2,
+  "voice": "gemini",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-19/R1-2026-11-19/try3/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-19/R1-2026-11-19/try3/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-19/R1-2026-11-19/try3/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-19/R1-2026-11-19/try3/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-19/R1-2026-11-19/try3/scene_05.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   4.47,
+   6.55,
+   5.15,
+   4.87,
+   6.15
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-19/R1-2026-11-19/try3",
+ "attempt": 3,
+ "approved": false,
+ "hook": "WhatsApp payment screenshots manually verify karna band karo. Ye dekho.",
+ "log": [
+  "attempt 1: fail {'hook': 7, 'originality': 5, 'practical_value': 4, 'natural_language': 7, 'accuracy': 5, 'narrative': 6, 'visual_integrity': 5, 'pacing': 6, 'brand_consistency': 7, 'publish_readiness': 4} ['dm_text link not from the sources: https://aistudio.google.com/).', 'hook 7/10 (<8)', 'originality 5/10 (<8)', 'practical_value 4/10 (<8)']",
+  "attempt 2: fail {'hook': 7, 'originality': 6, 'practical_value': 5, 'natural_language': 7, 'accuracy': 6, 'narrative': 6, 'visual_integrity': 6, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 5} ['more than one exclamation mark', 'hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 5/10 (<8)']",
+  "attempt 3: fail {'hook': 8, 'originality': 8, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['practical_value 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+  "attempt 4: rules failed: ['total narration 107 words (want 40-85, i.e. 15-35 s)', 'scene 5 narration 19 words (want 4-14)', 'scene 6 narration 19 words (want 4-14)']"
+ ],
+ "material": "[34] Google AI Blog — Gemini Decisions API: Fast, calibrated multimodal decisions\nURL: https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/\nGemini Decisions API: Fast, calibrated multimodal decisions Nov 11, 2026\nIntroducing the Gemini Decisions API, powered by our new Gemini Decision 1 model. Evaluate up to 1,000 yes/no, choice, and rubric-scoring questions in a fast, single pass across text, images, audio, video, and PDFs.\nYour browser does not support the audio element.\nWe are introducing the Gemini Decisions API to help you make fast, probabilistic choices across text, images, audio, video, and PDFs. This tool computes confidence scores for multiple questions in a single pass, providing a cost-effective way to route queries, grade content, or check policy rules. You can start building today by accessing your API key in Google AI Studio and reviewing our documentation for Python, JavaScript, and REST guides.\nToday, we’re introducing the Gemini Decisions API, a new endpoint for fast, closed-set decisions powered by our new Gemini Decision 1 model (gemini-decision-1), available through the Gemini API in Google AI Studio .\nThe Decisions API gives you purpose-built primitives for bounded choices like tool selection, policy checks, model routing, and context grading. You can pass one multimodal input across text, images, audio, video, and PDFs (up to 256K tokens) along with up to 1,000 independent questions. Rather than generating answer text token by token, Gemini Decision 1 scores your candidate options in a single forward pass, returning probabilities and confidence scores in 150-250 ms end-to-end latency at $0.10 per 1M input tokens with zero output tokens billed.\nOn benchmarks spanning agent routing, reasoning, ranking, and multimodal understanding, Gemini Decision 1 leads across the suite, with the lowest calibration error.\nGemini Decision 1 scores options without token-by-token decoding, keeping median latency 50-100 ms of model compute (150-250 ms end-to-end), across multimodal inputs and contexts up to 16K tokens, remaining nearly flat from 1 to 100 questions per request. With zero output tokens billed, Gemini Decision 1 with the Decisions API is nearly 5x cheaper across the shared benchmark suite than Gemini 3.5 Flash-Lite with the Interactions API.\nNative multimodal evaluation across three decision types in one pass\nBuilt on Gemini’s native multimodal architecture, Gemini Decision 1 can process text, images, audio, video, and PDFs directly in a single forward pass. You can combine modalities in one shared input, such as pairing a call recording with account metadata or a scanned PDF claim with damage photos, and tune resolution on image and video inputs to control visual detail and token cost.\nYou can evaluate multiple questions against that shared input in a single request, mixing yes/no checks, multiple choice, and rubric scores. Every answer includes a confidence score (from 0 to 1) so your code can route ambiguous cases to a fallback or human reviewer:\nnoul (Yes/No): Estimates the probability that a yes/no condition holds, with optional true and false description criteria.\nchoice (Multiple Choice): Selects from 2 to 255 choices, returning the winner and normalized probabilities for every candidate.\nscore (Ordered Rubric): Grades inputs across an ordered rubric (starting at 0), returning a continuous weighted score and per-level probabilities.\nThe input field uses the same Content block format as the Interactions API . Here is how to check a photo of a breakroom counter, together with a text note, against all three question types in one request:\nfrom google import genai client = genai.Client(http_options={\"api_version\": \"v1beta\"}) result = client.decisions.create( model=\"gemini-decision-1\", input=[{ \"type\": \"image\", \"uri\": \"https://storage.googleapis.com/generativeai-downloads/images/spill.jpg\", \"mime_type\": \"image/jpeg\", }, { \"type\": \"text\", \"text\": \"Breakroom counter check before the 9 AM client meeting.\", }, ], questions={ \"has_spill\": { \"type\": \"noul\", \"instructions\": \"Is there an uncleaned liquid spill on the counter?\", }, \"next_action\": { \"type\": \"choice\", \"instructions\": \"Which cleanup action fits the scene?\", \"criteria\": { \"wipe_with_cloth\": \"Small counter spill with a cloth or towel already nearby.\", \"dispatch_janitorial\": \"Large floor hazard, broken glass, or active leak.\", \"ready_for_meeting\": \"Counter is clean and ready.\", }, }, \"severity\": { \"type\": \"score\", \"instructions\": \"Rate the severity of the counter mess.\", \"criteria\": [ \"Clean and ready.\", \"Minor localized spill.\", \"Major spill or safety hazard.\", ], }, }, ) How teams are building with the Decisions API\nTeams across Google are already using the Decisions API as a low-latency control plane, shipping features simply by defining options rather than training custom classifiers or waiting on generative calls:\nDynamic model routing in Gemini Notebook: Gemini Notebook uses the Decisions API as a real-time router to instantly direct incoming queries to the optimal model tier and thinking level for each request. The Decisions API classifies intent in milliseconds to serve everyday queries with up to 40% lower latency while reserving deep reasoning models for complex tasks.\nRapid design iteration in Stitch: The new rapid canvas experiment in Stitch uses the Decisions API to generate playable wireframes of a product flow in seconds and to apply edits made by voice or tap almost instantly. When the flow feels right, one click hands the screens off to the full Stitch experience for deeper design polish.\nEmoji selection in CC: CC from Google Labs uses the Decisions API to pick the right emoji reaction from a palette of more than 200 options in a fraction of a second, so reactions appear instantly without adding latency.\nSafety layer for MCP tools in Search : Google Search uses the Decision API to detect adversarial behavior and content against adversarial evals with high efficacy within the latency envelope.\nStitch Rapid uses the Decisions API to design an entire product flow in seconds (1x speed).\nGemini Decision 1 is priced at $0.10 per 1M input tokens and $0 for output tokens, with an API no-cost tier you can use in Google AI Studio for prototyping. Your shared input is billed once per request no matter how many questions you evaluate (each question adds only its own instruction and criteria tokens). There are no output-token charges, variable thinking-token bills, or separate audio transcription and OCR costs.\nYou can start building today by grabbing an API key in Google AI Studio , trying our Doorstep Parcels , Speed Sketch , and Find the Zoo Keeper demo apps, and following the Python, JavaScript, and REST guides in the Decisions API documentation .\nEcosystem integrations are rolling out across OpenRouter , LangChain , Vercel , LiteLLM , Pydantic AI , Pipecat , LiveKit , and OpenCode alongside the google-genai SDKs, with support coming soon to Gemini in Google Cloud.\nGet the latest news from Google in your inbox\nSign up for our newsletters with product updates, event information, special offers, and more.\nCheck your inbox to confi\n\n[38] Google AI Blog — We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.\nURL: https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/\nWe’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps. Nov 10, 2026\nToday at Adobe MAX, we announced we’re expanding our partnership with Adobe.\nSwitching between apps to edit a PDF or fine-tune an image can quickly break your focus. Our partnership will bring Adobe’s creative and productivity tools directly into the Google products you use every day. It will also bring Google’s frontier AI models into Adobe’s apps. Here’s what’s coming:\nWork faster with PDFs: You’ll soon have a direct pathway from Google Drive and Gmail into Adobe Acrobat, surfaced as a suggested app across both services, including an “Edit with” entry point in file previews.\nCreate right where you search and chat: Adobe is expanding its connectors in Gemini and Gemini Enterprise with Acrobat and additional creative tools. Adobe will also bring its creative tools to AI Mode in Google Search.\nPowering creatives and enterprises: Businesses will be able to use Adobe’s CX Enterprise Coworker agent in Gemini Enterprise — an AI assistant that helps teams design graphics, work with PDFs, and launch marketing campaigns without switching apps.\nExploring editing experiences with DeepMind: Adobe and Google DeepMind will explore new editing capabilities for creative professionals, starting with an image model for Photoshop that could enable near-real-time edits.\nThe Gemini app is now available on lower-memory Android devices.\nHow genome mapping can help researchers better understand disease",
+ "id": "R1-2026-11-19",
+ "caption_final": "Automate screenshot validation and receipt verification using Google Gemini Decisions API. If your custom app or backend processes client WhatsApp receipt images or stock verification photos, standard LLMs can be slow and expensive because of output token generation. Google's new Gemini Decisions API powered by gemini-decision-1 evaluates up to 1,000 yes/no, choice, or rubric questions in a single pass. It returns probability scores in 150-250 ms at $0.10 per 1M input tokens with zero output tokens billed. Developer SDKs for Python and JavaScript are available in Google AI Studio. Note that this requires developer coding rather than a ready no-code mobile app. Comment DECISION for developer setup details.\n\n#GeminiAPI #DeveloperTools #PythonAutomation #GoogleAI"
+}

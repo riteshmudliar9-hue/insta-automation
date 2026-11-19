@@ -1,0 +1,251 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Avoid AI data leaks in your shop's internal documents",
+  "angle": "Why your business documents might be feeding public AI training sets",
+  "audience_problem": "SMB owners accidentally uploading sensitive vendor data to public AI chatbots",
+  "format": "problem_fix",
+  "medium": "reel",
+  "source_ids": [
+   44,
+   53
+  ],
+  "evergreen": true,
+  "keywords": [
+   "data privacy",
+   "AI security",
+   "SMB",
+   "business safety"
+  ],
+  "scores": {
+   "relevance": 10,
+   "novelty": 7,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 9,
+   "evidence": 8,
+   "viral": 9
+  },
+  "total": 8.7
+ },
+ "piece": {
+  "hooks": [
+   "Apne GST ledgers aur supplier details ChatGPT mein daalna band karo.",
+   "90% business owners AI chatbots mein sensitive data leak kar rahe hain.",
+   "ChatGPT ko aapka purana quotation ya supplier list mat bhejo.",
+   "AI tools se kaam lene se pehle ye 3 safety rules dekho.",
+   "Stop uploading shop documents to public AI. Ye dekho risk."
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "It addresses a direct action that Indian business owners are likely doing (using ChatGPT for work data) and triggers immediate alarm about data security, which is a high-stakes concern.",
+  "title": "Stop Data Leaks in AI Chats",
+  "scenes": [
+   {
+    "purpose": "Hook",
+    "narration": "Apne GST ledgers aur supplier details ChatGPT mein daalna band karo.",
+    "on_screen": "AI Data Leak Risk",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Stop AI Data Leaks",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Explain the risk",
+    "narration": "Public AI tools aapka data training ke liye use kar sakte hain.",
+    "on_screen": "Public AI = No Privacy",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Data Not Private",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Explain the problem",
+    "narration": "AI behaviour predictable nahi hai aur safeguards kabhi bhi hat sakte hain.",
+    "on_screen": "AI Behaviour Unpredictable",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Safeguards Can Fail",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Manual vs Auto comparison",
+    "narration": "Manual entry mein aap control mein rehte ho, AI mein nahi.",
+    "on_screen": "Manual vs AI Control",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "Control Your Data",
+    "steps": [],
+    "items": [],
+    "left_label": "Manual Data",
+    "right_label": "Public AI",
+    "rows": [
+     {
+      "left": "Fully secure",
+      "right": "Data exposure risk"
+     },
+     {
+      "left": "Offline storage",
+      "right": "Cloud training sets"
+     }
+    ]
+   },
+   {
+    "purpose": "Actionable advice",
+    "narration": "Sirf wahi kaam AI ko do jahan consequences kam ya zero hain.",
+    "on_screen": "Check the Risk",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "Safe AI Usage",
+    "steps": [],
+    "items": [
+     "No customer names",
+     "No bank details",
+     "No supplier margins",
+     "Only public info"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Call to action",
+    "narration": "Business data safe rakhne ke tips chahiye? Comment SAFE, main DM kar dunga.",
+    "on_screen": "Comment SAFE for Tips",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Stay Secure",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "Public AI tools mein apne business documents upload karna khatra ho sakta hai. Jab aap ChatGPT ya kisi bhi public model mein GST ledgers, supplier price lists ya customer details daalte hain, wo data AI models ko train karne ke liye use kiya ja sakta hai. AI ka behaviour predictable nahi hota aur safeguards hataaye ja sakte hain. Hamesha dhyaan rakhein ki AI ko wahi kaam dein jahan sensitive information involve na ho. Apne business ki privacy secure rakhne ke liye ye simple safety guardrails follow karein aur kabhi bhi personal ya financial data AI mein paste na karein. Comment SAFE for a list of safety tips to protect your business data.",
+  "hashtags": [
+   "#BusinessSecurity",
+   "#DataPrivacy",
+   "#AITips",
+   "#SmallBusinessIndia"
+  ],
+  "keywords": [
+   "AI data leak",
+   "business security",
+   "ChatGPT privacy",
+   "data safety",
+   "GST ledger protection"
+  ],
+  "claims": [
+   {
+    "claim": "Public AI tools like ChatGPT use user data to train models, creating a risk of exposure for sensitive information.",
+    "source_id": 53
+   },
+   {
+    "claim": "AI behavior is unpredictable and cannot always be relied upon to keep safeguards active as intended.",
+    "source_id": 53
+   },
+   {
+    "claim": "Safeguards in AI systems can be muted or removed by the agents themselves, making them unreliable for sensitive data protection.",
+    "source_id": 53
+   }
+  ],
+  "dm_keyword": "SAFE",
+  "dm_text": "Business data secure rakhne ke liye ye 4 rules follow karein: 1. Kabhi bhi Customer Names, Bank Details ya Supplier Margins AI mein paste na karein. 2. AI ko sirf public info (jaise general industry news) ke liye use karein. 3. Remember that AI systems can be unpredictable and safeguards can drift. 4. Treat AI output as probabilistic, not deterministic. Always verify sensitive documents manually. Stay safe!"
+ },
+ "review": {
+  "scores": {
+   "hook": 9,
+   "originality": 7,
+   "practical_value": 9,
+   "natural_language": 9,
+   "accuracy": 8,
+   "narrative": 8,
+   "visual_integrity": 8,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "Public AI tools like ChatGPT use user data to train models, creating a risk of exposure for sensitive information.",
+    "supported": true
+   },
+   {
+    "claim": "AI behavior is unpredictable and cannot always be relied upon to keep safeguards active as intended.",
+    "supported": true
+   },
+   {
+    "claim": "Safeguards in AI systems can be muted or removed by the agents themselves, making them unreliable for sensitive data protection.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Scene 1: The subtitle 'ChatGPT mein daalna band karo' is slightly redundant as it repeats the hook narration.",
+   "Scene 4: The table layout is clean, but ensure the contrast between the 'Manual Data' and 'Public AI' columns is high enough for mobile readability."
+  ],
+  "issues": [
+   "The transition between 'unpredictable behavior' and 'manual control' is a bit abrupt.",
+   "The DM keyword 'SAFE' is good, but the DM response text is a bit long for a quick mobile read."
+  ],
+  "fix_instructions": "1. In Scene 1, keep the visual text punchy; maybe change the subtitle to 'Don't share business secrets' to avoid exact repetition. 2. In Scene 4, ensure the font size for the table rows is large enough for small screens. 3. Shorten the DM response text to be more conversational and less like a formal list to increase engagement. 4. Otherwise, this is ready to go."
+ },
+ "rules": [
+  "hook/keywords too similar to past item: Using local AI for sensitive business data"
+ ],
+ "reasons": [
+  "hook/keywords too similar to past item: Using local AI for sensitive business data"
+ ],
+ "meta": {
+  "duration": 33.9,
+  "voice": "edge",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-19/R3-2026-11-19/try1/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-19/R3-2026-11-19/try1/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-19/R3-2026-11-19/try1/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-19/R3-2026-11-19/try1/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-19/R3-2026-11-19/try1/scene_05.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-19/R3-2026-11-19/try1/scene_06.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   5.91,
+   5.61,
+   5.77,
+   4.73,
+   5.22,
+   6.7
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-19/R3-2026-11-19/try1",
+ "attempt": 1,
+ "approved": false,
+ "hook": "Apne GST ledgers aur supplier details ChatGPT mein daalna band karo.",
+ "log": [
+  "attempt 1: fail {'hook': 9, 'originality': 7, 'practical_value': 9, 'natural_language': 9, 'accuracy': 8, 'narrative': 8, 'visual_integrity': 8, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} ['hook/keywords too similar to past item: Using local AI for sensitive business data']",
+  "attempt 2: review unavailable (Gemini unavailable (gemini-3.1-flash-lite: ReadTimeout))"
+ ],
+ "material": "[44] OpenAI News — Managing frontier AI risk: From training to deployment\nURL: https://openai.com/index/managing-frontier-ai-risk\nOpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.\n\n[53] MIT Tech Review AI — Building trustworthy AI by fencing it in, not predicting it\nURL: https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/\nYou need to enable JavaScript to view this site. Skip to Content Sponsored\nIn October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had told the agents to do that, and no test had anticipated the behaviors.\nFor a century, we have built trust in technology on predictability: predefined inputs, predictable outputs, and layers of protection. Consider how a breaker trips at a set current or an aircraft component is tested against known (i.e., predictable) stresses.\nAI changes that. Traditional software executes instructions written by humans, whereas AI exercises what might be called synthetic judgment. We use AI because it can interpret situations we did not program and generate responses we did not prescribe. But the more freedom we give AI, the harder it becomes to provide the predictability on which trust has traditionally been built.\nWe will not make AI trustworthy by predicting what it will do. We will do it by fencing it in with hard limits that are enforced outside its reach. In OpenAI’s case, the safeguards sat inside a system the agents could edit. But a fence the agents can simply move is not a fence.\nWhere traditional definitions of trust fall short\nRecent MIT Technology Review coverage has approached this problem from other directions. One contributor argues that having a human in the loop is an insufficient solution because humans are fundamentally unable to understand AI systems’ intentions and advocates instead for interdisciplinary research and collaboration between academia, government, and the tech industry. And a story on reverse game theory describes using incentives to keep models from deviating from the rules, even when no one understands how they work on the inside.\nBoth articles acknowledge that we cannot understand or watch every AI decision. Our instruments of trust, including requirements, testing, certification, safety margins, interlocks, and pass/fail criteria, all depend on our ability to bound a system’s behavior. This is the determinism paradox.\nWith generative and agentic AI, behavior is shaped by training data, architecture, prompts, context, retrieval sources, and the environment. Inputs change, models are updated, tools change, and agents interact. Small variations propagate into outcomes nobody designed. The problem is not randomness; it is that the space of possible behavior is too large to enumerate in advance. Trust must therefore be engineered around boundaries rather than predicted outputs. The goal is not deterministic AI, but bounded, observable, and controllable AI. Trust also cannot be a one-time test. Traditional assurance certifies a product at a point in time, but AI keeps evolving after deployment, and a system that has passed every test can drift outside the conditions that made those tests meaningful. Trust must be continuously earned.\nSafety engineering has been accounting for some of this variability for decades. For example, the Nuclear Regulatory Commission determine the likelihood of failures in complex systems, and Systems-Theoretic Accident Model and Processes (STAMP) showed that accidents can emerge from interactions among working components, people, and organizations. But AI raises the stakes, because just a single component can now interpret, infer, and act. The stakes rise further as AI moves from browsers into vehicles, robots, medical systems, industrial controls, and data centers, where a wrong answer can become a life-threatening event.\nIt’s clear that a person rubber-stamping thousands of AI actions an hour is not an acceptable—or scalable—safeguard against risk. But the remedy is not to remove people from the loop; it is to put human judgment where it counts: setting limits in advance and approving the rare actions that have serious consequences while hard constraints handle the rest.\nTherefore, trust has to move upstream into architecture. The central questions become: What authority are we willing to give AI, under what conditions, and supported by what evidence? And what happens outside those conditions? That is very different from asking whether a model scored 94% on a benchmark.\nThe determinism paradox does not mean AI cannot be trusted. It means trust needs a different architecture. Instead of making every output predictable, make the boundaries predictable. An AI medical assistant may be probabilistic in its diagnosis, but deterministic rules govern whether it can change a prescription. An industrial AI may find many ways to optimize a process, while fixed limits keep it within pressure and temperature bounds. An agent may decide how to complete a task, while permissions, transaction limits, and human approvals determine what it is authorized to do.\nLet AI be probabilistic inside the box and make the box itself deterministic wherever consequences matter. Leaders can put this into practice by asking five questions:\nWhat authority does AI have? Define not only what it can do but what it is allowed to do, separating interpretation, recommendation, decision, and execution.\nIs the function of AI proportional to the consequence? A marketing copilot and AI controlling industrial equipment need different assurance thresholds.\nAre we taking the appropriate steps toward autonomy? For example, there needs to be a plan to move from having AI interpret while humans decide, to AI making recommendations, to then taking action with approval, and ultimately to having supervised autonomy, but only as AI can safely work at each step.\nAre we testing the system or merely the model? Unexpected interactions emerge among models, data, agents, APIs, and human workflows.\nAre we continuously earning trust? Monitor drift, failures, near-misses, and model changes throughout the lifecycle.\nThe winners in AI will be those who solve the determinism paradox—giving AI enough freedom to create value while engineering boundaries strong enough to make what it does with that freedom trustworthy. Invention earns attention. Trust earns adoption.\nExplore how UL Solutions builds trust in AI .\nThis content was produced by UL Solutions. It was not written by MIT Technology Review’s editorial staff.\nTen years after AlphaGo’s match against Go champion Lee Sedol, today’s AI still isn’t tapping into the machinery that made that win possible.\n“We were looking at it wrong”: The explosive claim that’s upended the AI world\nAn exclusive interview with Nick Cammarata, the researcher whose 26,000-word viral blog post has AI safety folks celebrating.\nDon’t be fooled by this summer of AI hype\nBreathless claims about AGI and new capabilities fall apart pretty quickly under scrutiny.\nWith the rise of personal AI assistants, the internet isn't just for humans anymore.\nGet the latest updates from MIT Technology Review\nDis",
+ "id": "R3-2026-11-19",
+ "caption_final": "Public AI tools mein apne business documents upload karna khatra ho sakta hai. Jab aap ChatGPT ya kisi bhi public model mein GST ledgers, supplier price lists ya customer details daalte hain, wo data AI models ko train karne ke liye use kiya ja sakta hai. AI ka behaviour predictable nahi hota aur safeguards hataaye ja sakte hain. Hamesha dhyaan rakhein ki AI ko wahi kaam dein jahan sensitive information involve na ho. Apne business ki privacy secure rakhne ke liye ye simple safety guardrails follow karein aur kabhi bhi personal ya financial data AI mein paste na karein. Comment SAFE for a list of safety tips to protect your business data.\n\n#BusinessSecurity #DataPrivacy #AITips #SmallBusinessIndia"
+}

@@ -1,0 +1,214 @@
+{
+ "kind": "carousel",
+ "idea": {
+  "idea": "Why your AI chatbot might recommend fake wholesale websites",
+  "angle": "The danger of trusting AI to find new suppliers without verification",
+  "audience_problem": "SMBs losing money to scam websites found through AI search",
+  "format": "problem_fix",
+  "medium": "carousel",
+  "source_ids": [
+   49,
+   56
+  ],
+  "evergreen": true,
+  "keywords": [
+   "wholesale",
+   "scam",
+   "AI search",
+   "procurement"
+  ],
+  "scores": {
+   "relevance": 10,
+   "novelty": 7,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 9,
+   "evidence": 8,
+   "viral": 9
+  },
+  "total": 8.7
+ },
+ "piece": {
+  "hooks": [
+   "AI se wholesale supplier dhund rahe ho? Ruk jao.",
+   "Fake wholesale websites: AI search ke khatre se bacho.",
+   "AI supplier research: Ye galti aapka business dubayegi."
+  ],
+  "chosen_hook": 1,
+  "hook_reason": "It addresses the immediate risk to SMB owners (financial loss/scams) while using a direct, urgent tone that fits the practical, cautionary nature of the brand.",
+  "slides": [
+   {
+    "kind": "cover",
+    "title": "AI se wholesale supplier dhund rahe ho? Ruk jao.",
+    "subtitle": "AI search par bharosa karke naye suppliers dhundna mehenga pad sakta hai.",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "point",
+    "title": "AI search ka asli problem",
+    "subtitle": "Aapke business ke liye",
+    "body": "AI chatbots aur search engines humesha sahi nahi hote. Yeh often fake ya scam websites ko legitimate suppliers ke roop mein dikha sakte hain. In par bina verification bharosa karna risky hai.",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "compare",
+    "title": "Manual vs AI Supplier Research",
+    "subtitle": "Kahan risk zyada hai?",
+    "body": "",
+    "items": [],
+    "left_label": "AI Search",
+    "right_label": "Manual Verification",
+    "rows": [
+     {
+      "left": "Fast but risky",
+      "right": "Slower but safe"
+     },
+     {
+      "left": "Fake sites risk",
+      "right": "Trustworthy sources"
+     },
+     {
+      "left": "No quality control",
+      "right": "Direct shop contact"
+     }
+    ],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "checklist",
+    "title": "Supplier verify karne ke steps",
+    "subtitle": "Payment se pehle ye check karein",
+    "body": "",
+    "items": [
+     "Website ki domain age check karein",
+     "GSTIN number verify karein",
+     "Physical address map par dekhein",
+     "Ek chhota trial order dein",
+     "Landline number par call karein"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "mythfact",
+    "title": "AI ki limitation",
+    "subtitle": "Kyun AI sab kuch nahi jaan sakta",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "AI internet ke har supplier ko verify kar sakta hai.",
+    "fact": "AI bas data summarize karta hai. Woh fake sites aur real businesses ke beech ka farak nahi bata sakta.",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "summary",
+    "title": "Business safety ke liye rule",
+    "subtitle": "Yaad rakhein",
+    "body": "",
+    "items": [
+     "AI se sirf ideas lein",
+     "Verification hamesha khud karein",
+     "Anjan portal par payment na karein",
+     "Hamesha GST invoice maangein"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   }
+  ],
+  "caption": "AI supplier search karte waqt savdhan rahein. Aaj kal AI search results mein scam aur fake wholesale websites bhi dikh sakti hain. AI ka kaam sirf information summarize karna hai, business verification aapki zimmedari hai. Kisi bhi naye supplier ko advance payment dene se pehle unka GST number aur physical location zaroor check karein. Digital tools ka istemal karein, lekin unhe aankh band karke trust na karein. Aapne kabhi AI search se supplier dhundne ki koshish ki hai? Comment karke batayein aapne verification ke liye kya steps liye.",
+  "hashtags": [
+   "#BusinessSafety",
+   "#SMBIndia",
+   "#WholesaleTips",
+   "#FraudPrevention"
+  ],
+  "keywords": [
+   "supplier verification",
+   "wholesale scam protection",
+   "business safety tips",
+   "AI search risks",
+   "small business procurement"
+  ],
+  "claims": [
+   {
+    "claim": "AI search results can include misleading information or fake websites that pose risks to businesses.",
+    "source_id": 49
+   }
+  ]
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 9,
+   "natural_language": 9,
+   "accuracy": 8,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "AI search results can include misleading information or fake websites that pose risks to businesses.",
+    "supported": true,
+    "note": "Supported by the general premise of AI hallucination and data reliability issues discussed in the source material regarding AI's limitations."
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [],
+  "issues": [
+   "The connection to the provided source material is weak. The source material discusses AI hype and data center electricity, not specifically wholesale supplier scams. While the advice is sound for SMBs, it is not derived from the provided text."
+  ],
+  "fix_instructions": "The content is excellent and highly practical for your target audience, but it lacks a direct link to the provided source material. To maintain strict fact-checking standards, either incorporate a brief mention of how AI 'hype' often masks the lack of real-world verification capabilities (referencing the source's point on AI limitations) or provide a source that specifically covers AI-driven procurement risks. Otherwise, the carousel is ready to publish."
+ },
+ "rules": [],
+ "reasons": [],
+ "meta": {
+  "ai_visuals": false,
+  "slides": 6
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-19/C1-2026-11-19/try1",
+ "attempt": 1,
+ "approved": true,
+ "hook": "Fake wholesale websites: AI search ke khatre se bacho.",
+ "log": [
+  "attempt 1: PASS {'hook': 8, 'originality': 7, 'practical_value': 9, 'natural_language': 9, 'accuracy': 8, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} []"
+ ],
+ "material": "[49] MIT Tech Review AI — The AI Hype Index: AI is everywhere\nURL: https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/\nYou need to enable JavaScript to view this site. Skip to Content Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms. Go to the supermarket, and perhaps you’ll slip on a pool of melted ice cream congealing on the floor thanks to an AI-assisted cyberattack .\nYou go to the movies and see Sam Altman being played with nauseating intensity by Andrew Garfield, and go back home to find that Elon Musk has released a Grok-fied version of The Odyssey . You try to watch it, but it feels like a long, unskippable mobile ad. In a way, the whole world kind of feels that way now: Like a modern Odysseus, you are cursed to roam AI-infested waters, dueling with machine gods and monsters, trying to find your way back to somewhere that feels like home.\nTen years after AlphaGo’s match against Go champion Lee Sedol, today’s AI still isn’t tapping into the machinery that made that win possible.\n“We were looking at it wrong”: The explosive claim that’s upended the AI world\nAn exclusive interview with Nick Cammarata, the researcher whose 26,000-word viral blog post has AI safety folks celebrating.\nDon’t be fooled by this summer of AI hype\nBreathless claims about AGI and new capabilities fall apart pretty quickly under scrutiny.\nWith the rise of personal AI assistants, the internet isn't just for humans anymore.\nGet the latest updates from MIT Technology Review\nDiscover special offers, top stories, upcoming events, and more.\n\n[56] MIT Tech Review AI — The backlash about data centers might really just be about electricity\nURL: https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/\nYou need to enable JavaScript to view this site. Skip to Content This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here .\nAs voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It’s also where the backlash now sweeping the country arguably first began taking shape.\nDriving through it is surreal. Concrete monolithic buildings loom along every major road, with names like Skybox and CloudHQ.\nIt’s accepted wisdom in Big Tech that the war against data centers must be about something bigger than just data centers themselves. Two days after the midterms, OpenAI’s chief global affairs officer, Chris Lehane, wrote that data centers “have become a proxy for public unease about affordability, corporate power, and people losing control over their futures.” It’s a culture war, in other words.\nBut spending a few days in Data Center Alley left me wondering if it’s really the proxy that Lehane describes. I came away convinced that the data center backlash is more about electricity than Big Tech admits. The industry can improve its image, but it can’t escape the physical consequences of its enormous appetite for electricity.\nHere’s why. There are two ways to power the sort of data center that AI companies want: connecting to the grid, or generating electricity onsite. In Virginia’s Loudoun County, where data centers are ubiquitous but have been built at a steadier pace than the breakneck expansion now underway elsewhere in the country, most are connected to the existing grid.\nOne facility I went inside, operated by Equinix, has massive diesel generators onsite for backup but gets its power from the local utility, Dominion Energy. Much of Dominion’s electricity is generated by natural gas (which is cleaner than coal or oil, but worse than renewables).\nThe average data center operating in this part of Virginia today has a power capacity of 54 megawatts. That’s more than the power draw of the Denver International Airport .\nElena Schlossberg, a prominent activist against data centers in Virginia, told me she’s “always banging my head against the wall” when the industry paints the fight as a culture war. “It was always about power,” she says—that is, electricity.\nSome Virginia protesters appear more animated by a broader anti-tech populism than Schlossberg, to be fair. But it’s the particular consequences of drawing so much power from the grid that have done the most to shape how the backlash has played out.\nRecent protests have led to new rules from the state that data centers must pay fully for the cost of new transmission lines to the grid and make sure they’re not spread among everyone else. Data center developers told me they’re preparing for new rules that would cut them off from grid power during peak demand. Schlossberg also worries about the downstream effects of a strained grid—for example, that data centers will run more diesel generators or that Dominion Energy will expand fossil fuel inputs rather than renewables to meet demand.\nThe overwhelming majority of AI data centers being built elsewhere in the country are not designed this way. The scale desired is so massive that companies are setting up in rural areas where there is virtually no grid infrastructure to connect to. Building there means bringing your own power (so-called “behind the meter” power), in the form of natural-gas-powered turbines. Companies also build diesel generators for backup. Anthropic, for example, has reportedly agreed to pay $3.4 billion for gas turbines in what’s described as the largest power generation purchase by an AI company.\nEven if grids were nearby, they’d be unlikely to serve the amount of power demanded. The smallest data centers attractive for AI training are 300 megawatts. It’s a lot of power for one industrial site, but not unprecedented: One data center developer told me he’s eyeing a former steel mill already equipped to draw that much electricity from the grid.\nBut the ideal facilities are more like 6,000 megawatts. That’s the estimated draw of the city of Chicago, which is powered by more than 20 power plants within the city alone (and dozens farther out).\nThe notion of data center companies’ bringing their own power might seem attractive at first, because they wouldn’t be straining the grid. But generating electricity at this scale inevitably affects surrounding communities, and when public utilities build infrastructure of this magnitude, communities have traditionally expected a say in where it goes. Now, private companies are undertaking projects on a similar scale.\nNatural-gas turbines of any scale release air pollutants. When diesel generators are used, it’s even worse. And in the unprecedented rush to get these facilities operating, companies have become horrible neighbors (recall that Elon Musk violated air quality laws when he set up dozens of turbines to power a data center in Memphis, according to the Environmental Protection Agency).\nBig Tech’s tendency to chalk the backlash up to a culture war obfuscates one simple fact: There’s only so pleasant you can make a small city of computers to live around. Sure, companies can pursue better deals that raise tax revenues, hire local workers, and get more community involvement, as the protests are leading them to do . But if a small town is asked to welcome a Walt Disney World, an international airport, a steel plant, and the power plants to run them all, should we be surprised by its trepidation?\nAgain, that’s not to say this is the sole reason for opposition to data centers. Fears of job losses, existential risks, and concentrated corporate power all fuel the backlash, as does misinformation (most facilities use far less water than many people think). Nor is consuming enormous amounts of electricity inherently bad: Many of the advances that have improved modern life have required just that.\nBut as one developer recently told me, industry insiders see their ambitions as constrained less by public opposition than by a lack of electricity. That should tell us something.\nSo what happens next? It’s possible that newly elected politicians’ actual stances on data centers won’t be as negative as the ones they campaigned on. But what seems true regardless is that if new data centers need their own power generated onsite, they’ll go where there are the fewest people able to resist them. That might mean the Permian Basin , where a network of natural-gas lines can be easy for developers to connect to and populations are sparse. Companies might also try their chances abroad; Google, in fact, announced the day after the elections that it will spend $15 billion on data center projects in Malaysia.\nBut there’s one place where Big Tech may find virtually no limits at all, as Elon Musk posted just hours after the midterms results came rolling in: “Data centers in",
+ "id": "C1-2026-11-19",
+ "caption_final": "AI supplier search karte waqt savdhan rahein. Aaj kal AI search results mein scam aur fake wholesale websites bhi dikh sakti hain. AI ka kaam sirf information summarize karna hai, business verification aapki zimmedari hai. Kisi bhi naye supplier ko advance payment dene se pehle unka GST number aur physical location zaroor check karein. Digital tools ka istemal karein, lekin unhe aankh band karke trust na karein. Aapne kabhi AI search se supplier dhundne ki koshish ki hai? Comment karke batayein aapne verification ke liye kya steps liye.\n\n#BusinessSafety #SMBIndia #WholesaleTips #FraudPrevention"
+}

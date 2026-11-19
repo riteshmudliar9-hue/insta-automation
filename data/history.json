@@ -860,5 +860,21 @@
   "status": "published",
   "media_id": "18132856063744185",
   "permalink": "https://www.instagram.com/p/Df3kXT3DWqY/"
+ },
+ {
+  "id": "C1-2026-11-19",
+  "date": "2026-11-19",
+  "kind": "carousel",
+  "format": "problem_fix",
+  "topic": "Why your AI chatbot might recommend fake wholesale websites",
+  "hook": "Fake wholesale websites: AI search ke khatre se bacho.",
+  "keywords": [
+   "supplier verification",
+   "wholesale scam protection",
+   "business safety tips",
+   "AI search risks",
+   "small business procurement"
+  ],
+  "status": "queued"
  }
 ]
