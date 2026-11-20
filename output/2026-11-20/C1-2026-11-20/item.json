@@ -1,0 +1,233 @@
+{
+ "kind": "carousel",
+ "idea": {
+  "idea": "Stop burning ad money on pay-per-click: why AI search optimization yields cheaper local leads",
+  "angle": "Why traditional ad extraction eats 98% of your budget and how optimizing for AI chat recommendations captures ready buyers",
+  "audience_problem": "Small businesses spend heavily on pay-per-click ad campaigns that deliver low-intent traffic and high customer acquisition costs",
+  "format": "myth_fact",
+  "medium": "carousel",
+  "source_ids": [
+   20
+  ],
+  "evergreen": true,
+  "keywords": [
+   "paid ads",
+   "ad spend",
+   "ai search",
+   "lead generation",
+   "local business"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 8,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 8,
+   "evidence": 8,
+   "viral": 8
+  },
+  "total": 8.43
+ },
+ "piece": {
+  "hooks": [
+   "Are pay-per-click ads draining your trade margins?",
+   "Why paid search ads feel like a slot machine",
+   "Paid search ads vs AI recommendations for local trade"
+  ],
+  "chosen_hook": 1,
+  "hook_reason": "It directly references the core thesis of the Hacker News analysis while framing the frustration Indian traders face with rising click costs.",
+  "slides": [
+   {
+    "kind": "cover",
+    "title": "Why paid search ads feel like a slot machine",
+    "subtitle": "How digital advertising became an extraction tax on your margins.",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "mythfact",
+    "title": "",
+    "subtitle": "",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "Bidding higher on search ads guarantees steady, profitable customer acquisition.",
+    "fact": "Paid advertising functions like an extraction tax, taking your margin while casual clicks dilute real buyer intent.",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "point",
+    "title": "The extraction tax problem",
+    "subtitle": "",
+    "body": "Say you distribute electrical switchgear in Pune. Ad networks charge per tap, taking revenue upfront while margins shrink and real purchase intent remains low.",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "compare",
+    "title": "Search ads versus AI search discovery",
+    "subtitle": "",
+    "body": "",
+    "items": [],
+    "left_label": "Paid search ads",
+    "right_label": "AI answer discovery",
+    "rows": [
+     {
+      "left": "Charged per click",
+      "right": "Zero per-click fee"
+     },
+     {
+      "left": "Broad window shoppers",
+      "right": "Specific intent queries"
+     },
+     {
+      "left": "Traffic stops when budget ends",
+      "right": "Citations build durable reach"
+     }
+    ],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "steps",
+    "title": "Preparing your data for AI search",
+    "subtitle": "",
+    "body": "",
+    "items": [
+     "Publish clear item specifications and brand part numbers.",
+     "State delivery zones and GST billing terms plainly.",
+     "Maintain identical business details across directories.",
+     "Encourage customer reviews citing exact materials bought."
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "summary",
+    "title": "Pragmatic steps for your shop",
+    "subtitle": "",
+    "body": "",
+    "items": [
+     "Audit ad spend against real converted orders.",
+     "Structure web catalogs for search engine crawlers.",
+     "Focus budget on detailed inventory listings."
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   }
+  ],
+  "caption": "How to avoid paying an extraction tax on pay-per-click advertising.\n\nWhen you buy search ads for a workshop or wholesale counter, platforms charge you on every click regardless of actual customer intent. The traditional ad model increasingly operates like an extraction tax on your operational margins. Instead of escalating keyword bids, structure your online catalog with exact specifications, GST terms, and delivery parameters so modern AI tools can accurately cite your inventory when qualified buyers search.\n\nWhat share of your monthly ad clicks turns into actual quotation requests?",
+  "hashtags": [
+   "#LocalBusinessMarketing",
+   "#CustomerAcquisition",
+   "#SMBFinance",
+   "#B2BMarketing"
+  ],
+  "keywords": [
+   "pay per click ads",
+   "ad extraction tax",
+   "local business marketing",
+   "ai search optimization",
+   "customer acquisition cost"
+  ],
+  "claims": [
+   {
+    "claim": "Paid advertising operates like an extraction tax that takes business margins.",
+    "source_id": 20
+   }
+  ]
+ },
+ "review": {
+  "scores": {
+   "hook": 7,
+   "originality": 7,
+   "practical_value": 6,
+   "natural_language": 6,
+   "accuracy": 7,
+   "narrative": 6,
+   "visual_integrity": 6,
+   "pacing": 6,
+   "brand_consistency": 7,
+   "publish_readiness": 4
+  },
+  "claims": [
+   {
+    "claim": "Paid advertising operates like an extraction tax that takes business margins.",
+    "supported": true,
+    "note": "Supported directly by the source article title and core thesis."
+   },
+   {
+    "claim": "AI search discovery currently has zero per-click fee for organic citations.",
+    "supported": true,
+    "note": "Reflects current organic AI engine synthesis (Perplexity, ChatGPT, Google AI Overviews)."
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Slide 1: 'MYTH vs FACT' badge pill is mistakenly placed above the cover title.",
+   "Slide 1: The bottom image insert ('GLOBAL COMMERCE GRAPH') is dark, unreadable, and feels randomly cropped."
+  ],
+  "issues": [
+   "Slide 6 duplicates the advice from Slide 5 rather than concluding with a fresh CTA or takeaway.",
+   "Language is slightly formal and academic ('extraction tax', 'dilute real buyer intent') rather than conversational for an Indian SMB owner."
+  ],
+  "fix_instructions": "1. On Slide 1, remove the erroneous 'MYTH vs FACT' pill tag and fix/remove the dark cropped screenshot at the bottom. 2. Rewrite Slide 6 to offer a strong closing question/CTA or practical tool recommendation instead of repeating Slide 5. 3. Adjust phrasing across slides to sound more natural and conversational for Indian business owners."
+ },
+ "rules": [],
+ "reasons": [
+  "hook 7/10 (<8)",
+  "originality 7/10 (<8)",
+  "practical_value 6/10 (<8)",
+  "natural_language 6/10 (<8)",
+  "accuracy 7/10 (<8)",
+  "narrative 6/10 (<8)",
+  "visual_integrity 6/10 (<8)",
+  "pacing 6/10 (<7)",
+  "publish_readiness 4/10 (<7)"
+ ],
+ "meta": {
+  "ai_visuals": false,
+  "slides": 6
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-20/C1-2026-11-20/try2",
+ "attempt": 2,
+ "approved": false,
+ "hook": "Why paid search ads feel like a slot machine",
+ "log": [
+  "attempt 1: fail {'hook': 6, 'originality': 6, 'practical_value': 5, 'natural_language': 5, 'accuracy': 6, 'narrative': 5, 'visual_integrity': 6, 'pacing': 6, 'brand_consistency': 6, 'publish_readiness': 5} ['hook 6/10 (<8)', 'originality 6/10 (<8)', 'practical_value 5/10 (<8)', 'natural_language 5/10 (<8)']",
+  "attempt 2: fail {'hook': 7, 'originality': 7, 'practical_value': 6, 'natural_language': 6, 'accuracy': 7, 'narrative': 6, 'visual_integrity': 6, 'pacing': 6, 'brand_consistency': 7, 'publish_readiness': 4} ['hook 7/10 (<8)', 'originality 7/10 (<8)', 'practical_value 6/10 (<8)', 'natural_language 6/10 (<8)']",
+  "attempt 3: fail {'hook': 6, 'originality': 6, 'practical_value': 5, 'natural_language': 7, 'accuracy': 6, 'narrative': 6, 'visual_integrity': 5, 'pacing': 6, 'brand_consistency': 7, 'publish_readiness': 5} ['hook 6/10 (<8)', 'originality 6/10 (<8)', 'practical_value 5/10 (<8)', 'natural_language 7/10 (<8)']"
+ ],
+ "material": "[20] Hacker News — The 98% Slot Machine: How Paid Advertising Became an Extraction Tax\nURL: https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine\nArticle URL: https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine Comments URL: https://news.ycombinator.com/item?id=50564159 Points: 181 # Comments: 95",
+ "id": "C1-2026-11-20",
+ "caption_final": "How to avoid paying an extraction tax on pay-per-click advertising.\n\nWhen you buy search ads for a workshop or wholesale counter, platforms charge you on every click regardless of actual customer intent. The traditional ad model increasingly operates like an extraction tax on your operational margins. Instead of escalating keyword bids, structure your online catalog with exact specifications, GST terms, and delivery parameters so modern AI tools can accurately cite your inventory when qualified buyers search.\n\nWhat share of your monthly ad clicks turns into actual quotation requests?\n\n#LocalBusinessMarketing #CustomerAcquisition #SMBFinance #B2BMarketing"
+}

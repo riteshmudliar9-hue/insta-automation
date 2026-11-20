@@ -1,0 +1,286 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Using Google Gemini's Mac desktop computer use feature to automate multi-step file organization and form filling for shop owners",
+  "angle": "How to let AI execute multi-step desktop chores like filing supplier invoices and organizing spreadsheets without manual copy-pasting",
+  "audience_problem": "Business owners waste hours moving data between downloaded PDF invoices, Excel sheets, and web portals every week",
+  "format": "demo",
+  "medium": "reel",
+  "source_ids": [
+   4,
+   14
+  ],
+  "evergreen": true,
+  "keywords": [
+   "gemini",
+   "mac computer use",
+   "desktop automation",
+   "invoice processing",
+   "workflow"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 9,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 8,
+   "feasibility": 9,
+   "evidence": 9,
+   "viral": 8
+  },
+  "total": 8.57
+ },
+ "piece": {
+  "hooks": [
+   "Downloaded invoices Excel me manually copy paste karna band karo.",
+   "Downloaded invoices Excel me entry karna band karo. Iski jagah ye dekho.",
+   "Mac pe multi-step files organize karna ab AI khud karega.",
+   "PDF invoice se Excel sheet entry ab background mein hogi.",
+   "Form filling aur batch file desktop tasks Gemini se auto karo."
+  ],
+  "chosen_hook": 1,
+  "hook_reason": "Directly targets a specific daily struggle of Indian shop owners and traders handling supplier and GST invoice entry into sheets, framing the tool around a practical desktop workflow.",
+  "title": "Automate Desktop Invoice & File Tasks with Gemini Mac",
+  "scenes": [
+   {
+    "purpose": "Hook user with a specific, relatable manual spreadsheet entry pain point.",
+    "narration": "Downloaded invoices Excel me entry karna band karo. Iski jagah ye dekho.",
+    "on_screen": "Manual Excel entry stop",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Invoice to Excel manual hassle",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Introduce the tool feature that handles desktop tasks across apps.",
+    "narration": "Google ne Gemini Mac app mein computer use feature launch kiya hai.",
+    "on_screen": "Gemini Mac computer use",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "Gemini Mac app",
+     "Reads local files",
+     "Fills forms or sheets"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Explain how it works safely without locking the user screen.",
+    "narration": "Aapka cursor free rahega. AI background live preview window mein kaam karega.",
+    "on_screen": "Cursor stays completely free",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Background live preview",
+     "Pause or stop anytime",
+     "Approve actions first"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Compare manual multi-step file chores with the automated desktop agent.",
+    "narration": "Form filling, batch files folder mein organize karna, sab auto ho sakta hai.",
+    "on_screen": "Forms aur file folders",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "Manual Way",
+    "right_label": "Gemini Agent",
+    "rows": [
+     {
+      "left": "Open each file",
+      "right": "Batch processing"
+     },
+     {
+      "left": "Manual copy paste",
+      "right": "Background tasks"
+     },
+     {
+      "left": "Blocks screen",
+      "right": "Cursor free"
+     }
+    ]
+   },
+   {
+    "purpose": "Highlight honest limits: regional rollout and paid subscription requirement.",
+    "narration": "Lekin ye abhi sirf US English aur paid Google AI plans par available hai.",
+    "on_screen": "US English & Paid plan",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Requires Mac app",
+     "US English initial rollout",
+     "Google AI subscription"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Provide clear payoff and prompt DM interaction.",
+    "narration": "Full requirement check details chahiye? Comment GEMINI, main setup details DM kar dunga.",
+    "on_screen": "Comment GEMINI for details",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Comment GEMINI below",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "How to use Google Gemini computer use on Mac for business desktop tasks.\n\nIf you spend hours organizing downloaded PDF invoices, updating Excel sheets, or filling online forms across browser windows, AI computer agents are moving to the desktop. Google announced computer use for the Gemini desktop app on macOS. It operates inside a live preview background window, meaning your screen and mouse cursor stay completely free while it runs multi-step tasks.\n\nYou retain control to pause, stop, or approve actions before execution. However, this initial rollout is limited to English in the US and requires a Google AI Plus, Pro, or Ultra subscription.\n\nAre you planning to test desktop AI agents once rolled out in India? Comment GEMINI for the full breakdown.",
+  "hashtags": [
+   "#GoogleGemini",
+   "#MacAutomation",
+   "#SmallBusinessIndia",
+   "#OfficeProductivity"
+  ],
+  "keywords": [
+   "Gemini Mac computer use",
+   "desktop AI automation",
+   "invoice file organization",
+   "Google AI desktop agent",
+   "automate Excel form filling"
+  ],
+  "claims": [
+   {
+    "claim": "Google announced computer use for its Gemini desktop application on macOS, allowing AI to complete tasks across local files, desktop apps, and websites.",
+    "source_id": 4
+   },
+   {
+    "claim": "User sees the agent working in a live preview in chat while keeping screen and cursor free to continue working.",
+    "source_id": 4
+   },
+   {
+    "claim": "Users can pause, stop, and approve Gemini actions before they happen and control which apps Gemini accesses.",
+    "source_id": 4
+   },
+   {
+    "claim": "Feature helps with form filling, batch file organization across folders, and multi-step desktop workflows.",
+    "source_id": 4
+   },
+   {
+    "claim": "Feature is initially available in English in the US and requires the Gemini app for Mac and a Google AI Plus, Pro, or Ultra subscription.",
+    "source_id": 4
+   }
+  ],
+  "dm_keyword": "GEMINI",
+  "dm_text": "Google Gemini Mac Computer Use updates:\n\n1. Background Execution: Runs multi-step tasks across local files, apps, and web in a live preview chat window without locking your cursor.\n2. Manual Control: Pause, stop, or approve actions before execution, and manage which apps Gemini accesses.\n3. Capabilities: Form filling, sorting batch files into folders, making slideshows from dashboard files.\n4. Requirements: Gemini Mac app, US English language setting, and a Google AI Plus, Pro, or Ultra subscription.\n5. Source report: https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/"
+ },
+ "review": {
+  "scores": {
+   "hook": 7,
+   "originality": 6,
+   "practical_value": 4,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 7,
+   "visual_integrity": 9,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 6
+  },
+  "claims": [
+   {
+    "claim": "Google announced computer use for its Gemini desktop application on macOS, allowing AI to complete tasks across local files, desktop apps, and websites.",
+    "supported": true,
+    "note": "Fully supported by TechCrunch and The Verge sources."
+   },
+   {
+    "claim": "User sees the agent working in a live preview in chat while keeping screen and cursor free to continue working.",
+    "supported": true,
+    "note": "Supported by source."
+   },
+   {
+    "claim": "Users can pause, stop, and approve Gemini actions before they happen and control which apps Gemini accesses.",
+    "supported": true,
+    "note": "Supported by source."
+   },
+   {
+    "claim": "Feature helps with form filling, batch file organization across folders, and multi-step desktop workflows.",
+    "supported": true,
+    "note": "Supported by source."
+   },
+   {
+    "claim": "Feature is initially available in English in the US and requires the Gemini app for Mac and a Google AI Plus, Pro, or Ultra subscription.",
+    "supported": true,
+    "note": "Supported by source."
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [],
+  "issues": [
+   "Practical utility mismatch: The hook tells Indian business owners to stop doing manual invoice entry, implying they can use this solution right now. However, the feature is limited to US English users on Mac with a paid Google AI subscription, meaning Indian SMB owners cannot implement this today.",
+   "Hardware relevance: Most Indian SMB accounting and Excel work happens on Windows machines, whereas this specific feature is exclusively available on macOS."
+  ],
+  "fix_instructions": "Reframe the hook and intro from an immediate tutorial ('Excel entry karna band karo') to a feature update preview ('Mac users ke liye Gemini ka bada update aaya hai'). Clarify early in scene 1 or 2 that this is a US-only rollout preview for Mac users so viewers do not expect immediate setup steps in India."
+ },
+ "rules": [],
+ "reasons": [
+  "hook 7/10 (<8)",
+  "originality 6/10 (<8)",
+  "practical_value 4/10 (<8)",
+  "narrative 7/10 (<8)",
+  "publish_readiness 6/10 (<7)",
+  "reel is 56.8 s long (max 45 s; aim for 15-35 s)"
+ ],
+ "meta": {
+  "duration": 56.8,
+  "voice": "gemini",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-20/R1-2026-11-20/try2/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-20/R1-2026-11-20/try2/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-20/R1-2026-11-20/try2/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-20/R1-2026-11-20/try2/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-20/R1-2026-11-20/try2/scene_05.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-20/R1-2026-11-20/try2/scene_06.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   3.49,
+   18.14,
+   14.78,
+   3.44,
+   3.62,
+   13.33
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-20/R1-2026-11-20/try2",
+ "attempt": 2,
+ "approved": false,
+ "hook": "Downloaded invoices Excel me entry karna band karo. Iski jagah ye dekho.",
+ "log": [
+  "attempt 1: fail {'hook': 6, 'originality': 6, 'practical_value': 5, 'natural_language': 7, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 6, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 6} ['hook 6/10 (<8)', 'originality 6/10 (<8)', 'practical_value 5/10 (<8)', 'natural_language 7/10 (<8)']",
+  "attempt 2: fail {'hook': 7, 'originality': 6, 'practical_value': 4, 'natural_language': 8, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 6} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 4/10 (<8)', 'narrative 7/10 (<8)']",
+  "attempt 3: fail {'hook': 6, 'originality': 5, 'practical_value': 4, 'natural_language': 7, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 8, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 5} ['hook 6/10 (<8)', 'originality 5/10 (<8)', 'practical_value 4/10 (<8)', 'natural_language 7/10 (<8)']",
+  "attempt 4: fail {'hook': 5, 'originality': 5, 'practical_value': 4, 'natural_language': 6, 'accuracy': 9, 'narrative': 6, 'visual_integrity': 7, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 5} ['hook 5/10 (<8)', 'originality 5/10 (<8)', 'practical_value 4/10 (<8)', 'natural_language 6/10 (<8)']"
+ ],
+ "material": "[4] TechCrunch AI — Google gives Gemini the ability to use your Mac for you\nURL: https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/\nImage Credits: Google AI Google gives Gemini the ability to use your Mac for you Sarah Perez 10:09 AM PST · November 19, 2026 Google on Thursday announced that it is bringing computer use to its Gemini desktop application on macOS, allowing its AI to complete tasks on users’ behalf, navigating native Mac apps, and browsing websites in the background.\nThe tech giant is a little late to the game with this launch, as other leading AI model makers like OpenAI, Anthropic, and Meta have already been offering agentic features in their desktop applications for some time. Meanwhile, Google only this week announced the broader rollout of Gemini’s “Tasks,” the in-app feature that allows the AI to work more as an agent, helping users sign into websites, make online purchases, or book appointments.\nGoogle also only recently began admitting early testers to try its revamped “CC” AI agent, announced in September , which is designed to help families stay organized across email, calendars, chats, and tasks.\nComputer use is another type of agentic offering that allows an AI agent to take actions directly on the user’s computer — in Gemini’s case, a Mac. This allows the AI to complete multistep tasks that involve getting things done across local files, apps, and the web. After the user instructs the AI what they want to do, they’ll see the agent working in a live preview in their chat, while still keeping their screen and cursor free to continue working on other things.\nAs with other AI agents offering computer use, users can pause, stop, and approve Gemini’s actions before they happen.\nGoogle suggests the feature could be useful for tedious tasks and other workflows, like filling out forms, repeating the same task over and over across a batch of files, organizing files into folders based on specific criteria, creating slideshows from files or information in online dashboards, and more.\nThe feature is initially available in English in the U.S. and requires the Gemini app for Mac and a Google AI Plus, Pro, or Ultra subscription. The company didn’t say when it would expand to other markets or platforms.\nWhen you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence.\n2027 San Francisco Get an Early Peek at the Next TechCrunch Disrupt Disrupt, Startup Battlefield, and more will return next year, and you can be at the front of the line. Sign up for our waitlist\nMicrosoft CEO Satya Nadella explains why he asked 60K employees to quit\nAmazon and Google will together own nearly 30% of Anthropic after its IPO\nGoogle joins the tech outage trend by announcing it’s not having one\nFBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’\nThe tech products we enthusiastically recommend this holiday season\nElon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang\n\n[14] The Verge AI — Gemini on Mac can now use your computer\nURL: https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use\nGemini on Mac can now use your computer | The Verge Skip to main content The homepage The Verge The Verge logo. The homepage The Verge The Verge logo. Notifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo. Login / Sign Up\nComments Loading comments Getting the conversation ready... Tech\nWith the new computer use feature, Google says Gemini can better help with things like filling in forms and creative workflows.\nWith the new computer use feature, Google says Gemini can better help with things like filling in forms and creative workflows.\nJay Peters Nov 19, 2026, 6:21 PM UTC Link\nJay Peters is a senior reporter covering technology, gaming, and more. He joined The Verge in 2019 after nearly two years at Techmeme. Google’s Gemini app for macOS now has computer use, meaning it can help you “get multi-step tasks done across your local files, desktop apps, and the web,” the company says . Google suggests the feature might be useful for things like speeding up workflows, filling in forms, making presentations, and listing items for sale.\nUsers will be able to decide which of your apps Gemini can access, and be able to follow along as Gemini works because it has its own background window that shows a live preview in your chat, Google says. The feature is rolling out now in English for users in the US.\nGemini is introducing the new feature ahead of Apple launching new restrictions for apps wanting “full disk access” on Mac due to potential risks from AI agents with computer use. A preview of the settings rolled out with this week’s macOS 27.3 beta .\nGrand Theft Auto VI does something impossible — it lives up to the hype\nThe first Nvidia RTX Spark mini PCs launch today from Asus, Dell, and MSI\nI let Apple’s always-listening AI summarize my life for two weeks\nElon Musk tries to explain what’s going on with Ukraine and Starlink\nNov 18 Grand Theft Auto VI does something impossible — it lives up to the hype Notifications Drawer The Verge The Verge logo. Sign in to see your notifications or create an account to join the conversation.",
+ "id": "R1-2026-11-20",
+ "caption_final": "How to use Google Gemini computer use on Mac for business desktop tasks.\n\nIf you spend hours organizing downloaded PDF invoices, updating Excel sheets, or filling online forms across browser windows, AI computer agents are moving to the desktop. Google announced computer use for the Gemini desktop app on macOS. It operates inside a live preview background window, meaning your screen and mouse cursor stay completely free while it runs multi-step tasks.\n\nYou retain control to pause, stop, or approve actions before execution. However, this initial rollout is limited to English in the US and requires a Google AI Plus, Pro, or Ultra subscription.\n\nAre you planning to test desktop AI agents once rolled out in India? Comment GEMINI for the full breakdown.\n\n#GoogleGemini #MacAutomation #SmallBusinessIndia #OfficeProductivity"
+}

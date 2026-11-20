@@ -1,0 +1,279 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Using ChatGPT Live Dictation for instant site measurement and client notes",
+  "angle": "How contractors can dictate site measurement notes and client quotes on-the-go without waiting for audio file processing",
+  "audience_problem": "Contractors on noisy job sites take manual notes on paper or voice messages that later take hours to transcribe into formal estimates",
+  "format": "tool_test",
+  "medium": "reel",
+  "source_ids": [
+   16
+  ],
+  "evergreen": true,
+  "keywords": [
+   "chatgpt live dictation",
+   "voice notes",
+   "contractors",
+   "site visits",
+   "estimates"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 8,
+   "hook_potential": 8,
+   "retention": 8,
+   "save_share": 8,
+   "feasibility": 10,
+   "evidence": 9,
+   "viral": 7
+  },
+  "total": 8.2
+ },
+ "piece": {
+  "hooks": [
+   "Site measurements diary mein likhna band karo. Bolte hi text ready.",
+   "Job site par lambe voice notes record karke wait mat karo.",
+   "ChatGPT ka naya live dictation feature dekha? Bolte hi type.",
+   "Client estimates ke liye ghanto voice notes sunna band karo.",
+   "Contractors site measurements paper par likhna band karo. Ye dekho."
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "Addresses a concrete manual habit of contractors (writing site notes in diaries) and immediately promises real-time live dictation.",
+  "title": "ChatGPT Live Dictation for Site Contractors",
+  "scenes": [
+   {
+    "purpose": "hook",
+    "narration": "Site measurements diary mein likhna band karo. Bolte hi text ready.",
+    "on_screen": "Live Site Notes",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Bolte Hi Text Ready",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "update overview",
+    "narration": "ChatGPT ne microphone dictation update kiya hai sabhi free aur paid users ke liye.",
+    "on_screen": "Free Update Live",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Live dictation update",
+     "Web aur mobile apps",
+     "Sabhi plans par available"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "before vs after",
+    "narration": "Pehle recording rukne tak wait karna padta tha, ab bolte hi live transcribe hota hai.",
+    "on_screen": "Zero Waiting Time",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "Pehle",
+    "right_label": "Abhi",
+    "rows": [
+     {
+      "left": "Audio upload wait",
+      "right": "Live real-time text"
+     },
+     {
+      "left": "10-minute limit",
+      "right": "No time limit"
+     }
+    ]
+   },
+   {
+    "purpose": "feature detail",
+    "narration": "OpenAI ne iska 10-minute limit bhi hata diya hai, waveform tap karke edit kar sakte ho.",
+    "on_screen": "No Time Limit",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "Mic par bolo",
+     "Waveform tap karo",
+     "Prompt box edit"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "practical use case",
+    "narration": "Isko bolo site measurements ko formal quotation points mein convert kar de.",
+    "on_screen": "Instant Quotation Points",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Raw site voice",
+     "Bullet point summary",
+     "Quotation estimate draft"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "caution and cta",
+    "narration": "Lekin numbers verify zaroor karo. Comment DICTATE, main setup steps DM kar dunga.",
+    "on_screen": "Comment DICTATE",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Check Numbers Before Sending",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "How contractors can dictate site notes using ChatGPT Live Dictation without waiting for audio transcription. OpenAI has rolled out live dictation across web, desktop, iOS, and Android apps on all plans. Instead of waiting for an audio file to process, ChatGPT now generates text in real time as you speak, with the previous 10-minute recording limit removed. You can tap the audio waveform to view and edit text directly in the prompt box before converting it into quotation bullet points. Always double-check measurements before finalizing estimates. Comment DICTATE for the step-by-step setup guide.",
+  "hashtags": [
+   "#ContractorTips",
+   "#CivilContractor",
+   "#ChatGPTUpdates",
+   "#SmallBusinessAutomation"
+  ],
+  "keywords": [
+   "ChatGPT live dictation",
+   "site measurement voice notes",
+   "contractor quotation notes",
+   "real time voice transcription",
+   "ChatGPT voice update"
+  ],
+  "claims": [
+   {
+    "claim": "ChatGPT now transcribes audio prompts in real time as you speak rather than waiting until recording ends",
+    "source_id": 16
+   },
+   {
+    "claim": "Live Dictation is rolling out globally on all ChatGPT plans across web, desktop app, and iOS and Android apps",
+    "source_id": 16
+   },
+   {
+    "claim": "OpenAI has removed the 10-minute recording limit on voice dictation",
+    "source_id": 16
+   },
+   {
+    "claim": "Tapping or clicking the audio waveform reveals the live transcript to edit in the prompt box",
+    "source_id": 16
+   },
+   {
+    "claim": "ChatGPT prompt box dictation can transcribe voice notes and format them into bullet points",
+    "source_id": 16
+   }
+  ],
+  "dm_keyword": "DICTATE",
+  "dm_text": "Here is how to use ChatGPT Live Dictation for site notes:\n\n1. Open ChatGPT on your mobile app (iOS or Android) or web browser.\n2. Tap the microphone icon in the prompt box.\n3. Speak your site measurements or client requirements naturally. The text now transcribes live on screen as you speak.\n4. Tap or click the audio waveform to inspect the live transcript.\n5. The 10-minute limit is now removed, so you can dictate longer walkthroughs.\n6. In the prompt box, add: 'Convert these notes into clear bullet points for a quotation draft.'\n7. Always verify numbers and dimensions before sending quotations to clients."
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 7,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 7,
+   "pacing": 8,
+   "brand_consistency": 8,
+   "publish_readiness": 7
+  },
+  "claims": [
+   {
+    "claim": "ChatGPT now transcribes audio prompts in real time as you speak rather than waiting until recording ends",
+    "supported": true,
+    "note": "Supported by source [16]"
+   },
+   {
+    "claim": "Live Dictation is rolling out globally on all ChatGPT plans across web, desktop app, and iOS and Android apps",
+    "supported": true,
+    "note": "Supported by source [16]"
+   },
+   {
+    "claim": "OpenAI has removed the 10-minute recording limit on voice dictation",
+    "supported": true,
+    "note": "Supported by source [16]"
+   },
+   {
+    "claim": "Tapping or clicking the audio waveform reveals the live transcript to edit in the prompt box",
+    "supported": true,
+    "note": "Supported by source [16]"
+   },
+   {
+    "claim": "ChatGPT prompt box dictation can transcribe voice notes and format them into bullet points",
+    "supported": true,
+    "note": "Supported by source [16]"
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Scene 4: On-screen headline reads 'No Time Limit', but the diagram shows steps for recording and editing text via waveform ('Mic par bolo' -> 'Waveform tap karo' -> 'Prompt box edit'). The title does not match the diagram content."
+  ],
+  "issues": [
+   "Visuals rely entirely on generic card templates and block diagrams rather than showing the actual ChatGPT interface or audio waveform in action."
+  ],
+  "fix_instructions": "Change the slide headline in Scene 4 to 'How To Edit Live Text' so it matches the diagram steps. Replace generic card graphics with actual mobile UI screenshots of ChatGPT's Live Dictation feature for better credibility."
+ },
+ "rules": [],
+ "reasons": [
+  "originality 7/10 (<8)",
+  "practical_value 7/10 (<8)",
+  "visual_integrity 7/10 (<8)"
+ ],
+ "meta": {
+  "duration": 34.3,
+  "voice": "edge",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-20/R3-2026-11-20/try1/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-20/R3-2026-11-20/try1/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-20/R3-2026-11-20/try1/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-20/R3-2026-11-20/try1/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-20/R3-2026-11-20/try1/scene_05.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-20/R3-2026-11-20/try1/scene_06.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   5.19,
+   6.01,
+   5.81,
+   6.01,
+   4.85,
+   6.42
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-20/R3-2026-11-20/try1",
+ "attempt": 1,
+ "approved": false,
+ "hook": "Site measurements diary mein likhna band karo. Bolte hi text ready.",
+ "log": [
+  "attempt 1: fail {'hook': 8, 'originality': 7, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 7} ['originality 7/10 (<8)', 'practical_value 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+  "attempt 2: fail {'hook': 7, 'originality': 7, 'practical_value': 7, 'natural_language': 7, 'accuracy': 9, 'narrative': 6, 'visual_integrity': 5, 'pacing': 6, 'brand_consistency': 7, 'publish_readiness': 5} ['hook 7/10 (<8)', 'originality 7/10 (<8)', 'practical_value 7/10 (<8)', 'natural_language 7/10 (<8)']",
+  "attempt 3: fail {'hook': 7, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 5, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 5} ['hook 7/10 (<8)', 'originality 7/10 (<8)', 'visual_integrity 5/10 (<8)', 'publish_readiness 5/10 (<7)']",
+  "attempt 4: fail {'hook': 7, 'originality': 6, 'practical_value': 7, 'natural_language': 7, 'accuracy': 8, 'narrative': 7, 'visual_integrity': 6, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 6} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 7/10 (<8)', 'natural_language 7/10 (<8)']"
+ ],
+ "material": "[16] The Verge AI — ChatGPT can transcribe as you speak now with Live Dictation\nURL: https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation\nChatGPT can transcribe as you speak now with Live Dictation | The Verge Skip to main content The homepage The Verge The Verge logo. The homepage The Verge The Verge logo. Notifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo. Login / Sign Up\nComments Loading comments Getting the conversation ready... AI\nChatGPT’s new Live Dictation feature transcribes audio prompts faster, with no more 10-minute limit.﻿\nChatGPT’s new Live Dictation feature transcribes audio prompts faster, with no more 10-minute limit.﻿\nStevie Bonifield Nov 19, 2026, 3:16 PM UTC Link\nStevie Bonifield is a news writer covering all things consumer tech. Stevie started out at Laptop Mag writing news and reviews on hardware, gaming, and AI. ChatGPT can receive audio prompts from your microphone faster now with a Live Dictation feature that transcribes as you speak, rather than waiting until you finish recording. It’s rolling out now globally on all ChatGPT plans on the web, desktop app, and iOS and Android apps. While using dictation in ChatGPT, you can tap or click the audio waveform to show the live text transcript the AI is generating, then edit it in the prompt box when you’re done.\nAlong with faster transcription, OpenAI also announced it’s removing the 10-minute recording limit on voice dictation in ChatGPT, and it says the feature is getting “more reliable.” The update follows an overhaul for ChatGPT’s two-way conversational voice mode earlier this year. Last year, OpenAI also announced a “record mode” for transcribing voice notes and meetings. That feature is still in beta and limited to Plus, Enterprise, Edu, Business, and Pro workspaces, but you can also use ChatGPT’s prompt box dictation feature to ask it to transcribe voice messages or turn them into bullet points.\nGrand Theft Auto VI does something impossible — it lives up to the hype\nThe first Nvidia RTX Spark mini PCs launch today from Asus, Dell, and MSI\nElon Musk tries to explain what’s going on with Ukraine and Starlink\nI let Apple’s always-listening AI summarize my life for two weeks\nNov 18 Grand Theft Auto VI does something impossible — it lives up to the hype Notifications Drawer The Verge The Verge logo. Sign in to see your notifications or create an account to join the conversation.",
+ "id": "R3-2026-11-20",
+ "caption_final": "How contractors can dictate site notes using ChatGPT Live Dictation without waiting for audio transcription. OpenAI has rolled out live dictation across web, desktop, iOS, and Android apps on all plans. Instead of waiting for an audio file to process, ChatGPT now generates text in real time as you speak, with the previous 10-minute recording limit removed. You can tap the audio waveform to view and edit text directly in the prompt box before converting it into quotation bullet points. Always double-check measurements before finalizing estimates. Comment DICTATE for the step-by-step setup guide.\n\n#ContractorTips #CivilContractor #ChatGPTUpdates #SmallBusinessAutomation"
+}

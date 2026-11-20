@@ -1,0 +1,275 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Preventing AI agent cross-account privacy leaks in small business operations",
+  "angle": "Why multi-user AI agents can accidentally expose private bank balances and customer orders if context memory isn't isolated",
+  "audience_problem": "Shop owners adopting shared AI chat assistants risk leaking sensitive financial balances or client orders across employees",
+  "format": "problem_fix",
+  "medium": "reel",
+  "source_ids": [
+   5
+  ],
+  "evergreen": true,
+  "keywords": [
+   "ai privacy",
+   "data leak",
+   "muse ai",
+   "business security",
+   "bank data"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 8,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 9,
+   "evidence": 8,
+   "viral": 8
+  },
+  "total": 8.5
+ },
+ "piece": {
+  "hooks": [
+   "Meta ke Muse AI ne doosre user ka bank balance leak kar diya.",
+   "AI assistants doosre customer ke orders aur messages mix kar rahe hain.",
+   "Aapka AI assistant doosre user ko aapka bank balance dikha sakta hai.",
+   "AI agent use karne se pehle ye privacy leak risk zaroor samjho.",
+   "Meta ka Muse AI app chalate waqt ye galti bilkul mat karna."
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "Directly quotes a factual security flaw in a major AI agent (Meta Muse) reported by TechCrunch/Reuters, catching immediate attention of business owners using AI tools.",
+  "title": "Prevent AI Agent Data Leaks in Small Businesses",
+  "scenes": [
+   {
+    "purpose": "Hook viewer with actual reported AI data leak incident",
+    "narration": "Meta ke Muse AI ne doosre user ka bank balance leak kar diya.",
+    "on_screen": "AI Data Leak Warning",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Meta Muse Data Leak Reported",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Explain what happened based on source facts",
+    "narration": "Internal reports ke mutabiq, Muse AI ne chats me doosre logo ke bank balances aur orders show kar diye.",
+    "on_screen": "Mixed User Messages",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Bank balance exposed",
+     "Product orders mixed",
+     "Signal alerts sent"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Provide specific real-world example from report",
+    "narration": "Ek weather chat ke dauran, bot ne randomly doosre account ke Capital One aur Schwab balances bhej diye.",
+    "on_screen": "Random Balance Popup",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "$2722 and $5899 Leaked",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Relate risk to small business context",
+    "narration": "Agar aapka bot context isolate nahi karta, aapke rates aur bank details leak ho sakte hain.",
+    "on_screen": "Multi-User Risk",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "Shared Context",
+    "right_label": "Isolated Context",
+    "rows": [
+     {
+      "left": "Exposes bank info",
+      "right": "Separates user data"
+     },
+     {
+      "left": "Mixes order chats",
+      "right": "Keeps chats private"
+     }
+    ]
+   },
+   {
+    "purpose": "Deliver practical check for owners",
+    "narration": "Always check if your AI tool separates user memory and restricts app permissions.",
+    "on_screen": "Isolate AI Memory",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "Separate User Memory",
+     "Restrict App Permissions",
+     "Test Internal Isolation"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Call to action with promise delivered via DM",
+    "narration": "Comment AUDIT, main aapko shop AI privacy checklist DM kar dunga.",
+    "on_screen": "Comment AUDIT Below",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Account isolation check",
+     "App permission check",
+     "Context leak test"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "How to prevent AI agent privacy leaks and cross-account data mixups in small business tools. Tech reports revealed Meta's Muse AI agent randomly surfaced internal user details, including Capital One and Schwab bank balances, during unrelated conversations. When deploying multi-user AI agents in a shop or office setup, unisolated memory can accidentally share supplier prices, client WhatsApp orders, or bank account balances across employees. Have you ever noticed your AI assistant mixing up past conversations across different devices? Comment AUDIT for the full safety checklist.",
+  "hashtags": [
+   "#AIPrivacy",
+   "#BusinessAutomation",
+   "#DataSecurity",
+   "#TechNews"
+  ],
+  "keywords": [
+   "AI agent privacy leak",
+   "Meta Muse AI",
+   "business AI security",
+   "AI cross account leak",
+   "shop AI checklist"
+  ],
+  "claims": [
+   {
+    "claim": "Meta's AI agent Muse has been mixing up conversations across different accounts and exposing private user data.",
+    "source_id": 5
+   },
+   {
+    "claim": "Muse surfaced messages about product orders never placed, career advice, childcare requests, and bank account balances belonging to others.",
+    "source_id": 5
+   },
+   {
+    "claim": "Muse randomly sent a message in a weather chat stating Capital One balance of $2722.58 and Charles Schwab balance of $5899.57.",
+    "source_id": 5
+   },
+   {
+    "claim": "An employee received a reminder from Muse to respond to a Signal message without granting access.",
+    "source_id": 5
+   },
+   {
+    "claim": "Meta stated employee testing helps get feedback to implement safety and privacy protections.",
+    "source_id": 5
+   }
+  ],
+  "dm_keyword": "AUDIT",
+  "dm_text": "Here is your Shop AI Privacy & Safety Checklist:\n\n1. Account Isolation: Ensure multi-user AI bots treat every chat session independently without shared context memory.\n2. Permission Limits: Restrict AI agents from reading external apps or unlinked messaging platforms without permission.\n3. Bank Safety: Never connect live bank API credentials directly to conversational AI tools.\n4. Real Incident Reference: Meta's Muse AI mixed employee chats, revealing bank account balances ($2722.58 Capital One and $5899.57 Schwab) in unrelated conversations.\nSource report: https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/"
+ },
+ "review": {
+  "scores": {
+   "hook": 9,
+   "originality": 8,
+   "practical_value": 8,
+   "natural_language": 9,
+   "accuracy": 10,
+   "narrative": 9,
+   "visual_integrity": 8,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 9
+  },
+  "claims": [
+   {
+    "claim": "Meta's AI agent Muse has been mixing up conversations across different accounts and exposing private user data.",
+    "supported": true
+   },
+   {
+    "claim": "Muse surfaced messages about product orders never placed, career advice, childcare requests, and bank account balances belonging to others.",
+    "supported": true
+   },
+   {
+    "claim": "Muse randomly sent a message in a weather chat stating Capital One balance of $2722.58 and Charles Schwab balance of $5899.57.",
+    "supported": true
+   },
+   {
+    "claim": "An employee received a reminder from Muse to respond to a Signal message without granting access.",
+    "supported": true
+   },
+   {
+    "claim": "Meta stated employee testing helps get feedback to implement safety and privacy protections.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Scene 4: The comparison table is slightly cramped; ensure the text in the 'Shared Context' column doesn't feel too heavy compared to the 'Isolated Context' side.",
+   "Scene 5: The diagram arrows are clean, but ensure the contrast between the white boxes and the dark blue box is high enough for mobile readability."
+  ],
+  "issues": [
+   "The transition from the specific Meta incident to the general advice for small business owners is good, but could be slightly more explicit about how a small business owner can actually 'test' isolation if they are using a third-party tool."
+  ],
+  "fix_instructions": "The content is excellent and highly relevant. For Scene 4, ensure the font size for the table rows is consistent and legible. In the final scene, ensure the 'AUDIT' call-to-action is visually distinct. No major factual or narrative changes are required; this is ready for publication."
+ },
+ "rules": [
+  "scene 2 narration 19 words (want 4-14)"
+ ],
+ "reasons": [
+  "scene 2 narration 19 words (want 4-14)"
+ ],
+ "meta": {
+  "duration": 34.3,
+  "voice": "edge",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-20/R2-2026-11-20/try3/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-20/R2-2026-11-20/try3/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-20/R2-2026-11-20/try3/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-20/R2-2026-11-20/try3/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-20/R2-2026-11-20/try3/scene_05.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-20/R2-2026-11-20/try3/scene_06.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   4.53,
+   6.88,
+   6.27,
+   6.44,
+   5.44,
+   4.76
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-20/R2-2026-11-20/try3",
+ "attempt": 3,
+ "approved": false,
+ "hook": "Meta ke Muse AI ne doosre user ka bank balance leak kar diya.",
+ "log": [
+  "attempt 1: fail {'hook': 7, 'originality': 6, 'practical_value': 4, 'natural_language': 7, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 5} ['scene 3: compare needs rows', 'hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 4/10 (<8)']",
+  "attempt 2: fail {'hook': 8, 'originality': 7, 'practical_value': 7, 'natural_language': 7, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'practical_value 7/10 (<8)', 'natural_language 7/10 (<8)']",
+  "attempt 3: fail {'hook': 9, 'originality': 8, 'practical_value': 8, 'natural_language': 9, 'accuracy': 10, 'narrative': 9, 'visual_integrity': 8, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 9} ['scene 2 narration 19 words (want 4-14)']",
+  "attempt 4: fail {'hook': 7, 'originality': 6, 'practical_value': 7, 'natural_language': 8, 'accuracy': 8, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 7/10 (<8)']"
+ ],
+ "material": "[5] TechCrunch AI — Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says\nURL: https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/\nMeta employees have raised concerns that the company’s AI agent Muse has been mixing up conversations across different accounts and exposing private user data, according to a new Reuters report that looked at internal company posts.\nIn some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn’t belong to them.\nOne employee told colleagues that Muse had randomly sent an extra message in a chat about weather and tide information, saying: “BTW, two bank updates, your Capital One balance is $2722.58, your Charles Schwab balance is $5899.57.”\nIn another example, an employee using the AI agent on her personal phone received a reminder from Muse to respond to a message from her sister on Signal, the popular end-to-end encrypted messaging app.\n“This seems like an extreme privacy violation. I definitely did not grant it access to other apps, or recall being asked about this,” the employee said in her post, according to the report.\n“Employee testing is core to the product development process and the entire point is to get feedback, so we can implement safety and privacy protections and improve products,” a Meta spokesperson said in an email to TechCrunch. “Importantly, employees have access to different versions of Muse than the public, so they’re often reviewing features, functionality, and behavior not available elsewhere.”\nLaunched in September, Muse is one of the fastest-growing apps on record, with more than 10 million downloads.\nUpdate 11/19/2026 12:05 PM PT: The article was updated to include Meta’s comment.\nGet an Early Peek at the Next TechCrunch Disrupt Disrupt, Startup Battlefield, and more will return next year, and you can be at the front of the line. Sign up for our waitlist\nSubscribe for the industry’s biggest tech news\nStartups Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories\nApps Superhuman pushes its Go assistant everywhere\nApps Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor\nIn Brief Meta’s new Muse Charm device may cost $300\nSecurity These tech outages are giving Y2K, AI agent style\nAI The unfolding Jensen Huang scandal: a timeline",
+ "id": "R2-2026-11-20",
+ "caption_final": "How to prevent AI agent privacy leaks and cross-account data mixups in small business tools. Tech reports revealed Meta's Muse AI agent randomly surfaced internal user details, including Capital One and Schwab bank balances, during unrelated conversations. When deploying multi-user AI agents in a shop or office setup, unisolated memory can accidentally share supplier prices, client WhatsApp orders, or bank account balances across employees. Have you ever noticed your AI assistant mixing up past conversations across different devices? Comment AUDIT for the full safety checklist.\n\n#AIPrivacy #BusinessAutomation #DataSecurity #TechNews"
+}
