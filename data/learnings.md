@@ -1,4 +1,4 @@
-# Learnings (auto-generated 2026-11-19)
+# Learnings (auto-generated 2026-11-20)
 
 ## reels (n=23, median reach 17)
 - format checklist: 4.56x account median (n=2)
