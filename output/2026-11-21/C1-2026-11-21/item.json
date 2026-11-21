@@ -1,0 +1,301 @@
+{
+ "kind": "carousel",
+ "idea": {
+  "idea": "Auto-routing Granola and Plaud meeting notes to CRM and WhatsApp follow-ups",
+  "angle": "Recording meetings with voice tools is useless if notes stay trapped in the app; here is how to automatically push tasks to your CRM.",
+  "audience_problem": "Contractors and traders forget client commitments and pricing agreed upon during busy site meetings.",
+  "format": "problem_fix",
+  "medium": "both",
+  "source_ids": [
+   67,
+   69
+  ],
+  "evergreen": true,
+  "keywords": [
+   "granola ai",
+   "plaud ai",
+   "meeting notes",
+   "zapier workflow",
+   "crm automation"
+  ],
+  "scores": {
+   "relevance": 8,
+   "novelty": 8,
+   "hook_potential": 8,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 9,
+   "evidence": 9,
+   "viral": 8
+  },
+  "total": 8.31
+ },
+ "piece": {
+  "hooks": [
+   "Voice meeting notes trapped in your app? Auto-sync them.",
+   "How to send Plaud and Granola notes straight to CRM.",
+   "Stop losing client commitments discussed in meetings."
+  ],
+  "chosen_hook": 1,
+  "hook_reason": "It directly states the exact problem and tools contractors and small businesses use, offering a clear tactical workflow.",
+  "slides": [
+   {
+    "kind": "cover",
+    "title": "How to send Plaud and Granola notes straight to CRM",
+    "subtitle": "Stop manually copying meeting transcripts and action items into your work tools.",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "point",
+    "title": "Notes trapped inside apps get forgotten",
+    "subtitle": "",
+    "body": "Plaud and Granola capture call recaps well. But if transcripts sit inside the app, follow-ups depend on someone remembering to manually copy them into your CRM or project software.",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "steps",
+    "title": "How to set up automatic note routing",
+    "subtitle": "",
+    "body": "",
+    "items": [
+     "Add Zapier to Claude, ChatGPT, or Cursor as an MCP server.",
+     "Connect your note app like Granola or Plaud and your destination tools.",
+     "Prompt your AI agent in plain language describing what to do with notes.",
+     "Your agent drafts the workflow and deploys it directly to Zapier."
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "compare",
+    "title": "Manual handoff vs Zapier AI automation",
+    "subtitle": "",
+    "body": "",
+    "items": [],
+    "left_label": "Manual Handoff",
+    "right_label": "Zapier AI Zap",
+    "rows": [
+     {
+      "left": "Copy paste notes by hand",
+      "right": "Runs automatically on new note"
+     },
+     {
+      "left": "Runs only when app is opened",
+      "right": "Fires instantly even if offline"
+     },
+     {
+      "left": "Paste API keys in chat tools",
+      "right": "Zapier manages logins safely"
+     },
+     {
+      "left": "Fails quietly on broken links",
+      "right": "Logs errors and proposes fixes"
+     }
+    ],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "point",
+    "title": "Smart rule: use AI only for judgment",
+    "subtitle": "",
+    "body": "Workflows run faster and cheaper by using AI only to extract action items or create summaries. Standard Zapier steps handle file saving and task creation.",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "summary",
+    "title": "4 practical note workflows to ask your agent",
+    "subtitle": "",
+    "body": "",
+    "items": [
+     "Archive transcripts to Google Drive with standardized date titles.",
+     "Create Asana or Monday tasks for assigned client commitments.",
+     "Attach short summaries to matching HubSpot customer deals.",
+     "Flag complaint calls to create Jira issues and alert Slack."
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   }
+  ],
+  "caption": "How to automate Granola and Plaud meeting notes to CRM and project tools using Zapier.\n\nWhen you record client calls or site meetings on Plaud or Granola, notes usually end up trapped in the app. If nobody copies them into your CRM or task list, agreed pricing and commitments get missed. You can connect Zapier to Claude or ChatGPT as an MCP server. Describe what you want in plain text—like creating Asana tasks for action items or adding meeting summaries to HubSpot deals. Zapier builds the workflow and runs it automatically whenever a new transcript arrives, even when your laptop is off. Zaps use AI only for judgment tasks like summarizing, keeping execution fast and reliable.\n\nHow do you currently log client commitments after meetings?",
+  "hashtags": [
+   "#ZapierAutomation",
+   "#GranolaAI",
+   "#PlaudNote",
+   "#CRMIntegration",
+   "#BusinessAutomation"
+  ],
+  "keywords": [
+   "Granola automation",
+   "Plaud meeting notes",
+   "Zapier MCP server",
+   "CRM task automation",
+   "AI meeting summaries"
+  ],
+  "claims": [
+   {
+    "claim": "Plaud and Granola capture meeting transcripts, but notes remain trapped in the app unless manually copied out.",
+    "source_id": 67
+   },
+   {
+    "claim": "Plaud transcripts and follow-ups pile up in the app unless moved to work tools.",
+    "source_id": 69
+   },
+   {
+    "claim": "Zapier can be added to Claude, ChatGPT, or Cursor as a connector or custom MCP server.",
+    "source_id": 67
+   },
+   {
+    "claim": "You can describe the workflow in plain language to an AI agent, which drafts and deploys a Zap on Zapier.",
+    "source_id": 67
+   },
+   {
+    "claim": "Zapier connects to over 10,000 apps.",
+    "source_id": 67
+   },
+   {
+    "claim": "Zapier Zaps run automatically when a new note arrives, even if your laptop is closed.",
+    "source_id": 67
+   },
+   {
+    "claim": "Zaps use AI only for steps that need judgment (like pulling action items or summaries), running everything else as faster and cheaper standard steps.",
+    "source_id": 67
+   },
+   {
+    "claim": "Zapier manages connections and credentials so you do not paste API keys into AI chat interfaces.",
+    "source_id": 67
+   },
+   {
+    "claim": "Zapier logs errors, detects broken connections, and proposes fixes when Zaps break.",
+    "source_id": 67
+   },
+   {
+    "claim": "Prompts can tell the agent to save transcripts to Google Drive, create tasks in Asana or Monday, add recaps to HubSpot, or log Jira issues.",
+    "source_id": 67
+   },
+   {
+    "claim": "Plaud automations can archive transcripts in Google Drive with date titles or log customer complaints as Jira issues.",
+    "source_id": 69
+   }
+  ]
+ },
+ "review": {
+  "scores": {
+   "hook": 7,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 8,
+   "brand_consistency": 7,
+   "publish_readiness": 7
+  },
+  "claims": [
+   {
+    "claim": "Plaud and Granola capture meeting transcripts, but notes remain trapped in the app unless manually copied out.",
+    "supported": true,
+    "note": "Supported by sources [67] and [69]."
+   },
+   {
+    "claim": "Zapier can be added to Claude, ChatGPT, or Cursor as a connector or custom MCP server.",
+    "supported": true,
+    "note": "Directly stated in both source texts."
+   },
+   {
+    "claim": "You can describe the workflow in plain language to an AI agent, which drafts and deploys a Zap on Zapier.",
+    "supported": true,
+    "note": "Matches source description of agentic Zap deployment."
+   },
+   {
+    "claim": "Zapier Zaps run automatically when a new note arrives, even if your laptop is closed.",
+    "supported": true,
+    "note": "Explicitly confirmed in source [67]."
+   },
+   {
+    "claim": "Zaps use AI only for steps needing judgment, keeping workflows faster and cheaper.",
+    "supported": true,
+    "note": "Directly supported by sources [67] and [69]."
+   },
+   {
+    "claim": "Zapier manages connections and credentials so you never paste API keys into chat.",
+    "supported": true,
+    "note": "Supported by 'Your agent gets access, not your keys' in both sources."
+   },
+   {
+    "claim": "Zapier logs errors, detects broken connections, and proposes fixes.",
+    "supported": true,
+    "note": "Supported by 'It fixes itself' sections in sources."
+   }
+  ],
+  "spelling_errors": [
+   "Slide 4 (Row 1 Left): 'Copy paste notes by hand' should be hyphenated as 'Copy-paste notes by hand'."
+  ],
+  "visual_issues": [
+   "Slide 2: Ample empty vertical space below the body text block; could benefit from a visual diagram or callout badge to balance the layout.",
+   "Slide 5: Heavy white space at the bottom half of the slide compared to the balanced multi-card slides (Slides 3, 4, and 6)."
+  ],
+  "issues": [
+   "Context relevance: The tools featured (Granola, Cursor, Asana, Jira, HubSpot) lean heavily toward tech startups and SaaS agencies. Indian SMB service businesses (e.g., consultancies, interior designers, distributors) would relate more if WhatsApp, Google Sheets, or Zoho CRM were mentioned alongside HubSpot.",
+   "Hook clarity: 'How to send Plaud and Granola notes straight to CRM' is functional, but hook 1 ('Voice meeting notes trapped in your app? Auto-sync them.') has higher stopping power for business owners who record client meetings on hardware or audio apps."
+  ],
+  "fix_instructions": "Hyphenate 'Copy-paste' on Slide 4. In Slide 6 and the caption, add at least one widely used Indian SMB tool example (e.g., Zoho CRM or Google Sheets row updates) alongside HubSpot and Jira. Consider swapping Slide 1's hook to a more urgent problem statement highlighting lost client commitments after verbal meetings."
+ },
+ "rules": [],
+ "reasons": [
+  "hook 7/10 (<8)",
+  "originality 7/10 (<8)",
+  "spelling: Slide 4 (Row 1 Left): 'Copy paste notes by hand' should be hyphenated as 'Copy-paste notes by hand'."
+ ],
+ "meta": {
+  "ai_visuals": false,
+  "slides": 6
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-21/C1-2026-11-21/try1",
+ "attempt": 1,
+ "approved": false,
+ "hook": "How to send Plaud and Granola notes straight to CRM.",
+ "log": [
+  "attempt 1: fail {'hook': 7, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 7, 'publish_readiness': 7} ['hook 7/10 (<8)', 'originality 7/10 (<8)', \"spelling: Slide 4 (Row 1 Left): 'Copy paste notes by hand' should be hyphenated as 'Copy-paste notes by hand'.\"]",
+  "attempt 2: fail {'hook': 7, 'originality': 7, 'practical_value': 7, 'natural_language': 7, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 6, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 6} ['hook 7/10 (<8)', 'originality 7/10 (<8)', 'practical_value 7/10 (<8)', 'natural_language 7/10 (<8)']",
+  "attempt 3: fail {'hook': 7, 'originality': 6, 'practical_value': 7, 'natural_language': 6, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 7} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 7/10 (<8)', 'natural_language 6/10 (<8)']"
+ ],
+ "material": "[67] Zapier Blog — 4 ways to automate Granola with your AI agent and Zapier\nURL: https://zapier.com/blog/automate-granola\nGranola does a great job of capturing your meeting. What happens next is on you: copying the notes into a doc, pasting the recap into Slack, typing the follow-ups into Asana, logging the call in HubSpot. When the meeting ends and the chat window closes, so does the help.\nNow you can automate Granola from the AI tool you already use. Install Zapier in Claude, ChatGPT, or Cursor, describe what should happen to your notes, and your agent builds the automation for you. Zapier runs it from there, long after the chat is closed. Prefer to build in Zapier itself? That works too. Build from wherever you like to work, and the Zap runs the same way.\nBuild Granola automations from your AI assistant\nGranola automations to ask your agent to build\n4 ways to automate Granola with Zap templates\nLet your agent keep your Granola notes moving\nBuild automations from wherever you work. Describe the outcome you want, and Zapier connects your tools, runs the steps, and stays on the job after you close the chat. Combine AI with reliable, deterministic automation across 10,000+ apps. Get started for free.\nBuild Granola automations from your AI assistant\nHere's the path from a finished meeting to a finished workflow:\nInstall Zapier in your AI tool. Add Zapier as a connector or custom MCP server (the connection that lets an AI tool work with Zapier), then connect the apps your notes should reach, like Granola, Google Docs, Slack, and HubSpot. You connect once, and the same connections work from Claude, ChatGPT, Cursor, or any AI tool you like.\nDescribe the job. Say what should happen after a meeting in plain language: \"When a new Granola note is ready, save it to a Google Doc and post a short recap in #sales.\"\nYour agent turns it into a Zap. A Zap is an automated workflow that runs on its own. Your agent drafts it, deploys it to Zapier, and shows you what it built.\nZapier runs it. From then on, the Zap starts when a new note lands, whether or not your laptop is open.\nBecause Zapier connects to 10,000+ apps, the same setup reaches the rest of your stack, too.\nYou could ask your AI tool to handle your meeting workflows on its own. But building on Zapier gets you a few things chat alone can't:\nIt starts when something happens. A scheduled task in an AI tool runs at a set time. A Zap can run on a schedule, or it can start when a new Granola note arrives, so the recap goes out right after the meeting and not at 5 p.m.\nIt reaches your whole stack. Zapier connects to 10,000+ apps so it can do more than built-in connectors. Your agent can log the call on the right HubSpot deal or create a follow-up task in ClickUp, all from the same automation.\nIt runs the same way every time. The note gets filed, shared, and logged the same way after your 9 a.m. as after your 4 p.m. Zaps use AI only for the steps that need judgment, like pulling out action items, and run everything else as regular steps, which are faster and cheaper.\nIt fixes itself. If your Google Docs connection expires or a Slack channel gets renamed, your note-sharing Zap shouldn't quietly stop and leave your team without recaps. Zapier logs every run, finds the problem when something breaks, and proposes a fix you can approve, or lets Zapier apply fixes on its own.\nYour agent gets access, not your keys. Zapier manages the connections to Granola, your CRM, and your project tools, so you never paste API keys or logins into a chat. Switch from Claude to ChatGPT, or try a new AI tool, and your connections stay put. Everything you build, from any AI tool, shows up in one place in Zapier.\nYou can just have your agent write a script, and the first version will probably work. But a script needs somewhere to run, a way to hear about new notes, and someone to keep it alive. When an API changes or a login expires, it stops. With Zapier, your agent builds the Zap, Zapier hosts it and runs it from real triggers (a schedule or an app event, like a new Granola note), and keeps your connections working.\nGranola automations to ask your agent to build\nNot sure where to start? Try one of these prompts in Claude, ChatGPT, or Cursor with Zapier installed.\nKeep notes organized. \"When a new Granola note is ready, save it to a Google Doc in my Meeting Notes folder and add a row to my Airtable meeting log.\"\nShare with your team. \"After each client call in Granola, post the next steps in the account's Slack channel and email the full note to my team.\"\nTurn notes into tasks. \"Read each new Granola note. For every action item assigned to me, create a task in Asana with the meeting name in the title. Skip everything else.\" This is a good example of a Zap that uses AI only where judgment is needed.\nKeep the CRM current. \"When a sales call note comes in, find the matching contact in HubSpot, add a three-line summary to the record, and link back to the full note in Granola.\"\n4 ways to automate Granola with Zap templates\nPrefer to build in Zapier directly? Zap templates are pre-made Zaps that you set up in Zapier itself. When you click \"Try it,\" the template opens in Zapier, and you can customize it and turn it on from there. Here are four ways to automate Granola with Zap templates. If you'd rather have your agent build a Zap, use the prompts above.\nGranola makes it easy to generate clear, reliable notes after every meeting. But if those notes stay in Granola, and you don't make a habit of reviewing them, they can easily get lost. With Zapier, you can automatically route new notes into the tools you already use, like Google Docs or Airtable .\nI use an AI notetaker for all my meetings, and while it's great to have a transcript waiting afterward, it can be a little annoying to log in and hunt down the notes each time. I usually end up copying and pasting them into a Google Doc just to keep everything in one place. Automating that step means the notes are already where I expect them to be without me having to do anything.\nWhether you prefer a spreadsheet, a shared drive, a Google Doc, or a database, Zapier ensures your notes are automatically sent there, so you can focus on acting on the results of the call instead of copying text.\nCreate Google Docs from new Granola notes\nAdd Granola notes to Notion data sources as new items\nCreate files from text in Google Drive when new notes are added to Granola folder\nAdd new Granola notes to Google Sheets as rows\nCreate Airtable records from new Granola notes\nOne of the easiest ways to get value from Granola is to make sure your meeting notes are seen by the right people. With Zapier, you can automatically share Granola notes to tools like Slack , Microsoft Teams , or email. This way, the team is notified instantly rather than having to search manually through Granola records or waiting for you to send out a recap.\nThis makes it simple to keep everyone aligned. A client call can be shared with your account managers in Slack, or an internal sync can be routed to your team's email list so everybody has a record of what was discussed—even if the\n\n[69] Zapier Blog — 4 ways to automate Plaud with Zapier\nURL: https://zapier.com/blog/automate-plaud\nPlaud records the conversation, whether it happened on Zoom or over coffee. What it can't do is decide where the notes go next. So transcripts pile up in the Plaud app, and the follow-ups everyone agreed to depend on someone remembering to copy them out.\nNow you can set up that handoff from the AI tool you already use. Add Zapier to Claude, ChatGPT, or Cursor, describe what should happen once a recording is processed, and your agent builds it. Zapier takes over from there and keeps going after the chat closes. Rather build in Zapier itself? That works too. Start from your agent or start in Zapier, and the Zap runs the same way.\nBuild Plaud automations from your AI assistant\nPlaud automations to ask your agent to build\n4 ways to automate Plaud with Zap templates\nBuild automations from wherever you work. Describe the outcome you want, and Zapier connects your tools, runs the steps, and stays on the job after you close the chat. Combine AI with reliable, deterministic automation across 10,000+ apps. Get started for free.\nBuild Plaud automations from your AI assistant\nThis is how automating Plaud works when you begin in your AI tool:\nConnect Zapier with your AI tool. Add Zapier as a connector or custom MCP server (the connection that lets an AI tool work with Zapier), then connect Plaud and the apps your notes should end up in, like Google Drive, Notion, Slack, or Jira. You connect once, and the same connections work in Claude, ChatGPT, Cursor, or any AI tool you prefer.\nDescribe the job. Say what should happen in plain language: \"When Plaud finishes a transcript, save it to the Client Calls folder in Google Drive and post the summary in #sales in Slack.\"\nYour agent turns it into a Zap. A Zap is an automated workflow that runs on its own. Your agent drafts it, deploys it to Zapier, and shows you what it built.\nZapier runs it. The Zap starts when a new transcript or summary is ready, and it keeps running whether or not your laptop is open.\nBecause Zapier connects to 10,000+ apps, the same setup can send your Plaud notes to anything else in your stack.\nYou could ask your AI tool to move notes around by hand each time. But building the automation on Zapier gets you a few things a chat can't:\nIt starts when something happens. A scheduled task in an AI tool runs at a set time and may check for recordings that aren't there yet. A Zap starts the moment Plaud has a new transcript or summary, so the recap reaches your team while the meeting is still fresh.\nIt reaches your whole stack. Zapier connects to 10,000+ apps. Built-in connectors tend to cover a handful of popular tools. Your agent can go further, like creating a Jira issue from a product call or adding a page to a Notion database for each client conversation.\nIt runs the same way every time. Every recording gets the same filename pattern, the same Slack post, and the same task, on Monday morning or Friday night. Zaps use AI only for steps that need judgment, like pulling action items and owners out of a messy summary, and run everything else as plain steps, which are faster and cheaper.\nIt fixes itself. If your Google Drive connection expires or someone renames the Slack channel your recaps go to, Zapier figures it out. It logs every run, finds the problem when something breaks, and proposes a fix you can approve, or lets Zapier apply fixes on its own. Over time, Zapier can also turn an AI step that does the same thing every run, like tidying a transcript title, into a regular step, so your Zaps get cheaper and steadier the longer they run.\nYour agent gets access, not your keys. Zapier manages the logins for Plaud, your file storage, and your task manager, so you never paste credentials into a chat. Switch from ChatGPT to Claude and your connections stay put, and every Zap your agent builds shows up in one place in Zapier, along with its runs.\nPlaud automations to ask your agent to build\nNot sure what to ask for? Try one of these prompts in Claude, ChatGPT, or Cursor with Zapier connected.\nArchive transcripts. \"When Plaud finishes a new transcript, save the transcript and summary to Google Drive. Name the file with the recording's date and title.\"\nBuild a meeting knowledge base. \"For every new Plaud summary, create a page in my Notion Client Calls database with the summary, the full transcript, and the date.\"\nTurn conversations into tasks. \"After each Plaud call, pull out the action items, owners, and due dates and create a monday task for each one.\"\nShare recaps. \"Post each Plaud summary in #team-updates in Slack. If it came from a customer call, email it to the account owner instead.\"\nCreate tickets for customer issues. \"Read each new Plaud summary. If it mentions a customer complaint or a deadline change, create a Jira issue and message me in Slack. Otherwise, just file it in Google Drive.\" This one is a good example of a Zap that uses AI only for the step that needs it.\n4 ways to automate Plaud with Zap templates\nPrefer to build in Zapier directly? Zap templates are pre-made Zaps that you set up in Zapier itself. When you click \"Try it,\" the template opens in Zapier, not in your AI tool, and you can customize it and turn it on from there. Here are four ways to automate Plaud with Zap templates. If you'd rather have your agent build a Zap, use the prompts above.\nTo get started with a Zap template—what we call our pre-made workflows—just click on the button. It only takes a few minutes to set up. You can read more about setting up Zaps here.\nAuto-archive Plaud call transcripts in your file storage\nPlaud's main attraction is its compatibility with wearable hardware. But when you use Plaud to take notes on everything from team Zoom calls to coffee chats with your mentor, your transcripts will pile up fast.\nIt's usually easier to store those files where you and your team already work, like your shared drive, rather than adding another place everyone has to remember to check. With Zapier, you can automatically save each new Plaud transcript and summary to your file storage, whether that's Google Drive , Dropbox , OneDrive , or another service.\nGrab one of the simple Zap templates below, and you can start building a living archive for all of your Plaud transcripts. You can even incorporate Plaud's titles and timestamps into your filenames to keep your filesystem organized.\nUpload new transcripts and summaries in PLAUD to Google Drive as files\nUpload new PLAUD transcripts & summaries to Dropbox as files\nUpload new PLAUD transcripts & summaries to OneDrive as files\n\"upload new PLAUD transcripts & summaries to Box as files\"\nPro tip: Use a formatter step to clean up Plaud's auto-generated titles before they become filenames. Strip out filler words, standardize date formats, or convert to title case so your Drive or Dropbox stays organized without manual renaming.\nBuild a self-updating knowledge base in your notes and wiki tools\nCloud storage services are great for keeping transcripts safe and organized, but a notes or wiki tool c",
+ "id": "C1-2026-11-21",
+ "caption_final": "How to automate Granola and Plaud meeting notes to CRM and project tools using Zapier.\n\nWhen you record client calls or site meetings on Plaud or Granola, notes usually end up trapped in the app. If nobody copies them into your CRM or task list, agreed pricing and commitments get missed. You can connect Zapier to Claude or ChatGPT as an MCP server. Describe what you want in plain text—like creating Asana tasks for action items or adding meeting summaries to HubSpot deals. Zapier builds the workflow and runs it automatically whenever a new transcript arrives, even when your laptop is off. Zaps use AI only for judgment tasks like summarizing, keeping execution fast and reliable.\n\nHow do you currently log client commitments after meetings?\n\n#ZapierAutomation #GranolaAI #PlaudNote #CRMIntegration #BusinessAutomation"
+}

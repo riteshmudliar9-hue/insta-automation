@@ -1,0 +1,276 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Automating desktop tasks using Gemini computer use on Mac and PC",
+  "angle": "Stop manually copying data between local spreadsheets and web portals; Gemini can now interact directly with your desktop apps.",
+  "audience_problem": "Business owners waste hours daily moving data manually across local software, desktop folders, and browsers.",
+  "format": "demo",
+  "medium": "reel",
+  "source_ids": [
+   18
+  ],
+  "evergreen": true,
+  "keywords": [
+   "gemini computer use",
+   "desktop automation",
+   "local files",
+   "excel automation",
+   "workflow"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 9,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 8,
+   "feasibility": 8,
+   "evidence": 9,
+   "viral": 8
+  },
+  "total": 8.51
+ },
+ "piece": {
+  "hooks": [
+   "PC par Excel aur browser ke beech copy-paste karna khatam hoga.",
+   "Google Gemini ab aapke local desktop apps chala sakta hai.",
+   "Desktop par manual data entry band hone wali hai. Ye dekho.",
+   "Local files aur portal ke beech data copy karna jaldi khatam hoga.",
+   "Google Gemini Mac par computer use feature rollout kar raha hai."
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "Directly targets a specific pain point that local traders and offices face daily (manual copy-pasting between desktop spreadsheets and web portals) while making an immediate practical claim.",
+  "title": "Gemini Desktop Computer Use Rollout",
+  "scenes": [
+   {
+    "purpose": "Hook",
+    "narration": "PC par Excel aur browser ke beech copy-paste karna khatam hoga.",
+    "on_screen": "Desktop AI Automation",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Desktop AI Coming Soon",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Core capability",
+    "narration": "Google Gemini macOS app ab aapke local files aur desktop apps par kaam kar sakta hai.",
+    "on_screen": "Gemini Desktop Control",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "Local Files",
+     "Desktop Apps",
+     "Web Browsing"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Use cases",
+    "narration": "Ye form filling, product listing aur multi-step tasks khud handle kar sakta hai.",
+    "on_screen": "Automatic Multi-Step Tasks",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Form Filling",
+     "Product Listing",
+     "Workflow Tasks"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Security and control",
+    "narration": "Aap decide karenge konsi app ka access dena hai, aur live preview background me dikhega.",
+    "on_screen": "App Access Control",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "App Access",
+    "right_label": "Live Monitor",
+    "rows": [
+     {
+      "left": "User Selected",
+      "right": "Background Preview"
+     }
+    ]
+   },
+   {
+    "purpose": "Limitation and local business prep",
+    "narration": "Lekin abhi ye sirf US Mac users ke liye hai. India rollout se pehle folders organize rakho.",
+    "on_screen": "US Only Right Now",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "US English Mac Only",
+     "Organize Local Folders",
+     "Standard File Names"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Call to action",
+    "narration": "Comment SETUP, main aapko desktop AI preparation checklist DM kar dunga.",
+    "on_screen": "Comment SETUP",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Comment SETUP below",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "How to automate desktop tasks and data entry using Google Gemini computer use. Google has started rolling out a new computer use feature in its Gemini macOS app. It can handle multi-step tasks across desktop applications, local files, and browsers like filling forms or creating listings. You control which apps Gemini accesses, and a live preview window lets you watch it run. Right now, it is available in English for US macOS users. To get your local spreadsheets and invoice folders ready for desktop AI agents when they launch in India, structure your local files cleanly today. Comment SETUP for our local file setup guide.",
+  "hashtags": [
+   "#GoogleGemini",
+   "#DesktopAutomation",
+   "#SmallBusinessTools",
+   "#WorkflowAutomation"
+  ],
+  "keywords": [
+   "Google Gemini computer use",
+   "macOS AI automation",
+   "desktop task automation",
+   "local file management",
+   "small business automation"
+  ],
+  "claims": [
+   {
+    "claim": "Google Gemini app for macOS introduced a computer use feature to perform multi-step tasks across local files, desktop apps, and the web.",
+    "source_id": 18
+   },
+   {
+    "claim": "Gemini can help speed up workflows, fill in forms, make presentations, and list items for sale.",
+    "source_id": 18
+   },
+   {
+    "claim": "Users can specify which desktop applications Gemini can access.",
+    "source_id": 18
+   },
+   {
+    "claim": "Gemini shows a live preview in a background chat window while performing desktop tasks.",
+    "source_id": 18
+   },
+   {
+    "claim": "The computer use feature is currently rolling out in English for users in the US on macOS.",
+    "source_id": 18
+   }
+  ],
+  "dm_keyword": "SETUP",
+  "dm_text": "Here is how to prepare your business files before desktop AI agents launch in India:\n\n1. Standardize file naming (e.g., Supplier_Invoice_Date.xlsx).\n2. Keep local desktop folders organized by department or client.\n3. Gemini app for macOS now features computer use for local files, desktop apps, and web tasks.\n4. You will be able to select exact app permissions and view a live background preview window.\n5. Feature is currently rolling out in English for US users on macOS."
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 8,
+   "practical_value": 6,
+   "natural_language": 8,
+   "accuracy": 10,
+   "narrative": 8,
+   "visual_integrity": 8,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "Google Gemini app for macOS introduced a computer use feature to perform multi-step tasks across local files, desktop apps, and the web.",
+    "supported": true,
+    "note": "Supported directly by Source [18]."
+   },
+   {
+    "claim": "Gemini can help speed up workflows, fill in forms, make presentations, and list items for sale.",
+    "supported": true,
+    "note": "Supported directly by Source [18]."
+   },
+   {
+    "claim": "Users can specify which desktop applications Gemini can access.",
+    "supported": true,
+    "note": "Supported directly by Source [18]."
+   },
+   {
+    "claim": "Gemini shows a live preview in a background chat window while performing desktop tasks.",
+    "supported": true,
+    "note": "Supported directly by Source [18]."
+   },
+   {
+    "claim": "The computer use feature is currently rolling out in English for users in the US on macOS.",
+    "supported": true,
+    "note": "Supported directly by Source [18]."
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Scene 5: Using green checkmarks for 'US English Mac Only' inside a checklist along with actionable steps visually mixes up a technical limitation with a setup task."
+  ],
+  "issues": [
+   "The hook refers generically to 'PC', but the feature is strictly rolling out on macOS. Indian SMB owners often associate 'PC' exclusively with Windows machines."
+  ],
+  "fix_instructions": "In Scene 1 narration, specify 'Mac par Excel...' or clarify early that this feature is currently on macOS to avoid misleading Windows PC users. In Scene 5 visual, split the limitation ('US Mac Only') into a header note rather than combining it into a checkmark list with action steps."
+ },
+ "rules": [
+  "scene 4: compare needs rows"
+ ],
+ "reasons": [
+  "scene 4: compare needs rows",
+  "practical_value 6/10 (<8)"
+ ],
+ "meta": {
+  "duration": 34.3,
+  "voice": "edge",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-21/R2-2026-11-21/try2/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-21/R2-2026-11-21/try2/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-21/R2-2026-11-21/try2/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-21/R2-2026-11-21/try2/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-21/R2-2026-11-21/try2/scene_05.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-21/R2-2026-11-21/try2/scene_06.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   4.6,
+   6.19,
+   5.39,
+   5.85,
+   7.06,
+   5.2
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-21/R2-2026-11-21/try2",
+ "attempt": 2,
+ "approved": false,
+ "hook": "PC par Excel aur browser ke beech copy-paste karna khatam hoga.",
+ "log": [
+  "attempt 1: fail {'hook': 7, 'originality': 6, 'practical_value': 5, 'natural_language': 7, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 8, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 6} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 5/10 (<8)', 'natural_language 7/10 (<8)']",
+  "attempt 2: fail {'hook': 8, 'originality': 8, 'practical_value': 6, 'natural_language': 8, 'accuracy': 10, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['scene 4: compare needs rows', 'practical_value 6/10 (<8)']",
+  "attempt 3: fail {'hook': 6, 'originality': 7, 'practical_value': 5, 'natural_language': 8, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 6, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 6} ['hook 6/10 (<8)', 'originality 7/10 (<8)', 'practical_value 5/10 (<8)', 'narrative 7/10 (<8)']",
+  "attempt 4: fail {'hook': 7, 'originality': 6, 'practical_value': 5, 'natural_language': 8, 'accuracy': 10, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 5/10 (<8)']"
+ ],
+ "material": "[18] The Verge AI — Gemini on Mac can now use your computer\nURL: https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use\nGemini on Mac can now use your computer | The Verge Skip to main content The homepage The Verge The Verge logo. The homepage The Verge The Verge logo. Notifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo. Login / Sign Up\nComments Loading comments Getting the conversation ready... Tech\nWith the new computer use feature, Google says Gemini can better help with things like filling in forms and creative workflows.\nWith the new computer use feature, Google says Gemini can better help with things like filling in forms and creative workflows.\nJay Peters Nov 19, 2026, 6:21 PM UTC Link\nJay Peters is a senior reporter covering technology, gaming, and more. He joined The Verge in 2019 after nearly two years at Techmeme. Google’s Gemini app for macOS now has computer use, meaning it can help you “get multi-step tasks done across your local files, desktop apps, and the web,” the company says . Google suggests the feature might be useful for things like speeding up workflows, filling in forms, making presentations, and listing items for sale.\nUsers will be able to decide which of your apps Gemini can access, and be able to follow along as Gemini works because it has its own background window that shows a live preview in your chat, Google says. The feature is rolling out now in English for users in the US.\nGemini is introducing the new feature ahead of Apple launching new restrictions for apps wanting “full disk access” on Mac due to potential risks from AI agents with computer use. A preview of the settings rolled out with this week’s macOS 27.3 beta .\nAnthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude\nGoogle says it’s going to shut off Google Assistant on smart speakers next year\nMeta now sells 3D movies on Quest VR headsets\nI let Apple’s always-listening AI summarize my life for two weeks\nThe Verge The Verge logo. Sign in to see your notifications or create an account to join the conversation.",
+ "id": "R2-2026-11-21",
+ "caption_final": "How to automate desktop tasks and data entry using Google Gemini computer use. Google has started rolling out a new computer use feature in its Gemini macOS app. It can handle multi-step tasks across desktop applications, local files, and browsers like filling forms or creating listings. You control which apps Gemini accesses, and a live preview window lets you watch it run. Right now, it is available in English for US macOS users. To get your local spreadsheets and invoice folders ready for desktop AI agents when they launch in India, structure your local files cleanly today. Comment SETUP for our local file setup guide.\n\n#GoogleGemini #DesktopAutomation #SmallBusinessTools #WorkflowAutomation"
+}

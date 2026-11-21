@@ -1,0 +1,264 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Using Google Gemini Live on low-RAM budget Android phones for field staff and shop workers",
+  "angle": "You do not need an expensive iPhone for field staff to use voice AI; budget Android phones now run Gemini Live smoothly.",
+  "audience_problem": "Small business owners think AI tools require high-end hardware for ground staff and salespeople.",
+  "format": "tool_test",
+  "medium": "reel",
+  "source_ids": [
+   32
+  ],
+  "evergreen": true,
+  "keywords": [
+   "gemini app",
+   "budget android",
+   "field automation",
+   "voice ai",
+   "small business"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 8,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 8,
+   "feasibility": 9,
+   "evidence": 9,
+   "viral": 8
+  },
+  "total": 8.47
+ },
+ "piece": {
+  "hooks": [
+   "Field staff ke liye mehenga smartphone khareedna band karo. Ye dekho.",
+   "Saste Android phone pe voice AI bilkul smooth chalega.",
+   "Budget Android phone pe Gemini Live kaise chalayein.",
+   "Staff ko voice AI dene ke liye iPhone nahi chahiye.",
+   "Low RAM Android phones par Gemini Live download karo."
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "It addresses a direct financial mistake small business owners make by buying expensive phones for ground staff, creating immediate curiosity.",
+  "title": "Run Gemini Live Voice AI on Budget Android Devices",
+  "scenes": [
+   {
+    "purpose": "Hook the viewer with cost savings on field staff phones",
+    "narration": "Field staff ke liye mehenga smartphone khareedna band karo. Ye dekho.",
+    "on_screen": "Mehenga phone mat khareedo",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Budget Phone Par Voice AI",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Explain the reality of budget phones used by shop or site staff",
+    "narration": "Aapke site supervisor ya shop staff ke paas low RAM Android phone hai.",
+    "on_screen": "Low RAM budget phones",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "Pehle",
+    "right_label": "Abhi",
+    "rows": [
+     {
+      "left": "Basic voice commands",
+      "right": "Gemini Live AI"
+     },
+     {
+      "left": "Slow response",
+      "right": "Smooth voice chat"
+     }
+    ]
+   },
+   {
+    "purpose": "State the core update from Google",
+    "narration": "Google ne Gemini app ko Android Go devices ke liye re-architect kiya hai.",
+    "on_screen": "Android Go par Gemini",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Gemini App Re-architected",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Detail the practical voice features available for staff",
+    "narration": "Ab staff typing ki jagah 45 se zyada languages mein bol kar baat kar sakta hai.",
+    "on_screen": "45+ languages voice chat",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "No typing required",
+     "45+ languages support",
+     "Camera notes translation"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "State honest hardware and internet limits",
+    "narration": "Jaise hardware ki limit hoti hai, waise bina internet connection ke ye nahi chalega.",
+    "on_screen": "Internet connection zaroori hai",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Download on Google Play",
+     "Press power button to start",
+     "Active internet required"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Deliver payoff and call to action",
+    "narration": "Comment GEMINI, main aapko setup steps aur link DM kar dunga.",
+    "on_screen": "Comment GEMINI for setup",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Get Gemini Setup Guide",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "How to use Google Gemini Live on low RAM Android budget phones for field staff. Aapko apne shop workers ya site staff ke liye expensive phones lene ki zaroorat nahi hai. Google ne Gemini app ko Android Go devices aur lower-memory phones ke liye re-architect kar diya hai. Ab aapke staff typing ke bina 45 se zyada bhashaon mein Gemini Live se baat kar sakte hain aur notes ko translate kar sakte hain. Iske liye sirf Play Store se app download karna hai ya power button long press karna hai. Comment GEMINI for step-by-step setup guide.",
+  "hashtags": [
+   "#GeminiAI",
+   "#AndroidGo",
+   "#SmallBusinessTech",
+   "#FieldStaff",
+   "#VoiceAI"
+  ],
+  "keywords": [
+   "Google Gemini low RAM Android",
+   "Gemini Live budget phone setup",
+   "Android Go Gemini app",
+   "field staff AI tools",
+   "voice AI for small business"
+  ],
+  "claims": [
+   {
+    "claim": "The Gemini app is now available on lower-memory Android devices, including Android Go edition devices.",
+    "source_id": 32
+   },
+   {
+    "claim": "Google re-architected the Gemini app so the core experience runs smoothly on hardware with less memory.",
+    "source_id": 32
+   },
+   {
+    "claim": "Users can talk out loud in more than 45 languages with Gemini Live.",
+    "source_id": 32
+   },
+   {
+    "claim": "Users can point their camera at notes or forms to learn and translate.",
+    "source_id": 32
+   },
+   {
+    "claim": "To get started, users can download Gemini on Google Play or press and hold the power button on supported phones.",
+    "source_id": 32
+   }
+  ],
+  "dm_keyword": "GEMINI",
+  "dm_text": "Budget Android phones par Google Gemini setup karne ke steps: 1. Google Play Store se Gemini app download karein. 2. Supported Android Go devices par power button hold karke bhi activate kar sakte hain. 3. App open karke Gemini Live se 45+ languages mein voice talk karein. 4. Notes ya forms translate karne ke liye camera feature use karein. Note: Core Gemini functions light hardware par smoothly chalte hain, lekin active internet connection zaroori hai. Official Google blog link: https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/"
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 8,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "The Gemini app is now available on lower-memory Android devices, including Android Go edition devices.",
+    "supported": true
+   },
+   {
+    "claim": "Google re-architected the Gemini app so the core experience runs smoothly on hardware with less memory.",
+    "supported": true
+   },
+   {
+    "claim": "Users can talk out loud in more than 45 languages with Gemini Live.",
+    "supported": true
+   },
+   {
+    "claim": "Users can point their camera at notes or forms to learn and translate.",
+    "supported": true
+   },
+   {
+    "claim": "To get started, users can download Gemini on Google Play or press and hold the power button on supported phones.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Scenes 1, 3, and 6 use repetitive text cards in the central container without visual variety or app screenshots."
+  ],
+  "issues": [
+   "The reel relies almost entirely on text cards and checklists; showing a real Android Go phone or Gemini interface mockup would make the tutorial significantly more engaging."
+  ],
+  "fix_instructions": "Add an image or mockup of the Gemini app interface on scene 3 or scene 4 to replace the plain text card and give viewers a visual anchor."
+ },
+ "rules": [],
+ "reasons": [],
+ "meta": {
+  "duration": 34.1,
+  "voice": "edge",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-21/R3-2026-11-21/try1/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-21/R3-2026-11-21/try1/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-21/R3-2026-11-21/try1/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-21/R3-2026-11-21/try1/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-21/R3-2026-11-21/try1/scene_05.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-21/R3-2026-11-21/try1/scene_06.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   5.77,
+   5.45,
+   5.36,
+   6.27,
+   6.1,
+   5.13
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-21/R3-2026-11-21/try1",
+ "attempt": 1,
+ "approved": true,
+ "hook": "Field staff ke liye mehenga smartphone khareedna band karo. Ye dekho.",
+ "log": [
+  "attempt 1: PASS {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} []"
+ ],
+ "material": "[32] Google AI Blog — The Gemini app is now available on lower-memory Android devices.\nURL: https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/\nThe Gemini app is now available on lower-memory Android devices. Angus Logan\nFor hundreds of millions of people globally, a lower-memory Android device is their everyday connection to the internet, education, and business.\nUntil recently, hardware limits meant those phones only had basic voice commands. Now, we’re bringing the Gemini app to eligible Android (Go edition) devices , putting Google’s personal AI assistant in the hands of hundreds of millions more people. We re-architected the app so the core Gemini experience runs smoothly on hardware with less memory.\nInstead of typing out long prompts, you can talk things through or practice for an interview out loud in more than 45 languages with Gemini Live , point your camera at notes or forms to learn and translate, or create custom images with Nano Banana — like a flyer for a weekend bakery sale. To get started, download the Gemini app on Google Play, press and hold the power button on supported phones, or look for it preloaded on upcoming devices from partners like Transsion.\nGet your year-end tasks done with new Connected Apps.\nICYMI: Transfer your history from other AI apps into Gemini.\nIntroducing Tool Retrieval in the Gemini API\nWalter Isaacson on curiosity and creativity in the AI age.",
+ "id": "R3-2026-11-21",
+ "caption_final": "How to use Google Gemini Live on low RAM Android budget phones for field staff. Aapko apne shop workers ya site staff ke liye expensive phones lene ki zaroorat nahi hai. Google ne Gemini app ko Android Go devices aur lower-memory phones ke liye re-architect kar diya hai. Ab aapke staff typing ke bina 45 se zyada bhashaon mein Gemini Live se baat kar sakte hain aur notes ko translate kar sakte hain. Iske liye sirf Play Store se app download karna hai ya power button long press karna hai. Comment GEMINI for step-by-step setup guide.\n\n#GeminiAI #AndroidGo #SmallBusinessTech #FieldStaff #VoiceAI"
+}

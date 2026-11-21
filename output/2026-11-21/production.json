@@ -1,0 +1,356 @@
+{
+ "date": "2026-11-21",
+ "tag": "2026-11-21",
+ "pilot": false,
+ "sources": 90,
+ "ideas": 14,
+ "idea_list": [
+  {
+   "idea": "Connecting ChatGPT or Claude to multi-app workflows using Zapier MCP",
+   "format": "tutorial",
+   "total": 8.55,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 8,
+    "evidence": 9,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Automating desktop tasks using Gemini computer use on Mac and PC",
+   "format": "demo",
+   "total": 8.51,
+   "scores": {
+    "relevance": 9,
+    "novelty": 9,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 8,
+    "evidence": 9,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Using Google Gemini Live on low-RAM budget Android phones for field staff and shop workers",
+   "format": "tool_test",
+   "total": 8.47,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Knowing what AI can reliably automate vs where human judgment is mandatory",
+   "format": "myth_fact",
+   "total": 8.47,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Building full business automations using plain English without opening workflow tools",
+   "format": "case_study",
+   "total": 8.47,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Auto-routing Granola and Plaud meeting notes to CRM and WhatsApp follow-ups",
+   "format": "problem_fix",
+   "total": 8.31,
+   "scores": {
+    "relevance": 8,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Setting up Voice AI prototypes for handling after-hours customer calls",
+   "format": "demo",
+   "total": 8.3,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 8,
+    "evidence": 8,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Splitting AI tasks between Claude and Gemini to save subscription costs",
+   "format": "manual_vs_auto",
+   "total": 8.28,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "Building safety failsafes when autonomous AI agents mute monitoring alerts",
+   "format": "checklist",
+   "total": 8.24,
+   "scores": {
+    "relevance": 8,
+    "novelty": 9,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "Protecting business chat privacy against screen-reading AI agents",
+   "format": "problem_fix",
+   "total": 8.17,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 7,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "Catching missing contact or lead fields automatically before saving to CRM",
+   "format": "problem_fix",
+   "total": 8.17,
+   "scores": {
+    "relevance": 9,
+    "novelty": 7,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "Building offline fallback plans for shop operations during cloud and IT outages",
+   "format": "checklist",
+   "total": 8.03,
+   "scores": {
+    "relevance": 8,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 7,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "Comparing Superhuman Docs and Notion for managing shop SOPs and inventory",
+   "format": "tool_test",
+   "total": 7.88,
+   "scores": {
+    "relevance": 8,
+    "novelty": 7,
+    "hook_potential": 7,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "Automating vendor and trader community groups on messaging platforms",
+   "format": "tutorial",
+   "total": 7.59,
+   "scores": {
+    "relevance": 7,
+    "novelty": 8,
+    "hook_potential": 7,
+    "retention": 7,
+    "save_share": 8,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 7
+   }
+  }
+ ],
+ "rejected_ideas": [],
+ "items": [
+  {
+   "id": "R1-2026-11-21",
+   "kind": "reel",
+   "format": "tutorial",
+   "topic": "Connecting ChatGPT or Claude to multi-app workflows using Zapier MCP",
+   "hook": "ChatGPT se output manually copy-paste karna band karo. Iski jagah ye karo.",
+   "approved": false,
+   "attempts": 4,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 8,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 8,
+    "pacing": 8,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [
+    "scene 6 narration 22 words (want 4-14)"
+   ],
+   "log": [
+    "attempt 1: fail {'hook': 7, 'originality': 8, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 7} ['hook 7/10 (<8)', 'practical_value 7/10 (<8)', 'reel is 58.1 s long (max 45 s; aim for 15-35 s)']",
+    "attempt 2: fail {'hook': 7, 'originality': 7, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 6, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 6} ['hook 7/10 (<8)', 'originality 7/10 (<8)', 'practical_value 7/10 (<8)', 'visual_integrity 6/10 (<8)']",
+    "attempt 3: rules failed: ['scene 1: compare needs rows', 'scene 2: screenshot must be a product page from the sources, not an article', 'scene 5: screenshot must be a product page from the sources, not an article']",
+    "attempt 4: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['scene 6 narration 22 words (want 4-14)']"
+   ],
+   "dir": "output/2026-11-21/R1-2026-11-21/try4",
+   "duration": 37.9,
+   "voice": "gemini"
+  },
+  {
+   "id": "R2-2026-11-21",
+   "kind": "reel",
+   "format": "demo",
+   "topic": "Automating desktop tasks using Gemini computer use on Mac and PC",
+   "hook": "PC par Excel aur browser ke beech copy-paste karna khatam hoga.",
+   "approved": false,
+   "attempts": 2,
+   "scores": {
+    "hook": 8,
+    "originality": 8,
+    "practical_value": 6,
+    "natural_language": 8,
+    "accuracy": 10,
+    "narrative": 8,
+    "visual_integrity": 8,
+    "pacing": 8,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [
+    "scene 4: compare needs rows",
+    "practical_value 6/10 (<8)"
+   ],
+   "log": [
+    "attempt 1: fail {'hook': 7, 'originality': 6, 'practical_value': 5, 'natural_language': 7, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 8, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 6} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 5/10 (<8)', 'natural_language 7/10 (<8)']",
+    "attempt 2: fail {'hook': 8, 'originality': 8, 'practical_value': 6, 'natural_language': 8, 'accuracy': 10, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['scene 4: compare needs rows', 'practical_value 6/10 (<8)']",
+    "attempt 3: fail {'hook': 6, 'originality': 7, 'practical_value': 5, 'natural_language': 8, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 6, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 6} ['hook 6/10 (<8)', 'originality 7/10 (<8)', 'practical_value 5/10 (<8)', 'narrative 7/10 (<8)']",
+    "attempt 4: fail {'hook': 7, 'originality': 6, 'practical_value': 5, 'natural_language': 8, 'accuracy': 10, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 5/10 (<8)']"
+   ],
+   "dir": "output/2026-11-21/R2-2026-11-21/try2",
+   "duration": 34.3,
+   "voice": "edge"
+  },
+  {
+   "id": "R3-2026-11-21",
+   "kind": "reel",
+   "format": "tool_test",
+   "topic": "Using Google Gemini Live on low-RAM budget Android phones for field staff and shop workers",
+   "hook": "Field staff ke liye mehenga smartphone khareedna band karo. Ye dekho.",
+   "approved": true,
+   "attempts": 1,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 8,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 8,
+    "pacing": 8,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [],
+   "log": [
+    "attempt 1: PASS {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} []"
+   ],
+   "dir": "output/2026-11-21/R3-2026-11-21/try1",
+   "duration": 34.1,
+   "voice": "edge"
+  },
+  {
+   "id": "C1-2026-11-21",
+   "kind": "carousel",
+   "format": "problem_fix",
+   "topic": "Auto-routing Granola and Plaud meeting notes to CRM and WhatsApp follow-ups",
+   "hook": "How to send Plaud and Granola notes straight to CRM.",
+   "approved": false,
+   "attempts": 1,
+   "scores": {
+    "hook": 7,
+    "originality": 7,
+    "practical_value": 8,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 9,
+    "pacing": 8,
+    "brand_consistency": 7,
+    "publish_readiness": 7
+   },
+   "reasons": [
+    "hook 7/10 (<8)",
+    "originality 7/10 (<8)",
+    "spelling: Slide 4 (Row 1 Left): 'Copy paste notes by hand' should be hyphenated as 'Copy-paste notes by hand'."
+   ],
+   "log": [
+    "attempt 1: fail {'hook': 7, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 7, 'publish_readiness': 7} ['hook 7/10 (<8)', 'originality 7/10 (<8)', \"spelling: Slide 4 (Row 1 Left): 'Copy paste notes by hand' should be hyphenated as 'Copy-paste notes by hand'.\"]",
+    "attempt 2: fail {'hook': 7, 'originality': 7, 'practical_value': 7, 'natural_language': 7, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 6, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 6} ['hook 7/10 (<8)', 'originality 7/10 (<8)', 'practical_value 7/10 (<8)', 'natural_language 7/10 (<8)']",
+    "attempt 3: fail {'hook': 7, 'originality': 6, 'practical_value': 7, 'natural_language': 6, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 7} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 7/10 (<8)', 'natural_language 6/10 (<8)']"
+   ],
+   "dir": "output/2026-11-21/C1-2026-11-21/try1",
+   "duration": null,
+   "voice": null
+  }
+ ],
+ "llm_calls": {
+  "text": 24,
+  "tts": 28,
+  "failed": 0
+ }
+}

@@ -878,5 +878,21 @@
   "status": "published",
   "media_id": "18140053345732832",
   "permalink": "https://www.instagram.com/p/Df6JO9nFixQ/"
+ },
+ {
+  "id": "R3-2026-11-21",
+  "date": "2026-11-21",
+  "kind": "reel",
+  "format": "tool_test",
+  "topic": "Using Google Gemini Live on low-RAM budget Android phones for field staff and shop workers",
+  "hook": "Field staff ke liye mehenga smartphone khareedna band karo. Ye dekho.",
+  "keywords": [
+   "Google Gemini low RAM Android",
+   "Gemini Live budget phone setup",
+   "Android Go Gemini app",
+   "field staff AI tools",
+   "voice AI for small business"
+  ],
+  "status": "queued"
  }
 ]

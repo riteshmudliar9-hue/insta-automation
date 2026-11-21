@@ -1,0 +1,283 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Connecting ChatGPT or Claude to multi-app workflows using Zapier MCP",
+  "angle": "Single-app AI connections are obsolete; Zapier MCP lets your AI chat trigger actions across Sheets, CRM, and messaging simultaneously.",
+  "audience_problem": "Owners are tired of manually copy-pasting AI responses into multiple tools after every chat session.",
+  "format": "tutorial",
+  "medium": "reel",
+  "source_ids": [
+   66,
+   68
+  ],
+  "evergreen": true,
+  "keywords": [
+   "zapier mcp",
+   "chatgpt automation",
+   "claude ai",
+   "workflow automation",
+   "business tech"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 8,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 8,
+   "evidence": 9,
+   "viral": 8
+  },
+  "total": 8.55
+ },
+ "piece": {
+  "hooks": [
+   "ChatGPT se output manually copy-paste karna band karo. Iski jagah ye karo.",
+   "Agar aap AI output manually Sheets me copy kar rahe ho, ye dekho.",
+   "ChatGPT ko direct 10,000 apps se safe tareeqe se connect karo.",
+   "AI tools ko API keys diye bina multiple apps se connect karo.",
+   "ChatGPT responses ko Google Docs aur CRM me direct save karo."
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "It addresses a specific daily annoyance for business owners who manually move text between ChatGPT and work tools.",
+  "title": "Automate Multi-App Workflows Using Zapier MCP",
+  "scenes": [
+   {
+    "purpose": "Address manual copy-pasting issue",
+    "narration": "ChatGPT se output manually copy-paste karna band karo. Iski jagah ye karo.",
+    "on_screen": "Stop Manual Copy Paste",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "Manual Way",
+    "right_label": "Zapier MCP",
+    "rows": [
+     {
+      "left": "Copy chat output",
+      "right": "Direct app update"
+     },
+     {
+      "left": "Paste in 3 apps",
+      "right": "One click action"
+     }
+    ]
+   },
+   {
+    "purpose": "Explain Zapier MCP functionality",
+    "narration": "Zapier MCP se ChatGPT aapke 10,000 se zyada apps se connect ho jata hai.",
+    "on_screen": "Connect 10000+ Apps",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "ChatGPT",
+     "Zapier MCP",
+     "Sheets / CRM / Docs"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Security and credential management",
+    "narration": "Zapier har app ka login handle karta hai. ChatGPT aapki API keys nahi dekhta.",
+    "on_screen": "Keys Stay Safe",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "AI Never Touches Your Keys",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Setup steps",
+    "narration": "MCP dashboard me New MCP Server chuno, ChatGPT select karo, aur Add Tool se app add karo.",
+    "on_screen": "Easy Step Setup",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Select ChatGPT client",
+     "Click Add Tool",
+     "Choose app and actions",
+     "Save and connect"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Background automation with Zaps",
+    "narration": "Daily repeating kaam ke liye ChatGPT direct Zap create kar sakta hai jo background me chalega.",
+    "on_screen": "Automate Repeat Tasks",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "Ask in ChatGPT",
+     "Draft Zap",
+     "Runs on Schedule"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Payoff and CTA",
+    "narration": "Bas permissions set karo taaki AI record delete na kar sake. Comment MCP, main step by step setup guide DM kar dunga.",
+    "on_screen": "Comment MCP For Setup Guide",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Comment MCP for Setup Guide",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "How to connect ChatGPT to Google Sheets CRM and Google Docs using Zapier MCP. If you spend time manually copying ChatGPT summaries into Google Docs, sheets, or CRM tools, connecting Zapier MCP changes the workflow. You connect your apps once in Zapier, and ChatGPT can create records or update rows directly inside the chat window. Zapier manages your app credentials, meaning AI models never touch your login keys. You can also restrict actions so the AI can create drafts but cannot delete records or send unauthorized messages. What daily copy-paste task between ChatGPT and your business apps takes up most of your time? Comment MCP for the step-by-step setup guide.",
+  "hashtags": [
+   "#ZapierMCP",
+   "#ChatGPTAutomation",
+   "#BusinessAutomation",
+   "#WorkflowAutomation",
+   "#AIForBusiness"
+  ],
+  "keywords": [
+   "Zapier MCP",
+   "ChatGPT automation",
+   "Claude MCP workflow",
+   "app integration AI",
+   "small business automation"
+  ],
+  "claims": [
+   {
+    "claim": "Zapier MCP connects ChatGPT to over 10,000 apps.",
+    "source_id": 66
+   },
+   {
+    "claim": "Zapier handles app logins so ChatGPT never touches your credentials or keys.",
+    "source_id": 66
+   },
+   {
+    "claim": "Setup requires adding an MCP server, choosing ChatGPT, adding tools, configuring actions, and saving.",
+    "source_id": 66
+   },
+   {
+    "claim": "ChatGPT can build Zaps that keep running on schedule or event triggers after closing the tab.",
+    "source_id": 66
+   },
+   {
+    "claim": "Permissions can be set so AI tools only take allowed actions like creating records without deleting them.",
+    "source_id": 68
+   }
+  ],
+  "dm_keyword": "MCP",
+  "dm_text": "Zapier MCP Setup Steps for ChatGPT and Claude: 1. Open Zapier MCP dashboard and click +New MCP Server. Select ChatGPT or Claude as client. 2. Click +Add tool, search for your app (like Google Sheets, Docs, or CRM), and click its tile. 3. Select the exact action events allowed, then click Connect. 4. Click kebab menu (⋮) -> Configure to set fields, then click Save. 5. Click Connect at top of MCP dashboard to link server to your AI account. Zapier handles app logins so your keys remain safe. Full guide: https://zapier.com/blog/automate-chatgpt-zapier-mcp"
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 8,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "Zapier MCP connects ChatGPT to over 10,000 apps.",
+    "supported": true,
+    "note": "Supported directly by Source 66."
+   },
+   {
+    "claim": "Zapier handles app logins so ChatGPT never touches your credentials or keys.",
+    "supported": true,
+    "note": "Supported by Source 66."
+   },
+   {
+    "claim": "Setup requires adding an MCP server, choosing ChatGPT, adding tools, configuring actions, and saving.",
+    "supported": true,
+    "note": "Supported by step-by-step setup instructions in Source 66."
+   },
+   {
+    "claim": "ChatGPT can build Zaps that keep running on schedule or event triggers after closing the tab.",
+    "supported": true,
+    "note": "Supported by Source 66."
+   },
+   {
+    "claim": "Permissions can be set so AI tools only take allowed actions like creating records without deleting them.",
+    "supported": true,
+    "note": "Supported by Source 68."
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Scene 3 (image 3): Visual box is mostly empty with just a headline text line, lacking visual cues like a shield or lock icon to reinforce security.",
+   "Scene 6 (image 6): Screen layout is sparse with blank white space around the single CTA card."
+  ],
+  "issues": [
+   "Scene 6 narration mentions setting permissions to prevent record deletion, but the on-screen graphic only mentions the CTA 'Comment MCP for Setup Guide', creating a mismatch between voiceover detail and screen content."
+  ],
+  "fix_instructions": "Add a visual lock/shield icon to Scene 3 to visually represent key security. Update Scene 6 graphic to include a small callout bullet about permission controls (e.g. 'Restrict Deletion & Actions') alongside the CTA prompt."
+ },
+ "rules": [
+  "scene 6 narration 22 words (want 4-14)"
+ ],
+ "reasons": [
+  "scene 6 narration 22 words (want 4-14)"
+ ],
+ "meta": {
+  "duration": 37.9,
+  "voice": "gemini",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-21/R1-2026-11-21/try4/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-21/R1-2026-11-21/try4/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-21/R1-2026-11-21/try4/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-21/R1-2026-11-21/try4/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-21/R1-2026-11-21/try4/scene_05.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-21/R1-2026-11-21/try4/scene_06.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   4.21,
+   4.25,
+   14.4,
+   5.1,
+   4.27,
+   5.67
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-21/R1-2026-11-21/try4",
+ "attempt": 4,
+ "approved": false,
+ "hook": "ChatGPT se output manually copy-paste karna band karo. Iski jagah ye karo.",
+ "log": [
+  "attempt 1: fail {'hook': 7, 'originality': 8, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 7} ['hook 7/10 (<8)', 'practical_value 7/10 (<8)', 'reel is 58.1 s long (max 45 s; aim for 15-35 s)']",
+  "attempt 2: fail {'hook': 7, 'originality': 7, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 6, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 6} ['hook 7/10 (<8)', 'originality 7/10 (<8)', 'practical_value 7/10 (<8)', 'visual_integrity 6/10 (<8)']",
+  "attempt 3: rules failed: ['scene 1: compare needs rows', 'scene 2: screenshot must be a product page from the sources, not an article', 'scene 5: screenshot must be a product page from the sources, not an article']",
+  "attempt 4: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['scene 6 narration 22 words (want 4-14)']"
+ ],
+ "material": "[66] Zapier Blog — 4 ways to automate ChatGPT with Zapier MCP\nURL: https://zapier.com/blog/automate-chatgpt-zapier-mcp\nLots of AI tools give you ways to take action in other apps, and I've tried a handful of them. The problem is they're almost always locked to one ecosystem, or they connect to just one app at a time, which defeats the purpose. I'd get something working, then hit a wall the moment I needed it to reach into a different corner of my stack.\nZapier MCP is different. Install it once in ChatGPT (or any AI tool that supports MCP) and it can reach 10,000+ apps, with Zapier handling each app's login so ChatGPT never touches your keys. That means ChatGPT can create records, update rows, and send messages across your stack without you ever leaving the chat window.\nAnd when something needs to happen again and again, ChatGPT can build it as a Zap, an automated workflow that Zapier keeps running after you close the tab. Below, I'm sharing four workflows with templates to help you get started quickly with Zapier in ChatGPT.\nPro tip: Not sure which ChatGPT model to use for your workflows? Our guide to AI models on Zapier covers every model available from Anthropic, OpenAI, and other providers.\nDraft and save long-form content to Google Docs\nResearch a prospect and update their HubSpot record\nSummarize a meeting and send follow-up tasks in Asana\nPull data from a Google Sheet and write a weekly report to Notion\nBefore you try these workflows, you'll need to install Zapier MCP into ChatGPT if you haven't already. If you can click, type, and copy-paste, you can set this up in minutes. Just follow these steps:\nClick +New MCP Server and choose ChatGPT as the client.\nNow set up your first action. Click +Add tool.\nSearch for the app you want to connect to, then click its corresponding tile.\nSelect whichever action events you want to connect, then click Connect.\nIn the dashboard, configure each action according to your needs by clicking the kebab menu ( ⋮ ) and then Configure and adjusting values as needed. Hover over the tooltip icons next to any field for more details. When you're done, click Save.\nFinally, click Connect at the top of the MCP dashboard and follow the instructions to add this server to your ChatGPT account.\nNow you're ready to try the workflows below in ChatGPT.\nDraft and save long-form content to Google Docs\nYou're a content marketer or writer who needs to produce first drafts fast—and you don't want to spend the next twenty minutes reformatting text and moving it into a doc. With ChatGPT connected to Google Docs via Zapier, the draft lands where it belongs.\nRead a content brief, write a blog post draft, and save it to Google Docs automatically\nResearch a prospect and update their HubSpot record\nYou're in sales or RevOps, and you want ChatGPT to do the pre-call research you never have time for—and actually write the findings back to HubSpot so they're there when you need them.\nSearch for recent company news and add a research summary to their HubSpot record before your call\nSummarize a meeting and send follow-up tasks in Asana\nYou're a project manager or team lead who wants ChatGPT to turn raw meeting notes into a clean summary and assigned tasks—so nothing gets lost after the call ends.\nTurn meeting notes into a summary and assigned tasks in Asana automatically\nPull data from a Google Sheet and write a report to Notion\nYou're an analyst or ops lead who tracks metrics in a spreadsheet and wants a narrative summary written and filed automatically.\nAnalyze spreadsheet metrics, write an executive summary, and save it to Notion automatically\nEvery workflow above starts when you ask, but for some of them, you'll want it to work without having to ask. The weekly Sheets-to-Notion report is the obvious one. After you've run it a couple of times, tell ChatGPT: \"Every Monday at 8 a.m., pull last week's numbers from the Metrics sheet, write a short summary, and save it to our Notion reports page.\" ChatGPT drafts the Zap and deploys it to Zapier. Automations like this can start on a schedule or when something happens in your apps, instead of waiting for you to open a chat.\nA few things keep it dependable over time:\nSame result every time. AI handles the part that needs judgment, like writing the summary. Pulling the rows and filing the page are regular steps, so Monday's report comes out just like Friday's.\nFixes what breaks. If someone renames the sheet or a login expires, the run shows up as failed in your logs, and Zapier finds the problem and proposes a fix. You can approve it or work through it with ChatGPT.\nCheaper and sturdier over time. If an AI step ends up doing the same thing on every run, Zapier can offer to swap it for a regular step: same result, fewer tokens.\nThese four workflows are just a starting point. Once ChatGPT has live access to your tools, you can string together almost any sequence of research, decision, and action—without leaving the conversation or writing a line of code. ChatGPT's built-in connectors cover the basics, like looking up a record or updating a field. Zapier goes further, so ChatGPT can do things like enroll a contact in a HubSpot nurture sequence or create an Asana task with an owner and a due date. And because your connections live in Zapier, they follow you: they work from Claude, Microsoft Copilot Studio, Cursor, or any other AI tool that supports MCP, so switching tools doesn't mean starting over.\nIf you want to go deeper, the Zapier MCP feature guide walks you through connecting your apps to ChatGPT step by step, with more detail on configuration, permissions, and what to try next.\nWhy use Zapier if I already have ChatGPT?\nKeep ChatGPT—Zapier gives it more to work with. ChatGPT's built-in connectors cover a handful of popular apps, while Zapier reaches 10,000+ apps and keeps your Zaps running once the chat is closed. If one breaks, Zapier finds the problem and proposes the fix.\nPartly. A scheduled task wakes up at a set time and has the model redo every step from scratch, which is slower and uses more tokens. A Zap can run on a schedule too, but it can also start the moment something happens, like a new row, ticket, or email, and it brings in AI only for the steps that need it. That makes it quicker to run, cheaper, and more consistent.\nYou can, and it will probably work the first time. The catch is everything after: a script needs somewhere to run, a way to catch events, and someone watching it. When an API changes or a login expires, it stops quietly, and it's usually storing your keys on a laptop or in a repo. If ChatGPT builds a Zap instead, Zapier hosts it, runs it on real triggers, and manages the connections. When something breaks, you get a proposed fix to approve.\nHow to automate Microsoft Copilot with Zapier MCP\nChatGPT connectors: How to connect ChatGPT to other apps\nThis article was originally published in March 2026. It was most recently updated in November 2026.\nGet AI and automation tips, delivered straight to your inbox\nWe’ll email you 1-2 times per week—and never share your information.\nIn the fifth grade, Steph defeated th\n\n[68] Zapier Blog — How to automate Claude safely with Zapier MCP\nURL: https://zapier.com/blog/automate-claude-zapier-mcp\nI've been playing this game at coffee shops where every time I overhear somebody say they're \"building with AI,\" I take a sip of my cold brew. Suffice it to say, I'm staying caffeinated (and staying up at night).\nYour IT admins may be losing sleep too, if everyone's handing AI tools like Claude access to their work apps, giving it more chances to do something it shouldn't. Zapier MCP closes that gap, connecting Claude to your tech stack with governance built in. That way, your AI can take only the actions you allow.\nBelow, I'll show you how to install Zapier MCP in Claude—whether you prefer to work in Chat or Code—and share a few templates to get you started fast. I'll also show you how Claude can turn repeat work into an automation that Zapier runs for you, starting whenever something happens in your apps. Claude does the building, and Zapier keeps it running.\nNote: The templates in this post work with any AI tool that supports MCP, not just Claude.\nShould I use Zapier MCP with Claude Chat or Claude Code?\n5 ways to automate Claude with Zapier MCP\nZapier MCP is a tool you install in your AI to connect it to your other apps. It's for when you want to go beyond prompting and have AI carry out work for you. For example, instead of just asking Claude to write you an email that you'll send to your vendor list, maybe you want it to reach into your CRM, pull the names and addresses for a group of vendors, and create a draft in Gmail without navigating away from your Claude window. That's the kind of thing Zapier MCP makes possible.\nAI tools come with native connectors of their own. But Zapier MCP is different because you decide exactly what Claude can do. You install it once with a few clicks, then give it access to just the apps and actions you allow. If you want Claude to draft a reply but never to send one, setting that up is easy. So is making sure it can never delete any records in your apps. And you can revoke access to an app or action anytime your needs change.\nClaude's built-in connectors cover the basics, like looking up a record or updating a field. Zapier goes deeper, so Claude can do things like convert a lead in Salesforce or enroll a contact in a HubSpot nurture sequence, across 10,000+ apps. You connect your accounts once, and the same connections work from Claude, ChatGPT, Cursor, or any other AI tool that supports MCP, so switching tools doesn't mean starting over.\nI've heard people claim that AI won't do anything you don't want it to, as long as you give it the right instructions. That reminds me of a favorite phrase of my brother-in-law: \"I pretty much guarantee it.\" When everyone at your company is tinkering with AI, you need more than a \"pretty-much guarantee\" that it won't leak credentials or take some other improper action. You need the security Zapier MCP provides.\nShould I use Zapier MCP with Claude Chat or Claude Code?\nOnce you've decided Claude should act on your apps within limits you set, the next question is where to install Zapier MCP. If you're working in Claude, your options are Claude Chat, Claude Code, or some mix of the two.\nTo help you decide, here's a rundown of what Zapier MCP unlocks in each.\nPro tip: Not sure which Claude model to use for your workflows? Our guide to AI models on Zapier covers every model available from Anthropic, OpenAI, and other providers.\nChat is the surface most people mean when they just say \"Claude.\" It's a chat interface, but it can also work with the files on your computer, use your apps, and run code (this part used to be called Claude Cowork). It can even control your screen directly by clicking, typing, and navigating on its own. Plus, it lets you build tasks that run on a schedule.\nWith Zapier MCP installed, you can request one-off actions in your other apps without ever leaving your Claude conversation. This means you can build more complex workflows while retaining control over exactly which apps and actions Claude can touch.\nNote: Claude can run scheduled tasks, but only while your computer is on and the desktop app is open. Once you close the app, the session stops. These are time-based automations, too, not event-based ones. If you want a workflow to run whether your computer is open or not, or to fire from an event-based trigger, build a Zap instead, and ask Claude to draft it for you through Zapier MCP. A Zap can start when something happens in an app or on a schedule, so it keeps working with your laptop closed. You can still use AI in a Zap workflow: add AI steps from your preferred model with our built-in tool, AI by Zapier , and let regular steps handle the rest.\nClaude Code is an AI coding assistant. It's built to understand and act on a codebase specifically—tracing logic across files, working directly with git, running tests, and opening pull requests. It works wherever you write software, whether that's the terminal, your IDE, the desktop app, or your phone.\nInstall Zapier MCP into Claude Code, and you get conversational access to your apps right alongside your code. So you can say \"post this to Slack\" or \"grab my open Jira tickets\" mid-task without switching tools. And as with Chat, you can build time-based automations.\nClaude Code also comes with another option: You can install the Zapier SDK here instead of Zapier MCP. The SDK is a set of building blocks for wiring Zapier's actions straight into your code, so when you need loops, error handling, multi-app chains, or something that runs autonomously in the background, you've got full programmatic control.\nSo which do you pick? It comes down to what you're making. Using Zapier MCP with Claude Code is best when the action is the end goal: you want something done right now, inside the conversation, and then you move on. The SDK is best when the code is the end goal, when you're building something that outlives the conversation, runs on its own schedule, and can be refined over time.\nBefore you try the workflows below, you'll need to install Zapier MCP into Claude if you haven't already. If you can click, type, and copy-paste, you can set this up in minutes. Just follow these steps:\nClick +New MCP Server and choose Claude or Claude Code as the client.\nNow set up your first action. Click +Add tool .\nSearch for the app you want to connect to, then click its corresponding tile .\nSelect whichever action events you want to connect, then click Connect .\nIn the dashboard, configure each action according to your needs by clicking the kebab menu (⋮) and then Configure and adjusting values as needed. Hover over the tooltip icons next to any field for more details. When you're done, click Save .\nFinally, click Connect at the top of the MCP dashboard and follow the instructions to add this server to your Claude account.\n5 ways to automate Claude with Zapier MCP\nYou're an EA scheduling meetings—or you manage your own busy calendar—and you want a faster way to find open times and show up to meetings prepared.\nFind open calendar slots, create a Google Meet",
+ "id": "R1-2026-11-21",
+ "caption_final": "How to connect ChatGPT to Google Sheets CRM and Google Docs using Zapier MCP. If you spend time manually copying ChatGPT summaries into Google Docs, sheets, or CRM tools, connecting Zapier MCP changes the workflow. You connect your apps once in Zapier, and ChatGPT can create records or update rows directly inside the chat window. Zapier manages your app credentials, meaning AI models never touch your login keys. You can also restrict actions so the AI can create drafts but cannot delete records or send unauthorized messages. What daily copy-paste task between ChatGPT and your business apps takes up most of your time? Comment MCP for the step-by-step setup guide.\n\n#ZapierMCP #ChatGPTAutomation #BusinessAutomation #WorkflowAutomation #AIForBusiness"
+}
