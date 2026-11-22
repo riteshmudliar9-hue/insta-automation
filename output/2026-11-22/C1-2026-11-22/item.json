@@ -1,0 +1,234 @@
+{
+ "kind": "carousel",
+ "idea": {
+  "idea": "The Coding vs Judgment Benchmark: What to Automate vs What to Keep Human",
+  "angle": "Latest METR capability data proves AI excels at structured data and code but fails at business judgment; here is how to split your daily tasks.",
+  "audience_problem": "Owners waste time trying to make AI negotiate custom vendor terms instead of using it for structured bookkeeping and invoice parsing.",
+  "format": "checklist",
+  "medium": "carousel",
+  "source_ids": [
+   50
+  ],
+  "evergreen": true,
+  "keywords": [
+   "METR AI benchmark",
+   "task automation guide",
+   "human in the loop",
+   "business AI bounds"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 8,
+   "hook_potential": 8,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 9,
+   "evidence": 9,
+   "viral": 7
+  },
+  "total": 8.28
+ },
+ "piece": {
+  "hooks": [
+   "What to delegate to AI vs what to keep human",
+   "Stop using AI for vendor negotiations and business judgment",
+   "AI benchmark guide: Tasks to automate vs tasks to keep"
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "It clearly defines the decision framework Indian business owners need when picking tasks for AI.",
+  "slides": [
+   {
+    "kind": "cover",
+    "title": "What to delegate to AI vs what to keep human",
+    "subtitle": "New benchmark data shows AI handles code well but struggles with judgment.",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "mythfact",
+    "title": "",
+    "subtitle": "",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "AI can handle custom client negotiations and business judgment calls on its own.",
+    "fact": "METR research shows AI excels at verifiable coding tasks but consistently fails open-ended judgment tests.",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "checklist",
+    "title": "4 tasks to delegate to AI today",
+    "subtitle": "",
+    "body": "",
+    "items": [
+     "Excel calculations and ledger code scripts",
+     "Parsing structured GST invoices into sheets",
+     "Converting scanned receipts into text data",
+     "Formatting raw stock registers into clean tables"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "checklist",
+    "title": "4 tasks to keep under human control",
+    "subtitle": "",
+    "body": "",
+    "items": [
+     "Negotiating payment credit terms with suppliers",
+     "Resolving rate disputes with regular clients",
+     "Assessing trust on new unverified vendors",
+     "Setting custom margins on non-standard orders"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "compare",
+    "title": "Verifiable tasks vs judgment calls",
+    "subtitle": "",
+    "body": "",
+    "items": [],
+    "left_label": "Verifiable (Automate)",
+    "right_label": "Judgment (Keep Human)",
+    "rows": [
+     {
+      "left": "Python automation scripts",
+      "right": "Evaluating vendor trust"
+     },
+     {
+      "left": "GST calculation rules",
+      "right": "Supplier credit terms"
+     },
+     {
+      "left": "Data format cleaning",
+      "right": "Client rate disputes"
+     }
+    ],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "summary",
+    "title": "Rules for your business workflow",
+    "subtitle": "",
+    "body": "",
+    "items": [
+     "Automate tasks with clear pass or fail rules",
+     "Keep human sign-off on custom pricing deals",
+     "Audit AI outputs on unstructured data entries"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   }
+  ],
+  "caption": "How Indian vyaparis can split work between AI tools and human judgment. New research from AI evaluation benchmark METR shows AI models excel at verifiable tasks like coding and math where pass or fail outcomes are automated. But on fuzzy judgment tasks, models fall short of human standards. Say you run a hardware shop in Nagpur. Use AI to parse GST invoices, format stock registers, or clean data. Keep supplier term negotiations and client credit approvals under human supervision. OpenAI also confirmed their models perform worse on complex real-world tasks than structured tests. Which daily task in your business takes the most time: invoice entry or supplier follow-ups?",
+  "hashtags": [
+   "#BusinessAutomation",
+   "#GSTInvoicing",
+   "#SmallBusinessIndia",
+   "#VyaparTips"
+  ],
+  "keywords": [
+   "AI for Indian business",
+   "what to automate",
+   "GST invoice parsing",
+   "business automation checklist",
+   "METR benchmark AI"
+  ],
+  "claims": [
+   {
+    "claim": "METR evaluation finds AI models improve exponentially on verifiable tasks like coding but fall short on open-ended judgment tasks.",
+    "source_id": 50
+   },
+   {
+    "claim": "In METR tests, zero AI-designed evaluation tasks were judged good enough by human employees to be useful for research.",
+    "source_id": 50
+   },
+   {
+    "claim": "OpenAI reported its models perform worse on real-world employee tasks than on verifiable benchmark tasks.",
+    "source_id": 50
+   }
+  ]
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 8,
+   "practical_value": 9,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 9,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "METR evaluation finds AI models improve exponentially on verifiable tasks like coding but fall short on open-ended judgment tasks.",
+    "supported": true
+   },
+   {
+    "claim": "In METR tests, zero AI-designed evaluation tasks were judged good enough by human employees to be useful for research.",
+    "supported": true
+   },
+   {
+    "claim": "OpenAI reported its models perform worse on real-world employee tasks than on verifiable benchmark tasks.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [],
+  "issues": [
+   "The caption mentions 'vyaparis' and 'Nagpur' which is great for localization, but the slides themselves are entirely in English. Consider adding a touch of Hinglish in the slide text to match the brand voice.",
+   "Slide 5 has a slight visual hierarchy issue: the 'Verifiable' and 'Judgment' labels are in small grey/navy pills that might be hard to read on smaller screens compared to the bold list items."
+  ],
+  "fix_instructions": "The content is excellent and highly actionable. To push it to a 10/10: 1. Keep the English text but perhaps add a small, conversational Hinglish sub-header on the cover slide (e.g., 'AI use karne ka sahi tareeka'). 2. Increase the font weight or contrast for the labels on Slide 5 so they pop more against the background. 3. The content is ready for publication; these are minor polish points."
+ },
+ "rules": [],
+ "reasons": [],
+ "meta": {
+  "ai_visuals": false,
+  "slides": 6
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-22/C1-2026-11-22/try3",
+ "attempt": 3,
+ "approved": true,
+ "hook": "What to delegate to AI vs what to keep human",
+ "log": [
+  "attempt 1: fail {'hook': 7, 'originality': 7, 'practical_value': 7, 'natural_language': 6, 'accuracy': 8, 'narrative': 6, 'visual_integrity': 7, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 6} ['need 3-5 hashtags, got 1', 'hook 7/10 (<8)', 'originality 7/10 (<8)', 'practical_value 7/10 (<8)']",
+  "attempt 2: fail {'hook': 7, 'originality': 7, 'practical_value': 8, 'natural_language': 7, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['hook 7/10 (<8)', 'originality 7/10 (<8)', 'natural_language 7/10 (<8)']",
+  "attempt 3: PASS {'hook': 8, 'originality': 8, 'practical_value': 9, 'natural_language': 8, 'accuracy': 9, 'narrative': 9, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} []"
+ ],
+ "material": "[50] MIT Tech Review AI — The most misunderstood graph in AI just got a major update\nURL: https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/\nYou need to enable JavaScript to view this site. Skip to Content EXECUTIVE SUMMARY A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding.\nThe report is an update to the organization’s time horizon plot, which was widely shared— and widely misinterpreted , owing to the complexity of the measures it used. METR evaluated models by having them attempt a large suite of tasks, each of which had also been completed by humans. Each task’s difficulty was scored by how long it took the human testers to finish it—and then models were rated according to the length of the tasks that they could complete. That plot showed that AI systems were rapidly improving—every four months, the length of the tasks that frontier models could successfully complete doubled.\nThe updated plot adds more tasks—some that are estimated to take humans far longer than those in the original suite, and others that are more open-ended. One of the biggest questions in AI right now is the extent to which progress on “verifiable” tasks—where it’s possible to check automatically whether an AI system has succeeded or failed—carry over into tasks on which success or failure is harder to measure. We know how to teach neural networks how to do verifiable tasks: Researchers have the systems attempt one many times, strengthen the neural pathways that contribute to success, and weaken the pathways that contribute to failures. That’s why AI systems have become so good at coding and math, two domains where it’s possible to determine automatically whether a solution does or doesn’t work.\nIt’s much harder to apply this technique, known as reinforcement learning, to tasks where success is less well defined or takes longer to ascertain—such as choosing a new research direction. For the same reason, it’s tough to evaluate AI performance on these tasks, so METR’s original time horizon plot didn’t include any of them. But it’s precisely this type of task that will prove essential if AI systems are to automate research and development.\nAnd AI research and development is an especially hot topic right now. Parts of the AI community are still reeling from a different, heavily redacted METR report from earlier this month, which claimed that AI might be speeding up the pace of AI progress at Anthropic by a factor of two. That report sparked fears that the company (which just had a blockbuster IPO) could soon achieve full recursive self-improvement, a regime in which AI systems autonomously design their own successors with no human involvement.\nMETR researchers have worked to make sure their new suite of tasks includes some of the fuzzier, judgment-laden ones that could be most relevant to AI research and development. In one task, they ask models to design new AI evaluations that METR could use in its research and then have human METR employees score the results. Even though the most advanced models are now better than almost every human at software engineering, here they fall short: Not one of the AI-designed evaluations was good enough for METR employees to consider it useful for their research.\nIn another task, models have to score philosophical arguments. This task is intended to capture the extent to which models can exercise good judgment—though METR writes in the report that employees disagree about how relevant the task is for automation of AI R&D. On this task, too, models fell short of human performance.\nThough it’s difficult to score these new tasks—and even harder to determine what the scores mean—experts I spoke with appreciate that METR is incorporating new types of evaluations into its work. “We’re at the point where AI evaluations need to get more creative,” says Sayash Kapoor, a computer scientist and incoming professor at UC Berkeley. “Trying to push the envelope of the space of evaluations is a welcome change.”\nKapoor says he wasn’t surprised to see that models fall short of performance on more open-ended tasks, such as designing an AI evaluation—in a preprint from August , he and his collaborators reported that AI models are not yet able to reproduce human computer science research on their own. And in a Wednesday blog post, OpenAI reported that its models don’t do as well on the real-world tasks its employees assign them as they do on the easier, more verifiable tasks in METR’s original suite.\nStill, people disagree about how to interpret current performance differences on easily verifiable and hard-to-verify tasks, Kapoor says. Though he thinks that research taste—the ability to choose promising questions, hypotheses, and experiments—will prove a major bottleneck in automating AI R&D, others contend that models trained on easy-to-verify tasks will eventually be able to successfully complete open-ended tasks as well. And progress on verifiable tasks doesn’t seem to be slowing down.\nEven if the models do lag behind human performance on open-ended tasks right now, the new report suggests that they might be getting better. Some of the newest models, such as Opus 5.5, tend to achieve what METR calls “borderline above the bar” performance on the evaluation design tasks—not yet usable for METR's research, but promising. Just a year ago, every model was scoring in the “clearly below the bar” category.\nBut because these open-ended and judgment-heavy tasks are so tough to design and score, METR includes few of them in its report, and that makes it difficult to predict whether and how models might continue to progress in these areas. “The improvement we observe, I think that does tell us something for the current moment,” says Najoung Kim, a linguist and computer scientist at Boston University. “I’m not sure just yet how to think about how it would extrapolate.”\nMatt Putz, a member of the technical staff at METR, says that predicting progress on these kinds of tasks is likely to remain difficult. “By their nature, hard-to-verify or judgment-laden tasks are much harder to study, and especially to quantify,” he said in an email. “Ultimately, I don’t think we’ll be able to establish trends as clean and robust as for the easy-to-specify [tasks].”\nIn general, METR is clearly butting up against the practical difficulties of testing AI performance on difficult and underspecified tasks—precisely the ones most relevant to automating AI R&D. METR’s time horizon plots score task difficulty by evaluating how long it would take a human to complete the task, and for the original plot they measured this quantity by actually having people try each task.\nIn the new report, however, the completion times are mostly estimates, because paying people for tasks that might take hundreds of hours, or that only a few experts are qualified to complete, is prohibitively expensive and time-consuming. Other tasks have more specific shortcomings—for example, for ",
+ "id": "C1-2026-11-22",
+ "caption_final": "How Indian vyaparis can split work between AI tools and human judgment. New research from AI evaluation benchmark METR shows AI models excel at verifiable tasks like coding and math where pass or fail outcomes are automated. But on fuzzy judgment tasks, models fall short of human standards. Say you run a hardware shop in Nagpur. Use AI to parse GST invoices, format stock registers, or clean data. Keep supplier term negotiations and client credit approvals under human supervision. OpenAI also confirmed their models perform worse on complex real-world tasks than structured tests. Which daily task in your business takes the most time: invoice entry or supplier follow-ups?\n\n#BusinessAutomation #GSTInvoicing #SmallBusinessIndia #VyaparTips"
+}

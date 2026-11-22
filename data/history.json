@@ -894,5 +894,53 @@
    "voice AI for small business"
   ],
   "status": "queued"
+ },
+ {
+  "id": "R3-2026-11-22",
+  "date": "2026-11-22",
+  "kind": "reel",
+  "format": "case_study",
+  "topic": "Plain-English Automation Prompts in Claude for Lead Follow-ups",
+  "hook": "Zapier mein complex workflow setup karna band karo. Iski jagah ye karo.",
+  "keywords": [
+   "Zapier MCP Claude setup",
+   "automate Google Sheets leads to CRM",
+   "plain English AI workflows",
+   "Next Gen Zaps TypeScript",
+   "small business lead tracking automation"
+  ],
+  "status": "queued"
+ },
+ {
+  "id": "R2-2026-11-22",
+  "date": "2026-11-22",
+  "kind": "reel",
+  "format": "manual_vs_auto",
+  "topic": "Upgrading Budget Android Phones with On-Device AI for Field Workers",
+  "hook": "Field staff ke site logs manually type karna band karo. Ye dekho.",
+  "keywords": [
+   "budget Android AI tools",
+   "Gemini app Android Go",
+   "site supervisor reporting",
+   "voice to text site log",
+   "contractor site updates"
+  ],
+  "status": "queued"
+ },
+ {
+  "id": "C1-2026-11-22",
+  "date": "2026-11-22",
+  "kind": "carousel",
+  "format": "checklist",
+  "topic": "The Coding vs Judgment Benchmark: What to Automate vs What to Keep Human",
+  "hook": "What to delegate to AI vs what to keep human",
+  "keywords": [
+   "AI for Indian business",
+   "what to automate",
+   "GST invoice parsing",
+   "business automation checklist",
+   "METR benchmark AI"
+  ],
+  "status": "queued"
  }
 ]

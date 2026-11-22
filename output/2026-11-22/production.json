@@ -1,0 +1,347 @@
+{
+ "date": "2026-11-22",
+ "tag": "2026-11-22",
+ "pilot": false,
+ "sources": 90,
+ "ideas": 14,
+ "idea_list": [
+  {
+   "idea": "Auto-syncing Granola and Plaud Meeting Voice Notes into CRM Tasks",
+   "format": "problem_fix",
+   "total": 8.61,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Upgrading Budget Android Phones with On-Device AI for Field Workers",
+   "format": "manual_vs_auto",
+   "total": 8.61,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Plain-English Automation Prompts in Claude for Lead Follow-ups",
+   "format": "case_study",
+   "total": 8.47,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "The Coding vs Judgment Benchmark: What to Automate vs What to Keep Human",
+   "format": "checklist",
+   "total": 8.28,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "Visual Damaged-Stock Inspection Using Gemini Decisions API",
+   "format": "demo",
+   "total": 8.26,
+   "scores": {
+    "relevance": 8,
+    "novelty": 9,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 8,
+    "evidence": 8,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Matching Business Tasks to the Right AI Model to Cut SaaS Bills",
+   "format": "manual_vs_auto",
+   "total": 8.17,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 7,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "Text-Message AI Agents for On-the-Go Shop Management",
+   "format": "demo",
+   "total": 8.09,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 7,
+    "save_share": 8,
+    "feasibility": 9,
+    "evidence": 8,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Blocking Phone AI Agents from Reading Confidential Client WhatsApp Chats",
+   "format": "problem_fix",
+   "total": 8.07,
+   "scores": {
+    "relevance": 8,
+    "novelty": 9,
+    "hook_potential": 8,
+    "retention": 7,
+    "save_share": 9,
+    "feasibility": 8,
+    "evidence": 9,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "Auditing Wholesale Equipment Quotes with AI Shopping Assistants",
+   "format": "tool_test",
+   "total": 7.97,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 7,
+    "save_share": 8,
+    "feasibility": 9,
+    "evidence": 7,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Preventing Autonomous AI Agents from Disabling Their Own Error Monitors",
+   "format": "myth_fact",
+   "total": 7.93,
+   "scores": {
+    "relevance": 8,
+    "novelty": 9,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 8,
+    "evidence": 8,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "Coda vs Notion for Indian Retail and Workshop Inventory Databases",
+   "format": "tool_test",
+   "total": 7.92,
+   "scores": {
+    "relevance": 8,
+    "novelty": 7,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 8,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "Automated Missing-Field Audits for Inbound Lead Forms",
+   "format": "problem_fix",
+   "total": 7.81,
+   "scores": {
+    "relevance": 9,
+    "novelty": 7,
+    "hook_potential": 8,
+    "retention": 7,
+    "save_share": 8,
+    "feasibility": 9,
+    "evidence": 8,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "Executive-First AI Rollout Framework for Small Enterprise Teams",
+   "format": "case_study",
+   "total": 7.57,
+   "scores": {
+    "relevance": 8,
+    "novelty": 7,
+    "hook_potential": 7,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 6
+   }
+  },
+  {
+   "idea": "Automating Multi-Branch Shop Notifications on Discord",
+   "format": "tutorial",
+   "total": 7.56,
+   "scores": {
+    "relevance": 8,
+    "novelty": 8,
+    "hook_potential": 7,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 9,
+    "evidence": 8,
+    "viral": 6
+   }
+  }
+ ],
+ "rejected_ideas": [],
+ "items": [
+  {
+   "id": "R1-2026-11-22",
+   "kind": "reel",
+   "format": "problem_fix",
+   "topic": "Auto-syncing Granola and Plaud Meeting Voice Notes into CRM Tasks",
+   "hook": "Client meeting ke baad follow-up task bhool jate ho? Ye dekho.",
+   "approved": false,
+   "attempts": 1,
+   "scores": {
+    "hook": 8,
+    "originality": 8,
+    "practical_value": 8,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 9,
+    "pacing": 8,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [
+    "reel is 54.1 s long (max 45 s; aim for 15-35 s)"
+   ],
+   "log": [
+    "attempt 1: fail {'hook': 8, 'originality': 8, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['reel is 54.1 s long (max 45 s; aim for 15-35 s)']",
+    "attempt 2: fail {'hook': 7, 'originality': 7, 'practical_value': 7, 'natural_language': 7, 'accuracy': 8, 'narrative': 7, 'visual_integrity': 6, 'pacing': 7, 'brand_consistency': 7, 'publish_readiness': 6} ['need 3-5 hashtags, got 1', 'hook 7/10 (<8)', 'originality 7/10 (<8)', 'practical_value 7/10 (<8)']",
+    "attempt 3: fail {'hook': 7, 'originality': 6, 'practical_value': 6, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 7} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 6/10 (<8)', 'visual_integrity 7/10 (<8)']",
+    "attempt 4: fail {'hook': 7, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['hook 7/10 (<8)', 'originality 7/10 (<8)']"
+   ],
+   "dir": "output/2026-11-22/R1-2026-11-22/try1",
+   "duration": 54.1,
+   "voice": "gemini"
+  },
+  {
+   "id": "R2-2026-11-22",
+   "kind": "reel",
+   "format": "manual_vs_auto",
+   "topic": "Upgrading Budget Android Phones with On-Device AI for Field Workers",
+   "hook": "Field staff ke site logs manually type karna band karo. Ye dekho.",
+   "approved": true,
+   "attempts": 1,
+   "scores": {
+    "hook": 8,
+    "originality": 8,
+    "practical_value": 8,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 9,
+    "pacing": 8,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [],
+   "log": [
+    "attempt 1: PASS {'hook': 8, 'originality': 8, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} []"
+   ],
+   "dir": "output/2026-11-22/R2-2026-11-22/try1",
+   "duration": 34.1,
+   "voice": "edge"
+  },
+  {
+   "id": "R3-2026-11-22",
+   "kind": "reel",
+   "format": "case_study",
+   "topic": "Plain-English Automation Prompts in Claude for Lead Follow-ups",
+   "hook": "Zapier mein complex workflow setup karna band karo. Iski jagah ye karo.",
+   "approved": true,
+   "attempts": 2,
+   "scores": {
+    "hook": 8,
+    "originality": 8,
+    "practical_value": 8,
+    "natural_language": 9,
+    "accuracy": 9,
+    "narrative": 9,
+    "visual_integrity": 9,
+    "pacing": 9,
+    "brand_consistency": 9,
+    "publish_readiness": 9
+   },
+   "reasons": [],
+   "log": [
+    "attempt 1: fail {'hook': 7, 'originality': 8, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 7} ['hook 7/10 (<8)', 'practical_value 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+    "attempt 2: PASS {'hook': 8, 'originality': 8, 'practical_value': 8, 'natural_language': 9, 'accuracy': 9, 'narrative': 9, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 9} []"
+   ],
+   "dir": "output/2026-11-22/R3-2026-11-22/try2",
+   "duration": 34.1,
+   "voice": "edge"
+  },
+  {
+   "id": "C1-2026-11-22",
+   "kind": "carousel",
+   "format": "checklist",
+   "topic": "The Coding vs Judgment Benchmark: What to Automate vs What to Keep Human",
+   "hook": "What to delegate to AI vs what to keep human",
+   "approved": true,
+   "attempts": 3,
+   "scores": {
+    "hook": 8,
+    "originality": 8,
+    "practical_value": 9,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 9,
+    "visual_integrity": 9,
+    "pacing": 9,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [],
+   "log": [
+    "attempt 1: fail {'hook': 7, 'originality': 7, 'practical_value': 7, 'natural_language': 6, 'accuracy': 8, 'narrative': 6, 'visual_integrity': 7, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 6} ['need 3-5 hashtags, got 1', 'hook 7/10 (<8)', 'originality 7/10 (<8)', 'practical_value 7/10 (<8)']",
+    "attempt 2: fail {'hook': 7, 'originality': 7, 'practical_value': 8, 'natural_language': 7, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['hook 7/10 (<8)', 'originality 7/10 (<8)', 'natural_language 7/10 (<8)']",
+    "attempt 3: PASS {'hook': 8, 'originality': 8, 'practical_value': 9, 'natural_language': 8, 'accuracy': 9, 'narrative': 9, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} []"
+   ],
+   "dir": "output/2026-11-22/C1-2026-11-22/try3",
+   "duration": null,
+   "voice": null
+  }
+ ],
+ "llm_calls": {
+  "text": 21,
+  "tts": 26,
+  "failed": 0
+ }
+}

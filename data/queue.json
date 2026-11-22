@@ -5053,5 +5053,269 @@
    "hook_title": "Low RAM Phone AI",
    "cta": "Comment GEMINI for setup link"
   }
+ },
+ {
+  "id": "R3-2026-11-22",
+  "kind": "reel",
+  "date": "2026-11-22",
+  "slot": "2026-11-22T21:00",
+  "dir": "output/2026-11-22/R3-2026-11-22/try2",
+  "files": [
+   "reel.mp4"
+  ],
+  "caption": "How to automate Google Sheets lead follow-ups to CRM using Claude AI and Zapier. Instead of mapping fields and setting triggers inside Zapier manually, connect Claude via Zapier MCP. You describe your workflow in everyday sentences, like sending new row leads from Google Sheets directly to your CRM. Claude generates Next-Gen Zaps written in TypeScript under the hood. If a logic bug happens, tell Claude what went wrong; it corrects the code and sends proof of the fix in minutes. How do you currently move incoming WhatsApp or sheet leads into your sales software? Comment FLOW for the step-by-step workflow guide.\n\n#BusinessAutomation #Zapier #ClaudeAI #LeadManagement #WorkflowAutomation",
+  "topic": "Plain-English Automation Prompts in Claude for Lead Follow-ups",
+  "format": "case_study",
+  "hook": "Zapier mein complex workflow setup karna band karo. Iski jagah ye karo.",
+  "keywords": [
+   "Zapier MCP Claude setup",
+   "automate Google Sheets leads to CRM",
+   "plain English AI workflows",
+   "Next Gen Zaps TypeScript",
+   "small business lead tracking automation"
+  ],
+  "scores": {
+   "hook": 8,
+   "originality": 8,
+   "practical_value": 8,
+   "natural_language": 9,
+   "accuracy": 9,
+   "narrative": 9,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 9
+  },
+  "status": "queued",
+  "produced_at": 1795307892,
+  "log": [],
+  "dm_keyword": "FLOW",
+  "dm_text": "Here is how to set up lead automation using Claude and Zapier MCP:\n1. Link Claude to Zapier MCP via your Zapier account settings.\n2. Prompt Claude in plain English: describe your trigger app (e.g. Google Sheets) and action app (e.g. GymDesk CRM).\n3. Claude creates a Next-Gen Zap automatically in under 10 minutes without requiring manual field mapping.\n4. If an error occurs (such as repeated rows being read), tell Claude what happened. It rewrites the TypeScript logic in about 5 minutes and sends visual proof of the fix.\nSource: https://zapier.com/blog/rough-hands-bjj-next-gen-zaps",
+  "presenter": {
+   "status": "waiting",
+   "takes": [
+    {
+     "n": 1,
+     "kind": "talk",
+     "talk": 1,
+     "line": "Zapier par complex workflows manually banana band karo, bas Claude AI ko Zapier MCP se connect kar lo.",
+     "visual_scene": -1,
+     "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: medium close-up with a slow, smooth push-in towards his face. Leans in slightly and holds up his hand to stop the scroll. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Zapier par complex workflows manually banana band karo, bas Claude AI ko Zapier MCP se connect kar lo.\" No subtitles, no on-screen text, no music, no other people.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    },
+    {
+     "n": 2,
+     "kind": "talk",
+     "talk": 2,
+     "line": "Claude ko plain language mein kaam samjha do, ye ten minutes se kam mein Sheets se CRM connect kardega.",
+     "visual_scene": -1,
+     "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: medium shot from slightly to his left (about 20 degrees), camera steady. Smiles and gestures with both hands while explaining. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Claude ko plain language mein kaam samjha do, ye ten minutes se kam mein Sheets se CRM connect kardega.\" No subtitles, no on-screen text, no music, no other people.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    },
+    {
+     "n": 3,
+     "kind": "broll",
+     "cover": 2,
+     "desc": "close-up of hands typing on a laptop placed on a wooden shop counter next to paper receipts",
+     "prompt": "Create a realistic vertical 9:16 video of about 8 seconds: close-up of hands typing on a laptop placed on a wooden shop counter next to paper receipts. Indian small-business setting, warm natural light, handheld smartphone-camera look, slow subtle camera movement, shallow depth of field. No faces, no readable text, no brand names or logos, no subtitles, no speech, no music.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    },
+    {
+     "n": 4,
+     "kind": "talk",
+     "talk": 3,
+     "line": "Duplicate leads aane par ye five minutes mein bug fix kardega, comment FLOW, main aapko steps DM kar dunga.",
+     "visual_scene": -1,
+     "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: close-up, camera steady at eye level. Raises one finger while making the main point. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Duplicate leads aane par ye five minutes mein bug fix kardega, comment FLOW, main aapko steps DM kar dunga.\" No subtitles, no on-screen text, no music, no other people.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    }
+   ],
+   "material": "[62] Zapier Blog — The jiu-jitsu coach who told Claude what he wanted and never opened the Zap\nURL: https://zapier.com/blog/rough-hands-bjj-next-gen-zaps\nJesse Walker connected Claude to Zapier MCP and described what he needed. Claude built a Next-Gen Zap that sends new leads into GymDesk, then fixed its own bug and sent him proof.\nJesse Walker spent years as a tech product manager. About 10 years ago he left the industry to turn his evening gig, coaching jiu-jitsu, into a full-time one. He now owns and coaches at Rough Hands BJJ in Louisville, Kentucky.\nRough Hands BJJ has been open for 10 years and teaches Brazilian jiu-jitsu to about 200 students in the Louisville area.\nThe product brain came with him. \"I have lots of techie stuff kind of infused in my business,\" he says. He even worked with Claude to build an Apple TV app that runs a round timer and a clock on the gym floor.\nWhat he doesn't have is desk time. \"So much of my time is out teaching or answering emails or cleaning toilets,\" Jesse says. Ideas for fixing his processes tend to arrive as what he calls \"shower thoughts,\" not as time at a desk.\nJesse has used Zapier for the jobs that sit between his apps for about seven years, by his own estimate. The longest-running one starts at the front desk. New students fill out a waiver on a Google Form . The answers land in a Google Sheet , and a Zap copies each person into GymDesk , the CRM where he manages members and leads. That Zap has been \"running in the background for years and years.\"\nThen Jesse brought on Martial Consulting , a marketing agency for martial arts schools, to run his ads and bookings. Its new leads landed in a separate Google Sheet that lived outside GymDesk. Jesse didn't want to run two systems side by side. He wanted every new lead in GymDesk, where he already manages them.\n\"I bet Zapier can help me integrate some of this stuff and get it funneled back into GymDesk for me,\" he remembers thinking. Then he logged in and saw that he could connect Claude. \"I'm like, oh, I bet I could have Claude do it.\"\nUp to that point, Claude had been a writing partner, his \"don't-sound-like-a-jerk filter,\" as he puts it, and an occasional coding buddy. It never touched his other tools. \"It's usually just me and it, and I keep it in a box,\" Jesse says.\nConnecting Claude to Zapier MCP took a couple of quick back-and-forths. Most of those were reconnecting his Google apps to Zapier. The connection from Claude to Zapier itself was \"trivially easy,\" he says.\nThen he described the job in plain language. \"Hey, here's what I'm trying to do. Is this a thing? Can we do this?\" Claude, working through Zapier, built a Zap that watches the new Google Sheet and adds each new lead to GymDesk. The first version was done in under 10 minutes, and most of that was granting Claude permissions. \"The time investment was negligible,\" Jesse says.\nHe didn't go to Zapier to inspect it. \"Once I got Claude connected, I pretty much let it do it,\" Jesse says. \"As opposed to going and inspecting the Zaps afterwards, it would start giving me sample outputs or send me emails. So I really didn't have to fool with anything.\"\nThe first version had a flaw. New rows didn't always land at the bottom of the sheet, and the Zap kept picking up the bottom row. The same lead came through again and again.\nSo Jesse told Claude. \"I was like, hey, you keep sending me the same thing over and over again. Can you actually fix it?\" He asked for the Zap to follow whichever row had actually changed. Claude explained what had gone wrong, named the two leads that should have come through and updated the Zap. The fix took about five more minutes. \"And it did it and it sent me the proof that it did it,\" Jesse says. \"So I didn't actually have to go back and fiddle with anything in the Zaps.\"\nThat proof is what earned his trust. Claude didn't just say the Zap was fixed. \"It would demonstrate to me that it understood the problem and could put the fix in,\" he says.\nHe still checks in, the way any owner would. \"I'm still kind of keeping eyeballs on it just to make sure that I haven't forgotten to give it any details,\" he says. A small school's lead volume makes problems easy to spot.\nJesse assumed Claude was clicking through the same Zap editor he'd always used. \"My mental model was that Claude was basically going to be going through the same process I would go through to build that Zap,\" he says.\nIt wasn't. What Claude built is a Next-Gen Zap . Next-Gen Zaps are a new kind of Zap, written in TypeScript under the hood, so AI tools can build and edit them faster and more accurately. Next-Gen Zaps also come with agentic management, which watches for errors and can draft or publish a fix. It's on by default, and so far it hasn't had anything to fix.\nFor Jesse, the difference showed up as speed. \"It's so much easier to quickly ask if a thing were possible rather than me having to map through all the little fields and this and that and try to figure it out myself,\" he says.\nGymDesk handles the messages inside his business, like texting new leads the day before their appointments. Anything that has to cross between apps goes to Zapier. \"Anytime I'm talking between different apps, you all are my go-to,\" Jesse says.\nThe lead Zap was the first one he built this way. He already has the next ones in mind. Every spring, Rough Hands BJJ hosts the BJJ Mental Models Spring Camp , tied to the podcast of the same name. Jesse wants a Zap that compares camper emails in GymDesk against his waiver sheet and sends the waiver form to anyone who hasn't signed it. After that, he wants to pull the camp roster out of GymDesk and see who's coming: how many black belts, what the average age is. If any of his older Zaps ever need structural changes, he plans to hand those to Claude, too.\nWhen the next shower thought hits, he knows where he's starting. \"I would certainly try it first and see how far I could get with it.\"\nJesse Walker owns and coaches at Rough Hands BJJ , a Brazilian jiu-jitsu school in Louisville, Kentucky.\nGet AI and automation tips, delivered straight to your inbox\nWe’ll email you 1-2 times per week—and never share your information.\nRob Ayre is Customer Advocacy Marketing Manager at Zapier. After 10+ years helping companies turn customers into champions, he still gets excited by a great builder story. Have one? He wants to hear it.\nHow Panoramic Properties caught a missing field in its leasing workflow\nHow Panoramic Properties caught a missing...\nHow a part-time finance manager transformed a Toronto theatre's back office with Zapier\nHow a part-time finance manager transformed...\nHow a Nassau tour operator rebuilt his back office with Claude and Next-Gen Zaps\nHow a Nassau tour operator rebuilt his back...\nHow a recruiting agency uses Claude and Zapier MCP to find the candidates who aren't looking\nHow a recruiting agency uses Claude and...\nHow a three-person hiring startup built its go-to-market engine before the rush\nHow a three-person hiring startup built its...\nFrom a garage and a pickup truck to $3.8 million\nFrom a garage and a pickup truck to $3.8...\nHow Alpine Roofing uses Zapier t",
+   "scenes": [
+    {
+     "purpose": "Hook the viewer with a common hassle of building integrations manually.",
+     "narration": "Zapier mein complex workflow setup karna band karo. Iski jagah ye karo.",
+     "on_screen": "No Manual Zap Setup",
+     "visual_type": "text",
+     "url": "",
+     "query": "",
+     "headline": "Build Flows via AI Prompt",
+     "steps": [],
+     "items": [],
+     "left_label": "",
+     "right_label": "",
+     "rows": []
+    },
+    {
+     "purpose": "Show how connecting Claude to Zapier MCP simplifies workflow creation.",
+     "narration": "Claude AI ko Zapier MCP se connect karo aur plain language mein kaam samjha do.",
+     "on_screen": "Connect Claude to Zapier",
+     "visual_type": "diagram",
+     "url": "",
+     "query": "",
+     "headline": "",
+     "steps": [
+      "Connect Claude to Zapier MCP",
+      "Describe Lead Flow in Text",
+      "AI Builds Zap Automatically"
+     ],
+     "items": [],
+     "left_label": "",
+     "right_label": "",
+     "rows": []
+    },
+    {
+     "purpose": "Demonstrate the fast setup time verified from the case study.",
+     "narration": "Claude 10 minute se kam mein Google Sheets se GymDesk CRM ka Zap bana deta hai.",
+     "on_screen": "10 Minute Setup",
+     "visual_type": "checklist",
+     "url": "",
+     "query": "",
+     "headline": "",
+     "steps": [],
+     "items": [
+      "Google Sheets to CRM Zap",
+      "Built Under 10 Minutes",
+      "No Manual Field Mapping"
+     ],
+     "left_label": "",
+     "right_label": "",
+     "rows": []
+    },
+    {
+     "purpose": "Show how self-fixing AI Zaps handle errors without technical troubleshooting.",
+     "narration": "Agar duplicate leads aayi, to Claude ko batao. Wo 5 minute mein bug fix karke proof bhej dega.",
+     "on_screen": "Self Fixing Workflows",
+     "visual_type": "compare",
+     "url": "",
+     "query": "",
+     "headline": "",
+     "steps": [],
+     "items": [],
+     "left_label": "Manual Way",
+     "right_label": "Claude + Zapier",
+     "rows": [
+      {
+       "left": "Inspect fields manually",
+       "right": "Describe bug in text"
+      },
+      {
+       "left": "Fix logic errors yourself",
+       "right": "Claude fixes in 5 mins"
+      },
+      {
+       "left": "Test without proof",
+       "right": "Sends proof of fix"
+      }
+     ]
+    },
+    {
+     "purpose": "Deliver payoff and call to action for the DM automation.",
+     "narration": "TypeScript-based Next-Gen Zaps automatic error checking bhi karte hain. Comment FLOW, main aapko steps DM kar dunga.",
+     "on_screen": "Comment FLOW for Steps",
+     "visual_type": "text",
+     "url": "",
+     "query": "",
+     "headline": "Comment FLOW to Learn More",
+     "steps": [],
+     "items": [],
+     "left_label": "",
+     "right_label": "",
+     "rows": []
+    }
+   ],
+   "composed_from": null,
+   "hook_title": "Stop Making Manual Zaps",
+   "cta": "Comment FLOW for full steps"
+  }
+ },
+ {
+  "id": "R2-2026-11-22",
+  "kind": "reel",
+  "date": "2026-11-22",
+  "slot": "2026-11-22T13:00",
+  "dir": "output/2026-11-22/R2-2026-11-22/try1",
+  "files": [
+   "reel.mp4"
+  ],
+  "caption": "How to turn budget Android phones into AI voice loggers for field contractors. If your site supervisors use basic budget smartphones, you do not need expensive recording hardware or flagship phones for daily reports. Google has released the Gemini app for lower-memory Android Go edition devices. Field staff can open Gemini Live and speak site updates out loud in over 45 languages, including Hindi. They can also point the phone camera at physical site forms to translate or read text. Download Gemini from Google Play to test it. Comment GEMINI for setup steps.\n\n#ContractorTools #AndroidGo #GeminiAI #SiteManagement #ConstructionTech",
+  "topic": "Upgrading Budget Android Phones with On-Device AI for Field Workers",
+  "format": "manual_vs_auto",
+  "hook": "Field staff ke site logs manually type karna band karo. Ye dekho.",
+  "keywords": [
+   "budget Android AI tools",
+   "Gemini app Android Go",
+   "site supervisor reporting",
+   "voice to text site log",
+   "contractor site updates"
+  ],
+  "scores": {
+   "hook": 8,
+   "originality": 8,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "status": "queued",
+  "produced_at": 1795307892,
+  "log": [],
+  "dm_keyword": "GEMINI",
+  "dm_text": "Here is how to set up Gemini on budget Android phones for field staff: 1. Download the Gemini app from Google Play on eligible Android (Go edition) devices. 2. On supported phones, press and hold the power button to open Gemini. 3. Use Gemini Live to speak field notes out loud in over 45 languages. 4. Point the camera at site forms or notes to translate and read text. Source: https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/"
+ },
+ {
+  "id": "C1-2026-11-22",
+  "kind": "carousel",
+  "date": "2026-11-22",
+  "slot": "2026-11-22T09:00",
+  "dir": "output/2026-11-22/C1-2026-11-22/try3",
+  "files": [
+   "slide_01.jpg",
+   "slide_02.jpg",
+   "slide_03.jpg",
+   "slide_04.jpg",
+   "slide_05.jpg",
+   "slide_06.jpg"
+  ],
+  "caption": "How Indian vyaparis can split work between AI tools and human judgment. New research from AI evaluation benchmark METR shows AI models excel at verifiable tasks like coding and math where pass or fail outcomes are automated. But on fuzzy judgment tasks, models fall short of human standards. Say you run a hardware shop in Nagpur. Use AI to parse GST invoices, format stock registers, or clean data. Keep supplier term negotiations and client credit approvals under human supervision. OpenAI also confirmed their models perform worse on complex real-world tasks than structured tests. Which daily task in your business takes the most time: invoice entry or supplier follow-ups?\n\n#BusinessAutomation #GSTInvoicing #SmallBusinessIndia #VyaparTips",
+  "topic": "The Coding vs Judgment Benchmark: What to Automate vs What to Keep Human",
+  "format": "checklist",
+  "hook": "What to delegate to AI vs what to keep human",
+  "keywords": [
+   "AI for Indian business",
+   "what to automate",
+   "GST invoice parsing",
+   "business automation checklist",
+   "METR benchmark AI"
+  ],
+  "scores": {
+   "hook": 8,
+   "originality": 8,
+   "practical_value": 9,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 9,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "status": "queued",
+  "produced_at": 1795307892,
+  "log": [],
+  "dm_keyword": "",
+  "dm_text": ""
  }
 ]
