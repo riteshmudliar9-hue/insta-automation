@@ -4893,7 +4893,7 @@
    "brand_consistency": 9,
    "publish_readiness": 8
   },
-  "status": "queued",
+  "status": "expired",
   "produced_at": 1795221990,
   "log": [],
   "dm_keyword": "GEMINI",
@@ -5269,11 +5269,16 @@
    "brand_consistency": 9,
    "publish_readiness": 8
   },
-  "status": "queued",
+  "status": "published",
   "produced_at": 1795307892,
-  "log": [],
+  "log": [
+   "2026-11-22T14:29:48.755416+05:30 published https://www.instagram.com/reel/DgCb1pygJbh/"
+  ],
   "dm_keyword": "GEMINI",
-  "dm_text": "Here is how to set up Gemini on budget Android phones for field staff: 1. Download the Gemini app from Google Play on eligible Android (Go edition) devices. 2. On supported phones, press and hold the power button to open Gemini. 3. Use Gemini Live to speak field notes out loud in over 45 languages. 4. Point the camera at site forms or notes to translate and read text. Source: https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/"
+  "dm_text": "Here is how to set up Gemini on budget Android phones for field staff: 1. Download the Gemini app from Google Play on eligible Android (Go edition) devices. 2. On supported phones, press and hold the power button to open Gemini. 3. Use Gemini Live to speak field notes out loud in over 45 languages. 4. Point the camera at site forms or notes to translate and read text. Source: https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+  "media_id": "17911197123334119",
+  "permalink": "https://www.instagram.com/reel/DgCb1pygJbh/",
+  "published_at": "2026-11-22T14:29:48.755416+05:30"
  },
  {
   "id": "C1-2026-11-22",
@@ -5312,10 +5317,15 @@
    "brand_consistency": 9,
    "publish_readiness": 8
   },
-  "status": "queued",
+  "status": "published",
   "produced_at": 1795307892,
-  "log": [],
+  "log": [
+   "2026-11-22T14:29:48.755416+05:30 published https://www.instagram.com/p/DgCbvynG45i/"
+  ],
   "dm_keyword": "",
-  "dm_text": ""
+  "dm_text": "",
+  "media_id": "18160782373520072",
+  "permalink": "https://www.instagram.com/p/DgCbvynG45i/",
+  "published_at": "2026-11-22T14:29:48.755416+05:30"
  }
 ]

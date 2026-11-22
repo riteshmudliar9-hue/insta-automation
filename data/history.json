@@ -925,7 +925,9 @@
    "voice to text site log",
    "contractor site updates"
   ],
-  "status": "queued"
+  "status": "published",
+  "media_id": "17911197123334119",
+  "permalink": "https://www.instagram.com/reel/DgCb1pygJbh/"
  },
  {
   "id": "C1-2026-11-22",
@@ -941,6 +943,8 @@
    "business automation checklist",
    "METR benchmark AI"
   ],
-  "status": "queued"
+  "status": "published",
+  "media_id": "18160782373520072",
+  "permalink": "https://www.instagram.com/p/DgCbvynG45i/"
  }
 ]
