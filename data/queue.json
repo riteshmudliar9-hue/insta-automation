@@ -5086,9 +5086,11 @@
    "brand_consistency": 9,
    "publish_readiness": 9
   },
-  "status": "queued",
+  "status": "published",
   "produced_at": 1795307892,
-  "log": [],
+  "log": [
+   "2026-11-22T22:26:02.424325+05:30 published https://www.instagram.com/reel/DgDSTjuD_j9/"
+  ],
   "dm_keyword": "FLOW",
   "dm_text": "Here is how to set up lead automation using Claude and Zapier MCP:\n1. Link Claude to Zapier MCP via your Zapier account settings.\n2. Prompt Claude in plain English: describe your trigger app (e.g. Google Sheets) and action app (e.g. GymDesk CRM).\n3. Claude creates a Next-Gen Zap automatically in under 10 minutes without requiring manual field mapping.\n4. If an error occurs (such as repeated rows being read), tell Claude what happened. It rewrites the TypeScript logic in about 5 minutes and sends visual proof of the fix.\nSource: https://zapier.com/blog/rough-hands-bjj-next-gen-zaps",
   "presenter": {
@@ -5101,7 +5103,7 @@
      "line": "Zapier par complex workflows manually banana band karo, bas Claude AI ko Zapier MCP se connect kar lo.",
      "visual_scene": -1,
      "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: medium close-up with a slow, smooth push-in towards his face. Leans in slightly and holds up his hand to stop the scroll. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Zapier par complex workflows manually banana band karo, bas Claude AI ko Zapier MCP se connect kar lo.\" No subtitles, no on-screen text, no music, no other people.",
-     "msg_id": null,
+     "msg_id": 684,
      "file": null,
      "got_msg": null
     },
@@ -5112,7 +5114,7 @@
      "line": "Claude ko plain language mein kaam samjha do, ye ten minutes se kam mein Sheets se CRM connect kardega.",
      "visual_scene": -1,
      "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: medium shot from slightly to his left (about 20 degrees), camera steady. Smiles and gestures with both hands while explaining. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Claude ko plain language mein kaam samjha do, ye ten minutes se kam mein Sheets se CRM connect kardega.\" No subtitles, no on-screen text, no music, no other people.",
-     "msg_id": null,
+     "msg_id": 685,
      "file": null,
      "got_msg": null
     },
@@ -5122,7 +5124,7 @@
      "cover": 2,
      "desc": "close-up of hands typing on a laptop placed on a wooden shop counter next to paper receipts",
      "prompt": "Create a realistic vertical 9:16 video of about 8 seconds: close-up of hands typing on a laptop placed on a wooden shop counter next to paper receipts. Indian small-business setting, warm natural light, handheld smartphone-camera look, slow subtle camera movement, shallow depth of field. No faces, no readable text, no brand names or logos, no subtitles, no speech, no music.",
-     "msg_id": null,
+     "msg_id": 686,
      "file": null,
      "got_msg": null
     },
@@ -5133,7 +5135,7 @@
      "line": "Duplicate leads aane par ye five minutes mein bug fix kardega, comment FLOW, main aapko steps DM kar dunga.",
      "visual_scene": -1,
      "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: close-up, camera steady at eye level. Raises one finger while making the main point. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Duplicate leads aane par ye five minutes mein bug fix kardega, comment FLOW, main aapko steps DM kar dunga.\" No subtitles, no on-screen text, no music, no other people.",
-     "msg_id": null,
+     "msg_id": 687,
      "file": null,
      "got_msg": null
     }
@@ -5234,8 +5236,13 @@
    ],
    "composed_from": null,
    "hook_title": "Stop Making Manual Zaps",
-   "cta": "Comment FLOW for full steps"
-  }
+   "cta": "Comment FLOW for full steps",
+   "prompts_sent": true,
+   "prompts_sent_at": 1795366568
+  },
+  "media_id": "18034402712684290",
+  "permalink": "https://www.instagram.com/reel/DgDSTjuD_j9/",
+  "published_at": "2026-11-22T22:26:02.424325+05:30"
  },
  {
   "id": "R2-2026-11-22",
