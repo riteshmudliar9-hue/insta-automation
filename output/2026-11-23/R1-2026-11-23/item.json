@@ -1,0 +1,244 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Using plain-English prompt coding to build custom client price estimator web tools in 10 minutes",
+  "angle": "Build a custom quote estimation web calculator for your business by describing calculations in natural language instead of hiring developers.",
+  "audience_problem": "Custom estimating software is expensive, forcing contractors to calculate complex quotes manually in spreadsheets.",
+  "format": "demo",
+  "medium": "reel",
+  "source_ids": [
+   12
+  ],
+  "evergreen": true,
+  "keywords": [
+   "vibe coding",
+   "custom web app",
+   "pricing calculator",
+   "no-code AI"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 9,
+   "hook_potential": 9,
+   "retention": 9,
+   "save_share": 9,
+   "feasibility": 8,
+   "evidence": 8,
+   "viral": 9
+  },
+  "total": 8.83
+ },
+ "piece": {
+  "hooks": [
+   "Custom quotation software ke liye developer ko paise dena band karo.",
+   "Bas English prompts likhkar apna quote calculator banayein.",
+   "Client quotation calculate karne ke liye Excel mat use karo.",
+   "Prompt likhkar apne business ke liye custom app banao.",
+   "Developer bina code ke calculation tools AI se kaise banate hain?"
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "Directly targets contractors and traders struggling with high software costs and complex estimation, creating immediate scroll-stopping curiosity.",
+  "title": "Build Custom Quote Calculator with AI Prompts",
+  "scenes": [
+   {
+    "purpose": "Hook the viewer with a costly business frustration",
+    "narration": "Custom quotation software ke liye developer ko paise dena band karo.",
+    "on_screen": "Stop Paying Software Developers",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "Manual / Developer",
+    "right_label": "AI Prompting",
+    "rows": [
+     {
+      "left": "Hire Developer",
+      "right": "Write English Prompt"
+     },
+     {
+      "left": "Pay High Cost",
+      "right": "Use Claude Code"
+     }
+    ]
+   },
+   {
+    "purpose": "Introduce the concept of non-developers building tools using LLMs",
+    "narration": "Ab Claude Code jaise AI tools se non-developers bhi software bana rahe hain.",
+    "on_screen": "Vibe Coding For Business",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "No Coding Skills Needed",
+     "Claude Code or LLM",
+     "Custom Tools In Minutes"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Provide a concrete, practical prompt example",
+    "narration": "Example: Area aur material rate se client quotation calculate karne wala prompt likho.",
+    "on_screen": "Exact Prompt Example",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Prompt: Build Area Material Quote Calculator Web Tool",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Show the prompt to working web app workflow",
+    "narration": "LLMs coding karke 10 minute mein web calculator screen par bana dete hain.",
+    "on_screen": "Web App Ready Fast",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "Write Calculation Prompt",
+     "LLM Generates Code",
+     "Web Estimator Ready"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "State key practical limitation and debugging warning",
+    "narration": "Ek baat dhyan rakhein: code ke bugs bhi AI se hi fix karwane padenge.",
+    "on_screen": "Honest Limits And Risk",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Fast Prototype Tool",
+     "Code Bugs Can Happen",
+     "Use AI To Debug Errors"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Deliver payoff and single comment call to action",
+    "narration": "Comment PROMPT, main aapko exact prompt formula aur steps DM kar dunga.",
+    "on_screen": "Comment PROMPT For Steps",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Get Custom Tool Prompt Guide",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "How to build custom estimation software for your business using AI prompts without writing code. Small business owners and contractors can now use tools like Claude Code to turn plain English descriptions into simple web tools. Instead of paying developers or manually calculating quotes in spreadsheets, you describe inputs like square feet, unit rates, and GST. However, remember that if the tool hits a bug, you will need to ask the AI model to fix its own code. Have you tried generating custom tools with AI prompts? Comment PROMPT for step-by-step setup instructions.",
+  "hashtags": [
+   "#VibeCoding",
+   "#ClaudeCode",
+   "#SmallBusinessIndia",
+   "#BusinessAutomation",
+   "#NoCodeTools"
+  ],
+  "keywords": [
+   "custom quotation software",
+   "prompt coding",
+   "claude code small business",
+   "quote calculator tool",
+   "vibe coding India"
+  ],
+  "claims": [
+   {
+    "claim": "Non-developers can now use large language models like Claude Code to write software and custom tools simply by prompting them.",
+    "source_id": 12
+   },
+   {
+    "claim": "When AI-generated software runs into bugs or issues, users end up asking the chatbot to fix the problems it created.",
+    "source_id": 12
+   }
+  ],
+  "dm_keyword": "PROMPT",
+  "dm_text": "Here is how to build a custom client price calculator web tool using AI prompting: 1. Write down your exact business calculation logic on paper (e.g. area in sq ft multiplied by rate per sq ft plus 18% GST). 2. Open an AI coding assistant like Claude Code. 3. Paste this sample prompt: 'Create a single-page web calculator in HTML/JS with input fields for total area, material rate per unit, labor cost, and GST. Show itemized breakdowns and total estimate.' 4. Save the generated HTML file and open it in any web browser to test. Note: If you spot errors, copy the exact error message back to the AI and prompt 'Fix this error in the code.' Source: https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera"
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 8,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "Non-developers can now use large language models like Claude Code to write software and custom tools simply by prompting them.",
+    "supported": true,
+    "note": "Supported by the source material describing non-developers using tools like Claude Code to hack hardware and build custom software simply by prompting."
+   },
+   {
+    "claim": "When AI-generated software runs into bugs or issues, users end up asking the chatbot to fix the problems it created.",
+    "supported": true,
+    "note": "Supported by the source material: 'You might be stuck asking Claude to fix the problems Claude created.'"
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [],
+  "issues": [],
+  "fix_instructions": "This draft is ready for publication. Visuals, tone, Hinglish phrasing, and factual accuracy align well with brand guidelines and source material."
+ },
+ "rules": [],
+ "reasons": [],
+ "meta": {
+  "duration": 44.4,
+  "voice": "gemini",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-23/R1-2026-11-23/try4/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-23/R1-2026-11-23/try4/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-23/R1-2026-11-23/try4/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-23/R1-2026-11-23/try4/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-23/R1-2026-11-23/try4/scene_05.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-23/R1-2026-11-23/try4/scene_06.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   14.9,
+   3.67,
+   4.37,
+   3.36,
+   3.5,
+   14.62
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-23/R1-2026-11-23/try4",
+ "attempt": 4,
+ "approved": true,
+ "hook": "Custom quotation software ke liye developer ko paise dena band karo.",
+ "log": [
+  "attempt 1: fail {'hook': 6, 'originality': 6, 'practical_value': 5, 'natural_language': 6, 'accuracy': 7, 'narrative': 6, 'visual_integrity': 5, 'pacing': 6, 'brand_consistency': 6, 'publish_readiness': 5} ['scene 4 narration 20 words (want 4-14)', 'hook 6/10 (<8)', 'originality 6/10 (<8)', 'practical_value 5/10 (<8)']",
+  "attempt 2: fail {'hook': 6, 'originality': 5, 'practical_value': 6, 'natural_language': 6, 'accuracy': 6, 'narrative': 5, 'visual_integrity': 6, 'pacing': 6, 'brand_consistency': 6, 'publish_readiness': 5} ['hook 6/10 (<8)', 'originality 5/10 (<8)', 'practical_value 6/10 (<8)', 'natural_language 6/10 (<8)']",
+  "attempt 3: fail {'hook': 8, 'originality': 6, 'practical_value': 5, 'natural_language': 7, 'accuracy': 8, 'narrative': 7, 'visual_integrity': 6, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 6} ['scene 4 narration 24 words (want 4-14)', 'originality 6/10 (<8)', 'practical_value 5/10 (<8)', 'natural_language 7/10 (<8)']",
+  "attempt 4: PASS {'hook': 8, 'originality': 8, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} []"
+ ],
+ "material": "[12] The Verge AI — The vibe-coding revolution is coming to all the gadgets\nURL: https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera\nThe vibe-coding revolution is coming to all the gadgets | The Verge Skip to main content The homepage The Verge The Verge logo. The homepage The Verge The Verge logo. Notifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo. Login / Sign Up\nComments Loading comments Getting the conversation ready... THE STEPBACK Column\nLarge language models can now redesign your TV and upgrade your camera for you. Is the physical world ready to be Claude Code-d?﻿\nDavid Pierce Nov 22, 2026, 1:00 PM UTC Link\nDavid Pierce is editor-at-large and Vergecast co-host with over a decade of experience covering consumer tech. Previously, at Protocol, The Wall Street Journal, and Wired. This is The Stepback , a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce . The Stepback arrives in our subscribers’ inboxes on Sunday at 8AM ET. Opt in for The Stepback here .\nLike so many things with AI, it’s not that large language models opened up some wholly new capability. For as long as there have been gadgets, a few users have been hacking, modding, jailbreaking, and tweaking them to their liking. What is new is that it’s easy now. People all over the world are discovering that they can use large language models to hack their hardware simply by prompting Claude Code or Codex to do it. It has led to a boom in developer-friendly gadgets and created a market for better software on just about every device you can think of.\nFor one developer in India who goes by Gathin T, the whole thing started almost on a whim. “One afternoon, I was fiddling with my TV, and it was just really shitty,” he tells me. His was a set made by Xiaomi and running Android TV, with so many ads and so much interface chaos it was hard to even change inputs. And he got to thinking: If you can install another launcher on your Android phone, maybe you can do the same to your TV. “The first thing that came to mind was to remove the bloatware from the TV,” he says. “Then I thought, why not make it look better?”\nGathin prompted Claude Code and discovered that with a couple of permissions tweaks and a toggle of USB debugging mode, his chatbot could control his TV as long as they were on the same Wi-Fi network. An hour and a half later, Gathin had redesigned his TV to his liking — no more onscreen ads, a simpler interface, easier access to his PlayStation on another input. He posted on X about what he’d done and promptly went viral. So Gathin put together his work, bought a domain, and launched CleanYourTV as a tool for helping other people solve their own television interfaces. It became one of the most popular repositories on GitHub, got thousands of pull requests and feature ideas, and inspired countless people to point their own chatbot at their big screen.\nGathin is careful to note that the only TVs that work this easily are based on Android. (He has Claude Code-d his way through other operating systems, but those involve more explicit jailbreaking and rooting, so he’s more reluctant to share the process so widely.) But for vibe hackers everywhere, the good news is that Android kind of runs everything. From dishwashers to digital photo frames to luxury cars, even gadgets that don’t look like Android often run Android. Even when they don’t, odds are good that there’s another way in. If there’s a hidden API, your LLM can find it. If the firmware file lives on a website somewhere, your LLM can unpack it, explore it, and repackage it to your liking.\nAgain, few of the technical capabilities here are new, and enterprising developers have been doing this kind of work for many years. Some have even been using AI for several years to make the work easier. But when Claude Code first had its “oh my gosh it works” moment in late 2025, developers began leaning on the tools even more — and non-developers began discovering they, too, could build software now. And over the course of 2026, more and more people began pointing that capability at their hardware.\nNow, it seems, all hardware is hacker hardware. Camera enthusiasts embraced the possibilities of vibe hacking as fast as anyone, using LLMs to repackage their camera software in all sorts of ways. Firmware hacks like Magic Lantern are a staple of the camera community, but suddenly it seems like everyone is using AI to add new recording capabilities, support higher resolutions, or even add new looks and color profiles to their shots. Many are using the tools to give their old gear new life; other, more enterprising vibe coders are pointing their bots at their brand-new hardware.\nThe music world is being similarly upended . Budding musicians are turning cheap synths into powerful new kinds of gear, and a cheap gadget known as the M-Vave FM-1 has become a popular target for custom firmware and new features. M-Vave has even released an open-source firmware, embracing the hackers as other companies have tried to keep them out. The FM-1 is cheap, it’s easy to hack, and it’s raising questions about what higher-end manufacturers can even do to compete.\nGamers, who are also using AI to decompile and mod the games they love, are using LLMs to add new features to their consoles. One vibe coder found a way to play PlayStation 2 discs on a PlayStation 5; lots of gamers have built scripts that allow them to use their favorite controllers on other devices.\nIn the games world in particular, this has caused the industry to fight back. Game makers are looking for ways to protect their work from being decompiled and made available for free and on other platforms. Luke Dicken, a longtime gaming executive who was recently Take-Two’s head of artificial intelligence, recently predicted to Kotaku that the industry will start to embrace “more invasive DRM, platform-level solutions, and probably more of a push towards streaming solutions since nobody can decompile what they can’t get their hands on.” Hardware makers will push harder to lock down their systems; companies across the board will pursue legal action to protect their intellectual property.\nAll this hardware access also creates new risks for users. When you install a vibe-coded version of your camera’s firmware, you are now well outside the bounds of what the camera manufacturer is equipped to help you solve. You might be stuck asking Claude to fix the problems Claude created. As Ritchie Roesch wrote recently at Fuji X Weekly , “It’s not so much if someone’s camera will become a permanent paperweight, it’s a matter of when and how many, and whether it will be yours.”\nThe safer (and less litigious ) route for the enterprising vibe hacker lies in an entirely new kind of hardware. ESP32 modules, which package networking chips, microphones, speakers, and more into a simple and hacker-friendly package, are suddenly everywhere in hardware communities. (Think Raspberry Pis, but even cheaper and more versatile.) So sure, you can use Claude Code to j",
+ "id": "R1-2026-11-23",
+ "caption_final": "How to build custom estimation software for your business using AI prompts without writing code. Small business owners and contractors can now use tools like Claude Code to turn plain English descriptions into simple web tools. Instead of paying developers or manually calculating quotes in spreadsheets, you describe inputs like square feet, unit rates, and GST. However, remember that if the tool hits a bug, you will need to ask the AI model to fix its own code. Have you tried generating custom tools with AI prompts? Comment PROMPT for step-by-step setup instructions.\n\n#VibeCoding #ClaudeCode #SmallBusinessIndia #BusinessAutomation #NoCodeTools"
+}

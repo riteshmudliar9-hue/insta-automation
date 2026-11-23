@@ -1,0 +1,232 @@
+{
+ "kind": "carousel",
+ "idea": {
+  "idea": "Multi-model AI routing strategy: using Claude for drafting proposals and Gemini for bulk data processing to cut API spend",
+  "angle": "Stop using one expensive AI model for everything; split routine bulk data jobs to cheaper models and creative writing to nuanced ones.",
+  "audience_problem": "Traders and contractors overpay for AI subscriptions by running heavy data tasks through premium models.",
+  "format": "manual_vs_auto",
+  "medium": "both",
+  "source_ids": [
+   64
+  ],
+  "evergreen": true,
+  "keywords": [
+   "AI costs",
+   "Zapier",
+   "Claude",
+   "Gemini",
+   "automation efficiency"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 8,
+   "hook_potential": 8,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 9,
+   "evidence": 9,
+   "viral": 8
+  },
+  "total": 8.45
+ },
+ "piece": {
+  "hooks": [
+   "Stop wasting money using expensive AI for simple tasks",
+   "Why your business AI bills are higher than necessary",
+   "Don't use one AI model for every single task"
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "It addresses a direct financial pain point (wasting money) relevant to small business owners who are likely paying for premium subscriptions without knowing how to optimize them.",
+  "slides": [
+   {
+    "kind": "cover",
+    "title": "Stop wasting money using expensive AI for simple tasks",
+    "subtitle": "Use cheaper models for data and premium ones for writing.",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "compare",
+    "title": "One model doesn't fit all",
+    "subtitle": "Match your task to the right model to save costs.",
+    "body": "Your subscription might be locked into one provider. That is costing you extra.",
+    "items": [],
+    "left_label": "Bulk Data Tasks",
+    "right_label": "Creative Writing",
+    "rows": [
+     {
+      "left": "Gemini Flash / GPT-4o-mini",
+      "right": "Claude 3.5 Sonnet"
+     },
+     {
+      "left": "Low cost per task",
+      "right": "Higher quality output"
+     },
+     {
+      "left": "Best for lists or tables",
+      "right": "Best for emails or proposals"
+     }
+    ],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "point",
+    "title": "The trap of single-model usage",
+    "subtitle": "Why sticking to one vendor hurts your profit.",
+    "body": "If you build your entire business workflow around one AI provider, you cannot switch when prices change or a better, cheaper model releases. You end up paying for high-end intelligence when you only need simple data processing.",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "steps",
+    "title": "How to route your work",
+    "subtitle": "Setup a flexible workflow today.",
+    "body": "Follow these steps to stop overpaying for AI.",
+    "items": [
+     "Pick a platform like Zapier for model flexibility.",
+     "Assign Gemini or GPT-mini for routine data entry.",
+     "Assign Claude for drafting client quotations or emails.",
+     "Swap models instantly if a cheaper version launches."
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "mythfact",
+    "title": "Reality Check",
+    "subtitle": "What you need to know about AI vendors.",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "Using one premium AI provider saves time.",
+    "fact": "It locks you into one vendor, making it expensive and hard to switch when better models arrive.",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "summary",
+    "title": "Key Takeaways",
+    "subtitle": "Optimize your AI spend now.",
+    "body": "",
+    "items": [
+     "Split tasks by complexity and cost.",
+     "Avoid lock-in to any single provider.",
+     "Use platforms that allow model swapping.",
+     "Focus on workflows, not just chat windows."
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   }
+  ],
+  "caption": "Stop paying premium prices for simple AI tasks. If you are using one expensive AI model for everything from cleaning your ledger data to writing client emails, you are overspending. Modern platforms allow you to route simple data tasks to cheaper, faster models like Gemini Flash, while keeping your creative writing tasks on more nuanced models like Claude. This setup keeps your costs low and ensures you aren't stuck if your current provider raises prices or gets outperformed. Start by reviewing which tasks in your business are actually repetitive versus which ones require high-level reasoning. Which AI model are you currently paying for, and is it actually helping with your daily admin work?",
+  "hashtags": [
+   "#SmallBusinessIndia",
+   "#AITips",
+   "#BusinessAutomation",
+   "#SmartBusiness"
+  ],
+  "keywords": [
+   "AI automation for small business",
+   "reduce AI costs",
+   "Zapier AI workflows",
+   "Claude vs Gemini for business",
+   "AI model flexibility"
+  ],
+  "claims": [
+   {
+    "claim": "Using a single AI provider locks your team into their specific lineup and pricing.",
+    "source_id": 64
+   },
+   {
+    "claim": "Platforms like Zapier allow mixing and matching different AI models within the same workflow.",
+    "source_id": 64
+   },
+   {
+    "claim": "Building on a single provider without a shared platform creates maintenance issues when APIs or pricing change.",
+    "source_id": 64
+   }
+  ]
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "Using a single AI provider locks your team into their specific lineup and pricing.",
+    "supported": true
+   },
+   {
+    "claim": "Platforms like Zapier allow mixing and matching different AI models within the same workflow.",
+    "supported": true
+   },
+   {
+    "claim": "Building on a single provider without a shared platform creates maintenance issues when APIs or pricing change.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [],
+  "issues": [
+   "The carousel is very strong and well-aligned with the brand voice.",
+   "Slide 2 could be slightly more specific about the 'cost' aspect, as 'low cost' is relative; however, it is acceptable for a high-level carousel.",
+   "The call to action in the caption is good, but could be slightly more direct in asking users to share their current AI stack."
+  ],
+  "fix_instructions": "The content is excellent and ready for publication. No major changes are required. For future iterations, ensure that when mentioning 'Gemini Flash' or 'GPT-4o-mini', you briefly clarify that these are 'lightweight' or 'efficient' models so that non-technical SMB owners immediately grasp why they are cheaper."
+ },
+ "rules": [],
+ "reasons": [],
+ "meta": {
+  "ai_visuals": false,
+  "slides": 6
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-23/C1-2026-11-23/try3",
+ "attempt": 3,
+ "approved": true,
+ "hook": "Stop wasting money using expensive AI for simple tasks",
+ "log": [
+  "attempt 1: fail {'hook': 7, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['hook 7/10 (<8)', 'originality 7/10 (<8)']",
+  "attempt 2: fail {'hook': 6, 'originality': 6, 'practical_value': 5, 'natural_language': 4, 'accuracy': 9, 'narrative': 5, 'visual_integrity': 6, 'pacing': 7, 'brand_consistency': 6, 'publish_readiness': 4} ['hook 6/10 (<8)', 'originality 6/10 (<8)', 'practical_value 5/10 (<8)', 'natural_language 4/10 (<8)']",
+  "attempt 3: PASS {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} []"
+ ],
+ "material": "[64] Zapier Blog — Prevent lock-in with AI model flexibility on Zapier\nURL: https://zapier.com/blog/ai-model-flexibility\nEvery AI provider comes with models of varying strengths. I'm a Claude stan because it just gets my writing style. But for some tasks, Claude's lineup doesn't cut it at all—when I need to process data at scale, for example, I might reach for Gemini. When I need a versatile generalist for classification or routing, GPT might be my pick. Other people across my team and at Zapier have altogether different preferences, which tend to change with every new model release.\nIf your stack is built around a single AI provider, you're limiting your team to that vendor's lineup—and cutting off access to models that might actually suit certain tasks better.\nWith Zapier, you get flexibility. You can use whichever AI models you want, from whichever providers you want, and mix and match them in the same workflow depending on the task. You can set that up from the AI tool you already use, like Claude or ChatGPT, or build it directly in Zapier, and either way it becomes a Zap that keeps running after the chat closes. Below, I'll break down why that matters and how to build resilient workflows no matter which AI tools your team prefers.\nBuild automations from wherever you work. Describe the outcome you want, and Zapier connects your tools, runs the steps, and stays on the job after you close the chat. Combine AI with reliable, deterministic automation across 10,000+ apps. Get started for free.\nThe cost of building on a single AI vendor\nHow to utilize Zapier's AI model flexibility\nPractical guidance for building resilient AI workflows\nWhen an automation platform like Zapier provides AI model flexibility, it means you can use any AI model within your workflows (or access your tools from any AI assistant) and swap AI models at any time, without committing to a single provider.\nThat flexibility matters. No one model dominates at everything, and their relative strengths can shift with every release cycle. So if you've built your workflows around one provider and the pricing, quality, or policies shift—or one model just leapfrogs another—you're stuck rebuilding.\nWith an interoperable platform, you can maintain an ever-evolving roster of models, and everyone gets to use what they want. Your marketing team might go with Claude to draft long-form content, while Sales uses GPT to summarize call transcripts, and Support routes tickets through Gemini for multilingual triage. Nobody has to compromise.\nEven within a single team, preferences can split. It's like cooking in my household. I can't imagine prepping meat with anything but a Santoku knife, while my boyfriend—whose whole MO is speed—tends to reach for kitchen scissors. Same task, different tool. Similarly, one marketer might draft campaigns in Claude, while another prefers GPT for faster iteration.\nOn Zapier, you can pick the right model for each step of a Zap, and swap models in seconds if something better comes along. And there's no need to rebuild a thing.\nWhen you configure AI by Zapier , for example—our built-in tool for adding AI steps to your Zaps—you can quickly connect your preferred model. If you want to change the model, just tell your agent or Zapier Copilot to switch it, and that's that.\nIn addition to AI by Zapier, you also have the option to use a direct AI integration. That's best if you want access to more niche providers and legacy models.\nThe cost of building on a single AI vendor\nSome AI vendors are expanding into full platforms. That only deepens the lock-in if you go all in on one AI platform. When you build directly on one provider without a shared platform underneath, you can run into real problems:\nLack of flexibility. When something changes—pricing shifts, a model gets deprecated, a competitor leaps ahead—you can't switch to the best option.\nMaintenance issues. Shiny new models launch all the time. If, with every improvement, you need to evaluate whether to rip out and replace your current setup, your team will spend more time managing transitions than actually using AI to get work done. Every custom connection you build between your tools and one specific provider is a liability. Those integrations need maintenance. They break when APIs change. And they make it exponentially harder to try something new, even when the new thing is clearly better. You're wasting time your team could've spent advancing their AI maturity .\nOrganizational silos and disconnect. When there's no shared infrastructure, departments pick their own AI tools independently. You end up with disconnected workflows, duplicate data, and no shared view of how AI is actually being used across the organization. Leadership can't see the full picture, teams can't learn from each other's setups, and everyone's reinventing the wheel in their own silo.\nAll this risk can accumulate at the decision-making level. If your AI pilots never actually reach production, it's likely that's for these very reasons.\nHow to utilize Zapier's AI model flexibility\nThe best way to understand the value of model-agnostic workflows starts with seeing it in practice. You can use AI models across your workflows in two main ways on Zapier: for one-off tasks from your AI agent or for repeated tasks that run the same way every time.\nMaybe your marketing team works out of Claude, or your ops team runs everything through ChatGPT. Install Zapier in whichever AI tool they rely on, and it doesn't matter which one it is. They can all take action across your business apps from wherever they work, and because the connection lives in Zapier, trying the next AI tool doesn't mean starting over.\nZapier handles each app's login, so your AI tool never gets your credentials, and you can turn off its access in one place. That connection reaches 10,000+ apps, so your team can do things like send Slack messages, update CRM records, create calendar events, or trigger entire workflows—all from a natural-language conversation in their chat window.\nYou can also build repeatable workflows directly from your AI assistant. Describe what should happen, and your agent will draft a Zap, an automated workflow that runs on its own. It can start on a schedule or when something happens in your apps, and it follows traditional if/then steps—so given the same data, it runs the same way every time.\nY ou can add an AI step inside the workflow (using AI by Zapier) to take care of interpretation, handle ambiguity, or generate content—then send that result back to a logic-based, if-this-then-that step that gets the output reliably where it needs to go. That's a different strength from scheduled tasks inside AI tools like Claude or ChatGPT, which are probabilistic (the same prompt can return different results).\nAI by Zapier lets you choose from dozens of models from OpenAI, Anthropic, Google, and more, with no separate account needed. Instead of worrying about token billing, you'll just use Zapier tasks. Let's look at a few different use cases that take advantage of different AI models' strengths. And because these are buil",
+ "id": "C1-2026-11-23",
+ "caption_final": "Stop paying premium prices for simple AI tasks. If you are using one expensive AI model for everything from cleaning your ledger data to writing client emails, you are overspending. Modern platforms allow you to route simple data tasks to cheaper, faster models like Gemini Flash, while keeping your creative writing tasks on more nuanced models like Claude. This setup keeps your costs low and ensures you aren't stuck if your current provider raises prices or gets outperformed. Start by reviewing which tasks in your business are actually repetitive versus which ones require high-level reasoning. Which AI model are you currently paying for, and is it actually helping with your daily admin work?\n\n#SmallBusinessIndia #AITips #BusinessAutomation #SmartBusiness"
+}

@@ -1,0 +1,246 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Setting up local open-source AI (Qwen) on an office PC to process confidential tax documents offline",
+  "angle": "Step-by-step setup to run open-source AI locally on your computer to parse client ledger files without uploading data to cloud servers.",
+  "audience_problem": "Traders want automated doc extraction for financial records but fear data leaks on public cloud AI platforms.",
+  "format": "tutorial",
+  "medium": "reel",
+  "source_ids": [
+   23
+  ],
+  "evergreen": true,
+  "keywords": [
+   "local AI",
+   "Qwen",
+   "data privacy",
+   "offline LLM",
+   "accounting"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 9,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 8,
+   "evidence": 8,
+   "viral": 8
+  },
+  "total": 8.54
+ },
+ "piece": {
+  "hooks": [
+   "Apne confidential tax documents cloud AI par upload karna band karo.",
+   "Data privacy chahiye? Apne office PC par local AI chalao.",
+   "Cloud AI se data leak ka darr hai? Ye setup dekho.",
+   "GST ledger aur invoices ka data cloud par mat bhejo.",
+   "Apne computer par free AI chalao, bina internet ke."
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "It addresses a specific fear (data privacy/confidentiality) which is a major concern for business owners dealing with sensitive tax and financial documents.",
+  "title": "Running Local AI for Private Document Processing",
+  "scenes": [
+   {
+    "purpose": "Identify the privacy risk",
+    "narration": "Apne confidential tax documents cloud AI par upload karna band karo.",
+    "on_screen": "Data Privacy Alert",
+    "visual_type": "text",
+    "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+    "query": "none",
+    "headline": "Cloud AI Data Risk",
+    "steps": [],
+    "items": [],
+    "left_label": "none",
+    "right_label": "none",
+    "rows": []
+   },
+   {
+    "purpose": "Explain why cloud AI is risky",
+    "narration": "Cloud providers aapka data control karte hain aur costs bhi badhti hain.",
+    "on_screen": "Cloud AI Has Limits",
+    "visual_type": "compare",
+    "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+    "query": "none",
+    "headline": "Privacy vs Convenience",
+    "steps": [],
+    "items": [],
+    "left_label": "Cloud AI",
+    "right_label": "Local AI",
+    "rows": [
+     {
+      "left": "Data on cloud",
+      "right": "Data on your PC"
+     },
+     {
+      "left": "Subscription costs",
+      "right": "Zero subscription"
+     },
+     {
+      "left": "Limited control",
+      "right": "Total privacy"
+     }
+    ]
+   },
+   {
+    "purpose": "State the solution requirements",
+    "narration": "Sirf ek Windows PC, graphics card aur free Unsloth software chahiye.",
+    "on_screen": "What You Need",
+    "visual_type": "checklist",
+    "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+    "query": "none",
+    "headline": "Basic Hardware Needs",
+    "steps": [],
+    "items": [
+     "Windows PC",
+     "Graphics Card",
+     "Unsloth Desktop App"
+    ],
+    "left_label": "none",
+    "right_label": "none",
+    "rows": []
+   },
+   {
+    "purpose": "Show the setup process",
+    "narration": "Unsloth install karo, model download karo aur LAN access on karo.",
+    "on_screen": "3 Simple Steps",
+    "visual_type": "diagram",
+    "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+    "query": "none",
+    "headline": "How to Setup",
+    "steps": [
+     "Install Unsloth",
+     "Download Model",
+     "Set Context Size"
+    ],
+    "items": [],
+    "left_label": "none",
+    "right_label": "none",
+    "rows": []
+   },
+   {
+    "purpose": "Closing and call to action",
+    "narration": "Privacy ke saath AI use karna hai? Comment LOCAL, main details DM kar dunga.",
+    "on_screen": "Comment LOCAL",
+    "visual_type": "text",
+    "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+    "query": "none",
+    "headline": "Run AI Offline",
+    "steps": [],
+    "items": [],
+    "left_label": "none",
+    "right_label": "none",
+    "rows": []
+   }
+  ],
+  "caption": "How to run private AI models on your office PC for GST and tax documents. Running local AI models like Qwen keeps your confidential ledger files and financial data off public cloud servers. This setup works on standard Windows PCs with a decent graphics card and requires no monthly subscriptions. It is a one-time setup that gives you full control over your business data security. Remember that performance depends on your GPU's VRAM; check your hardware specs before choosing the model size. Comment LOCAL for the full setup guide.",
+  "hashtags": [
+   "#DataPrivacy",
+   "#BusinessTech",
+   "#SmallBusinessIndia",
+   "#LocalAI"
+  ],
+  "keywords": [
+   "local AI setup",
+   "private document processing",
+   "business data security",
+   "Unsloth desktop guide",
+   "offline AI for business"
+  ],
+  "claims": [
+   {
+    "claim": "Open-weight models like Qwen allow moving away from cloud-based LLM providers.",
+    "source_id": 23
+   },
+   {
+    "claim": "Unsloth Desktop is a free app that serves the AI model through a chat interface.",
+    "source_id": 23
+   },
+   {
+    "claim": "Quantization shrinks a model by compressing weights for better performance on consumer hardware.",
+    "source_id": 23
+   }
+  ],
+  "dm_keyword": "LOCAL",
+  "dm_text": "Here is how you can set up your local AI: 1. Ensure you have a Windows PC with a dedicated GPU. 2. Download the free Unsloth Desktop app from https://unsloth.ai/ (as mentioned in the guide). 3. Select a quantized model based on your VRAM (e.g., 8-12GB VRAM can handle 9B-12B models). 4. Use the GPUPartner VRAM calculator to verify compatibility. 5. Set your context size in the app and enable LAN access if you want others on your network to use it. This keeps your data private and on your own hardware."
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 8,
+   "practical_value": 7,
+   "natural_language": 9,
+   "accuracy": 8,
+   "narrative": 8,
+   "visual_integrity": 7,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 7
+  },
+  "claims": [
+   {
+    "claim": "Open-weight models like Qwen allow moving away from cloud-based LLM providers.",
+    "supported": true
+   },
+   {
+    "claim": "Unsloth Desktop is a free app that serves the AI model through a chat interface.",
+    "supported": true
+   },
+   {
+    "claim": "Quantization shrinks a model by compressing weights for better performance on consumer hardware.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Scene 4: The on-screen text '3 Simple Steps' lists three items, but the narration mentions 'LAN access' which is not in the list.",
+   "Scene 4: The diagram shows a flow, but the narration adds a fourth step (LAN access) that is not visually represented in the steps box."
+  ],
+  "issues": [
+   "The technical barrier to entry is high; while the reel says 'simple', setting up local LLMs is rarely 'simple' for a non-technical small business owner.",
+   "The reel lacks a disclaimer that this requires a powerful GPU, which most office PCs lack."
+  ],
+  "fix_instructions": "In Scene 4, update the visual to include 'Enable LAN' as a fourth step or adjust the narration to match the three steps shown. Add a small text overlay in the corner of Scene 3 or 4 stating 'Requires dedicated GPU' to manage expectations and maintain credibility. Ensure the DM response includes a link to a hardware compatibility checker so users don't waste time trying to install this on integrated graphics."
+ },
+ "rules": [
+  "dm_text link not from the sources: https://unsloth.ai/"
+ ],
+ "reasons": [
+  "dm_text link not from the sources: https://unsloth.ai/",
+  "practical_value 7/10 (<8)",
+  "visual_integrity 7/10 (<8)"
+ ],
+ "meta": {
+  "duration": 32.1,
+  "voice": "edge",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-23/R3-2026-11-23/try3/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-23/R3-2026-11-23/try3/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-23/R3-2026-11-23/try3/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-23/R3-2026-11-23/try3/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-23/R3-2026-11-23/try3/scene_05.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   6.04,
+   6.11,
+   6.52,
+   6.09,
+   7.38
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-23/R3-2026-11-23/try3",
+ "attempt": 3,
+ "approved": false,
+ "hook": "Apne confidential tax documents cloud AI par upload karna band karo.",
+ "log": [
+  "attempt 1: render failed (No audio was received. Please verify that your parameters are correct.)",
+  "attempt 2: render failed (No audio was received. Please verify that your parameters are correct.)",
+  "attempt 3: fail {'hook': 8, 'originality': 8, 'practical_value': 7, 'natural_language': 9, 'accuracy': 8, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['dm_text link not from the sources: https://unsloth.ai/', 'practical_value 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+  "attempt 4: render failed (No audio was received. Please verify that your parameters are correct.)"
+ ],
+ "material": "[23] Hacker News — A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth\nURL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth\nA beginner's guide to Local AI with Inkling, Qwen, and Unsloth | GPU Partner Skip to content A beginner's guide to Local AI with Inkling, Qwen, and Unsloth We have AI at home! Set up your own free personal ChatGPT on your PC with Unsloth and Inkling or Qwen. It's private, and the whole house can use it.\nWith the launch of open-weight models like Qwen, cloud-based LLM providers seem like they're more of infrastructure or appliance businesses when it comes to most routine tasks that an AI model can handle.\nOpenAI and Anthropic have displayed a pattern of dropping model quality in the 'latest' version and controlling exactly what you're allowed to run on their models. Add to this ballooning costs and privacy concerns, and we get a pretty good case for moving away from this 'convenient' cloud experience.\nThat's basically where I was too. I wanted to offload certain token-heavy research, data collection, or coding tasks to an AI model without staring at usage limits all day. So, as any reasonable human being would do, I decided to set up my own local AI : a Claude and ChatGPT replacement that runs at home on my own hardware.\nSince this was my first attempt, my primary focus was keeping it simple and hosting it on Windows. If you're a beginner, you can follow along to get one going on your home network too.\nOnce you have the hardware sorted, it takes about 10-15 minutes (excluding download times).\nInstall Unsloth Desktop, download a quantized AI model that fits your GPU's VRAM, set your context size, and turn on LAN access so everyone at home can use it.\nWhat Do You Need to Run a Local AI at Home?\nNot much (other than the hardware). Here's a short list:\nA Windows PC with a graphics card (GPU). The more video memory (VRAM) it has, the bigger the model it can run. I'm using an RTX 5090 with 32GB VRAM for this setup.\nUnsloth Desktop. A free app that 'serves' the AI model to you through a chat interface. Get it from Unsloth .\nAn AI model sized to fit your GPU. We'll pick one in the next section.\nThat's it. No terminal commands, Python environments, or subscriptions required.\nIt depends on how much VRAM your graphics card has. As a rough guide, 8-12GB of VRAM handles smaller 9B-12B models, while 32GB comfortably runs 27B-35B models with plenty of room for long conversations.\nOn consumer-grade hardware, we'll need smaller models. The full-size Qwen model sits at around 56GB and won't really fit on a consumer graphics card unless you're running a Mac with unified memory. That's where quantization comes in.\nQuantization shrinks a model by compressing weights and moving to a lower precision. You basically trade some accuracy for a model that actually fits on your GPU and runs faster.\nThe same photo stored at 8, 4 and 2 bits per pixel. A model's weights lose detail the same way going from Q8 to Q4 to Q2.\nIf you're wondering whether this tradeoff is worth it, well, it depends. You'll find that certain types of workloads don't really care and give similar outputs, while others may be nearly unusable.\nWhich Model Should You Run for Your VRAM?\nFor this guide, we'll be going with Qwen3.8-27B with 4-bit quantization on my system with an RTX 5090. Going up a tier is an option thanks to its 32GB of VRAM, but I wanted to allow for a larger context window (how much of the conversation the model can keep in mind at once) rather than cramming in the largest model that fits.\nQwen3.8-27B at each precision with a 128K context, from our VRAM calculator . At 4-bit, the model and the context fit a 32 GB card with room to spare.\nIf you want to run a model of this caliber with excellent performance, a hilariously overpriced RTX 5090 (remember when $1,999 felt too high?) is unfortunately still not a terrible 'deal' these days. The other option is way more expensive enterprise-grade GPUs .\nIf you're on a GPU with less VRAM, you can still get something very usable going right away. The table below gives you a rough idea of where you can start.\nRTX 5060 8GB , RTX 3060 12GB , RTX 5070 12GB\nQwen3-14B , gpt-oss-20b (MoE), Gemma 4 26B (MoE), Qwen3-Coder-30B (MoE), Qwen3.6-35B (MoE), Inkling 2 Mini (MoE)\nRTX 5060 Ti 16GB , RTX 5070 Ti , RTX 5080 , RTX PRO 2000\nGemma 4 31B , Qwen3.8-27B , Inkling 2 Mini\nRTX 3090 , RTX 4090 , RX 7900 XTX , RTX PRO 4000\nRTX 5090 32GB , RTX PRO 4500 32GB , RTX PRO 5000 48GB , RTX PRO 6000 96GB\nRTX 5060 8GB , RTX 3060 12GB , RTX 5070 12GB\nQwen3-14B , gpt-oss-20b (MoE), Gemma 4 26B (MoE), Qwen3-Coder-30B (MoE), Qwen3.6-35B (MoE), Inkling 2 Mini (MoE)\nRTX 5060 Ti 16GB , RTX 5070 Ti , RTX 5080 , RTX PRO 2000\nGemma 4 31B , Qwen3.8-27B , Inkling 2 Mini\nRTX 3090 , RTX 4090 , RX 7900 XTX , RTX PRO 4000\nRTX 5090 32GB , RTX PRO 4500 32GB , RTX PRO 5000 48GB , RTX PRO 6000 96GB\nModels marked MoE ( mixture of experts ) only run a few billion of their parameters for each token. They keep a decent speed on a smaller card with the rest held in system RAM, which is why a 35B model sits in the 16 GB row. On an RTX 5060 Ti 16GB, our calculator puts Qwen3.6-35B at about 47 tokens per second this way.\nFeel free to experiment with several models until you find one that fits your needs. You can also use GPUPartner's VRAM Calculator to get an estimate.\nInkling 2 Mini, yes. Inkling 2 Small, no.\nInkling 2 Mini is the newest model in this size class. Thinking Machines Lab released it on November 17, 2026: 26.4B parameters, Apache 2.0, vision support and a 1M-token context. Unsloth's recommended file, UD-Q4_K_XL, is 17.6 GB. That is within 0.1 GB of the Qwen3.8-27B file in this guide, so it sits on a 32GB card the same way and leaves about 14GB for context.\nNothing else in this guide changes. Update Unsloth Desktop first, because Inkling 2 needs a recent build, then search for Inkling 2 Mini in the same drop-down in Step 2.\nThose figures are Unsloth's. They count RAM and VRAM together and cover the model alone, so a long context needs more. Inkling 2 Mini is a mixture-of-experts model with 5.4B parameters active, so the 4-bit file also runs on a 16 GB card with the remainder in system RAM, a little slower.\nInkling 2 Small is small in name only. It is a 594B model, and the smallest file Unsloth publishes is 171.7 GB. That is unified-memory territory: a 256GB Mac Studio or a DGX Station , not a graphics card.\nYes. You'll find good alternatives in Apple's Mac lineup thanks to its unified memory . Macs are pretty good at running larger models, even if they don't offer the best performance. Just make sure you grab the MLX flavor that is custom-built for Apple Silicon.\nThe same trade applies to unified-memory PCs like the MSI PRO MAX EDGE AI+ 11M and NVIDIA's DGX Spark .\nHow Do You Set Up a Local AI with Unsloth Desktop?\nIt takes three steps: install Unsloth Desktop, download your model, and set the context size. I'll go over these steps in more detail below so you can follow along.\nFirst, we'll need a solution that 'serves' the AI model to you. My pursuit of simplicity narrowed my choices down to LM Studio or Unsl",
+ "id": "R3-2026-11-23",
+ "caption_final": "How to run private AI models on your office PC for GST and tax documents. Running local AI models like Qwen keeps your confidential ledger files and financial data off public cloud servers. This setup works on standard Windows PCs with a decent graphics card and requires no monthly subscriptions. It is a one-time setup that gives you full control over your business data security. Remember that performance depends on your GPU's VRAM; check your hardware specs before choosing the model size. Comment LOCAL for the full setup guide.\n\n#DataPrivacy #BusinessTech #SmallBusinessIndia #LocalAI"
+}

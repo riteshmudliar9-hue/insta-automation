@@ -1,0 +1,272 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Blocking OS-level AI screen-reading agents from scraping confidential client chats and payment screenshots",
+  "angle": "How to disable screen-monitoring permissions on phone apps so background AI agents cannot index customer conversations or bank receipts.",
+  "audience_problem": "Small business owners sending quotes and bank details via smartphone apps are unaware OS AI agents scan on-screen data.",
+  "format": "problem_fix",
+  "medium": "reel",
+  "source_ids": [
+   3,
+   19
+  ],
+  "evergreen": true,
+  "keywords": [
+   "data privacy",
+   "screen scraping",
+   "AI security",
+   "smartphone privacy"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 8,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 9,
+   "evidence": 9,
+   "viral": 9
+  },
+  "total": 8.78
+ },
+ "piece": {
+  "hooks": [
+   "Aapke phone ke AI agents aapke customer chats padh rahe hain.",
+   "WhatsApp pe payment screenshots bhej rahe ho? Ye risk dekho.",
+   "AI agents ke liye aapka phone ka data safe nahi hai.",
+   "Customer ke saath private chat ab AI agents read kar rahe hain.",
+   "Apne phone ki privacy settings abhi check karo, warna risk hai."
+  ],
+  "chosen_hook": 1,
+  "hook_reason": "It highlights a very common, high-stakes behavior (sending payment screenshots) that business owners perform daily, making it immediately relatable and alarming.",
+  "title": "Stop AI agents from reading your private business chats",
+  "scenes": [
+   {
+    "purpose": "Hook the user with the risk of screenshot sharing.",
+    "narration": "WhatsApp pe payment screenshots bhej rahe ho? Ye risk dekho.",
+    "on_screen": "Payment screenshots leak risk",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "AI can read your screen",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Explain why AI is a threat.",
+    "narration": "OS ke AI agents aapka screen scan karke data save kar rahe hain.",
+    "on_screen": "AI scans your phone screen",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "How agents spy",
+    "steps": [
+     "OS-level AI scans screen",
+     "Sensitive data stored locally",
+     "Privacy guarantee undermined"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Show the problem with current apps.",
+    "narration": "Developer ke paas inhe rokne ke liye koi simple tool nahi hai.",
+    "on_screen": "Apps are helpless",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "Privacy gap",
+    "steps": [],
+    "items": [],
+    "left_label": "App Developer",
+    "right_label": "AI Agent",
+    "rows": [
+     {
+      "left": "Wants privacy",
+      "right": "Scans all data"
+     },
+     {
+      "left": "No blocking tools",
+      "right": "Undermines encryption"
+     }
+    ]
+   },
+   {
+    "purpose": "Actionable step to fix the privacy.",
+    "narration": "Apne messaging app me screen security toggle zaroor ON rakho.",
+    "on_screen": "Enable screen security",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "Secure your chats",
+    "steps": [],
+    "items": [
+     "Open app settings",
+     "Find privacy menu",
+     "Toggle screen security ON"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Warn about the limitations.",
+    "narration": "Ye settings poora solution nahi hain, par start achha hai.",
+    "on_screen": "Not a 100% fix",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "Warning",
+    "steps": [],
+    "items": [
+     "File system access risk",
+     "Accessibility API risks"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Final payoff and CTA.",
+    "narration": "Privacy bachane ke steps chahiye? Comment PRIVACY, main aapko DM kar dunga.",
+    "on_screen": "Comment PRIVACY",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Stay private",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "How to stop AI agents from reading your private business messages and bank receipts on your phone. Most smartphone OS-level AI assistants can now scan your screen content, potentially accessing your confidential client conversations and payment details. Signal has started blocking screenshots to counter this threat, but you must ensure your privacy settings are configured correctly to minimize data exposure. This is a critical step for shop owners and contractors sharing sensitive information via messaging apps. Have you checked your app privacy settings for AI access this week? Comment PRIVACY for the full guide on securing your business data. #BusinessPrivacy #DataSecurity #SmallBusinessIndia #AI #SmartphoneTips",
+  "hashtags": [
+   "#BusinessPrivacy",
+   "#DataSecurity",
+   "#SmallBusinessIndia",
+   "#AI",
+   "#SmartphoneTips"
+  ],
+  "keywords": [
+   "AI privacy",
+   "phone security",
+   "Signal app",
+   "business data leak",
+   "AI screen scanning"
+  ],
+  "claims": [
+   {
+    "claim": "OS-level AI agents scan screen information, undermining app-level privacy.",
+    "source_id": 3
+   },
+   {
+    "claim": "Signal is blocking screenshots on Android and iOS to prevent AI agents from reading data.",
+    "source_id": 19
+   },
+   {
+    "claim": "Disabling screenshot security exposes content to AI agents and breaks privacy guarantees.",
+    "source_id": 3
+   },
+   {
+    "claim": "Screen blocking is an incomplete solution as it does not address file system access or accessibility API vulnerabilities.",
+    "source_id": 19
+   }
+  ],
+  "dm_keyword": "PRIVACY",
+  "dm_text": "Thanks for asking! Here is how to protect your chat data from AI agents: 1. Always keep 'Screen Security' toggled ON in your secure messaging app settings. 2. Be aware that this prevents standard screenshots but does not stop all advanced AI access methods like file system scanning. 3. Avoid sharing sensitive bank receipts or passwords via insecure apps. 4. Read more on why this is an existential threat to privacy here: https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/ and https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app Stay safe."
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 9,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 7,
+   "pacing": 8,
+   "brand_consistency": 8,
+   "publish_readiness": 7
+  },
+  "claims": [
+   {
+    "claim": "OS-level AI agents scan screen information, undermining app-level privacy.",
+    "supported": true
+   },
+   {
+    "claim": "Signal is blocking screenshots on Android and iOS to prevent AI agents from reading data.",
+    "supported": true
+   },
+   {
+    "claim": "Disabling screenshot security exposes content to AI agents and breaks privacy guarantees.",
+    "supported": true
+   },
+   {
+    "claim": "Screen blocking is an incomplete solution as it does not address file system access or accessibility API vulnerabilities.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Scene 1: The subtitle 'rahe ho?' is floating awkwardly at the bottom, disconnected from the main text box.",
+   "Scene 2: The subtitle 'data save kar rahe hain.' is also floating below the diagram, creating a disjointed visual flow.",
+   "Scene 3: The subtitle 'simple tool nahi hai.' is floating below the comparison table, which is inconsistent with the layout of the other slides.",
+   "Scene 4: The subtitle 'toggle zaroor ON rakho.' is floating below the checklist, creating unnecessary vertical clutter.",
+   "Scene 5: The subtitle 'par start achha hai.' is floating below the warning list, which feels disconnected from the content above.",
+   "Scene 6: The subtitle 'Comment PRIVACY, main aapko DM kar dunga.' is floating below the main text, which is redundant since the text already says 'Comment PRIVACY'."
+  ],
+  "issues": [
+   "The floating subtitle boxes at the bottom of every scene are visually distracting and inconsistent with the clean, professional aesthetic of the brand.",
+   "The narration in the subtitles is often redundant with the on-screen text, which wastes screen real estate.",
+   "The 'Compare' table in Scene 3 is a bit cramped; ensure the text doesn't get cut off on smaller devices."
+  ],
+  "fix_instructions": "Remove the floating subtitle boxes entirely. Integrate the narration directly into the main text boxes or use a consistent, clean subtitle style at the bottom of the frame that doesn't look like a separate floating element. Ensure the text in the comparison table (Scene 3) is properly aligned and has enough padding. In Scene 6, remove the redundant subtitle since the CTA is already clearly displayed in the main text area."
+ },
+ "rules": [],
+ "reasons": [
+  "originality 7/10 (<8)",
+  "visual_integrity 7/10 (<8)"
+ ],
+ "meta": {
+  "duration": 33.9,
+  "voice": "edge",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-23/R2-2026-11-23/try4/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-23/R2-2026-11-23/try4/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-23/R2-2026-11-23/try4/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-23/R2-2026-11-23/try4/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-23/R2-2026-11-23/try4/scene_05.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-23/R2-2026-11-23/try4/scene_06.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   5.75,
+   5.87,
+   5.09,
+   5.17,
+   5.07,
+   6.96
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-23/R2-2026-11-23/try4",
+ "attempt": 4,
+ "approved": false,
+ "hook": "WhatsApp pe payment screenshots bhej rahe ho? Ye risk dekho.",
+ "log": [
+  "attempt 1: fail {'hook': 8, 'originality': 7, 'practical_value': 6, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'practical_value 6/10 (<8)']",
+  "attempt 2: fail {'hook': 8, 'originality': 8, 'practical_value': 6, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 7} ['scene 5 narration 19 words (want 4-14)', 'practical_value 6/10 (<8)', 'visual_integrity 7/10 (<8)']",
+  "attempt 3: fail {'hook': 7, 'originality': 8, 'practical_value': 6, 'natural_language': 7, 'accuracy': 8, 'narrative': 7, 'visual_integrity': 6, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 6} ['hook 7/10 (<8)', 'practical_value 6/10 (<8)', 'natural_language 7/10 (<8)', 'narrative 7/10 (<8)']",
+  "attempt 4: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 9, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 7} ['originality 7/10 (<8)', 'visual_integrity 7/10 (<8)']"
+ ],
+ "material": "[3] TechCrunch AI — Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance\nURL: https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/\nSignal announced Friday that it’s limiting users’ ability to take screenshots within the secure messaging app — a response to what President Meredith Whittaker described as the “existential threat” of operating systems that integrate agentic AI.\nWhittaker wrote that by giving AI agents the ability to “scan” the information on users’ screens, Windows, Android, and macOS/iOS “are undermining Signal’s ability to independently guarantee privacy.”\n“Now, in service of AI agentic capabilities, your sensitive data is being captured, stored, and made accessible to whatever local database or remote server an OS-level AI agent is using at that moment,” she said. “All of this is outside of Signal’s control once the data has been captured, and imperils the privacy of all the participants in a conversation.”\nSignal already sought to limit these risks by blocking screenshots of its Windows app by default. Now it’s adding similar restrictions in Android and iOS.\nThat said, users can disable this setting if they wish, which Whittaker said would “break our privacy guarantees.” She also admitted this is an “incomplete” solution, as it doesn’t “address other more sneaky ways AI agents could potentially access application data.”\nGet an Early Peek at the Next TechCrunch Disrupt Disrupt, Startup Battlefield, and more will return next year, and you can be at the front of the line. Sign up for our waitlist\nSubscribe for the industry’s biggest tech news\nAI OpenAI’s chief scientist has thoughts on how to limit AI development\nAI Here are the top AI agents that can live in your text messages\nSocial The best apps to make new friends right now\nIn Brief Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance\nApps Startup sues Apple in India over tap-to-share contacts feature\n\n[19] The Verge AI — Signal is blocking Gemini and Siri AI from reading your screen\nURL: https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app\nSignal is blocking Gemini and Siri AI from reading your screen | The Verge Skip to main content The homepage The Verge The Verge logo. The homepage The Verge The Verge logo. Notifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo. Login / Sign Up\nComments Loading comments Getting the conversation ready... AI\nSignal will now restrict screenshots on mobile devices, and says AI agents are ‘hostile to privacy.’\nSignal will now restrict screenshots on mobile devices, and says AI agents are ‘hostile to privacy.’\nJess Weatherbed Nov 20, 2026, 12:30 PM UTC Link\nJess Weatherbed is a news writer focused on creative industries, computing, and internet culture. Jess started her career at TechRadar, covering news and hardware reviews. Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users’ messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are “undermining Signal’s ability to independently guarantee privacy,” Signal president Meredith Whittaker said in a blog post , while urging OS providers to make it easier for app developers to control what data agents can access.\n“We want to be very clear: it is a serious problem that Signal – and application developers beyond – lack robust tools to prevent AI agents from undermining application-level privacy,” Whittaker said. “Even where we are able to detect and block AI data access, Google, Apple, Microsoft, and others do not provide ways for developers to easily restrict such AI data access without making drastic compromises to the core user experience. This is also the reason we are currently unable to implement these protections on macOS.”\nSignal is addressing the privacy concerns by blocking the ability to take screenshots in the app on iOS 27 and Android, which should prevent Siri , Gemini, and other Android AI assistants from reading on-screen content. Users can restore screenshot capabilities in Signal’s app settings, but Whittaker warns that doing so will “potentially expose your (and your contacts’) Signal content to these AI agents, and break our privacy guarantees.” Whittaker admits that Signal’s screenshot-blocking remedy is “incomplete,” as it doesn’t address alternative ways that AI agents can access app data, such as retrieving it via the device file system.\nSignal took a similar approach last year to prevent Microsoft’s controversial Recall feature from capturing secured chats. The encrypted messaging service says it’s struggling to develop a better solution due to the lack of available information regarding how AI agents are actually accessing application data, and is now calling on Apple, Google, and Microsoft to provide “simple technical tools and accurate documentation” to app developers. Signal also says more tools are needed to prevent third-party agents, like Meta’s Muse, from using deep accessibility settings in apps like a “skeleton key” to access application data.\n“We all need to recognize that the current integration of AI agents into the operating system, without these common-sense remedies, represents an existential threat to privacy at the application layer, and the ability of independent developers like Signal to protect your sensitive data,” said Whittaker. “Signal is the canary in the coal mine, but this affects the entire ecosystem and should galvanize anyone who cares about these fundamental rights.”\nTeenage Engineering’s first CD player puts the spinning disc on display\nThe vibe-coding revolution is coming to all the gadgets\nNintendo’s Switch 2 console is $50 off for Black Friday\nGoogle says it’s going to shut off Google Assistant on smart speakers next year\nThe Xiaomi 18 Pro proves two screens aren’t better than one\nCan Anthropic afford to put safety first? Chess.com’s next move is a new hub for classic games, from mahjong to sudoku Trump threatens ‘tremendous tax’ for moving AI data centers outside the US Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude The vibe-coding revolution is coming to all the gadgets David Pierce 1:00 PM UTC The UN fails to agree on rules regulating ‘killer robots’ Terrence O'Brien Nov 21 Play Can Anthropic afford to put safety first? Nilay Patel Nov 21 Chess.com’s next move is a new hub for classic games, from mahjong to sudoku Stevie Bonifield Nov 21 Trump threatens ‘tremendous tax’ for moving AI data centers outside the US Lauren Feiner Nov 20 Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude Robert Hart and Emma Roth Nov 20 Advertiser Content From This is the title for the native ad\nThe Verge The Verge logo. Sign in to see your notifications or create an account to join the conversation.",
+ "id": "R2-2026-11-23",
+ "caption_final": "How to stop AI agents from reading your private business messages and bank receipts on your phone. Most smartphone OS-level AI assistants can now scan your screen content, potentially accessing your confidential client conversations and payment details. Signal has started blocking screenshots to counter this threat, but you must ensure your privacy settings are configured correctly to minimize data exposure. This is a critical step for shop owners and contractors sharing sensitive information via messaging apps. Have you checked your app privacy settings for AI access this week? Comment PRIVACY for the full guide on securing your business data.\n\n#BusinessPrivacy #DataSecurity #SmallBusinessIndia #AI #SmartphoneTips"
+}

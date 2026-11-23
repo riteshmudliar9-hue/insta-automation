@@ -948,5 +948,37 @@
   "status": "published",
   "media_id": "18160782373520072",
   "permalink": "https://www.instagram.com/p/DgCbvynG45i/"
+ },
+ {
+  "id": "R1-2026-11-23",
+  "date": "2026-11-23",
+  "kind": "reel",
+  "format": "demo",
+  "topic": "Using plain-English prompt coding to build custom client price estimator web tools in 10 minutes",
+  "hook": "Custom quotation software ke liye developer ko paise dena band karo.",
+  "keywords": [
+   "custom quotation software",
+   "prompt coding",
+   "claude code small business",
+   "quote calculator tool",
+   "vibe coding India"
+  ],
+  "status": "queued"
+ },
+ {
+  "id": "C1-2026-11-23",
+  "date": "2026-11-23",
+  "kind": "carousel",
+  "format": "manual_vs_auto",
+  "topic": "Multi-model AI routing strategy: using Claude for drafting proposals and Gemini for bulk data processing to cut API spend",
+  "hook": "Stop wasting money using expensive AI for simple tasks",
+  "keywords": [
+   "AI automation for small business",
+   "reduce AI costs",
+   "Zapier AI workflows",
+   "Claude vs Gemini for business",
+   "AI model flexibility"
+  ],
+  "status": "queued"
  }
 ]
