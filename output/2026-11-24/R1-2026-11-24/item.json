@@ -1,0 +1,274 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Home Ministry Warning: Preventing Data Hijacking on Shared WhatsApp Web Office Computers",
+  "angle": "Leaving WhatsApp Web signed in on billing counter PCs exposes customer phone lists and quotes; set automatic session lockouts.",
+  "audience_problem": "Shop staff leave WhatsApp Web open on front-desk computers, allowing competitors or unauthorized staff to export customer contacts.",
+  "format": "problem_fix",
+  "medium": "reel",
+  "source_ids": [
+   78
+  ],
+  "evergreen": true,
+  "keywords": [
+   "WhatsApp Web security",
+   "data privacy",
+   "cyber crime warning",
+   "customer data safety"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 8,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 9,
+   "evidence": 9,
+   "viral": 9
+  },
+  "total": 8.78
+ },
+ "piece": {
+  "hooks": [
+   "WhatsApp Web tab close karne se account logout nahi hota.",
+   "Billing counter PC pe WhatsApp Web open chhodte ho? Ye dekho.",
+   "Office PC par WhatsApp Web use karte ho? Home Ministry alert suno.",
+   "WhatsApp Web se aapka customer data leak ho sakta hai.",
+   "90% shop owners WhatsApp Web mein ye security galti karte hain."
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "Directly tackles a very common misconception among shop staff and provides immediate curiosity.",
+  "title": "Prevent WhatsApp Web Data Hijacking on Office PCs",
+  "scenes": [
+   {
+    "purpose": "Hook",
+    "narration": "WhatsApp Web tab close karne se account logout nahi hota.",
+    "on_screen": "Tab Close != Logout",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "WhatsApp Web Warning",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Explain risk",
+    "narration": "Home Ministry ke I4C ne warning di hai ki active sessions misuse ho sakte hain.",
+    "on_screen": "I4C Security Alert",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Active session risk",
+     "Customer data exposure",
+     "Impersonation fraud"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Show impact",
+    "narration": "Koi bhi aapke chats, customer contacts aur quotations access kar ke fraud kar sakta hai.",
+    "on_screen": "Data Fraud Risk",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "Tab Closed",
+    "right_label": "Session Status",
+    "rows": [
+     {
+      "left": "Close browser tab",
+      "right": "Session Active"
+     },
+     {
+      "left": "Manual Logout",
+      "right": "Session Closed"
+     }
+    ]
+   },
+   {
+    "purpose": "Primary Fix",
+    "narration": "Kaam khatam hote hi har baar Menu mein jaakar manually Log Out karo.",
+    "on_screen": "Always Log Out",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "Click Menu",
+     "Select Log Out",
+     "Confirm Disconnect"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Secondary Safeguards",
+    "narration": "Shared PC par incognito mode use karo aur suspicious ZIP files mat kholo.",
+    "on_screen": "Incognito + Caution",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Use Incognito mode",
+     "Avoid unknown ZIP files",
+     "Keep browser updated"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Call to action",
+    "narration": "Comment SAFETY, main aapko Home Ministry ki safety guide DM kar dunga.",
+    "on_screen": "Comment SAFETY",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Get Safety Checklist",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "How to secure WhatsApp Web on shared office computers and prevent data leakage. If your shop staff or billing counter operators leave WhatsApp Web open on shared PCs, anyone can access customer lists, quotations, and pending ledger details. The Ministry of Home Affairs I4C unit warns that closing the tab does not log you out. Always click Log Out manually after your shift, or use private browsing mode for temporary sessions. Have you ever noticed active WhatsApp sessions left open on your office computers? Comment SAFETY for Home Ministry WhatsApp safety guide",
+  "hashtags": [
+   "#CyberSecurityIndia",
+   "#WhatsAppSafety",
+   "#SmallBusinessIndia",
+   "#OfficeSecurity"
+  ],
+  "keywords": [
+   "WhatsApp Web logout",
+   "I4C advisory WhatsApp",
+   "office computer security",
+   "prevent data leak",
+   "WhatsApp security tips"
+  ],
+  "claims": [
+   {
+    "claim": "I4C under the Ministry of Home Affairs issued an advisory warning that active WhatsApp Web browser sessions on shared computers can be misused to access accounts and contacts.",
+    "source_id": 78
+   },
+   {
+    "claim": "Closing a browser tab or window does not automatically log out a user from WhatsApp Web.",
+    "source_id": 78
+   },
+   {
+    "claim": "Active sessions allow attackers to read messages, access contact lists, and impersonate users for fraud or social engineering.",
+    "source_id": 78
+   },
+   {
+    "claim": "I4C recommends manually logging out after work and using private/incognito browsing mode when temporary access on shared PCs is necessary.",
+    "source_id": 78
+   },
+   {
+    "claim": "Malicious ZIP files disguised as official communications can install malware on Windows PCs to hijack active WhatsApp Web sessions.",
+    "source_id": 78
+   }
+  ],
+  "dm_keyword": "SAFETY",
+  "dm_text": "Here is the Home Ministry (I4C) WhatsApp Web safety checklist for your office: 1. Always manually log out of WhatsApp Web instead of just closing the browser tab. 2. Avoid exchanging sensitive financial or confidential data on shared PCs via WhatsApp Web. 3. Use Incognito/Private browsing mode when accessing WhatsApp Web on temporary or shared PCs, and log out before closing. 4. Never open unknown ZIP files (disguised as MCA/RBI notices) that install session-hijacking malware. 5. Independently verify urgent payment or fund transfer requests with a direct phone call."
+ },
+ "review": {
+  "scores": {
+   "hook": 9,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 10,
+   "narrative": 8,
+   "visual_integrity": 8,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "I4C under the Ministry of Home Affairs issued an advisory warning that active WhatsApp Web browser sessions on shared computers can be misused to access accounts and contacts.",
+    "supported": true,
+    "note": "Fully supported by source text detailing I4C's advisory."
+   },
+   {
+    "claim": "Closing a browser tab or window does not automatically log out a user from WhatsApp Web.",
+    "supported": true,
+    "note": "Directly stated in the source material."
+   },
+   {
+    "claim": "Active sessions allow attackers to read messages, access contact lists, and impersonate users for fraud or social engineering.",
+    "supported": true,
+    "note": "Directly supported by the NCTAU warning summary."
+   },
+   {
+    "claim": "I4C recommends manually logging out after work and using private/incognito browsing mode when temporary access on shared PCs is necessary.",
+    "supported": true,
+    "note": "Supported by the bulleted recommendations in the source."
+   },
+   {
+    "claim": "Malicious ZIP files disguised as official communications can install malware on Windows PCs to hijack active WhatsApp Web sessions.",
+    "supported": true,
+    "note": "Supported by the August campaign details mentioned in the article."
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [],
+  "issues": [
+   "Scenes 1 and 6 have a large amount of empty whitespace inside the central card component."
+  ],
+  "fix_instructions": "To improve visual engagement, consider adding a simple screenshot snippet or icon of the WhatsApp Web menu to Scene 4 to make the logout location immediately obvious to non-tech-savvy business owners."
+ },
+ "rules": [],
+ "reasons": [
+  "reel is 45.8 s long (max 45 s; aim for 15-35 s)"
+ ],
+ "meta": {
+  "duration": 45.8,
+  "voice": "gemini",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-24/R1-2026-11-24/try3/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-24/R1-2026-11-24/try3/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-24/R1-2026-11-24/try3/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-24/R1-2026-11-24/try3/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-24/R1-2026-11-24/try3/scene_05.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-24/R1-2026-11-24/try3/scene_06.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   9.87,
+   12.85,
+   3.82,
+   11.82,
+   3.89,
+   3.5
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-24/R1-2026-11-24/try3",
+ "attempt": 3,
+ "approved": false,
+ "hook": "WhatsApp Web tab close karne se account logout nahi hota.",
+ "log": [
+  "attempt 1: rules failed: ['total narration 97 words (want 40-85, i.e. 15-35 s)', 'scene 3 narration 19 words (want 4-14)', 'scene 4 narration 21 words (want 4-14)']",
+  "attempt 2: fail {'hook': 8, 'originality': 7, 'practical_value': 9, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 7} ['originality 7/10 (<8)', 'visual_integrity 7/10 (<8)', 'reel is 64.8 s long (max 45 s; aim for 15-35 s)']",
+  "attempt 3: fail {'hook': 9, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 10, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['reel is 45.8 s long (max 45 s; aim for 15-35 s)']",
+  "attempt 4: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['scene 3: compare needs rows', 'reel is 50.0 s long (max 45 s; aim for 15-35 s)']"
+ ],
+ "material": "[78] Inc42 — Home Ministry Warns Of WhatsApp Web Misuse, Advises Against Sensitive Work\nURL: https://inc42.com/buzz/home-ministry-warns-of-whatsapp-web-misuse-advises-against-sensitive-work/\nHome Ministry Warns Of WhatsApp Web Misuse, Advises Against Sensitive Work --> tag --> Skip to content --> Powered By Glossary The brand solutions arm of Inc42 Media combining Inc42’s creative and editorial strengths to create compelling stories for brands partnering with it.\nSUMMARY The Home Ministry’s I4C has warned that active WhatsApp Web sessions could be misused to access accounts, read conversations, and impersonate users\nAccess to a genuine account can help fraudsters exploit the trust of its contacts, exposing personal conversations and business communications to impersonation and financial fraud.\nThe agency has recommended manually logging out after each session, avoiding public or untrusted computers, and using private browsing on trusted devices when temporary access is unavoidable\nAdded to Saved Stories in Login VIEW SAVED STORIES\nThe Indian Cyber Crime Coordination Centre (I4C), under the Ministry of Home Affairs, has advised users to avoid exchanging official, financial, confidential, or other sensitive information through WhatsApp Web, warning that active browser sessions could be misused to access their accounts.\nIn a recent advisory, I4C’s National Cybercrime Threat Analytics Unit (NCTAU) said such access could allow attackers to read messages, impersonate account holders, and access contacts and group conversations. They could then exploit the account holder’s trusted identity for fraud, phishing, and social engineering. The agency urged users to exercise particular caution on office computers, shared systems, public computers, and devices accessible to other people. It also stressed that closing a browser tab or window should not be treated as logging out of WhatsApp Web.\nNotably, WhatsApp Web allows users to access the messaging service through a computer browser after linking their account.\nI4C has recommended the following measures:\nAvoid sensitive work: Government, organisational, financial, confidential, or other sensitive information should preferably not be exchanged through WhatsApp Web on computers.\nLimit active sessions: Avoid leaving WhatsApp Web logged in when it is not required, particularly on office or shared computers.\nLog out manually: Log out after completing your work rather than simply closing the browser tab or window.\nUse private browsing cautiously: If temporary access is unavoidable, use incognito or private browsing mode on a trusted computer and manually log out before closing the browser.\nAvoid untrusted computers: Do not access WhatsApp Web from cyber cafes, public kiosks, hotel business centres, borrowed computers, or other untrusted systems.\nWatch for unusual activity: Treat unexpected messages sent from your account, unusual replies from contacts, or unexplained activity seriously.\nKeep devices secure: Update operating systems, browsers, and security software, and avoid suspicious downloads, unknown files, pirated software, and untrusted applications.\nThe warning follows an earlier I4C alert about a fraud campaign targeting company directors, finance professionals, and businesspersons through WhatsApp account takeovers.\nIn August, the agency described how attackers circulated malicious ZIP files disguised as account statements or communications from the RBI and the Ministry of Corporate Affairs. Opening the files on a Windows computer installed malware that could hijack an active WhatsApp Web session.\nI4C advised companies to independently verify urgent fund-transfer instructions or requests to change bank account details through a direct voice call or in-person confirmation before acting. Separately, I4C has also flagged the use of AI agents in attacks targeting financial institutions.\nThe agency recently warned banks, NBFCs, and fintech startups about attackers exploiting unpatched software and misconfigured internet-facing servers to access financial infrastructure. The warnings also come amid efforts to strengthen safeguards on messaging platforms. It was reported last month that platforms including WhatsApp and Telegram were preparing to implement the Department of Telecommunications’ SIM-binding mandate .\nPartner With Inc42 Inc42 Startup Spotlight\nIndian startup stories decoded daily. Up to 10 stories a day, at 9am. 70,000+ companies. All in the app. Track funding, investors and company financials DOWNLOAD INC42 APP Continue on Web Stories Profiles Not Finding what you are looking for? Advanced filter You have reached your limit of free stories want to read the full story? Unlock This Story & Enjoy All Members-Only Benefits With Inc42 Plus.\nUnlock special offers and join 10,000+ founders, investors & operators staying ahead in India’s startup economy.\nOffer Ends In --> 3 YEAR PLAN ₹29999 ₹7999 ₹222/Month --> UNLOCK 73% OFF Become a member Cancel Anytime 2 YEAR PLAN ₹19999 ₹5999 ₹249/Month --> UNLOCK 70% OFF Become a member Cancel Anytime 1 YEAR PLAN ₹9999 ₹3499 ₹291/Month --> UNLOCK 65% OFF Become a member Cancel Anytime Become a member ₹ 7999 Cancel Anytime Already A Member? Sign In Here Discover Startups & Business Models Unleash your potential by exploring unlimited articles, trackers, and playbooks. Identify the hottest startup deals, supercharge your innovation projects, and stay updated with expert curation.\nEmpower yourself with comprehensive playbooks, expert analysis, and invaluable insights. Learn to validate ideas, acquire customers, secure funding, and navigate the journey to startup success.\nAccess 75+ in-depth reports on frontier industries. Gain exclusive market intelligence, understand market landscapes, and decode emerging trends to make informed decisions.\nStay ahead with startup and funding trackers. Analyse investment strategies, profile successful investors, and keep track of upcoming funds, accelerators, and more.\nJoin a community of 10,000+ leaders & operators – unlock unlimited access to Inc42 stories, videos, deals, member-only perks, and more.\nUnlock unlimited access to 500+ monthly new stories and Inc42’s complete archive of 40,000+ stories.\nUnlock unlimited access to 500+ monthly new stories and Inc42’s complete archive of 40,000+ stories.\nOver $250,000 worth deals on software & tools to help your business scale up.\nNetwork with industry leaders & operators with exclusive invites to Inc42’s member-only virtual events\nEnjoy an ad-free and clutter-free experience as a member, focus on what really matters to you\nYour contribution will go on to support and empower our unbiased & data-driven journalism\nJoin 1000's of entrepreneurs, business leaders & makers and stay ahead with our sharp, incisive & data-driven analysis on India’s tech and startup economy!\nUnlock personalised stories, ad-lite reading, and exclusive newsletters on Inc42.\n-- Already Have An Account? Login here --\nGet The Week’s Most Consequential Developments.\nInc42 In-Depth is your daily 9 PM newsletter with sharp insights from India’s startup economy.\nInc42 Moneyball is your Thursday newsletter on India’s venture capital tr",
+ "id": "R1-2026-11-24",
+ "caption_final": "How to secure WhatsApp Web on shared office computers and prevent data leakage. If your shop staff or billing counter operators leave WhatsApp Web open on shared PCs, anyone can access customer lists, quotations, and pending ledger details. The Ministry of Home Affairs I4C unit warns that closing the tab does not log you out. Always click Log Out manually after your shift, or use private browsing mode for temporary sessions. Have you ever noticed active WhatsApp sessions left open on your office computers? Comment SAFETY for Home Ministry WhatsApp safety guide\n\n#CyberSecurityIndia #WhatsAppSafety #SmallBusinessIndia #OfficeSecurity"
+}

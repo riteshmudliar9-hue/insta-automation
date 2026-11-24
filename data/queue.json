@@ -5589,5 +5589,231 @@
   "media_id": "18158665822534590",
   "permalink": "https://www.instagram.com/p/DgFHO-qFi16/",
   "published_at": "2026-11-23T15:28:15.537613+05:30"
+ },
+ {
+  "id": "R3-2026-11-24",
+  "kind": "reel",
+  "date": "2026-11-24",
+  "slot": "2026-11-24T21:00",
+  "dir": "output/2026-11-24/R3-2026-11-24/try2",
+  "files": [
+   "reel.mp4"
+  ],
+  "caption": "Automate your product marketing image generation using AI and Zapier for faster catalog updates. Stop manually downloading AI-generated images and sorting them into folders. By connecting your AI assistant to Zapier, you can trigger image creation directly from a Google Sheet row. The images are then automatically saved to your Google Drive, ready for your website or social media. This setup works even when your laptop is closed and ensures consistent image sizes and styles every single time. It is a reliable way to keep your product catalog updated without the daily manual grind. Comment IMAGES for the step-by-step automation guide.\n\n#SmallBusinessIndia #Automation #Zapier #BusinessGrowth",
+  "topic": "Automating Product Marketing Images with Zapier and AI Image Generators",
+  "format": "tutorial",
+  "hook": "Shop ka naya stock aaya? AI images automation setup karo.",
+  "keywords": [
+   "AI automation for business",
+   "Zapier image generation",
+   "Product catalog automation",
+   "Google Sheets automation",
+   "AI marketing tools"
+  ],
+  "scores": {
+   "hook": 8,
+   "originality": 8,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "status": "queued",
+  "produced_at": 1795507263,
+  "log": [],
+  "dm_keyword": "IMAGES",
+  "dm_text": "Here is how to automate your product images: 1. Install Zapier in your AI tool (Claude, ChatGPT, or Cursor). 2. Connect Google Sheets and Google Drive to Zapier. 3. Use this prompt in your AI tool: 'When I add a new row to my product sheet, generate the image and save it to my Google Drive folder.' 4. Review the Zap drafted by your agent and deploy it. Once active, the workflow will run automatically whenever you add new product data to your sheet. Full details here: https://zapier.com/blog/automate-ai-images",
+  "presenter": {
+   "status": "waiting",
+   "takes": [
+    {
+     "n": 1,
+     "kind": "talk",
+     "talk": 1,
+     "line": "Naye stock ki photos har baar download aur rename karna band karo, yeh bohot purana tarika hai.",
+     "visual_scene": -1,
+     "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: medium close-up with a slow, smooth push-in towards his face. Shakes his head gently and adjusts his navy overshirt. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Naye stock ki photos har baar download aur rename karna band karo, yeh bohot purana tarika hai.\" No subtitles, no on-screen text, no music, no other people.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    },
+    {
+     "n": 2,
+     "kind": "talk",
+     "talk": 2,
+     "line": "Bas Zapier ko apne AI agent se connect karo, Google Sheet mein row add hote hi image ready.",
+     "visual_scene": -1,
+     "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: medium shot from slightly to his left (about 20 degrees), camera steady. Taps his hand lightly to emphasize the effortless workflow. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Bas Zapier ko apne AI agent se connect karo, Google Sheet mein row add hote hi image ready.\" No subtitles, no on-screen text, no music, no other people.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    },
+    {
+     "n": 3,
+     "kind": "broll",
+     "cover": 2,
+     "desc": "close-up of hands typing product details into a laptop resting on a wooden shop counter",
+     "prompt": "Create a realistic vertical 9:16 video of about 8 seconds: close-up of hands typing product details into a laptop resting on a wooden shop counter. Indian small-business setting, warm natural light, handheld smartphone-camera look, slow subtle camera movement, shallow depth of field. No faces, no readable text, no brand names or logos, no subtitles, no speech, no music.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    },
+    {
+     "n": 4,
+     "kind": "talk",
+     "talk": 3,
+     "line": "Comment IMAGES, main aapko yeh poora image automation setup ka step-by-step guide DM kar dunga.",
+     "visual_scene": -1,
+     "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: close-up, camera steady at eye level. Smiles warmly and leans in slightly towards the camera lens. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Comment IMAGES, main aapko yeh poora image automation setup ka step-by-step guide DM kar dunga.\" No subtitles, no on-screen text, no music, no other people.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    }
+   ],
+   "material": "[65] Zapier Blog — How to automate AI image generation with your AI agent and Zapier\nURL: https://zapier.com/blog/automate-ai-images\nYour AI agent can already write a prompt, generate an image, and suggest ten variations. The trouble is that the image stays in the chat. Someone still has to download it, rename it, drop it into the brief, and send it to the person who asked.\nYou can set all of that up from the AI tool you already use. Install Zapier in Claude, ChatGPT, or Cursor, tell your agent where image requests come from and where the finished images should land, and it builds the Zap for you. Zapier runs it from there, even after you close the chat. And if you'd rather build in Zapier itself, you can do that too.\nBuild automations from wherever you work. Describe the outcome you want, and Zapier connects your tools, runs the steps, and stays on the job after you close the chat. Combine AI with reliable, deterministic automation across 10,000+ apps. Get started for free.\nAutomate AI image generation from your AI assistant\nWhy automate AI image generation with Zapier\nAI image automations to ask your agent to build\nAutomate AI image generation from your AI assistant\nThis is what the setup looks like when you start in your AI tool:\nInstall Zapier in your AI tool. Add Zapier to your AI assistant as a connector or a custom MCP server, and connect the apps you use, like Notion, Google Sheets, and Trello. You connect once, and the same connections work from Claude, ChatGPT, Cursor, or any AI tool you like.\nDescribe the job. Tell your agent what you want in plain language: \"When someone posts a prompt in #image-requests in Slack, generate an image with ChatGPT and reply in the thread with the result.\"\nYour agent turns it into a Zap. A Zap is an automated workflow that runs on its own. Your agent drafts it, deploys it to Zapier, and shows you what it built, so you can check the prompt, the image size, and where the result goes.\nZapier runs it. The Zap starts the moment a request arrives, whether that's a Slack message, a form response, or a new spreadsheet row, and it keeps running with your laptop closed.\nWith 10,000+ apps behind it, the same setup can send finished images to Slack, Google Drive, Dropbox, or wherever your team keeps its creative work.\nWhy automate AI image generation with Zapier\nYour AI tool can already make an image when you ask. Putting Zapier behind it adds a few things a chat window can't:\nIt starts when something happens. Scheduled tasks inside an AI tool fire at a set time, whether or not anyone asked for anything. A Zap can run on a schedule, but it can also start when a Slack message comes in, a form is submitted, or a row lands in your content calendar, so the image is ready when the request is.\nIt reaches your whole stack. Zapier connects to 10,000+ apps. Built-in connectors in an AI tool tend to cover the basics, like reading a file or posting a message. Your agent can go further, like generating an image from a Trello card and attaching it back to that card, or saving each finished image to a Google Drive folder and posting the link in Slack.\nIt runs the same way every time. Your image Zap passes along the prompt, applies the same size and style settings, and delivers the result to the same place on Monday as it does on Friday. Zaps use AI only for the steps that need judgment, like turning a rough brief into a polished prompt, and run everything else as regular steps, which are faster and cheaper.\nIt fixes itself. If your OpenAI connection stops working or a Google Form question gets renamed, Zapier flags it. Zapier logs every run, finds the problem when something breaks, and proposes a fix you can approve, or lets Zapier apply fixes on its own. Over time, Zapier can also turn repeated AI steps, like cleaning up a prompt the same way each time, into regular ones, so your Zaps get cheaper and steadier the longer they run.\nYour agent gets access, not your keys. Zapier manages the connections to your apps, so you never paste passwords or API keys into a chat. Switch from Claude to ChatGPT, or try a new AI tool, and your connections stay put. Everything you build, from any AI tool, shows up in one place in Zapier.\nYou could also ask your agent to write a script that watches for requests and calls an image API, and the first version will probably run fine. What follows is the upkeep: the script needs somewhere to live, a way to notice a new request, and someone to restart it when an API changes or a key expires. With Zapier, your agent builds the Zap, Zapier hosts it and runs it from real triggers (a schedule, a webhook, or an app event), and keeps your connections working.\nAI image automations to ask your agent to build\nNot sure what to ask for? Paste one of these into Claude, ChatGPT, or Cursor with Zapier installed, and swap in the apps your team uses.\nDraft the prompt for you. \"When I move a Trello card to the Ready for art list, write an image prompt from the card's title and description, generate the image with ChatGPT, and attach it to the card.\"\nPost on a schedule. \"Every weekday at 9 a.m., take the next prompt from my Google Sheet, generate an image, and post it in #inspiration in Slack.\"\nAdd a human check. \"When a new post draft is added to my Airtable content calendar, generate a matching image and send me the preview in Slack so I can review it before it's attached.\"\nMake size variants. \"When I add a new row to my product sheet, generate the image in square and landscape sizes and save both to a Google Drive folder.\"\nPrep event visuals. \"When I add a Google Calendar event with Webinar in the title, generate a cover image from the title and description and email it to me.\"\nPrefer to start from a template? The sections below include pre-made Zaps for the most common ways to automate AI images. Click \"Try it\" on any of them to open it in Zapier and finish setting it up there. If you'd rather have your agent build the automation for you, use one of the prompts above instead.\nIf you're the only person with an account for an AI image-generating tool and want to give your team access, why not bring the tool right into your team chat tool? That way, your team can create images without context switching.\nWith Zapier, you can build a Zap that lets your entire team create AI-generated images simply by typing the prompt into Slack or Discord .\nNow, you and your team can create images right when you think of an idea without any need to context switch.\nCreate images with ChatGPT based on Slack messages and send as a channel message\nGenerate images from new Discord channel messages with Eden AI\nGenerate AI images with ChatGPT from new Discord messages\nForms are a user-friendly way to give people access to AI image tools. With the Zaps below, you can send people a link to a form where they enter their email address and a prompt, and Zapier will send their prompt to OpenAI to generate the image, then email the image to that user right after their form is submitted.\nGenerate images with ChatGPT based on Google Form responses and save them in Google Sheets\nCreate generations in Prodia\n\n[68] Zapier Blog — Google Sheets automation ideas to organize your work\nURL: https://zapier.com/blog/automate-google-sheets\nYour AI assistant is great at helping you write a formula, clean up a messy column, or summarize a tab. Then you close the chat, and the spreadsheet is still waiting on you to paste in last night's leads, log the new orders, and ping the team about the row someone just changed.\nHere's a way to hand that work off. Install Zapier in your AI assistant, describe what should land in your Google Sheet and when, and your agent builds the automation. Zapier keeps it running from there, long after the chat is closed. If you'd rather skip the agent, you can build the same thing in Zapier directly. Either way, the Zap behaves the same.\nBuild Google Sheets automations from your AI assistant\nGoogle Sheets automations to ask your agent to build\n",
+   "scenes": [
+    {
+     "purpose": "Hook the viewer with a relatable problem.",
+     "narration": "Shop ka naya stock aaya? AI images automation setup karo.",
+     "on_screen": "New stock images automation",
+     "visual_type": "text",
+     "url": "",
+     "query": "",
+     "headline": "Stop manual image work",
+     "steps": [],
+     "items": [],
+     "left_label": "",
+     "right_label": "",
+     "rows": []
+    },
+    {
+     "purpose": "Explain the manual vs automated pain point.",
+     "narration": "Har baar images download aur rename karna purana tarika hai.",
+     "on_screen": "Manual work is slow",
+     "visual_type": "compare",
+     "url": "",
+     "query": "",
+     "headline": "Why automate",
+     "steps": [],
+     "items": [],
+     "left_label": "Manual",
+     "right_label": "Automated",
+     "rows": [
+      {
+       "left": "Manual download",
+       "right": "Auto save to Drive"
+      },
+      {
+       "left": "Renaming files",
+       "right": "Auto file naming"
+      },
+      {
+       "left": "Manual sorting",
+       "right": "Auto folder sync"
+      }
+     ]
+    },
+    {
+     "purpose": "Explain the Zapier + AI agent setup.",
+     "narration": "Zapier ko apne AI agent se connect karo.",
+     "on_screen": "Connect Zapier to AI",
+     "visual_type": "diagram",
+     "url": "",
+     "query": "",
+     "headline": "Easy setup",
+     "steps": [
+      "Install Zapier in AI tool",
+      "Describe your workflow",
+      "Deploy the automated Zap"
+     ],
+     "items": [],
+     "left_label": "",
+     "right_label": "",
+     "rows": []
+    },
+    {
+     "purpose": "Show the practical workflow.",
+     "narration": "Google Sheet mein row add karo aur image ready ho jayegi.",
+     "on_screen": "Sheet row = Image",
+     "visual_type": "checklist",
+     "url": "",
+     "query": "",
+     "headline": "Workflow logic",
+     "steps": [],
+     "items": [
+      "New sheet row trigger",
+      "AI generates product image",
+      "Save to Google Drive"
+     ],
+     "left_label": "",
+     "right_label": "",
+     "rows": []
+    },
+    {
+     "purpose": "Final payoff and CTA.",
+     "narration": "Comment IMAGES, main aapko automation ka step-by-step guide DM kar dunga.",
+     "on_screen": "Comment IMAGES",
+     "visual_type": "text",
+     "url": "",
+     "query": "",
+     "headline": "Get the guide",
+     "steps": [],
+     "items": [],
+     "left_label": "",
+     "right_label": "",
+     "rows": []
+    }
+   ],
+   "composed_from": null,
+   "hook_title": "Automate Your AI Images",
+   "cta": "Comment IMAGES for full guide"
+  }
+ },
+ {
+  "id": "C1-2026-11-24",
+  "kind": "carousel",
+  "date": "2026-11-24",
+  "slot": "2026-11-24T09:00",
+  "dir": "output/2026-11-24/C1-2026-11-24/try3",
+  "files": [
+   "slide_01.jpg",
+   "slide_02.jpg",
+   "slide_03.jpg",
+   "slide_04.jpg",
+   "slide_05.jpg",
+   "slide_06.jpg"
+  ],
+  "caption": "RBI is planning a major shift in how small businesses handle digital payment security. By 2027, banks will be required to provide a 'Stop Switch' to instantly freeze outgoing debits, giving you a way to pause your account if you suspect a scam. This is a preventive step that complements existing liability protections. While we wait for these to roll out, review your current bank app settings for transaction limits and channel disabling options. Does your current bank app allow you to disable UPI or netbanking instantly if you lose your phone? Let us know which bank you use below.\n\n#SmallBusinessIndia #UPI #CyberSecurity #BusinessBanking #RBI",
+  "topic": "RBI Stop Switch Protocol for Digital Payment Fraud Protection in Small Businesses",
+  "format": "checklist",
+  "hook": "RBI's upcoming 2027 plan to kill UPI fraud.",
+  "keywords": [
+   "RBI Stop Switch",
+   "UPI fraud prevention",
+   "business account security",
+   "digital payment safety",
+   "RBI draft directions 2026"
+  ],
+  "scores": {
+   "hook": 9,
+   "originality": 8,
+   "practical_value": 8,
+   "natural_language": 9,
+   "accuracy": 9,
+   "narrative": 9,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 10,
+   "publish_readiness": 9
+  },
+  "status": "queued",
+  "produced_at": 1795507263,
+  "log": [],
+  "dm_keyword": "",
+  "dm_text": ""
  }
 ]

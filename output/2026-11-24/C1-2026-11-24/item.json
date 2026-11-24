@@ -1,0 +1,249 @@
+{
+ "kind": "carousel",
+ "idea": {
+  "idea": "RBI Stop Switch Protocol for Digital Payment Fraud Protection in Small Businesses",
+  "angle": "How small merchants can leverage RBI's proposed account-wide Stop Switch to immediately halt unauthorized UPI/netbanking drains during scams.",
+  "audience_problem": "Small business owners worry about shop account UPI phishing scams draining business funds with no instant kill-switch.",
+  "format": "checklist",
+  "medium": "carousel",
+  "source_ids": [
+   76
+  ],
+  "evergreen": false,
+  "keywords": [
+   "RBI",
+   "Stop Switch",
+   "payment fraud",
+   "cyber security",
+   "UPI safety"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 8,
+   "hook_potential": 9,
+   "retention": 7,
+   "save_share": 9,
+   "feasibility": 9,
+   "evidence": 9,
+   "viral": 9
+  },
+  "total": 8.67
+ },
+ "piece": {
+  "hooks": [
+   "RBI's upcoming 2027 plan to kill UPI fraud.",
+   "Stop your shop account from draining during a scam.",
+   "New RBI rules to protect your business bank account."
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "It clearly frames the content as a regulatory update for 2027, avoiding the false promise of an immediate fix while highlighting the specific benefit (fraud prevention).",
+  "slides": [
+   {
+    "kind": "cover",
+    "title": "RBI's upcoming 2027 plan to kill UPI fraud.",
+    "subtitle": "How the new account-wide Stop Switch will protect business funds from scams.",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "point",
+    "title": "What is the Stop Switch?",
+    "subtitle": "",
+    "body": "The RBI has proposed a new feature that lets account holders instantly disable all outgoing debits, new UPI registrations, and payment mandates to stop unauthorized drains during a fraud event.",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "compare",
+    "title": "What the Stop Switch affects",
+    "subtitle": "",
+    "body": "The switch is designed to isolate your account during a security emergency.",
+    "items": [],
+    "left_label": "Blocked",
+    "right_label": "Still Works",
+    "rows": [
+     {
+      "left": "Outgoing debits",
+      "right": "Incoming credits"
+     },
+     {
+      "left": "New UPI registrations",
+      "right": "Existing standing instructions"
+     },
+     {
+      "left": "New payment mandates",
+      "right": "Account view access"
+     }
+    ],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "checklist",
+    "title": "Proposed protection features",
+    "subtitle": "",
+    "body": "",
+    "items": [
+     "Trusted Person Mechanism for high-value transfers",
+     "Granular controls for individual payment channels",
+     "Default disable on new digital channels",
+     "24-hour cooling-off period for TPM changes",
+     "Daily aggregate transaction limits"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "quote",
+    "title": "The official proposal",
+    "subtitle": "",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "Banks will have to provide a Stop Switch that allows customers to immediately disable all outgoing debits, new payment mandates and new UPI app registrations.",
+    "attribution": "Reserve Bank of India Draft Directions 2026"
+   },
+   {
+    "kind": "summary",
+    "title": "Key takeaways for owners",
+    "subtitle": "",
+    "body": "",
+    "items": [
+     "Draft rules invite feedback until Dec 14, 2026",
+     "Expected effective date is July 1, 2027",
+     "Switch will be available via app, ATM, and IVR",
+     "Banks must verify trusted person eligibility"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   }
+  ],
+  "caption": "RBI is planning a major shift in how small businesses handle digital payment security. By 2027, banks will be required to provide a 'Stop Switch' to instantly freeze outgoing debits, giving you a way to pause your account if you suspect a scam. This is a preventive step that complements existing liability protections. While we wait for these to roll out, review your current bank app settings for transaction limits and channel disabling options. Does your current bank app allow you to disable UPI or netbanking instantly if you lose your phone? Let us know which bank you use below. #SmallBusinessIndia #UPI #CyberSecurity #BusinessBanking #RBI",
+  "hashtags": [
+   "#SmallBusinessIndia",
+   "#UPI",
+   "#CyberSecurity",
+   "#BusinessBanking",
+   "#RBI"
+  ],
+  "keywords": [
+   "RBI Stop Switch",
+   "UPI fraud prevention",
+   "business account security",
+   "digital payment safety",
+   "RBI draft directions 2026"
+  ],
+  "claims": [
+   {
+    "claim": "RBI proposed a Stop Switch to allow customers to disable outgoing debits, mandates, and UPI registrations.",
+    "source_id": 76
+   },
+   {
+    "claim": "The Stop Switch does not block incoming credits or existing standing instructions.",
+    "source_id": 76
+   },
+   {
+    "claim": "The proposed rules are set to take effect from July 1, 2027.",
+    "source_id": 76
+   },
+   {
+    "claim": "The Trusted Person Mechanism requires a one-hour window for transaction approval.",
+    "source_id": 76
+   },
+   {
+    "claim": "Feedback on the draft directions is invited until December 14, 2026.",
+    "source_id": 76
+   }
+  ]
+ },
+ "review": {
+  "scores": {
+   "hook": 9,
+   "originality": 8,
+   "practical_value": 8,
+   "natural_language": 9,
+   "accuracy": 9,
+   "narrative": 9,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 10,
+   "publish_readiness": 9
+  },
+  "claims": [
+   {
+    "claim": "RBI proposed a Stop Switch to allow customers to disable outgoing debits, mandates, and UPI registrations.",
+    "supported": true
+   },
+   {
+    "claim": "The Stop Switch does not block incoming credits or existing standing instructions.",
+    "supported": true
+   },
+   {
+    "claim": "The proposed rules are set to take effect from July 1, 2027.",
+    "supported": true
+   },
+   {
+    "claim": "The Trusted Person Mechanism requires a one-hour window for transaction approval.",
+    "supported": true
+   },
+   {
+    "claim": "Feedback on the draft directions is invited until December 14, 2026.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [],
+  "issues": [
+   "The caption mentions 'review your current bank app settings' but the carousel doesn't provide a specific, actionable tip on how to do that (e.g., 'Look for Security or Card Control settings').",
+   "The Trusted Person Mechanism claim in the carousel body is missing the specific detail about the one-hour approval window, which is a key piece of information for the user."
+  ],
+  "fix_instructions": "The carousel is excellent and ready for publication. To make it perfect, add one small slide or update the 'Key Takeaways' slide to mention that the Trusted Person Mechanism requires approval within a one-hour window. In the caption, add a brief sentence: 'Check your bank app's 'Card Controls' or 'Security' section today to see what you can already disable.' This bridges the gap between the future regulation and current actionable steps."
+ },
+ "rules": [],
+ "reasons": [],
+ "meta": {
+  "ai_visuals": false,
+  "slides": 6
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-24/C1-2026-11-24/try3",
+ "attempt": 3,
+ "approved": true,
+ "hook": "RBI's upcoming 2027 plan to kill UPI fraud.",
+ "log": [
+  "attempt 1: fail {'hook': 8, 'originality': 7, 'practical_value': 9, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} [\"spelling: Slide 1: 'a immediate' should be 'an immediate'\"]",
+  "attempt 2: fail {'hook': 6, 'originality': 6, 'practical_value': 4, 'natural_language': 7, 'accuracy': 9, 'narrative': 6, 'visual_integrity': 6, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 5} ['hook 6/10 (<8)', 'originality 6/10 (<8)', 'practical_value 4/10 (<8)', 'natural_language 7/10 (<8)']",
+  "attempt 3: PASS {'hook': 9, 'originality': 8, 'practical_value': 8, 'natural_language': 9, 'accuracy': 9, 'narrative': 9, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 10, 'publish_readiness': 9} []"
+ ],
+ "material": "[76] Inc42 — RBI Proposes ‘Stop Switch’ To Block Digital Payment Frauds\nURL: https://inc42.com/buzz/rbi-proposes-stop-switch-to-block-digital-payment-frauds/\nRBI Proposes ‘Stop Switch’ To Block Digital Payment Frauds --> tag --> Skip to content RBI Proposes ‘Stop Switch’ To Block Digital Payment Frauds --> SHARE Share on Facebook\nSUMMARY The RBI has proposed measures like an account-wide ‘Stop Switch’, a ‘Trusted Person Mechanism’, and granular customer controls over digital payments\nAfter directives to limit customers’ liability in digital frauds, these new protections will help customers take a proactive and preventive approach\nThe ‘Stop Switch’ would disable outgoing debits while the Trusted Person Mechanism would serve as an additional authentication layer for high-value transfers\nAdded to Saved Stories in Login VIEW SAVED STORIES\nThe Reserve Bank of India (RBI) has proposed a set of safeguards against electronic payment frauds, including an account-wide ‘Stop Switch’ and a ‘Trusted Person Mechanism’ (TPM) for high-value transactions.\nThe central bank has invited feedback on the draft directions by December 14, 2026, with the proposed rules set to come into effect from July 1, 2027.\nUnder the Draft Reserve Bank of India (Commercial Banks – Responsible Business Conduct) Fifth Amendment Directions, 2026, banks will have to provide a ‘Stop Switch’ that allows customers to immediately disable all outgoing debits, new payment mandates and new UPI app registrations.\nThe switch will not block incoming credits or existing standing instructions. Customers will be able to activate, modify or deactivate it through bank branches, ATMs, mobile apps, internet banking and interactive voice response (IVR) services.\nBanks will also have to ensure that re-enabling digital payment channels or deactivating the Stop Switch requires at least the same level of authentication as its activation.\nThe RBI has also proposed a voluntary Trusted Person Mechanism (TPM) for high-value transfers. Under this facility, account holders can nominate an adult as an additional authentication layer for transactions above a specified threshold.\nThe nominated person will have to approve such transactions within a one-hour window. However, the trusted person will not have any legal authority over the account or access to its details.\nBanks will be responsible for verifying the identity and eligibility of nominated individuals. Any activation or modification of the TPM will also be subject to a 24-hour cooling-off period.\nThe RBI had first floated a similar proposal in June this year, suggesting an additional authentication layer for digital transactions above ₹10,000 made by citizens aged 70 and above.\nBeyond these measures, banks will have to offer customers granular controls over their digital payment channels. These will include options to enable or disable individual channels, set time windows for their deactivation and establish transaction limits per transfer, per beneficiary or through aggregate daily caps.\nThe draft also proposes that all digital payment channels remain disabled by default during customer onboarding and be activated only with explicit consent.\nFurther, newly issued physical and virtual cards will be restricted by default to domestic contact-based ATM and point-of-sale (POS) transactions. Newly enabled digital payment channels will also be subject to a transfer limit determined by the bank for the first 24 hours.\nEarlier this year, the central bank issued directions requiring banks to compensate eligible victims of digital payment frauds. The latest proposals take a more preventive approach, giving customers greater control over payment channels and adding authentication safeguards to help stop fraudulent transactions before they are completed.\nPartner With Inc42 Inc42 Startup Spotlight\nIndian startup stories decoded daily. Up to 10 stories a day, at 9am. 70,000+ companies. All in the app. Track funding, investors and company financials DOWNLOAD INC42 APP Continue on Web Stories Profiles Not Finding what you are looking for? Advanced filter You have reached your limit of free stories want to read the full story? Unlock This Story & Enjoy All Members-Only Benefits With Inc42 Plus.\nUnlock special offers and join 10,000+ founders, investors & operators staying ahead in India’s startup economy.\nOffer Ends In --> 3 YEAR PLAN ₹29999 ₹7999 ₹222/Month --> UNLOCK 73% OFF Become a member Cancel Anytime 2 YEAR PLAN ₹19999 ₹5999 ₹249/Month --> UNLOCK 70% OFF Become a member Cancel Anytime 1 YEAR PLAN ₹9999 ₹3499 ₹291/Month --> UNLOCK 65% OFF Become a member Cancel Anytime Become a member ₹ 7999 Cancel Anytime Already A Member? Sign In Here Discover Startups & Business Models Unleash your potential by exploring unlimited articles, trackers, and playbooks. Identify the hottest startup deals, supercharge your innovation projects, and stay updated with expert curation.\nEmpower yourself with comprehensive playbooks, expert analysis, and invaluable insights. Learn to validate ideas, acquire customers, secure funding, and navigate the journey to startup success.\nAccess 75+ in-depth reports on frontier industries. Gain exclusive market intelligence, understand market landscapes, and decode emerging trends to make informed decisions.\nStay ahead with startup and funding trackers. Analyse investment strategies, profile successful investors, and keep track of upcoming funds, accelerators, and more.\nJoin a community of 10,000+ leaders & operators – unlock unlimited access to Inc42 stories, videos, deals, member-only perks, and more.\nUnlock unlimited access to 500+ monthly new stories and Inc42’s complete archive of 40,000+ stories.\nUnlock unlimited access to 500+ monthly new stories and Inc42’s complete archive of 40,000+ stories.\nOver $250,000 worth deals on software & tools to help your business scale up.\nNetwork with industry leaders & operators with exclusive invites to Inc42’s member-only virtual events\nEnjoy an ad-free and clutter-free experience as a member, focus on what really matters to you\nYour contribution will go on to support and empower our unbiased & data-driven journalism\nJoin 1000's of entrepreneurs, business leaders & makers and stay ahead with our sharp, incisive & data-driven analysis on India’s tech and startup economy!\nGet Smart On Fintech & Financial Services — Sign Up Free To Read This & More\nUnlock personalised stories, ad-lite reading, and exclusive newsletters on Inc42.\n-- Already Have An Account? Login here --\nGet The Week’s Most Consequential Developments.\nInc42 In-Depth is your daily 9 PM newsletter with sharp insights from India’s startup economy.\nInc42 Moneyball is your Thursday newsletter on India’s venture capital trends. 4 PM sharp.\nThe Indian Startup Economy Is Going Public. Decode It First.\nInc42 Markets is your weekly newsletter on tech IPOs & startup stocks. Every Sunday\nget access to a list of 200+ family offices betting big on startups\nGet access to a list of Alma Mater Of India's Unicorn & Soonicorn Founders\nExplore 75,000+ startups, 3,500+ investors, 25,000+ funding rounds and more. Build shortlists and export them ins",
+ "id": "C1-2026-11-24",
+ "caption_final": "RBI is planning a major shift in how small businesses handle digital payment security. By 2027, banks will be required to provide a 'Stop Switch' to instantly freeze outgoing debits, giving you a way to pause your account if you suspect a scam. This is a preventive step that complements existing liability protections. While we wait for these to roll out, review your current bank app settings for transaction limits and channel disabling options. Does your current bank app allow you to disable UPI or netbanking instantly if you lose your phone? Let us know which bank you use below.\n\n#SmallBusinessIndia #UPI #CyberSecurity #BusinessBanking #RBI"
+}

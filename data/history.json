@@ -982,5 +982,37 @@
   "status": "published",
   "media_id": "18158665822534590",
   "permalink": "https://www.instagram.com/p/DgFHO-qFi16/"
+ },
+ {
+  "id": "R3-2026-11-24",
+  "date": "2026-11-24",
+  "kind": "reel",
+  "format": "tutorial",
+  "topic": "Automating Product Marketing Images with Zapier and AI Image Generators",
+  "hook": "Shop ka naya stock aaya? AI images automation setup karo.",
+  "keywords": [
+   "AI automation for business",
+   "Zapier image generation",
+   "Product catalog automation",
+   "Google Sheets automation",
+   "AI marketing tools"
+  ],
+  "status": "queued"
+ },
+ {
+  "id": "C1-2026-11-24",
+  "date": "2026-11-24",
+  "kind": "carousel",
+  "format": "checklist",
+  "topic": "RBI Stop Switch Protocol for Digital Payment Fraud Protection in Small Businesses",
+  "hook": "RBI's upcoming 2027 plan to kill UPI fraud.",
+  "keywords": [
+   "RBI Stop Switch",
+   "UPI fraud prevention",
+   "business account security",
+   "digital payment safety",
+   "RBI draft directions 2026"
+  ],
+  "status": "queued"
  }
 ]

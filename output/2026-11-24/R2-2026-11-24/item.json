@@ -1,0 +1,275 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Sarvam Dictate API: Voice-to-Text in 22 Indian Languages for Field and Shop Floor Staff",
+  "angle": "Field staff can now record daily stock and order updates in regional Hindi, Marathi, or Gujarati, converting spoken audio directly into structured text without typing.",
+  "audience_problem": "Shop workers and field contractors struggle to type long daily reports and order updates in English, leading to missing data.",
+  "format": "tool_test",
+  "medium": "reel",
+  "source_ids": [
+   70
+  ],
+  "evergreen": true,
+  "keywords": [
+   "Sarvam AI",
+   "voice dictation",
+   "Indian languages",
+   "field automation",
+   "data entry"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 9,
+   "hook_potential": 8,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 8,
+   "evidence": 9,
+   "viral": 8
+  },
+  "total": 8.5
+ },
+ "piece": {
+  "hooks": [
+   "Field workers ka voice audio clean text mein convert karo.",
+   "Hindi aur Hinglish voice notes se text report banao.",
+   "Field staff ke Hindi voice reports bina typing ke text banao.",
+   "Shop floor stock audio report sirf 50 paise mein text banao.",
+   "Daily audio updates ko automatic clean text mein badlo."
+  ],
+  "chosen_hook": 2,
+  "hook_reason": "Directly addresses field contractors and shop floor reporting challenges in regional languages without typing.",
+  "title": "Convert Regional Voice Notes to Text for Staff",
+  "scenes": [
+   {
+    "purpose": "Hook",
+    "narration": "Field staff ke Hindi voice reports bina typing ke text banao.",
+    "on_screen": "Voice to text automation",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Voice to Text for Staff",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Introduce tool and language support",
+    "narration": "Sarvam Dictate API 22 Indian languages aur Hinglish audio ko text mein badalta hai.",
+    "on_screen": "22 Indian languages support",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "22 Indian Languages",
+     "Hinglish Support",
+     "Raw and Edited Text"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Explain auto-clean capability",
+    "narration": "Aap audio me beech me bhasha badlo ya repeat karo, ye text clean kar deta hai.",
+    "on_screen": "Auto clean up capability",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "Spoken Voice Audio",
+     "Language Switch Cleanup",
+     "Clean Text Output"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Explain technical term customization",
+    "narration": "Isme 1000 product names aur contextual details bhi pass kar sakte ho.",
+    "on_screen": "1000 custom terms",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "1000 Product Names",
+     "CRM and Stock Context",
+     "Native or Latin Script"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Show pricing comparison",
+    "narration": "Iski pricing sirf 50 paise per minute audio hai.",
+    "on_screen": "Cost Rs 0.50 per min",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "Feature",
+    "right_label": "Sarvam Dictate",
+    "rows": [
+     {
+      "left": "Cost",
+      "right": "Rs 0.50 per min"
+     },
+     {
+      "left": "Languages",
+      "right": "22 Indian plus English"
+     }
+    ]
+   },
+   {
+    "purpose": "Call to action with DM keyword",
+    "narration": "Dictate se voice reporting kaise setup karein, details ke liye Comment DICTATE, main aapko steps DM kar dunga.",
+    "on_screen": "Comment DICTATE",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Comment DICTATE for steps",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "How to convert regional Hindi voice notes into clean business text automatically. If your field workers or shop staff struggle to type long daily stock logs or order updates in English, voice dictation solves it. Sarvam Dictate API turns audio in 22 Indian languages and Hinglish into clean formatted text. It handles language switching mid-sentence and cleans up pauses. You can even feed up to 1000 custom product terms per request to keep technical entries accurate. How do your team members currently log daily updates from the field? Comment DICTATE for key details.",
+  "hashtags": [
+   "#VoiceAI",
+   "#IndianBusiness",
+   "#AutomationTools",
+   "#SarvamAI"
+  ],
+  "keywords": [
+   "voice dictation API",
+   "Indian language speech to text",
+   "Hinglish voice to text",
+   "field staff reporting",
+   "Sarvam Dictate"
+  ],
+  "claims": [
+   {
+    "claim": "Sarvam Dictate API supports English and 22 Indian languages.",
+    "source_id": 70
+   },
+   {
+    "claim": "Sarvam Dictate is priced at ₹0.50 per minute of audio.",
+    "source_id": 70
+   },
+   {
+    "claim": "It combines speech recognition model Saaras V4 with Sarvam 105B LLM for editing in a single API call.",
+    "source_id": 70
+   },
+   {
+    "claim": "Developers can provide up to 1,000 names and technical terms per request.",
+    "source_id": 70
+   },
+   {
+    "claim": "It handles mid-sentence language switching between English and Indian languages.",
+    "source_id": 70
+   },
+   {
+    "claim": "Supports live dictation and uploaded recordings up to 1 hour.",
+    "source_id": 70
+   }
+  ],
+  "dm_keyword": "DICTATE",
+  "dm_text": "Sarvam Dictate API details for voice reporting:\n1. Supports 22 Indian languages, Hinglish, and English.\n2. Priced at Rs 0.50 per minute of audio.\n3. Combines speech recognition (Saaras V4) and editing (Sarvam 105B) in one API call.\n4. You can provide up to 1,000 product names/terms and CRM context per request.\n5. Output available in native scripts or Latin letters (Roman).\n6. Supports live dictation and recordings up to 1 hour."
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 7,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 7
+  },
+  "claims": [
+   {
+    "claim": "Sarvam Dictate API supports English and 22 Indian languages.",
+    "supported": true
+   },
+   {
+    "claim": "Sarvam Dictate is priced at ₹0.50 per minute of audio.",
+    "supported": true
+   },
+   {
+    "claim": "It handles mid-sentence language switching between English and Indian languages.",
+    "supported": true
+   },
+   {
+    "claim": "Developers can provide up to 1,000 names and technical terms per request.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Scene 1: The subtitle 'typing ke text banao' is slightly redundant as it repeats the core message of the headline.",
+   "Scene 5: The table formatting is clean, but the text 'Rs 0.50 per min' is repeated in the header and the row, creating unnecessary visual clutter."
+  ],
+  "issues": [
+   "The reel lacks a clear 'how-to' bridge; it explains what the tool is but doesn't explicitly state that this is an API for developers, which might confuse non-technical SMB owners who think they can just download an app.",
+   "The transition between 'what it is' and 'how to use it' is abrupt."
+  ],
+  "fix_instructions": "1. In Scene 1, clarify in the narration that this is for 'developers' or 'tech-enabled businesses' to avoid misleading non-technical users. 2. In Scene 5, remove the redundant 'Cost' row and keep only the 'Rs 0.50 per min' value to clean up the table. 3. Ensure the DM response includes a link to the API documentation or a developer-friendly landing page so users don't feel lost after the CTA."
+ },
+ "rules": [],
+ "reasons": [
+  "originality 7/10 (<8)",
+  "visual_integrity 7/10 (<8)"
+ ],
+ "meta": {
+  "duration": 34.1,
+  "voice": "edge",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-24/R2-2026-11-24/try4/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-24/R2-2026-11-24/try4/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-24/R2-2026-11-24/try4/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-24/R2-2026-11-24/try4/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-24/R2-2026-11-24/try4/scene_05.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-24/R2-2026-11-24/try4/scene_06.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   4.54,
+   6.69,
+   5.85,
+   5.54,
+   3.95,
+   7.57
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-24/R2-2026-11-24/try4",
+ "attempt": 4,
+ "approved": false,
+ "hook": "Field staff ke Hindi voice reports bina typing ke text banao.",
+ "log": [
+  "attempt 1: fail {'hook': 7, 'originality': 7, 'practical_value': 6, 'natural_language': 8, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['hook 7/10 (<8)', 'originality 7/10 (<8)', 'practical_value 6/10 (<8)', 'narrative 7/10 (<8)']",
+  "attempt 2: render failed (No audio was received. Please verify that your parameters are correct.)",
+  "attempt 3: render failed (No audio was received. Please verify that your parameters are correct.)",
+  "attempt 4: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'visual_integrity 7/10 (<8)']"
+ ],
+ "material": "[70] Inc42 — Sarvam AI Launches Dictation API For English, 22 Indian Languages\nURL: https://inc42.com/buzz/sarvam-ai-launches-dictation-api-for-english-22-indian-languages/\nSarvam AI Launches Dictation API For English, 22 Indian Languages --> tag --> Skip to content Sarvam AI Launches Dictation API For English, 22 Indian Languages --> SHARE Share on Facebook\nSUMMARY Sarvam AI has launched Sarvam Dictate, an API that lets developers integrate voice dictation in English and 22 Indian languages, priced at ₹0.50 per minute of audio\nSarvam’s launch, alongside Murf AI’s new speech-to-text model Finch, shows growing competition among Indian AI startups to power multilingual voice applications for businesses\nSarvam claims Dictate required 40% fewer character edits than Gemini 3.5 Transcribe for short English dictations and 47% fewer across Indian languages and Hinglish in its tests\nAdded to Saved Stories in Login VIEW SAVED STORIES\nAI unicorn Sarvam AI has launched Sarvam Dictate, an API that lets developers add voice dictation in English and 22 Indian languages to their applications.\nPriced at ₹0.50 per minute of audio, the service combines speech recognition with transcript editing in a single API call. It is designed to turn spoken inputs into text for messages, documents, and business records.\nDictate pairs the startup’s Saaras V4 speech recognition model with a version of its Sarvam 105B large language model trained for dictation. The first transcribes the audio, while the second edits the resulting text. Announcing the launch on X, Sarvam claimed that Dictate outperformed Google’s Gemini 3.5 Transcribe and AssemblyAI Dictation on a set of real-world dictation tests.\nAccording to the startup, for English dictations of up to one minute, the API required 40% fewer character edits than Gemini 3.5 Transcribe. Across Indian languages and Hinglish, the reduction stood at 47%.\nFor longer English dictations, Dictate required 11% fewer character edits than Gemini and 17% fewer than AssemblyAI.\nSarvam highlighted that its Dictate API is designed to account for the way people naturally speak, and can handle speakers switching between English and Indian languages mid-sentence, correcting themselves, and making false starts. It also cleans up pauses and repetitions to produce a more refined transcript.\nDevelopers can provide up to 1,000 names and technical terms per request, alongside contextual information such as customer relationship management (CRM) records, product lists, and a description of the situation.\nThey can also specify formatting preferences and choose how Indian languages and English appear in the output, including native scripts or Latin letters.\nThe API supports live dictation and uploaded recordings of up to an hour, returning both the raw transcript and edited text. Its documented applications include chat messages, sales records, forms, and meeting minutes. As per Sarvam, Dictate has already been tested through Kivi, its dictation application, where users have dictated more than 30 Mn words since launch.\nThe launch comes as AI developers increasingly integrate voice interfaces into applications for documentation, customer interactions, and data entry. Potential uses span customer support, telehealth, medical documentation, and sales record updates, extending the scope for Sarvam’s multilingual voice AI offerings.\nIndia’s linguistic diversity presents a significant opportunity for voice AI , with the domestic market projected to reach $1.8 Bn by 2030, according to Nasscom. Startups are developing speech-to-text models to tap this demand for multilingual applications.\nEarlier today, voice AI infrastructure startup Murf AI launched Finch, a streaming speech-to-text model that it claims ranks first across 11 Indian languages on the Voice of India benchmark, ahead of models from ElevenLabs, OpenAI, xAI, and Microsoft. Murf claims Finch delivers a time-to-final-segment of 50 milliseconds and supports code-mixed speech and optional voice isolation.\nSarvam’s latest launch also follows the rollout of Token Factory, a platform that gives enterprises API access to its own models alongside global open-weight models, including Google’s Gemma and China’s DeepSeek.\nToken Factory drew questions over whether Sarvam had used government-subsidised GPU capacity allocated for developing homegrown models to host foreign models. The startup subsequently clarified that the platform runs on privately procured GPUs.\nReiterating its focus on model development, Sarvam said it will launch more models across vision, speech, and edge AI over the next two weeks.\nPartner With Inc42 Inc42 Startup Spotlight\nIndian startup stories decoded daily. Up to 10 stories a day, at 9am. 70,000+ companies. All in the app. Track funding, investors and company financials DOWNLOAD INC42 APP Continue on Web Stories Profiles Not Finding what you are looking for? Advanced filter You have reached your limit of free stories want to read the full story? Unlock This Story & Enjoy All Members-Only Benefits With Inc42 Plus.\nUnlock special offers and join 10,000+ founders, investors & operators staying ahead in India’s startup economy.\nOffer Ends In --> 3 YEAR PLAN ₹29999 ₹7999 ₹222/Month --> UNLOCK 73% OFF Become a member Cancel Anytime 2 YEAR PLAN ₹19999 ₹5999 ₹249/Month --> UNLOCK 70% OFF Become a member Cancel Anytime 1 YEAR PLAN ₹9999 ₹3499 ₹291/Month --> UNLOCK 65% OFF Become a member Cancel Anytime Become a member ₹ 7999 Cancel Anytime Already A Member? Sign In Here Discover Startups & Business Models Unleash your potential by exploring unlimited articles, trackers, and playbooks. Identify the hottest startup deals, supercharge your innovation projects, and stay updated with expert curation.\nEmpower yourself with comprehensive playbooks, expert analysis, and invaluable insights. Learn to validate ideas, acquire customers, secure funding, and navigate the journey to startup success.\nAccess 75+ in-depth reports on frontier industries. Gain exclusive market intelligence, understand market landscapes, and decode emerging trends to make informed decisions.\nStay ahead with startup and funding trackers. Analyse investment strategies, profile successful investors, and keep track of upcoming funds, accelerators, and more.\nJoin a community of 10,000+ leaders & operators – unlock unlimited access to Inc42 stories, videos, deals, member-only perks, and more.\nUnlock unlimited access to 500+ monthly new stories and Inc42’s complete archive of 40,000+ stories.\nUnlock unlimited access to 500+ monthly new stories and Inc42’s complete archive of 40,000+ stories.\nOver $250,000 worth deals on software & tools to help your business scale up.\nNetwork with industry leaders & operators with exclusive invites to Inc42’s member-only virtual events\nEnjoy an ad-free and clutter-free experience as a member, focus on what really matters to you\nYour contribution will go on to support and empower our unbiased & data-driven journalism\nJoin 1000's of entrepreneurs, business leaders & makers and stay ahead with our sharp, incisive & data-driven analysis on India’s tech and startup economy!\nUnlock personalised stories, ",
+ "id": "R2-2026-11-24",
+ "caption_final": "How to convert regional Hindi voice notes into clean business text automatically. If your field workers or shop staff struggle to type long daily stock logs or order updates in English, voice dictation solves it. Sarvam Dictate API turns audio in 22 Indian languages and Hinglish into clean formatted text. It handles language switching mid-sentence and cleans up pauses. You can even feed up to 1000 custom product terms per request to keep technical entries accurate. How do your team members currently log daily updates from the field? Comment DICTATE for key details.\n\n#VoiceAI #IndianBusiness #AutomationTools #SarvamAI"
+}

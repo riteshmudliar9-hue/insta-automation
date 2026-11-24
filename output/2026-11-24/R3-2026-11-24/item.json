@@ -1,0 +1,235 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Automating Product Marketing Images with Zapier and AI Image Generators",
+  "angle": "Automatically push newly logged product catalog rows in Google Sheets into AI image workflows, placing ready creatives straight in Drive.",
+  "audience_problem": "Retailers spend hours copying product descriptions into AI image chats, manually downloading images, and sorting them into catalog folders.",
+  "format": "tutorial",
+  "medium": "reel",
+  "source_ids": [
+   65,
+   68
+  ],
+  "evergreen": true,
+  "keywords": [
+   "AI image generation",
+   "Zapier automation",
+   "retail marketing",
+   "e-commerce catalog"
+  ],
+  "scores": {
+   "relevance": 8,
+   "novelty": 8,
+   "hook_potential": 8,
+   "retention": 8,
+   "save_share": 8,
+   "feasibility": 9,
+   "evidence": 9,
+   "viral": 7
+  },
+  "total": 8.0
+ },
+ "piece": {
+  "hooks": [
+   "Product images ke liye har baar AI chat use karna band karo.",
+   "Naye stock ki images khud generate aur save karna band karo.",
+   "Shop ka naya stock aaya? AI images automation setup karo.",
+   "Har product ke liye manual image generate karna chhod do.",
+   "Manual image downloading aur sorting se pareshan ho?"
+  ],
+  "chosen_hook": 2,
+  "hook_reason": "It addresses a specific workflow pain point for shop owners and offers an immediate, automated alternative using the source material's logic.",
+  "title": "Automating Product Marketing Images",
+  "scenes": [
+   {
+    "purpose": "Hook the viewer with a relatable problem.",
+    "narration": "Shop ka naya stock aaya? AI images automation setup karo.",
+    "on_screen": "New stock images automation",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Stop manual image work",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Explain the manual vs automated pain point.",
+    "narration": "Har baar images download aur rename karna purana tarika hai.",
+    "on_screen": "Manual work is slow",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "Why automate",
+    "steps": [],
+    "items": [],
+    "left_label": "Manual",
+    "right_label": "Automated",
+    "rows": [
+     {
+      "left": "Manual download",
+      "right": "Auto save to Drive"
+     },
+     {
+      "left": "Renaming files",
+      "right": "Auto file naming"
+     },
+     {
+      "left": "Manual sorting",
+      "right": "Auto folder sync"
+     }
+    ]
+   },
+   {
+    "purpose": "Explain the Zapier + AI agent setup.",
+    "narration": "Zapier ko apne AI agent se connect karo.",
+    "on_screen": "Connect Zapier to AI",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "Easy setup",
+    "steps": [
+     "Install Zapier in AI tool",
+     "Describe your workflow",
+     "Deploy the automated Zap"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Show the practical workflow.",
+    "narration": "Google Sheet mein row add karo aur image ready ho jayegi.",
+    "on_screen": "Sheet row = Image",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "Workflow logic",
+    "steps": [],
+    "items": [
+     "New sheet row trigger",
+     "AI generates product image",
+     "Save to Google Drive"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Final payoff and CTA.",
+    "narration": "Comment IMAGES, main aapko automation ka step-by-step guide DM kar dunga.",
+    "on_screen": "Comment IMAGES",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Get the guide",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "Automate your product marketing image generation using AI and Zapier for faster catalog updates. Stop manually downloading AI-generated images and sorting them into folders. By connecting your AI assistant to Zapier, you can trigger image creation directly from a Google Sheet row. The images are then automatically saved to your Google Drive, ready for your website or social media. This setup works even when your laptop is closed and ensures consistent image sizes and styles every single time. It is a reliable way to keep your product catalog updated without the daily manual grind. Comment IMAGES for the step-by-step automation guide.",
+  "hashtags": [
+   "#SmallBusinessIndia",
+   "#Automation",
+   "#Zapier",
+   "#BusinessGrowth"
+  ],
+  "keywords": [
+   "AI automation for business",
+   "Zapier image generation",
+   "Product catalog automation",
+   "Google Sheets automation",
+   "AI marketing tools"
+  ],
+  "claims": [
+   {
+    "claim": "Zapier runs automations from your AI tool even after you close the chat.",
+    "source_id": 65
+   },
+   {
+    "claim": "Zapier can trigger automations from new Google Sheet rows.",
+    "source_id": 68
+   },
+   {
+    "claim": "You can generate images in specific sizes and save them to Google Drive automatically.",
+    "source_id": 65
+   }
+  ],
+  "dm_keyword": "IMAGES",
+  "dm_text": "Here is how to automate your product images: 1. Install Zapier in your AI tool (Claude, ChatGPT, or Cursor). 2. Connect Google Sheets and Google Drive to Zapier. 3. Use this prompt in your AI tool: 'When I add a new row to my product sheet, generate the image and save it to my Google Drive folder.' 4. Review the Zap drafted by your agent and deploy it. Once active, the workflow will run automatically whenever you add new product data to your sheet. Full details here: https://zapier.com/blog/automate-ai-images"
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 8,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "Zapier runs automations from your AI tool even after you close the chat.",
+    "supported": true,
+    "note": "Supported directly by source 65."
+   },
+   {
+    "claim": "Zapier can trigger automations from new Google Sheet rows.",
+    "supported": true,
+    "note": "Supported by sources 65 and 68."
+   },
+   {
+    "claim": "You can generate images in specific sizes and save them to Google Drive automatically.",
+    "supported": true,
+    "note": "Supported by source 65."
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [],
+  "issues": [],
+  "fix_instructions": "The content is accurate, visually clean, and practically aligned with Indian SMB workflow needs. Ready to publish as is."
+ },
+ "rules": [],
+ "reasons": [],
+ "meta": {
+  "duration": 26.5,
+  "voice": "edge",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-24/R3-2026-11-24/try2/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-24/R3-2026-11-24/try2/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-24/R3-2026-11-24/try2/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-24/R3-2026-11-24/try2/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-24/R3-2026-11-24/try2/scene_05.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   5.92,
+   5.2,
+   4.31,
+   4.84,
+   6.23
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-24/R3-2026-11-24/try2",
+ "attempt": 2,
+ "approved": true,
+ "hook": "Shop ka naya stock aaya? AI images automation setup karo.",
+ "log": [
+  "attempt 1: render failed (No audio was received. Please verify that your parameters are correct.)",
+  "attempt 2: PASS {'hook': 8, 'originality': 8, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} []"
+ ],
+ "material": "[65] Zapier Blog — How to automate AI image generation with your AI agent and Zapier\nURL: https://zapier.com/blog/automate-ai-images\nYour AI agent can already write a prompt, generate an image, and suggest ten variations. The trouble is that the image stays in the chat. Someone still has to download it, rename it, drop it into the brief, and send it to the person who asked.\nYou can set all of that up from the AI tool you already use. Install Zapier in Claude, ChatGPT, or Cursor, tell your agent where image requests come from and where the finished images should land, and it builds the Zap for you. Zapier runs it from there, even after you close the chat. And if you'd rather build in Zapier itself, you can do that too.\nBuild automations from wherever you work. Describe the outcome you want, and Zapier connects your tools, runs the steps, and stays on the job after you close the chat. Combine AI with reliable, deterministic automation across 10,000+ apps. Get started for free.\nAutomate AI image generation from your AI assistant\nWhy automate AI image generation with Zapier\nAI image automations to ask your agent to build\nAutomate AI image generation from your AI assistant\nThis is what the setup looks like when you start in your AI tool:\nInstall Zapier in your AI tool. Add Zapier to your AI assistant as a connector or a custom MCP server, and connect the apps you use, like Notion, Google Sheets, and Trello. You connect once, and the same connections work from Claude, ChatGPT, Cursor, or any AI tool you like.\nDescribe the job. Tell your agent what you want in plain language: \"When someone posts a prompt in #image-requests in Slack, generate an image with ChatGPT and reply in the thread with the result.\"\nYour agent turns it into a Zap. A Zap is an automated workflow that runs on its own. Your agent drafts it, deploys it to Zapier, and shows you what it built, so you can check the prompt, the image size, and where the result goes.\nZapier runs it. The Zap starts the moment a request arrives, whether that's a Slack message, a form response, or a new spreadsheet row, and it keeps running with your laptop closed.\nWith 10,000+ apps behind it, the same setup can send finished images to Slack, Google Drive, Dropbox, or wherever your team keeps its creative work.\nWhy automate AI image generation with Zapier\nYour AI tool can already make an image when you ask. Putting Zapier behind it adds a few things a chat window can't:\nIt starts when something happens. Scheduled tasks inside an AI tool fire at a set time, whether or not anyone asked for anything. A Zap can run on a schedule, but it can also start when a Slack message comes in, a form is submitted, or a row lands in your content calendar, so the image is ready when the request is.\nIt reaches your whole stack. Zapier connects to 10,000+ apps. Built-in connectors in an AI tool tend to cover the basics, like reading a file or posting a message. Your agent can go further, like generating an image from a Trello card and attaching it back to that card, or saving each finished image to a Google Drive folder and posting the link in Slack.\nIt runs the same way every time. Your image Zap passes along the prompt, applies the same size and style settings, and delivers the result to the same place on Monday as it does on Friday. Zaps use AI only for the steps that need judgment, like turning a rough brief into a polished prompt, and run everything else as regular steps, which are faster and cheaper.\nIt fixes itself. If your OpenAI connection stops working or a Google Form question gets renamed, Zapier flags it. Zapier logs every run, finds the problem when something breaks, and proposes a fix you can approve, or lets Zapier apply fixes on its own. Over time, Zapier can also turn repeated AI steps, like cleaning up a prompt the same way each time, into regular ones, so your Zaps get cheaper and steadier the longer they run.\nYour agent gets access, not your keys. Zapier manages the connections to your apps, so you never paste passwords or API keys into a chat. Switch from Claude to ChatGPT, or try a new AI tool, and your connections stay put. Everything you build, from any AI tool, shows up in one place in Zapier.\nYou could also ask your agent to write a script that watches for requests and calls an image API, and the first version will probably run fine. What follows is the upkeep: the script needs somewhere to live, a way to notice a new request, and someone to restart it when an API changes or a key expires. With Zapier, your agent builds the Zap, Zapier hosts it and runs it from real triggers (a schedule, a webhook, or an app event), and keeps your connections working.\nAI image automations to ask your agent to build\nNot sure what to ask for? Paste one of these into Claude, ChatGPT, or Cursor with Zapier installed, and swap in the apps your team uses.\nDraft the prompt for you. \"When I move a Trello card to the Ready for art list, write an image prompt from the card's title and description, generate the image with ChatGPT, and attach it to the card.\"\nPost on a schedule. \"Every weekday at 9 a.m., take the next prompt from my Google Sheet, generate an image, and post it in #inspiration in Slack.\"\nAdd a human check. \"When a new post draft is added to my Airtable content calendar, generate a matching image and send me the preview in Slack so I can review it before it's attached.\"\nMake size variants. \"When I add a new row to my product sheet, generate the image in square and landscape sizes and save both to a Google Drive folder.\"\nPrep event visuals. \"When I add a Google Calendar event with Webinar in the title, generate a cover image from the title and description and email it to me.\"\nPrefer to start from a template? The sections below include pre-made Zaps for the most common ways to automate AI images. Click \"Try it\" on any of them to open it in Zapier and finish setting it up there. If you'd rather have your agent build the automation for you, use one of the prompts above instead.\nIf you're the only person with an account for an AI image-generating tool and want to give your team access, why not bring the tool right into your team chat tool? That way, your team can create images without context switching.\nWith Zapier, you can build a Zap that lets your entire team create AI-generated images simply by typing the prompt into Slack or Discord .\nNow, you and your team can create images right when you think of an idea without any need to context switch.\nCreate images with ChatGPT based on Slack messages and send as a channel message\nGenerate images from new Discord channel messages with Eden AI\nGenerate AI images with ChatGPT from new Discord messages\nForms are a user-friendly way to give people access to AI image tools. With the Zaps below, you can send people a link to a form where they enter their email address and a prompt, and Zapier will send their prompt to OpenAI to generate the image, then email the image to that user right after their form is submitted.\nGenerate images with ChatGPT based on Google Form responses and save them in Google Sheets\nCreate generations in Prodia\n\n[68] Zapier Blog — Google Sheets automation ideas to organize your work\nURL: https://zapier.com/blog/automate-google-sheets\nYour AI assistant is great at helping you write a formula, clean up a messy column, or summarize a tab. Then you close the chat, and the spreadsheet is still waiting on you to paste in last night's leads, log the new orders, and ping the team about the row someone just changed.\nHere's a way to hand that work off. Install Zapier in your AI assistant, describe what should land in your Google Sheet and when, and your agent builds the automation. Zapier keeps it running from there, long after the chat is closed. If you'd rather skip the agent, you can build the same thing in Zapier directly. Either way, the Zap behaves the same.\nBuild Google Sheets automations from your AI assistant\nGoogle Sheets automations to ask your agent to build\n6 ways to automate Google Sheets with Zap templates\nBuild automations from wherever you work. Describe the outcome you want, and Zapier connects your tools, runs the steps, and stays on the job after you close the chat. Combine AI with reliable, deterministic automation across 10,000+ apps. Get started for free.\nBuild Google Sheets automations from your AI assistant\nStarting from your AI tool takes four steps:\nInstall Zapier in your AI tool. In Claude, ChatGPT, or Cursor, add Zapier as a connector or custom MCP server (the link that lets an AI tool work with Zapier), then connect Google Sheets and the other apps you use. The same connections follow you from one AI tool to the next.\nDescribe the job. Say it the way you'd tell a coworker: \"When a new lead comes in from Facebook Lead Ads, add a row to my Leads sheet and tell me in Slack.\"\nYour agent builds the Zap. A Zap is an automated workflow that runs on its own. Your agent drafts it, sets it up in Zapier, and shows you what it built.\nZapier runs it. The Zap starts when something happens in your apps, like a new row, a new order, or a new email, or on a schedule you choose. It keeps going whether or not your laptop is open.\nZapier connects to 10,000+ apps, so the data in your spreadsheet can come from, and go to, almost anything else you use.\nYour AI tool can read and write a spreadsheet when you ask. A Zap keeps the sheet current without being asked, and that gets you a few things chat alone can't:\nIt starts when something happens. A scheduled task inside an AI tool wakes up at a set time and looks for news, whether or not there is any. A Zap starts the moment a Facebook lead arrives, a Shopify order comes through, or a teammate edits a row, so the sheet is up to date when you open it. Need a weekly roundup instead? A Zap can run on a schedule too.\nIt reaches your whole stack. Zapier connects to 10,000+ apps, so it can go further than built-in connectors and do things like creating an Asana task from every new row or sending a new Eventbrite registrant to one tab and a Slack alert to your team.\nIt runs the same way every time. The Zap that adds a row, formats the date, and posts to Slack does it identically on Monday and on Friday. Zaps use AI only for the steps that need judgment, like pulling the key details out of a Calendly intake answer or a PDF, and run everything else as regular steps, which are faster and cheaper.\nIt fixes itself. If your Google Sheets connection expires, or someone renames a tab or deletes a column your Zap writes to, the Zap keeps working. Zapier logs every run, finds the problem when something breaks, and proposes a fix you can approve, or lets Zapier apply fixes on its own. Over time, Zapier can also turn repeated AI steps, like tidying up company names, into regular ones, so your Zaps get cheaper and steadier the longer they run.\nYour agent gets access, not your keys. Zapier manages the connections to your spreadsheets, Gmail, Slack, and the rest, so you never paste an API key or a sign-in into a chat. Move from ChatGPT to Claude, or try a new AI tool, and your connections stay put. Everything you build, from any AI tool, shows up in one place in Zapier.\nYou could ask your agent to write a script for this, and the first version will probably work. But a script needs a trigger, somewhere to run, and someone to keep it alive. When a login expires or an API changes, it stops, and whatever keys it uses sit wherever the code was saved. With Zapier, your agent builds the Zap, Zapier hosts it and runs it from real triggers (an app event, a webhook, or a schedule), and keeps your connections working.\nGoogle Sheets automations to ask your agent to build\nWith Zapier installed in Claude, ChatGPT, or Cursor, try one of these prompts. Swap in your own sheet names and apps.\nCollect leads. \"When a new lead comes in from Facebook Lead Ads, add a row to my Leads sheet with their name, email, and campaign, then tell me in Slack.\"\nGet alerts when a sheet changes. \"When anyone adds or edits a row in the Q4 Budget sheet, send me a Slack message with what changed.\"\nTurn rows into tasks. \"When I add a row to my Project Plan sheet, create an Asana task from it and assign it to the person in the Owner column.\"\nBack up important email. \"When I label an email Receipts in Gmail, add its sender, subject, and date to my Expenses sheet.\"\nTrack sales and sign-ups. \"When a new Shopify order comes in, add the order number, customer, and total to my Sales sheet. Do the same for new Eventbrite registrants in my Attendees sheet.\"\nMake sense of intake answers. \"When someone books a call on Calendly, read their intake answers, sum up what they need in one sentence, and add them to my Prospects sheet with that summary in a Notes column. Use AI only for the summary and handle everything else with regular steps.\" This is a good example of a Zap that uses AI only where judgment is needed.\n6 ways to automate Google Sheets with Zap templates\nZap templates are pre-made Zaps you set up in Zapier itself. When you click \"Try it,\" the template opens in Zapier, and you customize it and turn it on there. Here are six ways to automate Google Sheets with Zap templates. If you'd rather have an agent build a Zap for you, use the prompts above.\nIf you prefer to build in Zapier, you can still add the power of AI to your automation. Adding AI steps to your Zap—an automated workflow—is an easy way to build more intelligent processes.\nSay you use Sheets to track every prospect who books a meeting with you on Calendly . Add an AI by Zapier step in here, and you can extract key details about their answers to your intake questions before adding them to your sheet.\nAdd new Calendly invitees to Google Sheets with AI analysis\nOr maybe you want to send weekly Slack notifications for batches of newly added rows using Digest by Zapier . With an AI step, you could analyze trends in that data—spotting patterns in customer requests or flagging unusual activity—before the summary reaches your team channel.\nZapier also integrates with hundreds of AI apps—like Airparser , a data extraction tool. Whenever there's a new file in your Google Drive, Airparser can swipe any unstructured data that you need, then add it to a new row in Sheets",
+ "id": "R3-2026-11-24",
+ "caption_final": "Automate your product marketing image generation using AI and Zapier for faster catalog updates. Stop manually downloading AI-generated images and sorting them into folders. By connecting your AI assistant to Zapier, you can trigger image creation directly from a Google Sheet row. The images are then automatically saved to your Google Drive, ready for your website or social media. This setup works even when your laptop is closed and ensures consistent image sizes and styles every single time. It is a reliable way to keep your product catalog updated without the daily manual grind. Comment IMAGES for the step-by-step automation guide.\n\n#SmallBusinessIndia #Automation #Zapier #BusinessGrowth"
+}
