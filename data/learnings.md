@@ -1,8 +1,8 @@
-# Learnings (auto-generated 2026-11-22)
+# Learnings (auto-generated 2026-11-24)
 
-## reels (n=25, median reach 16)
-- format case_study: 6.17x account median (n=1)
+## reels (n=25, median reach 17)
 - format checklist: 4.27x account median (n=2)
+- format case_study: 3.87x account median (n=1)
 - format problem_fix: 2.70x account median (n=9)
 - format tool_test: 1.81x account median (n=3)
 - format myth_fact: 1.66x account median (n=3)
@@ -14,7 +14,7 @@
 - weakest hooks: ChatGPT ya Claude ko bank account link karne se pehle ye dekho. | Field staff ke site logs manually type karna band karo. Ye dekho.
 - median avg watch time: 3.1s
 
-## carousels (n=24, median reach 2)
+## carousels (n=25, median reach 1)
 - format problem_fix: 2.33x account median (n=4)
 - format audience_q: 1.33x account median (n=1)
 - format myth_fact: 1.17x account median (n=4)
@@ -22,5 +22,6 @@
 - format case_study: 1.00x account median (n=1)
 - format checklist: 0.63x account median (n=9)
 - format demo: 0.50x account median (n=1)
+- format manual_vs_auto: 0.00x account median (n=1)
 - best hooks: Your invoices are visible to Google's ad algorithms | Why your AI subscriptions aren't increasing your shop's profit. | Are your AI chat links exposing your business data?
 - weakest hooks: Block multiple AI web scrapers with one standard setting | Stop buying AI tools until your daily workflows are clean
