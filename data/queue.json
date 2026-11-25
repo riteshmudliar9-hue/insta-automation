@@ -5622,7 +5622,7 @@
    "brand_consistency": 9,
    "publish_readiness": 8
   },
-  "status": "queued",
+  "status": "expired",
   "produced_at": 1795507263,
   "log": [],
   "dm_keyword": "IMAGES",
@@ -5858,10 +5858,15 @@
    "brand_consistency": 9,
    "publish_readiness": 8
   },
-  "status": "queued",
+  "status": "published",
   "produced_at": 1795588800,
-  "log": [],
+  "log": [
+   "2026-11-25T16:10:13.118273+05:30 published https://www.instagram.com/p/DgKVnMlFpao/"
+  ],
   "dm_keyword": "",
-  "dm_text": ""
+  "dm_text": "",
+  "media_id": "18235620049325025",
+  "permalink": "https://www.instagram.com/p/DgKVnMlFpao/",
+  "published_at": "2026-11-25T16:10:13.118273+05:30"
  }
 ]
