@@ -1,8 +1,8 @@
-# Learnings (auto-generated 2026-11-24)
+# Learnings (auto-generated 2026-11-25)
 
 ## reels (n=25, median reach 17)
 - format checklist: 4.27x account median (n=2)
-- format case_study: 3.87x account median (n=1)
+- format case_study: 3.70x account median (n=1)
 - format problem_fix: 2.70x account median (n=9)
 - format tool_test: 1.81x account median (n=3)
 - format myth_fact: 1.66x account median (n=3)
