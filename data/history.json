@@ -1016,5 +1016,21 @@
   "status": "published",
   "media_id": "17960290755082015",
   "permalink": "https://www.instagram.com/p/DgH4cbzFbOU/"
+ },
+ {
+  "id": "C1-2026-11-25",
+  "date": "2026-11-25",
+  "kind": "carousel",
+  "format": "problem_fix",
+  "topic": "Why your invoices are likely visible to Google's ad algorithms",
+  "hook": "Check your Google settings before uploading sensitive invoices",
+  "keywords": [
+   "Google search settings",
+   "data privacy for business",
+   "personal intelligence google",
+   "secure google drive",
+   "business document security"
+  ],
+  "status": "queued"
  }
 ]

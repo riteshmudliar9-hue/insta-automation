@@ -1,0 +1,258 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Stop manual data entry: Using Gemini to structure messy WhatsApp client orders",
+  "angle": "Turn chaotic client WhatsApp messages into clean, structured Excel rows automatically.",
+  "audience_problem": "Traders and contractors spend hours manually typing WhatsApp orders into spreadsheets.",
+  "format": "demo",
+  "medium": "reel",
+  "source_ids": [
+   35
+  ],
+  "evergreen": true,
+  "keywords": [
+   "whatsapp automation",
+   "data entry",
+   "gemini",
+   "spreadsheet"
+  ],
+  "scores": {
+   "relevance": 10,
+   "novelty": 8,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 9,
+   "evidence": 7,
+   "viral": 9
+  },
+  "total": 8.7
+ },
+ "piece": {
+  "hooks": [
+   "WhatsApp par aaye client orders ko Excel mein daalna band karo.",
+   "Order entry mein ghante barbad kar rahe ho? Yeh dekho.",
+   "Stop doing manual order entry. Iski jagah AI use karo.",
+   "90% traders order entry mein galti karte hain. Yeh fix dekho.",
+   "WhatsApp orders ko sidha Excel mein automate kaise karein?"
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "It directly addresses the specific pain point (manual data entry) with a clear 'stop doing this' directive, which is highly relatable for Indian traders.",
+  "title": "Automate WhatsApp Order Entry with Gemini",
+  "scenes": [
+   {
+    "purpose": "Hook the viewer",
+    "narration": "WhatsApp par aaye client orders ko Excel mein daalna band karo.",
+    "on_screen": "Stop Manual Entry",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Manual entry is old school",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Show the problem",
+    "narration": "Roz ka 2 ghanta sir dard banta hai, hai na?",
+    "on_screen": "Wasting 2 hours daily?",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Time wastage",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Compare manual vs AI",
+    "narration": "Manual entry boring hai aur errors hote hain.",
+    "on_screen": "Manual vs AI Flow",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "Why switch to AI?",
+    "steps": [],
+    "items": [],
+    "left_label": "Manual Way",
+    "right_label": "Gemini AI",
+    "rows": [
+     {
+      "left": "Read WhatsApp",
+      "right": "AI reads all"
+     },
+     {
+      "left": "Type in Excel",
+      "right": "Auto structured data"
+     },
+     {
+      "left": "High error risk",
+      "right": "Accurate & fast"
+     }
+    ]
+   },
+   {
+    "purpose": "Explain the solution",
+    "narration": "Gemini app mein Task mode on karke, data ko structure karo.",
+    "on_screen": "Toggle Task Mode",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "Activate Gemini Tasks",
+    "steps": [
+     "Open Gemini app",
+     "Toggle to Task mode",
+     "Send order details"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Explain security",
+    "narration": "Data hardware-isolated virtual machines mein safe rehta hai.",
+    "on_screen": "Secure & Isolated",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Your data is safe",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Call to action",
+    "narration": "Comment GEME, main aapko setup steps DM kar dunga.",
+    "on_screen": "Comment GEME",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Get the steps now",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "WhatsApp orders ko manually Excel sheet mein enter karna band karein. Gemini app ka naya Task mode aapke messy client messages ko automatically structure kar sakta hai. Yeh tool secure, hardware-isolated virtual machines mein kaam karta hai, toh aapka business data safe rehta hai. Roz ka 1-2 ghanta bachayein aur errors khatam karein. Kya aapne Gemini ke naye Task features check kiye? Comment GEME for steps.",
+  "hashtags": [
+   "#BusinessAutomation",
+   "#GeminiAI",
+   "#SmallBusinessIndia",
+   "#TradersTips"
+  ],
+  "keywords": [
+   "Gemini AI",
+   "WhatsApp business",
+   "data entry automation",
+   "business efficiency",
+   "Excel automation"
+  ],
+  "claims": [
+   {
+    "claim": "Gemini operates within secure, hardware-isolated virtual machines.",
+    "source_id": 35
+   },
+   {
+    "claim": "You can access task features by toggling the task mode in the Gemini mobile app.",
+    "source_id": 35
+   }
+  ],
+  "dm_keyword": "GEME",
+  "dm_text": "Gemini app use karke WhatsApp orders automate karne ke steps: 1. Play Store/App Store se Gemini update karein. 2. App open karke 'Chat' se 'Task' toggle mode par switch karein. 3. Apne client ke WhatsApp order ka text copy karke Gemini mein paste karein. 4. Gemini ko bole 'Format this order into a table with item, quantity, and price'. Aapka data structured Excel ready format mein aa jayega. Yeh feature abhi free hai. Security ke liye, Gemini hardware-isolated virtual machines use karta hai."
+ },
+ "review": {
+  "scores": {
+   "hook": 7,
+   "originality": 6,
+   "practical_value": 6,
+   "natural_language": 8,
+   "accuracy": 7,
+   "narrative": 7,
+   "visual_integrity": 6,
+   "pacing": 7,
+   "brand_consistency": 8,
+   "publish_readiness": 6
+  },
+  "claims": [
+   {
+    "claim": "Gemini operates within secure, hardware-isolated virtual machines.",
+    "supported": true,
+    "note": "Supported by source material regarding security architecture."
+   },
+   {
+    "claim": "You can access task features by toggling the task mode in the Gemini mobile app.",
+    "supported": true,
+    "note": "Supported by source material."
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Scene 1: The subtitle 'mein daalna band karo' is cut off at the bottom of the frame.",
+   "Scene 2: The subtitle 'Roz ka 2 ghanta sir dard banta hai,' is cut off at the bottom.",
+   "Scene 3: The subtitle 'Manual entry boring hai aur errors hote hain.' is cut off at the bottom.",
+   "Scene 4: The subtitle 'data ko structure karo.' is cut off at the bottom.",
+   "Scene 5: The subtitle 'mein safe rehta hai.' is cut off at the bottom.",
+   "Scene 6: The subtitle 'Comment GEME, main aapko setup steps DM' is cut off at the bottom."
+  ],
+  "issues": [
+   "The subtitles are consistently positioned too low, causing them to be cut off by the UI/safe zone boundaries.",
+   "The 'Task mode' instruction is slightly vague; users might struggle to find the specific toggle if it's not clearly visible in the UI.",
+   "The reel lacks a visual demonstration of the actual Gemini interface, relying only on text overlays."
+  ],
+  "fix_instructions": "1. Reposition all subtitle boxes higher up in the frame to ensure they are within the safe zone and not cut off. 2. Add a screen recording or a high-quality screenshot of the Gemini app showing the 'Task' toggle to make the instructions actionable. 3. Ensure the text overlays in the center of the screen have enough padding so they don't feel cramped. 4. The DM keyword 'GEME' is fine, but ensure the automated response is ready and tested before publishing."
+ },
+ "rules": [],
+ "reasons": [
+  "hook 7/10 (<8)",
+  "originality 6/10 (<8)",
+  "practical_value 6/10 (<8)",
+  "accuracy 7/10 (<8)",
+  "narrative 7/10 (<8)",
+  "visual_integrity 6/10 (<8)",
+  "publish_readiness 6/10 (<7)"
+ ],
+ "meta": {
+  "duration": 29.8,
+  "voice": "edge",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-25/R3-2026-11-25/try2/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-25/R3-2026-11-25/try2/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-25/R3-2026-11-25/try2/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-25/R3-2026-11-25/try2/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-25/R3-2026-11-25/try2/scene_05.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-25/R3-2026-11-25/try2/scene_06.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   5.17,
+   3.97,
+   4.67,
+   5.37,
+   5.37,
+   5.25
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-25/R3-2026-11-25/try2",
+ "attempt": 2,
+ "approved": false,
+ "hook": "WhatsApp par aaye client orders ko Excel mein daalna band karo.",
+ "log": [
+  "attempt 1: render failed (No audio was received. Please verify that your parameters are correct.)",
+  "attempt 2: fail {'hook': 7, 'originality': 6, 'practical_value': 6, 'natural_language': 8, 'accuracy': 7, 'narrative': 7, 'visual_integrity': 6, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 6} ['hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 6/10 (<8)', 'accuracy 7/10 (<8)']",
+  "attempt 3: render failed (No audio was received. Please verify that your parameters are correct.)",
+  "attempt 4: render failed (No audio was received. Please verify that your parameters are correct.)"
+ ],
+ "material": "[35] Google AI Blog — Put Gemini to work for you\nURL: https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/\nGemini can now make the calls, pay the bills, and finish your tasks.\nVice President, Labs, Gemini app, and AI Studio\nYour browser does not support the audio element.\nWe’re updating Gemini to handle complex tasks like scheduling appointments, managing bills, and shopping for groceries. By connecting to your emails, calendar, and payment methods, Gemini saves you time while keeping your data secure in isolated environments. You can try these new capabilities today by switching the toggle from Chat to Task in the Gemini app, texting us on Android or iOS, or forwarding emails to gemini@google.com.\nJosh Woodward, Vice President of Labs, announces that Gemini can now manage daily tasks for you.\nYou can use Gemini to schedule appointments, analyze utility bills, and purchase items through integrated services.\nGemini operates within secure, hardware-isolated virtual machines to protect your private data and account information.\nYou can access these new features by toggling the task mode in the Gemini mobile application.\nJosh Woodward, Vice President of Labs, Gemini app, and AI Studio, explains that Gemini can now handle daily tasks like scheduling appointments, managing grocery lists, and analyzing bills. By connecting to your Google apps, it securely completes chores using your existing information. You can activate these features by switching your Gemini app to task mode, texting, or forwarding emails. This update helps you save time by managing your calendar, shopping, and household organization.\nThe best assistant knows you and helps you get things done. Today, you can now hand off even more tasks to Gemini and move on with your day. We’ve built it for anyone who has tasks piling up during all the classes, meetings, and school drop-offs that fill the day. Our goal is for Gemini to save you time and money.\nStarting now, this update is rolling out free of charge for hundreds of millions of people across the U.S., Japan, Korea, Canada, Australia, and India, using our new Gemini 4 Hydrogen model. We’re also rolling out a set of advanced features, starting in the U.S.\nIf your emails, calendar, passwords, photos, files, and payment cards are already in the Google ecosystem, Gemini is your best choice as a personal assistant because this sensitive data already lives at Google securely, and you don’t have to send it elsewhere.\nRecently, our minivan’s check-engine light came on. Ugh. I pulled out Gemini and told it, \"Our minivan is overdue for a service appointment. Please call the two nearest dealerships and figure out how to get an appointment early Friday morning over the next month or so.\"\nBecause Gemini already knows we drive a 2019 Honda Odyssey and where we live through Personal Intelligence , it found the nearest shops on Google Maps and called both at once 1 . Thankfully, I didn’t have to suffer through any hold music. Gemini did the job, found a time in my Google Calendar when I was free, and added the Friday early morning appointment in less than five minutes. Done. (On the dealership's end, Gemini disclosed right away that it's an AI. Businesses can opt out whenever they want, and Gemini won’t give out my payment or private account info unless I say so.)\nIn the background, Gemini called both dealerships at once, sat through the hold music for me, booked an appointment at the shop that accepts appointments vs. walk-ins only, and put Friday's appointment on my calendar without me having to check it.\nLast month it saved us real money after we got hit with a surprise $389 electric bill. I gave Gemini permission to access our utility portal with the new Google Password Manager integration and asked for it to analyze our past billing statements in my email. Gemini worked for a few minutes, and then nailed it. The primary culprit was our heat pump, which it turns out was kicking on around 4 p.m., right in the middle of peak pricing. My wife and I never would have caught that digging through the PDFs and emails ourselves.\nI use it for smaller stuff, too. For our upcoming holiday trip back to Oklahoma, I recently asked Gemini to give me the best options for a USB-C charger. Gemini quickly compared chargers thanks to Google’s Shopping Graph, asked me follow-up questions about the wattage and color, and then helped me check out using the new Google Pay integration. The best part: it also found a discount code so I saved an extra $10. Done.\nGemini now uses the Agent Payments Protocol (AP2) to make purchases like this. We’re working with American Express (coming soon), Mastercard, and Visa to keep your purchases secure with digital tokens on supported cards. And when you shop with Gemini, you still earn your card's points, cashback, or purchase protections during checkout. You can also set a hard spending cap upfront, and Gemini is designed to stay within your budget. All of your receipts and tracking info land straight in Google Wallet, which is expanding to iOS starting today . Up next, we’ll integrate the Universal Commerce Protocol (UCP) into Gemini so everyone can expect an even faster and more reliable shopping experience from discovery to checkout.\nGemini lets you set the spending limit and still earn every airline mile, cashback point, and perk on your card.\nGemini helps with weeknight dinners, too. I recently stared down a nearly empty fridge rushing out the door in the morning, and I texted Gemini with the new RCS integration 2 : “Add lasagna, strawberries, cucumbers, and vanilla ice cream to our Instacart order.” On the walk out, I saw an empty Cheerios box in the pantry, so I snapped a photo and sent a quick follow-up: “Add this too.” Gemini added it, and then handed me off to Instacart to complete the order. Groceries were on the doorstep when we got home. Done. Today, Gemini connects with more than 60 popular apps and, as a developer, you can apply to join our Connected Apps Platform .\nMy wife and I also use Gemini to sort out medical bills, keep track of insurance renewals, and stay on top of our kids' schedules. Earlier this week, I forwarded a batch of school emails from Gmail to gemini@google.com. In less than a minute, every date was on my calendar with my wife invited. Better yet, it noticed a conflict during basketball practice and asked if I wanted to text one of the other parents to trade carpool duty.\nAs Gemini becomes more capable, we continually advance our security defenses. When you assign Gemini a task, it uses Google Cloud’s Agent Compute Engine to work in a hardware-isolated virtual machine that’s dedicated to your account and never shared with other users. Each virtual machine is sandboxed, so Gemini works in a separate, isolated environment that’s regularly tested by our security red teams. This sandbox is just one of multiple layers of defense, including prompt-injection filters that scan search results, webpages, and more alongside Google Safe Browsing to limit which links Gemini can open.\nAs Gemini works on a task, you can jump in to give it more",
+ "id": "R3-2026-11-25",
+ "caption_final": "WhatsApp orders ko manually Excel sheet mein enter karna band karein. Gemini app ka naya Task mode aapke messy client messages ko automatically structure kar sakta hai. Yeh tool secure, hardware-isolated virtual machines mein kaam karta hai, toh aapka business data safe rehta hai. Roz ka 1-2 ghanta bachayein aur errors khatam karein. Kya aapne Gemini ke naye Task features check kiye? Comment GEME for steps.\n\n#BusinessAutomation #GeminiAI #SmallBusinessIndia #TradersTips"
+}

@@ -1,0 +1,236 @@
+{
+ "kind": "carousel",
+ "idea": {
+  "idea": "Why your invoices are likely visible to Google's ad algorithms",
+  "angle": "Your private business financial data might be training Google's AI if you use default settings.",
+  "audience_problem": "Business owners do not realize their uploaded documents are being scraped for AI training data.",
+  "format": "problem_fix",
+  "medium": "carousel",
+  "source_ids": [
+   31
+  ],
+  "evergreen": true,
+  "keywords": [
+   "privacy",
+   "google ads",
+   "business data",
+   "invoices"
+  ],
+  "scores": {
+   "relevance": 10,
+   "novelty": 9,
+   "hook_potential": 10,
+   "retention": 8,
+   "save_share": 10,
+   "feasibility": 9,
+   "evidence": 8,
+   "viral": 10
+  },
+  "total": 9.38
+ },
+ "piece": {
+  "hooks": [
+   "Stop Google from reading your business documents",
+   "Is your Google Search leaking your private business data?",
+   "Check your Google settings before uploading sensitive invoices"
+  ],
+  "chosen_hook": 2,
+  "hook_reason": "This hook addresses a direct security concern for business owners by posing a question that triggers a 'check your settings' action, which is highly relevant to our audience.",
+  "slides": [
+   {
+    "kind": "cover",
+    "title": "Is your Google Search leaking your private business data?",
+    "subtitle": "Connecting Google Drive to Personal Intelligence might expose your sensitive financial documents to AI training.",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "point",
+    "title": "The hidden risk",
+    "subtitle": "",
+    "body": "When you opt in to 'Personal Intelligence' in Google Search, you allow Google to access your Google Wallet and Drive. This lets Google use your private financial records and business documents to tailor search results.",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "mythfact",
+    "title": "Data Control",
+    "subtitle": "",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "Once you connect your apps, you lose control of your data.",
+    "fact": "You remain in control and can turn these connections on or off at any time in Search Personalization settings.",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "steps",
+    "title": "How to manage your settings",
+    "subtitle": "",
+    "body": "Control which business tools Google can read to build your AI profile.",
+    "items": [
+     "Open Google Search Personalization settings.",
+     "Select the 'Connected Apps' menu.",
+     "Choose which apps you want to connect.",
+     "Review or disable connections at any time."
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "checklist",
+    "title": "Before you connect apps",
+    "subtitle": "",
+    "body": "Check these before allowing AI access to your business files.",
+    "items": [
+     "Are your invoices saved in a shared Drive folder?",
+     "Do your files contain sensitive client personal data?",
+     "Is your employee payroll stored in a Google Sheet?",
+     "Do you really need AI to summarize these specific documents?"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "summary",
+    "title": "Key takeaways",
+    "subtitle": "",
+    "body": "",
+    "items": [
+     "Opt-in is required to connect Wallet and Drive.",
+     "Connected data helps personalize search responses.",
+     "You can manage all connections in Search Settings.",
+     "AI Mode cannot move, manage, or invest money."
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   }
+  ],
+  "caption": "Your Google Search settings might be accessing your private invoices and financial history to build a 'Personal Intelligence' profile. While this can help you track spending or prepare for tax season, it also means Google is scanning your connected Drive documents and Wallet data to provide these responses. Before you hit 'opt-in', audit the folders you keep in your primary Google Drive. If you store sensitive supplier contracts or employee payroll sheets, consider keeping those in a separate, disconnected account. You are always in control of these settings—have you checked your 'Connected Apps' list recently to see what Google has access to?",
+  "hashtags": [
+   "#DataPrivacy",
+   "#GoogleTips",
+   "#BusinessSafety",
+   "#SmallBusinessIndia"
+  ],
+  "keywords": [
+   "Google search settings",
+   "data privacy for business",
+   "personal intelligence google",
+   "secure google drive",
+   "business document security"
+  ],
+  "claims": [
+   {
+    "claim": "Google is adding Google Wallet and Drive to Personal Intelligence to provide more relevant search results.",
+    "source_id": 31
+   },
+   {
+    "claim": "You can opt in to securely connect Google Wallet and Drive by visiting your Search Personalization settings.",
+    "source_id": 31
+   },
+   {
+    "claim": "When you opt in, Search uses your own documents, spending habits, and recent activity to provide tailored answers.",
+    "source_id": 31
+   },
+   {
+    "claim": "You can turn these connections on or off at any time.",
+    "source_id": 31
+   },
+   {
+    "claim": "If you choose to connect your Wallet, AI Mode can only read information from your accounts; it can’t move, manage, or invest your money.",
+    "source_id": 31
+   }
+  ]
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 9,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "Google is adding Google Wallet and Drive to Personal Intelligence to provide more relevant search results.",
+    "supported": true
+   },
+   {
+    "claim": "You can opt in to securely connect Google Wallet and Drive by visiting your Search Personalization settings.",
+    "supported": true
+   },
+   {
+    "claim": "When you opt in, Search uses your own documents, spending habits, and recent activity to provide tailored answers.",
+    "supported": true
+   },
+   {
+    "claim": "You can turn these connections on or off at any time.",
+    "supported": true
+   },
+   {
+    "claim": "If you choose to connect your Wallet, AI Mode can only read information from your accounts; it can’t move, manage, or invest your money.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [],
+  "issues": [
+   "The phrase 'AI training' in the cover slide subtitle is technically inaccurate and potentially misleading. The source material states the data is used for 'Personal Intelligence' and 'tailored answers' for the user, not for training Google's general AI models.",
+   "The tone is slightly alarmist ('leaking', 'expose') which, while effective for a hook, needs to be balanced by the fact that this is an explicit opt-in feature, not a data breach."
+  ],
+  "fix_instructions": "On slide 1, change 'expose your sensitive financial documents to AI training' to 'allow AI to access your sensitive financial documents'. This maintains the caution without spreading misinformation about how Google uses the data. Otherwise, the carousel is excellent and ready for publication."
+ },
+ "rules": [],
+ "reasons": [],
+ "meta": {
+  "ai_visuals": false,
+  "slides": 6
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-25/C1-2026-11-25/try1",
+ "attempt": 1,
+ "approved": true,
+ "hook": "Check your Google settings before uploading sensitive invoices",
+ "log": [
+  "attempt 1: PASS {'hook': 8, 'originality': 7, 'practical_value': 9, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} []"
+ ],
+ "material": "[31] Google AI Blog — A more tailored Google Search that’s uniquely yours\nURL: https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/\nA more tailored Google Search that’s uniquely yours Nov 23, 2026\nGet more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode.\nYour browser does not support the audio element.\nWe’re adding Google Wallet and Drive to Personal Intelligence, allowing Search to provide answers based on your spending, documents, and chats. These updates help you manage finances, organize projects, and maintain context across your search threads. You can opt in to connect these apps by visiting your Search Personalization settings, where you remain in control of your data and can adjust your preferences at any time.\nWe are adding Google Wallet and Google Drive to Personal Intelligence to provide more relevant search results.\nYou can now connect your financial data to identify spending habits and optimize your credit card rewards.\nConnecting your documents allows you to receive personalized plans based on information across your various files.\nYou remain in control of your data by choosing which apps to connect and managing your settings.\nRobby Stein, VP of Product for Google Search, explains that you can now connect your apps like Google Wallet and Drive to Search for more personalized results. When you opt in, Search uses your own documents, spending habits, and recent activity to provide tailored answers. This helps you track financial goals, organize project information, and continue research tasks without repeating yourself. You remain in control and can manage these connections in your settings at any time.\nThe most helpful search experience brings together the richness of the world’s information with insights uniquely relevant to you. Today, Search is getting even more tailored with the ability to connect more of your apps to Personal Intelligence — and we're introducing more personally relevant responses, so it's easier to find just what you need.\nStarting to roll out today, you can opt in to securely connect Google Wallet to Personal Intelligence in AI Mode , with support for Drive and the Gemini app following in the coming weeks — bringing context from your spending, documents, and chats directly to Search. These apps join Gmail, Calendar, and Photos in delivering even more tailored responses with your personal context.\nGet a clearer picture of your spending with Google Wallet: By connecting Google Wallet to Personal Intelligence in both AI Mode and the Gemini app , you can map out your financial milestones and identify actionable ways to trim everyday spending. You can also maximize credit card benefits — like optimizing cash-back categories, travel perks, and reward points — based on your cards linked via Wallet. If you choose to connect your Wallet, AI Mode can only read information from your accounts; it can’t move, manage, or invest your money.\nStay in your flow with Google Drive: Sometimes the important information that you need to get started on a project or make a big decision can be scattered across your docs, sheets, or PDFs. With Google Drive connected in Personal Intelligence, you can get uniquely helpful responses that take all of that context into account and help you get started, like a personalized preparation plan ahead of tax season.\nConnect the dots between the Gemini app and Search: In the coming weeks you can easily share context across the Gemini app and AI Mode in Search. So if you explore an idea in the Gemini app, AI Mode will have that foundation to build on, and vice versa. While you could already opt in to connect your Search history to Personal Intelligence in the Gemini app, soon you can also opt in to securely connect your Gemini app to Personal Intelligence in AI Mode.\nTo connect your apps to Personal Intelligence in AI Mode, open Search Personalization, select Connected Apps, and then choose the apps you want to connect . You choose if and when you opt in, and you can turn those connections on or off at any time. You’re always in control of your personalization settings, and soon you’ll also be able to view the context AI Mode uses via the “Personalization” icon below any tailored response. If you want to edit anything simply let AI Mode know what to change, like responding in thread “I’m no longer a vegetarian.”\nYou’ll also start seeing more personally relevant responses in AI Overviews and AI Mode, tailored to your recent search context. So if you’ve been researching and planning for a trip, you can pick up right where you left off in a new search thread without starting over or repeating yourself. As always, you can adjust or turn off personalization at any time in your Search Settings.\nGet the latest news from Google in your inbox\nSign up for our newsletters with product updates, event information, special offers, and more.\nCheck your inbox to confirm your subscription.\nYou can also subscribe with a different email address .\nYour information will be used in accordance with Google's privacy policy. You may opt out at any time.\nRobby Stein is Vice President of Product, Google Search, working on the development of generative AI products and experiences that help people search and access information effortlessly.\nHow Gemini is changing the game for Golden State's organization and fans.\nGet your year-end tasks done with new Connected Apps.\nIntroducing Tool Retrieval in the Gemini API\nWalter Isaacson on curiosity and creativity in the AI age.\nLas Vegas race week brings big rewards to Google Play\nThe Gemini app is now available on lower-memory Android devices.",
+ "id": "C1-2026-11-25",
+ "caption_final": "Your Google Search settings might be accessing your private invoices and financial history to build a 'Personal Intelligence' profile. While this can help you track spending or prepare for tax season, it also means Google is scanning your connected Drive documents and Wallet data to provide these responses. Before you hit 'opt-in', audit the folders you keep in your primary Google Drive. If you store sensitive supplier contracts or employee payroll sheets, consider keeping those in a separate, disconnected account. You are always in control of these settings—have you checked your 'Connected Apps' list recently to see what Google has access to?\n\n#DataPrivacy #GoogleTips #BusinessSafety #SmallBusinessIndia"
+}

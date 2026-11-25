@@ -1,0 +1,239 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Why linking business bank accounts to AI agents is a security disaster",
+  "angle": "Major banks are blocking access, but owners still connect them; here is why your data is at risk.",
+  "audience_problem": "Small business owners blindly link finance accounts to AI tools, exposing their entire cash flow.",
+  "format": "problem_fix",
+  "medium": "reel",
+  "source_ids": [
+   7,
+   82
+  ],
+  "evergreen": true,
+  "keywords": [
+   "banking security",
+   "ai privacy",
+   "cybercrime",
+   "small business"
+  ],
+  "scores": {
+   "relevance": 10,
+   "novelty": 7,
+   "hook_potential": 9,
+   "retention": 9,
+   "save_share": 10,
+   "feasibility": 9,
+   "evidence": 8,
+   "viral": 10
+  },
+  "total": 9.13
+ },
+ "piece": {
+  "hooks": [
+   "Office PC pe WhatsApp Web open chhodne ki galti mat karo.",
+   "WhatsApp Web tab close karne se aap logout nahi hote.",
+   "Statement of Account ZIP file WhatsApp pe aayi? Mat kholo.",
+   "Boss Scam se Indian businesses ke WhatsApp accounts hijack ho rahe hain.",
+   "Office computer pe WhatsApp Web use karte ho? Ye warning dekho."
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "Directly addresses a common daily habit of small business office staff and creates immediate urgency around security without hype.",
+  "title": "WhatsApp Web Account Hijacking Risks for Small Businesses",
+  "scenes": [
+   {
+    "purpose": "Hook viewer with WhatsApp Web security risk",
+    "narration": "Office PC pe WhatsApp Web open chhodne ki galti mat karo.",
+    "on_screen": "WhatsApp Web Warning",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "WhatsApp Web Risk",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Explain browser tab myth according to MHA",
+    "narration": "MHA ke mutabiq, browser tab close karne se WhatsApp logout nahi hota.",
+    "on_screen": "Tab Close != Logout",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Closing tab does not log out",
+     "Session stays active on PC",
+     "Risk of account takeover"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Explain Boss Scam malware mechanism",
+    "narration": "Boss Scam me hackers fake Statement of Account ZIP send karke account hijack karte hain.",
+    "on_screen": "Boss Scam Danger",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "Fake ZIP file sent",
+     "Executable malware runs",
+     "Active session hijacked",
+     "Urgent transfer demanded"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Provide MHA verification and check advice",
+    "narration": "I4C ne 58000 logo ko SMS bhej kar alert kiya hai. WhatsApp me Linked Devices check karo.",
+    "on_screen": "Check Linked Devices",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Open WhatsApp settings",
+     "Tap Linked Devices",
+     "Log out active sessions",
+     "Avoid shared office PCs"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Deliver payoff and call to action via DM",
+    "narration": "MHA ki safety steps chahiye? Comment SAFETY, main checklist aapko DM kar dunga.",
+    "on_screen": "Comment SAFETY",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Get MHA Safety Guide",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "How to protect your business WhatsApp Web account from hijacking and Boss Scam fraud. The Ministry of Home Affairs warned that simply closing a browser tab does not log you out of WhatsApp Web on office computers. Attackers are sending malicious ZIP files named Statement of Account to run malware, hijack active sessions, and demand urgent payment transfers from employees. Always log out manually after finishing work and check your Linked Devices regularly. Have you checked your active WhatsApp Web sessions this week? Comment SAFETY for the full safety checklist.",
+  "hashtags": [
+   "#WhatsAppSecurity",
+   "#CyberSecurityIndia",
+   "#SmallBusinessIndia",
+   "#BusinessSafety"
+  ],
+  "keywords": [
+   "WhatsApp Web hijacking",
+   "Boss Scam India",
+   "MHA cybersecurity advisory",
+   "Linked devices WhatsApp",
+   "business security check"
+  ],
+  "claims": [
+   {
+    "claim": "The Ministry of Home Affairs issued a cybersecurity advisory warning that closing a browser tab does not log you out of WhatsApp Web.",
+    "source_id": 82
+   },
+   {
+    "claim": "Fraudsters in Boss Scam send malicious ZIP files like Statement of Account.zip to hijack WhatsApp Web sessions and demand urgent transfers.",
+    "source_id": 82
+   },
+   {
+    "claim": "The Indian Cyber Crime Coordination Centre (I4C) alerted over 58,000 potential victims about WhatsApp account takeover fraud.",
+    "source_id": 82
+   }
+  ],
+  "dm_keyword": "SAFETY",
+  "dm_text": "Here is the MHA WhatsApp Web security checklist for your business:\n1. Closing browser tab does NOT log you out. Manually click Log Out after every session.\n2. Never open unknown attachments like Statement of Account.zip, RBI.zip or MCA.zip containing executable malware.\n3. Open WhatsApp on phone -> Settings -> Linked Devices and log out of any unrecognized or old computer sessions.\n4. If using WhatsApp Web on shared office computers is necessary, use Incognito or Private browsing mode.\n5. Always verify urgent payment requests received on WhatsApp through a direct phone call before transferring funds."
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 9,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 7,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "The Ministry of Home Affairs issued a cybersecurity advisory warning that closing a browser tab does not log you out of WhatsApp Web.",
+    "supported": true
+   },
+   {
+    "claim": "Fraudsters in Boss Scam send malicious ZIP files like Statement of Account.zip to hijack WhatsApp Web sessions and demand urgent transfers.",
+    "supported": true
+   },
+   {
+    "claim": "The Indian Cyber Crime Coordination Centre (I4C) alerted over 58,000 potential victims about WhatsApp account takeover fraud.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Scene 1: The subtitle 'ki galti mat karo.' is partially obscured by the bottom edge of the white content box.",
+   "Scene 2: The subtitle 'browser tab close karne se WhatsApp' is partially obscured by the bottom edge of the white content box.",
+   "Scene 3: The subtitle 'of Account ZIP send karke account hijack' is partially obscured by the bottom edge of the white content box.",
+   "Scene 4: The subtitle 'WhatsApp me Linked Devices check karo.' is partially obscured by the bottom edge of the white content box.",
+   "Scene 5: The subtitle 'Comment SAFETY, main checklist aapko DM' is partially obscured by the bottom edge of the white content box."
+  ],
+  "issues": [
+   "The subtitle placement is consistently too low, causing the text to be cut off by the bottom of the white container box in every scene.",
+   "The visual hierarchy in Scene 3 is slightly cluttered; the diagram arrows are thin and might be hard to read on smaller mobile screens."
+  ],
+  "fix_instructions": "Shift all subtitle boxes upward by 20-30 pixels to ensure they are fully contained within the white background area and not cut off. In Scene 3, increase the thickness of the arrows between the steps to improve readability. Ensure the text in the subtitle boxes does not overlap with the bottom margin of the main content card."
+ },
+ "rules": [],
+ "reasons": [
+  "originality 7/10 (<8)",
+  "visual_integrity 7/10 (<8)"
+ ],
+ "meta": {
+  "duration": 39.6,
+  "voice": "gemini",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-25/R1-2026-11-25/try1/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-25/R1-2026-11-25/try1/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-25/R1-2026-11-25/try1/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-25/R1-2026-11-25/try1/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-25/R1-2026-11-25/try1/scene_05.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   2.6,
+   16.19,
+   3.98,
+   13.04,
+   3.75
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-25/R1-2026-11-25/try1",
+ "attempt": 1,
+ "approved": false,
+ "hook": "Office PC pe WhatsApp Web open chhodne ki galti mat karo.",
+ "log": [
+  "attempt 1: fail {'hook': 8, 'originality': 7, 'practical_value': 9, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['originality 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+  "attempt 2: fail {'hook': 8, 'originality': 7, 'practical_value': 9, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['originality 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+  "attempt 3: render failed (No audio was received. Please verify that your parameters are correct.)",
+  "attempt 4: fail {'hook': 7, 'originality': 6, 'practical_value': 8, 'natural_language': 8, 'accuracy': 7, 'narrative': 7, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['more than one exclamation mark', 'hook 7/10 (<8)', 'originality 6/10 (<8)', 'accuracy 7/10 (<8)']"
+ ],
+ "material": "[7] TechCrunch AI — UK warns AI-driven cyberattacks are exposing years of weak security\nURL: https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/\nImage Credits: Lino Mirgele / Getty Images Security UK warns AI-driven cyberattacks are exposing years of weak security Zack Whittaker 10:02 AM PST · November 24, 2026 The U.K. government’s cybersecurity unit says it has seen a “marked rise” in AI-driven cyberattacks in recent months, as hackers increasingly rely on autonomous hacking tools to identify and exploit simple weaknesses to break into systems and networks.\nThe U.K. National Cybersecurity Center (NCSC) said it has seen several cyber incidents since September involving autonomous hacking tools, such as penetration testing tools used by defenders to stress-test their cybersecurity defenses. These incidents have caused intrusions at organizations and resulted in downtime, the unit said in a blog post .\nThe NCSC says that while none of the vulnerabilities being exploited are new, the speed at which these AI tools are able to carry out simple hacks has changed.\nThe rise in AI-related cyberattacks coincides with the broader release earlier this year of open source autonomous penetration testing tools like Artex and Cairn, among others, which anyone can download and use at no cost. The U.S. Federal Bureau of Investigation recently warned that malicious hackers are using AI penetration testing tools to carry out cyberattacks at unprecedented speeds.\nWhile cyberattacks and intrusions are on the rise, the message from London is that many of these attacks are preventable with basic cybersecurity defenses and best practices.\n“Notably, the issues being exploited currently are not novel memory corruption vulnerabilities (or even known but unpatched vulnerabilities), but unmitigated weaknesses that are often the result of years of technical debt that organisations have accumulated,” the NCSC wrote.\nThe unit said that agentic hacking tools often look for exposed or internet-facing systems, then quickly run through lists of weak or easy-to-guess passwords or abuse API endpoints often used by developers to access data.\nThe NCSC said that AI “does not make established cyber security controls obsolete,” but rather that “building strong foundations has never mattered more.”\nThe unit added that AI has made it easier to find vulnerabilities and faster to exploit them, warning that weaknesses that have gone unnoticed for years can now be found in minutes.\nWhen you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence.\nZack Whittaker is the security editor at TechCrunch. He also authors the weekly cybersecurity newsletter, this week in security .\nHe can be reached via encrypted message at zackwhittaker.1337 on Signal. You can also contact him by email, or to verify outreach, at [email protected] .\n2027 San Francisco Get an Early Peek at the Next TechCrunch Disrupt Disrupt, Startup Battlefield, and more will return next year, and you can be at the front of the line. Sign up for our waitlist\nFigma employee sues, alleging company forced her to confront harassers\nAnthropic launches Claude Ship, letting AI agents review, fix, and approve code changes\nStartup sues Apple in India over tap-to-share contacts feature\nAI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too\nAnthropic’s 7 founders cashed out nearly $2B in record-breaking IPO\nMicrosoft CEO Satya Nadella explains why he asked 60K employees to quit\n\n[82] YourStory — Log out after using WhatsApp Web to prevent account hijacking: MHA advises users\nURL: https://yourstory.com/2026/11/mha-warns-whatsapp-web-users-of-account-hijacking-advises-logging-out-after-every-session\nLog out after using WhatsApp Web to prevent account hijacking: MHA advises users | YourStory Sidebar is Loading... ADVERTISEMENT The Ministry of Home Affairs (MHA) has issued a cybersecurity advisory cautioning users about the potential misuse of authenticated WhatsApp Web sessions to gain access to their accounts.\nThe advisory, dated November 18, was issued by the National Cybercrime Threat Analytics Unit of the Indian Cyber Crime Coordination Centre (I4C), under the MHA.\nThe advisory warned that leaving accounts logged in on office computers or shared devices could expose them to unauthorised access. This could allow malicious actors to read private messages, send messages while impersonating the account holder, access contacts and group conversations, and exploit trusted identities to carry out fraud, phishing and social-engineering attacks.\nThe advisory recommends that organisations avoid using WhatsApp Web on office computers, particularly in official and sensitive environments. Users have been advised against exchanging government, financial, confidential or other sensitive information through WhatsApp Web sessions on computers.\nThe I4C has cautioned that simply closing a browser window or tab should not be treated as logging out of WhatsApp Web. Users must manually terminate their sessions after completing their work and avoid leaving accounts permanently logged in.\nIf access is unavoidable, the agency recommends using 'incognito' or 'private browsing' mode on a trusted computer, followed by a manual logout. Users have also been advised against accessing WhatsApp Web through cyber cafes, public kiosks, hotel business centres, borrowed computers, or other untrusted systems.\nThe advisory further recommends keeping devices, operating systems, browsers and security software updated, avoiding suspicious downloads, and monitoring accounts for unexpected messages or unusual activity.\nWhatsApp Web sessions targeted in 'Boss Scam'\nThe latest warning comes amid a rise in WhatsApp-linked account takeover fraud. In an August 7 advisory, the MHA warned corporates and finance professionals about a campaign known as the 'Boss Scam' or CEO impersonation fraud.\nAccording to the ministry's statement published on the Press Information Bureau, fraudsters circulated malicious ZIP files disguised as account statements and regulatory communications, using names such as 'Statement of Account.zip', 'RBI.zip' and 'MCA.zip'.\nThe files contained malicious Windows executable (.exe) and Dynamic Link Library (.dll) files. Once extracted and executed on a Windows computer, the malware could compromise the device and hijack an active WhatsApp Web session.\nAttackers subsequently used compromised accounts to circulate the same malicious files to contacts and groups. In more advanced cases, they impersonated senior executives and instructed finance employees to make urgent transfers to fraudulent bank accounts.\nThe MHA said it had alerted more than 58,000 potential victims through SMS messages sent under the header 'I4CMHA-G' in the preceding 30 days. More than 10,000 Indians had been protected through coordinated interventions, including the blocking of malicious infrastructure through the government's Sahyog Portal.\nThe ministry also said it had shared malware-related threat intelligence with the Indian Computer Emergency Response Team (CERT-In), Microsoft Defender, and Indian cybersecurity companies, including Quick Heal, K7 Computing and Net Protector.\nIn its June 22 advisory, the I4C had first flagged the emerging 'Boss Scam' threat, warning that compromised WhatsApp accounts could be used to target employees with fraudulent financial instructions.\nThe MHA has advised users to regularly review the 'Linked Devices' section in WhatsApp and remove unfamiliar or inactive sessions. It has also urged companies to independently verify urgent payment instructions received through messaging platforms.\nADVERTISEMENT Advertise with us ADVERTISEMENT Advertise with us ADVERTISEMENT Advertise with us ADVERTISEMENT Advertise with us The Ministry of Home Affairs (MHA) has issued a cybersecurity advisory cautioning users about the potential misuse of authenticated WhatsApp Web sessions to gain access to their accounts.\nThe advisory, dated November 18, was issued by the National Cybercrime Threat Analytics Unit of the Indian Cyber Crime Coordination Centre (I4C), under the MHA.\nThe advisory warned that leaving accounts logged in on office computers or shared devices could expose them to unauthorised access. This could allow malicious actors to read private messages, send messages while impersonating the account holder, access contacts and group conversations, and exploit trusted identities to carry out fraud, phishing and social-engineering attacks.\nThe advisory recommends that organisations avoid using WhatsApp Web on office computers, particularly in official and sensitive environments. Users have been advised against exchanging government, financial, confidential or other sensitive information through WhatsApp Web sessions on computers.\nThe I4C has cautioned that simply closing a browser window or tab should not be treated as logging out of WhatsApp Web. Users must manually terminate their sessions after completing their work and avoid leaving accounts permanently logged in.\nIf access is unavoidable, the agency recommends using 'incognito' or 'private browsing' mode on a trusted computer, followed by a manual logout. Users have also been advised against accessing WhatsApp Web through cyber cafes, public kiosks, hotel business centres, borrowed computers, or other untrusted systems.\nThe advisory further recommends keeping devices, operating systems, browsers and security software updated, avoiding suspicious downloads, and monitoring accounts for unexpected messages or unusual activity.\nWhatsApp Web sessions targeted in 'Boss Scam'\nThe latest warning comes amid a rise in WhatsApp-linked account takeover fraud. In an August 7 advisory, the MHA warned corporates and finance professionals about a campaign known as the 'Boss Scam' or CEO impersonation fraud.\nAccording to the ministry's statement published on the Press Information Bureau, fraudsters circulated malicious ZIP files disguised as account statements and regulatory communications, using names such as 'Statement of Account.zip', 'RBI.zip' and 'MCA.zip'.\nThe files contained malicious Windows executable (.exe) and Dynamic Link Library (.dll) files. Once extracted and executed on a Windows computer, the malware could compromise the device and hijack an active WhatsApp Web session.\nAttackers subsequently used compromised accounts to circulate the same malicious files to contacts and groups. In more advanced cases, they impersonated senior executives and instructed finance employees to make urgent transfers to fraudulent bank accounts.\nThe MHA said it had alerted more than 58,000 potential victims through SMS messages sent under the header 'I4CMHA-G' in the",
+ "id": "R1-2026-11-25",
+ "caption_final": "How to protect your business WhatsApp Web account from hijacking and Boss Scam fraud. The Ministry of Home Affairs warned that simply closing a browser tab does not log you out of WhatsApp Web on office computers. Attackers are sending malicious ZIP files named Statement of Account to run malware, hijack active sessions, and demand urgent payment transfers from employees. Always log out manually after finishing work and check your Linked Devices regularly. Have you checked your active WhatsApp Web sessions this week? Comment SAFETY for the full safety checklist.\n\n#WhatsAppSecurity #CyberSecurityIndia #SmallBusinessIndia #BusinessSafety"
+}

@@ -1,0 +1,270 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Why your AI subscriptions aren't increasing your shop's profit",
+  "angle": "You are focusing on 'cool' tech instead of fixing broken data workflows.",
+  "audience_problem": "Owners buy AI tools but fail to see ROI because their core business data is messy.",
+  "format": "myth_fact",
+  "medium": "reel",
+  "source_ids": [
+   51,
+   63
+  ],
+  "evergreen": true,
+  "keywords": [
+   "profit",
+   "ai tools",
+   "roi",
+   "data management"
+  ],
+  "scores": {
+   "relevance": 10,
+   "novelty": 8,
+   "hook_potential": 9,
+   "retention": 9,
+   "save_share": 8,
+   "feasibility": 10,
+   "evidence": 8,
+   "viral": 9
+  },
+  "total": 8.84
+ },
+ "piece": {
+  "hooks": [
+   "AI subscriptions ke liye paise kharchna band karo, ye dekho.",
+   "90% shop owners AI tools par faltu paisa waste kar rahe hain.",
+   "Stop buying expensive AI tools until your data workflows are clean.",
+   "Apne business ke liye AI tools select karne se pehle ye dekho.",
+   "AI tools aapki shop ka profit nahi badhayenge, agar ye missing hai."
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "It addresses the immediate pain point of wasted subscription costs, which is highly relatable for small business owners in India.",
+  "title": "Why AI Subscriptions Aren't Increasing Your Shop's Profit",
+  "scenes": [
+   {
+    "purpose": "Hook the viewer with a financial pain point.",
+    "narration": "AI subscriptions ke liye paise kharchna band karo, ye dekho.",
+    "on_screen": "Stop Wasting Money",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Subscription Trap",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Explain the myth about AI profitability.",
+    "narration": "Aapko lagta hai AI tool lene se profit badhega. Par asliyat kuch aur hai.",
+    "on_screen": "AI Isn't Magic",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "The Reality Check",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Compare manual/messy data vs clean automation.",
+    "narration": "Agar aapka data messy hai, toh AI sirf confusion badhayega.",
+    "on_screen": "Messy Data = Fail",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "Data Quality Matters",
+    "steps": [],
+    "items": [],
+    "left_label": "Manual Chaos",
+    "right_label": "Clean Automation",
+    "rows": [
+     {
+      "left": "Messy ledgers",
+      "right": "Structured sheets"
+     },
+     {
+      "left": "Random WhatsApp",
+      "right": "Automated CRM"
+     },
+     {
+      "left": "Manual entry",
+      "right": "Systematic flow"
+     }
+    ]
+   },
+   {
+    "purpose": "Explain tool limitation.",
+    "narration": "AI abhi bhi complex judgment aur real-world tasks mein fail hota hai.",
+    "on_screen": "AI Judgment Limits",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "What AI Struggles With",
+    "steps": [],
+    "items": [
+     "Complex business judgment",
+     "Open-ended research",
+     "Deep strategic planning"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Provide actionable takeaway.",
+    "narration": "Pehle apne core workflow fix karo, phir automation socho.",
+    "on_screen": "Fix Workflows First",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "The Right Order",
+    "steps": [
+     "Audit daily tasks",
+     "Clean your data",
+     "Automate simple flows"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "CTA.",
+    "narration": "Comment 'TOOLS', main aapko workflow setup karne ka guide DM kar dunga.",
+    "on_screen": "Comment TOOLS",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "DM for Guide",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "Stop wasting money on AI subscriptions if your business data is messy. Many shop owners buy expensive tools expecting instant profit, but AI requires structured data to actually work. If your current workflow for ledgers, GST invoices, or supplier tracking is broken, adding AI on top will only increase your costs without solving the root cause. Focus on cleaning your processes first. Automate the simple, repetitive stuff before chasing advanced tech. Most AI models are great at verifiable tasks like coding or math but struggle with complex business judgment. Start small and build your systems properly. Comment TOOLS for my step-by-step workflow audit checklist. #SmallBusinessIndia #BusinessAutomation #SmartBusiness #WorkflowEfficiency #TechTips",
+  "hashtags": [
+   "#SmallBusinessIndia",
+   "#BusinessAutomation",
+   "#SmartBusiness",
+   "#WorkflowEfficiency",
+   "#TechTips"
+  ],
+  "keywords": [
+   "AI tools for business",
+   "business automation",
+   "small business tips",
+   "data workflow",
+   "cost saving"
+  ],
+  "claims": [
+   {
+    "claim": "AI models are currently better at verifiable tasks like coding than tasks requiring human judgment.",
+    "source_id": 51
+   },
+   {
+    "claim": "It is difficult to apply reinforcement learning to tasks where success is less well defined.",
+    "source_id": 51
+   },
+   {
+    "claim": "You can connect your existing tools to Zapier to automate repetitive business systems.",
+    "source_id": 63
+   }
+  ],
+  "dm_keyword": "TOOLS",
+  "dm_text": "Thanks for asking! Here is how to fix your workflows before adding AI: 1. Audit your daily tasks: List everything you do manually. 2. Clean your data: Ensure your ledgers and spreadsheets are consistent before automation. 3. Start simple: Use tools like Zapier to connect existing apps for lead notifications or simple data entry tasks (https://zapier.com/blog/what-you-should-automate). Remember, AI performs best on verifiable, repetitive tasks. It cannot replace human judgment for complex strategic decisions yet. Focus on building solid, deterministic systems first!"
+ },
+ "review": {
+  "scores": {
+   "hook": 7,
+   "originality": 6,
+   "practical_value": 6,
+   "natural_language": 7,
+   "accuracy": 8,
+   "narrative": 7,
+   "visual_integrity": 5,
+   "pacing": 7,
+   "brand_consistency": 7,
+   "publish_readiness": 5
+  },
+  "claims": [
+   {
+    "claim": "AI models are currently better at verifiable tasks like coding than tasks requiring human judgment.",
+    "supported": true,
+    "note": "Supported by Source 51 (METR report)."
+   },
+   {
+    "claim": "It is difficult to apply reinforcement learning to tasks where success is less well defined.",
+    "supported": true,
+    "note": "Supported by Source 51."
+   },
+   {
+    "claim": "You can connect your existing tools to Zapier to automate repetitive business systems.",
+    "supported": true,
+    "note": "Supported by Source 63."
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Scene 1, Scene 2, Scene 6: Central card containers have huge empty white spaces with only 2-3 words, making slides look unfinished.",
+   "Scene 4: Green checkmark icons are used beside bullet points under 'What AI Struggles With', creating misleading visual cues (checkmarks imply success/capability)."
+  ],
+  "issues": [
+   "The action steps provided in Scene 5 and the DM offer are high-level ('Audit daily tasks', 'Clean data') without giving a concrete mini-example for an Indian business owner."
+  ],
+  "fix_instructions": "1. Replace green checkmarks in Scene 4 with bullet points or warning icons to avoid visually implying that AI succeeds at judgment tasks. 2. Redesign Scenes 1, 2, and 6 to eliminate large blank white card areas. 3. In Scene 5 or the DM response, mention a concrete workflow example like connecting Google Forms to WhatsApp via Zapier."
+ },
+ "rules": [
+  "more than one exclamation mark"
+ ],
+ "reasons": [
+  "more than one exclamation mark",
+  "hook 7/10 (<8)",
+  "originality 6/10 (<8)",
+  "practical_value 6/10 (<8)",
+  "natural_language 7/10 (<8)",
+  "narrative 7/10 (<8)",
+  "visual_integrity 5/10 (<8)",
+  "publish_readiness 5/10 (<7)"
+ ],
+ "meta": {
+  "duration": 33.9,
+  "voice": "edge",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-25/R2-2026-11-25/try2/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-25/R2-2026-11-25/try2/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-25/R2-2026-11-25/try2/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-25/R2-2026-11-25/try2/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-25/R2-2026-11-25/try2/scene_05.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-25/R2-2026-11-25/try2/scene_06.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   5.01,
+   6.77,
+   5.42,
+   5.79,
+   5.04,
+   5.87
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-25/R2-2026-11-25/try2",
+ "attempt": 2,
+ "approved": false,
+ "hook": "AI subscriptions ke liye paise kharchna band karo, ye dekho.",
+ "log": [
+  "attempt 1: render failed (No audio was received. Please verify that your parameters are correct.)",
+  "attempt 2: fail {'hook': 7, 'originality': 6, 'practical_value': 6, 'natural_language': 7, 'accuracy': 8, 'narrative': 7, 'visual_integrity': 5, 'pacing': 7, 'brand_consistency': 7, 'publish_readiness': 5} ['more than one exclamation mark', 'hook 7/10 (<8)', 'originality 6/10 (<8)', 'practical_value 6/10 (<8)']",
+  "attempt 3: render failed (No audio was received. Please verify that your parameters are correct.)",
+  "attempt 4: render failed (No audio was received. Please verify that your parameters are correct.)"
+ ],
+ "material": "[51] MIT Tech Review AI — The most misunderstood graph in AI just got a major update\nURL: https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/\nYou need to enable JavaScript to view this site. Skip to Content EXECUTIVE SUMMARY A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding.\nThe report is an update to the organization’s time horizon plot, which was widely shared— and widely misinterpreted , owing to the complexity of the measures it used. METR evaluated models by having them attempt a large suite of tasks, each of which had also been completed by humans. Each task’s difficulty was scored by how long it took the human testers to finish it—and then models were rated according to the length of the tasks that they could complete. That plot showed that AI systems were rapidly improving—every four months, the length of the tasks that frontier models could successfully complete doubled.\nThe updated plot adds more tasks—some that are estimated to take humans far longer than those in the original suite, and others that are more open-ended. One of the biggest questions in AI right now is the extent to which progress on “verifiable” tasks—where it’s possible to check automatically whether an AI system has succeeded or failed—carry over into tasks on which success or failure is harder to measure. We know how to teach neural networks how to do verifiable tasks: Researchers have the systems attempt one many times, strengthen the neural pathways that contribute to success, and weaken the pathways that contribute to failures. That’s why AI systems have become so good at coding and math, two domains where it’s possible to determine automatically whether a solution does or doesn’t work.\nIt’s much harder to apply this technique, known as reinforcement learning, to tasks where success is less well defined or takes longer to ascertain—such as choosing a new research direction. For the same reason, it’s tough to evaluate AI performance on these tasks, so METR’s original time horizon plot didn’t include any of them. But it’s precisely this type of task that will prove essential if AI systems are to automate research and development.\nAnd AI research and development is an especially hot topic right now. Parts of the AI community are still reeling from a different, heavily redacted METR report from earlier this month, which claimed that AI might be speeding up the pace of AI progress at Anthropic by a factor of two. That report sparked fears that the company (which just had a blockbuster IPO) could soon achieve full recursive self-improvement, a regime in which AI systems autonomously design their own successors with no human involvement.\nMETR researchers have worked to make sure their new suite of tasks includes some of the fuzzier, judgment-laden ones that could be most relevant to AI research and development. In one task, they ask models to design new AI evaluations that METR could use in its research and then have human METR employees score the results. Even though the most advanced models are now better than almost every human at software engineering, here they fall short: Not one of the AI-designed evaluations was good enough for METR employees to consider it useful for their research.\nIn another task, models have to score philosophical arguments. This task is intended to capture the extent to which models can exercise good judgment—though METR writes in the report that employees disagree about how relevant the task is for automation of AI R&D. On this task, too, models fell short of human performance.\nThough it’s difficult to score these new tasks—and even harder to determine what the scores mean—experts I spoke with appreciate that METR is incorporating new types of evaluations into its work. “We’re at the point where AI evaluations need to get more creative,” says Sayash Kapoor, a computer scientist and incoming professor at UC Berkeley. “Trying to push the envelope of the space of evaluations is a welcome change.”\nKapoor says he wasn’t surprised to see that models fall short of performance on more open-ended tasks, such as designing an AI evaluation—in a preprint from August , he and his collaborators reported that AI models are not yet able to reproduce human computer science research on their own. And in a Wednesday blog post, OpenAI reported that its models don’t do as well on the real-world tasks its employees assign them as they do on the easier, more verifiable tasks in METR’s original suite.\nStill, people disagree about how to interpret current performance differences on easily verifiable and hard-to-verify tasks, Kapoor says. Though he thinks that research taste—the ability to choose promising questions, hypotheses, and experiments—will prove a major bottleneck in automating AI R&D, others contend that models trained on easy-to-verify tasks will eventually be able to successfully complete open-ended tasks as well. And progress on verifiable tasks doesn’t seem to be slowing down.\nEven if the models do lag behind human performance on open-ended tasks right now, the new report suggests that they might be getting better. Some of the newest models, such as Opus 5.5, tend to achieve what METR calls “borderline above the bar” performance on the evaluation design tasks—not yet usable for METR's research, but promising. Just a year ago, every model was scoring in the “clearly below the bar” category.\nBut because these open-ended and judgment-heavy tasks are so tough to design and score, METR includes few of them in its report, and that makes it difficult to predict whether and how models might continue to progress in these areas. “The improvement we observe, I think that does tell us something for the current moment,” says Najoung Kim, a linguist and computer scientist at Boston University. “I’m not sure just yet how to think about how it would extrapolate.”\nMatt Putz, a member of the technical staff at METR, says that predicting progress on these kinds of tasks is likely to remain difficult. “By their nature, hard-to-verify or judgment-laden tasks are much harder to study, and especially to quantify,” he said in an email. “Ultimately, I don’t think we’ll be able to establish trends as clean and robust as for the easy-to-specify [tasks].”\nIn general, METR is clearly butting up against the practical difficulties of testing AI performance on difficult and underspecified tasks—precisely the ones most relevant to automating AI R&D. METR’s time horizon plots score task difficulty by evaluating how long it would take a human to complete the task, and for the original plot they measured this quantity by actually having people try each task.\nIn the new report, however, the completion times are mostly estimates, because paying people for tasks that might take hundreds of hours, or that only a few experts are qualified to complete, is prohibitively expensive and time-consuming. Other tasks have more specific shortcomings—for example, for \n\n[63] Zapier Blog — 5 systems you should automate today\nURL: https://zapier.com/blog/what-you-should-automate\nThe people on your team have extraordinary ideas. But their brilliance can't surface, much less get deployed at scale, if everyone's bogged down with disconnected tools and colorless operational work.\nUnless they delegate that work to Zapier, that is. On our platform, you can build secure, AI-powered systems that connect perfectly with each other and the 10,000+ apps in our ecosystem.\nIf you're ready to replace rote work and chaos with coordination, keep scrolling. I've put together five systems that are ripe for automation—complete with ready-to-use Zapier templates and tips to help you start automating fast, regardless of your role or experience with building these kinds of systems.\nYou can build every one of them two ways: start from a Zap template, or add Zapier to your AI tool and describe what you want in a prompt. In each section below, you'll find the templates and the prompts you can paste into Claude, ChatGPT, or Cursor to get the same result.\nTo use the templates and prompts in this article: For the templates, just click the button to try it, and you'll be brought to the Zapier editor. For the prompts, connect Zapier to your AI tool first, then connect the apps you want to automate. Paste a prompt, swap in your own apps, and your agent will draft the Zap. Either way, once it's live, the Zap runs on its own.\nNotify your team about new leads or customers\nAutomatically create and track calendar events\nConsolidate information in a spreadsheet or database\nBuild automations from wherever you work. Describe the outcome you want, and Zapier connects your tools, runs the steps, and stays on the job after you close the chat. Combine AI with reliable, deterministic automation across 10,000+ apps. Get started for free.\nMessage your team about leads or customers\nIf a lead comes in and nobody acts on it, did it actually come in? We can't answer that question—we'll leave that to philosophers—but what we can do is help you make sure this never happens.\nYou could say it's one of the things we do best. People commonly use Zapier to notify teammates about leads.\nIt's a simple Zap—what we call our automated workflows—to set up. All you need to do is connect whatever source you're getting leads from to whatever communication tool your sales or marketing team uses the most. That way your team gets notified every time a new lead comes in, in the place they're most likely to see it, so they can take action right away.\nFor example, you could send an email to your team whenever a lead comes in. Here are some quick Zap workflows to get you started.\nSend emails in Gmail for new leads in Facebook Lead Ads\nGet emails with new Facebook Lead Ads leads\nDispatch emails in Microsoft Outlook with new leads in Facebook Lead Ads\nYou could also set up notifications in your team chat app, either in a public channel or as a private message.\nPost new LinkedIn Lead Gen Form leads to Microsoft Teams\nSend new TikTok Lead Generation leads to Google Hangouts Chat\nGet Slack channel notifications for new Facebook Lead Ads\nSend channel messages on Discord for new Google Ads leads\nSend SMS messages for new leads from Facebook Lead Ads\nSend SMS messages for new Google Ads leads\nSend SMS messages for new TikTok Lead Generation leads\nYou could even add a filter step to notify your team only when certain conditions are met—like if the lead comes from a specific campaign, has a company email address, or includes key details like job title or budget. It's a smart way to focus on high-quality leads and avoid notification overload.\nSend Gmail emails for filtered leads from LinkedIn Ads\nSend Slack channel messages for filtered leads from Facebook\nPaste any of these into your AI tool. Swap in the apps you actually use. Click Copy and then paste the prompt directly in your AI agent.\nCopy Build on Zapier: Whenever a new lead comes into [HubSpot], send an email to [sales@yourcompany.com] with the lead's name, company, and email address. Team chat alert\nCopy Build on Zapier: When a new lead is added to [Salesforce], post a message in the #sales channel in [Slack] with the lead's name, company, and lead source. Private message to the lead owner\nCopy Build on Zapier: When a new lead is assigned to someone in [HubSpot], send that person a direct message in [Slack] with the lead's details and a link to the record. SMS alert\nCopy Build on Zapier: When a new lead fills out my [Typeform] form, text me the lead's name and phone number. Only the leads that matter\nCopy Build on Zapier: When a new lead comes into [HubSpot], only notify #sales in [Slack] if the lead has a company email address and a job title that includes 'Director' or 'VP.' Skip everyone else. Your agent will build each of these as a Zap that starts the moment a lead comes in, so your team hears about it right away, not at the next scheduled check.\nIt's one thing to find out about new leads quickly, but what if you could follow up with leads without needing to do anything? It sounds like a dream, but you can also set that up with Zapier.\nYou could instantly follow up with new leads via SMS or email by having Zapier automatically send a message to your new leads.\nSend emails in Gmail for new leads in Facebook Lead Ads\nSend new Facebook Lead Ads leads a text message via ClickSend SMS\nSend Kudosity messages for new Google Ads leads\nSend Gmail emails to new TikTok Lead Generation leads\nSend SMS messages via Twilio to new LinkedIn Lead Gen Form leads\nYou could also sign those leads up for your email newsletter, saving you from having to add them manually. Just make sure they've opted into the subscription first to make sure you're staying compliant with GDPR .\nSubscribe new Facebook Lead Ad leads to a Mailchimp list\nAdd LinkedIn Lead Gen Form leads as new contacts in ActiveCampaign\nSubscribe new TikTok Lead Generation leads to a Mailchimp list\nAdd contacts in ActiveCampaign for new leads from Google Ads\nYou can even add an AI step using ChatGPT or AI by Zapier to generate more personalized emails. Stand out from the crowd without putting in any extra effort—just sign off and click Send .\nWrite new LinkedIn Ads leads emails with ChatGPT and send in Gmail\nWrite AI-generated emails to LinkedIn Ads leads with AI by Zapier\nThese prompts let you build the Zaps directly from ChatGPT, Claude, Cursor, or any AI tool you use.\nCopy Build on Zapier: When a new lead comes in through [Facebook Lead Ads], send them a short, friendly email from [Gmail] thanking them and asking when they're free for a call. Instant follow-up SMS\nCopy Build on Zapier: When someone submits my [Google Forms] contact form, send them a text confirming we received their request. Newsletter signup\nCopy Build on Zapier: When a new lead in [HubSpot] marks 'subscribed to newsletter' as yes, add them to my [Mailchimp] audience. Only add people who have opted in. Personalized with AI\nCopy Build on Zapier: When a new lead comes into [HubSpot], draft a personalized follow-up email in [Gmail] using the lead's company",
+ "id": "R2-2026-11-25",
+ "caption_final": "Stop wasting money on AI subscriptions if your business data is messy. Many shop owners buy expensive tools expecting instant profit, but AI requires structured data to actually work. If your current workflow for ledgers, GST invoices, or supplier tracking is broken, adding AI on top will only increase your costs without solving the root cause. Focus on cleaning your processes first. Automate the simple, repetitive stuff before chasing advanced tech. Most AI models are great at verifiable tasks like coding or math but struggle with complex business judgment. Start small and build your systems properly. Comment TOOLS for my step-by-step workflow audit checklist.\n\n#SmallBusinessIndia #BusinessAutomation #SmartBusiness #WorkflowEfficiency #TechTips"
+}

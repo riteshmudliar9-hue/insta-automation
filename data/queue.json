@@ -5820,5 +5820,48 @@
   "media_id": "17960290755082015",
   "permalink": "https://www.instagram.com/p/DgH4cbzFbOU/",
   "published_at": "2026-11-24T17:16:47.844108+05:30"
+ },
+ {
+  "id": "C1-2026-11-25",
+  "kind": "carousel",
+  "date": "2026-11-25",
+  "slot": "2026-11-25T09:00",
+  "dir": "output/2026-11-25/C1-2026-11-25/try1",
+  "files": [
+   "slide_01.jpg",
+   "slide_02.jpg",
+   "slide_03.jpg",
+   "slide_04.jpg",
+   "slide_05.jpg",
+   "slide_06.jpg"
+  ],
+  "caption": "Your Google Search settings might be accessing your private invoices and financial history to build a 'Personal Intelligence' profile. While this can help you track spending or prepare for tax season, it also means Google is scanning your connected Drive documents and Wallet data to provide these responses. Before you hit 'opt-in', audit the folders you keep in your primary Google Drive. If you store sensitive supplier contracts or employee payroll sheets, consider keeping those in a separate, disconnected account. You are always in control of these settings—have you checked your 'Connected Apps' list recently to see what Google has access to?\n\n#DataPrivacy #GoogleTips #BusinessSafety #SmallBusinessIndia",
+  "topic": "Why your invoices are likely visible to Google's ad algorithms",
+  "format": "problem_fix",
+  "hook": "Check your Google settings before uploading sensitive invoices",
+  "keywords": [
+   "Google search settings",
+   "data privacy for business",
+   "personal intelligence google",
+   "secure google drive",
+   "business document security"
+  ],
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 9,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "status": "queued",
+  "produced_at": 1795588800,
+  "log": [],
+  "dm_keyword": "",
+  "dm_text": ""
  }
 ]
