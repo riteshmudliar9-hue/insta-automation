@@ -1,0 +1,211 @@
+{
+ "kind": "carousel",
+ "idea": {
+  "idea": "Local leads: Don't lose them to AI search bots",
+  "angle": "Optimize your business profile so AI search engines actually suggest your shop",
+  "audience_problem": "Local shops invisible in the new generation of AI-powered search results",
+  "format": "tutorial",
+  "medium": "carousel",
+  "source_ids": [
+   30,
+   36
+  ],
+  "evergreen": true,
+  "keywords": [
+   "local SEO",
+   "AI search",
+   "business visibility",
+   "customers"
+  ],
+  "scores": {
+   "relevance": 10,
+   "novelty": 9,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 9,
+   "evidence": 7,
+   "viral": 9
+  },
+  "total": 8.8
+ },
+ "piece": {
+  "hooks": [
+   "Stop wasting hours searching your own business files",
+   "How to search your supplier invoices directly in Google",
+   "Find your saved project documents using Google Search"
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "It addresses a specific daily pain point of small business owners—wasting time hunting for files—while introducing the exact feature (Google Personal Intelligence) that solves it.",
+  "slides": [
+   {
+    "kind": "cover",
+    "title": "Stop wasting hours searching your own business files",
+    "subtitle": "Use Google Search to find your own invoices and project documents",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "point",
+    "title": "The problem",
+    "subtitle": "Searching for files",
+    "body": "Important information like supplier invoices, project sheets, and PDFs are often scattered across your Google Drive. Searching for them manually takes time away from your actual shop work.",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "steps",
+    "title": "How to connect your files",
+    "subtitle": "Set it up once",
+    "body": "Link your Google Drive to Search to query your own business data directly.",
+    "items": [
+     "Open your Google Search settings",
+     "Go to Search Personalization",
+     "Select Connected Apps",
+     "Choose Google Drive to connect"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "mythfact",
+    "title": "Privacy concerns",
+    "subtitle": "Clarifying the data",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "Google uses my private files to train their public models.",
+    "fact": "You remain in control of your data by choosing which apps to connect and can manage these settings at any time.",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "quote",
+    "title": "Expert view",
+    "subtitle": "Data control",
+    "body": "Stay in control of your data.",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "You remain in control of your data by choosing which apps to connect and managing your settings.",
+    "attribution": "Robby Stein, VP of Product for Google Search"
+   },
+   {
+    "kind": "summary",
+    "title": "Key takeaways",
+    "subtitle": "Getting started",
+    "body": "",
+    "items": [
+     "Connect Drive to Search to query your docs",
+     "Manage your privacy settings at any time",
+     "Use AI Mode to get answers from your files",
+     "This is for your own personal business data"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   }
+  ],
+  "caption": "Searching for specific supplier rates or past project invoices inside a messy Google Drive folder can take forever. Instead of opening multiple tabs, you can now link your Drive to your Search settings. This lets you ask Google Search questions like 'What was the last invoice from my hardware supplier?' and get an answer based on your actual documents. You are always in control of what apps connect to your search history. If you decide you don't want Google accessing a specific folder, you can turn off the connection instantly in your settings. Have you tried connecting your work files to your personal Search yet? Tell me below.",
+  "hashtags": [
+   "#GoogleTips",
+   "#BusinessProductivity",
+   "#SmallBusinessIndia",
+   "#DigitalWorkplace"
+  ],
+  "keywords": [
+   "Google Drive search",
+   "business file management",
+   "Google Personal Intelligence",
+   "productivity tips for business",
+   "search settings tutorial"
+  ],
+  "claims": [
+   {
+    "claim": "You can connect your Google Drive to Google Search to receive personalized responses based on your documents.",
+    "source_id": 30
+   },
+   {
+    "claim": "You remain in control of your data by choosing which apps to connect and can manage your settings at any time.",
+    "source_id": 30
+   }
+  ]
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "You can connect your Google Drive to Google Search to receive personalized responses based on your documents.",
+    "supported": true,
+    "note": "Confirmed by source 30."
+   },
+   {
+    "claim": "You remain in control of your data by choosing which apps to connect and can manage your settings at any time.",
+    "supported": true,
+    "note": "Confirmed by source 30."
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [],
+  "issues": [
+   "The carousel is slightly repetitive between slide 4 (Myth/Fact) and slide 5 (Quote). Both slides communicate the exact same point about data control.",
+   "The content is very safe but lacks a 'wow' factor or a specific example of a query that would make a business owner say 'I need this right now'."
+  ],
+  "fix_instructions": "Keep the carousel as is for a solid, professional post. To improve, replace slide 5 (the quote) with a concrete example of a search query, such as: 'What was the total invoice amount from [Supplier Name] in October?' This would provide more immediate practical value and demonstrate the 'AI Mode' capability better than a generic quote."
+ },
+ "rules": [],
+ "reasons": [],
+ "meta": {
+  "ai_visuals": false,
+  "slides": 6
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-26/C1-2026-11-26/try2",
+ "attempt": 2,
+ "approved": true,
+ "hook": "Stop wasting hours searching your own business files",
+ "log": [
+  "attempt 1: fail {'hook': 3, 'originality': 4, 'practical_value': 3, 'natural_language': 5, 'accuracy': 2, 'narrative': 4, 'visual_integrity': 8, 'pacing': 7, 'brand_consistency': 6, 'publish_readiness': 2} ['hook 3/10 (<8)', 'originality 4/10 (<8)', 'practical_value 3/10 (<8)', 'natural_language 5/10 (<8)']",
+  "attempt 2: PASS {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} []"
+ ],
+ "material": "[30] Google AI Blog — A more tailored Google Search that’s uniquely yours\nURL: https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/\nA more tailored Google Search that’s uniquely yours Nov 23, 2026\nGet more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode.\nYour browser does not support the audio element.\nWe’re adding Google Wallet and Drive to Personal Intelligence, allowing Search to provide answers based on your spending, documents, and chats. These updates help you manage finances, organize projects, and maintain context across your search threads. You can opt in to connect these apps by visiting your Search Personalization settings, where you remain in control of your data and can adjust your preferences at any time.\nWe are adding Google Wallet and Google Drive to Personal Intelligence to provide more relevant search results.\nYou can now connect your financial data to identify spending habits and optimize your credit card rewards.\nConnecting your documents allows you to receive personalized plans based on information across your various files.\nYou remain in control of your data by choosing which apps to connect and managing your settings.\nRobby Stein, VP of Product for Google Search, explains that you can now connect your apps like Google Wallet and Drive to Search for more personalized results. When you opt in, Search uses your own documents, spending habits, and recent activity to provide tailored answers. This helps you track financial goals, organize project information, and continue research tasks without repeating yourself. You remain in control and can manage these connections in your settings at any time.\nThe most helpful search experience brings together the richness of the world’s information with insights uniquely relevant to you. Today, Search is getting even more tailored with the ability to connect more of your apps to Personal Intelligence — and we're introducing more personally relevant responses, so it's easier to find just what you need.\nStarting to roll out today, you can opt in to securely connect Google Wallet to Personal Intelligence in AI Mode , with support for Drive and the Gemini app following in the coming weeks — bringing context from your spending, documents, and chats directly to Search. These apps join Gmail, Calendar, and Photos in delivering even more tailored responses with your personal context.\nGet a clearer picture of your spending with Google Wallet: By connecting Google Wallet to Personal Intelligence in both AI Mode and the Gemini app , you can map out your financial milestones and identify actionable ways to trim everyday spending. You can also maximize credit card benefits — like optimizing cash-back categories, travel perks, and reward points — based on your cards linked via Wallet. If you choose to connect your Wallet, AI Mode can only read information from your accounts; it can’t move, manage, or invest your money.\nStay in your flow with Google Drive: Sometimes the important information that you need to get started on a project or make a big decision can be scattered across your docs, sheets, or PDFs. With Google Drive connected in Personal Intelligence, you can get uniquely helpful responses that take all of that context into account and help you get started, like a personalized preparation plan ahead of tax season.\nConnect the dots between the Gemini app and Search: In the coming weeks you can easily share context across the Gemini app and AI Mode in Search. So if you explore an idea in the Gemini app, AI Mode will have that foundation to build on, and vice versa. While you could already opt in to connect your Search history to Personal Intelligence in the Gemini app, soon you can also opt in to securely connect your Gemini app to Personal Intelligence in AI Mode.\nTo connect your apps to Personal Intelligence in AI Mode, open Search Personalization, select Connected Apps, and then choose the apps you want to connect . You choose if and when you opt in, and you can turn those connections on or off at any time. You’re always in control of your personalization settings, and soon you’ll also be able to view the context AI Mode uses via the “Personalization” icon below any tailored response. If you want to edit anything simply let AI Mode know what to change, like responding in thread “I’m no longer a vegetarian.”\nYou’ll also start seeing more personally relevant responses in AI Overviews and AI Mode, tailored to your recent search context. So if you’ve been researching and planning for a trip, you can pick up right where you left off in a new search thread without starting over or repeating yourself. As always, you can adjust or turn off personalization at any time in your Search Settings.\nGet the latest news from Google in your inbox\nSign up for our newsletters with product updates, event information, special offers, and more.\nCheck your inbox to confirm your subscription.\nYou can also subscribe with a different email address .\nYour information will be used in accordance with Google's privacy policy. You may opt out at any time.\nRobby Stein is Vice President of Product, Google Search, working on the development of generative AI products and experiences that help people search and access information effortlessly.\nHow Gemini is changing the game for Golden State's organization and fans.\nGet your year-end tasks done with new Connected Apps.\nIntroducing Tool Retrieval in the Gemini API\nWalter Isaacson on curiosity and creativity in the AI age.\nLas Vegas race week brings big rewards to Google Play\nThe Gemini app is now available on lower-memory Android devices.\n\n[36] Google AI Blog — Google Search gets a major upgrade with Gemini 4 Hydrogen\nURL: https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/\nGoogle Search gets a major upgrade with Gemini 4 Hydrogen Nov 12, 2026\nYour browser does not support the audio element.\nWe are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more intuitive, visual, and precise answers. This update helps you navigate complex questions by understanding your intent, conducting simultaneous queries, and displaying structured information like tables and images. You can try these improved capabilities by visiting Google Search today to ask your most nuanced questions.\nWe are introducing Gemini 4 Hydrogen to provide more helpful and intuitive responses in Google Search.\nYou can now ask complex, multi-part questions because our model understands your intent with greater precision.\nOur improved reasoning capabilities connect you to a wider range of relevant websites and helpful links.\nYou will see more visual content, including structured responses, comparison tables, and custom tools for you.\nThese updates provide nuanced and accurate answers in all languages supported by our AI models today.\nWe are bringing Gemini 4 Hydrogen to Google Search to help you find exactly what you need. This update understands complex, multi-part questions and provides clear answers with helpful images, tables, and links. You can now ask about specific requirements for travel, shopping, or hobbies in your own natural language. It connects you to more relevant websites and tools to save you time during your daily searches.\nToday, Google Search is bringing cutting-edge intelligence to everyone with Gemini 4 Hydrogen . This is the biggest model upgrade to Search yet.\nHydrogen is now available globally in Google Search for all users, delivering more helpful, visual, and intuitive responses with improved model capabilities:\nBetter understanding of intent: Search can now handle even more nuanced and complicated questions, quickly understanding what you need. Just ask in your natural flow of thought — including questions with multiple parts, hard-to-understand typos, or highly specific requests. With deeper instruction following and tool calling, Search more precisely follows what you want and gives you relevant responses that address each part of your question.\nImproved query fan-out and linking: Hydrogen’s advanced reasoning supercharges our query fan-out technique in Search, connecting you to a broader range of helpful links than before. By more thoroughly understanding your question and conducting simultaneous queries across all the relevant subtopics, Search helps you find sites you previously might not have discovered.\nMore visual responses: You get highly adaptive, visual, and easy-to-scan responses that are uniquely relevant to your needs — at the speed of Search. You’ll see more images, structured responses, comparison tables, and custom tools built for you.\nRicher language understanding: No matter what language you ask in, you’ll now get more highly nuanced and helpful responses across all supported AI Mode languages.\nTry out Gemini 4 Hydrogen in Search today.\nGet the latest news from Google in your inbox\nSign up for our newsletters with product updates, event information, special offers, and more.\nCheck your inbox to confirm your subscription.\nYou can also subscribe with a different email address .\nYour information will be used in accordance with Google's privacy policy. You may opt out at any time.\nRobby Stein is Vice President of Product, Google Search, working on the development of generative AI products and experiences that help people search and access information effortlessly.\nHow Gemini is changing the game for Golden State's organization and fans.\nSee what 5 builders are making with Gemini 4 Neon\nSee what 6 builders are making with Gemini 4 Hydrogen\nA more tailored Google Search that’s uniquely yours\nGet your year-end tasks done with new Connected Apps.\nIntroducing Tool Retrieval in the Gemini API",
+ "id": "C1-2026-11-26",
+ "caption_final": "Searching for specific supplier rates or past project invoices inside a messy Google Drive folder can take forever. Instead of opening multiple tabs, you can now link your Drive to your Search settings. This lets you ask Google Search questions like 'What was the last invoice from my hardware supplier?' and get an answer based on your actual documents. You are always in control of what apps connect to your search history. If you decide you don't want Google accessing a specific folder, you can turn off the connection instantly in your settings. Have you tried connecting your work files to your personal Search yet? Tell me below.\n\n#GoogleTips #BusinessProductivity #SmallBusinessIndia #DigitalWorkplace"
+}

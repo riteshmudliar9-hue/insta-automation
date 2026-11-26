@@ -1,0 +1,266 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "The hidden cost of linking bank accounts to AI",
+  "angle": "Why major banks and security firms are warning against AI agent access",
+  "audience_problem": "Owners blindly giving AI tools access to financial accounts for 'convenience'",
+  "format": "problem_fix",
+  "medium": "reel",
+  "source_ids": [
+   28
+  ],
+  "evergreen": true,
+  "keywords": [
+   "banking security",
+   "AI risks",
+   "data theft",
+   "finance"
+  ],
+  "scores": {
+   "relevance": 10,
+   "novelty": 8,
+   "hook_potential": 10,
+   "retention": 9,
+   "save_share": 10,
+   "feasibility": 9,
+   "evidence": 8,
+   "viral": 10
+  },
+  "total": 9.39
+ },
+ "piece": {
+  "hooks": [
+   "1Password ke backend server breach ke baad bhi passwords safe kaise rahe?",
+   "Agar aap business passwords app mein store karte ho, ye dekho.",
+   "Password manager incident se seekho: fake security emails se kaise bachein.",
+   "Kya app server hack hone par aapka business password leak hota hai?",
+   "1Password breach update: phishing emails se shop data kaise bachayein."
+  ],
+  "chosen_hook": 1,
+  "hook_reason": "Directly targets small-business owners using password managers for shop credentials, addressing data security concerns while staying strictly truthful to the breach details.",
+  "title": "Password Manager Breach Safety Rules",
+  "scenes": [
+   {
+    "purpose": "Hook",
+    "narration": "Agar aap business passwords app mein store karte ho, ye dekho.",
+    "on_screen": "Password App Safe Hai?",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Password Breach Warning",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Incident context",
+    "narration": "1Password ke corporate GitHub account breach hone par customer emails leak ho gaye.",
+    "on_screen": "Metadata Leaked In Attack",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Attacker accessed GitHub",
+     "Emails & names downloaded",
+     "Account tokens exposed"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Encryption mechanism",
+    "narration": "Lekin vault secrets safe rahe, kyunki encryption keys sirf aapke paas hoti hain.",
+    "on_screen": "Vault Safe Kyun Raha?",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "Server Level",
+    "right_label": "Vault Level",
+    "rows": [
+     {
+      "left": "Metadata exposed",
+      "right": "Vault encrypted"
+     },
+     {
+      "left": "Tokens stolen",
+      "right": "Keys only with user"
+     }
+    ]
+   },
+   {
+    "purpose": "Remediation step",
+    "narration": "Security ke liye unhone invitation codes 6 se 10 digits kar diye.",
+    "on_screen": "Code Security Upgrade",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "6-Digit Verification",
+     "Upgraded to 10-Chars",
+     "Brute Force Blocked"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Phishing precaution",
+    "narration": "Ab fake emails se bacho. 1Password kabhi mail par secret key nahi maangta.",
+    "on_screen": "Phishing Warning",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Ignore unexpected emails",
+     "Secret Key stays private",
+     "Login via official app"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Call to action",
+    "narration": "Apne logins safe rakho. Comment SAFETY, main safety steps DM kar dunga.",
+    "on_screen": "Comment SAFETY For Steps",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Comment SAFETY Below",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "How 1Password zero knowledge encryption protects business passwords during a security breach. When 1Password reported an attacker accessed their employee GitHub account, customer administrative metadata like emails and account creation times were exposed. However, user vaults remained encrypted because decryption keys are only stored on your local devices. If you store shop login details, GST portal credentials, or bank passwords in a vault, watch out for fake invitation or recovery emails asking for your Secret Key. 1Password never asks for your password or Secret Key via email or call. Comment SAFETY for the full account security checklist.",
+  "hashtags": [
+   "#PasswordSecurity",
+   "#CyberSecurityIndia",
+   "#DataProtection",
+   "#SmallBusinessSafety"
+  ],
+  "keywords": [
+   "1password security breach",
+   "business password manager",
+   "zero knowledge encryption",
+   "phishing email protection",
+   "account recovery safety"
+  ],
+  "claims": [
+   {
+    "claim": "In November 2026, an attacker accessed a 1Password employee corporate GitHub account, retrieving backend source code and customer metadata.",
+    "source_id": 28
+   },
+   {
+    "claim": "Customer vault secrets remained unexposed because 1Password vault contents are encrypted with keys held strictly by the user.",
+    "source_id": 28
+   },
+   {
+    "claim": "1Password rotated exposed internal credentials and lengthened invitation and account recovery tokens from 6 numeric digits to 10 alphanumeric characters.",
+    "source_id": 28
+   },
+   {
+    "claim": "1Password stated it will never contact users to request account passwords or Secret Keys via phone, email, or text.",
+    "source_id": 28
+   }
+  ],
+  "dm_keyword": "SAFETY",
+  "dm_text": "Here is your 1Password security action plan for business accounts:\n\n1. Vault Encryption: Your vault password and Secret Key are encrypted locally. 1Password servers cannot read your stored credentials even during a breach.\n2. Beware of Phishing: Attackers can use leaked email metadata to send fake account recovery emails. Never share your password or Secret Key over phone or email.\n3. Official Portals: Always enter your Secret Key directly on official 1Password apps or official websites.\n4. Token Upgrades: 1Password upgraded account recovery codes from 6 digits to 10 alphanumeric characters to stop brute-force attacks.\n\nOfficial Incident Report: https://1password.com/blog/update-on-nov-2026-security-incident"
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 9,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 7,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "In November 2026, an attacker accessed a 1Password employee corporate GitHub account, retrieving backend source code and customer metadata.",
+    "supported": true
+   },
+   {
+    "claim": "Customer vault secrets remained unexposed because 1Password vault contents are encrypted with keys held strictly by the user.",
+    "supported": true
+   },
+   {
+    "claim": "1Password rotated exposed internal credentials and lengthened invitation and account recovery tokens from 6 numeric digits to 10 alphanumeric characters.",
+    "supported": true
+   },
+   {
+    "claim": "1Password stated it will never contact users to request account passwords or Secret Keys via phone, email, or text.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Scene 3: The table layout is slightly cramped; ensure the text alignment is perfectly centered within the boxes for better readability.",
+   "Scene 4: The arrow icons between the boxes are very thin and might be hard to see on smaller mobile screens."
+  ],
+  "issues": [
+   "The narration in Scene 5 is cut off mid-sentence ('nahi maangta' vs 'nahi maangta hai'). While the subtitle box is designed to show chunks, the audio should feel complete.",
+   "The transition between Scene 2 and 3 is a bit abrupt; consider adding a 0.5s pause or a subtle transition effect to emphasize the 'but' (Lekin) in the narration."
+  ],
+  "fix_instructions": "1. Lengthen the audio clip in Scene 5 to include the full word 'hai' at the end of the sentence. 2. Increase the stroke weight of the arrows in Scene 4 to ensure they are visible on all devices. 3. Ensure the table text in Scene 3 is vertically centered. 4. Otherwise, the content is solid and ready for publication."
+ },
+ "rules": [],
+ "reasons": [
+  "originality 7/10 (<8)",
+  "visual_integrity 7/10 (<8)"
+ ],
+ "meta": {
+  "duration": 34.4,
+  "voice": "gemini",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-26/R1-2026-11-26/try2/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-26/R1-2026-11-26/try2/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-26/R1-2026-11-26/try2/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-26/R1-2026-11-26/try2/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-26/R1-2026-11-26/try2/scene_05.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-26/R1-2026-11-26/try2/scene_06.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   2.87,
+   15.35,
+   4.05,
+   4.16,
+   3.64,
+   4.32
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-26/R1-2026-11-26/try2",
+ "attempt": 2,
+ "approved": false,
+ "hook": "Agar aap business passwords app mein store karte ho, ye dekho.",
+ "log": [
+  "attempt 1: fail {'hook': 7, 'originality': 6, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['scene 3: compare needs rows', 'hook 7/10 (<8)', 'originality 6/10 (<8)', 'visual_integrity 7/10 (<8)']",
+  "attempt 2: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 9, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['originality 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+  "attempt 3: fail {'hook': 7, 'originality': 5, 'practical_value': 6, 'natural_language': 7, 'accuracy': 8, 'narrative': 6, 'visual_integrity': 7, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 6} ['hook 7/10 (<8)', 'originality 5/10 (<8)', 'practical_value 6/10 (<8)', 'natural_language 7/10 (<8)']",
+  "attempt 4: fail {'hook': 8, 'originality': 7, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'practical_value 7/10 (<8)', 'visual_integrity 7/10 (<8)']"
+ ],
+ "material": "[28] Hacker News — 1Password Security Incident\nURL: https://1password.com/blog/update-on-nov-2026-security-incident\nUpdate on a security incident involving 1Password’s backend systems. | 1Password Skip to Main Content by 1Password\nOn November 19, 2026, 1Password began investigating indications that an attacker gained access to an employee’s corporate GitHub account. The actor used the account to access source code and push malicious code to backend services, which downloaded administrative data pertaining to our customers. This data included customer names and email addresses, in addition to non-secret internal metadata about the account. At no time were customer vault contents accessed by, or available to, the attacker.\nThe attacker downloaded account records for a subset of our users. These records include:\nAccount and user identifiers, and account creation and last sign-in times\nPublic keys (which are public by design, this has no impact to user security)\nSecure Remote Password protocol parameters (which cannot be used to access your account)\nTokens present in certain emailed links for invitations, provisioning and account recovery\nOther non-secret account metadata relative to our internal architecture (e.g. version numeric identifiers, file numeric identifiers)\nThe attacker also copied source code from private repositories and gained access to our CI/CD system. Our source code is not customer data, and contains no user secrets. CI/CD contains infrastructure related secrets in order for our product to work. We have triggered a rotation of all credentials which may have been exposed, and there is no impact to 1Password’s services, availability, or product security.\nWhen we send an email to a customer to accept a provisioning invite to an account, or to accept recovery of their account, it contains a token. A provisioning invite is specifically used for our SCIM Bridge or Hosted Provisioning . During this incident there were a small number of users in this state, who have been specifically notified. This token is used to complete the invitation or recovery process, but only when combined with an SSO sign-in or a six digit code sent to the user's registered email address. The token is not able to get access to the account by itself. In order to reduce the ability for a malicious third party to successfully guess the code, we’ve expanded the code from six numeric digits to ten alphanumeric digits. This makes brute force guessing practically impossible.\n1Password does not store your account password or secret key\nDisabled the affected GitHub account, revoked the stolen token, and removed the access the attacker created.\nRotated or revoked all internal credentials which may have been exposed.\nLengthened the codes used in invitation and recovery emails from six digits to ten characters as a precautionary measure.\nTightened internal GitHub, CI/CD, and endpoint controls, and added new detections for this kind of attack.\nValidated no internal evidence of user account takeovers or compromise using any exposed account provisioning tokens.\nBrought in independent cybersecurity experts to validate our containment approaches and remediation efforts.\nBe cautious about phishing attempts in the form of unexpected emails, texts or calls that mention 1Password, invitations, or account recovery attempts.\n1Password will never contact you to ask for your account password or Secret Key. Only enter them in the official 1Password app, or on our official website, and only when you’ve opened the app or typed the address yourself. Your Secret Key is only needed the first time you sign in on a new device or browser.\nKeep your Secret Key and account password safe.\nIf you see something suspicious, tell us at support@1password.com.\nYou trust us with some of the most sensitive information you have. 1Password is designed so that a breach of our systems can’t expose your vault contents. Your vault secrets are encrypted with keys that only you hold, so we can’t access them, and neither can an attacker who gets into our servers.\nWe are committed to transparency in the interests of our customers' security and the security of the broader industry, which is why we have published and maintained our Security Whitepaper since 2015. We’ll keep this blog post current, and we’ll update it if we find anything that changes what we’ve said here.",
+ "id": "R1-2026-11-26",
+ "caption_final": "How 1Password zero knowledge encryption protects business passwords during a security breach. When 1Password reported an attacker accessed their employee GitHub account, customer administrative metadata like emails and account creation times were exposed. However, user vaults remained encrypted because decryption keys are only stored on your local devices. If you store shop login details, GST portal credentials, or bank passwords in a vault, watch out for fake invitation or recovery emails asking for your Secret Key. 1Password never asks for your password or Secret Key via email or call. Comment SAFETY for the full account security checklist.\n\n#PasswordSecurity #CyberSecurityIndia #DataProtection #SmallBusinessSafety"
+}

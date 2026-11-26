@@ -1034,5 +1034,21 @@
   "status": "published",
   "media_id": "18235620049325025",
   "permalink": "https://www.instagram.com/p/DgKVnMlFpao/"
+ },
+ {
+  "id": "C1-2026-11-26",
+  "date": "2026-11-26",
+  "kind": "carousel",
+  "format": "tutorial",
+  "topic": "Local leads: Don't lose them to AI search bots",
+  "hook": "Stop wasting hours searching your own business files",
+  "keywords": [
+   "Google Drive search",
+   "business file management",
+   "Google Personal Intelligence",
+   "productivity tips for business",
+   "search settings tutorial"
+  ],
+  "status": "queued"
  }
 ]

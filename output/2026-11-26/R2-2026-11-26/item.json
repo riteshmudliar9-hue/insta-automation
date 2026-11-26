@@ -1,0 +1,274 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Using Gemini Live for field staff management",
+  "angle": "Turn budget Android phones into powerful field-assistants without buying new devices",
+  "audience_problem": "Field staff struggling to input data accurately from project sites",
+  "format": "tool_test",
+  "medium": "reel",
+  "source_ids": [
+   33
+  ],
+  "evergreen": true,
+  "keywords": [
+   "field staff",
+   "budget android",
+   "gemini live",
+   "site work"
+  ],
+  "scores": {
+   "relevance": 10,
+   "novelty": 9,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 9,
+   "evidence": 8,
+   "viral": 9
+  },
+  "total": 8.91
+ },
+ "piece": {
+  "hooks": [
+   "Saste Android phones par field team se voice updates kaise lein?",
+   "Budget phone wale field staff se site updates leni hai?",
+   "Site report typing me field staff time waste kar rahe hain?",
+   "Android Go phones par Gemini Live voice assistant kaise chalayein?",
+   "Saste phones par site audio notes lene ke liye ye setup karo."
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "Directly focuses on a business outcome for field team management using low-budget Android devices without sounding like pure tech news.",
+  "title": "Gemini Live on Budget Android Phones for Field Teams",
+  "scenes": [
+   {
+    "purpose": "Hook - highlight site audio reporting on budget Android phones",
+    "narration": "Saste Android phones par field team se voice updates kaise lein?",
+    "on_screen": "Budget Phone Voice Updates",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Saste Phone, Real Voice Updates",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Explain the source fact - Android Go support",
+    "narration": "Google ne Gemini app ko Android Go devices ke liye optimized kar diya hai.",
+    "on_screen": "Gemini on Android Go",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "Low Memory Phone",
+     "Re-architected Gemini App",
+     "Smooth Performance"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Compare manual typing vs talking",
+    "narration": "Ab staff phone par lambe site logs type karne ke bajaye Gemini Live se bol kar baat kar sakta hai.",
+    "on_screen": "Type vs Voice Updates",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "Typing Logs",
+    "right_label": "Gemini Live",
+    "rows": [
+     {
+      "left": "Manual Typing",
+      "right": "Voice Talk"
+     },
+     {
+      "left": "High Spec Phone",
+      "right": "Android Go Phone"
+     }
+    ]
+   },
+   {
+    "purpose": "List key features: languages and camera translate",
+    "narration": "Ye 45 se zyada languages support karta hai aur notes ki photo bhi translate kar sakta hai.",
+    "on_screen": "45+ Languages Support",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "45+ Spoken Languages",
+     "Point Camera at Notes",
+     "Translate Site Forms"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "How to start on supported budget devices",
+    "narration": "Google Play se download karo ya power button press karke activation karo.",
+    "on_screen": "Easy Activation",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "Google Play Download",
+     "Hold Power Button",
+     "Start Speaking"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Call to action with comment hook",
+    "narration": "Comment GO, main aapko activation steps aur details DM kar dunga.",
+    "on_screen": "Comment GO for Setup",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Comment GO For Setup Steps",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "How to run Gemini Live voice updates on budget Android Go devices for your site staff. You do not need expensive smartphones for every field employee. Google has re-architected the Gemini app to run smoothly on lower-memory Android hardware. Your team can use Gemini Live to speak in over 45 languages or point the camera at paper notes and forms to translate them. Download the app from Google Play or hold the phone power button to launch it on supported models. Do your field workers prefer voice reporting over typing long texts?",
+  "hashtags": [
+   "#FieldOps",
+   "#AndroidGo",
+   "#GeminiLive",
+   "#BusinessAutomation"
+  ],
+  "keywords": [
+   "Gemini Live Android Go",
+   "budget phone voice assistant",
+   "field staff management tool",
+   "lower memory Android AI",
+   "Google Gemini update"
+  ],
+  "claims": [
+   {
+    "claim": "The Gemini app is now available on lower-memory Android (Go edition) devices.",
+    "source_id": 33
+   },
+   {
+    "claim": "The core Gemini experience was re-architected to run smoothly on hardware with less memory.",
+    "source_id": 33
+   },
+   {
+    "claim": "Users can talk out loud in more than 45 languages with Gemini Live.",
+    "source_id": 33
+   },
+   {
+    "claim": "Users can point their camera at notes or forms to learn and translate.",
+    "source_id": 33
+   },
+   {
+    "claim": "Gemini can be started by downloading on Google Play or pressing and holding the power button on supported phones.",
+    "source_id": 33
+   }
+  ],
+  "dm_keyword": "GO",
+  "dm_text": "Here is how to set up Gemini on budget Android Go phones for your field staff:\n\n1. Check if the device runs Android (Go edition).\n2. Download the Gemini app directly from Google Play.\n3. On supported devices, press and hold the power button to start.\n4. Use Gemini Live to converse out loud in over 45 languages.\n5. Point the camera at site forms or paper notes to translate them.\n\nSource: https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/"
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 8,
+   "practical_value": 8,
+   "natural_language": 9,
+   "accuracy": 10,
+   "narrative": 9,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 9
+  },
+  "claims": [
+   {
+    "claim": "The Gemini app is now available on lower-memory Android (Go edition) devices.",
+    "supported": true,
+    "note": "Supported directly by the source material."
+   },
+   {
+    "claim": "The core Gemini experience was re-architected to run smoothly on hardware with less memory.",
+    "supported": true,
+    "note": "Supported directly by the source material."
+   },
+   {
+    "claim": "Users can talk out loud in more than 45 languages with Gemini Live.",
+    "supported": true,
+    "note": "Supported directly by the source material."
+   },
+   {
+    "claim": "Users can point their camera at notes or forms to learn and translate.",
+    "supported": true,
+    "note": "Supported directly by the source material."
+   },
+   {
+    "claim": "Gemini can be started by downloading on Google Play or pressing and holding the power button on supported phones.",
+    "supported": true,
+    "note": "Supported directly by the source material."
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [],
+  "issues": [],
+  "fix_instructions": "The content is well-framed for Indian SMB owners and ready to publish. No edits required."
+ },
+ "rules": [
+  "scene 3 narration 20 words (want 4-14)"
+ ],
+ "reasons": [
+  "scene 3 narration 20 words (want 4-14)"
+ ],
+ "meta": {
+  "duration": 34.2,
+  "voice": "edge",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-26/R2-2026-11-26/try2/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-26/R2-2026-11-26/try2/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-26/R2-2026-11-26/try2/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-26/R2-2026-11-26/try2/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-26/R2-2026-11-26/try2/scene_05.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-26/R2-2026-11-26/try2/scene_06.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   4.72,
+   5.49,
+   6.91,
+   6.91,
+   5.03,
+   5.11
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-26/R2-2026-11-26/try2",
+ "attempt": 2,
+ "approved": false,
+ "hook": "Saste Android phones par field team se voice updates kaise lein?",
+ "log": [
+  "attempt 1: fail {'hook': 6, 'originality': 6, 'practical_value': 7, 'natural_language': 7, 'accuracy': 10, 'narrative': 7, 'visual_integrity': 6, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 6} ['hook 6/10 (<8)', 'originality 6/10 (<8)', 'practical_value 7/10 (<8)', 'natural_language 7/10 (<8)']",
+  "attempt 2: fail {'hook': 8, 'originality': 8, 'practical_value': 8, 'natural_language': 9, 'accuracy': 10, 'narrative': 9, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 9} ['scene 3 narration 20 words (want 4-14)']",
+  "attempt 3: fail {'hook': 8, 'originality': 7, 'practical_value': 9, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+  "attempt 4: fail {'hook': 7, 'originality': 7, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 7} ['hook 7/10 (<8)', 'originality 7/10 (<8)', 'practical_value 7/10 (<8)', 'visual_integrity 7/10 (<8)']"
+ ],
+ "material": "[33] Google AI Blog — The Gemini app is now available on lower-memory Android devices.\nURL: https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/\nThe Gemini app is now available on lower-memory Android devices. Angus Logan\nFor hundreds of millions of people globally, a lower-memory Android device is their everyday connection to the internet, education, and business.\nUntil recently, hardware limits meant those phones only had basic voice commands. Now, we’re bringing the Gemini app to eligible Android (Go edition) devices , putting Google’s personal AI assistant in the hands of hundreds of millions more people. We re-architected the app so the core Gemini experience runs smoothly on hardware with less memory.\nInstead of typing out long prompts, you can talk things through or practice for an interview out loud in more than 45 languages with Gemini Live , point your camera at notes or forms to learn and translate, or create custom images with Nano Banana — like a flyer for a weekend bakery sale. To get started, download the Gemini app on Google Play, press and hold the power button on supported phones, or look for it preloaded on upcoming devices from partners like Transsion.\nHow Gemini is changing the game for Golden State's organization and fans.\nHere are 4 things you didn’t know you could do with Gemini Canvas.\nA more tailored Google Search that’s uniquely yours\nGet your year-end tasks done with new Connected Apps.",
+ "id": "R2-2026-11-26",
+ "caption_final": "How to run Gemini Live voice updates on budget Android Go devices for your site staff. You do not need expensive smartphones for every field employee. Google has re-architected the Gemini app to run smoothly on lower-memory Android hardware. Your team can use Gemini Live to speak in over 45 languages or point the camera at paper notes and forms to translate them. Download the app from Google Play or hold the phone power button to launch it on supported models. Do your field workers prefer voice reporting over typing long texts?\n\n#FieldOps #AndroidGo #GeminiLive #BusinessAutomation"
+}

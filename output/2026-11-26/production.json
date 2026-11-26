@@ -1,0 +1,366 @@
+{
+ "date": "2026-11-26",
+ "tag": "2026-11-26",
+ "pilot": false,
+ "sources": 89,
+ "ideas": 14,
+ "idea_list": [
+  {
+   "idea": "The hidden cost of linking bank accounts to AI",
+   "format": "problem_fix",
+   "total": 9.39,
+   "scores": {
+    "relevance": 10,
+    "novelty": 8,
+    "hook_potential": 10,
+    "retention": 9,
+    "save_share": 10,
+    "feasibility": 9,
+    "evidence": 8,
+    "viral": 10
+   }
+  },
+  {
+   "idea": "Stop using AI chatbots to find wholesale suppliers",
+   "format": "problem_fix",
+   "total": 8.91,
+   "scores": {
+    "relevance": 9,
+    "novelty": 7,
+    "hook_potential": 10,
+    "retention": 9,
+    "save_share": 10,
+    "feasibility": 8,
+    "evidence": 8,
+    "viral": 9
+   }
+  },
+  {
+   "idea": "Using Gemini Live for field staff management",
+   "format": "tool_test",
+   "total": 8.91,
+   "scores": {
+    "relevance": 10,
+    "novelty": 9,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 8,
+    "viral": 9
+   }
+  },
+  {
+   "idea": "Local leads: Don't lose them to AI search bots",
+   "format": "tutorial",
+   "total": 8.8,
+   "scores": {
+    "relevance": 10,
+    "novelty": 9,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 7,
+    "viral": 9
+   }
+  },
+  {
+   "idea": "Stop doing daily sales data entry manually",
+   "format": "manual_vs_auto",
+   "total": 8.73,
+   "scores": {
+    "relevance": 10,
+    "novelty": 7,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 10,
+    "feasibility": 9,
+    "evidence": 7,
+    "viral": 9
+   }
+  },
+  {
+   "idea": "Why your AI chatbot might be lying to your customers",
+   "format": "myth_fact",
+   "total": 8.43,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 8,
+    "evidence": 8,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Automating your customer follow-ups on WhatsApp",
+   "format": "tutorial",
+   "total": 8.42,
+   "scores": {
+    "relevance": 10,
+    "novelty": 7,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 7,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Why you shouldn't use your personal Gmail for business",
+   "format": "problem_fix",
+   "total": 8.38,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 7,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "How to handle messy client voice notes for quotations",
+   "format": "manual_vs_auto",
+   "total": 8.36,
+   "scores": {
+    "relevance": 10,
+    "novelty": 7,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 8,
+    "evidence": 7,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Bulk-cleaning messy customer contact lists with AI",
+   "format": "tutorial",
+   "total": 8.12,
+   "scores": {
+    "relevance": 9,
+    "novelty": 7,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 7,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Why your AI agent needs a human supervisor",
+   "format": "myth_fact",
+   "total": 7.92,
+   "scores": {
+    "relevance": 9,
+    "novelty": 7,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 9,
+    "evidence": 8,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "Drafting professional business proposals with AI",
+   "format": "demo",
+   "total": 7.84,
+   "scores": {
+    "relevance": 10,
+    "novelty": 6,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 9,
+    "evidence": 7,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "Are you falling for the AI subscription trap?",
+   "format": "myth_fact",
+   "total": 7.81,
+   "scores": {
+    "relevance": 9,
+    "novelty": 7,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 9,
+    "evidence": 7,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "Checklist for choosing AI tools for your shop",
+   "format": "checklist",
+   "total": 7.75,
+   "scores": {
+    "relevance": 9,
+    "novelty": 6,
+    "hook_potential": 7,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 10,
+    "evidence": 7,
+    "viral": 7
+   }
+  }
+ ],
+ "rejected_ideas": [
+  [
+   "Drafting professional business proposals with AI",
+   "low relevance or novelty"
+  ],
+  [
+   "Checklist for choosing AI tools for your shop",
+   "low relevance or novelty"
+  ]
+ ],
+ "items": [
+  {
+   "id": "R1-2026-11-26",
+   "kind": "reel",
+   "format": "problem_fix",
+   "topic": "The hidden cost of linking bank accounts to AI",
+   "hook": "Agar aap business passwords app mein store karte ho, ye dekho.",
+   "approved": false,
+   "attempts": 2,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 8,
+    "natural_language": 9,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 7,
+    "pacing": 8,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [
+    "originality 7/10 (<8)",
+    "visual_integrity 7/10 (<8)"
+   ],
+   "log": [
+    "attempt 1: fail {'hook': 7, 'originality': 6, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['scene 3: compare needs rows', 'hook 7/10 (<8)', 'originality 6/10 (<8)', 'visual_integrity 7/10 (<8)']",
+    "attempt 2: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 9, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['originality 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+    "attempt 3: fail {'hook': 7, 'originality': 5, 'practical_value': 6, 'natural_language': 7, 'accuracy': 8, 'narrative': 6, 'visual_integrity': 7, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 6} ['hook 7/10 (<8)', 'originality 5/10 (<8)', 'practical_value 6/10 (<8)', 'natural_language 7/10 (<8)']",
+    "attempt 4: fail {'hook': 8, 'originality': 7, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'practical_value 7/10 (<8)', 'visual_integrity 7/10 (<8)']"
+   ],
+   "dir": "output/2026-11-26/R1-2026-11-26/try2",
+   "duration": 34.4,
+   "voice": "gemini"
+  },
+  {
+   "id": "R2-2026-11-26",
+   "kind": "reel",
+   "format": "tool_test",
+   "topic": "Using Gemini Live for field staff management",
+   "hook": "Saste Android phones par field team se voice updates kaise lein?",
+   "approved": false,
+   "attempts": 2,
+   "scores": {
+    "hook": 8,
+    "originality": 8,
+    "practical_value": 8,
+    "natural_language": 9,
+    "accuracy": 10,
+    "narrative": 9,
+    "visual_integrity": 9,
+    "pacing": 9,
+    "brand_consistency": 9,
+    "publish_readiness": 9
+   },
+   "reasons": [
+    "scene 3 narration 20 words (want 4-14)"
+   ],
+   "log": [
+    "attempt 1: fail {'hook': 6, 'originality': 6, 'practical_value': 7, 'natural_language': 7, 'accuracy': 10, 'narrative': 7, 'visual_integrity': 6, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 6} ['hook 6/10 (<8)', 'originality 6/10 (<8)', 'practical_value 7/10 (<8)', 'natural_language 7/10 (<8)']",
+    "attempt 2: fail {'hook': 8, 'originality': 8, 'practical_value': 8, 'natural_language': 9, 'accuracy': 10, 'narrative': 9, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 9} ['scene 3 narration 20 words (want 4-14)']",
+    "attempt 3: fail {'hook': 8, 'originality': 7, 'practical_value': 9, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'visual_integrity 7/10 (<8)']",
+    "attempt 4: fail {'hook': 7, 'originality': 7, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 7} ['hook 7/10 (<8)', 'originality 7/10 (<8)', 'practical_value 7/10 (<8)', 'visual_integrity 7/10 (<8)']"
+   ],
+   "dir": "output/2026-11-26/R2-2026-11-26/try2",
+   "duration": 34.2,
+   "voice": "edge"
+  },
+  {
+   "id": "R3-2026-11-26",
+   "kind": "reel",
+   "format": "manual_vs_auto",
+   "topic": "Stop doing daily sales data entry manually",
+   "hook": "Agar new customer leads aate hi manually Excel mein type karte ho, ye dekho.",
+   "approved": false,
+   "attempts": 1,
+   "scores": {
+    "hook": 8,
+    "originality": 6,
+    "practical_value": 9,
+    "natural_language": 9,
+    "accuracy": 10,
+    "narrative": 8,
+    "visual_integrity": 7,
+    "pacing": 8,
+    "brand_consistency": 9,
+    "publish_readiness": 7
+   },
+   "reasons": [
+    "originality 6/10 (<8)",
+    "visual_integrity 7/10 (<8)"
+   ],
+   "log": [
+    "attempt 1: fail {'hook': 8, 'originality': 6, 'practical_value': 9, 'natural_language': 9, 'accuracy': 10, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 6/10 (<8)', 'visual_integrity 7/10 (<8)']",
+    "attempt 2: fail {'hook': 8, 'originality': 6, 'practical_value': 9, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['scene 5 narration 23 words (want 4-14)', 'originality 6/10 (<8)', 'visual_integrity 7/10 (<8)', \"spelling: Scene 2: 'bherne' should be 'bharne'\"]",
+    "attempt 3: render failed (No audio was received. Please verify that your parameters are correct.)",
+    "attempt 4: fail {'hook': 8, 'originality': 6, 'practical_value': 9, 'natural_language': 9, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['originality 6/10 (<8)', 'visual_integrity 7/10 (<8)']"
+   ],
+   "dir": "output/2026-11-26/R3-2026-11-26/try1",
+   "duration": 34.1,
+   "voice": "edge"
+  },
+  {
+   "id": "C1-2026-11-26",
+   "kind": "carousel",
+   "format": "tutorial",
+   "topic": "Local leads: Don't lose them to AI search bots",
+   "hook": "Stop wasting hours searching your own business files",
+   "approved": true,
+   "attempts": 2,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 8,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 9,
+    "pacing": 9,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [],
+   "log": [
+    "attempt 1: fail {'hook': 3, 'originality': 4, 'practical_value': 3, 'natural_language': 5, 'accuracy': 2, 'narrative': 4, 'visual_integrity': 8, 'pacing': 7, 'brand_consistency': 6, 'publish_readiness': 2} ['hook 3/10 (<8)', 'originality 4/10 (<8)', 'practical_value 3/10 (<8)', 'natural_language 5/10 (<8)']",
+    "attempt 2: PASS {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} []"
+   ],
+   "dir": "output/2026-11-26/C1-2026-11-26/try2",
+   "duration": null,
+   "voice": null
+  }
+ ],
+ "llm_calls": {
+  "text": 28,
+  "tts": 27,
+  "failed": 0
+ }
+}

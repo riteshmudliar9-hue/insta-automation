@@ -1,0 +1,271 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Stop doing daily sales data entry manually",
+  "angle": "Automate routine bookkeeping to save 40 minutes every single day",
+  "audience_problem": "Traders and shop owners wasting time on repetitive daily data tasks",
+  "format": "manual_vs_auto",
+  "medium": "reel",
+  "source_ids": [
+   64,
+   66
+  ],
+  "evergreen": true,
+  "keywords": [
+   "automation",
+   "bookkeeping",
+   "time saver",
+   "small business"
+  ],
+  "scores": {
+   "relevance": 10,
+   "novelty": 7,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 10,
+   "feasibility": 9,
+   "evidence": 7,
+   "viral": 9
+  },
+  "total": 8.73
+ },
+ "piece": {
+  "hooks": [
+   "Daily sales leads manually enter karna band karo. Iski jagah ye karo.",
+   "Shop ke online leads manually sheet mein type karna band karo.",
+   "Stop typing customer lead details into Google Sheets manually every day.",
+   "Agar new customer leads aate hi manually Excel mein type karte ho, ye dekho.",
+   "Har new lead detail ko manually Google Sheets mein add karna band karo."
+  ],
+  "chosen_hook": 3,
+  "hook_reason": "Directly targets daily repetitive data entry for Indian traders and small offices with a natural conversational entry in Hinglish.",
+  "title": "Automate daily lead entry into Google Sheets using Zapier",
+  "scenes": [
+   {
+    "purpose": "Hook the viewer with a relatable manual workflow hassle.",
+    "narration": "Agar new customer leads aate hi manually Excel mein type karte ho, ye dekho.",
+    "on_screen": "Manual lead entry band karo",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Stop manual lead data entry",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Contrast manual data copying with instant automated processing.",
+    "narration": "Lead details copy paste karne mein daily 40 minute kharab hote hain.",
+    "on_screen": "Daily 40 minute waste",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "Manual Process",
+    "right_label": "Zapier Automation",
+    "rows": [
+     {
+      "left": "Copy lead details",
+      "right": "Instant Zap trigger"
+     },
+     {
+      "left": "Paste in Sheet",
+      "right": "Auto Google Sheet row"
+     },
+     {
+      "left": "Send email manually",
+      "right": "Auto Gmail confirmation"
+     }
+    ]
+   },
+   {
+    "purpose": "Show how Zapier connects different business tools.",
+    "narration": "Zapier 10,000 se zyaada apps ko aapas mein connect kar sakta hai.",
+    "on_screen": "Connect 10,000+ Apps",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "New Lead Form",
+     "Zapier Workflow",
+     "Google Sheets Log",
+     "Gmail Confirmation"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "List the exact sequence of actions done automatically.",
+    "narration": "Lead aate hi Google Sheet mein add ho jata hai aur automated Gmail confirmation chala jata hai.",
+    "on_screen": "Automatic lead logging",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Auto add to Google Sheets",
+     "Send Gmail follow-up",
+     "Alert team channel"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Explain how AI tools can build these Zaps from plain prompts.",
+    "narration": "ChatGPT ya Claude mein simple English prompt likh kar bhi Zap tayyar ho jata hai.",
+    "on_screen": "Setup via AI Prompt",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Prompt AI to build Zaps",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Call to action for step-by-step setup guide.",
+    "narration": "Comment LEAD, main aapko automation setup steps DM kar dunga.",
+    "on_screen": "Comment LEAD for steps",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Comment LEAD for steps",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "How to automate lead data entry from Facebook forms or website inquiries directly into Google Sheets. If your staff spends time daily copying names, phone numbers, and inquiry details into Excel sheets, you can set up Zapier to handle it instantly. Once connected, every new lead creates a standard row in your tracking sheet and sends an instant Gmail acknowledgment to the customer without manual work. You can even connect Zapier to ChatGPT or Claude to generate the workflow by describing your process in plain words. Do you still enter customer leads into sheets by hand every evening? Comment LEAD for setup steps.",
+  "hashtags": [
+   "#Zapier",
+   "#BusinessAutomation",
+   "#GoogleSheets",
+   "#LeadGeneration",
+   "#WorkflowAutomation"
+  ],
+  "keywords": [
+   "automate lead entry",
+   "Zapier Google Sheets workflow",
+   "Facebook Lead Ads automation",
+   "small business data entry",
+   "CRM automation"
+  ],
+  "claims": [
+   {
+    "claim": "Zapier connects over 10,000 apps to move work between them without manual copy and paste.",
+    "source_id": 64
+   },
+   {
+    "claim": "When a new lead arrives from Facebook Lead Ads or form submissions, Zapier can add them to CRMs or tracking sheets and email them.",
+    "source_id": 64
+   },
+   {
+    "claim": "You can connect Zapier to AI tools like ChatGPT or Claude and describe the workflow in plain language to draft and deploy Zaps.",
+    "source_id": 64
+   },
+   {
+    "claim": "Zapier workflows run automatically in the background even after you close the chat or laptop.",
+    "source_id": 64
+   }
+  ],
+  "dm_keyword": "LEAD",
+  "dm_text": "Here is how to automate daily lead entry using Zapier:\n1. Create a free Zapier account and connect your lead source (like Facebook Lead Ads or Google Forms) and destination apps (Google Sheets and Gmail).\n2. Set the Trigger to 'New Lead' or 'New Form Response'.\n3. Set Action 1 to 'Create Spreadsheet Row' in your Google Sheet.\n4. Set Action 2 to 'Send Email' in Gmail to send an instant follow-up to the lead.\n5. Alternatively, connect Zapier as a plugin or MCP server in ChatGPT or Claude and prompt: 'When a new lead arrives from my form, add them to Google Sheets and email them a confirmation.' Zapier handles 10,000+ apps automatically."
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 6,
+   "practical_value": 9,
+   "natural_language": 9,
+   "accuracy": 10,
+   "narrative": 8,
+   "visual_integrity": 7,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 7
+  },
+  "claims": [
+   {
+    "claim": "Zapier connects over 10,000 apps to move work between them without manual copy and paste.",
+    "supported": true
+   },
+   {
+    "claim": "When a new lead arrives from Facebook Lead Ads or form submissions, Zapier can add them to CRMs or tracking sheets and email them.",
+    "supported": true
+   },
+   {
+    "claim": "You can connect Zapier to AI tools like ChatGPT or Claude and describe the workflow in plain language to draft and deploy Zaps.",
+    "supported": true
+   },
+   {
+    "claim": "Zapier workflows run automatically in the background even after you close the chat or laptop.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Scene 1: The subtitle text 'Excel mein type karte ho,' is partially obscured by the bottom margin/UI elements.",
+   "Scene 2: The table layout is slightly cramped; ensure the text in the 'Manual Process' column doesn't touch the left edge.",
+   "Scene 3: The diagram arrows are very thin and might be hard to see on small mobile screens; consider increasing stroke weight.",
+   "Scene 5: The subtitle 'prompt likh kar bhi Zap tayyar ho jata hai.' is slightly misaligned with the central text box."
+  ],
+  "issues": [
+   "The reel relies heavily on text-heavy slides which may be hard to read quickly.",
+   "The transition between the 'Manual' vs 'Automation' comparison (Scene 2) could be faster to maintain engagement."
+  ],
+  "fix_instructions": "1. Increase the font size of the main on-screen text for better readability on mobile. 2. Adjust the subtitle positioning in all scenes to ensure they are safely within the 'safe zone' and not overlapping with the Instagram UI. 3. Thicken the lines in the diagram in Scene 3 for better visibility. 4. Ensure the contrast between the background and the text boxes is high enough for accessibility. 5. The content is solid, but ensure the transition between Scene 2 and 3 is snappy."
+ },
+ "rules": [],
+ "reasons": [
+  "originality 6/10 (<8)",
+  "visual_integrity 7/10 (<8)"
+ ],
+ "meta": {
+  "duration": 34.1,
+  "voice": "edge",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-26/R3-2026-11-26/try1/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-26/R3-2026-11-26/try1/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-26/R3-2026-11-26/try1/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-26/R3-2026-11-26/try1/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-26/R3-2026-11-26/try1/scene_05.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-26/R3-2026-11-26/try1/scene_06.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   5.79,
+   5.37,
+   5.07,
+   6.92,
+   5.94,
+   4.98
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-26/R3-2026-11-26/try1",
+ "attempt": 1,
+ "approved": false,
+ "hook": "Agar new customer leads aate hi manually Excel mein type karte ho, ye dekho.",
+ "log": [
+  "attempt 1: fail {'hook': 8, 'originality': 6, 'practical_value': 9, 'natural_language': 9, 'accuracy': 10, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 6/10 (<8)', 'visual_integrity 7/10 (<8)']",
+  "attempt 2: fail {'hook': 8, 'originality': 6, 'practical_value': 9, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['scene 5 narration 23 words (want 4-14)', 'originality 6/10 (<8)', 'visual_integrity 7/10 (<8)', \"spelling: Scene 2: 'bherne' should be 'bharne'\"]",
+  "attempt 3: render failed (No audio was received. Please verify that your parameters are correct.)",
+  "attempt 4: fail {'hook': 8, 'originality': 6, 'practical_value': 9, 'natural_language': 9, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['originality 6/10 (<8)', 'visual_integrity 7/10 (<8)']"
+ ],
+ "material": "[64] Zapier Blog — Zapier examples: Ways to use automation at work\nURL: https://zapier.com/blog/zapier-automation-examples\nPut the busywork on autopilot with these tips and tricks\nWhen you want to get more done and have more impact at work, automation can help. Zapier helps you turn your tools into powerful processes. Whether you need to automate a simple task or build an entire automated system, you can do it all on Zapier.\nWe've collected some of the best Zapier examples across different industries and roles, so you can find something to help you get more done, no matter what you do at work. Click on any of the headings below to be taken to an in-depth article, or copy a prompt to build the example directly from your AI agent.\nBuild automations from wherever you work. Describe the outcome you want, and Zapier connects your tools, runs the steps, and stays on the job after you close the chat. Combine AI with reliable, deterministic automation across 10,000+ apps. Get started for free.\nZapier connects 10,000+ apps, so work can move between them without you copying and pasting. Every automation is a Zap, an automated workflow that starts when something happens in one app (like a new form entry), or on a schedule (like every Monday morning). It then does the work in your other apps. Zaps use AI only for the steps that need judgment—like deciding whether a message is a sales lead—and run everything else the same way every time.\nYou can build Zaps directly from your AI assistant. Add Zapier as a connector or a custom MCP server, then connect the apps you use, like Gmail, Slack, and Google Sheets. Just connect once—the same connections work from Claude, ChatGPT, Cursor, or any AI tool you like. Describe the job in plain language, and your agent drafts the Zap and deploys it to Zapier, which keeps it running whether or not your laptop is open. Or build it in Zapier itself, starting from a template or the Zap editor.\nStart with the team or job closest to yours. Each heading below links to an in-depth article on that area, and each prompt is something you can paste into your AI assistant once Zapier is connected, then adjust to the apps you use.\nThese are some of the most-used automated workflows people set up with Zapier, covering things like social media, task management, note-taking, feedback collection, and reminders.\nProject management is all about keeping everyone working together. Automation can streamline task creation, communication, and more by automatically creating tasks and sending custom notifications—no matter what apps you're using to get work done.\nSay a deal closes and nobody remembers to kick off the work. A Zap can start the moment the deal moves, so the project exists before the handoff email is sent.\nCopy Build on Zapier: When a deal moves to Closed Won in HubSpot, create a project in Asana from my onboarding template and assign the kickoff task to the account owner. Learn more: How to use Zapier and AI to streamline project management\nJust about everyone uses email for something, but that means you can end up with more going on in your inbox than you can easily manage. Automation can help you keep things organized and on track.\nYour agent can draft a reply in chat, but a Zap is what notices the new email, labels it, and logs it while you're away from your desk.\nCopy Build on Zapier: Label each new email in Gmail by intent, like support, sales, or invoice, and send me a digest in Slack at 5 p.m. If your inbox is under control, check out these ways to automate your email marketing .\nContact forms are an easy way to get information from your prospects and customers. Move faster by adding automation to your processes so your team gets notified of every new lead or contact.\nLeads go cold when a form entry sits in an inbox. A Zap starts when the form is submitted, so the right person hears about it right away.\nCopy Build on Zapier: When someone submits my website contact form, add them to HubSpot, post in #leads in Slack, and email them a confirmation. If the message mentions pricing, mark it high priority. Sales and CRM\nKeep your pipeline current without anyone doing data entry. Zaps can create the contact when a lead arrives, update the deal when a stage changes, and ping the owner when a deal goes quiet.\nCopy Build on Zapier: When a new lead arrives from Facebook Lead Ads, add them to HubSpot, summarize their answers with AI, and message the assigned rep in Slack. Marketing\nFrom the first signup to the follow-up, Zaps can move leads between your forms, ad platforms, email tools, and CRM, so campaigns run without a weekly copy-and-paste ritual.\nCopy Build on Zapier: When someone signs up for my webinar, add them to a Mailchimp list, tag them by the campaign they came from, and add a row to my tracking sheet in Google Sheets. Finance and invoicing\nInvoices, receipts, and payment alerts tend to pile up. Zaps can log each one where your books expect it and flag the ones that need a person.\nCopy Build on Zapier: When a payment fails in Stripe, add a row to a Google Sheet with the customer and amount, and send my finance channel in Slack a message. IT and ops\nRoutine requests don't need a person to move them along. Zaps can open the ticket, notify the on-call owner, and keep an audit trail in a spreadsheet.\nCopy Build on Zapier: When someone fills out the new-laptop request form, create a Jira ticket, assign it to IT, and post a note in #it-help. AI workflows\nSome jobs need judgment, like sorting a message or summarizing a call. Zaps can add an AI step only where it's needed and keep every other step the same each run.\nCopy Build on Zapier: When a new support email arrives in Gmail, use AI to decide if it's a bug report, a billing question, or a feature request, then create the right task in Asana and reply with a confirmation. Note-taking\nTurn your ideas into action by adding automation to your note-taking. With Zapier, you can create tasks from notes, automatically create documents for new meetings, organize your ideas, and create backups.\nCopy Build on Zapier: When I star a note in Evernote, create a task for it in Todoist with a due date of tomorrow. eCommerce\nIf you're selling online there are opportunities for automation, from sharing new products on social to customized sale (and failed sale) notifications.\nA failed order or a big refund is easy to miss in a busy store. A Zap can catch it the moment it happens.\nCopy Build on Zapier: When a Shopify order fails or a refund is over $100, log it in a Google Sheet and alert me in Slack. Social media\nNo matter where your audience is—or how you're using social media—automation can help you move faster and have greater impact. From crossposting to tracking to brand monitoring, Zapier makes it easier.\nCopy Build on Zapier: Whenever we publish a new blog post, draft a LinkedIn post that summarizes it. Then, save it in Buffer for me to review. Files and folders\nOrganization is key to efficiency. Automation can upgrade your organization strategies by helping you save attachments, create an archive of favorite social media posts, back up \n\n[66] Zapier Blog — 5 systems you should automate today\nURL: https://zapier.com/blog/what-you-should-automate\nThe people on your team have extraordinary ideas. But their brilliance can't surface, much less get deployed at scale, if everyone's bogged down with disconnected tools and colorless operational work.\nUnless they delegate that work to Zapier, that is. On our platform, you can build secure, AI-powered systems that connect perfectly with each other and the 10,000+ apps in our ecosystem.\nIf you're ready to replace rote work and chaos with coordination, keep scrolling. I've put together five systems that are ripe for automation—complete with ready-to-use Zapier templates and tips to help you start automating fast, regardless of your role or experience with building these kinds of systems.\nYou can build every one of them two ways: start from a Zap template, or add Zapier to your AI tool and describe what you want in a prompt. In each section below, you'll find the templates and the prompts you can paste into Claude, ChatGPT, or Cursor to get the same result.\nTo use the templates and prompts in this article: For the templates, just click the button to try it, and you'll be brought to the Zapier editor. For the prompts, connect Zapier to your AI tool first, then connect the apps you want to automate. Paste a prompt, swap in your own apps, and your agent will draft the Zap. Either way, once it's live, the Zap runs on its own.\nNotify your team about new leads or customers\nAutomatically create and track calendar events\nConsolidate information in a spreadsheet or database\nBuild automations from wherever you work. Describe the outcome you want, and Zapier connects your tools, runs the steps, and stays on the job after you close the chat. Combine AI with reliable, deterministic automation across 10,000+ apps. Get started for free.\nMessage your team about leads or customers\nIf a lead comes in and nobody acts on it, did it actually come in? We can't answer that question—we'll leave that to philosophers—but what we can do is help you make sure this never happens.\nYou could say it's one of the things we do best. People commonly use Zapier to notify teammates about leads.\nIt's a simple Zap—what we call our automated workflows—to set up. All you need to do is connect whatever source you're getting leads from to whatever communication tool your sales or marketing team uses the most. That way your team gets notified every time a new lead comes in, in the place they're most likely to see it, so they can take action right away.\nFor example, you could send an email to your team whenever a lead comes in. Here are some quick Zap workflows to get you started.\nSend emails in Gmail for new leads in Facebook Lead Ads\nGet emails with new Facebook Lead Ads leads\nDispatch emails in Microsoft Outlook with new leads in Facebook Lead Ads\nYou could also set up notifications in your team chat app, either in a public channel or as a private message.\nPost new LinkedIn Lead Gen Form leads to Microsoft Teams\nSend new TikTok Lead Generation leads to Google Hangouts Chat\nGet Slack channel notifications for new Facebook Lead Ads\nSend channel messages on Discord for new Google Ads leads\nSend SMS messages for new leads from Facebook Lead Ads\nSend SMS messages for new Google Ads leads\nSend SMS messages for new TikTok Lead Generation leads\nYou could even add a filter step to notify your team only when certain conditions are met—like if the lead comes from a specific campaign, has a company email address, or includes key details like job title or budget. It's a smart way to focus on high-quality leads and avoid notification overload.\nSend Gmail emails for filtered leads from LinkedIn Ads\nSend Slack channel messages for filtered leads from Facebook\nPaste any of these into your AI tool. Swap in the apps you actually use. Click Copy and then paste the prompt directly in your AI agent.\nCopy Build on Zapier: Whenever a new lead comes into [HubSpot], send an email to [sales@yourcompany.com] with the lead's name, company, and email address. Team chat alert\nCopy Build on Zapier: When a new lead is added to [Salesforce], post a message in the #sales channel in [Slack] with the lead's name, company, and lead source. Private message to the lead owner\nCopy Build on Zapier: When a new lead is assigned to someone in [HubSpot], send that person a direct message in [Slack] with the lead's details and a link to the record. SMS alert\nCopy Build on Zapier: When a new lead fills out my [Typeform] form, text me the lead's name and phone number. Only the leads that matter\nCopy Build on Zapier: When a new lead comes into [HubSpot], only notify #sales in [Slack] if the lead has a company email address and a job title that includes 'Director' or 'VP.' Skip everyone else. Your agent will build each of these as a Zap that starts the moment a lead comes in, so your team hears about it right away, not at the next scheduled check.\nIt's one thing to find out about new leads quickly, but what if you could follow up with leads without needing to do anything? It sounds like a dream, but you can also set that up with Zapier.\nYou could instantly follow up with new leads via SMS or email by having Zapier automatically send a message to your new leads.\nSend emails in Gmail for new leads in Facebook Lead Ads\nSend new Facebook Lead Ads leads a text message via ClickSend SMS\nSend Kudosity messages for new Google Ads leads\nSend Gmail emails to new TikTok Lead Generation leads\nSend SMS messages via Twilio to new LinkedIn Lead Gen Form leads\nYou could also sign those leads up for your email newsletter, saving you from having to add them manually. Just make sure they've opted into the subscription first to make sure you're staying compliant with GDPR .\nSubscribe new Facebook Lead Ad leads to a Mailchimp list\nAdd LinkedIn Lead Gen Form leads as new contacts in ActiveCampaign\nSubscribe new TikTok Lead Generation leads to a Mailchimp list\nAdd contacts in ActiveCampaign for new leads from Google Ads\nYou can even add an AI step using ChatGPT or AI by Zapier to generate more personalized emails. Stand out from the crowd without putting in any extra effort—just sign off and click Send .\nWrite new LinkedIn Ads leads emails with ChatGPT and send in Gmail\nWrite AI-generated emails to LinkedIn Ads leads with AI by Zapier\nThese prompts let you build the Zaps directly from ChatGPT, Claude, Cursor, or any AI tool you use.\nCopy Build on Zapier: When a new lead comes in through [Facebook Lead Ads], send them a short, friendly email from [Gmail] thanking them and asking when they're free for a call. Instant follow-up SMS\nCopy Build on Zapier: When someone submits my [Google Forms] contact form, send them a text confirming we received their request. Newsletter signup\nCopy Build on Zapier: When a new lead in [HubSpot] marks 'subscribed to newsletter' as yes, add them to my [Mailchimp] audience. Only add people who have opted in. Personalized with AI\nCopy Build on Zapier: When a new lead comes into [HubSpot], draft a personalized follow-up email in [Gmail] using the lead's company",
+ "id": "R3-2026-11-26",
+ "caption_final": "How to automate lead data entry from Facebook forms or website inquiries directly into Google Sheets. If your staff spends time daily copying names, phone numbers, and inquiry details into Excel sheets, you can set up Zapier to handle it instantly. Once connected, every new lead creates a standard row in your tracking sheet and sends an instant Gmail acknowledgment to the customer without manual work. You can even connect Zapier to ChatGPT or Claude to generate the workflow by describing your process in plain words. Do you still enter customer leads into sheets by hand every evening? Comment LEAD for setup steps.\n\n#Zapier #BusinessAutomation #GoogleSheets #LeadGeneration #WorkflowAutomation"
+}

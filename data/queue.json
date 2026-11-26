@@ -5868,5 +5868,48 @@
   "media_id": "18235620049325025",
   "permalink": "https://www.instagram.com/p/DgKVnMlFpao/",
   "published_at": "2026-11-25T16:10:13.118273+05:30"
+ },
+ {
+  "id": "C1-2026-11-26",
+  "kind": "carousel",
+  "date": "2026-11-26",
+  "slot": "2026-11-26T09:00",
+  "dir": "output/2026-11-26/C1-2026-11-26/try2",
+  "files": [
+   "slide_01.jpg",
+   "slide_02.jpg",
+   "slide_03.jpg",
+   "slide_04.jpg",
+   "slide_05.jpg",
+   "slide_06.jpg"
+  ],
+  "caption": "Searching for specific supplier rates or past project invoices inside a messy Google Drive folder can take forever. Instead of opening multiple tabs, you can now link your Drive to your Search settings. This lets you ask Google Search questions like 'What was the last invoice from my hardware supplier?' and get an answer based on your actual documents. You are always in control of what apps connect to your search history. If you decide you don't want Google accessing a specific folder, you can turn off the connection instantly in your settings. Have you tried connecting your work files to your personal Search yet? Tell me below.\n\n#GoogleTips #BusinessProductivity #SmallBusinessIndia #DigitalWorkplace",
+  "topic": "Local leads: Don't lose them to AI search bots",
+  "format": "tutorial",
+  "hook": "Stop wasting hours searching your own business files",
+  "keywords": [
+   "Google Drive search",
+   "business file management",
+   "Google Personal Intelligence",
+   "productivity tips for business",
+   "search settings tutorial"
+  ],
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "status": "queued",
+  "produced_at": 1795674694,
+  "log": [],
+  "dm_keyword": "",
+  "dm_text": ""
  }
 ]
