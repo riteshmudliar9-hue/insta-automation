@@ -6146,11 +6146,16 @@
    "brand_consistency": 9,
    "publish_readiness": 8
   },
-  "status": "queued",
+  "status": "published",
   "produced_at": 1795760501,
-  "log": [],
+  "log": [
+   "2026-11-27T15:46:44.469940+05:30 published https://www.instagram.com/reel/DgPcjvfRz20/"
+  ],
   "dm_keyword": "DRIVE",
-  "dm_text": "Here is how to connect Google Drive and Wallet to Google Search Personal Intelligence: 1. Open Search Personalization settings. 2. Select Connected Apps. 3. Turn on Google Drive and Google Wallet. Note: This lets AI Mode read details across your files, Gmail, and Calendar to answer search queries. Wallet connection is read-only and cannot move or invest money. You can edit or turn off app connections anytime in your settings."
+  "dm_text": "Here is how to connect Google Drive and Wallet to Google Search Personal Intelligence: 1. Open Search Personalization settings. 2. Select Connected Apps. 3. Turn on Google Drive and Google Wallet. Note: This lets AI Mode read details across your files, Gmail, and Calendar to answer search queries. Wallet connection is read-only and cannot move or invest money. You can edit or turn off app connections anytime in your settings.",
+  "media_id": "18107909321022474",
+  "permalink": "https://www.instagram.com/reel/DgPcjvfRz20/",
+  "published_at": "2026-11-27T15:46:44.469940+05:30"
  },
  {
   "id": "R3-2026-11-27",
@@ -6227,10 +6232,15 @@
    "brand_consistency": 9,
    "publish_readiness": 8
   },
-  "status": "queued",
+  "status": "published",
   "produced_at": 1795760501,
-  "log": [],
+  "log": [
+   "2026-11-27T15:46:44.469940+05:30 published https://www.instagram.com/p/DgPchovGwCu/"
+  ],
   "dm_keyword": "",
-  "dm_text": ""
+  "dm_text": "",
+  "media_id": "18113857895199393",
+  "permalink": "https://www.instagram.com/p/DgPchovGwCu/",
+  "published_at": "2026-11-27T15:46:44.469940+05:30"
  }
 ]
