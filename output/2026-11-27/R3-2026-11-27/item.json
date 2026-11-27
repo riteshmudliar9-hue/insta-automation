@@ -1,0 +1,239 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Automating candidate resume screening and interview scheduling for small-business hiring",
+  "angle": "Filter incoming applicant resumes and automatically trigger WhatsApp interview scheduling without manual screening.",
+  "audience_problem": "Shop owners waste days sorting through hundreds of unqualified resumes and manually coordinating interview times.",
+  "format": "problem_fix",
+  "medium": "reel",
+  "source_ids": [
+   69
+  ],
+  "evergreen": true,
+  "keywords": [
+   "hiring automation",
+   "resume screening",
+   "interview scheduling",
+   "recruiting ai",
+   "small business HR"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 8,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 9,
+   "evidence": 8,
+   "viral": 9
+  },
+  "total": 8.67
+ },
+ "piece": {
+  "hooks": [
+   "Hiring mein fake resumes se pareshan ho? Is tarah auto-flag karo.",
+   "80% technical applicants fake info de rahe hain. Inhe kaise pakde?",
+   "Resume checking mein ghante waste mat karo. Zapier AI ye karega.",
+   "Agar aap hiring mein AI resume screening try kar rahe ho, ye dekho.",
+   "Candidate ke fake experience claims pakadne ke liye ye automation dekho."
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "Directly targets small business owners facing resume overload and fake applicants, offering an immediate practical setup.",
+  "title": "Automated Resume Screening Guardrails",
+  "scenes": [
+   {
+    "purpose": "Hook",
+    "narration": "Hiring mein fake resumes se pareshan ho? Is tarah auto-flag karo.",
+    "on_screen": "Fake Resumes Auto Flag",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Fake Applications Up To 80%",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Problem Stakes",
+    "narration": "Technical roles mein 80 percent tak applications mein fake claims aur VPN mismatch mil rahe hain.",
+    "on_screen": "80% Fake Candidate Claims",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "Manual Resume Check",
+    "right_label": "Stacked AI Checks",
+    "rows": [
+     {
+      "left": "Dates miss hoti hain",
+      "right": "Inconsistencies flag"
+     },
+     {
+      "left": "Hours waste hote hain",
+      "right": "Instant verification"
+     }
+    ]
+   },
+   {
+    "purpose": "Solution Step 1",
+    "narration": "Apne Zapier mein candidate resume, screen notes aur transcript ko compare karne ka AI prompt daalo.",
+    "on_screen": "AI Cross-Check Setup",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "Resume Data",
+     "Interview Transcript",
+     "Zapier AI Flag"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Solution Step 2",
+    "narration": "Ye AI decision nahi leta, sirf dates, job titles aur tools ki galti line-by-line flag karta hai.",
+    "on_screen": "Flags Conflicts Only",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Dates conflict flag",
+     "Job title mismatch",
+     "Tool experience gap"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Payoff and Call to Action",
+    "narration": "Recruiter easily review kar sakta hai. Comment HIRING, main aapko exact AI prompt DM kar dunga.",
+    "on_screen": "Comment HIRING For Prompt",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Get Zapier Screening Prompt",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "How to use AI resume screening guardrails in Zapier to catch resume inconsistencies automatically. When hiring technical staff or office managers, manual resume verification consumes hours, especially with up to 80% fraudulent claims reported in certain technical roles. Rather than allowing AI to make automated hiring decisions, set up a Zapier automation that compares candidate resumes with interview notes. It flags conflicting dates, titles, or tool experience for human review. Comment HIRING for the exact Zapier screening prompt.",
+  "hashtags": [
+   "#HiringAutomation",
+   "#Zapier",
+   "#BusinessAutomation",
+   "#RecruitmentTips"
+  ],
+  "keywords": [
+   "hiring automation",
+   "resume screening",
+   "Zapier AI",
+   "candidate verification",
+   "recruitment workflow"
+  ],
+  "claims": [
+   {
+    "claim": "Some talent leaders report close to 80% fraudulent applications on certain technical roles.",
+    "source_id": 69
+   },
+   {
+    "claim": "Fraudulent application signals include IP and location mismatch, VPN use, and conflicting resume details.",
+    "source_id": 69
+   },
+   {
+    "claim": "Zapier uses an AI skill to compare resumes, screen notes, and interview transcripts to flag inconsistencies for recruiter review without automated rejection decisions.",
+    "source_id": 69
+   },
+   {
+    "claim": "Zapier connects with more than 10,000 apps including ATS, HRIS, and Slack.",
+    "source_id": 69
+   }
+  ],
+  "dm_keyword": "HIRING",
+  "dm_text": "Here is the Zapier candidate screening prompt setup: 1. Connect your ATS or application form to Zapier. 2. Add a Zapier AI action with this prompt: 'Compare this candidate's resume, recruiter screen notes, and interview transcript. List any inconsistencies in dates, titles, employers, tools, or project details, and quote the lines that conflict. Don't decide whether it's fraud. Flag anything a recruiter should review.' 3. Send flagged summaries to Slack or email for recruiter review. Zapier connects with 10,000+ apps so you can run this on existing tools."
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 8,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "Some talent leaders report close to 80% fraudulent applications on certain technical roles.",
+    "supported": true,
+    "note": "Directly backed by Zapier blog statistics."
+   },
+   {
+    "claim": "Fraudulent application signals include IP and location mismatch, VPN use, and conflicting resume details.",
+    "supported": true,
+    "note": "Matches list of application signals and AI screening checks in source."
+   },
+   {
+    "claim": "Zapier uses an AI skill to compare resumes, screen notes, and interview transcripts to flag inconsistencies for recruiter review without automated rejection decisions.",
+    "supported": true,
+    "note": "Directly supported by the prompt example and workflow described in source."
+   },
+   {
+    "claim": "Zapier connects with more than 10,000 apps including ATS, HRIS, and Slack.",
+    "supported": true,
+    "note": "Directly backed by source section 3."
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [],
+  "issues": [],
+  "fix_instructions": "The script and visuals are in excellent shape and ready for immediate publication. Ensure your automated Instagram DM system is tested and actively responding with the full prompt when users comment 'HIRING'."
+ },
+ "rules": [],
+ "reasons": [],
+ "meta": {
+  "duration": 34.1,
+  "voice": "edge",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-27/R3-2026-11-27/try1/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-27/R3-2026-11-27/try1/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-27/R3-2026-11-27/try1/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-27/R3-2026-11-27/try1/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-27/R3-2026-11-27/try1/scene_05.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   5.3,
+   6.84,
+   6.96,
+   7.71,
+   7.31
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-27/R3-2026-11-27/try1",
+ "attempt": 1,
+ "approved": true,
+ "hook": "Hiring mein fake resumes se pareshan ho? Is tarah auto-flag karo.",
+ "log": [
+  "attempt 1: PASS {'hook': 8, 'originality': 8, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} []"
+ ],
+ "material": "[69] Zapier Blog — 5 problems talent leaders are facing with AI in hiring, and what's working\nURL: https://zapier.com/blog/ai-in-hiring-problems-and-solutions\nMost talent leaders we know are working out how AI fits into hiring, ourselves included. Over the past year, our team at Zapier has worked alongside talent and people teams across industries. We've talked with roughly 100 leaders, at companies from high-growth startups to large enterprises.\nThroughout our conversations, the same problems keep coming up. But so does a pattern in how the most forward-thinking TA teams handle them:\nThey start with the technology they already own. Talent teams are mapping their current tools and connecting them before adding to their tech stack.\nThey let the people closest to the work build solutions. Recruiters and coordinators are encouraged to build what they need so they can move quickly.\nThey insist on guardrails. AI fluency gets people building. Governance keeps what they build safe to scale. That means clear guardrails are set, and IT has oversight without being a bottleneck.\nThey share AI skills and learnings. Zapier's talent team, for example, takes useful AI skills that individuals have built and adapts them for the entire team, with a check for personal data at each step.\nThey measure every build. Each AI build has to improve candidate quality, team capacity, or the experience for candidates, hiring managers, and recruiters. The impact needs to be measurable.\nWorking with talent teams has allowed us to share best practices and brainstorm how to tackle some of the more pressing problems in TA today.\nEvery team is redesigning hiring, and there's no shared playbook\nTeams have plenty of tools. They just aren't connected.\nHours saved no longer makes a strong ROI case\nQuestions to bring to your next leadership meeting\nA year ago, it was startling when one company shared that 20% of its applicants were fraudulent. A few months later, 40% was a number we heard regularly. Now some leaders are seeing close to 80% on certain technical roles, and nobody expects it to level off.\nFraud has also gotten more sophisticated: we're seeing deepfaked interviews, proxy candidates, and coached answers. Leaders worry about wasted interview hours, and even more about letting a bad actor into the company.\nThe teams handling this best don't rely on one fraud check. They add checks at several points in the hiring process, and a candidate gets flagged only when several signals line up:\nApplication signals like IP and location mismatch, VPN and proxy use, and suspicious phone numbers\nAI screening that checks the resume, the screen, and the interview against each other\nReference and background checks as the final gate\nWhen several signals stack up, a recruiter takes a look. On our talent team, we built a system on tools we already had. Zaps monitor IP addresses and VPN use, and an AI skill flags inconsistencies for a recruiter to review. We also use fraud detection in all of our current tools, so we get signal and protection at every stage possible.\nCopy Use Zapier: Compare this candidate's resume, recruiter screen notes, and interview transcript. List any inconsistencies in dates, titles, employers, tools, or project details, and quote the lines that conflict. Don't decide whether it's fraud. Flag anything a recruiter should review. 2. Every team is redesigning hiring, and there's no shared playbook\nCandidates now use AI at every stage, so the old interview loop doesn't tell teams what it used to. Some leaders have rebuilt their interview and assessment process end to end because leadership mandated it. Others are still getting their own team comfortable with AI. Most are somewhere in between, and plenty say they aren't confident they're getting it right.\nWherever they are, the problem is the same: working out what an interview stage looks like once it's redesigned for candidates who use AI.\nWe've seen a few great approaches from teams further along:\nA large tech company de-emphasized standard applications and created a \"skip the line\" path for candidates who showed proof of excellent work.\nA workforce management company replaced \"show me what you built\" with live exercises that change as they go, testing iteration, judgment, and accountability.\nAn insurance company that couldn't find specialized sales talent started hiring for aptitude. It now runs 12-week internal academies for skills and AI fluency.\nStart with the one stage your team trusts least. Define what a strong candidate looks like at that stage, then change how you assess it. Speed can come later.\nZapier can handle the work around the interview stage so recruiters can focus on creating the new assessment. For example, before the hiring manager intake, our recruiters run an AI skill that drafts the job description, interview structure, rubric, and interview questions into a hiring plan doc, so intake starts from a draft instead of a blank page. We also use Zapier to create a brief for every interviewer on what their stage is testing, and to prep the debrief.\nThat frees up time for us to create new assessments built around real work products or portfolios, live builds, and conversations.\nCopy Use Zapier: Pull the job description and the rubric for the [stage name] interview. Write a one-page brief for the interviewer: what this stage is testing, two or three questions that get at real work, and what strong, mixed, and weak answers sound like. 3. Teams have plenty of tools. They just aren't connected.\nThe question we hear most is \"which tool should we buy?\" But that's not usually the right question. Often the team already has enough software, just no good way to connect it all.\nOne people team built personal AI agents, then sat in an IT queue waiting for approval to connect them to the ATS and HRIS.\nA company that grew tenfold had its core operations automated, while everyone else ran one-off chatbots nobody could find or govern.\nTech stacks get more fragmented every year, which makes the connecting layer more valuable over time.\nZapier connects more than 10,000 apps, including Slack and the ATS, HRIS, and interview tools most talent teams already use.\nOur talent team runs this way: applicant tracking, interview intelligence, AI interview screening, HRIS, headcount planning, Slack, and an AI assistant are all connected through Zapier. With Zapier MCP , recruiters can work across those apps from the AI agent they already use.\nWhen a team starts by mapping what technology it already has, the conversation turns into an implementation plan quickly. And typically there's less of a need to purchase new tools. In fact, we've been able to eliminate some third-party tools by building more customized versions ourselves that run all on Zapier with automation and AI steps .\n4. Hours saved no longer makes a strong ROI case\nThe leaders furthest along in AI building have stopped leading ROI conversations with hours saved. Instead, most teams have landed on these three measures, with the understanding that every AI build should move at least one part.\nAre we getting better candidates and better hires?\nCan the team ",
+ "id": "R3-2026-11-27",
+ "caption_final": "How to use AI resume screening guardrails in Zapier to catch resume inconsistencies automatically. When hiring technical staff or office managers, manual resume verification consumes hours, especially with up to 80% fraudulent claims reported in certain technical roles. Rather than allowing AI to make automated hiring decisions, set up a Zapier automation that compares candidate resumes with interview notes. It flags conflicting dates, titles, or tool experience for human review. Comment HIRING for the exact Zapier screening prompt.\n\n#HiringAutomation #Zapier #BusinessAutomation #RecruitmentTips"
+}

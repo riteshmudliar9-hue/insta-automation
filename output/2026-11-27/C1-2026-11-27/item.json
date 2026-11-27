@@ -1,0 +1,235 @@
+{
+ "kind": "carousel",
+ "idea": {
+  "idea": "5 practical everyday AI skills every Indian SMB staff member should master based on Zoho-LinkedIn research",
+  "angle": "Upskill shop workers on 5 essential daily AI prompt workflows to unlock 5.2x faster business team growth.",
+  "audience_problem": "SMB owners invest in AI subscriptions but staff lack basic practical skills to apply them daily.",
+  "format": "checklist",
+  "medium": "carousel",
+  "source_ids": [
+   83
+  ],
+  "evergreen": true,
+  "keywords": [
+   "smb ai skills",
+   "zoho report",
+   "staff training",
+   "ai execution",
+   "productivity checklist"
+  ],
+  "scores": {
+   "relevance": 10,
+   "novelty": 7,
+   "hook_potential": 8,
+   "retention": 8,
+   "save_share": 10,
+   "feasibility": 9,
+   "evidence": 9,
+   "viral": 8
+  },
+  "total": 8.63
+ },
+ "piece": {
+  "hooks": [
+   "Why AI literate small business teams hire 5.2% faster",
+   "Everyday AI skills: 5 operational checks for SMB staff",
+   "Closing the AI skill gap in your small business team"
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "It leads with a concrete, surprising statistic from the Zoho-LinkedIn report that connects staff AI skills directly to business headcount growth.",
+  "slides": [
+   {
+    "kind": "cover",
+    "title": "Why AI literate small business teams hire 5.2% faster",
+    "subtitle": "Only 6.1 percent of Indian SMB staff have everyday AI literacy. Here is how to fix it.",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "point",
+    "title": "The Indian SMB AI literacy gap",
+    "subtitle": "",
+    "body": "16.3% of Indian SMBs have technical AI engineers, but only 6.1% train their general workforce in daily AI usage. Staff need practical skills, not complex coding.",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "checklist",
+    "title": "5 everyday AI capabilities for staff",
+    "subtitle": "",
+    "body": "",
+    "items": [
+     "AI search: search internal docs using secure BYOK tools",
+     "Sales drafts: prepare personalized buyer outreach faster",
+     "HR queries: answer routine leave or policy questions",
+     "Lead triage: review automated CRM lead flags",
+     "Skills hiring: screen applicants based on skills"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "mythfact",
+    "title": "",
+    "subtitle": "",
+    "body": "",
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "Everyday AI adoption means replacing existing staff with complex software built by developers.",
+    "fact": "SMBs with AI-literate staff grew headcount 5.2 percentage points faster. Everyday tools assist current staff.",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "steps",
+    "title": "How to deploy AI safely in shop workflows",
+    "subtitle": "",
+    "body": "",
+    "items": [
+     "Pick 1 single routine workflow like customer inquiry drafts",
+     "Set strict guardrails using internal permissions or BYOK",
+     "Train non-technical staff before reaching 50 employees",
+     "Connect AI outputs directly into active sales channels"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   },
+   {
+    "kind": "summary",
+    "title": "Key takeaways for SMB AI readiness",
+    "subtitle": "",
+    "body": "",
+    "items": [
+     "Focus on staff AI literacy over custom software",
+     "Lock down data policies using BYOK tools early",
+     "Automate sales drafts to double buyer outreach",
+     "Build standard systems before headcount hits 50"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": [],
+    "myth": "",
+    "fact": "",
+    "quote": "",
+    "attribution": ""
+   }
+  ],
+  "caption": "How Indian small businesses build AI literacy across their entire workforce.\n\nData from the joint Zoho and LinkedIn report shows that Indian SMBs with in-house AI talent grew their headcount 5.2 percentage points faster in early 2026. However, while 16.3 percent of firms have AI engineering skills, only 6.1 percent have built everyday AI literacy across regular employees. You do not need custom software to scale. Start by training non-technical staff to use AI search, draft customer follow-ups, and answer standard HR queries behind secure Bring-Your-Own-Key guardrails. Set up these basic systems before your team reaches 50 people.\n\nWhich simple workflow in your office takes up the most staff time each week?",
+  "hashtags": [
+   "#IndianSMB",
+   "#ZohoCRM",
+   "#BusinessAutomation",
+   "#SmallBusinessIndia",
+   "#WorkforceUpskilling"
+  ],
+  "keywords": [
+   "Indian SMB AI adoption",
+   "Zoho LinkedIn report 2026",
+   "everyday AI skills small business",
+   "workforce AI literacy India",
+   "small business sales automation"
+  ],
+  "claims": [
+   {
+    "claim": "Indian SMBs with AI talent grew headcount 5.2 percentage points faster in the first half of 2026.",
+    "source_id": 83
+   },
+   {
+    "claim": "16.3% of Indian SMBs have AI engineering skills, but only 6.1% have everyday AI literacy across their workforce.",
+    "source_id": 83
+   },
+   {
+    "claim": "SMB sellers using AI did 40% more sales activity and reached nearly twice as many decision-makers.",
+    "source_id": 83
+   },
+   {
+    "claim": "About 16% of SMBs on Zoho People use its AI assistant to answer routine HR queries.",
+    "source_id": 83
+   },
+   {
+    "claim": "Informal HR processes begin to fail around 50 employees.",
+    "source_id": 83
+   }
+  ]
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "Indian SMBs with in-house AI talent grew headcount 5.2 percentage points faster.",
+    "supported": true
+   },
+   {
+    "claim": "16.3% of SMBs have AI engineering skills, but only 6.1% have everyday AI literacy.",
+    "supported": true
+   },
+   {
+    "claim": "Informal HR processes begin to fail around 50 employees.",
+    "supported": true
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Slide 1: The word 'CHECKLIST' is in a pill shape at the top, but the slide is a cover/intro, not a checklist. This is confusing branding."
+  ],
+  "issues": [
+   "The term 'BYOK' (Bring-Your-Own-Key) is jargon that may alienate non-technical SMB owners without a brief explanation.",
+   "The call to action in the caption is good, but the carousel itself lacks a clear 'Save this for later' or 'Follow for more' nudge on the final slide."
+  ],
+  "fix_instructions": "1. Change the 'CHECKLIST' label on Slide 1 to 'INSIGHT' or 'REPORT' to match the content. 2. Add a small text box on Slide 6: 'BYOK = Using your own security keys to keep AI data private.' 3. Add a final line to Slide 6: 'Save this guide to train your team.' 4. Ensure the tone remains encouraging but urgent."
+ },
+ "rules": [],
+ "reasons": [],
+ "meta": {
+  "ai_visuals": false,
+  "slides": 6
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-27/C1-2026-11-27/try3",
+ "attempt": 3,
+ "approved": true,
+ "hook": "Why AI literate small business teams hire 5.2% faster",
+ "log": [
+  "attempt 1: fail {'hook': 7, 'originality': 7, 'practical_value': 6, 'natural_language': 7, 'accuracy': 9, 'narrative': 6, 'visual_integrity': 7, 'pacing': 6, 'brand_consistency': 8, 'publish_readiness': 6} ['hook 7/10 (<8)', 'originality 7/10 (<8)', 'practical_value 6/10 (<8)', 'natural_language 7/10 (<8)']",
+  "attempt 2: fail {'hook': 7, 'originality': 7, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['hook 7/10 (<8)', 'originality 7/10 (<8)', 'practical_value 7/10 (<8)', 'narrative 7/10 (<8)']",
+  "attempt 3: PASS {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} []"
+ ],
+ "material": "[83] YourStory — Zoho–LinkedIn report: AI is helping Indian SMBs grow, but skills lag behind\nURL: https://yourstory.com/2026/11/indian-smbs-ai-talent-headcount-growth-zoho-linkedin-report\nZoho–LinkedIn report: AI is helping Indian SMBs grow, but skills lag behind | YourStory Sidebar is Loading... ADVERTISEMENT Picture a typical Indian small-business founder. They run sales, approve leave requests and chase late payments. Their contacts are the company's biggest asset, and their WhatsApp is where most deals get done.\nThat model builds plenty of businesses, but it also caps how big they can get. The New Rules of Growth: How India's SMBs Are Building to Scale , a new joint report from Zoho and LinkedIn , looks at what happens when that cap arrives. Its answer: growing SMBs are moving work out of the founder's head and into systems, skills and teams.\nThe study covers July 2024 to June 2026. It combines LinkedIn network data from more than 1.4 billion members, including over 193 million in India, with usage data from more than 78,000 organisations on Zoho Workplace , Zoho People and Bigin by Zoho CRM . It defines an SMB as an India-headquartered business with 11 to 200 employees. The stakes are high: according to the Economic Survey 2025-26 , SMBs contribute about 31% of India's GDP and nearly 49% of its exports.\nRather than shrinking their workforce, SMBs that invest in AI talent are hiring faster. In the first half of 2026, Indian SMBs with in-house AI talent grew headcount 5.2 percentage points faster than other SMBs. That is more than double the 2.1-point gap among SMBs globally.\nThe lift isn't limited to software. Technology leads at 8.9 points, but construction (7.7), wholesale (7.3) and financial services (6.9) are close behind. The link is also strongest in smaller firms: among mid-market companies, the gap shrinks to 0.9 points.\n\"Those investing in AI talent are showing that AI and jobs can grow together,\" said Kumaresh Pattabiraman, India Country Manager at LinkedIn . The report adds a caveat: the data shows associations, not cause and effect.\nThe headline number has a weak spot. SMBs are better at building AI than at using it. LinkedIn data shows 16.3% have AI engineering skills in-house, but only 6.1% have everyday AI literacy across their workforce. Among large enterprises, the figures are more than 34% and 18%.\nFor most small businesses, everyday literacy matters more. A retailer or manufacturer doesn't need to build AI, but its people need to know how to use it. Pattabiraman's next step: make AI \"a skill for every employee, not a specialist skill for a few.\"\nPart of the reason for the slow rollout is caution. AI-assisted search on Zoho Workplace has roughly doubled, and early adopters are using Bring-Your-Own-Key (BYOK) setups. These connect an AI model of the firm's choice using its own access key, so AI use stays within the contracts and data policies it already manages.\nSMBs want the productivity of generative AI, but they are wary of sending sensitive data to outside providers. Use of password management tools has also risen about 35%.\nSize matters too. Only 8.6% of micro-firms on Zoho People use AI in their HR tools, compared with 29.6% of larger SMBs. \"Despite all the attention on AI, adoption still follows operational maturity,\" said Praval Singh, VP of Marketing and CX at Zoho .\nMore than 80,000 India-headquartered SMB founders on LinkedIn average over 1,300 connections each. Yet only about one in three SMBs has a formal sales leader at Director, VP or CXO level. In most firms, the founder is both head of sales and the face of the brand.\nAI is helping lean teams go further. In the 12 months to June 2026, SMB sellers who used AI did roughly 40% more sales activity than those who didn't, and reached nearly twice as many decision-makers. They also grew their networks faster: in the year after adopting AI, their monthly new connections rose 40%, against 31% for similar sellers who didn't.\nMeanwhile, routine sales work is moving into software, from the first chat to the final payment. Bigin by Zoho CRM data shows:\nWorkflow automation rose about 42% , routing new leads and flagging stalled deals automatically.\nPayment link usage grew about 56% , helping customers pay as soon as a deal is agreed.\nWhatsApp messages sent through the CRM rose almost sixfold , as deals move to mobile and to the channels buyers already use.\nBuyers now size up a business long before they talk to it, and more SMBs are making sure they can be found.\nMonthly active SMB advertisers on LinkedIn grew about 13% year on year, and click-through rates rose roughly 81%. The most engaging 10% of advertisers keep campaigns running 26% longer and use 83% more ad creatives than the bottom 10%. About one in six SMB advertisers now mention AI in their ads, mostly as \"AI-powered\" or \"AI-driven\" rather than \"AI-native.\"\nIn HR, the tipping point comes at about 50 employees. Below it, attendance lives on a spreadsheet and leave is approved in a WhatsApp group. Beyond it, informal processes start to fail. Among Zoho People customers, 68% of larger SMBs use several advanced HR features, against just 9% of micro-firms. About 16% of SMBs on the platform use its AI assistant to handle routine HR queries.\nFounders want tools that fit how they already work. Custom workflows (about 35%) and custom modules (27%) are the most used advanced features, well ahead of ready-made ones such as performance management (14%).\nSkills-based hiring widens the search. Employers in India that hire for skills rather than job titles or degrees can reach 11 times more candidates, and 22 times more for AI roles.\nSMBs are also hiring across borders. Their share of hires made outside India rose from about 22% to nearly 27% between 2025 and 2026, led by the US, UAE, UK and Nigeria.\nThe report doesn't describe a sweeping transformation. It describes steady, practical progress. Indian SMBs are adopting technology one function at a time and building systems around the people who already make the business work. For founders, the lessons are clear:\nStart with one workflow , such as sales follow-ups or routine HR questions.\nPut guardrails in place first , within your existing permissions and data policies.\nBuild systems before you reach 50 employees , not after things start to break.\nTeach AI to everyone , not just a few specialists.\nAs Singh put it, the priority is \"building the skills to use it well, so they can scale without losing agility.\" The founder's network still opens the first doors. What this report shows is what it takes to keep growing after that.\nADVERTISEMENT Advertise with us ADVERTISEMENT Advertise with us ADVERTISEMENT Advertise with us ADVERTISEMENT Advertise with us Picture a typical Indian small-business founder. They run sales, approve leave requests and chase late payments. Their contacts are the company's biggest asset, and their WhatsApp is where most deals get done.\nThat model builds plenty of businesses, but it also caps how big they can get. The New Rules of Growth: How India's SMBs Are Building to Scale , a new joint report from Zoho and LinkedIn , looks at what happens when that cap arrives.",
+ "id": "C1-2026-11-27",
+ "caption_final": "How Indian small businesses build AI literacy across their entire workforce.\n\nData from the joint Zoho and LinkedIn report shows that Indian SMBs with in-house AI talent grew their headcount 5.2 percentage points faster in early 2026. However, while 16.3 percent of firms have AI engineering skills, only 6.1 percent have built everyday AI literacy across regular employees. You do not need custom software to scale. Start by training non-technical staff to use AI search, draft customer follow-ups, and answer standard HR queries behind secure Bring-Your-Own-Key guardrails. Set up these basic systems before your team reaches 50 people.\n\nWhich simple workflow in your office takes up the most staff time each week?\n\n#IndianSMB #ZohoCRM #BusinessAutomation #SmallBusinessIndia #WorkforceUpskilling"
+}

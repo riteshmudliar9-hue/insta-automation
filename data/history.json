@@ -1052,5 +1052,69 @@
   "status": "published",
   "media_id": "18006742476034403",
   "permalink": "https://www.instagram.com/p/DgM3QDBkXJL/"
+ },
+ {
+  "id": "R1-2026-11-27",
+  "date": "2026-11-27",
+  "kind": "reel",
+  "format": "tool_test",
+  "topic": "Using Indian language speech models like Chariot AI for hands-free regional voice stock taking",
+  "hook": "Apni custom business app ka AI API bill 2.5x kam karo.",
+  "keywords": [
+   "Indic AI models",
+   "Chariot AI Chariot-1",
+   "Indian language speech model",
+   "voice AI API cost",
+   "IndicShift token efficiency"
+  ],
+  "status": "queued"
+ },
+ {
+  "id": "R2-2026-11-27",
+  "date": "2026-11-27",
+  "kind": "reel",
+  "format": "demo",
+  "topic": "Searching across shop Gmail, Drive, and Calendar simultaneously using Google Search Personal Intelligence",
+  "hook": "Purane business docs dhoondne me time waste mat karo.",
+  "keywords": [
+   "Google Search",
+   "Google Drive",
+   "Personal Intelligence",
+   "AI Mode",
+   "Connected Apps"
+  ],
+  "status": "queued"
+ },
+ {
+  "id": "R3-2026-11-27",
+  "date": "2026-11-27",
+  "kind": "reel",
+  "format": "problem_fix",
+  "topic": "Automating candidate resume screening and interview scheduling for small-business hiring",
+  "hook": "Hiring mein fake resumes se pareshan ho? Is tarah auto-flag karo.",
+  "keywords": [
+   "hiring automation",
+   "resume screening",
+   "Zapier AI",
+   "candidate verification",
+   "recruitment workflow"
+  ],
+  "status": "queued"
+ },
+ {
+  "id": "C1-2026-11-27",
+  "date": "2026-11-27",
+  "kind": "carousel",
+  "format": "checklist",
+  "topic": "5 practical everyday AI skills every Indian SMB staff member should master based on Zoho-LinkedIn research",
+  "hook": "Why AI literate small business teams hire 5.2% faster",
+  "keywords": [
+   "Indian SMB AI adoption",
+   "Zoho LinkedIn report 2026",
+   "everyday AI skills small business",
+   "workforce AI literacy India",
+   "small business sales automation"
+  ],
+  "status": "queued"
  }
 ]

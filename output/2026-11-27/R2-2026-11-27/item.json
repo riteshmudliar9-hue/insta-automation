@@ -1,0 +1,251 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Searching across shop Gmail, Drive, and Calendar simultaneously using Google Search Personal Intelligence",
+  "angle": "Find lost vendor quotes, customer invoices, and meeting notes in seconds without manually opening multiple apps.",
+  "audience_problem": "Traders spend up to 40 minutes daily digging through emails and Drive folders for past customer quotes.",
+  "format": "demo",
+  "medium": "reel",
+  "source_ids": [
+   31
+  ],
+  "evergreen": true,
+  "keywords": [
+   "google search",
+   "personal intelligence",
+   "gmail search",
+   "google drive",
+   "document search"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 8,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 9,
+   "evidence": 9,
+   "viral": 9
+  },
+  "total": 8.78
+ },
+ "piece": {
+  "hooks": [
+   "Purane business docs dhoondne me time waste mat karo.",
+   "Google Search mein Google Drive connect karne ka tarika dekh lo.",
+   "Drive docs aur Wallet details ek jagah Google Search mein dhoondo.",
+   "Google Search Personal Intelligence se scattered files turant dhoondo.",
+   "Search settings mein Connected Apps option secretly chalu karo."
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "Directly addresses a common daily operational headache for small business owners—digging through scattered files—and leads naturally into the Google Search Drive feature.",
+  "title": "Search Across Drive and Search in One Place",
+  "scenes": [
+   {
+    "purpose": "Hook",
+    "narration": "Purane business docs dhoondne me time waste mat karo.",
+    "on_screen": "Stop File Digging",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Search Across Your Apps",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Introduce feature",
+    "narration": "Google Search AI Mode mein ab Google Drive aur Wallet connect kar sakte ho.",
+    "on_screen": "New Connect Feature",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Google Drive Docs",
+     "Google Wallet Context",
+     "Gmail and Calendar"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Explain setup path",
+    "narration": "Search Personalization open karke Connected Apps mein jaao aur Drive select karo.",
+    "on_screen": "Setup Steps",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "Search Personalization",
+     "Select Connected Apps",
+     "Choose Google Drive"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Honest limitation and capability",
+    "narration": "Scattered docs aur tax plans search honge, par Wallet se money move nahi hoga.",
+    "on_screen": "Read Only Access",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "AI Mode Can",
+    "right_label": "AI Mode Cannot",
+    "rows": [
+     {
+      "left": "Read Drive docs",
+      "right": "Move your money"
+     },
+     {
+      "left": "Track card perks",
+      "right": "Invest funds"
+     }
+    ]
+   },
+   {
+    "purpose": "Call to action",
+    "narration": "Aap kisi bhi waqt preferences turn off kar sakte ho. Comment DRIVE, main steps DM kar dunga.",
+    "on_screen": "Comment DRIVE",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Manage Connection Anytime",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "How to connect Google Drive and Wallet to Google Search Personal Intelligence for fast document retrieval. If your invoices, PDFs, and notes are scattered, Google is rolling out Google Drive and Wallet connections in Search Personal Intelligence alongside Gmail and Calendar. Open Search Personalization, tap Connected Apps, and choose Drive or Wallet. AI Mode reads text from docs for tailored search answers, but it is read-only and cannot transfer money. You can turn connections off anytime. Which app do you waste the most time searching in?",
+  "hashtags": [
+   "#GoogleSearch",
+   "#GoogleDrive",
+   "#BusinessProductivity",
+   "#TechTips",
+   "#OfficeTools"
+  ],
+  "keywords": [
+   "Google Search",
+   "Google Drive",
+   "Personal Intelligence",
+   "AI Mode",
+   "Connected Apps"
+  ],
+  "claims": [
+   {
+    "claim": "Google is adding Google Wallet and Google Drive to Personal Intelligence in Search AI Mode alongside Gmail, Calendar, and Photos.",
+    "source_id": 31
+   },
+   {
+    "claim": "To connect apps, users open Search Personalization, select Connected Apps, and choose which apps to opt in.",
+    "source_id": 31
+   },
+   {
+    "claim": "Connecting Google Drive allows Search to answer queries using context across docs, sheets, and PDFs.",
+    "source_id": 31
+   },
+   {
+    "claim": "Google Wallet connection reads card benefits and spending details but cannot move, manage, or invest money.",
+    "source_id": 31
+   },
+   {
+    "claim": "Users can turn connected apps on or off at any time in Search Settings.",
+    "source_id": 31
+   }
+  ],
+  "dm_keyword": "DRIVE",
+  "dm_text": "Here is how to connect Google Drive and Wallet to Google Search Personal Intelligence: 1. Open Search Personalization settings. 2. Select Connected Apps. 3. Turn on Google Drive and Google Wallet. Note: This lets AI Mode read details across your files, Gmail, and Calendar to answer search queries. Wallet connection is read-only and cannot move or invest money. You can edit or turn off app connections anytime in your settings."
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 9,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "Google is adding Google Wallet and Google Drive to Personal Intelligence in Search AI Mode alongside Gmail, Calendar, and Photos.",
+    "supported": true,
+    "note": "Accurate per source announcement."
+   },
+   {
+    "claim": "To connect apps, users open Search Personalization, select Connected Apps, and choose which apps to opt in.",
+    "supported": true,
+    "note": "Exact setup flow specified in source."
+   },
+   {
+    "claim": "Connecting Google Drive allows Search to answer queries using context across docs, sheets, and PDFs.",
+    "supported": true,
+    "note": "Directly supported by source text."
+   },
+   {
+    "claim": "Google Wallet connection reads card benefits and spending details but cannot move, manage, or invest money.",
+    "supported": true,
+    "note": "Explicitly confirmed in source."
+   },
+   {
+    "claim": "Users can turn connected apps on or off at any time in Search Settings.",
+    "supported": true,
+    "note": "Confirmed in source."
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [],
+  "issues": [
+   "Drive integration rolls out in coming weeks while Wallet starts today; worth clarifying in caption so users aren't confused if Drive isn't visible immediately in their account."
+  ],
+  "fix_instructions": "This draft is high quality and ready to publish. Optionally add a short line in the caption clarifying that Google Drive rollout is expanding over the coming weeks."
+ },
+ "rules": [],
+ "reasons": [],
+ "meta": {
+  "duration": 32.0,
+  "voice": "edge",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-27/R2-2026-11-27/try1/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-27/R2-2026-11-27/try1/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-27/R2-2026-11-27/try1/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-27/R2-2026-11-27/try1/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-27/R2-2026-11-27/try1/scene_05.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   4.55,
+   5.94,
+   6.49,
+   6.69,
+   8.34
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-27/R2-2026-11-27/try1",
+ "attempt": 1,
+ "approved": true,
+ "hook": "Purane business docs dhoondne me time waste mat karo.",
+ "log": [
+  "attempt 1: PASS {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 9, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} []"
+ ],
+ "material": "[31] Google AI Blog — A more tailored Google Search that’s uniquely yours\nURL: https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/\nA more tailored Google Search that’s uniquely yours Nov 23, 2026\nGet more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode.\nYour browser does not support the audio element.\nWe’re adding Google Wallet and Drive to Personal Intelligence, allowing Search to provide answers based on your spending, documents, and chats. These updates help you manage finances, organize projects, and maintain context across your search threads. You can opt in to connect these apps by visiting your Search Personalization settings, where you remain in control of your data and can adjust your preferences at any time.\nWe are adding Google Wallet and Google Drive to Personal Intelligence to provide more relevant search results.\nYou can now connect your financial data to identify spending habits and optimize your credit card rewards.\nConnecting your documents allows you to receive personalized plans based on information across your various files.\nYou remain in control of your data by choosing which apps to connect and managing your settings.\nRobby Stein, VP of Product for Google Search, explains that you can now connect your apps like Google Wallet and Drive to Search for more personalized results. When you opt in, Search uses your own documents, spending habits, and recent activity to provide tailored answers. This helps you track financial goals, organize project information, and continue research tasks without repeating yourself. You remain in control and can manage these connections in your settings at any time.\nThe most helpful search experience brings together the richness of the world’s information with insights uniquely relevant to you. Today, Search is getting even more tailored with the ability to connect more of your apps to Personal Intelligence — and we're introducing more personally relevant responses, so it's easier to find just what you need.\nStarting to roll out today, you can opt in to securely connect Google Wallet to Personal Intelligence in AI Mode , with support for Drive and the Gemini app following in the coming weeks — bringing context from your spending, documents, and chats directly to Search. These apps join Gmail, Calendar, and Photos in delivering even more tailored responses with your personal context.\nGet a clearer picture of your spending with Google Wallet: By connecting Google Wallet to Personal Intelligence in both AI Mode and the Gemini app , you can map out your financial milestones and identify actionable ways to trim everyday spending. You can also maximize credit card benefits — like optimizing cash-back categories, travel perks, and reward points — based on your cards linked via Wallet. If you choose to connect your Wallet, AI Mode can only read information from your accounts; it can’t move, manage, or invest your money.\nStay in your flow with Google Drive: Sometimes the important information that you need to get started on a project or make a big decision can be scattered across your docs, sheets, or PDFs. With Google Drive connected in Personal Intelligence, you can get uniquely helpful responses that take all of that context into account and help you get started, like a personalized preparation plan ahead of tax season.\nConnect the dots between the Gemini app and Search: In the coming weeks you can easily share context across the Gemini app and AI Mode in Search. So if you explore an idea in the Gemini app, AI Mode will have that foundation to build on, and vice versa. While you could already opt in to connect your Search history to Personal Intelligence in the Gemini app, soon you can also opt in to securely connect your Gemini app to Personal Intelligence in AI Mode.\nTo connect your apps to Personal Intelligence in AI Mode, open Search Personalization, select Connected Apps, and then choose the apps you want to connect . You choose if and when you opt in, and you can turn those connections on or off at any time. You’re always in control of your personalization settings, and soon you’ll also be able to view the context AI Mode uses via the “Personalization” icon below any tailored response. If you want to edit anything simply let AI Mode know what to change, like responding in thread “I’m no longer a vegetarian.”\nYou’ll also start seeing more personally relevant responses in AI Overviews and AI Mode, tailored to your recent search context. So if you’ve been researching and planning for a trip, you can pick up right where you left off in a new search thread without starting over or repeating yourself. As always, you can adjust or turn off personalization at any time in your Search Settings.\nGet the latest news from Google in your inbox\nSign up for our newsletters with product updates, event information, special offers, and more.\nCheck your inbox to confirm your subscription.\nYou can also subscribe with a different email address .\nYour information will be used in accordance with Google's privacy policy. You may opt out at any time.\nRobby Stein is Vice President of Product, Google Search, working on the development of generative AI products and experiences that help people search and access information effortlessly.\nHow Gemini is changing the game for Golden State's organization and fans.\nGet your year-end tasks done with new Connected Apps.\nIntroducing Tool Retrieval in the Gemini API\nWalter Isaacson on curiosity and creativity in the AI age.\nLas Vegas race week brings big rewards to Google Play\nThe Gemini app is now available on lower-memory Android devices.",
+ "id": "R2-2026-11-27",
+ "caption_final": "How to connect Google Drive and Wallet to Google Search Personal Intelligence for fast document retrieval. If your invoices, PDFs, and notes are scattered, Google is rolling out Google Drive and Wallet connections in Search Personal Intelligence alongside Gmail and Calendar. Open Search Personalization, tap Connected Apps, and choose Drive or Wallet. AI Mode reads text from docs for tailored search answers, but it is read-only and cannot transfer money. You can turn connections off anytime. Which app do you waste the most time searching in?\n\n#GoogleSearch #GoogleDrive #BusinessProductivity #TechTips #OfficeTools"
+}

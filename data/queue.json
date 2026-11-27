@@ -5916,5 +5916,321 @@
   "media_id": "18006742476034403",
   "permalink": "https://www.instagram.com/p/DgM3QDBkXJL/",
   "published_at": "2026-11-26T15:42:37.778375+05:30"
+ },
+ {
+  "id": "R1-2026-11-27",
+  "kind": "reel",
+  "date": "2026-11-27",
+  "slot": "2026-11-27T21:00",
+  "dir": "output/2026-11-27/R1-2026-11-27/try4",
+  "files": [
+   "reel.mp4"
+  ],
+  "caption": "How to reduce Indian language AI API cost for custom business apps using Chariot AI.\n\nIf you are building custom voice logging, stock update, or customer support tools for your business in Indian languages, standard AI tokenizers increase your API bill. Noida-based startup Chariot AI launched Chariot-1 under the IndiaAI Mission. Its IndicShift feature reduces token usage on Indian text by up to 2.5 times compared to GPT tokenizer, cutting API costs. It offers TTS support across 10 Indian languages with a 7.60% Hindi character error rate. Smaller model sizes (745 Mn and 1.7 Bn) allow running speech models on laptops or mobile devices directly.\n\nHave you tested native voice interfaces for your warehouse or sales staff yet?\n\nComment CHARIOT for the technical breakdown and model specs.\n\n#IndicAI #VoiceAI #ChariotAI #AppDevelopment #TechIndia",
+  "topic": "Using Indian language speech models like Chariot AI for hands-free regional voice stock taking",
+  "format": "tool_test",
+  "hook": "Apni custom business app ka AI API bill 2.5x kam karo.",
+  "keywords": [
+   "Indic AI models",
+   "Chariot AI Chariot-1",
+   "Indian language speech model",
+   "voice AI API cost",
+   "IndicShift token efficiency"
+  ],
+  "scores": {
+   "hook": 8,
+   "originality": 8,
+   "practical_value": 9,
+   "natural_language": 9,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 8,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "status": "queued",
+  "produced_at": 1795760501,
+  "log": [],
+  "dm_keyword": "CHARIOT",
+  "dm_text": "Here are the tech details for Chariot-1 by Chariot AI: 1. IndicShift: Shared alphabet across 12 Indian scripts using 350 letters. Cuts Indian text tokens by up to 2.5x vs GPT tokenizer. 2. Model Sizes: Available in 10.7 Bn, 1.7 Bn, and 745 Mn parameters for servers, laptops, and smartphones. 3. TTS Model: Supports 10 Indian languages with 7.60% Hindi character error rate and over 97% verbalisation accuracy. 4. Efficiency: Uses Mixture of Vocabularies and Nested Training to reduce compute costs and speed up training.",
+  "presenter": {
+   "status": "waiting",
+   "takes": [
+    {
+     "n": 1,
+     "kind": "talk",
+     "talk": 1,
+     "line": "Agar aapki custom business app ka AI API bill bohot zyada aa raha hai, toh ruko.",
+     "visual_scene": -1,
+     "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: medium close-up with a slow, smooth push-in towards his face. Leans in slightly towards the camera with a serious look. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Agar aapki custom business app ka AI API bill bohot zyada aa raha hai, toh ruko.\" No subtitles, no on-screen text, no music, no other people.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    },
+    {
+     "n": 2,
+     "kind": "talk",
+     "talk": 2,
+     "line": "Chariot AI ka IndicShift feature Indian scripts ke text tokens 2.5 times tak kam kar deta hai.",
+     "visual_scene": -1,
+     "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: medium shot from slightly to his left (about 20 degrees), camera steady. Raises one hand to emphasize the key point about token reduction. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Chariot AI ka IndicShift feature Indian scripts ke text tokens 2.5 times tak kam kar deta hai.\" No subtitles, no on-screen text, no music, no other people.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    },
+    {
+     "n": 3,
+     "kind": "broll",
+     "cover": 2,
+     "desc": "close-up of hands typing on a laptop next to paper bills on a wooden counter",
+     "prompt": "Create a realistic vertical 9:16 video of about 8 seconds: close-up of hands typing on a laptop next to paper bills on a wooden counter. Indian small-business setting, warm natural light, handheld smartphone-camera look, slow subtle camera movement, shallow depth of field. No faces, no readable text, no brand names or logos, no subtitles, no speech, no music.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    },
+    {
+     "n": 4,
+     "kind": "talk",
+     "talk": 3,
+     "line": "Inke chote models smartphones par bhi chal sakte hain. Comment CHARIOT, main aapko details DM kar dunga.",
+     "visual_scene": -1,
+     "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: close-up, camera steady at eye level. Smiles warmly and points directly toward the camera lens. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Inke chote models smartphones par bhi chal sakte hain. Comment CHARIOT, main aapko details DM kar dunga.\" No subtitles, no on-screen text, no music, no other people.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    }
+   ],
+   "material": "[78] Inc42 — IndiaAI Mission-Backed Chariot AI Unveils 11 Bn Parameter LLM, Speech Models\nURL: https://inc42.com/buzz/indiaai-mission-backed-chariot-ai-unveils-11-bn-parameter-llm-speech-models/\nIndiaAI Mission-Backed Chariot AI Unveils 11 Bn Parameter LLM, Speech Models IndiaAI Mission-Backed Chariot AI Unveils 11 Bn Parameter LLM, Speech Models --> tag --> Skip to content IndiaAI Mission-Backed Chariot AI Unveils 11 Bn Parameter LLM, Speech Models --> SHARE Share on Facebook\nSUMMARY Chariot AI has unveiled an 11 Bn parameter mixture-of-experts LLM and a text-to-speech model supporting 10 Indian languages, under the IndiaAI Mission.\nResearch innovations in its models aim to reduce token usage, cut training time and improve efficiency across different computing environments.\nSpeech reasoning is central to Chariot’s longer-term plans, with the startup aiming to build larger foundation models and enable new voice-first applications.\nAdded to Saved Stories in Login VIEW SAVED STORIES\nChariot AI, a startup developing sovereign foundation model under IndiaAI Mission, has unveiled its Chariot-1 model suite. Launched at a MeitY event, the AI suite comprises a large language model (LLM) and a text-to-speech (TTS) model.\nThe Chariot-1 LLM is an 11 Bn parameter mixture-of-experts model, with 4 Bn active parameters per token. It is available in three sizes: 10.7 Bn, 1.7 Bn and 745 Mn parameters, allowing deployment across different computing environments, including data centres, laptops and smartphones.\nHere are the three key AI innovations showcased by Chariot:\nIndicShift : Introduces a shared alphabet across 12 Indian scripts, using 350 letters to represent 1,012 characters. It reduces token usage on Indian text by up to 2.5 times compared to OpenAI’s GPT tokeniser and improves model performance on Indian languages by 5–8% on the same compute.\nNested Training : Enables three different model sizes to be trained simultaneously in a single training run using one set of weights, allowing deployment across data centres, laptops, smartphones and edge devices. It improves training speed by 62% compared to training the three models separately.\nMixture of Vocabularies : Divides the model’s vocabulary into 11 groups, allowing it to score only the relevant group during word selection. This reduces vocabulary entries scored per word by 5.7 times and improves training speed by 38% on the same GPUs, with negligible change in model loss.\nThe models have been pretrained from scratch in India and incorporate three research innovations aimed at improving computational efficiency, multilingual capabilities and deployment across devices.\n“Designed to advance language understanding and speech generation, the models incorporate novel research innovations aimed at improving computational efficiency, multilingual capabilities and adaptability across different deployment environments,” the government said.\nAlongside these, Chariot AI also launched a text-to-speech (TTS) model that can generate speech in 10 Indian languages. This model is designed to account for context when converting text into speech. It can determine how numbers, dates, currencies, units, URLs and abbreviations should be pronounced, rather than relying on fixed pronunciation rules.\nThe startup reported over 97% verbalisation accuracy on the Async TTS Pronunciation Benchmark, which comprises 1,029 real-world sentences and 2,251 instances of non-standard text across 42 categories. It also recorded a Hindi character error rate (CER) of 7.60% and an average CER of 6.47% across nine other Indian languages, which Chariot said was the lowest among the systems evaluated in its tests.\nFounded earlier this year by Stanford University alumni Parth Sarthi and Suvrat Bhooshan, the Noida-headquartered startup is focusing extensively on foundation models for speech reasoning.\nIn an earlier interview with Inc42, Sarthi said that Chariot wants to bring frontier AI research capabilities to India. He identified speech reasoning as a gap in the industry, particularly in a voice-first market such as India.\nFor context, speech reasoning refers to an AI system’s ability to understand spoken input, interpret context, reason through it and respond or take an appropriate action. The cofounders believe existing models struggle to transfer knowledge across languages and modalities.\n“Our goal is to develop novel architectures that address these limitations and demonstrate that frontier AI research can be done in India,” Sarthi said.\nChariot’s longer-term ambition is to build a trillion-parameter model, like AI unicorn Sarvam. The startup is currently working towards a larger model with around 70 Bn parameters to demonstrate that its technology can scale.\nBeyond its LLM and TTS model, Chariot is developing tech for automatic speech recognition (ASR) and other speech-related tasks. Sarthi believes speech reasoning could enable applications beyond conventional voice assistants and customer support tools.\n“Just as ChatGPT opened up millions of possibilities, a speech reasoning model could allow developers to build applications that we may not have thought of yet,” he said.\nWhile Chariot primarily operates as a B2B provider, its models could also be used by developers to build applications across different use cases.\n“In India, voice AI is taking off. There are several standard use cases, including personal AI assistants and customer support agents that can provide round-the-clock assistance,” Sarthi said. The startup currently has a core team of 12.\nChariot also wants to simplify the technology stack for voice developers by building a single model that can support multiple speech applications. Developers today have to integrate several components, including voice activity detection (VAD), ASR, TTS and language models. Sarthi expects more efficient and affordable models to expand the market for voice AI, invoking the Jevons paradox: as technology becomes cheaper and more efficient, its use tends to increase.\n“Applications that were previously not viable because of cost, efficiency or capability constraints will become possible, unlocking new use cases and encouraging more innovation,” he said.\nThe launch comes amid a push by IndiaAI Mission-backed companies to build homegrown AI models. Earlier today, BharatGen launched vision-language model Patram 1.5 for automating document processing across BFSI, healthcare, government, and other enterprise workflows.\nPartner With Inc42 Inc42 Startup Spotlight\nIndian startup stories decoded daily. Up to 10 stories a day, at 9am. 70,000+ companies. All in the app. Track funding, investors and company financials DOWNLOAD INC42 APP Continue on Web Stories Profiles Not Finding what you are looking for? Advanced filter You have reached your limit of free stories want to read the full story? Unlock This Story & Enjoy All Members-Only Benefits With Inc42 Plus.\nUnlock special offers and join 10,000+ founders, investors & operators staying ahead in India’s startup economy.\nOffer Ends In --> 3 YEAR PLAN ₹29999 ₹7999 ₹222/Month --> UNLOCK 73% OFF Become a member Cancel Anytime 2 YEAR PLAN ₹19999 ₹5999 ₹249/Month --> UNLOCK 70% OFF ",
+   "scenes": [
+    {
+     "purpose": "Hook",
+     "narration": "Apni custom business app ka AI API bill 2.5x kam karo.",
+     "on_screen": "Cut AI API Bills 2.5x",
+     "visual_type": "text",
+     "url": "",
+     "query": "",
+     "headline": "Lower Voice AI API Costs",
+     "steps": [],
+     "items": [],
+     "left_label": "",
+     "right_label": "",
+     "rows": []
+    },
+    {
+     "purpose": "Problem setup",
+     "narration": "Standard AI Indian script par high tokens use karta hai jisse API bills badhte hain.",
+     "on_screen": "High Indian Token Costs",
+     "visual_type": "compare",
+     "url": "",
+     "query": "",
+     "headline": "",
+     "steps": [],
+     "items": [],
+     "left_label": "Standard AI",
+     "right_label": "Problem",
+     "rows": [
+      {
+       "left": "GPT Tokenizer",
+       "right": "High Token Count"
+      },
+      {
+       "left": "Indian Text",
+       "right": "Expensive API"
+      }
+     ]
+    },
+    {
+     "purpose": "Solution launch",
+     "narration": "Chariot AI ne Chariot-1 model suite launch kiya hai jisme 10 Indian languages supported hain.",
+     "on_screen": "Chariot-1 AI Suite",
+     "visual_type": "text",
+     "url": "",
+     "query": "",
+     "headline": "10 Indian Languages TTS",
+     "steps": [],
+     "items": [],
+     "left_label": "",
+     "right_label": "",
+     "rows": []
+    },
+    {
+     "purpose": "Core tech feature",
+     "narration": "Inka IndicShift feature Indian text tokens 2.5 times tak kam kar deta hai.",
+     "on_screen": "IndicShift Token Saver",
+     "visual_type": "checklist",
+     "url": "",
+     "query": "",
+     "headline": "",
+     "steps": [],
+     "items": [
+      "2.5x lower token usage",
+      "350 letter shared alphabet",
+      "5 to 8 percent performance boost"
+     ],
+     "left_label": "",
+     "right_label": "",
+     "rows": []
+    },
+    {
+     "purpose": "Accuracy benchmark",
+     "narration": "Iska Hindi character error rate 7.60% hai aur Async TTS benchmark par 97% verbalisation accuracy.",
+     "on_screen": "High Speech Accuracy",
+     "visual_type": "checklist",
+     "url": "",
+     "query": "",
+     "headline": "",
+     "steps": [],
+     "items": [
+      "7.60% Hindi character error rate",
+      "97% verbalisation accuracy",
+      "Context aware pronunciation"
+     ],
+     "left_label": "",
+     "right_label": "",
+     "rows": []
+    },
+    {
+     "purpose": "Deployment and CTA",
+     "narration": "Inke chote models smartphones par bhi chal sakte hain. Comment CHARIOT, main details DM kar dunga.",
+     "on_screen": "Comment CHARIOT",
+     "visual_type": "diagram",
+     "url": "",
+     "query": "",
+     "headline": "",
+     "steps": [
+      "Select Model Size",
+      "Deploy on Mobile",
+      "Reduce API Spend"
+     ],
+     "items": [],
+     "left_label": "",
+     "right_label": "",
+     "rows": []
+    }
+   ],
+   "composed_from": null,
+   "hook_title": "Cut AI API Bills",
+   "cta": "Comment CHARIOT for full details"
+  }
+ },
+ {
+  "id": "R2-2026-11-27",
+  "kind": "reel",
+  "date": "2026-11-27",
+  "slot": "2026-11-27T13:00",
+  "dir": "output/2026-11-27/R2-2026-11-27/try1",
+  "files": [
+   "reel.mp4"
+  ],
+  "caption": "How to connect Google Drive and Wallet to Google Search Personal Intelligence for fast document retrieval. If your invoices, PDFs, and notes are scattered, Google is rolling out Google Drive and Wallet connections in Search Personal Intelligence alongside Gmail and Calendar. Open Search Personalization, tap Connected Apps, and choose Drive or Wallet. AI Mode reads text from docs for tailored search answers, but it is read-only and cannot transfer money. You can turn connections off anytime. Which app do you waste the most time searching in?\n\n#GoogleSearch #GoogleDrive #BusinessProductivity #TechTips #OfficeTools",
+  "topic": "Searching across shop Gmail, Drive, and Calendar simultaneously using Google Search Personal Intelligence",
+  "format": "demo",
+  "hook": "Purane business docs dhoondne me time waste mat karo.",
+  "keywords": [
+   "Google Search",
+   "Google Drive",
+   "Personal Intelligence",
+   "AI Mode",
+   "Connected Apps"
+  ],
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 9,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "status": "queued",
+  "produced_at": 1795760501,
+  "log": [],
+  "dm_keyword": "DRIVE",
+  "dm_text": "Here is how to connect Google Drive and Wallet to Google Search Personal Intelligence: 1. Open Search Personalization settings. 2. Select Connected Apps. 3. Turn on Google Drive and Google Wallet. Note: This lets AI Mode read details across your files, Gmail, and Calendar to answer search queries. Wallet connection is read-only and cannot move or invest money. You can edit or turn off app connections anytime in your settings."
+ },
+ {
+  "id": "R3-2026-11-27",
+  "kind": "reel",
+  "date": "2026-11-27",
+  "slot": "2026-11-27T19:00",
+  "dir": "output/2026-11-27/R3-2026-11-27/try1",
+  "files": [
+   "reel.mp4"
+  ],
+  "caption": "How to use AI resume screening guardrails in Zapier to catch resume inconsistencies automatically. When hiring technical staff or office managers, manual resume verification consumes hours, especially with up to 80% fraudulent claims reported in certain technical roles. Rather than allowing AI to make automated hiring decisions, set up a Zapier automation that compares candidate resumes with interview notes. It flags conflicting dates, titles, or tool experience for human review. Comment HIRING for the exact Zapier screening prompt.\n\n#HiringAutomation #Zapier #BusinessAutomation #RecruitmentTips",
+  "topic": "Automating candidate resume screening and interview scheduling for small-business hiring",
+  "format": "problem_fix",
+  "hook": "Hiring mein fake resumes se pareshan ho? Is tarah auto-flag karo.",
+  "keywords": [
+   "hiring automation",
+   "resume screening",
+   "Zapier AI",
+   "candidate verification",
+   "recruitment workflow"
+  ],
+  "scores": {
+   "hook": 8,
+   "originality": 8,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "status": "queued",
+  "produced_at": 1795760501,
+  "log": [],
+  "dm_keyword": "HIRING",
+  "dm_text": "Here is the Zapier candidate screening prompt setup: 1. Connect your ATS or application form to Zapier. 2. Add a Zapier AI action with this prompt: 'Compare this candidate's resume, recruiter screen notes, and interview transcript. List any inconsistencies in dates, titles, employers, tools, or project details, and quote the lines that conflict. Don't decide whether it's fraud. Flag anything a recruiter should review.' 3. Send flagged summaries to Slack or email for recruiter review. Zapier connects with 10,000+ apps so you can run this on existing tools."
+ },
+ {
+  "id": "C1-2026-11-27",
+  "kind": "carousel",
+  "date": "2026-11-27",
+  "slot": "2026-11-27T09:00",
+  "dir": "output/2026-11-27/C1-2026-11-27/try3",
+  "files": [
+   "slide_01.jpg",
+   "slide_02.jpg",
+   "slide_03.jpg",
+   "slide_04.jpg",
+   "slide_05.jpg",
+   "slide_06.jpg"
+  ],
+  "caption": "How Indian small businesses build AI literacy across their entire workforce.\n\nData from the joint Zoho and LinkedIn report shows that Indian SMBs with in-house AI talent grew their headcount 5.2 percentage points faster in early 2026. However, while 16.3 percent of firms have AI engineering skills, only 6.1 percent have built everyday AI literacy across regular employees. You do not need custom software to scale. Start by training non-technical staff to use AI search, draft customer follow-ups, and answer standard HR queries behind secure Bring-Your-Own-Key guardrails. Set up these basic systems before your team reaches 50 people.\n\nWhich simple workflow in your office takes up the most staff time each week?\n\n#IndianSMB #ZohoCRM #BusinessAutomation #SmallBusinessIndia #WorkforceUpskilling",
+  "topic": "5 practical everyday AI skills every Indian SMB staff member should master based on Zoho-LinkedIn research",
+  "format": "checklist",
+  "hook": "Why AI literate small business teams hire 5.2% faster",
+  "keywords": [
+   "Indian SMB AI adoption",
+   "Zoho LinkedIn report 2026",
+   "everyday AI skills small business",
+   "workforce AI literacy India",
+   "small business sales automation"
+  ],
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "status": "queued",
+  "produced_at": 1795760501,
+  "log": [],
+  "dm_keyword": "",
+  "dm_text": ""
  }
 ]

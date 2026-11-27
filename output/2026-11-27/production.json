@@ -1,0 +1,344 @@
+{
+ "date": "2026-11-27",
+ "tag": "2026-11-27",
+ "pilot": false,
+ "sources": 90,
+ "ideas": 14,
+ "idea_list": [
+  {
+   "idea": "Using Indian language speech models like Chariot AI for hands-free regional voice stock taking",
+   "format": "tool_test",
+   "total": 8.83,
+   "scores": {
+    "relevance": 9,
+    "novelty": 9,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 8,
+    "evidence": 9,
+    "viral": 9
+   }
+  },
+  {
+   "idea": "Searching across shop Gmail, Drive, and Calendar simultaneously using Google Search Personal Intelligence",
+   "format": "demo",
+   "total": 8.78,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 9
+   }
+  },
+  {
+   "idea": "Using call-recording AI earbuds and charging cases to transcribe live client meetings into structured quote specs",
+   "format": "tool_test",
+   "total": 8.72,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 8,
+    "evidence": 9,
+    "viral": 9
+   }
+  },
+  {
+   "idea": "Automating candidate resume screening and interview scheduling for small-business hiring",
+   "format": "problem_fix",
+   "total": 8.67,
+   "scores": {
+    "relevance": 9,
+    "novelty": 8,
+    "hook_potential": 9,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 8,
+    "viral": 9
+   }
+  },
+  {
+   "idea": "5 practical everyday AI skills every Indian SMB staff member should master based on Zoho-LinkedIn research",
+   "format": "checklist",
+   "total": 8.63,
+   "scores": {
+    "relevance": 10,
+    "novelty": 7,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 10,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Creating reusable AI legal prompt workflows for drafting standard Indian freelancer and vendor agreements",
+   "format": "checklist",
+   "total": 8.35,
+   "scores": {
+    "relevance": 9,
+    "novelty": 7,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Building a B2B wholesale prospect list automatically with Clay and ChatGPT integrations",
+   "format": "tutorial",
+   "total": 8.29,
+   "scores": {
+    "relevance": 9,
+    "novelty": 7,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 8,
+    "evidence": 9,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Structuring customer support into tiered AI agents (routing vs resolution) using lessons from Richpanel",
+   "format": "case_study",
+   "total": 8.29,
+   "scores": {
+    "relevance": 9,
+    "novelty": 7,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 8,
+    "evidence": 9,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Managing shared ChatGPT usage caps across team accounts after OpenAI merges Chat and Work",
+   "format": "problem_fix",
+   "total": 8.21,
+   "scores": {
+    "relevance": 9,
+    "novelty": 7,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Using dedicated AI proofreading tools versus raw text generators for customer proposal drafting",
+   "format": "manual_vs_auto",
+   "total": 8.06,
+   "scores": {
+    "relevance": 8,
+    "novelty": 8,
+    "hook_potential": 8,
+    "retention": 8,
+    "save_share": 8,
+    "feasibility": 9,
+    "evidence": 8,
+    "viral": 8
+   }
+  },
+  {
+   "idea": "Replacing expensive monthly SaaS tools by self-hosting open-source AI workflows on cheap hardware",
+   "format": "manual_vs_auto",
+   "total": 7.81,
+   "scores": {
+    "relevance": 8,
+    "novelty": 8,
+    "hook_potential": 7,
+    "retention": 8,
+    "save_share": 9,
+    "feasibility": 8,
+    "evidence": 8,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "Automating damaged stock return approvals using Gemini Decisions API visual checks",
+   "format": "tutorial",
+   "total": 7.67,
+   "scores": {
+    "relevance": 8,
+    "novelty": 8,
+    "hook_potential": 7,
+    "retention": 7,
+    "save_share": 8,
+    "feasibility": 8,
+    "evidence": 9,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "Setting up a strict workflow validation rule before deploying new Zapier business automations",
+   "format": "checklist",
+   "total": 7.51,
+   "scores": {
+    "relevance": 8,
+    "novelty": 7,
+    "hook_potential": 7,
+    "retention": 7,
+    "save_share": 8,
+    "feasibility": 9,
+    "evidence": 8,
+    "viral": 7
+   }
+  },
+  {
+   "idea": "Migrating critical business workflow logic safely when an automation platform shuts down",
+   "format": "problem_fix",
+   "total": 7.42,
+   "scores": {
+    "relevance": 7,
+    "novelty": 8,
+    "hook_potential": 7,
+    "retention": 7,
+    "save_share": 8,
+    "feasibility": 9,
+    "evidence": 9,
+    "viral": 6
+   }
+  }
+ ],
+ "rejected_ideas": [],
+ "items": [
+  {
+   "id": "R1-2026-11-27",
+   "kind": "reel",
+   "format": "tool_test",
+   "topic": "Using Indian language speech models like Chariot AI for hands-free regional voice stock taking",
+   "hook": "Apni custom business app ka AI API bill 2.5x kam karo.",
+   "approved": true,
+   "attempts": 4,
+   "scores": {
+    "hook": 8,
+    "originality": 8,
+    "practical_value": 9,
+    "natural_language": 9,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 8,
+    "pacing": 8,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [],
+   "log": [
+    "attempt 1: fail {'hook': 7, 'originality': 7, 'practical_value': 5, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['hook 7/10 (<8)', 'originality 7/10 (<8)', 'practical_value 5/10 (<8)', 'reel is 53.9 s long (max 45 s; aim for 15-35 s)']",
+    "attempt 2: fail {'hook': 6, 'originality': 6, 'practical_value': 4, 'natural_language': 7, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 8, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 5} ['hook 6/10 (<8)', 'originality 6/10 (<8)', 'practical_value 4/10 (<8)', 'natural_language 7/10 (<8)']",
+    "attempt 3: fail {'hook': 6, 'originality': 7, 'practical_value': 5, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 7} ['hook 6/10 (<8)', 'originality 7/10 (<8)', 'practical_value 5/10 (<8)']",
+    "attempt 4: PASS {'hook': 8, 'originality': 8, 'practical_value': 9, 'natural_language': 9, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} []"
+   ],
+   "dir": "output/2026-11-27/R1-2026-11-27/try4",
+   "duration": 35.0,
+   "voice": "edge"
+  },
+  {
+   "id": "R2-2026-11-27",
+   "kind": "reel",
+   "format": "demo",
+   "topic": "Searching across shop Gmail, Drive, and Calendar simultaneously using Google Search Personal Intelligence",
+   "hook": "Purane business docs dhoondne me time waste mat karo.",
+   "approved": true,
+   "attempts": 1,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 8,
+    "natural_language": 9,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 9,
+    "pacing": 8,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [],
+   "log": [
+    "attempt 1: PASS {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 9, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} []"
+   ],
+   "dir": "output/2026-11-27/R2-2026-11-27/try1",
+   "duration": 32.0,
+   "voice": "edge"
+  },
+  {
+   "id": "R3-2026-11-27",
+   "kind": "reel",
+   "format": "problem_fix",
+   "topic": "Automating candidate resume screening and interview scheduling for small-business hiring",
+   "hook": "Hiring mein fake resumes se pareshan ho? Is tarah auto-flag karo.",
+   "approved": true,
+   "attempts": 1,
+   "scores": {
+    "hook": 8,
+    "originality": 8,
+    "practical_value": 8,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 9,
+    "pacing": 8,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [],
+   "log": [
+    "attempt 1: PASS {'hook': 8, 'originality': 8, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} []"
+   ],
+   "dir": "output/2026-11-27/R3-2026-11-27/try1",
+   "duration": 34.1,
+   "voice": "edge"
+  },
+  {
+   "id": "C1-2026-11-27",
+   "kind": "carousel",
+   "format": "checklist",
+   "topic": "5 practical everyday AI skills every Indian SMB staff member should master based on Zoho-LinkedIn research",
+   "hook": "Why AI literate small business teams hire 5.2% faster",
+   "approved": true,
+   "attempts": 3,
+   "scores": {
+    "hook": 8,
+    "originality": 7,
+    "practical_value": 8,
+    "natural_language": 8,
+    "accuracy": 9,
+    "narrative": 8,
+    "visual_integrity": 9,
+    "pacing": 9,
+    "brand_consistency": 9,
+    "publish_readiness": 8
+   },
+   "reasons": [],
+   "log": [
+    "attempt 1: fail {'hook': 7, 'originality': 7, 'practical_value': 6, 'natural_language': 7, 'accuracy': 9, 'narrative': 6, 'visual_integrity': 7, 'pacing': 6, 'brand_consistency': 8, 'publish_readiness': 6} ['hook 7/10 (<8)', 'originality 7/10 (<8)', 'practical_value 6/10 (<8)', 'natural_language 7/10 (<8)']",
+    "attempt 2: fail {'hook': 7, 'originality': 7, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['hook 7/10 (<8)', 'originality 7/10 (<8)', 'practical_value 7/10 (<8)', 'narrative 7/10 (<8)']",
+    "attempt 3: PASS {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 9, 'brand_consistency': 9, 'publish_readiness': 8} []"
+   ],
+   "dir": "output/2026-11-27/C1-2026-11-27/try3",
+   "duration": null,
+   "voice": null
+  }
+ ],
+ "llm_calls": {
+  "text": 19,
+  "tts": 23,
+  "failed": 0
+ }
+}
