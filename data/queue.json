@@ -5949,7 +5949,7 @@
    "brand_consistency": 9,
    "publish_readiness": 8
   },
-  "status": "queued",
+  "status": "expired",
   "produced_at": 1795760501,
   "log": [],
   "dm_keyword": "CHARIOT",
@@ -6189,7 +6189,7 @@
    "brand_consistency": 9,
    "publish_readiness": 8
   },
-  "status": "queued",
+  "status": "expired",
   "produced_at": 1795760501,
   "log": [],
   "dm_keyword": "HIRING",
@@ -6477,11 +6477,16 @@
    "brand_consistency": 9,
    "publish_readiness": 8
   },
-  "status": "queued",
+  "status": "published",
   "produced_at": 1795845517,
-  "log": [],
+  "log": [
+   "2026-11-28T15:05:04.147542+05:30 published https://www.instagram.com/reel/DgR8lWOs31O/"
+  ],
   "dm_keyword": "ZAPIER",
-  "dm_text": "Zapier AI Model Selection Guide: 1. Standard Tier (1 task): Use for basic classification and simple data formatting. 2. Gemini Models: Best for heavy content processing at lower per-task cost. 3. GLM 5.2: Priced at $0.22 per task for lower-stakes automation. 4. BYOK (Bring Your Own Key): 4 tool calls cost 5 tasks instead of 25 tasks on Premium. Full guide: https://zapier.com/blog/ai-models-on-zapier"
+  "dm_text": "Zapier AI Model Selection Guide: 1. Standard Tier (1 task): Use for basic classification and simple data formatting. 2. Gemini Models: Best for heavy content processing at lower per-task cost. 3. GLM 5.2: Priced at $0.22 per task for lower-stakes automation. 4. BYOK (Bring Your Own Key): 4 tool calls cost 5 tasks instead of 25 tasks on Premium. Full guide: https://zapier.com/blog/ai-models-on-zapier",
+  "media_id": "18120249485584291",
+  "permalink": "https://www.instagram.com/reel/DgR8lWOs31O/",
+  "published_at": "2026-11-28T15:05:04.147542+05:30"
  },
  {
   "id": "C1-2026-11-28",
@@ -6520,10 +6525,15 @@
    "brand_consistency": 9,
    "publish_readiness": 8
   },
-  "status": "queued",
+  "status": "published",
   "produced_at": 1795845517,
-  "log": [],
+  "log": [
+   "2026-11-28T15:05:04.147542+05:30 published https://www.instagram.com/p/DgR8jMdkUVl/"
+  ],
   "dm_keyword": "",
-  "dm_text": ""
+  "dm_text": "",
+  "media_id": "18658308301019240",
+  "permalink": "https://www.instagram.com/p/DgR8jMdkUVl/",
+  "published_at": "2026-11-28T15:05:04.147542+05:30"
  }
 ]
