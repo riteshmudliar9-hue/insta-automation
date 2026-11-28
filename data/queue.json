@@ -6242,5 +6242,288 @@
   "media_id": "18113857895199393",
   "permalink": "https://www.instagram.com/p/DgPchovGwCu/",
   "published_at": "2026-11-27T15:46:44.469940+05:30"
+ },
+ {
+  "id": "R3-2026-11-28",
+  "kind": "reel",
+  "date": "2026-11-28",
+  "slot": "2026-11-28T21:00",
+  "dir": "output/2026-11-28/R3-2026-11-28/try4",
+  "files": [
+   "reel.mp4"
+  ],
+  "caption": "Is your business client data safe when stored on consumer AI chatbot accounts? Many small business owners use free consumer AI chatbots to draft client quotations, organize supplier notes, and log operations. However, when Character.AI filed for Chapter 11 bankruptcy, its liquidation plan included auctioning off chat records from over 21 million accounts to the highest bidder. Bankruptcy asset sales can void prior privacy promises, leaving chat histories accessible to unvetted buyers without user opt-out options. To keep business data safe, switch to enterprise API accounts that guarantee data retention contracts.\n\nComment DATA for our data safety checklist.\n\n#AIDataPrivacy #SmallBusinessSecurity #BusinessAutomation #DataProtection",
+  "topic": "Why storing client data on consumer AI platforms creates severe data loss and sale risks in bankruptcy",
+  "format": "myth_fact",
+  "hook": "Kya aapka client data AI bankruptcy mein neelam ho sakta hai?",
+  "keywords": [
+   "AI data privacy",
+   "Character AI bankruptcy",
+   "consumer AI risk",
+   "business data security",
+   "enterprise AI API"
+  ],
+  "scores": {
+   "hook": 8,
+   "originality": 8,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "status": "queued",
+  "produced_at": 1795845517,
+  "log": [],
+  "dm_keyword": "DATA",
+  "dm_text": "Here is your AI Data Protection Checklist for business owners: 1. Never paste proprietary client notes, GST numbers, or supplier pricing into consumer AI chat accounts. 2. When an AI startup enters Chapter 11 bankruptcy, user chat logs can be auctioned off to third-party buyers without user consent. 3. Buyers in bankruptcy sales are not legally required to honor the original privacy policies. 4. Use enterprise API tiers with explicit Zero-Data Retention (ZDR) agreements or self-hosted local models to keep your business data private.",
+  "presenter": {
+   "status": "waiting",
+   "takes": [
+    {
+     "n": 1,
+     "kind": "talk",
+     "talk": 1,
+     "line": "Kya aapka client data kisi AI startup ke bankruptcy mein open market mein neelam ho sakta hai?",
+     "visual_scene": -1,
+     "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: medium close-up with a slow, smooth push-in towards his face. Leans in slightly towards the camera with a serious inquiring expression. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Kya aapka client data kisi AI startup ke bankruptcy mein open market mein neelam ho sakta hai?\" No subtitles, no on-screen text, no music, no other people.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    },
+    {
+     "n": 2,
+     "kind": "talk",
+     "talk": 2,
+     "line": "Character AI bankruptcy mein 21 million user chats auction ho rahe hain, buyer privacy policy nahi maanta.",
+     "visual_scene": -1,
+     "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: medium shot from slightly to his left (about 20 degrees), camera steady. Raises one finger to emphasize the critical point about privacy terms. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Character AI bankruptcy mein 21 million user chats auction ho rahe hain, buyer privacy policy nahi maanta.\" No subtitles, no on-screen text, no music, no other people.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    },
+    {
+     "n": 3,
+     "kind": "broll",
+     "cover": 2,
+     "desc": "close-up of hands typing customer details on a laptop keyboard next to paper bills on a shop counter",
+     "prompt": "Create a realistic vertical 9:16 video of about 8 seconds: close-up of hands typing customer details on a laptop keyboard next to paper bills on a shop counter. Indian small-business setting, warm natural light, handheld smartphone-camera look, slow subtle camera movement, shallow depth of field. No faces, no readable text, no brand names or logos, no subtitles, no speech, no music.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    },
+    {
+     "n": 4,
+     "kind": "talk",
+     "talk": 3,
+     "line": "Business safety ke liye enterprise APIs use karo. Comment DATA, main aapko privacy checklist DM kar dunga.",
+     "visual_scene": -1,
+     "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: close-up, camera steady at eye level. Smiles and points directly towards the viewer at the camera. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Business safety ke liye enterprise APIs use karo. Comment DATA, main aapko privacy checklist DM kar dunga.\" No subtitles, no on-screen text, no music, no other people.",
+     "msg_id": null,
+     "file": null,
+     "got_msg": null
+    }
+   ],
+   "material": "[7] TechCrunch AI — Character.AI’s plan to auction off users’ private chats challenged by state AGs\nURL: https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/\nImage Credits: Character.ai Privacy Character.AI’s plan to auction off users’ private chats challenged by state AGs Sarah Perez 9:35 AM PST · November 25, 2026 What happens to your private conversations when an AI company goes bankrupt ? If it’s Character.ai, apparently, the plan is to auction them off to the highest bidder.\nNow, a coalition of 42 state attorneys general is intervening in Character.ai’s bankruptcy proceedings in an effort to stop the chatbot maker from selling off sensitive user data, which includes the private conversations of millions of users.\nThe attorneys general involved in the matter have put out individual press releases , claiming that Character.ai’s dataset includes chat histories from more than 21 million U.S. accounts, more than 2.1 million of which belong to minors. In addition, the sale would involve other personal data, like IP addresses, the statements said.\nCharacter.ai, which filed for Chapter 11 bankruptcy in October, previously told consumers that their personal information would not be sold, the statements also noted. ( In a blog post , Character.ai assured its users that their information would still be protected under its privacy policy.)\nOnly one anonymous bidder for the chat data has been disclosed so far: Smirks and Pangs Acquisition LLC (Smirks), which was set up as a Delaware company on November 13, 2026. The following day, Character.ai picked it as the base bid for the auction, scheduled for December 1, California Attorney General Rob Bonta noted . It is unclear what the buyer’s plans are for the chats.\nThe AGs are opposing this sale on the grounds that there are no protections for users — whoever buys the data can do as they like, including reselling the data without disclosure, they said. Buyers also won’t have to honor Character.ai’s privacy policy. Plus, Character.ai hasn’t provided the court with as much information as the bidders have been given about any potential safety or legal issues following the sale, the AGs claim.\nIn addition, some states, including California, Colorado, New York, and Connecticut, have enacted chatbot safety legislation that will go into effect on January 1, 2027, which could trigger further violations if the sale goes through.\n“Character.AI promised consumers that their data would not be sold. This kind of behavior is illegal under federal and California law and bankruptcy should not be used to sidestep these consumer protections,” Bonta said in a statement.\nConnecticut Attorney General William Tong also criticized Character.ai’s business model.\n“Their chatbots drove vulnerable youth down a rabbit hole of emotionally volatile and sexually inappropriate chats,” Tong said . “Their reckless misconduct and broken business model drove their company into the ground. Now they want to abuse the bankruptcy process to do exactly what they said they wouldn’t do — auction off those private chat records and personal details to a shady buyer.”\nTong added: “We objected to the Disney sale, and we’re calling on the bankruptcy court to reject this sale too as yet another guise to eviscerate legal liability and consumer protection.”\nThe opposition to the Disney sale was led by a similar but not identical coalition of state AGs. They fought against a proposed $20 million licensing deal that would give Disney access to Character.ai’s intellectual property, but not to users’ chats. The deal has not yet received final court approval. (Disney also agreed to hire most of Character.ai’s remaining staff .)\nCharacter.ai suffered after its co-founders, Noam Shazeer and Daniel De Freitas, returned to Google , when the tech giant signed a non-exclusive license to use the AI startup’s tech. The company also faced lawsuits related to child safety — one involved the suicide of a 14-year-old Florida boy whose mother claimed he had become obsessed with a chatbot on the platform.\nCalifornia AG Bonta is joined in the effort to oppose the sale of Character.ai user data by attorneys general from Alaska, Arkansas, Colorado, Connecticut, the District of Columbia, Delaware, Florida, Georgia, Hawaii, Idaho, Illinois, Indiana, Kansas, Kentucky, Louisiana, Maine, Maryland, Michigan, Minnesota, Mississippi, Missouri, Nevada, New Hampshire, New Jersey, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Utah, Virginia, Vermont, Washington, Wisconsin, and West Virginia.\nWhen you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence.\n2027 San Francisco Get an Early Peek at the Next TechCrunch Disrupt Disrupt, Startup Battlefield, and more will return next year, and you can be at the front of the line. Sign up for our waitlist\nA month with the iPhone Duo has changed how I use my phone\nJensen Huang broke Nvidia’s code of conduct, and his employees may not forget it\nThe canceled Tesla Cybertruck is the fastest-selling used truck in America\n1Password said hackers broke into its internal systems, but customer passwords are safe\nFigma employee sues, alleging company forced her to confront harassers\nAnthropic launches Claude Ship, letting AI agents review, fix, and approve code changes\n\n[11] The Verge AI — 42 state AGs are trying to stop Character.AI from selling users’ chats\nURL: https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats\n42 state AGs are trying to stop Character.AI from selling users’ chats | The Verge Skip to main content The homepage The Verge The Verge logo. The homepage The Verge The Verge logo. Notifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo. Login / Sign Up\nComments Loading comments Getting the conversation ready... Policy\nA bipartisan coalition of AGs say Character.AI is planning to sell the personal data of minors to the highest bidder.\nA bipartisan coalition of AGs say Character.AI is planning to sell the personal data of minors to the highest bidder.\nTerrence O'Brien Nov 26, 2026, 9:54 AM UTC Link\nTerrence O'Brien is the Verge’s weekend editor. He’s covered the tech industry for over 18 years and knows a thing or two about synths. A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off “the private chat histories of more than 21 million U.S. accounts — more than 2.1 million of them registered to minors — with no safeguards for the people whose conversations are being sold.”\nIn October, Character.AI filed for bankruptcy following years of scandals and legal challenges , including from Disney . Disney ended up buying some of the company’s assets and hiring its CEO , Karandeep Anand, in a sort of “acquihire” arrangement that will also see “a number of Character.AI’s technical team” join the entertainment giant. The Disney deal also faced opposition from a similarly broad coalition of AGs.\nThe main point of contention with Character.AI’s plan to sell its chat data is that it offers no protections for users. The AGs say there are no requirements that the buyer honor existing privacy policies, no avenues for users to delete their data, and no inherent limits on what a buyer could do with that data, including selling it on to yet another party. It doesn’t help that the first bidder has a limited paper trail, having only been established on November 13th, 2026, with no parent company or investors listed.\nSome states, including New York, Connecticut, California, and Colorado, have also passed laws regulating chatbots that Character.AI may be in violation of when they go ",
+   "scenes": [
+    {
+     "purpose": "Hook and problem statement",
+     "narration": "Kya aapka client data AI bankruptcy mein neelam ho sakta hai?",
+     "on_screen": "AI Data Auction Risk",
+     "visual_type": "checklist",
+     "url": "",
+     "query": "",
+     "headline": "",
+     "steps": [],
+     "items": [
+      "Free chat logs stored",
+      "Startup bankruptcy risk",
+      "User chats auctioned off"
+     ],
+     "left_label": "",
+     "right_label": "",
+     "rows": []
+    },
+    {
+     "purpose": "Proof from real bankruptcy case",
+     "narration": "Character AI bankruptcy mein 21 million accounts ke chats neelam ho rahe hain.",
+     "on_screen": "21 Million Accounts At Risk",
+     "visual_type": "checklist",
+     "url": "",
+     "query": "",
+     "headline": "",
+     "steps": [],
+     "items": [
+      "Chapter 11 bankruptcy filed",
+      "21M user accounts involved",
+      "Unvetted buyer base bid",
+      "No user opt-out allowed"
+     ],
+     "left_label": "",
+     "right_label": "",
+     "rows": []
+    },
+    {
+     "purpose": "Explain how consumer terms fail vs promised privacy",
+     "narration": "Privacy promise hone ke bawajood, bankruptcy court mein buyer par privacy policy laagu nahi hoti.",
+     "on_screen": "Privacy Policies Nullified",
+     "visual_type": "compare",
+     "url": "",
+     "query": "",
+     "headline": "",
+     "steps": [],
+     "items": [],
+     "left_label": "Company Promise",
+     "right_label": "Bankruptcy Reality",
+     "rows": [
+      {
+       "left": "Data never sold",
+       "right": "Auctioned to highest bidder"
+      },
+      {
+       "left": "Privacy policy applies",
+       "right": "Buyer ignores old policy"
+      },
+      {
+       "left": "User chat private",
+       "right": "No opt-out available"
+      }
+     ]
+    },
+    {
+     "purpose": "Legal opposition details from court filing",
+     "narration": "42 state AGs ne is sale ke khilaf court mein objection file kiya hai.",
+     "on_screen": "42 AGs Object To Sale",
+     "visual_type": "checklist",
+     "url": "",
+     "query": "",
+     "headline": "",
+     "steps": [],
+     "items": [
+      "No user opt-out safeguards",
+      "Buyers can resell data",
+      "Unvetted Delaware bidder",
+      "Violates consumer protection"
+     ],
+     "left_label": "",
+     "right_label": "",
+     "rows": []
+    },
+    {
+     "purpose": "Actionable enterprise recommendation and DM hook",
+     "narration": "Business data ke liye enterprise APIs use karo. Comment DATA checklist ke liye.",
+     "on_screen": "Comment DATA For Guide",
+     "visual_type": "compare",
+     "url": "",
+     "query": "",
+     "headline": "",
+     "steps": [],
+     "items": [],
+     "left_label": "Platform Tier",
+     "right_label": "Data Security Level",
+     "rows": [
+      {
+       "left": "Consumer Free Chatbots",
+       "right": "High Bankruptcy Risk"
+      },
+      {
+       "left": "Enterprise API Tier",
+       "right": "Zero Data Retention Option"
+      },
+      {
+       "left": "Local On-Premises Model",
+       "right": "100% Data Control"
+      }
+     ]
+    }
+   ],
+   "composed_from": null,
+   "hook_title": "Is Your AI Data Safe?",
+   "cta": "Comment DATA for privacy checklist"
+  }
+ },
+ {
+  "id": "R2-2026-11-28",
+  "kind": "reel",
+  "date": "2026-11-28",
+  "slot": "2026-11-28T13:00",
+  "dir": "output/2026-11-28/R2-2026-11-28/try4",
+  "files": [
+   "reel.mp4"
+  ],
+  "caption": "How to optimize AI model selection in Zapier to reduce automation task costs. Many business owners leave default Premium AI models running for simple data formatting steps, burning through Zapier task limits fast. AI by Zapier splits models into Standard (1 task), Advanced (3 tasks), and Premium (5 tasks). For bulk content, Gemini offers top performance at lower per-task costs, while GLM 5.2 costs just $0.22 per task for simple workflows. For tool-heavy steps, bringing your own API key (BYOK) cuts a 4-tool-call task from 25 tasks down to 5. Which AI model are you currently running in your Zapier zaps? Comment ZAPIER for the breakdown list.\n\n#Zapier #Automation #BusinessAI #AIWorkflow",
+  "topic": "Choosing the right AI model on Zapier: OpenAI vs Anthropic vs Gemini for specific business tasks",
+  "format": "manual_vs_auto",
+  "hook": "Simple text data ke liye Premium AI models pe Zapier tasks waste mat karo.",
+  "keywords": [
+   "Zapier AI models",
+   "Zapier task costs",
+   "BYOK Zapier",
+   "Gemini Zapier",
+   "AI automation cost"
+  ],
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 8,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "status": "queued",
+  "produced_at": 1795845517,
+  "log": [],
+  "dm_keyword": "ZAPIER",
+  "dm_text": "Zapier AI Model Selection Guide: 1. Standard Tier (1 task): Use for basic classification and simple data formatting. 2. Gemini Models: Best for heavy content processing at lower per-task cost. 3. GLM 5.2: Priced at $0.22 per task for lower-stakes automation. 4. BYOK (Bring Your Own Key): 4 tool calls cost 5 tasks instead of 25 tasks on Premium. Full guide: https://zapier.com/blog/ai-models-on-zapier"
+ },
+ {
+  "id": "C1-2026-11-28",
+  "kind": "carousel",
+  "date": "2026-11-28",
+  "slot": "2026-11-28T09:00",
+  "dir": "output/2026-11-28/C1-2026-11-28/try1",
+  "files": [
+   "slide_01.jpg",
+   "slide_02.jpg",
+   "slide_03.jpg",
+   "slide_04.jpg",
+   "slide_05.jpg",
+   "slide_06.jpg"
+  ],
+  "caption": "CERT-In WhatsApp advisory: key security steps for Indian merchant accounts. India's cybersecurity agency CERT-In has issued a high severity warning regarding five security vulnerabilities in WhatsApp and WhatsApp Business across Android, iOS, Windows, and Mac. These flaws include attachment spoofing, SQL injection, and incomplete validation of external URLs in ad-reply messages. Say you run a hardware store taking daily WhatsApp orders; opening a malicious order details link sent from an unofficial client could trigger local file deletion. Update all mobile and desktop WhatsApp apps to Meta's latest version right away. Have you updated your WhatsApp Business app on staff phones this week?\n\n#WhatsAppBusiness #CyberSecurityIndia #CERTIn #SmallBusinessTech #DataSecurity",
+  "topic": "4 essential WhatsApp Business security steps to safeguard merchant accounts against data exposure vulnerabilities",
+  "format": "checklist",
+  "hook": "CERT-In WhatsApp warning: 4 security checks for merchant accounts",
+  "keywords": [
+   "WhatsApp security",
+   "CERT-In advisory",
+   "WhatsApp Business vulnerability",
+   "SQL injection WhatsApp",
+   "merchant data security"
+  ],
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 9,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 9,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "status": "queued",
+  "produced_at": 1795845517,
+  "log": [],
+  "dm_keyword": "",
+  "dm_text": ""
  }
 ]

@@ -1120,5 +1120,53 @@
   "status": "published",
   "media_id": "18113857895199393",
   "permalink": "https://www.instagram.com/p/DgPchovGwCu/"
+ },
+ {
+  "id": "R3-2026-11-28",
+  "date": "2026-11-28",
+  "kind": "reel",
+  "format": "myth_fact",
+  "topic": "Why storing client data on consumer AI platforms creates severe data loss and sale risks in bankruptcy",
+  "hook": "Kya aapka client data AI bankruptcy mein neelam ho sakta hai?",
+  "keywords": [
+   "AI data privacy",
+   "Character AI bankruptcy",
+   "consumer AI risk",
+   "business data security",
+   "enterprise AI API"
+  ],
+  "status": "queued"
+ },
+ {
+  "id": "R2-2026-11-28",
+  "date": "2026-11-28",
+  "kind": "reel",
+  "format": "manual_vs_auto",
+  "topic": "Choosing the right AI model on Zapier: OpenAI vs Anthropic vs Gemini for specific business tasks",
+  "hook": "Simple text data ke liye Premium AI models pe Zapier tasks waste mat karo.",
+  "keywords": [
+   "Zapier AI models",
+   "Zapier task costs",
+   "BYOK Zapier",
+   "Gemini Zapier",
+   "AI automation cost"
+  ],
+  "status": "queued"
+ },
+ {
+  "id": "C1-2026-11-28",
+  "date": "2026-11-28",
+  "kind": "carousel",
+  "format": "checklist",
+  "topic": "4 essential WhatsApp Business security steps to safeguard merchant accounts against data exposure vulnerabilities",
+  "hook": "CERT-In WhatsApp warning: 4 security checks for merchant accounts",
+  "keywords": [
+   "WhatsApp security",
+   "CERT-In advisory",
+   "WhatsApp Business vulnerability",
+   "SQL injection WhatsApp",
+   "merchant data security"
+  ],
+  "status": "queued"
  }
 ]

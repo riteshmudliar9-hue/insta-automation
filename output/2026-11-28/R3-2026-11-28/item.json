@@ -1,0 +1,276 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Why storing client data on consumer AI platforms creates severe data loss and sale risks in bankruptcy",
+  "angle": "Consumer AI platforms can sell user chat histories during bankruptcy sales; business data must stay in enterprise systems.",
+  "audience_problem": "Small businesses store client conversation histories and proprietary operational notes in consumer AI chatbots without realizing chat logs can be auctioned off.",
+  "format": "myth_fact",
+  "medium": "reel",
+  "source_ids": [
+   7,
+   11
+  ],
+  "evergreen": true,
+  "keywords": [
+   "data privacy",
+   "chatgpt data",
+   "consumer ai risk",
+   "business data protection"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 8,
+   "hook_potential": 8,
+   "retention": 8,
+   "save_share": 8,
+   "feasibility": 9,
+   "evidence": 10,
+   "viral": 8
+  },
+  "total": 8.43
+ },
+ "piece": {
+  "hooks": [
+   "Free AI chatbots mein business client data daalna band karo.",
+   "Consumer AI tools pe client chat store karna risky spot hai.",
+   "Kya aapka client data AI bankruptcy mein neelam ho sakta hai?",
+   "Free AI tools bankruptcy mein aapka operational data bech sakte hain.",
+   "ChatGPT ya free bots pe confidential chat rakhna band karo."
+  ],
+  "chosen_hook": 2,
+  "hook_reason": "Hook 3 directly exposes a surprising business risk (bankruptcy asset sales) that stops the scroll while making a clear factual claim backed by the source.",
+  "title": "Why Storing Business Data on Consumer AI Chatbots is Risky",
+  "scenes": [
+   {
+    "purpose": "Hook and problem statement",
+    "narration": "Kya aapka client data AI bankruptcy mein neelam ho sakta hai?",
+    "on_screen": "AI Data Auction Risk",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Free chat logs stored",
+     "Startup bankruptcy risk",
+     "User chats auctioned off"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Proof from real bankruptcy case",
+    "narration": "Character AI bankruptcy mein 21 million accounts ke chats neelam ho rahe hain.",
+    "on_screen": "21 Million Accounts At Risk",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Chapter 11 bankruptcy filed",
+     "21M user accounts involved",
+     "Unvetted buyer base bid",
+     "No user opt-out allowed"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Explain how consumer terms fail vs promised privacy",
+    "narration": "Privacy promise hone ke bawajood, bankruptcy court mein buyer par privacy policy laagu nahi hoti.",
+    "on_screen": "Privacy Policies Nullified",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "Company Promise",
+    "right_label": "Bankruptcy Reality",
+    "rows": [
+     {
+      "left": "Data never sold",
+      "right": "Auctioned to highest bidder"
+     },
+     {
+      "left": "Privacy policy applies",
+      "right": "Buyer ignores old policy"
+     },
+     {
+      "left": "User chat private",
+      "right": "No opt-out available"
+     }
+    ]
+   },
+   {
+    "purpose": "Legal opposition details from court filing",
+    "narration": "42 state AGs ne is sale ke khilaf court mein objection file kiya hai.",
+    "on_screen": "42 AGs Object To Sale",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "No user opt-out safeguards",
+     "Buyers can resell data",
+     "Unvetted Delaware bidder",
+     "Violates consumer protection"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Actionable enterprise recommendation and DM hook",
+    "narration": "Business data ke liye enterprise APIs use karo. Comment DATA checklist ke liye.",
+    "on_screen": "Comment DATA For Guide",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "Platform Tier",
+    "right_label": "Data Security Level",
+    "rows": [
+     {
+      "left": "Consumer Free Chatbots",
+      "right": "High Bankruptcy Risk"
+     },
+     {
+      "left": "Enterprise API Tier",
+      "right": "Zero Data Retention Option"
+     },
+     {
+      "left": "Local On-Premises Model",
+      "right": "100% Data Control"
+     }
+    ]
+   }
+  ],
+  "caption": "Is your business client data safe when stored on consumer AI chatbot accounts? Many small business owners use free consumer AI chatbots to draft client quotations, organize supplier notes, and log operations. However, when Character.AI filed for Chapter 11 bankruptcy, its liquidation plan included auctioning off chat records from over 21 million accounts to the highest bidder. Bankruptcy asset sales can void prior privacy promises, leaving chat histories accessible to unvetted buyers without user opt-out options. To keep business data safe, switch to enterprise API accounts that guarantee data retention contracts.\n\nComment DATA for our data safety checklist.",
+  "hashtags": [
+   "#AIDataPrivacy",
+   "#SmallBusinessSecurity",
+   "#BusinessAutomation",
+   "#DataProtection"
+  ],
+  "keywords": [
+   "AI data privacy",
+   "Character AI bankruptcy",
+   "consumer AI risk",
+   "business data security",
+   "enterprise AI API"
+  ],
+  "claims": [
+   {
+    "claim": "Character.AI filed for Chapter 11 bankruptcy in October 2026.",
+    "source_id": 7
+   },
+   {
+    "claim": "Character.AI planned to auction off chat histories from more than 21 million user accounts in bankruptcy proceedings.",
+    "source_id": 7
+   },
+   {
+    "claim": "A coalition of 42 state attorneys general filed to block Character.AI from selling user chat data.",
+    "source_id": 7
+   },
+   {
+    "claim": "Buyers of bankruptcy data assets are not required to honor Character.AI's original privacy policy.",
+    "source_id": 7
+   },
+   {
+    "claim": "Character.AI previously promised users that their personal information would not be sold.",
+    "source_id": 7
+   }
+  ],
+  "dm_keyword": "DATA",
+  "dm_text": "Here is your AI Data Protection Checklist for business owners: 1. Never paste proprietary client notes, GST numbers, or supplier pricing into consumer AI chat accounts. 2. When an AI startup enters Chapter 11 bankruptcy, user chat logs can be auctioned off to third-party buyers without user consent. 3. Buyers in bankruptcy sales are not legally required to honor the original privacy policies. 4. Use enterprise API tiers with explicit Zero-Data Retention (ZDR) agreements or self-hosted local models to keep your business data private."
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 8,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "Character.AI filed for Chapter 11 bankruptcy in October 2026.",
+    "supported": true,
+    "note": "Confirmed by source text [7]."
+   },
+   {
+    "claim": "Character.AI planned to auction off chat histories from more than 21 million user accounts in bankruptcy proceedings.",
+    "supported": true,
+    "note": "Confirmed by source text [7] and [11]."
+   },
+   {
+    "claim": "A coalition of 42 state attorneys general filed to block Character.AI from selling user chat data.",
+    "supported": true,
+    "note": "Confirmed by source text [7] and [11]."
+   },
+   {
+    "claim": "Buyers of bankruptcy data assets are not required to honor Character.AI's original privacy policy.",
+    "supported": true,
+    "note": "Confirmed by source text [7]."
+   },
+   {
+    "claim": "Character.AI previously promised users that their personal information would not be sold.",
+    "supported": true,
+    "note": "Confirmed by source text [7]."
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [],
+  "issues": [
+   "The reel explains the bankruptcy risk clearly, but adding concrete steps on how SMB owners can check if their current AI chatbot settings store data (e.g., toggling off chat history in ChatGPT) in the caption would boost immediate practical utility."
+  ],
+  "fix_instructions": "This draft is publishable as-is. For maximum impact, consider adding 1-2 quick sentences in the caption detailing how users can immediately turn off training/history in standard consumer chatbot settings alongside recommending Enterprise API tiers."
+ },
+ "rules": [],
+ "reasons": [],
+ "meta": {
+  "duration": 33.1,
+  "voice": "edge",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-28/R3-2026-11-28/try4/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-28/R3-2026-11-28/try4/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-28/R3-2026-11-28/try4/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-28/R3-2026-11-28/try4/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-28/R3-2026-11-28/try4/scene_05.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   5.27,
+   6.42,
+   7.67,
+   6.23,
+   7.48
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-28/R3-2026-11-28/try4",
+ "attempt": 4,
+ "approved": true,
+ "hook": "Kya aapka client data AI bankruptcy mein neelam ho sakta hai?",
+ "log": [
+  "attempt 1: rules failed: ['total narration 97 words (want 40-85, i.e. 15-35 s)', 'scene 3 narration 19 words (want 4-14)']",
+  "attempt 2: fail {'hook': 7, 'originality': 8, 'practical_value': 5, 'natural_language': 7, 'accuracy': 5, 'narrative': 7, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 5} ['hook 7/10 (<8)', 'practical_value 5/10 (<8)', 'natural_language 7/10 (<8)', 'accuracy 5/10 (<8)']",
+  "attempt 3: fail {'hook': 8, 'originality': 8, 'practical_value': 7, 'natural_language': 9, 'accuracy': 10, 'narrative': 8, 'visual_integrity': 6, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 6} ['scene 5 narration 24 words (want 4-14)', 'practical_value 7/10 (<8)', 'visual_integrity 6/10 (<8)', 'publish_readiness 6/10 (<7)']",
+  "attempt 4: PASS {'hook': 8, 'originality': 8, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} []"
+ ],
+ "material": "[7] TechCrunch AI — Character.AI’s plan to auction off users’ private chats challenged by state AGs\nURL: https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/\nImage Credits: Character.ai Privacy Character.AI’s plan to auction off users’ private chats challenged by state AGs Sarah Perez 9:35 AM PST · November 25, 2026 What happens to your private conversations when an AI company goes bankrupt ? If it’s Character.ai, apparently, the plan is to auction them off to the highest bidder.\nNow, a coalition of 42 state attorneys general is intervening in Character.ai’s bankruptcy proceedings in an effort to stop the chatbot maker from selling off sensitive user data, which includes the private conversations of millions of users.\nThe attorneys general involved in the matter have put out individual press releases , claiming that Character.ai’s dataset includes chat histories from more than 21 million U.S. accounts, more than 2.1 million of which belong to minors. In addition, the sale would involve other personal data, like IP addresses, the statements said.\nCharacter.ai, which filed for Chapter 11 bankruptcy in October, previously told consumers that their personal information would not be sold, the statements also noted. ( In a blog post , Character.ai assured its users that their information would still be protected under its privacy policy.)\nOnly one anonymous bidder for the chat data has been disclosed so far: Smirks and Pangs Acquisition LLC (Smirks), which was set up as a Delaware company on November 13, 2026. The following day, Character.ai picked it as the base bid for the auction, scheduled for December 1, California Attorney General Rob Bonta noted . It is unclear what the buyer’s plans are for the chats.\nThe AGs are opposing this sale on the grounds that there are no protections for users — whoever buys the data can do as they like, including reselling the data without disclosure, they said. Buyers also won’t have to honor Character.ai’s privacy policy. Plus, Character.ai hasn’t provided the court with as much information as the bidders have been given about any potential safety or legal issues following the sale, the AGs claim.\nIn addition, some states, including California, Colorado, New York, and Connecticut, have enacted chatbot safety legislation that will go into effect on January 1, 2027, which could trigger further violations if the sale goes through.\n“Character.AI promised consumers that their data would not be sold. This kind of behavior is illegal under federal and California law and bankruptcy should not be used to sidestep these consumer protections,” Bonta said in a statement.\nConnecticut Attorney General William Tong also criticized Character.ai’s business model.\n“Their chatbots drove vulnerable youth down a rabbit hole of emotionally volatile and sexually inappropriate chats,” Tong said . “Their reckless misconduct and broken business model drove their company into the ground. Now they want to abuse the bankruptcy process to do exactly what they said they wouldn’t do — auction off those private chat records and personal details to a shady buyer.”\nTong added: “We objected to the Disney sale, and we’re calling on the bankruptcy court to reject this sale too as yet another guise to eviscerate legal liability and consumer protection.”\nThe opposition to the Disney sale was led by a similar but not identical coalition of state AGs. They fought against a proposed $20 million licensing deal that would give Disney access to Character.ai’s intellectual property, but not to users’ chats. The deal has not yet received final court approval. (Disney also agreed to hire most of Character.ai’s remaining staff .)\nCharacter.ai suffered after its co-founders, Noam Shazeer and Daniel De Freitas, returned to Google , when the tech giant signed a non-exclusive license to use the AI startup’s tech. The company also faced lawsuits related to child safety — one involved the suicide of a 14-year-old Florida boy whose mother claimed he had become obsessed with a chatbot on the platform.\nCalifornia AG Bonta is joined in the effort to oppose the sale of Character.ai user data by attorneys general from Alaska, Arkansas, Colorado, Connecticut, the District of Columbia, Delaware, Florida, Georgia, Hawaii, Idaho, Illinois, Indiana, Kansas, Kentucky, Louisiana, Maine, Maryland, Michigan, Minnesota, Mississippi, Missouri, Nevada, New Hampshire, New Jersey, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Utah, Virginia, Vermont, Washington, Wisconsin, and West Virginia.\nWhen you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence.\n2027 San Francisco Get an Early Peek at the Next TechCrunch Disrupt Disrupt, Startup Battlefield, and more will return next year, and you can be at the front of the line. Sign up for our waitlist\nA month with the iPhone Duo has changed how I use my phone\nJensen Huang broke Nvidia’s code of conduct, and his employees may not forget it\nThe canceled Tesla Cybertruck is the fastest-selling used truck in America\n1Password said hackers broke into its internal systems, but customer passwords are safe\nFigma employee sues, alleging company forced her to confront harassers\nAnthropic launches Claude Ship, letting AI agents review, fix, and approve code changes\n\n[11] The Verge AI — 42 state AGs are trying to stop Character.AI from selling users’ chats\nURL: https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats\n42 state AGs are trying to stop Character.AI from selling users’ chats | The Verge Skip to main content The homepage The Verge The Verge logo. The homepage The Verge The Verge logo. Notifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo. Login / Sign Up\nComments Loading comments Getting the conversation ready... Policy\nA bipartisan coalition of AGs say Character.AI is planning to sell the personal data of minors to the highest bidder.\nA bipartisan coalition of AGs say Character.AI is planning to sell the personal data of minors to the highest bidder.\nTerrence O'Brien Nov 26, 2026, 9:54 AM UTC Link\nTerrence O'Brien is the Verge’s weekend editor. He’s covered the tech industry for over 18 years and knows a thing or two about synths. A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off “the private chat histories of more than 21 million U.S. accounts — more than 2.1 million of them registered to minors — with no safeguards for the people whose conversations are being sold.”\nIn October, Character.AI filed for bankruptcy following years of scandals and legal challenges , including from Disney . Disney ended up buying some of the company’s assets and hiring its CEO , Karandeep Anand, in a sort of “acquihire” arrangement that will also see “a number of Character.AI’s technical team” join the entertainment giant. The Disney deal also faced opposition from a similarly broad coalition of AGs.\nThe main point of contention with Character.AI’s plan to sell its chat data is that it offers no protections for users. The AGs say there are no requirements that the buyer honor existing privacy policies, no avenues for users to delete their data, and no inherent limits on what a buyer could do with that data, including selling it on to yet another party. It doesn’t help that the first bidder has a limited paper trail, having only been established on November 13th, 2026, with no parent company or investors listed.\nSome states, including New York, Connecticut, California, and Colorado, have also passed laws regulating chatbots that Character.AI may be in violation of when they go into effect on January 1st, 2027.\nThe absolute best Black Friday deals you can still get\nGrand Theft Auto VI is a different kind of GTA — so it needed a different kind of ending\nDisney Plus, Hulu, and HBO Max are all over 50 percent off for Black Friday\nWhy GTA VI’s version of Florida feels so real\nAndroid’s DIY widgets are a bit of vibe-coding fun\nThe Verge The Verge logo. Sign in to see your notifications or create an account to join the conversation.",
+ "id": "R3-2026-11-28",
+ "caption_final": "Is your business client data safe when stored on consumer AI chatbot accounts? Many small business owners use free consumer AI chatbots to draft client quotations, organize supplier notes, and log operations. However, when Character.AI filed for Chapter 11 bankruptcy, its liquidation plan included auctioning off chat records from over 21 million accounts to the highest bidder. Bankruptcy asset sales can void prior privacy promises, leaving chat histories accessible to unvetted buyers without user opt-out options. To keep business data safe, switch to enterprise API accounts that guarantee data retention contracts.\n\nComment DATA for our data safety checklist.\n\n#AIDataPrivacy #SmallBusinessSecurity #BusinessAutomation #DataProtection"
+}

@@ -1,0 +1,244 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Choosing the right AI model on Zapier: OpenAI vs Anthropic vs Gemini for specific business tasks",
+  "angle": "Stop using expensive frontier models for simple data formatting; match the model tier to your task to cut automation bills.",
+  "audience_problem": "Business owners select default expensive models in Zapier integrations, running up massive software bills for basic text tasks.",
+  "format": "manual_vs_auto",
+  "medium": "reel",
+  "source_ids": [
+   68
+  ],
+  "evergreen": true,
+  "keywords": [
+   "zapier ai models",
+   "api cost cutting",
+   "openai vs anthropic",
+   "automation ROI"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 8,
+   "hook_potential": 8,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 9,
+   "evidence": 9,
+   "viral": 8
+  },
+  "total": 8.45
+ },
+ "piece": {
+  "hooks": [
+   "Simple text data ke liye Premium AI models pe Zapier tasks waste mat karo.",
+   "Zapier automations mein har jagah mehenga AI model lagana band karo.",
+   "Zapier account ke tasks jaldi khatam ho rahe hain? Ye setting badlo.",
+   "Kya aap Zapier AI step mein default model use kar rahe ho?",
+   "Simple task ke liye 5 Zapier tasks waste karna band karo."
+  ],
+  "chosen_hook": 0,
+  "hook_reason": "Directly addresses the common mistake of burning Zapier task quotas on default high-tier models for basic tasks.",
+  "title": "Zapier AI Model Selection Guide",
+  "scenes": [
+   {
+    "purpose": "Hook to stop scroll on Zapier task wastage",
+    "narration": "Simple text data ke liye Premium AI models pe Zapier tasks waste mat karo.",
+    "on_screen": "Zapier Task Waste Stop",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Save Zapier Automation Tasks",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Explain task multiplier tiers",
+    "narration": "Zapier mein Standard model 1 task leta hai aur Premium model 5 tasks.",
+    "on_screen": "Standard vs Premium Tiers",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "Standard Tier",
+    "right_label": "Premium Tier",
+    "rows": [
+     {
+      "left": "1 Zapier task",
+      "right": "5 Zapier tasks"
+     },
+     {
+      "left": "Simple formatting",
+      "right": "Heavy reasoning"
+     }
+    ]
+   },
+   {
+    "purpose": "Provide low-cost model alternatives",
+    "narration": "Bulk content ke liye Gemini aur simple tasks ke liye GLM 5.2 $0.22 per task padta hai.",
+    "on_screen": "Cheaper Model Options",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Gemini: Bulk content work",
+     "GLM 5.2: $0.22 per task"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Explain BYOK task multiplier savings",
+    "narration": "Tool-heavy workflows mein BYOK use karo. 4 tool calls wala task 25 ki jagah 5 tasks lega.",
+    "on_screen": "BYOK Multiplier Saver",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "Enable BYOK option",
+     "Run 4 tool calls",
+     "Use 5 tasks total"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Payoff and comment hook",
+    "narration": "Model ko task ke according setup karo. Comment ZAPIER, main aapko exact model guide DM kar dunga.",
+    "on_screen": "Comment ZAPIER for Guide",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Comment ZAPIER Below",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "How to optimize AI model selection in Zapier to reduce automation task costs. Many business owners leave default Premium AI models running for simple data formatting steps, burning through Zapier task limits fast. AI by Zapier splits models into Standard (1 task), Advanced (3 tasks), and Premium (5 tasks). For bulk content, Gemini offers top performance at lower per-task costs, while GLM 5.2 costs just $0.22 per task for simple workflows. For tool-heavy steps, bringing your own API key (BYOK) cuts a 4-tool-call task from 25 tasks down to 5. Which AI model are you currently running in your Zapier zaps? Comment ZAPIER for the breakdown list.",
+  "hashtags": [
+   "#Zapier",
+   "#Automation",
+   "#BusinessAI",
+   "#AIWorkflow"
+  ],
+  "keywords": [
+   "Zapier AI models",
+   "Zapier task costs",
+   "BYOK Zapier",
+   "Gemini Zapier",
+   "AI automation cost"
+  ],
+  "claims": [
+   {
+    "claim": "AI by Zapier categorizes built-in models into task multiplier tiers: Standard uses 1 task, Advanced uses 3 tasks, and Premium uses 5 tasks.",
+    "source_id": 68
+   },
+   {
+    "claim": "GLM 5.2 lands at #112 on AutomationBench at $0.22 per task for lower-stakes automation.",
+    "source_id": 68
+   },
+   {
+    "claim": "Gemini models offer low per-task costs while dominating top leaderboard spots for content processing.",
+    "source_id": 68
+   },
+   {
+    "claim": "Using BYOK in a workflow with 4 tool calls costs 5 Zapier tasks, compared to 25 tasks under Premium built-in.",
+    "source_id": 68
+   }
+  ],
+  "dm_keyword": "ZAPIER",
+  "dm_text": "Zapier AI Model Selection Guide: 1. Standard Tier (1 task): Use for basic classification and simple data formatting. 2. Gemini Models: Best for heavy content processing at lower per-task cost. 3. GLM 5.2: Priced at $0.22 per task for lower-stakes automation. 4. BYOK (Bring Your Own Key): 4 tool calls cost 5 tasks instead of 25 tasks on Premium. Full guide: https://zapier.com/blog/ai-models-on-zapier"
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 8,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "AI by Zapier categorizes built-in models into task multiplier tiers: Standard uses 1 task, Advanced uses 3 tasks, and Premium uses 5 tasks.",
+    "supported": true,
+    "note": "Fully supported by source."
+   },
+   {
+    "claim": "GLM 5.2 lands at #112 on AutomationBench at $0.22 per task for lower-stakes automation.",
+    "supported": true,
+    "note": "Fully supported by source."
+   },
+   {
+    "claim": "Gemini models offer low per-task costs while dominating top leaderboard spots for content processing.",
+    "supported": true,
+    "note": "Fully supported by source."
+   },
+   {
+    "claim": "Using BYOK in a workflow with 4 tool calls costs 5 Zapier tasks, compared to 25 tasks under Premium built-in.",
+    "supported": true,
+    "note": "Fully supported by source example."
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [
+   "Scene 1: Top header text 'Zapier Task Waste Stop' reads awkwardly due to reversed word order."
+  ],
+  "issues": [
+   "Scene 1 header title phrasing could be reworded for better clarity (e.g., 'Stop Wasting Zapier Tasks')."
+  ],
+  "fix_instructions": "Change Scene 1 top header title from 'Zapier Task Waste Stop' to 'Stop Wasting Zapier Tasks' for cleaner phrasing. Otherwise, the reel is accurate, visually clear, and ready to publish."
+ },
+ "rules": [],
+ "reasons": [],
+ "meta": {
+  "duration": 34.1,
+  "voice": "edge",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-28/R2-2026-11-28/try4/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-28/R2-2026-11-28/try4/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-28/R2-2026-11-28/try4/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-28/R2-2026-11-28/try4/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-28/R2-2026-11-28/try4/scene_05.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   5.81,
+   5.67,
+   7.42,
+   7.61,
+   7.61
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-28/R2-2026-11-28/try4",
+ "attempt": 4,
+ "approved": true,
+ "hook": "Simple text data ke liye Premium AI models pe Zapier tasks waste mat karo.",
+ "log": [
+  "attempt 1: fail {'hook': 6, 'originality': 5, 'practical_value': 6, 'natural_language': 6, 'accuracy': 7, 'narrative': 6, 'visual_integrity': 5, 'pacing': 6, 'brand_consistency': 6, 'publish_readiness': 5} ['hook 6/10 (<8)', 'originality 5/10 (<8)', 'practical_value 6/10 (<8)', 'natural_language 6/10 (<8)']",
+  "attempt 2: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 8, 'publish_readiness': 8} ['scene 5 narration 19 words (want 4-14)']",
+  "attempt 3: fail {'hook': 8, 'originality': 8, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['scene 2: compare needs rows']",
+  "attempt 4: PASS {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 8, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} []"
+ ],
+ "material": "[68] Zapier Blog — Which AI models can you automate on Zapier? (OpenAI, Anthropic, Google, Moonshot AI, Z.ai, and more)\nURL: https://zapier.com/blog/ai-models-on-zapier\nStaying up to date on the latest AI models is like trying to keep my house vacuumed in the height of my dog's shedding season (a losing battle). New AI models drop practically every week, and it's not exactly obvious which ones deserve a spot in your workflows. This guide is your cheat sheet, with every model you can automate on Zapier right now, sorted by provider.\nIf you just want to cut to the chase and find out which model you should be using for which task, that's what AutomationBench is for. It's Zapier's own benchmark for how these models handle real, messy business workflows, so you can pick based on performance instead of hype.\nWhich AI models can you use with AI by Zapier?\nWhich AI models can you use on Zapier via direct integrations?\nBring your AI agent to the automation instead\nThere are two ways to bring AI models into your automated workflows: through Zapier's built-in AI step ( AI by Zapier ) or by using direct integrations with the provider.\nAI by Zapier packages dozens of models from OpenAI, Anthropic, Google, and more into one step, with no separate account or token billing—you just pay in Zapier tasks.\nDirect integrations connect straight to a provider's own account instead, trading that simplicity for a wider lineup. Think legacy GPT or DeepSeek models, billed by token through your own API key.\nOr, if you want to kick off workflows directly from your AI assistant, Zapier MCP lets you install Zapier in any MCP-compatible tool and start taking actions across 10,000+ tools straight from your chat window.\nBuild automations from wherever you work. Describe the outcome you want, and Zapier connects your tools, runs the steps, and stays on the job after you close the chat. Combine AI with reliable, deterministic automation across 10,000+ apps. Get started for free.\nWhich AI models can you use with AI by Zapier?\nAn AI by Zapier step is your best option for adding AI into deterministic workflows . You get access to nearly 40 models from OpenAI, Anthropic, Google, Meta, DeepSeek, Moonshot AI, and Z.ai with no separate account and no token billing. Whichever model you choose, you get structured output fields, knowledge sources, agentic tool calling, prompt templates, and one-click model swapping.\nYou don't even need a separate account to use these models—they're built into Zapier, and you pay using Zapier tasks, not provider tokens. The models are sorted into task multiplier tiers based on the cost of the underlying model: Standard models use 1 task, Advanced models use 3 tasks, and Premium models use 5 tasks.\n(If you prefer a model that isn't included by default, you can also bring your own key [BYOK] for a wider set of options inside AI by Zapier—more on that below.)\nOpenAI models are the broadest lineup on Zapier, spanning everything from ultra-cheap classification models to frontier reasoning models. The breadth of the lineup makes OpenAI the safest default when you're not sure which model a workflow needs.\nBest for: Coding and complex operations work\nClaude is built to be careful and enterprise-safe, which is why companies like Slack, Notion, and Zoom have partnered with Anthropic directly. On Zapier's official AutomationBench leaderboard, Claude Fable 5.2 is Anthropic's top performer, ranking #7 overall at max effort ($4.64 per task), though you'll need your own API key to use it in AI by Zapier. Claude Sonnet 5.5 ranks #16 overall, at $1.14 per task. I recommend reaching for Claude when a workflow needs careful multi-step judgment, not just speed.\nGemini models offer some of the lowest per-task costs on Zapier—while still competing with the other state-of-the-art models on power. That makes Gemini the default choice when you're processing a lot of content and cost is the priority. Google's newest models hold the top five spots, and eight of the top ten, on Zapier's official AutomationBench leaderboard: Gemini 4 Neon takes #1, #2, and #4, and Gemini 4 Carbon takes #3 and #5. Gemini 4 Argon and Gemini 4 Hydrogen also make the top ten, though Argon comes at a higher cost per task.\nKimi (from MoonshotAI) is a mixture-of-experts model purpose-built for tool use and multi-step agent tasks, priced well below most proprietary frontier models. Kimi K3 currently ranks #58 overall on Zapier's official AutomationBench leaderboard, at a fraction of the cost of most proprietary frontier models ($0.43 per task).\nZ.ai's GLM family is priced well below proprietary frontier models, which makes it a solid pick for straightforward, lower-stakes automation. GLM 5.2 lands at #112 on the official AutomationBench leaderboard—behind Kimi and the frontier proprietary models—so it's a better fit for straightforward, lower-stakes automation than complex, multi-step work. At $0.22 per task, it's one of the cheapest options on the board either way.\nMeta's Muse Spark and Wonder models are the Facebook parent company's response to OpenAI, Anthropic, and Google Gemini.\nDeepSeek is a cost-efficient open-weight model with strong coding and reasoning chops, popular for technical workflows on a budget.\nTeams already running infrastructure in AWS often pick Bedrock so AI automation stays inside the security and compliance boundary their IT team has already vetted, with usage tracked under existing AWS access controls and spend commitments instead of a new vendor relationship.\nBedrock uses the AI models your company has already set up in Amazon Bedrock. The exact models depend on what's enabled in your AWS account and region.\nAzure OpenAI is a common pick for regulated industries because it wraps the same underlying models in Microsoft's enterprise-grade security and compliance certifications, so your data stays inside your company's private Azure tenant instead of routing through a separate AI vendor.\nAzure uses the AI models you've already set up in your own Azure OpenAI account. The exact models depend on what your Azure admin has turned on.\nIf you want to use a model that isn't built into AI by Zapier, you can also bring your own key (BYOK) for your preferred model. Models from OpenAI, Anthropic, and Google can all be used with BYOK—and some require it.\nWith BYOK, you'll use your own API key and pay the provider directly for tokens. If you don't know what that means, just pick one of the built-in models and move on. But if you're considering BYOK, these are the main benefits:\nCost control on tool-heavy workflows. BYOK runs at a 1x task multiplier even when a step makes multiple tool calls, compared to 3x on built-in Advanced models or 5x on built-in Premium models. A BYOK step with 4 tool calls would cost 5 Zapier tasks (1 for the BYOK, 1 for each tool call), while the same workflow on Premium would cost 25 (5 for the BYOK, 5 for each tool call).\nAccess to models that aren't in the default lineup, including newer models like GPT-6 Astra, Claude Fable 5.2, and Gemini 4 Argon, and legacy models like o3 and GPT-5.5.\nControl over content moderation. You can also turn off Zapier's built-in c",
+ "id": "R2-2026-11-28",
+ "caption_final": "How to optimize AI model selection in Zapier to reduce automation task costs. Many business owners leave default Premium AI models running for simple data formatting steps, burning through Zapier task limits fast. AI by Zapier splits models into Standard (1 task), Advanced (3 tasks), and Premium (5 tasks). For bulk content, Gemini offers top performance at lower per-task costs, while GLM 5.2 costs just $0.22 per task for simple workflows. For tool-heavy steps, bringing your own API key (BYOK) cuts a 4-tool-call task from 25 tasks down to 5. Which AI model are you currently running in your Zapier zaps? Comment ZAPIER for the breakdown list.\n\n#Zapier #Automation #BusinessAI #AIWorkflow"
+}

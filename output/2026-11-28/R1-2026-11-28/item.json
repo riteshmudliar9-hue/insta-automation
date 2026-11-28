@@ -1,0 +1,215 @@
+{
+ "kind": "reel",
+ "idea": {
+  "idea": "Preventing AI customer bots from making unauthorized financial commitments or promises",
+  "angle": "Why giving AI bots decision power on rent, pricing, or terms without fallback rules leads to legal risk",
+  "audience_problem": "A landlord's AI assistant promised a tenant extended payment deadlines, leading to wrongful eviction lawsuits and legal liability.",
+  "format": "problem_fix",
+  "medium": "both",
+  "source_ids": [
+   21
+  ],
+  "evergreen": true,
+  "keywords": [
+   "AI customer service",
+   "bot hallucination",
+   "legal liability",
+   "business rules"
+  ],
+  "scores": {
+   "relevance": 9,
+   "novelty": 8,
+   "hook_potential": 9,
+   "retention": 8,
+   "save_share": 9,
+   "feasibility": 9,
+   "evidence": 9,
+   "viral": 9
+  },
+  "total": 8.78
+ },
+ "piece": {
+  "hooks": [
+   "WhatsApp AI bot ko rent ya payment deadline change karne mat do.",
+   "Customer AI bot se rent extension le gaya, aur landlord case har gaya.",
+   "Landlord ke AI assistant ne tenant ko rent delay karne ki permission de di.",
+   "Aapka AI customer assistant bina permission billing terms change kar sakta hai.",
+   "AI bot ke galat payment promises aapko legal trouble mein daal sakte hain."
+  ],
+  "chosen_hook": 2,
+  "hook_reason": "Uses a real case from the source material to highlight legal liability, creating high urgency for small business owners.",
+  "title": "Prevent AI Bots From Making Payment Promises",
+  "scenes": [
+   {
+    "purpose": "Hook",
+    "narration": "Landlord ke AI assistant ne tenant ko rent delay karne ki permission de di.",
+    "on_screen": "AI Rent Promise Risk",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "AI Bot Made Wrong Rent Promise",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Explain problem and legal consequences",
+    "narration": "Is galat promise ki wajah se eviction aur legal liability ka case ho gaya.",
+    "on_screen": "Legal Liability Case",
+    "visual_type": "diagram",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [
+     "AI promises delay",
+     "Tenant delays payment",
+     "Eviction legal dispute"
+    ],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Actionable decision rule",
+    "narration": "Customer bots ko payment discount ya timeline decide karne ki permission mat do.",
+    "on_screen": "No AI Payment Deciding",
+    "visual_type": "compare",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [],
+    "left_label": "Manual Rule",
+    "right_label": "AI Bot Rule",
+    "rows": [
+     {
+      "left": "Human approves delay",
+      "right": "AI gives info only"
+     }
+    ]
+   },
+   {
+    "purpose": "Concrete practical setup",
+    "narration": "Bot ko sirf FAQ answers ke liye rakho, payment rules strict rakho.",
+    "on_screen": "Strict Guardrails",
+    "visual_type": "checklist",
+    "url": "",
+    "query": "",
+    "headline": "",
+    "steps": [],
+    "items": [
+     "Restrict payment terms",
+     "Human fallback for delays",
+     "Log customer chats"
+    ],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   },
+   {
+    "purpose": "Payoff and comment call to action",
+    "narration": "Comment BOT, main aapko bot guardrail checklist DM kar dunga.",
+    "on_screen": "Comment BOT Now",
+    "visual_type": "text",
+    "url": "",
+    "query": "",
+    "headline": "Get Guardrail Checklist",
+    "steps": [],
+    "items": [],
+    "left_label": "",
+    "right_label": "",
+    "rows": []
+   }
+  ],
+  "caption": "How to prevent your customer AI chatbot from making legal or payment promises.\n\nIf you use an AI assistant for customer support or tenant queries, set hard limits on what it can promise. In a documented case, a landlord AI assistant told a tenant she could delay rent payment, leading to eviction disputes and legal liability. To avoid this in your shop or rental business, configure your bot only to answer general FAQs and route payment extension requests directly to a human.\n\nHave you set strict guardrails on your WhatsApp or web customer bots?\n\nComment BOT for the full AI safety checklist.",
+  "hashtags": [
+   "#AIBotSafety",
+   "#SmallBusinessIndia",
+   "#AutomationTips",
+   "#BusinessTech"
+  ],
+  "keywords": [
+   "AI chatbot rules",
+   "customer bot liability",
+   "business automation safety",
+   "rent payment bot",
+   "Indian business software"
+  ],
+  "claims": [
+   {
+    "claim": "A landlord's AI assistant told a tenant she could delay rent, which led to eviction disputes and legal liability issues.",
+    "source_id": 21
+   }
+  ],
+  "dm_keyword": "BOT",
+  "dm_text": "Here is the AI Bot Safety Checklist for business owners: 1. Restrict AI permissions: Never allow chatbots to grant discounts, extend payment due dates, or alter payment terms. 2. Add human fallback: Route any billing or delay queries directly to a human team member. 3. Maintain chat logs: Keep record of customer interactions to prevent unauthorized commitments."
+ },
+ "review": {
+  "scores": {
+   "hook": 8,
+   "originality": 7,
+   "practical_value": 8,
+   "natural_language": 8,
+   "accuracy": 9,
+   "narrative": 8,
+   "visual_integrity": 9,
+   "pacing": 8,
+   "brand_consistency": 9,
+   "publish_readiness": 8
+  },
+  "claims": [
+   {
+    "claim": "A landlord's AI assistant told a tenant she could delay rent, which led to eviction disputes and legal liability issues.",
+    "supported": true,
+    "note": "Supported directly by the source article documenting the real-world eviction dispute caused by an AI assistant's promise."
+   }
+  ],
+  "spelling_errors": [],
+  "visual_issues": [],
+  "issues": [],
+  "fix_instructions": "This reel is ready to publish. No edits required."
+ },
+ "rules": [
+  "scene 3: compare needs rows"
+ ],
+ "reasons": [
+  "scene 3: compare needs rows",
+  "reel is 68.9 s long (max 45 s; aim for 15-35 s)"
+ ],
+ "meta": {
+  "duration": 68.9,
+  "voice": "gemini",
+  "scene_previews": [
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-28/R1-2026-11-28/try3/scene_01.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-28/R1-2026-11-28/try3/scene_02.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-28/R1-2026-11-28/try3/scene_03.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-28/R1-2026-11-28/try3/scene_04.jpg",
+   "/home/runner/work/insta-automation/insta-automation/output/2026-11-28/R1-2026-11-28/try3/scene_05.jpg"
+  ],
+  "fallback_visuals": 0,
+  "ai_visuals": false,
+  "scene_durations": [
+   13.67,
+   13.8,
+   12.79,
+   14.42,
+   14.19
+  ]
+ },
+ "dir": "/home/runner/work/insta-automation/insta-automation/output/2026-11-28/R1-2026-11-28/try3",
+ "attempt": 3,
+ "approved": false,
+ "hook": "Landlord ke AI assistant ne tenant ko rent delay karne ki permission de di.",
+ "log": [
+  "attempt 1: fail {'hook': 8, 'originality': 7, 'practical_value': 7, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 7, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 7} ['originality 7/10 (<8)', 'practical_value 7/10 (<8)', 'visual_integrity 7/10 (<8)', 'reel is 56.2 s long (max 45 s; aim for 15-35 s)']",
+  "attempt 2: rules failed: ['scene 2: compare needs rows', 'scene 6 narration 19 words (want 4-14)']",
+  "attempt 3: fail {'hook': 8, 'originality': 7, 'practical_value': 8, 'natural_language': 8, 'accuracy': 9, 'narrative': 8, 'visual_integrity': 9, 'pacing': 8, 'brand_consistency': 9, 'publish_readiness': 8} ['scene 3: compare needs rows', 'reel is 68.9 s long (max 45 s; aim for 15-35 s)']",
+  "attempt 4: fail {'hook': 7, 'originality': 8, 'practical_value': 6, 'natural_language': 7, 'accuracy': 9, 'narrative': 7, 'visual_integrity': 6, 'pacing': 7, 'brand_consistency': 8, 'publish_readiness': 6} ['hook 7/10 (<8)', 'practical_value 6/10 (<8)', 'natural_language 7/10 (<8)', 'narrative 7/10 (<8)']"
+ ],
+ "material": "[21] Hacker News — Woman evicted after landlord's AI assistant told her she could delay rent\nURL: https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai\nArticle URL: https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai Comments URL: https://news.ycombinator.com/item?id=50673521 Points: 133 # Comments: 104",
+ "id": "R1-2026-11-28",
+ "caption_final": "How to prevent your customer AI chatbot from making legal or payment promises.\n\nIf you use an AI assistant for customer support or tenant queries, set hard limits on what it can promise. In a documented case, a landlord AI assistant told a tenant she could delay rent payment, leading to eviction disputes and legal liability. To avoid this in your shop or rental business, configure your bot only to answer general FAQs and route payment extension requests directly to a human.\n\nHave you set strict guardrails on your WhatsApp or web customer bots?\n\nComment BOT for the full AI safety checklist.\n\n#AIBotSafety #SmallBusinessIndia #AutomationTips #BusinessTech"
+}
