@@ -6275,9 +6275,11 @@
    "brand_consistency": 9,
    "publish_readiness": 8
   },
-  "status": "queued",
+  "status": "published",
   "produced_at": 1795845517,
-  "log": [],
+  "log": [
+   "2026-11-28T23:21:46.167543+05:30 published https://www.instagram.com/reel/DgS1X4JBoFi/"
+  ],
   "dm_keyword": "DATA",
   "dm_text": "Here is your AI Data Protection Checklist for business owners: 1. Never paste proprietary client notes, GST numbers, or supplier pricing into consumer AI chat accounts. 2. When an AI startup enters Chapter 11 bankruptcy, user chat logs can be auctioned off to third-party buyers without user consent. 3. Buyers in bankruptcy sales are not legally required to honor the original privacy policies. 4. Use enterprise API tiers with explicit Zero-Data Retention (ZDR) agreements or self-hosted local models to keep your business data private.",
   "presenter": {
@@ -6290,7 +6292,7 @@
      "line": "Kya aapka client data kisi AI startup ke bankruptcy mein open market mein neelam ho sakta hai?",
      "visual_scene": -1,
      "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: medium close-up with a slow, smooth push-in towards his face. Leans in slightly towards the camera with a serious inquiring expression. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Kya aapka client data kisi AI startup ke bankruptcy mein open market mein neelam ho sakta hai?\" No subtitles, no on-screen text, no music, no other people.",
-     "msg_id": null,
+     "msg_id": 766,
      "file": null,
      "got_msg": null
     },
@@ -6301,7 +6303,7 @@
      "line": "Character AI bankruptcy mein 21 million user chats auction ho rahe hain, buyer privacy policy nahi maanta.",
      "visual_scene": -1,
      "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: medium shot from slightly to his left (about 20 degrees), camera steady. Raises one finger to emphasize the critical point about privacy terms. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Character AI bankruptcy mein 21 million user chats auction ho rahe hain, buyer privacy policy nahi maanta.\" No subtitles, no on-screen text, no music, no other people.",
-     "msg_id": null,
+     "msg_id": 767,
      "file": null,
      "got_msg": null
     },
@@ -6311,7 +6313,7 @@
      "cover": 2,
      "desc": "close-up of hands typing customer details on a laptop keyboard next to paper bills on a shop counter",
      "prompt": "Create a realistic vertical 9:16 video of about 8 seconds: close-up of hands typing customer details on a laptop keyboard next to paper bills on a shop counter. Indian small-business setting, warm natural light, handheld smartphone-camera look, slow subtle camera movement, shallow depth of field. No faces, no readable text, no brand names or logos, no subtitles, no speech, no music.",
-     "msg_id": null,
+     "msg_id": 768,
      "file": null,
      "got_msg": null
     },
@@ -6322,7 +6324,7 @@
      "line": "Business safety ke liye enterprise APIs use karo. Comment DATA, main aapko privacy checklist DM kar dunga.",
      "visual_scene": -1,
      "prompt": "Animate this exact photo into a realistic vertical 9:16 video of about 8 seconds. Keep his face, hair, beard, navy overshirt, white t-shirt and the plain cream background exactly the same as the photo. Camera: close-up, camera steady at eye level. Smiles and points directly towards the viewer at the camera. Natural blinks, realistic skin and teeth, soft natural lighting. He speaks in a warm, confident young Indian male voice speaking natural Hinglish (Hindi-English mix) with a natural Indian accent, at a lively but clear pace, saying exactly: \"Business safety ke liye enterprise APIs use karo. Comment DATA, main aapko privacy checklist DM kar dunga.\" No subtitles, no on-screen text, no music, no other people.",
-     "msg_id": null,
+     "msg_id": 769,
      "file": null,
      "got_msg": null
     }
@@ -6442,8 +6444,13 @@
    ],
    "composed_from": null,
    "hook_title": "Is Your AI Data Safe?",
-   "cta": "Comment DATA for privacy checklist"
-  }
+   "cta": "Comment DATA for privacy checklist",
+   "prompts_sent": true,
+   "prompts_sent_at": 1795888313
+  },
+  "media_id": "18147561544890498",
+  "permalink": "https://www.instagram.com/reel/DgS1X4JBoFi/",
+  "published_at": "2026-11-28T23:21:46.167543+05:30"
  },
  {
   "id": "R2-2026-11-28",
